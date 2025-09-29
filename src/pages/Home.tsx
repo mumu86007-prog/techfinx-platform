@@ -15,9 +15,7 @@ import {
 } from 'lucide-react'
 import PageHero from '../sections/PageHero'
 
-// 仿照小虎社区的信息流卡片，构建首页内容结构
-
-const insightTabs = ['All', 'XiaoHu.AI 日报', '行业动态', '产品发布', '研究报告'] as const
+const insightTabs = ['全部', 'TechFinX 日报', '行业动态', '产品发布', '研究报告'] as const
 
 type InsightCategory = (typeof insightTabs)[number]
 
@@ -42,11 +40,11 @@ const insightItems: InsightItem[] = [
     summary:
       'Gemini 2.5 Flash-Lite 推动“即时界面”，系统根据用户行为临时生成工具面板，探索下一代人机交互范式。',
     cover: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=960&q=80',
-    author: 'xiaohu.AI 团队',
+    author: 'TechFinX 情报组',
     timeAgo: '3 小时前',
     metrics: { likes: 62, bookmarks: 24 },
-    category: 'XiaoHu.AI 日报',
-    link: 'https://www.xiaohu.ai/c/xiaohu-ai',
+    category: 'TechFinX 日报',
+    link: '#',
     tags: ['界面生成', 'AI 操作系统', 'Gemini 2.5'],
     content: [
       'Google 团队用 Gemini 2.5 Flash-Lite 做了一个概念实验，人机交互不再靠死板菜单，而是 AI 根据行为实时生成界面。',
@@ -59,11 +57,11 @@ const insightItems: InsightItem[] = [
     title: 'Gemini 2.5 Flash 系列升级：多模态推理时延下降 32%',
     summary: '聚焦金融风控与客服场景，提供低功耗推理方案，支持实时决策与风险评估。',
     cover: 'https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=960&q=80',
-    author: 'TechFinX 观察组',
+    author: 'TechFinX 产品观察',
     timeAgo: '今日 09:15',
     metrics: { likes: 48, bookmarks: 31 },
     category: '产品发布',
-    link: '/hot',
+    link: '#',
     tags: ['产品升级', '实时推理', '低时延'],
     content: [
       'Gemini Flash 升级后对多模态推理的响应时间缩短 32%，在智能客服、风控模型中可以显著降低排队等待。',
@@ -76,11 +74,11 @@ const insightItems: InsightItem[] = [
     title: 'Google DeepMind 推出智能机器人模型：主动思考与自主执行',
     summary: '服务金融线下网点的运营辅助场景，可拆解任务并结合环境信息自我规划步骤。',
     cover: 'https://images.unsplash.com/photo-1581091870627-3a4c98071b37?auto=format&fit=crop&w=960&q=80',
-    author: 'AI FinLab',
+    author: 'TechFinX 行业研究',
     timeAgo: '昨日',
     metrics: { likes: 35, bookmarks: 19 },
     category: '行业动态',
-    link: '/deep-dive',
+    link: '#',
     tags: ['机器人', '自动执行', '运营效率'],
     content: [
       'DeepMind 公布的机器人模型可以在理解环境的情况下自主执行任务，适合复杂、动态的操作场景。',
@@ -93,11 +91,11 @@ const insightItems: InsightItem[] = [
     title: 'OpenAI 推出 ChatGPT Pulse：从被动回答升级为“主动助手”',
     summary: '自动抓取日程、邮件、文档触发提醒，金融机构可通过插件扩展内部流程。',
     cover: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=960&q=80',
-    author: 'Product Radar',
+    author: 'TechFinX 产品雷达',
     timeAgo: '2 天前',
     metrics: { likes: 54, bookmarks: 27 },
     category: '产品发布',
-    link: '/resources',
+    link: '#',
     tags: ['主动助手', '流程自动化', '客户成功'],
     content: [
       'ChatGPT Pulse 让助手能主动查看你的上下文，比如邮件或文档，并在合适时机提醒或代办。',
@@ -110,11 +108,11 @@ const insightItems: InsightItem[] = [
     title: 'Google 发布 AP2 支付协议：AI 助手可安全帮你自动花钱',
     summary: '针对数字银行与财富管理，强调授权与审计机制，为投顾机器人开放支付接口。',
     cover: 'https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=960&q=80',
-    author: 'FinTech Insider',
+    author: 'TechFinX 研究社',
     timeAgo: '1 周前',
     metrics: { likes: 41, bookmarks: 18 },
     category: '研究报告',
-    link: '/about',
+    link: '#',
     tags: ['支付协议', '授权系统', '金融合规'],
     content: [
       'AP2 协议允许 AI 助手在获得用户授权后执行支付指令，流程透明可追溯。',
@@ -125,11 +123,11 @@ const insightItems: InsightItem[] = [
 ]
 
 const Home = () => {
-  const [activeTab, setActiveTab] = useState<InsightCategory>('All')
+  const [activeTab, setActiveTab] = useState<InsightCategory>('全部')
   const [selectedItem, setSelectedItem] = useState<InsightItem | null>(null)
 
   const filteredItems = useMemo(() => {
-    if (activeTab === 'All') return insightItems
+    if (activeTab === '全部') return insightItems
     return insightItems.filter((item) => item.category === activeTab)
   }, [activeTab])
 
