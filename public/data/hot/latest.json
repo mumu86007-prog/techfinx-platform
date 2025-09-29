@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2025-09-29T03:26:51.024Z",
+  "generatedAt": "2025-09-29T10:28:02.257Z",
   "sources": [
     "Financial Times · Fintech",
     "Hong Kong Monetary Authority · Press Releases"
   ],
   "entries": [
+    {
+      "source": "Financial Times · Fintech",
+      "title": "The graduate ‘jobpocalypse’:  Where have all the entry-level jobs gone? | FT Working It",
+      "link": "https://www.ft.com/content/62e7cf87-1ebe-41fd-9d15-dd0a75ad4d86",
+      "publishedAt": "2025-09-29T09:21:27.000Z",
+      "summary": "The promise of AI’s workplace abilities amid economic uncertainties have caused many companies to take pause"
+    },
+    {
+      "source": "Financial Times · Fintech",
+      "title": "There’s serious money to be made from cyber hacking",
+      "link": "https://www.ft.com/content/4f23d0b0-508a-4834-9331-5adcdea377be",
+      "publishedAt": "2025-09-29T04:00:25.000Z",
+      "summary": "A behind-the-scenes look at the work of Rutherford Hall, critical communications strategist"
+    },
+    {
+      "source": "Financial Times · Fintech",
+      "title": "Advisers claim HMRC ‘smoke and mirrors’ over use of AI to assess R&D tax claims",
+      "link": "https://www.ft.com/content/2f094269-ceaa-4cca-bb9c-343c3575eeea",
+      "publishedAt": "2025-09-29T04:00:16.000Z",
+      "summary": "Individual caseworkers’ use of new technology raises questions about tax authority’s denials"
+    },
+    {
+      "source": "Financial Times · Fintech",
+      "title": "Brush up your morning routine with one of these magic gadgets ",
+      "link": "https://www.ft.com/content/047d20fe-b901-4c3d-a1eb-6ff1091d9285",
+      "publishedAt": "2025-09-29T04:00:16.000Z",
+      "summary": "Tech to make getting out of bed a little easier"
+    },
+    {
+      "source": "Financial Times · Fintech",
+      "title": "AI groups bet on world models in race for ‘superintelligence’",
+      "link": "https://www.ft.com/content/ae1c6de2-691e-448d-8bf3-8837cc1e6efb",
+      "publishedAt": "2025-09-29T04:00:16.000Z",
+      "summary": "Google DeepMind, Meta and Nvidia are developing systems that aim to better understand the physical world"
+    },
+    {
+      "source": "Financial Times · Fintech",
+      "title": "The graduate 'jobpocalypse':  Where have all the entry-level jobs gone?",
+      "link": "https://www.ft.com/video/03f66445-658f-48d4-b0c3-15bc5f0e2f87",
+      "publishedAt": "2025-09-29T04:00:00.000Z",
+      "summary": "The promise of AI’s workplace abilities amid economic uncertainties have caused many companies to take pause"
+    },
     {
       "source": "Financial Times · Fintech",
       "title": "European defence tech investor gets boost as geopolitical tensions persist",
@@ -32,48 +74,6 @@
       "link": "https://www.ft.com/content/b6d9fb9c-901e-42e3-9610-5a449247fd49",
       "publishedAt": "2025-09-28T05:01:05.000Z",
       "summary": "Donald Trump’s ambassador to EU says no US president can ‘allow these kinds of infringements’ on American companies"
-    },
-    {
-      "source": "Financial Times · Fintech",
-      "title": "German AI start-up in funding talks at $4bn valuation",
-      "link": "https://www.ft.com/content/299ddb72-1ae7-4691-bf6b-cd0229bbb04f",
-      "publishedAt": "2025-09-28T04:00:19.000Z",
-      "summary": "Black Forest Labs explores raising between $200mn and $300mn"
-    },
-    {
-      "source": "Financial Times · Fintech",
-      "title": "AI could give Silicon Valley financiers a run for their money",
-      "link": "https://www.ft.com/content/7314c8de-98f3-4e65-83e6-b31a358bf4bc",
-      "publishedAt": "2025-09-28T04:00:10.000Z",
-      "summary": "But a technology that uses past data to predict the future might not be reliable at identifying mega-profitable outliers"
-    },
-    {
-      "source": "Financial Times · Fintech",
-      "title": "Jaguar Land Rover wins £1.5bn UK loan support after cyber attack",
-      "link": "https://www.ft.com/content/ae3c68c9-5989-46cc-979c-fada35d77b3d",
-      "publishedAt": "2025-09-27T21:00:31.000Z",
-      "summary": "Government says guarantee from UK Export Finance will protect the automotive supply chain"
-    },
-    {
-      "source": "Financial Times · Fintech",
-      "title": "Jony Ive’s latest lightbulb moment? A sailing lantern",
-      "link": "https://www.ft.com/content/a7f970a6-d4c6-4ca2-ab6c-0022be388c65",
-      "publishedAt": "2025-09-27T04:00:40.000Z",
-      "summary": "The designer has joined forces with cult Japanese brand Balmuda to create a new seafaring lamp"
-    },
-    {
-      "source": "Financial Times · Fintech",
-      "title": "Will AI free us from life’s tedious admin?",
-      "link": "https://www.ft.com/content/4665b369-4a46-4cf9-9c9b-bc6a6eedf0c1",
-      "publishedAt": "2025-09-27T04:00:40.000Z",
-      "summary": "I hold out hope that tech can work for us rather than the other way around"
-    },
-    {
-      "source": "Financial Times · Fintech",
-      "title": "How to digitise your life admin in four easy steps",
-      "link": "https://www.ft.com/content/e36e4ae1-deca-40e5-8714-b5a0a4df89ce",
-      "publishedAt": "2025-09-27T04:00:22.000Z",
-      "summary": "A house move forced me to shred 120kg of paperwork, but I am so glad I did"
     }
   ]
 }
