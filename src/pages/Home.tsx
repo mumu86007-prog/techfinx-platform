@@ -1,7 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Helmet } from 'react-helmet-async'
 import {
-  Activity,
   ArrowUpRight,
   CalendarCheck,
   BarChart3,
@@ -9,11 +8,9 @@ import {
   Flame,
   ListChecks,
   LineChart,
-  Users,
   Sparkles,
   Tag,
   Target,
-  TrendingUp,
   X,
 } from 'lucide-react'
 import { Link } from 'react-router-dom'
@@ -141,71 +138,50 @@ const defaultInsightItems: InsightItem[] = [
   },
 ]
 
-const signalCards = [
+const readerJourney = [
   {
-    id: 'policy-tracker',
-    label: '监管预警',
-    metric: 'HKMA·今晨',
-    delta: '两条新指引',
-    caption: '第一时间拆解香港金管局公告，整理对银行及虚拟资产机构的影响。',
+    stage: '01 · 当日必须知道',
+    channel: '科技与策略速览',
+    objective: '精选生成式 AI、支付科技、智能投研等关键动态，解释对业务指标与用户体验的直接影响。',
+  },
+  {
+    stage: '02 · 抓住增长窗口',
+    channel: '市场与资本洞察',
+    objective: '拆解头部金融科技企业的产品发布、出海计划与融资动向，提供可借鉴的商业化思路。',
+  },
+  {
+    stage: '03 · 立即落地执行',
+    channel: '工具与实战资料',
+    objective: '下载 AI 场景需求文档、决策流程图、数据看板模板，复制行业最佳实践到你的团队。',
+  },
+]
+
+const dailyHighlights = [
+  {
+    id: 'gen-ai',
+    title: 'AI 产品追踪：今日可直接应用的创新案例',
+    summary: '筛选银行、券商、保险在生成式 AI 上的最新落地方案，提炼业务效果、技术架构与部署成本，方便你快速评估可行性。',
+    cta: '查看 AI 案例库',
+    to: '/deep-dive',
     icon: LineChart,
   },
   {
-    id: 'capital-flow',
-    label: '资本动向',
-    metric: '3 亿美元',
-    delta: '最新融资',
-    caption: '追踪全球 FinTech 轮次与估值，帮助你判断赛道热度与下一步布局。',
+    id: 'funding',
+    title: '市场资金：全球金融科技融资与出海布局',
+    summary: '聚焦支付、数字银行、财资管理等赛道的融资数据与市场进入计划，分析资本偏好与潜在合作伙伴。',
+    cta: '解析融资趋势',
+    to: '/hot',
     icon: BarChart3,
   },
   {
-    id: 'product-watch',
-    label: '产品速览',
-    metric: '5 个上新',
-    delta: '本周精选',
-    caption: '筛选 AI、支付、风控等落地案例，给你可复用的产品灵感。',
+    id: 'workflow-kit',
+    title: '工具集：3 套 AI+金融实操模板及时下载',
+    summary: '包含 AI 风控工作流、财富顾问洞察脚本、数据看板配置指南，让你把行业最佳实践快速复刻到自有产品。',
+    cta: '下载工具包',
+    to: '/resources',
     icon: Activity,
   },
-  {
-    id: 'workflow',
-    label: '运营指南',
-    metric: '3 套模版',
-    delta: '免费下载',
-    caption: '提供 KPI Dashboard、内容节奏表等工具，助你快速搭建增长流程。',
-    icon: Users,
-  },
 ]
-
-const readerJourney = [
-  {
-    stage: '01 · 快速锁定趋势',
-    channel: '热点追踪',
-    objective: '用 3 分钟读完政策、融资、技术三类事件，附上影响等级参考。',
-  },
-  {
-    stage: '02 · 深入理解场景',
-    channel: 'TechFinX 日报',
-    objective: '阅读分析稿件与数据图表，获取行业人士视角与实操建议。',
-  },
-  {
-    stage: '03 · 直接上手应用',
-    channel: '工具与资源',
-    objective: '下载模版、对照案例，落地到你的风控、运营或产品迭代计划。',
-  },
-]
-
-const seoSprint = {
-  weekly: [
-    '热点追踪：标记重点监管条款，附影响行业与应对策略。',
-    'TechFinX 日报：拆解一家金融科技公司最新增长亮点与可借鉴动作。',
-    '深度专栏：发布 AI 支付专辑第二篇，提供流程图与合规清单。',
-  ],
-  backlog: [
-    '获取「政策解读」速查表，快速确认合规要点。',
-    '关注「投融资周报」，了解资本侧对细分市场的态度。',
-    '收藏「内容节奏模版」，搭建自有媒体的生产/审核流程。',
-  ],
-}
 
 const seoDescription =
   '每日洞察金融科技前沿趋势，聚合热点、深度专栏与实用资源，帮助金融科技从业者快速决策与布局。'
@@ -329,94 +305,63 @@ const Home = () => {
       </Helmet>
 
       <PageHero
-        eyebrow="每日增长计划 · Day 1"
+        eyebrow="每日必读 · 实时更新"
         title="TechFinX 金融科技情报站"
-        description="我们从首页体验出发，梳理栏目价值与更新节奏，以产品化思路持续打磨内容资产，助你在金融科技赛道中保持前瞻洞察。"
+        description="聚合全球金融科技、生成式 AI、数字商业模式的最新落地案例与策略洞察，让你更快找到可执行的增长机会。"
         primaryAction={{ label: '查看今日重点', to: '/hot' }}
-        secondaryAction={{ label: '了解栏目规划', to: '/deep-dive' }}
+        secondaryAction={{ label: '获取工具与模板', to: '/resources' }}
       />
 
-      <section className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
-        {signalCards.map((item) => {
+      <section className="grid gap-6 xl:grid-cols-3">
+        {dailyHighlights.map((item) => {
           const Icon = item.icon
           return (
             <article
               key={item.id}
-              className="rounded-l border border-border bg-surface p-6 shadow-light transition hover:-translate-y-0.5 hover:shadow-heavy"
+              className="rounded-2xl border border-border bg-surface p-6 shadow-light transition hover:-translate-y-1 hover:shadow-heavy"
             >
-              <div className="flex items-center justify-between">
-                <span className="text-xs uppercase tracking-[0.3em] text-text-secondary">{item.label}</span>
+              <div className="flex items-center justify-between text-xs uppercase tracking-[0.3em] text-primary/80">
+                <span>今日精选</span>
                 <span className="rounded-full bg-primary/10 p-2 text-primary">
                   <Icon className="h-4 w-4" />
                 </span>
               </div>
-              <div className="mt-4 flex items-end justify-between">
-                <p className="text-3xl font-semibold text-text-primary">{item.metric}</p>
-                <span className="text-xs font-medium text-success">{item.delta}</span>
-              </div>
-              <p className="mt-3 text-sm leading-relaxed text-text-secondary">{item.caption}</p>
+              <h3 className="mt-4 text-xl font-semibold text-text-primary">{item.title}</h3>
+              <p className="mt-3 text-sm leading-relaxed text-text-secondary">{item.summary}</p>
+              <Link
+                to={item.to}
+                className="mt-5 inline-flex items-center gap-2 text-sm font-medium text-primary hover:underline"
+              >
+                {item.cta}
+                <ArrowUpRight className="h-4 w-4" />
+              </Link>
             </article>
           )
         })}
       </section>
 
       <section className="grid gap-6 md:grid-cols-3">
-        <div className="rounded-l border border-border bg-surface p-6 shadow-light">
-          <div className="flex items-center gap-3 text-primary">
-            <TrendingUp className="h-5 w-5" />
-            <span className="text-xs font-semibold uppercase tracking-[0.3em]">今日热度</span>
-          </div>
-          <h3 className="mt-4 text-2xl font-semibold text-text-primary">快速掌握监管与行业情绪</h3>
-          <p className="mt-2 text-sm text-text-secondary">
-            当天最重要的政策、技术与融资动态都会集中呈现，附上影响等级和可能的应对建议，帮你 5 分钟锁定风险与机会。
-          </p>
-          <div className="mt-4 flex flex-col gap-2 text-xs text-text-secondary/80">
-            <p>· 自动抓取 FT、HKMA 等权威源，保证资讯及时而可信。</p>
-            <p>· 每条卡片标注影响等级，方便你判断是否需要立即行动。</p>
-          </div>
-        </div>
-        <div className="rounded-l border border-border bg-surface p-6 shadow-light">
-          <div className="flex items-center gap-3 text-secondary">
-            <Activity className="h-5 w-5" />
-            <span className="text-xs font-semibold uppercase tracking-[0.3em]">活跃栏目</span>
-          </div>
-          <h3 className="mt-4 text-2xl font-semibold text-text-primary">按场景找到你要的内容</h3>
-          <p className="mt-2 text-sm text-text-secondary">
-            无论你关注监管趋势、产品案例还是工具方法，都能在对应栏目里快速定位，减少无效检索时间。
-          </p>
-          <div className="mt-4 flex flex-col gap-2 text-xs text-text-secondary/80">
-            <p>· 热点追踪、深度专栏、工具资源等栏目按日/周更新。</p>
-            <p>· 每个栏目都会提供推荐阅读路径，帮助你建立完整知识链路。</p>
-          </div>
-        </div>
-        <div className="rounded-l border border-border bg-gradient-to-br from-primary via-secondary to-primary/90 p-6 text-white shadow-medium">
-          <div className="flex items-center gap-3 text-white/80">
-            <Sparkles className="h-5 w-5" />
-            <span className="text-xs font-semibold uppercase tracking-[0.3em]">今日上线</span>
-          </div>
-          <h3 className="mt-4 text-2xl font-semibold">今日为你准备的亮点</h3>
-          <p className="mt-2 text-sm text-white/85">
-            新增热点信息流、互动详情页与栏目导览，帮助你从首页直接跳到最有价值的内容板块。
-          </p>
-          <div className="mt-4 space-y-2 text-xs text-white/75">
-            <p>· 点击卡片即可获取观点扩展与延伸阅读建议。</p>
-            <p>· 推荐关注「深度专栏」「工具资源」，为项目执行提供灵感。</p>
-          </div>
-        </div>
+        {readerJourney.map((step) => (
+          <article key={step.stage} className="rounded-2xl border border-border bg-surface p-6 shadow-light">
+            <p className="text-xs uppercase tracking-[0.3em] text-primary/70">{step.stage}</p>
+            <h3 className="mt-3 text-xl font-semibold text-text-primary">{step.channel}</h3>
+            <p className="mt-3 text-sm text-text-secondary">{step.objective}</p>
+          </article>
+        ))}
       </section>
 
       <section className="rounded-l border border-border bg-surface p-8 shadow-light">
         <div className="flex flex-col gap-6 lg:flex-row lg:items-start lg:justify-between">
           <div className="space-y-3">
             <p className="text-sm uppercase tracking-[0.35em] text-primary/80">体验路径 · Reader Journey</p>
-            <h2 className="text-2xl font-semibold text-text-primary">你在 TechFinX 一次就能收获三种信息</h2>
+            <h2 className="text-2xl font-semibold text-text-primary">今日访问：这三件事最值得先看</h2>
             <p className="text-sm text-text-secondary">
-              首先给你最紧迫的政策、融资、技术信号；接着用深度文章帮你看懂背后的逻辑；最后提供工具和模板，让你当天就可以把洞察带回团队执行。
+              从科技趋势洞察、市场机会到可复用的工具，我们把最核心的内容拆成三层，帮助你减少信息噪音，直接找到能带来业务价值的线索。"
             </p>
           </div>
           <div className="rounded-l border border-dashed border-primary/40 bg-primary/5 px-5 py-4 text-xs text-primary">
-            <p className="font-medium">如何快速使用</p>
-            <p>先读监管速览确认影响 → 参考深度解读获取观点 → 下载工具包落地到你的项目里。</p>
+            <p className="font-medium">今日快速路径</p>
+            <p>1. 科技速览确认关键趋势 · 2. 市场笔记评估商业机会 · 3. 下载工具包即刻落地。</p>
           </div>
         </div>
 
@@ -436,7 +381,10 @@ const Home = () => {
           <div className="flex flex-wrap items-center justify-between gap-4">
             <div>
               <p className="text-sm uppercase tracking-[0.35em] text-primary/80">实时情报流 · Insight Stream</p>
-              <h2 className="mt-2 text-2xl font-semibold text-text-primary">精选卡片式快讯</h2>
+              <h2 className="mt-2 text-2xl font-semibold text-text-primary">今日值得关注的 10 条金融科技动态</h2>
+              <p className="mt-1 text-xs text-text-secondary">
+                选择一个标签浏览对应主题，点击卡片即可展开详细解读、影响分析与延伸阅读建议。
+              </p>
             </div>
             <div className="inline-flex items-center gap-2 rounded-full border border-border px-3 py-1 text-xs text-text-secondary">
               <Flame className="h-3.5 w-3.5 text-primary" /> 自动每 30 分钟刷新
