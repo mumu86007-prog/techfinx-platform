@@ -2,10 +2,7 @@ import { useEffect, useState } from 'react'
 import { Helmet } from 'react-helmet-async'
 import {
   ArrowUpRight,
-  CalendarCheck,
   Flame,
-  Sparkles,
-  Target,
 } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import PageHero from '../sections/PageHero'
@@ -149,19 +146,6 @@ const readerJourney = [
     objective: '覆盖硅谷、中国科技公司的产品发布、战略调整和行业趋势，为业务布局提供参考。',
   },
 ]
-
-const seoSprint: { weekly: string[]; backlog: string[] } = {
-  weekly: [
-    '热点追踪：标记本周 AI 支付、智能风控相关的关键事件，附上可执行建议。',
-    'TechFinX 日报：拆解一家金融科技公司的增长动作，提供复用步骤。',
-    '深度专栏：更新主题系列第二篇，补充流程图、数据亮点与导流 CTA。',
-  ],
-  backlog: [
-    '完成「政策速览」模板，帮助用户快速确认合规要点。',
-    '整理「投融资周报」数据集，突出资本对细分赛道的态度。',
-    '扩充「内容节奏模板」工具，覆盖企划、审核、分发全流程。',
-  ],
-}
 
 const seoDescription =
   '每日洞察金融科技前沿趋势，聚合热点、深度专栏与实用资源，帮助金融科技从业者快速决策与布局。'
@@ -352,250 +336,28 @@ const Home = () => {
         </div>
       </section>
 
-      <section className="rounded-l border border-border bg-surface p-8 shadow-light">
-        <div className="mb-8 flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
-          <div>
-            <p className="text-sm uppercase tracking-[0.35em] text-primary">Content Pipeline</p>
-            <h2 className="mt-3 text-2xl font-semibold">今日上线内容优先级</h2>
-            <p className="mt-2 max-w-2xl text-sm text-text-secondary">
-              通过分阶段推进让 TechFinX 快速具备"日更 + 深度"内容节奏。每个模块都明确产出物和衡量标准，便于追踪进度与效果。
-            </p>
-          </div>
-          <a
-            href="mailto:Mumu86007@gmail.com"
-            className="inline-flex items-center gap-2 rounded-m border border-primary px-4 py-2 text-sm font-medium text-primary transition-colors hover:bg-primary hover:text-white"
-          >
-            需求协同 <ArrowUpRight className="h-4 w-4" />
-          </a>
-        </div>
-
-        <div className="grid gap-6 lg:grid-cols-3">
-          <article className="rounded-l border border-border bg-background/60 p-6 shadow-inner">
-            <div className="mb-4 flex items-center gap-2 text-primary">
-              <Sparkles className="h-4 w-4" />
-              <span className="text-xs font-semibold uppercase tracking-[0.2em]">今日交付</span>
-            </div>
-            <h3 className="text-lg font-semibold text-text-primary">首页内容架构</h3>
-            <p className="mt-2 text-sm text-text-secondary">
-              完成导航、顶部 Hero、价值区块、首页节奏信息，把"金融科技情报站"的定位讲清楚。
-            </p>
-            <ul className="mt-4 space-y-2 text-sm text-text-secondary/90">
-              <li>· 3 大信息模块（策略概览 / 节奏规划 / 数据面板）</li>
-              <li>· CTA 链接串联至热点与深度栏目</li>
-              <li>· 页面平均滚动深度目标：60%</li>
-            </ul>
-          </article>
-
-          <article className="rounded-l border border-border bg-background/60 p-6 shadow-inner">
-            <div className="mb-4 flex items-center gap-2 text-secondary">
-              <Target className="h-4 w-4" />
-              <span className="text-xs font-semibold uppercase tracking-[0.2em]">本周重点</span>
-            </div>
-            <h3 className="text-lg font-semibold text-text-primary">栏目内容矩阵</h3>
-            <p className="mt-2 text-sm text-text-secondary">
-              产出热点速览卡片、深度专栏提纲、资源推荐列表，形成可日更与沉淀并行的内容矩阵。
-            </p>
-            <ul className="mt-4 space-y-2 text-sm text-text-secondary/90">
-              <li>· 热点追踪：日更 3-5 条带指标快讯</li>
-              <li>· 深度专栏：周更 1 篇洞察 + 延伸讨论 CTA</li>
-              <li>· 资源库：整理工具、报告、数据源</li>
-            </ul>
-          </article>
-
-          <article className="rounded-l border border-border bg-background/60 p-6 shadow-inner">
-            <div className="mb-4 flex items-center gap-2 text-primary">
-              <CalendarCheck className="h-4 w-4" />
-              <span className="text-xs font-semibold uppercase tracking-[0.2em]">下阶段计划</span>
-            </div>
-            <h3 className="text-lg font-semibold text-text-primary">自动化与商业化</h3>
-            <p className="mt-2 text-sm text-text-secondary">
-              打通自动抓取 + 手动校正流程，配合 SEO 与广告位策略，持续放大 TechFinX 的商业价值。
-            </p>
-            <ul className="mt-4 space-y-2 text-sm text-text-secondary/90">
-              <li>· 爬虫管线 + CMS 后台联动</li>
-              <li>· SEO 策划：Topic Cluster & Schema</li>
-              <li>· Adsense 广告位：首页 Banner / 内容内嵌 / 侧边栏</li>
-            </ul>
-          </article>
-        </div>
-      </section>
-
-      <section className="grid gap-8 lg:grid-cols-[1.35fr,1fr]">
-        <article className="rounded-l border border-border bg-surface p-8 shadow-light">
-          <div className="mb-6 flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
-            <div>
-              <p className="text-sm uppercase tracking-[0.35em] text-primary/80">运营笔记</p>
-              <h2 className="mt-2 text-2xl font-semibold">频道内容更新节奏</h2>
-              <p className="mt-2 max-w-xl text-sm text-text-secondary">
-                保持"日更快讯 + 周度深度 + 月度主题"的节奏，使访客形成固定回访习惯，同时积累可搜索的长尾内容资产。
-              </p>
-            </div>
-            <div className="rounded-l border border-primary/30 bg-primary/5 px-4 py-3 text-xs text-primary">
-              今日已完成：Homepage Revamp
-            </div>
-          </div>
-
-          <div className="space-y-5">
-            <div className="flex items-start gap-4 rounded-l border border-border/80 bg-background/60 p-4">
-              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-sm font-semibold text-primary">
-                D
-              </div>
-              <div className="space-y-2 text-sm text-text-secondary">
-                <h3 className="text-base font-semibold text-text-primary">每日热点追踪</h3>
-                <p>
-                  实时抓取金融市场、AI应用、监管政策等热点资讯，每日自动更新最新内容，帮助用户快速掌握行业动态。
-                </p>
-              </div>
-            </div>
-
-            <div className="flex items-start gap-4 rounded-l border border-border/80 bg-background/60 p-4">
-              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-secondary/10 text-sm font-semibold text-secondary">
-                W
-              </div>
-              <div className="space-y-2 text-sm text-text-secondary">
-                <h3 className="text-base font-semibold text-text-primary">每周深度专题</h3>
-                <p>
-                  聚焦行业结构变化、新商业模式、监管动向等主题，产出深入分析文章，配合数据图表与延伸阅读，提升停留时长和收藏率。
-                </p>
-              </div>
-            </div>
-
-            <div className="flex items-start gap-4 rounded-l border border-border/80 bg-background/60 p-4">
-              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-sm font-semibold text-primary">
-                M
-              </div>
-              <div className="space-y-2 text-sm text-text-secondary">
-                <h3 className="text-base font-semibold text-text-primary">每月策略复盘</h3>
-                <p>
-                  汇总数据趋势、重点事件、成长指标和商业化成果，形成月度战报，为下一阶段策划提供依据。
-                </p>
-              </div>
-            </div>
-          </div>
-        </article>
-
-        <aside className="space-y-6">
-          <div className="rounded-l border border-border bg-surface p-6 shadow-light">
-            <h3 className="mb-3 text-base font-semibold text-text-primary">SEO 作战室 · Weekly Sprint</h3>
-            <div className="space-y-3 text-sm text-text-secondary">
-              {seoSprint.weekly.map((item, index) => (
-                <p key={item} className="flex items-start gap-3">
-                  <span className="mt-0.5 block h-2 w-2 rounded-full bg-primary" />
-                  <span>
-                    <span className="font-medium text-text-primary">Day {index + 1}</span>
-                    <span className="ml-2">{item}</span>
-                  </span>
-                </p>
-              ))}
-            </div>
-            <div className="mt-5 rounded-l border border-dashed border-border bg-background/70 p-4 text-xs text-text-secondary">
-              <p className="font-medium text-text-primary">Backlog</p>
-              <ul className="mt-2 space-y-1">
-                {seoSprint.backlog.map((task) => (
-                  <li key={task}>· {task}</li>
-                ))}
-              </ul>
-            </div>
-          </div>
-
-          <div className="rounded-l border border-border bg-surface p-6 shadow-light">
-            <h3 className="mb-3 text-base font-semibold text-text-primary">内容治理原则</h3>
-            <ul className="space-y-2 text-sm text-text-secondary">
-              <li>· 数据与观点双向验证，保证信息可信度。</li>
-              <li>· 栏目沿用统一语气、视觉，使品牌识别一致。</li>
-              <li>· 每篇内容包含 CTA，引导订阅、关注、合作等动作。</li>
-            </ul>
-          </div>
-
-          <div className="rounded-l border border-border bg-surface p-6 shadow-light">
-            <h3 className="mb-3 text-base font-semibold text-text-primary">快速 FAQ</h3>
-            <div className="space-y-4 text-sm text-text-secondary">
-              <div>
-                <p className="font-medium text-text-primary">Q：内容多久更新一次？</p>
-                <p>A：热点追踪日更；深度专栏周更；账号库与资源库按月维护。</p>
-              </div>
-              <div>
-                <p className="font-medium text-text-primary">Q：是否支持合作投稿？</p>
-                <p>
-                  A：支持。请发送内容提案至
-                  <a className="text-primary hover:underline" href="mailto:Mumu86007@gmail.com">
-                    Mumu86007@gmail.com
-                  </a>
-                  ，我们会在三个工作日内回复。
-                </p>
-              </div>
-              <div>
-                <p className="font-medium text-text-primary">Q：何时上线自动化抓取？</p>
-                <p>A：预计在完成手动 CMS 流程验证后，分阶段接入爬虫与数据同步。</p>
-              </div>
-            </div>
-          </div>
-        </aside>
-      </section>
-
-      <section className="rounded-l border border-border bg-primary/5 p-10 text-center shadow-light">
-        <div className="mx-auto max-w-3xl space-y-4">
-          <h2 className="text-3xl font-semibold text-text-primary">准备好和我们一起打造金融科技情报站了吗？</h2>
-          <p className="text-sm text-text-secondary">
-            每一次页面迭代、每篇内容上线，都是为了让金融科技从业者更快获取洞察。如果你有合作、投稿或需求交流，随时联系 TechFinX 团队。
-          </p>
-          <div className="flex flex-col justify-center gap-3 sm:flex-row">
-            <a
-              href="mailto:Mumu86007@gmail.com"
-              className="btn-primary inline-flex items-center justify-center rounded-m px-6 py-3 text-sm"
-            >
-              联系团队
-            </a>
-            <a
-              href="/hot"
-              className="btn-secondary inline-flex items-center justify-center rounded-m px-6 py-3 text-sm"
-            >
-              查看热点栏目
-            </a>
-          </div>
-        </div>
-      </section>
-
       {selectedItem && (
-        <div className="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto bg-black/30 px-4 py-10 backdrop-blur-sm">
-          <div className="relative w-full max-w-3xl rounded-2xl border border-border bg-background shadow-heavy">
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4 backdrop-blur-sm"
+          onClick={() => setSelectedItem(null)}
+        >
+          <article className="relative max-h-96 w-full max-w-2xl overflow-auto rounded-2xl border border-border bg-surface shadow-heavy">
             <button
-              type="button"
-              aria-label="关闭"
-              className="absolute right-4 top-4 flex h-10 w-10 items-center justify-center rounded-full border border-border bg-surface text-text-secondary transition hover:text-primary"
               onClick={() => setSelectedItem(null)}
+              className="absolute right-4 top-4 rounded-full bg-primary/10 p-2 text-primary hover:bg-primary hover:text-white"
+              type="button"
             >
               <ArrowUpRight className="h-4 w-4" />
             </button>
             <div className="h-56 overflow-hidden rounded-t-2xl">
               <img src={selectedItem.cover} alt={selectedItem.title} className="h-full w-full object-cover" />
             </div>
-            <div className="space-y-6 p-8">
-              <div className="flex flex-wrap items-center justify-between gap-3">
-                <div className="space-y-2">
-                  <p className="text-xs uppercase tracking-[0.3em] text-primary/70">{selectedItem.category}</p>
-                  <h3 className="text-2xl font-semibold text-text-primary">{selectedItem.title}</h3>
-                  <div className="flex flex-wrap items-center gap-3 text-xs text-text-secondary">
-                    <span>{selectedItem.source}</span>
-                    <span>·</span>
-                    <span>{selectedItem.timeAgo}</span>
-                    <span className="inline-flex items-center gap-1 text-primary">
-                      👍 {selectedItem.metrics.likes}
-                    </span>
-                    <span className="inline-flex items-center gap-1 text-primary">
-                      📌 {selectedItem.metrics.bookmarks}
-                    </span>
-                  </div>
-                </div>
-                <Link
-                  to={selectedItem.link}
-                  className="inline-flex items-center gap-2 rounded-full bg-primary px-4 py-2 text-sm font-medium text-white shadow-light transition hover:shadow-heavy"
-                >
-                  查看热点详情
-                  <ArrowUpRight className="h-4 w-4" />
-                </Link>
+            <div className="space-y-4 p-6">
+              <div className="space-y-2">
+                <h2 className="text-2xl font-semibold text-text-primary">{selectedItem.title}</h2>
+                <p className="text-sm text-text-secondary">来自 {selectedItem.source} · {selectedItem.timeAgo}</p>
               </div>
-
+              <p className="text-base leading-relaxed text-text-secondary">{selectedItem.summary}</p>
               <div className="flex flex-wrap gap-2">
                 {selectedItem.tags.map((tag) => (
                   <span key={tag} className="inline-flex items-center gap-2 rounded-full bg-primary/5 px-3 py-1 text-xs text-primary">
@@ -604,14 +366,16 @@ const Home = () => {
                   </span>
                 ))}
               </div>
-
-              <div className="space-y-4 text-sm leading-relaxed text-text-secondary">
-                {selectedItem.content.map((paragraph, index) => (
-                  <p key={index}>{paragraph}</p>
-                ))}
-              </div>
+              <Link
+                to={selectedItem.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-primary hover:underline"
+              >
+                查看原文 <ArrowUpRight className="h-4 w-4" />
+              </Link>
             </div>
-          </div>
+          </article>
         </div>
       )}
     </div>
