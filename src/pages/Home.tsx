@@ -151,7 +151,7 @@ const seoDescription =
   '每日洞察金融科技前沿趋势，聚合热点、深度专栏与实用资源，帮助金融科技从业者快速决策与布局。'
 
 // Cache bust version - update to force redeploy
-const VERSION = '1.0.1'
+const VERSION = '1.0.2'
 
 const structuredData = {
   '@context': 'https://schema.org',
