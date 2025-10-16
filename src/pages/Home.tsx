@@ -166,6 +166,9 @@ const seoSprint: { weekly: string[]; backlog: string[] } = {
 const seoDescription =
   '每日洞察金融科技前沿趋势，聚合热点、深度专栏与实用资源，帮助金融科技从业者快速决策与布局。'
 
+// Cache bust version - update to force redeploy
+const VERSION = '1.0.1'
+
 const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
@@ -265,6 +268,7 @@ const Home = () => {
         <link rel="canonical" href="https://www.techfinx.top/" />
         <meta name="description" content={seoDescription} />
         <meta name="keywords" content="金融科技,FinTech,监管动向,AI 支付,金融合规,行业研究" />
+        <meta name="version" content={VERSION} />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="TechFinX - 金融科技情报站" />
         <meta property="og:description" content={seoDescription} />
