@@ -18,6 +18,7 @@ type HotEntry = {
   link: string
   publishedAt: string
   summary: string
+  category: string
 }
 
 type HotPayload = {
@@ -28,18 +29,25 @@ type HotPayload = {
 
 const SOURCES = [
   {
-    name: 'Financial Times · Fintech',
-    url: 'https://www.ft.com/technology?format=rss',
+    name: 'Product Hunt · AI & Tech',
+    url: 'https://www.producthunt.com/feed',
+    category: 'AI 产品',
   },
   {
-    name: 'Hong Kong Monetary Authority · Press Releases',
-    url: 'https://www.hkma.gov.hk/eng/news-and-media/rss/press-releases.xml',
+    name: 'Dev.to · AI',
+    url: 'https://dev.to/api/articles?tag=ai&per_page=10',
+    category: 'AI 技术',
+  },
+  {
+    name: 'HackerNews · Top Stories',
+    url: 'https://news.ycombinator.com/rss',
+    category: '科技动态',
   },
 ]
 
 const OUTPUT_DIR = path.resolve(process.cwd(), 'public', 'data', 'hot')
 const LATEST_FILE = path.join(OUTPUT_DIR, 'latest.json')
-const MAX_ITEMS = 10
+const MAX_ITEMS = 15
 
 const parser = new Parser({
   customFields: {
@@ -61,20 +69,37 @@ const normalizeDate = (item: FeedItem) => {
   return Number.isNaN(parsed.getTime()) ? new Date().toISOString() : parsed.toISOString()
 }
 
-const mapItemToEntry = (source: string, item: FeedItem): HotEntry => ({
+const mapItemToEntry = (source: string, category: string, item: FeedItem): HotEntry => ({
   source,
   title: item.title ?? 'Untitled',
   link: item.link ?? '#',
   publishedAt: normalizeDate(item),
   summary: trimText(item.contentSnippet ?? item.content ?? ''),
+  category,
 })
 
-async function fetchSourceFeed(source: { name: string; url: string }): Promise<HotEntry[]> {
+async function fetchSourceFeed(source: { name: string; url: string; category: string }): Promise<HotEntry[]> {
   try {
+    // 特殊处理 Dev.to API
+    if (source.url.includes('dev.to')) {
+      const response = await fetch(source.url)
+      if (!response.ok) return []
+      const data = await response.json() as Array<{ title: string; url: string; published_at: string; description: string }>
+      return data.slice(0, MAX_ITEMS).map((item) => ({
+        source: source.name,
+        title: item.title,
+        link: item.url,
+        publishedAt: item.published_at,
+        summary: trimText(item.description),
+        category: source.category,
+      }))
+    }
+
+    // RSS 源处理
     const feed = await parser.parseURL(source.url)
-    return (feed.items ?? []).slice(0, MAX_ITEMS).map((item) => mapItemToEntry(source.name, item))
+    return (feed.items ?? []).slice(0, MAX_ITEMS).map((item) => mapItemToEntry(source.name, source.category, item))
   } catch (error) {
-    console.error(`Failed to fetch RSS from ${source.url}`, error)
+    console.error(`Failed to fetch from ${source.url}`, error)
     return []
   }
 }

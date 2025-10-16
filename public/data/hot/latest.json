@@ -1,79 +1,130 @@
 {
-  "generatedAt": "2025-10-16T08:16:28.338Z",
+  "generatedAt": "2025-10-16T08:37:18.007Z",
   "sources": [
-    "Financial Times · Fintech",
-    "Hong Kong Monetary Authority · Press Releases"
+    "Product Hunt · AI & Tech",
+    "Dev.to · AI",
+    "HackerNews · Top Stories"
   ],
   "entries": [
     {
-      "source": "Financial Times · Fintech",
-      "title": "Microsoft steps further from China, rare earth miners get a boost",
-      "link": "https://www.ft.com/content/e9f3e7db-09c4-4030-92bc-ff54b6042d40",
-      "publishedAt": "2025-10-16T07:09:58.000Z",
-      "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times"
+      "source": "Dev.to · AI",
+      "title": "Extending Pydantic AI Agents with Function Tools — Reading and Updating Project Data in Python",
+      "link": "https://dev.to/hamluk/extending-pydantic-ai-agents-with-function-tools-reading-and-updating-project-data-in-python-33d1",
+      "publishedAt": "2025-10-16T07:40:58Z",
+      "summary": "In the previous part of this series, we extended our Pydantic AI agent with dependencies, allowing it...",
+      "category": "AI 技术"
     },
     {
-      "source": "Financial Times · Fintech",
-      "title": "TSMC posts record profit on AI boom ",
-      "link": "https://www.ft.com/content/0a68e6fe-bad1-4e76-8cc5-b31036f62b95",
-      "publishedAt": "2025-10-16T05:59:44.000Z",
-      "summary": "World’s biggest chip manufacturer benefits as demand soars for high-performance semiconductors"
+      "source": "Dev.to · AI",
+      "title": "MCP: The Protocol That's Changing How AI Connects to Your World",
+      "link": "https://dev.to/arjun_cm_6d52117b7add384c/mcp-the-protocol-thats-changing-how-ai-connects-to-your-world-1h2h",
+      "publishedAt": "2025-10-16T06:52:53Z",
+      "summary": "MCP: The Protocol That's Changing How AI Connects to Your World If you've been following...",
+      "category": "AI 技术"
     },
     {
-      "source": "Financial Times · Fintech",
-      "title": "Europe must rethink military procurement says drone maker’s new boss",
-      "link": "https://www.ft.com/content/27e8b16c-75fb-4393-8e19-8f5c4eab763f",
-      "publishedAt": "2025-10-16T04:00:27.000Z",
-      "summary": "Uwe Horstmann becomes first chief executive of Stark, a German start-up backed by investors including Peter Thiel"
+      "source": "HackerNews · Top Stories",
+      "title": "Journalists turn in access badges, exit Pentagon rather than agreeing new rules",
+      "link": "https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12",
+      "publishedAt": "2025-10-16T06:51:49.000Z",
+      "summary": "Comments",
+      "category": "科技动态"
     },
     {
-      "source": "Financial Times · Fintech",
-      "title": "Trump’s war on the enemy within may reward the enemy without",
-      "link": "https://www.ft.com/content/fafe7543-4f38-4d5e-8493-c7a1e5e510fe",
-      "publishedAt": "2025-10-16T04:00:14.000Z",
-      "summary": "By focusing on internal threats, the US is giving soldiers all the best weapons and none of the training they need"
+      "source": "HackerNews · Top Stories",
+      "title": "Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin",
+      "link": "https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs",
+      "publishedAt": "2025-10-16T06:39:09.000Z",
+      "summary": "Comments",
+      "category": "科技动态"
     },
     {
-      "source": "Financial Times · Fintech",
-      "title": "‘Of course it’s a bubble’: AI start-up valuations soar in investor frenzy",
-      "link": "https://www.ft.com/content/59baba74-c039-4fa7-9d63-b14f8b2bb9e2",
-      "publishedAt": "2025-10-16T04:00:14.000Z",
-      "summary": "Unprecedented funding leads 10 groups including OpenAI and Elon Musk’s xAI to gain almost $1tn in value in past year"
+      "source": "Dev.to · AI",
+      "title": "Understanding RAG: How AI Models Learn to Search Before They Speak",
+      "link": "https://dev.to/arjun_cm_6d52117b7add384c/understanding-rag-how-ai-models-learn-to-search-before-they-speak-2mif",
+      "publishedAt": "2025-10-16T06:17:58Z",
+      "summary": "Understanding RAG: How AI Models Learn to Search Before They Speak Imagine asking an AI...",
+      "category": "AI 技术"
     },
     {
-      "source": "Financial Times · Fintech",
-      "title": "US warns world will ‘decouple’ from China if it imposes new export controls  ",
-      "link": "https://www.ft.com/content/15a957a7-104e-431a-807e-441e5c2c753f",
-      "publishedAt": "2025-10-16T02:07:03.000Z",
-      "summary": "Scott Bessent says Washington will retaliate if Beijing proceeds with policy on rare earths and critical minerals"
+      "source": "HackerNews · Top Stories",
+      "title": "Upcoming Rust language features for kernel development",
+      "link": "https://lwn.net/Articles/1039073/",
+      "publishedAt": "2025-10-16T06:12:51.000Z",
+      "summary": "Comments",
+      "category": "科技动态"
     },
     {
-      "source": "Financial Times · Fintech",
-      "title": "US approves new bank backed by billionaires with ties to Trump ",
-      "link": "https://www.ft.com/content/202d68bd-629e-42da-a938-c612bc839bdf",
-      "publishedAt": "2025-10-15T14:11:26.000Z",
-      "summary": "Target market for Erebor will be businesses that are part of America’s ‘innovation economy’"
+      "source": "HackerNews · Top Stories",
+      "title": "New coding models and integrations",
+      "link": "https://ollama.com/blog/coding-models",
+      "publishedAt": "2025-10-16T05:46:50.000Z",
+      "summary": "Comments",
+      "category": "科技动态"
     },
     {
-      "source": "Financial Times · Fintech",
-      "title": "BlackRock, GIP and MGX in $40bn data centre takeover to power AI growth  ",
-      "link": "https://www.ft.com/content/f7f0457a-df43-44a2-bfa8-4e3d7dbcf2b8",
-      "publishedAt": "2025-10-15T11:25:05.000Z",
-      "summary": "Buyer consortium also includes Nvidia and Microsoft and plans to expand Aligned Data Centers to meet computing demand"
+      "source": "HackerNews · Top Stories",
+      "title": "TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)",
+      "link": "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free",
+      "publishedAt": "2025-10-16T05:31:31.000Z",
+      "summary": "Comments",
+      "category": "科技动态"
     },
     {
-      "source": "Financial Times · Fintech",
-      "title": "Waymo aims to launch driverless taxis in London next year",
-      "link": "https://www.ft.com/content/7e838cc1-7095-4921-ae87-4779fc10468a",
-      "publishedAt": "2025-10-15T09:00:05.000Z",
-      "summary": "Move would boost the UK’s efforts to catch up with US and China on autonomous vehicles"
+      "source": "Product Hunt · AI & Tech",
+      "title": "Relace Repos",
+      "link": "https://www.producthunt.com/products/relace-repos",
+      "publishedAt": "2025-10-16T04:43:42.000Z",
+      "summary": "Discussion | Link",
+      "category": "AI 产品"
     },
     {
-      "source": "Financial Times · Fintech",
-      "title": "UK data centre start-up Nscale strikes $14bn Microsoft deal in push for IPO",
-      "link": "https://www.ft.com/content/7fa46fcb-c2a2-4960-88d4-5da7f9d13ae1",
-      "publishedAt": "2025-10-15T08:00:04.000Z",
-      "summary": "Nvidia-backed AI cloud group secures huge new contract as chief executive eyes public listing in ‘back end of next year’"
+      "source": "Dev.to · AI",
+      "title": "Building an MCP Server to Give Claude Code Memory of Its Own Actions",
+      "link": "https://dev.to/pppp606/building-an-mcp-server-to-give-claude-code-memory-of-its-own-actions-3d20",
+      "publishedAt": "2025-10-16T03:54:58Z",
+      "summary": "TL;DR I built claude-ops-mcp, an MCP server that lets Claude Code access its own operation...",
+      "category": "AI 技术"
+    },
+    {
+      "source": "Dev.to · AI",
+      "title": "Partition-Based Parallel Data Loading: An Architectural Practice for Improving Mass Data Import Efficiency",
+      "link": "https://dev.to/shannonbase/partition-based-parallel-data-loading-an-architectural-practice-for-improving-mass-data-import-4jn4",
+      "publishedAt": "2025-10-16T03:46:01Z",
+      "summary": "In modern database systems, data volume is growing exponentially. How to efficiently load data from...",
+      "category": "AI 技术"
+    },
+    {
+      "source": "HackerNews · Top Stories",
+      "title": "TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task",
+      "link": "https://arxiv.org/abs/2507.16126",
+      "publishedAt": "2025-10-16T03:45:39.000Z",
+      "summary": "Comments",
+      "category": "科技动态"
+    },
+    {
+      "source": "HackerNews · Top Stories",
+      "title": "Free applicatives, the handle pattern, and remote systems",
+      "link": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
+      "publishedAt": "2025-10-16T03:33:35.000Z",
+      "summary": "Comments",
+      "category": "科技动态"
+    },
+    {
+      "source": "Dev.to · AI",
+      "title": "《LightGBM: 一种高效的梯度提升决策树算法》论文（A Highly Efficient Gradient Boosting Decision Tree）",
+      "link": "https://dev.to/mangoquant/-lun-wen-a-highly-efficient-gradient-boosting-decision-tree-3g8b",
+      "publishedAt": "2025-10-16T02:24:24Z",
+      "summary": "...",
+      "category": "AI 技术"
+    },
+    {
+      "source": "Product Hunt · AI & Tech",
+      "title": "Veo 3.1",
+      "link": "https://www.producthunt.com/products/google-flow",
+      "publishedAt": "2025-10-15T20:06:17.000Z",
+      "summary": "Discussion | Link",
+      "category": "AI 产品"
     }
   ]
 }
