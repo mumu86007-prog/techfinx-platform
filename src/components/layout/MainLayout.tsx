@@ -4,6 +4,7 @@ const navLinks = [
   { to: '/', label: '首页' },
   { to: '/accounts', label: '账号库' },
   { to: '/hot', label: '热点追踪' },
+  { to: '/trend-radar', label: '趋势雷达' },
   { to: '/deep-dive', label: '深度专栏' },
   { to: '/resources', label: '工具与资源' },
   { to: '/about', label: '关于 / 联系' },

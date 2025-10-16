@@ -1,0 +1,271 @@
+{
+  "generatedAt": "2025-10-16T08:19:52.192Z",
+  "summary": {
+    "headline": "TechFinX 金融科技趋势雷达 - 每日更新",
+    "totalSignals": 16,
+    "highPriority": 3,
+    "momentum": "fast-rising"
+  },
+  "groups": [
+    {
+      "id": "group-1",
+      "title": "AI 与金融",
+      "heatLevel": "hot",
+      "signalCount": 4,
+      "momentum": 0.85,
+      "insights": [
+        {
+          "id": "ai-0",
+          "title": "AI驱动的风控模型大规模应用",
+          "summary": "最新的AI金融应用进展和市场动向。",
+          "platform": "金融科技动态",
+          "rank": 1,
+          "appearances": 12,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "ai-1",
+          "title": "大模型在支付风险识别中的突破",
+          "summary": "最新的AI金融应用进展和市场动向。",
+          "platform": "金融科技动态",
+          "rank": 2,
+          "appearances": 9,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "ai-2",
+          "title": "生成式AI重塑客户服务流程",
+          "summary": "最新的AI金融应用进展和市场动向。",
+          "platform": "金融科技动态",
+          "rank": 3,
+          "appearances": 8,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "ai-3",
+          "title": "OpenAI发布金融行业应用方案",
+          "summary": "最新的AI金融应用进展和市场动向。",
+          "platform": "行业新闻",
+          "rank": 4,
+          "appearances": 7,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        }
+      ]
+    },
+    {
+      "id": "group-2",
+      "title": "支付技术与结算",
+      "heatLevel": "hot",
+      "signalCount": 4,
+      "momentum": 0.78,
+      "insights": [
+        {
+          "id": "payment-0",
+          "title": "跨境支付结算新规发布",
+          "summary": "支付结算技术与监管动向。",
+          "platform": "政策导向",
+          "rank": 1,
+          "appearances": 11,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "payment-1",
+          "title": "央行数字人民币试点扩大范围",
+          "summary": "支付结算技术与监管动向。",
+          "platform": "政策导向",
+          "rank": 2,
+          "appearances": 10,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "payment-2",
+          "title": "即时支付系统处理量创新高",
+          "summary": "支付结算技术与监管动向。",
+          "platform": "行业数据",
+          "rank": 3,
+          "appearances": 8,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "payment-3",
+          "title": "第三方支付机构合规整改加速",
+          "summary": "支付结算技术与监管动向。",
+          "platform": "政策导向",
+          "rank": 4,
+          "appearances": 6,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        }
+      ]
+    },
+    {
+      "id": "group-3",
+      "title": "区块链 & Web3",
+      "heatLevel": "warm",
+      "signalCount": 4,
+      "momentum": 0.65,
+      "insights": [
+        {
+          "id": "blockchain-0",
+          "title": "稳定币监管框架完善",
+          "summary": "区块链和Web3在金融中的应用进展。",
+          "platform": "政策导向",
+          "rank": 1,
+          "appearances": 9,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "blockchain-1",
+          "title": "区块链在供应链金融应用深化",
+          "summary": "区块链和Web3在金融中的应用进展。",
+          "platform": "行业应用",
+          "rank": 2,
+          "appearances": 7,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "blockchain-2",
+          "title": "Web3钱包安全标准发布",
+          "summary": "区块链和Web3在金融中的应用进展。",
+          "platform": "技术标准",
+          "rank": 3,
+          "appearances": 6,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "blockchain-3",
+          "title": "数字资产托管服务规范出台",
+          "summary": "区块链和Web3在金融中的应用进展。",
+          "platform": "政策导向",
+          "rank": 4,
+          "appearances": 5,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        }
+      ]
+    },
+    {
+      "id": "group-4",
+      "title": "监管 & 合规",
+      "heatLevel": "hot",
+      "signalCount": 4,
+      "momentum": 0.82,
+      "insights": [
+        {
+          "id": "regulation-0",
+          "title": "个人信息保护法实施细则更新",
+          "summary": "金融监管和合规政策更新。",
+          "platform": "法规动态",
+          "rank": 1,
+          "appearances": 13,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "regulation-1",
+          "title": "金融数据安全管理办法征求意见",
+          "summary": "金融监管和合规政策更新。",
+          "platform": "法规动态",
+          "rank": 2,
+          "appearances": 11,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "regulation-2",
+          "title": "反垄断执法加强科技金融领域",
+          "summary": "金融监管和合规政策更新。",
+          "platform": "法规动态",
+          "rank": 3,
+          "appearances": 8,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        },
+        {
+          "id": "regulation-3",
+          "title": "隐私计算合规指南发布",
+          "summary": "金融监管和合规政策更新。",
+          "platform": "法规动态",
+          "rank": 4,
+          "appearances": 6,
+          "firstSeen": "16:19",
+          "lastSeen": "16:19",
+          "callToAction": {
+            "label": "查看详情",
+            "to": "/hot"
+          }
+        }
+      ]
+    }
+  ]
+}

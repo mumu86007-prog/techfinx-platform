@@ -7,6 +7,7 @@ import DeepDive from './pages/DeepDive'
 import Resources from './pages/Resources'
 import About from './pages/About'
 import NotFound from './pages/NotFound'
+import TrendRadar from './pages/TrendRadar'
 
 const router = createBrowserRouter([
   {
@@ -18,6 +19,7 @@ const router = createBrowserRouter([
       { path: 'hot', element: <Hot /> },
       { path: 'deep-dive', element: <DeepDive /> },
       { path: 'resources', element: <Resources /> },
+      { path: 'trend-radar', element: <TrendRadar /> },
       { path: 'about', element: <About /> },
     ],
   },

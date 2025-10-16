@@ -173,8 +173,8 @@ const Hot = () => {
         eyebrow={`Real-time Pulse · ${todayLabel}`}
         title="热点追踪 · 当日必读"
         description="我们在每天上午 9:30 前完成资讯筛选，聚焦 AI+金融的政策动向、商业落地与投融资脉搏，让你 3 分钟掌握今日关键信号。"
-        primaryAction={{ label: '订阅深度周报', to: '/deep-dive' }}
-        secondaryAction={{ label: '查看栏目规划', to: '/about' }}
+        primaryAction={{ label: '查看趋势雷达', to: '/trend-radar' }}
+        secondaryAction={{ label: '订阅深度周报', to: '/deep-dive' }}
       />
 
       <section className="rounded-l border border-border bg-primary/5 p-4 text-sm text-text-secondary">

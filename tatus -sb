@@ -5,3 +5,8 @@ package.json
 src/pages/Hot.tsx
 tsconfig.json
 tsconfig.node.json
+[33mcommit c61c68abd1fdddfa559d05e1a0c288090e379adc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mumu86007-prog <mumu86007@gmail.com>
+Date:   Tue Sep 30 10:43:52 2025 +0800
+
+    fix: define seo sprint data for homepage

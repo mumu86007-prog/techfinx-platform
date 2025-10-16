@@ -3,6 +3,7 @@
   "compilerOptions": {
     "moduleResolution": "node",
     "module": "ESNext",
+    "target": "ES2022",
     "outDir": "../dist-scripts",
     "rootDir": "./"
   },

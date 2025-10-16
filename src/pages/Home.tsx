@@ -7,7 +7,7 @@ import {
   Clock3,
   Flame,
   ListChecks,
-  LineChart,
+  Radar,
   Sparkles,
   Tag,
   Target,
@@ -158,18 +158,26 @@ const readerJourney = [
 
 const dailyHighlights = [
   {
-    id: 'gen-ai',
-    title: 'AI 产品追踪：今日可直接应用的创新案例',
-    summary: '筛选银行、券商、保险在生成式 AI 上的最新落地方案，提炼业务效果、技术架构与部署成本，方便你快速评估可行性。',
-    cta: '查看 AI 案例库',
-    to: '/deep-dive',
-    icon: LineChart,
+    id: 'trend-radar',
+    title: '趋势雷达：5 分钟锁定今日金融科技热度',
+    summary: '实时聚合 AI 支付、智能风控、数据基础设施等关键信号，提供优先级建议与执行提示。',
+    cta: '打开趋势雷达',
+    to: '/trend-radar',
+    icon: Radar,
   },
   {
-    id: 'funding',
-    title: '市场资金：全球金融科技融资与出海布局',
-    summary: '聚焦支付、数字银行、财资管理等赛道的融资数据与市场进入计划，分析资本偏好与潜在合作伙伴。',
-    cta: '解析融资趋势',
+    id: 'ai-product-cases',
+    title: 'AI 产品案例：生成式 AI 如何重塑金融服务？',
+    summary: '深入分析 AI 在智能客服、风控决策、投研报告生成中的最新应用，提供可借鉴的落地路径。',
+    cta: '查看深度案例',
+    to: '/deep-dive',
+    icon: Sparkles,
+  },
+  {
+    id: 'global-fintech-funding',
+    title: '全球融资动向：本周 FinTech 赛道资金流向解读',
+    summary: '追踪最新投融资事件，分析资本对 AI、区块链、支付等细分领域的偏好，助你把握市场机会。',
+    cta: '查看融资报告',
     to: '/hot',
     icon: BarChart3,
   },
@@ -179,9 +187,22 @@ const dailyHighlights = [
     summary: '包含 AI 风控工作流、财富顾问洞察脚本、数据看板配置指南，让你把行业最佳实践快速复刻到自有产品。',
     cta: '下载工具包',
     to: '/resources',
-    icon: Activity,
+    icon: ArrowUpRight,
   },
 ]
+
+const seoSprint: { weekly: string[]; backlog: string[] } = {
+  weekly: [
+    '热点追踪：标记本周 AI 支付、智能风控相关的关键事件，附上可执行建议。',
+    'TechFinX 日报：拆解一家金融科技公司的增长动作，提供复用步骤。',
+    '深度专栏：更新主题系列第二篇，补充流程图、数据亮点与导流 CTA。',
+  ],
+  backlog: [
+    '完成「政策速览」模板，帮助用户快速确认合规要点。',
+    '整理「投融资周报」数据集，突出资本对细分赛道的态度。',
+    '扩充「内容节奏模板」工具，覆盖企划、审核、分发全流程。',
+  ],
+}
 
 const seoDescription =
   '每日洞察金融科技前沿趋势，聚合热点、深度专栏与实用资源，帮助金融科技从业者快速决策与布局。'
