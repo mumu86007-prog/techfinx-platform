@@ -1,17 +1,11 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Helmet } from 'react-helmet-async'
 import {
   ArrowUpRight,
   CalendarCheck,
-  BarChart3,
-  Clock3,
   Flame,
-  ListChecks,
-  Radar,
   Sparkles,
-  Tag,
   Target,
-  X,
 } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import PageHero from '../sections/PageHero'
@@ -140,54 +134,19 @@ const defaultInsightItems: InsightItem[] = [
 
 const readerJourney = [
   {
-    stage: '01 · 当日必须知道',
-    channel: '科技与策略速览',
-    objective: '精选生成式 AI、支付科技、智能投研等关键动态，解释对业务指标与用户体验的直接影响。',
+    stage: '01 · 今日金融',
+    channel: '政策与监管速览',
+    objective: '聚焦金融监管、支付结算、数据安全等核心政策动态，帮助决策者快速掌握合规重点。',
   },
   {
-    stage: '02 · 抓住增长窗口',
-    channel: '市场与资本洞察',
-    objective: '拆解头部金融科技企业的产品发布、出海计划与融资动向，提供可借鉴的商业化思路。',
+    stage: '02 · AI热点',
+    channel: '生成式AI应用',
+    objective: '追踪大模型、生成式AI在金融风控、客服、投研等场景的创新应用和融资进展。',
   },
   {
-    stage: '03 · 立即落地执行',
-    channel: '工具与实战资料',
-    objective: '下载 AI 场景需求文档、决策流程图、数据看板模板，复制行业最佳实践到你的团队。',
-  },
-]
-
-const dailyHighlights = [
-  {
-    id: 'trend-radar',
-    title: '趋势雷达：5 分钟锁定今日金融科技热度',
-    summary: '实时聚合 AI 支付、智能风控、数据基础设施等关键信号，提供优先级建议与执行提示。',
-    cta: '打开趋势雷达',
-    to: '/trend-radar',
-    icon: Radar,
-  },
-  {
-    id: 'ai-product-cases',
-    title: 'AI 产品案例：生成式 AI 如何重塑金融服务？',
-    summary: '深入分析 AI 在智能客服、风控决策、投研报告生成中的最新应用，提供可借鉴的落地路径。',
-    cta: '查看深度案例',
-    to: '/deep-dive',
-    icon: Sparkles,
-  },
-  {
-    id: 'global-fintech-funding',
-    title: '全球融资动向：本周 FinTech 赛道资金流向解读',
-    summary: '追踪最新投融资事件，分析资本对 AI、区块链、支付等细分领域的偏好，助你把握市场机会。',
-    cta: '查看融资报告',
-    to: '/hot',
-    icon: BarChart3,
-  },
-  {
-    id: 'workflow-kit',
-    title: '工具集：3 套 AI+金融实操模板及时下载',
-    summary: '包含 AI 风控工作流、财富顾问洞察脚本、数据看板配置指南，让你把行业最佳实践快速复刻到自有产品。',
-    cta: '下载工具包',
-    to: '/resources',
-    icon: ArrowUpRight,
+    stage: '03 · 科技热点',
+    channel: '全球科技动态',
+    objective: '覆盖硅谷、中国科技公司的产品发布、战略调整和行业趋势，为业务布局提供参考。',
   },
 ]
 
@@ -269,7 +228,6 @@ const toInsightItem = (entry: HotEntry, index: number): InsightItem => {
 }
 
 const Home = () => {
-  const [activeTab, setActiveTab] = useState<InsightCategory>('全部')
   const [selectedItem, setSelectedItem] = useState<InsightItem | null>(null)
   const [insights, setInsights] = useState<InsightItem[]>(defaultInsightItems)
 
@@ -300,11 +258,6 @@ const Home = () => {
     }
   }, [])
 
-  const filteredItems = useMemo(() => {
-    if (activeTab === '全部') return insights
-    return insights.filter((item) => item.category === activeTab)
-  }, [activeTab, insights])
-
   return (
     <div className="space-y-16">
       <Helmet>
@@ -333,34 +286,6 @@ const Home = () => {
         secondaryAction={{ label: '获取工具与模板', to: '/resources' }}
       />
 
-      <section className="grid gap-6 xl:grid-cols-3">
-        {dailyHighlights.map((item) => {
-          const Icon = item.icon
-          return (
-            <article
-              key={item.id}
-              className="rounded-2xl border border-border bg-surface p-6 shadow-light transition hover:-translate-y-1 hover:shadow-heavy"
-            >
-              <div className="flex items-center justify-between text-xs uppercase tracking-[0.3em] text-primary/80">
-                <span>今日精选</span>
-                <span className="rounded-full bg-primary/10 p-2 text-primary">
-                  <Icon className="h-4 w-4" />
-                </span>
-              </div>
-              <h3 className="mt-4 text-xl font-semibold text-text-primary">{item.title}</h3>
-              <p className="mt-3 text-sm leading-relaxed text-text-secondary">{item.summary}</p>
-              <Link
-                to={item.to}
-                className="mt-5 inline-flex items-center gap-2 text-sm font-medium text-primary hover:underline"
-              >
-                {item.cta}
-                <ArrowUpRight className="h-4 w-4" />
-              </Link>
-            </article>
-          )
-        })}
-      </section>
-
       <section className="grid gap-6 md:grid-cols-3">
         {readerJourney.map((step) => (
           <article key={step.stage} className="rounded-2xl border border-border bg-surface p-6 shadow-light">
@@ -372,171 +297,55 @@ const Home = () => {
       </section>
 
       <section className="rounded-l border border-border bg-surface p-8 shadow-light">
-        <div className="flex flex-col gap-6 lg:flex-row lg:items-start lg:justify-between">
-          <div className="space-y-3">
-            <p className="text-sm uppercase tracking-[0.35em] text-primary/80">体验路径 · Reader Journey</p>
-            <h2 className="text-2xl font-semibold text-text-primary">今日访问：这三件事最值得先看</h2>
-            <p className="text-sm text-text-secondary">
-              从科技趋势洞察、市场机会到可复用的工具，我们把最核心的内容拆成三层，帮助你减少信息噪音，直接找到能带来业务价值的线索。"
+        <div className="mb-8 flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
+          <div>
+            <p className="text-sm uppercase tracking-[0.35em] text-primary/80">实时资讯 · Real-time News</p>
+            <h2 className="mt-3 text-2xl font-semibold text-text-primary">今日热点资讯速览</h2>
+            <p className="mt-2 max-w-2xl text-sm text-text-secondary">
+              从金融监管、AI应用到全球科技动态，每日自动更新最新资讯，帮助快速了解行业趋势。
             </p>
           </div>
-          <div className="rounded-l border border-dashed border-primary/40 bg-primary/5 px-5 py-4 text-xs text-primary">
-            <p className="font-medium">今日快速路径</p>
-            <p>1. 科技速览确认关键趋势 · 2. 市场笔记评估商业机会 · 3. 下载工具包即刻落地。</p>
+          <div className="inline-flex items-center gap-2 rounded-full border border-primary px-3 py-1 text-xs text-primary">
+            <Flame className="h-3.5 w-3.5" /> 每30分钟更新
           </div>
         </div>
 
-        <div className="mt-8 grid gap-4 lg:grid-cols-3">
-          {readerJourney.map((step) => (
-            <article key={step.stage} className="rounded-l border border-border bg-background/70 p-6 shadow-inner">
-              <p className="text-xs font-semibold uppercase tracking-[0.3em] text-text-secondary">{step.stage}</p>
-              <h3 className="mt-3 text-lg font-semibold text-text-primary">{step.channel}</h3>
-              <p className="mt-2 text-sm leading-relaxed text-text-secondary">{step.objective}</p>
+        <div className="space-y-4">
+          {insights.slice(0, 6).map((item) => (
+            <article
+              key={item.id}
+              className="flex items-start gap-4 rounded-lg border border-border/50 bg-background/60 p-4 transition hover:border-primary/30 hover:bg-background/80"
+            >
+              <div className="mt-1 flex h-8 w-8 items-center justify-center rounded-full bg-primary/10 text-xs font-semibold text-primary">
+                {item.tags[0]?.slice(0, 1) || '•'}
+              </div>
+              <div className="flex-1 space-y-2">
+                <h3 className="text-base font-semibold text-text-primary leading-snug">{item.title}</h3>
+                <p className="text-sm text-text-secondary leading-relaxed">{item.summary}</p>
+                <div className="flex items-center gap-3 text-xs text-text-tertiary">
+                  <span>{item.source}</span>
+                  <span>•</span>
+                  <span>{item.timeAgo}</span>
+                </div>
+              </div>
+              <Link
+                to={item.link}
+                className="flex-shrink-0 text-primary hover:text-primary/80 transition"
+              >
+                <ArrowUpRight className="h-5 w-5" />
+              </Link>
             </article>
           ))}
         </div>
-      </section>
 
-      <section className="grid gap-8 xl:grid-cols-[2fr,1fr]">
-        <div className="rounded-l border border-border bg-surface p-6 shadow-light">
-          <div className="flex flex-wrap items-center justify-between gap-4">
-            <div>
-              <p className="text-sm uppercase tracking-[0.35em] text-primary/80">实时情报流 · Insight Stream</p>
-              <h2 className="mt-2 text-2xl font-semibold text-text-primary">今日值得关注的 10 条金融科技动态</h2>
-              <p className="mt-1 text-xs text-text-secondary">
-                选择一个标签浏览对应主题，点击卡片即可展开详细解读、影响分析与延伸阅读建议。
-              </p>
-            </div>
-            <div className="inline-flex items-center gap-2 rounded-full border border-border px-3 py-1 text-xs text-text-secondary">
-              <Flame className="h-3.5 w-3.5 text-primary" /> 自动每 30 分钟刷新
-            </div>
-          </div>
-
-          <div className="mt-6 flex flex-wrap gap-2">
-            {insightTabs.map((tab) => (
-              <button
-                key={tab}
-                onClick={() => setActiveTab(tab)}
-                className={`rounded-full px-4 py-2 text-sm font-medium transition-all ${
-                  activeTab === tab
-                    ? 'bg-primary text-white shadow-light'
-                    : 'bg-background text-text-secondary hover:bg-primary/10 hover:text-primary'
-                }`}
-                type="button"
-              >
-                {tab}
-              </button>
-            ))}
-          </div>
-
-          <div className="mt-8 grid gap-6 md:grid-cols-2">
-            {filteredItems.map((item) => (
-              <article
-                key={item.id}
-                className="group relative cursor-pointer overflow-hidden rounded-xl border border-border bg-background/80 shadow-light transition-all hover:-translate-y-1 hover:shadow-heavy"
-                onClick={() => setSelectedItem(item)}
-              >
-                <div className="absolute right-4 top-4 rounded-full bg-black/60 px-3 py-1 text-xs text-white">
-                  {item.category}
-                </div>
-                <img src={item.cover} alt={item.title} className="h-40 w-full object-cover" loading="lazy" />
-                <div className="space-y-4 p-5">
-                  <div className="space-y-2">
-                    <h3 className="text-lg font-semibold text-text-primary group-hover:text-primary" title={item.title}>
-                      {item.title}
-                    </h3>
-                    <p className="text-sm leading-relaxed text-text-secondary">{item.summary}</p>
-                  </div>
-                  <div className="flex items-center justify-between text-xs text-text-tertiary">
-                    <div className="flex items-center gap-2">
-                      <span>{item.source}</span>
-                      <span>·</span>
-                      <span>{item.timeAgo}</span>
-                    </div>
-                    <div className="flex items-center gap-3 text-text-secondary">
-                      <span>👍 {item.metrics.likes}</span>
-                      <span>📌 {item.metrics.bookmarks}</span>
-                    </div>
-                  </div>
-                  <div className="flex items-center justify-between text-sm">
-                    <div className="flex flex-wrap gap-2">
-                      {item.tags.slice(0, 2).map((tag) => (
-                        <span
-                          key={tag}
-                          className="inline-flex items-center gap-1 rounded-full bg-primary/5 px-2 py-1 text-xs text-primary"
-                        >
-                          <Tag className="h-3 w-3" />
-                          {tag}
-                        </span>
-                      ))}
-                    </div>
-                    <span className="inline-flex items-center gap-1 text-xs font-medium text-primary">
-                      查看详情
-                      <ArrowUpRight className="h-4 w-4" />
-                    </span>
-                  </div>
-                </div>
-              </article>
-            ))}
-          </div>
+        <div className="mt-6 flex justify-center">
+          <Link
+            to="/hot"
+            className="inline-flex items-center gap-2 rounded-lg border border-primary px-6 py-2 text-sm font-medium text-primary hover:bg-primary hover:text-white transition"
+          >
+            查看全部热点 <ArrowUpRight className="h-4 w-4" />
+          </Link>
         </div>
-
-        <aside className="space-y-6">
-          <div className="rounded-l border border-border bg-surface p-6 shadow-light">
-            <h3 className="flex items-center gap-2 text-base font-semibold text-text-primary">
-              <Clock3 className="h-4 w-4 text-primary" /> 今天的追更清单
-            </h3>
-            <ul className="mt-4 space-y-3 text-sm text-text-secondary">
-              <li className="flex items-start gap-2">
-                <span className="mt-1 block h-2 w-2 rounded-full bg-primary" />
-                热点追踪：更新政策类事件 3 条，补充监管影响评级。
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="mt-1 block h-2 w-2 rounded-full bg-secondary" />
-                深度专栏：准备《AI 支付清算》专题，整理提纲与数据源。
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="mt-1 block h-2 w-2 rounded-full bg-primary" />
-                资源库：新增 5 个工具条目，补充标签和使用场景截图。
-              </li>
-            </ul>
-            <div className="mt-6 rounded-l border border-dashed border-primary/50 bg-primary/5 p-4 text-xs text-text-secondary">
-              <p className="font-medium text-primary">站点内测笔记</p>
-              <p className="mt-1">信息流滚动交互已部署，邀请用户反馈加载速度与可读性体验。</p>
-            </div>
-          </div>
-
-          <div className="rounded-l border border-border bg-surface p-6 shadow-light">
-            <h3 className="mb-4 flex items-center gap-2 text-base font-semibold text-text-primary">
-              <ListChecks className="h-4 w-4 text-primary" /> 未来 7 日迭代节奏
-            </h3>
-            <div className="space-y-4 text-sm text-text-secondary">
-              <div>
-                <p className="font-medium text-text-primary">Day 2 · 账号库</p>
-                <p>上线 10 个核心账号画像，支持场景、影响力、代表内容快速浏览。</p>
-              </div>
-              <div>
-                <p className="font-medium text-text-primary">Day 3 · 深度专栏首篇</p>
-                <p>发布《合规风控 Copilot》专题，附数据可视化与延伸阅读 CTA。</p>
-              </div>
-              <div>
-                <p className="font-medium text-text-primary">Day 5 · 自动化数据</p>
-                <p>完成热点 RSS 自动更新与人工校验流程，对接 CMS 管理后台。</p>
-              </div>
-            </div>
-          </div>
-
-          <div className="rounded-l border border-border bg-primary/5 p-6 shadow-light text-sm text-text-secondary">
-            <h3 className="text-base font-semibold text-text-primary">联系 TechFinX</h3>
-            <p className="mt-2">
-              内容合作、数据交换或广告洽谈，请联系
-              <a className="ml-1 text-primary hover:underline" href="mailto:Mumu86007@gmail.com">
-                Mumu86007@gmail.com
-              </a>
-              。
-            </p>
-          </div>
-        </aside>
       </section>
 
       <section className="rounded-l border border-border bg-surface p-8 shadow-light">
@@ -545,7 +354,7 @@ const Home = () => {
             <p className="text-sm uppercase tracking-[0.35em] text-primary">Content Pipeline</p>
             <h2 className="mt-3 text-2xl font-semibold">今日上线内容优先级</h2>
             <p className="mt-2 max-w-2xl text-sm text-text-secondary">
-              通过分阶段推进让 TechFinX 快速具备“日更 + 深度”内容节奏。每个模块都明确产出物和衡量标准，便于追踪进度与效果。
+              通过分阶段推进让 TechFinX 快速具备"日更 + 深度"内容节奏。每个模块都明确产出物和衡量标准，便于追踪进度与效果。
             </p>
           </div>
           <a
@@ -564,7 +373,7 @@ const Home = () => {
             </div>
             <h3 className="text-lg font-semibold text-text-primary">首页内容架构</h3>
             <p className="mt-2 text-sm text-text-secondary">
-              完成导航、顶部 Hero、价值区块、首页节奏信息，把“金融科技情报站”的定位讲清楚。
+              完成导航、顶部 Hero、价值区块、首页节奏信息，把"金融科技情报站"的定位讲清楚。
             </p>
             <ul className="mt-4 space-y-2 text-sm text-text-secondary/90">
               <li>· 3 大信息模块（策略概览 / 节奏规划 / 数据面板）</li>
@@ -614,7 +423,7 @@ const Home = () => {
               <p className="text-sm uppercase tracking-[0.35em] text-primary/80">运营笔记</p>
               <h2 className="mt-2 text-2xl font-semibold">频道内容更新节奏</h2>
               <p className="mt-2 max-w-xl text-sm text-text-secondary">
-                保持“日更快讯 + 周度深度 + 月度主题”的节奏，使访客形成固定回访习惯，同时积累可搜索的长尾内容资产。
+                保持"日更快讯 + 周度深度 + 月度主题"的节奏，使访客形成固定回访习惯，同时积累可搜索的长尾内容资产。
               </p>
             </div>
             <div className="rounded-l border border-primary/30 bg-primary/5 px-4 py-3 text-xs text-primary">
@@ -630,7 +439,7 @@ const Home = () => {
               <div className="space-y-2 text-sm text-text-secondary">
                 <h3 className="text-base font-semibold text-text-primary">每日热点追踪</h3>
                 <p>
-                  结合 X / Google News / RSS 源提炼 3-5 条核心事件，附观点导读和量化指标；发布后同步社交渠道，引导回站阅读。
+                  实时抓取金融市场、AI应用、监管政策等热点资讯，每日自动更新最新内容，帮助用户快速掌握行业动态。
                 </p>
               </div>
             </div>
@@ -752,7 +561,7 @@ const Home = () => {
               className="absolute right-4 top-4 flex h-10 w-10 items-center justify-center rounded-full border border-border bg-surface text-text-secondary transition hover:text-primary"
               onClick={() => setSelectedItem(null)}
             >
-              <X className="h-4 w-4" />
+              <ArrowUpRight className="h-4 w-4" />
             </button>
             <div className="h-56 overflow-hidden rounded-t-2xl">
               <img src={selectedItem.cover} alt={selectedItem.title} className="h-full w-full object-cover" />
@@ -786,7 +595,7 @@ const Home = () => {
               <div className="flex flex-wrap gap-2">
                 {selectedItem.tags.map((tag) => (
                   <span key={tag} className="inline-flex items-center gap-2 rounded-full bg-primary/5 px-3 py-1 text-xs text-primary">
-                    <Tag className="h-3.5 w-3.5" />
+                    <ArrowUpRight className="h-3.5 w-3.5" />
                     {tag}
                   </span>
                 ))}
