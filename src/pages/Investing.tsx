@@ -120,11 +120,35 @@ const Investing = () => {
 
     const dataMinX = points[0].x
     const dataMaxX = points[points.length - 1].x
+
+    // view aggregation: day/week/month/year
+    const [agg, setAgg] = useState<'day' | 'week' | 'month' | 'year'>('day')
+    const dayMs = 24 * 3600 * 1000
+    const aggregate = (list: P[]) => {
+      if (agg === 'day') return list
+      const map = new Map<string, P>()
+      for (const p of list) {
+        const d = new Date(p.x)
+        let key: string
+        if (agg === 'week') {
+          key = Math.floor(p.x / (7 * dayMs)).toString()
+        } else if (agg === 'month') {
+          key = `${d.getFullYear()}-${d.getMonth()}`
+        } else {
+          key = `${d.getFullYear()}`
+        }
+        // keep latest point in each bucket
+        const existed = map.get(key)
+        if (!existed || existed.x <= p.x) map.set(key, p)
+      }
+      return Array.from(map.values()).sort((a, b) => a.x - b.x)
+    }
+    const pts = aggregate(points)
     const minY = Math.min(
-      ...points.map((p) => Math.min(p.price, p.equity))
+      ...pts.map((p) => Math.min(p.price, p.equity))
     )
     const maxY = Math.max(
-      ...points.map((p) => Math.max(p.price, p.equity))
+      ...pts.map((p) => Math.max(p.price, p.equity))
     )
 
     // interactive view range
@@ -146,8 +170,8 @@ const Investing = () => {
 
     const pathOf = (getter: (p: P) => number) => {
       let d = ''
-      for (let i = 0; i < points.length; i++) {
-        const p = points[i]
+      for (let i = 0; i < pts.length; i++) {
+        const p = pts[i]
         if (p.x < viewMinX || p.x > viewMaxX) continue
         const x = toX(p.x)
         const y = toY(getter(p))
@@ -159,7 +183,6 @@ const Investing = () => {
     // adaptive ticks (day-level when范围较短)
     const xTicks: number[] = []
     const rangeMs = viewMaxX - viewMinX
-    const dayMs = 24 * 3600 * 1000
     const monthMs = 30 * dayMs
     const targetTicks = 10
     const step = rangeMs <= 180 * dayMs ? Math.max(dayMs, Math.floor(rangeMs / targetTicks / dayMs) * dayMs) : Math.max(monthMs, Math.floor(rangeMs / targetTicks / monthMs) * monthMs)
@@ -175,17 +198,17 @@ const Investing = () => {
     const nearestIndex = (mx: number) => {
       const target = viewMinX + ((mx - padLeft) / (width - padLeft - padRight)) * (viewMaxX - viewMinX)
       let lo = 0,
-        hi = points.length - 1
+        hi = pts.length - 1
       while (lo < hi) {
         const mid = Math.floor((lo + hi) / 2)
-        if (points[mid].x < target) lo = mid + 1
+        if (pts[mid].x < target) lo = mid + 1
         else hi = mid
       }
-      return Math.max(0, Math.min(points.length - 1, lo))
+      return Math.max(0, Math.min(pts.length - 1, lo))
     }
 
-    const idx = hoverX == null ? points.length - 1 : nearestIndex(hoverX)
-    const focus = points[idx]
+    const idx = hoverX == null ? pts.length - 1 : nearestIndex(hoverX)
+    const focus = pts[idx]
 
     // interactions: wheel zoom, mouse/touch pan and pinch
     const onWheel: React.WheelEventHandler<SVGSVGElement> = (e) => {
@@ -291,7 +314,20 @@ const Investing = () => {
     return (
       <div className="p-4 border border-border rounded-lg bg-surface">
         <div className="flex items-center justify-between mb-2">
-          <div className="text-sm text-text-secondary">价格走势（起始：{startDate}）</div>
+          <div className="flex items-center gap-3">
+            <div className="text-sm text-text-secondary">价格走势（起始：{startDate}）</div>
+            <div className="flex items-center gap-1 text-xs">
+              {(['day','week','month','year'] as const).map(k => (
+                <button
+                  key={k}
+                  onClick={() => setAgg(k)}
+                  className={`px-2 py-1 border border-border rounded ${agg===k? 'bg-primary text-white' : 'hover:bg-surface/60'}`}
+                >
+                  {k==='day'?'日':k==='week'?'周':k==='month'?'月':'年'}
+                </button>
+              ))}
+            </div>
+          </div>
           <div className="text-xs text-text-secondary space-x-2 flex items-center">
             <span>
               最新价：{focus.price.toFixed(2)} | 高：{maxY.toFixed(2)} | 低：{minY.toFixed(2)}
