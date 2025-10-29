@@ -93,43 +93,176 @@ const Investing = () => {
 
   const Chart = ({ data }: { data: MarketSeries }) => {
     const start = new Date(startDate).getTime()
-    const filtered: Array<{ x: number; y: number }> = []
+    type P = { x: number; price: number; equity: number }
+    const points: P[] = []
+    let currentMonthKey = ''
+    let units = 0
     for (let i = 0; i < data.timestamps.length; i++) {
-      if (data.timestamps[i] < start) continue
-      filtered.push({ x: data.timestamps[i], y: data.closes[i] })
+      const ts = data.timestamps[i]
+      const price = data.closes[i]
+      if (ts < start) continue
+      const d = new Date(ts)
+      const key = `${d.getFullYear()}-${d.getMonth()}`
+      if (key !== currentMonthKey) {
+        units += monthly / price
+        currentMonthKey = key
+      }
+      points.push({ x: ts, price, equity: units * price })
     }
-    if (filtered.length === 0) {
-      return <div className="text-text-secondary">暂无价格数据</div>
-    }
-    const minY = Math.min(...filtered.map((p) => p.y))
-    const maxY = Math.max(...filtered.map((p) => p.y))
-    const minX = filtered[0].x
-    const maxX = filtered[filtered.length - 1].x
-    const width = 900
-    const height = 240
-    const pad = 12
+    if (points.length === 0) return <div className="text-text-secondary">暂无价格数据</div>
 
-    const toX = (v: number) => pad + ((v - minX) / (maxX - minX)) * (width - pad * 2)
-    const toY = (v: number) => height - pad - ((v - minY) / (maxY - minY)) * (height - pad * 2)
-    let d = ''
-    filtered.forEach((p, i) => {
-      const x = toX(p.x)
-      const y = toY(p.y)
-      d += i === 0 ? `M ${x} ${y}` : ` L ${x} ${y}`
-    })
+    const width = 960
+    const height = 300
+    const padLeft = 48
+    const padBottom = 28
+    const padTop = 8
+    const padRight = 12
+
+    const minX = points[0].x
+    const maxX = points[points.length - 1].x
+    const minY = Math.min(
+      ...points.map((p) => Math.min(p.price, p.equity))
+    )
+    const maxY = Math.max(
+      ...points.map((p) => Math.max(p.price, p.equity))
+    )
+
+    const toX = (v: number) =>
+      padLeft + ((v - minX) / (maxX - minX)) * (width - padLeft - padRight)
+    const toY = (v: number) =>
+      padTop + (1 - (v - minY) / (maxY - minY)) * (height - padTop - padBottom)
+
+    const pathOf = (getter: (p: P) => number) => {
+      let d = ''
+      points.forEach((p, i) => {
+        const x = toX(p.x)
+        const y = toY(getter(p))
+        d += i === 0 ? `M ${x} ${y}` : ` L ${x} ${y}`
+      })
+      return d
+    }
+
+    const xTicks: number[] = []
+    const tickCount = 6
+    for (let i = 0; i <= tickCount; i++) {
+      xTicks.push(minX + ((maxX - minX) * i) / tickCount)
+    }
+    const yTicks: number[] = []
+    for (let i = 0; i <= 4; i++) {
+      yTicks.push(minY + ((maxY - minY) * i) / 4)
+    }
+
+    // tooltip
+    const [hoverX, setHoverX] = useState<number | null>(null)
+    const nearestIndex = (mx: number) => {
+      const target = minX + ((mx - padLeft) / (width - padLeft - padRight)) * (maxX - minX)
+      let lo = 0,
+        hi = points.length - 1
+      while (lo < hi) {
+        const mid = Math.floor((lo + hi) / 2)
+        if (points[mid].x < target) lo = mid + 1
+        else hi = mid
+      }
+      return Math.max(0, Math.min(points.length - 1, lo))
+    }
+
+    const idx = hoverX == null ? points.length - 1 : nearestIndex(hoverX)
+    const focus = points[idx]
 
     return (
       <div className="p-4 border border-border rounded-lg bg-surface">
         <div className="flex items-center justify-between mb-2">
           <div className="text-sm text-text-secondary">价格走势（起始：{startDate}）</div>
-          <div className="text-sm text-text-secondary">
-            最新价：{filtered[filtered.length - 1].y.toFixed(2)} | 高：{maxY.toFixed(2)} | 低：{minY.toFixed(2)}
+          <div className="text-xs text-text-secondary space-x-4">
+            <span>
+              最新价：{focus.price.toFixed(2)} | 高：{maxY.toFixed(2)} | 低：{minY.toFixed(2)}
+            </span>
+            <span>定投市值：{focus.equity.toFixed(0)}</span>
           </div>
         </div>
-        <svg viewBox={`0 0 ${width} ${height}`} className="w-full h-60">
+        <svg
+          viewBox={`0 0 ${width} ${height}`}
+          className="w-full h-72"
+          onMouseMove={(e) => setHoverX(e.nativeEvent.offsetX)}
+          onMouseLeave={() => setHoverX(null)}
+        >
           <rect x={0} y={0} width={width} height={height} fill="transparent" />
-          <path d={d} fill="none" strokeWidth={2} className="stroke-primary" />
+          {/* axes */}
+          <line
+            x1={padLeft}
+            y1={height - padBottom}
+            x2={width - padRight}
+            y2={height - padBottom}
+            className="stroke-border"
+            strokeWidth={1}
+          />
+          <line
+            x1={padLeft}
+            y1={padTop}
+            x2={padLeft}
+            y2={height - padBottom}
+            className="stroke-border"
+            strokeWidth={1}
+          />
+          {xTicks.map((t, i) => (
+            <g key={i}>
+              <line
+                x1={toX(t)}
+                y1={height - padBottom}
+                x2={toX(t)}
+                y2={height - padBottom + 4}
+                className="stroke-border"
+              />
+              <text
+                x={toX(t)}
+                y={height - 6}
+                textAnchor="middle"
+                className="fill-text-secondary text-[10px]"
+              >
+                {new Date(t).toISOString().slice(0, 7)}
+              </text>
+            </g>
+          ))}
+          {yTicks.map((t, i) => (
+            <g key={i}>
+              <line
+                x1={padLeft - 4}
+                y1={toY(t)}
+                x2={padLeft}
+                y2={toY(t)}
+                className="stroke-border"
+              />
+              <text
+                x={padLeft - 6}
+                y={toY(t) + 3}
+                textAnchor="end"
+                className="fill-text-secondary text-[10px]"
+              >
+                {t.toFixed(0)}
+              </text>
+            </g>
+          ))}
+
+          {/* lines */}
+          <path d={pathOf((p) => p.price)} fill="none" strokeWidth={2} className="stroke-primary" />
+          <path d={pathOf((p) => p.equity)} fill="none" strokeWidth={1.5} className="stroke-green-500" />
+
+          {/* focus line */}
+          {hoverX != null && (
+            <line
+              x1={hoverX}
+              y1={padTop}
+              x2={hoverX}
+              y2={height - padBottom}
+              className="stroke-border"
+              strokeDasharray="3 3"
+            />
+          )}
         </svg>
+        <div className="flex items-center gap-3 text-xs text-text-secondary mt-2">
+          <div className="flex items-center gap-1"><span className="inline-block w-3 h-1 bg-primary"></span> 价格</div>
+          <div className="flex items-center gap-1"><span className="inline-block w-3 h-1 bg-green-500"></span> 定投市值</div>
+        </div>
       </div>
     )
   }
