@@ -1,0 +1,162 @@
+import { useEffect, useMemo, useState } from 'react'
+
+type MarketSeries = {
+  symbol: string
+  timestamps: number[]
+  closes: number[]
+}
+
+type DcaResult = {
+  totalContribution: number
+  totalUnits: number
+  currentPrice: number
+  currentValue: number
+  gainPct: number
+  months: number
+}
+
+function computeMonthlyDca(series: MarketSeries, monthlyAmount: number, startDate: string): DcaResult | null {
+  if (!series.timestamps.length || !series.closes.length) return null
+  const start = new Date(startDate)
+  if (isNaN(start.getTime())) return null
+  const points = series.timestamps.map((t, i) => ({ date: new Date(t), price: series.closes[i] }))
+
+  let currentMonthKey = ''
+  let totalUnits = 0
+  let contributionCount = 0
+  for (const p of points) {
+    if (p.date < start) continue
+    const key = `${p.date.getFullYear()}-${p.date.getMonth() + 1}`
+    if (key !== currentMonthKey) {
+      // invest at the first trading day seen for the month
+      totalUnits += monthlyAmount / p.price
+      contributionCount += 1
+      currentMonthKey = key
+    }
+  }
+
+  const latestPrice = points[points.length - 1]?.price ?? 0
+  const totalContribution = contributionCount * monthlyAmount
+  const currentValue = totalUnits * latestPrice
+  const gainPct = totalContribution === 0 ? 0 : (currentValue - totalContribution) / totalContribution
+
+  return {
+    totalContribution,
+    totalUnits,
+    currentPrice: latestPrice,
+    currentValue,
+    gainPct,
+    months: contributionCount,
+  }
+}
+
+async function fetchSeries(symbol: 'NDX' | 'SPX'): Promise<MarketSeries | null> {
+  try {
+    const path = symbol === 'NDX' ? '/data/markets/ndx.json' : '/data/markets/spx.json'
+    const res = await fetch(path)
+    if (!res.ok) return null
+    const data = await res.json()
+    return {
+      symbol,
+      timestamps: data.timestamps ?? [],
+      closes: data.closes ?? [],
+    }
+  } catch {
+    return null
+  }
+}
+
+const Investing = () => {
+  const [symbol, setSymbol] = useState<'NDX' | 'SPX'>('NDX')
+  const [monthly, setMonthly] = useState<number>(1000)
+  const [startDate, setStartDate] = useState<string>('2010-01-01')
+  const [series, setSeries] = useState<MarketSeries | null>(null)
+  const [loading, setLoading] = useState(false)
+
+  useEffect(() => {
+    let mounted = true
+    setLoading(true)
+    fetchSeries(symbol).then((s) => {
+      if (!mounted) return
+      setSeries(s)
+      setLoading(false)
+    })
+    return () => {
+      mounted = false
+    }
+  }, [symbol])
+
+  const dca = useMemo(() => {
+    if (!series) return null
+    return computeMonthlyDca(series, monthly, startDate)
+  }, [series, monthly, startDate])
+
+  return (
+    <div className="space-y-8">
+      <div className="space-y-2">
+        <h1 className="text-2xl font-bold">定投跟踪</h1>
+        <p className="text-text-secondary">追踪纳斯达克100与标普500的长期定投表现</p>
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div className="space-y-1">
+          <label className="text-sm text-text-secondary">指数</label>
+          <select
+            className="border border-border bg-surface rounded-md p-2"
+            value={symbol}
+            onChange={(e) => setSymbol(e.target.value as 'NDX' | 'SPX')}
+          >
+            <option value="NDX">纳斯达克100 (NDX)</option>
+            <option value="SPX">标普500 (SPX)</option>
+          </select>
+        </div>
+        <div className="space-y-1">
+          <label className="text-sm text-text-secondary">每月投入 (USD)</label>
+          <input
+            type="number"
+            min={1}
+            className="border border-border bg-surface rounded-md p-2 w-full"
+            value={monthly}
+            onChange={(e) => setMonthly(Number(e.target.value))}
+          />
+        </div>
+        <div className="space-y-1">
+          <label className="text-sm text-text-secondary">起始日期</label>
+          <input
+            type="date"
+            className="border border-border bg-surface rounded-md p-2 w-full"
+            value={startDate}
+            onChange={(e) => setStartDate(e.target.value)}
+          />
+        </div>
+      </div>
+
+      {loading && <div className="text-text-secondary">加载中…（如无数据，请先运行数据抓取脚本）</div>}
+
+      {!loading && dca && (
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="space-y-2 p-4 border border-border rounded-lg bg-surface">
+            <div className="text-sm text-text-secondary">投入总额</div>
+            <div className="text-2xl font-semibold">${dca.totalContribution.toFixed(0)}</div>
+            <div className="text-sm text-text-secondary">定投月数：{dca.months}</div>
+          </div>
+          <div className="space-y-2 p-4 border border-border rounded-lg bg-surface">
+            <div className="text-sm text-text-secondary">当前市值</div>
+            <div className="text-2xl font-semibold">${dca.currentValue.toFixed(0)}</div>
+            <div className={`text-sm ${dca.gainPct >= 0 ? 'text-green-600' : 'text-red-600'}`}>
+              收益率：{(dca.gainPct * 100).toFixed(2)}%
+            </div>
+          </div>
+        </div>
+      )}
+
+      {!loading && !dca && (
+        <div className="text-text-secondary">暂无数据。请运行数据脚本生成 /data/markets/*.json。</div>
+      )}
+    </div>
+  )
+}
+
+export default Investing
+
+
