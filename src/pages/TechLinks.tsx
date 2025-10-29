@@ -15,18 +15,31 @@ const TechLinks = () => {
   useEffect(() => {
     let mounted = true
     setLoading(true)
-    fetch('/data/links/latest.json')
-      .then((r) => (r.ok ? r.json() : []))
-      .then((data) => {
-        if (!mounted) return
-        setItems(Array.isArray(data) ? data.slice(0, 20) : [])
-        setLoading(false)
-      })
-      .catch(() => {
-        if (!mounted) return
+    const candidates = [
+      '/data/links/latest.json',
+      'data/links/latest.json',
+      '/links/latest.json',
+    ]
+    ;(async () => {
+      for (const url of candidates) {
+        try {
+          const r = await fetch(url + '?v=' + Date.now())
+          if (!r.ok) continue
+          const data = await r.json()
+          if (mounted) {
+            setItems(Array.isArray(data) ? data.slice(0, 20) : [])
+            setLoading(false)
+          }
+          return
+        } catch {
+          // try next candidate
+        }
+      }
+      if (mounted) {
         setItems([])
         setLoading(false)
-      })
+      }
+    })()
     return () => {
       mounted = false
     }
