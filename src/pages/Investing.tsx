@@ -118,8 +118,8 @@ const Investing = () => {
     const padTop = 8
     const padRight = 12
 
-    const minX = points[0].x
-    const maxX = points[points.length - 1].x
+    const dataMinX = points[0].x
+    const dataMaxX = points[points.length - 1].x
     const minY = Math.min(
       ...points.map((p) => Math.min(p.price, p.equity))
     )
@@ -127,26 +127,44 @@ const Investing = () => {
       ...points.map((p) => Math.max(p.price, p.equity))
     )
 
+    // interactive view range
+    const [viewMinX, setViewMinX] = useState<number>(dataMinX)
+    const [viewMaxX, setViewMaxX] = useState<number>(dataMaxX)
+
+    const clampRange = (min: number, max: number) => {
+      const spanMin = 7 * 24 * 3600 * 1000 // at least a week
+      let nmin = Math.max(dataMinX, Math.min(min, dataMaxX - spanMin))
+      let nmax = Math.min(dataMaxX, Math.max(max, dataMinX + spanMin))
+      if (nmax - nmin < spanMin) nmax = nmin + spanMin
+      return [nmin, nmax] as const
+    }
+
     const toX = (v: number) =>
-      padLeft + ((v - minX) / (maxX - minX)) * (width - padLeft - padRight)
+      padLeft + ((v - viewMinX) / (viewMaxX - viewMinX)) * (width - padLeft - padRight)
     const toY = (v: number) =>
       padTop + (1 - (v - minY) / (maxY - minY)) * (height - padTop - padBottom)
 
     const pathOf = (getter: (p: P) => number) => {
       let d = ''
-      points.forEach((p, i) => {
+      for (let i = 0; i < points.length; i++) {
+        const p = points[i]
+        if (p.x < viewMinX || p.x > viewMaxX) continue
         const x = toX(p.x)
         const y = toY(getter(p))
-        d += i === 0 ? `M ${x} ${y}` : ` L ${x} ${y}`
-      })
+        d += d ? ` L ${x} ${y}` : `M ${x} ${y}`
+      }
       return d
     }
 
+    // adaptive ticks (day-level when范围较短)
     const xTicks: number[] = []
-    const tickCount = 6
-    for (let i = 0; i <= tickCount; i++) {
-      xTicks.push(minX + ((maxX - minX) * i) / tickCount)
-    }
+    const rangeMs = viewMaxX - viewMinX
+    const dayMs = 24 * 3600 * 1000
+    const monthMs = 30 * dayMs
+    const targetTicks = 10
+    const step = rangeMs <= 180 * dayMs ? Math.max(dayMs, Math.floor(rangeMs / targetTicks / dayMs) * dayMs) : Math.max(monthMs, Math.floor(rangeMs / targetTicks / monthMs) * monthMs)
+    const firstTick = Math.ceil(viewMinX / step) * step
+    for (let t = firstTick; t <= viewMaxX; t += step) xTicks.push(t)
     const yTicks: number[] = []
     for (let i = 0; i <= 4; i++) {
       yTicks.push(minY + ((maxY - minY) * i) / 4)
@@ -155,7 +173,7 @@ const Investing = () => {
     // tooltip
     const [hoverX, setHoverX] = useState<number | null>(null)
     const nearestIndex = (mx: number) => {
-      const target = minX + ((mx - padLeft) / (width - padLeft - padRight)) * (maxX - minX)
+      const target = viewMinX + ((mx - padLeft) / (width - padLeft - padRight)) * (viewMaxX - viewMinX)
       let lo = 0,
         hi = points.length - 1
       while (lo < hi) {
@@ -169,21 +187,131 @@ const Investing = () => {
     const idx = hoverX == null ? points.length - 1 : nearestIndex(hoverX)
     const focus = points[idx]
 
+    // interactions: wheel zoom, mouse/touch pan and pinch
+    const onWheel: React.WheelEventHandler<SVGSVGElement> = (e) => {
+      e.preventDefault()
+      const zoom = e.deltaY > 0 ? 1.1 : 0.9
+      const rect = (e.target as SVGSVGElement).getBoundingClientRect()
+      const mx = e.clientX - rect.left
+      const pivot = viewMinX + ((mx - padLeft) / (width - padLeft - padRight)) * (viewMaxX - viewMinX)
+      const newMin = pivot - (pivot - viewMinX) * zoom
+      const newMax = pivot + (viewMaxX - pivot) * zoom
+      const [nmin, nmax] = clampRange(newMin, newMax)
+      setViewMinX(nmin)
+      setViewMaxX(nmax)
+    }
+
+    const panState = useRef<{ dragging: boolean; startX: number; min: number; max: number; pinch?: number } | null>(null)
+    const onPointerDown: React.PointerEventHandler<SVGSVGElement> = (e) => {
+      const rect = (e.target as SVGSVGElement).getBoundingClientRect()
+      panState.current = { dragging: true, startX: e.clientX - rect.left, min: viewMinX, max: viewMaxX }
+    }
+    const onPointerMove: React.PointerEventHandler<SVGSVGElement> = (e) => {
+      if (!panState.current?.dragging) return
+      const rect = (e.target as SVGSVGElement).getBoundingClientRect()
+      const mx = e.clientX - rect.left
+      const dx = mx - panState.current.startX
+      const ratio = dx / (width - padLeft - padRight)
+      const shift = ratio * (panState.current.max - panState.current.min)
+      let nmin = panState.current.min - shift
+      let nmax = panState.current.max - shift
+      ;[nmin, nmax] = clampRange(nmin, nmax)
+      setViewMinX(nmin)
+      setViewMaxX(nmax)
+    }
+    const onPointerUp: React.PointerEventHandler<SVGSVGElement> = () => {
+      if (panState.current) panState.current.dragging = false
+    }
+
+    const onTouchMove: React.TouchEventHandler<SVGSVGElement> = (e) => {
+      if (e.touches.length === 2) {
+        const rect = (e.target as SVGSVGElement).getBoundingClientRect()
+        const p1 = e.touches[0]
+        const p2 = e.touches[1]
+        const cx = (p1.clientX + p2.clientX) / 2 - rect.left
+        const dist = Math.hypot(p1.clientX - p2.clientX, p1.clientY - p2.clientY)
+        const pivot = viewMinX + ((cx - padLeft) / (width - padLeft - padRight)) * (viewMaxX - viewMinX)
+        const prev = panState.current?.pinch ?? dist
+        const zoom = prev ? prev / dist : 1
+        const newMin = pivot - (pivot - viewMinX) * zoom
+        const newMax = pivot + (viewMaxX - pivot) * zoom
+        const [nmin, nmax] = clampRange(newMin, newMax)
+        setViewMinX(nmin)
+        setViewMaxX(nmax)
+        panState.current = { dragging: false, startX: 0, min: nmin, max: nmax, pinch: dist }
+        e.preventDefault()
+      }
+    }
+
+    const resetView = () => {
+      setViewMinX(dataMinX)
+      setViewMaxX(dataMaxX)
+    }
+
+    // export SVG/PNG
+    const svgRef = useRef<SVGSVGElement | null>(null)
+    const download = (name: string, href: string) => {
+      const a = document.createElement('a')
+      a.href = href
+      a.download = name
+      document.body.appendChild(a)
+      a.click()
+      a.remove()
+    }
+    const exportSVG = () => {
+      if (!svgRef.current) return
+      const blob = new Blob([svgRef.current.outerHTML], { type: 'image/svg+xml;charset=utf-8' })
+      const url = URL.createObjectURL(blob)
+      download(`${symbol.toLowerCase()}-chart.svg`, url)
+      URL.revokeObjectURL(url)
+    }
+    const exportPNG = async () => {
+      if (!svgRef.current) return
+      const svg = svgRef.current
+      const xml = new XMLSerializer().serializeToString(svg)
+      const svg64 = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(xml)
+      const img = new Image()
+      const canvas = document.createElement('canvas')
+      canvas.width = width
+      canvas.height = height
+      const ctx = canvas.getContext('2d')
+      if (!ctx) return
+      await new Promise<void>((res) => {
+        img.onload = () => {
+          ctx.fillStyle = getComputedStyle(document.body).getPropertyValue('--color-surface') || '#ffffff'
+          ctx.fillRect(0, 0, canvas.width, canvas.height)
+          ctx.drawImage(img, 0, 0)
+          res()
+        }
+        img.src = svg64
+      })
+      download(`${symbol.toLowerCase()}-chart.png`, canvas.toDataURL('image/png'))
+    }
+
     return (
       <div className="p-4 border border-border rounded-lg bg-surface">
         <div className="flex items-center justify-between mb-2">
           <div className="text-sm text-text-secondary">价格走势（起始：{startDate}）</div>
-          <div className="text-xs text-text-secondary space-x-4">
+          <div className="text-xs text-text-secondary space-x-2 flex items-center">
             <span>
               最新价：{focus.price.toFixed(2)} | 高：{maxY.toFixed(2)} | 低：{minY.toFixed(2)}
             </span>
             <span>定投市值：{focus.equity.toFixed(0)}</span>
+            <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={resetView}>重置视图</button>
+            <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={exportSVG}>导出SVG</button>
+            <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={exportPNG}>导出PNG</button>
           </div>
         </div>
         <svg
+          ref={svgRef}
           viewBox={`0 0 ${width} ${height}`}
           className="w-full h-72"
           onMouseMove={(e) => setHoverX(e.nativeEvent.offsetX)}
+          onWheel={onWheel}
+          onPointerDown={onPointerDown}
+          onPointerMove={onPointerMove}
+          onPointerUp={onPointerUp}
+          onTouchMove={onTouchMove}
           onMouseLeave={() => setHoverX(null)}
         >
           <rect x={0} y={0} width={width} height={height} fill="transparent" />
