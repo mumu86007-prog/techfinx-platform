@@ -63,7 +63,7 @@ const fallbackData: TrendRadarPayload = {
             '多家股份制银行上线生成式助手，定位于即时查询、营销脚本生成和风控提示。',
           callToAction: {
             label: '查看应用拆解',
-            to: '/hot#ai-branch-automation',
+            to: '/trend-radar',
           },
         },
         {
@@ -126,7 +126,7 @@ const fallbackData: TrendRadarPayload = {
             '多家券商启动向量数据库升级，缩短投研文档检索时间，配合内部大模型查询。',
           callToAction: {
             label: '了解部署要点',
-            to: '/hot#vector-db',
+            to: '/trend-radar',
           },
         },
       ],

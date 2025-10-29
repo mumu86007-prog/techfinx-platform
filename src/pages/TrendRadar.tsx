@@ -98,8 +98,7 @@ const TrendRadar = () => {
         eyebrow="实时热点 · 策略对齐"
         title="TechFinX 趋势雷达"
         description="把每天的金融科技噪声转化成可执行的趋势信号：聚焦 AI 支付、智能风控、数据基础设施与合规科技，帮助你判断市场热度与机会窗口。"
-        primaryAction={{ label: '浏览今日热点', to: '/hot' }}
-        secondaryAction={{ label: '下载执行清单', to: '/resources' }}
+        primaryAction={{ label: '查看使用指南', to: '/resources' }}
       />
 
       {isLoading && (

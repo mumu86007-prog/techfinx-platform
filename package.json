@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "X平台金融科技账号聚合站",
+  "description": "TechFinX 金融科技情报站",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -12,7 +12,6 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
-    "fetch:hot": "tsx scripts/fetch-hot.ts",
     "fetch:trend": "tsx scripts/fetch-trend-radar.ts"
   },
   "dependencies": {
