@@ -91,6 +91,49 @@ const Investing = () => {
     return computeMonthlyDca(series, monthly, startDate)
   }, [series, monthly, startDate])
 
+  const Chart = ({ data }: { data: MarketSeries }) => {
+    const start = new Date(startDate).getTime()
+    const filtered: Array<{ x: number; y: number }> = []
+    for (let i = 0; i < data.timestamps.length; i++) {
+      if (data.timestamps[i] < start) continue
+      filtered.push({ x: data.timestamps[i], y: data.closes[i] })
+    }
+    if (filtered.length === 0) {
+      return <div className="text-text-secondary">暂无价格数据</div>
+    }
+    const minY = Math.min(...filtered.map((p) => p.y))
+    const maxY = Math.max(...filtered.map((p) => p.y))
+    const minX = filtered[0].x
+    const maxX = filtered[filtered.length - 1].x
+    const width = 900
+    const height = 240
+    const pad = 12
+
+    const toX = (v: number) => pad + ((v - minX) / (maxX - minX)) * (width - pad * 2)
+    const toY = (v: number) => height - pad - ((v - minY) / (maxY - minY)) * (height - pad * 2)
+    let d = ''
+    filtered.forEach((p, i) => {
+      const x = toX(p.x)
+      const y = toY(p.y)
+      d += i === 0 ? `M ${x} ${y}` : ` L ${x} ${y}`
+    })
+
+    return (
+      <div className="p-4 border border-border rounded-lg bg-surface">
+        <div className="flex items-center justify-between mb-2">
+          <div className="text-sm text-text-secondary">价格走势（起始：{startDate}）</div>
+          <div className="text-sm text-text-secondary">
+            最新价：{filtered[filtered.length - 1].y.toFixed(2)} | 高：{maxY.toFixed(2)} | 低：{minY.toFixed(2)}
+          </div>
+        </div>
+        <svg viewBox={`0 0 ${width} ${height}`} className="w-full h-60">
+          <rect x={0} y={0} width={width} height={height} fill="transparent" />
+          <path d={d} fill="none" strokeWidth={2} className="stroke-primary" />
+        </svg>
+      </div>
+    )
+  }
+
   return (
     <div className="space-y-8">
       <div className="space-y-2">
@@ -149,6 +192,8 @@ const Investing = () => {
           </div>
         </div>
       )}
+
+      {!loading && series && <Chart data={series} />}
 
       {!loading && !dca && (
         <div className="text-text-secondary">暂无数据。请运行数据脚本生成 /data/markets/*.json。</div>
