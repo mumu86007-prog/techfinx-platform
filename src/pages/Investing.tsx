@@ -193,13 +193,52 @@ const Investing = () => {
     }
 
     // adaptive ticks (day-level when范围较短)
+    // x-axis ticks depend on aggregation mode so that clicking 日/周/月/年会改变坐标刻度
     const xTicks: number[] = []
     const rangeMs = viewMaxX - viewMinX
+    const weekMs = 7 * dayMs
     const monthMs = 30 * dayMs
+    const yearMs = 365 * dayMs
     const targetTicks = 10
-    const step = rangeMs <= 180 * dayMs ? Math.max(dayMs, Math.floor(rangeMs / targetTicks / dayMs) * dayMs) : Math.max(monthMs, Math.floor(rangeMs / targetTicks / monthMs) * monthMs)
-    const firstTick = Math.ceil(viewMinX / step) * step
-    for (let t = firstTick; t <= viewMaxX; t += step) xTicks.push(t)
+
+    const startOfMonth = (ts: number) => {
+      const d = new Date(ts)
+      return new Date(d.getFullYear(), d.getMonth(), 1).getTime()
+    }
+    const startOfYear = (ts: number) => {
+      const d = new Date(ts)
+      return new Date(d.getFullYear(), 0, 1).getTime()
+    }
+    const startOfWeek = (ts: number) => {
+      const d = new Date(ts)
+      const day = d.getDay() || 7 // Monday as start (1..7)
+      d.setHours(0, 0, 0, 0)
+      d.setDate(d.getDate() - (day - 1))
+      return d.getTime()
+    }
+
+    let tickStep: number
+    let tickStart: number
+    if (agg === 'year') {
+      // yearly ticks
+      const approx = Math.max(1, Math.round(rangeMs / yearMs / targetTicks))
+      tickStep = approx * yearMs
+      tickStart = startOfYear(viewMinX)
+    } else if (agg === 'month') {
+      const approx = Math.max(1, Math.round(rangeMs / monthMs / targetTicks))
+      tickStep = approx * monthMs
+      tickStart = startOfMonth(viewMinX)
+    } else if (agg === 'week') {
+      const approx = Math.max(1, Math.round(rangeMs / weekMs / targetTicks))
+      tickStep = approx * weekMs
+      tickStart = startOfWeek(viewMinX)
+    } else {
+      // day
+      const base = Math.max(dayMs, Math.floor(rangeMs / targetTicks / dayMs) * dayMs)
+      tickStep = base
+      tickStart = Math.ceil(viewMinX / tickStep) * tickStep
+    }
+    for (let t = tickStart; t <= viewMaxX; t += tickStep) xTicks.push(t)
     const yTicks: number[] = []
     for (let i = 0; i <= 4; i++) {
       yTicks.push(minY + ((maxY - minY) * i) / 4)
@@ -397,9 +436,13 @@ const Investing = () => {
                 textAnchor="middle"
                 className="fill-text-secondary text-[10px]"
               >
-                {rangeMs <= 180 * dayMs
+                {agg === 'year'
+                  ? new Date(t).getFullYear()
+                  : agg === 'month'
+                  ? new Date(t).toISOString().slice(0, 7)
+                  : agg === 'week'
                   ? new Date(t).toISOString().slice(0, 10)
-                  : new Date(t).toISOString().slice(0, 7)}
+                  : new Date(t).toISOString().slice(0, 10)}
               </text>
             </g>
           ))}
