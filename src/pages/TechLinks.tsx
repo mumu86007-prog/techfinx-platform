@@ -20,8 +20,8 @@ const TechLinks = () => {
   useEffect(() => {
     let mounted = true
     setLoading(true)
-    const base = import.meta.env.BASE_URL || '/'
-    const withBase = (p: string) => `${base}${p.replace(/^\/+/, '')}`
+    // Avoid relying on Vite types in CI: compute a simple root-based path
+    const withBase = (p: string) => `/${p.replace(/^\/+/, '')}`
     const candidates = [
       // Prefer remote raw to avoid static-asset timing issues
       'https://raw.githubusercontent.com/mumu86007-prog/techfinx-platform/main/public/data/links/latest.json',
