@@ -15,10 +15,13 @@ const TechLinks = () => {
   useEffect(() => {
     let mounted = true
     setLoading(true)
+    const base = import.meta.env.BASE_URL || '/'
+    const withBase = (p: string) => `${base}${p.replace(/^\/+/, '')}`
     const candidates = [
+      withBase('data/links/latest.json'),
+      // root-relative and relative fallbacks
       '/data/links/latest.json',
       'data/links/latest.json',
-      '/links/latest.json',
       // fallback to GitHub raw to ensure content even if static asset not deployed yet
       'https://raw.githubusercontent.com/mumu86007-prog/techfinx-platform/main/public/data/links/latest.json',
     ]
