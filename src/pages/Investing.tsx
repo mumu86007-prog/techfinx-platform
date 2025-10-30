@@ -167,6 +167,11 @@ const Investing = () => {
     const [viewMinX, setViewMinX] = useState<number>(dataMinX)
     const [viewMaxX, setViewMaxX] = useState<number>(dataMaxX)
 
+    useEffect(() => {
+      setViewMinX(dataMinX)
+      setViewMaxX(dataMaxX)
+    }, [dataMinX, dataMaxX])
+
     const clampRange = (min: number, max: number) => {
       const spanMin = 7 * 24 * 3600 * 1000 // at least a week
       let nmin = Math.max(dataMinX, Math.min(min, dataMaxX - spanMin))

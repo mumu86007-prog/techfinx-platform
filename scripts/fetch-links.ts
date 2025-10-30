@@ -14,6 +14,16 @@ const __dirname = dirname(__filename)
 
 type LinkItem = { title: string; url: string; summary?: string; publishedAt?: string; source?: string }
 
+const SNIPPET_LIMIT = 50
+
+function normalizeText(text?: string): string | undefined {
+  if (!text) return undefined
+  const normalized = text.replace(/\s+/g, ' ').trim()
+  if (!normalized) return undefined
+  if (normalized.length <= SNIPPET_LIMIT) return normalized
+  return normalized.slice(0, SNIPPET_LIMIT).trimEnd() + '…'
+}
+
 function extractTitle(html: string): string | undefined {
   const m = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)
   if (m) return m[1].trim().replace(/\s+/g, ' ')
@@ -21,11 +31,34 @@ function extractTitle(html: string): string | undefined {
 }
 
 function extractMetaDescription(html: string): string | undefined {
-  const m = html.match(/<meta[^>]+name=["']description["'][^>]+>/i)
-  if (!m) return undefined
-  const tag = m[0]
-  const cm = tag.match(/content=["']([\s\S]*?)["']/i)
-  return cm ? cm[1].trim() : undefined
+  const metaRegex = /<meta[^>]+(?:name|property)=["'](?:description|og:description)["'][^>]*>/gi
+  let match: RegExpExecArray | null
+  while ((match = metaRegex.exec(html))) {
+    const tag = match[0]
+    const cm = tag.match(/content=["']([\s\S]*?)["']/i)
+    const value = normalizeText(cm?.[1])
+    if (value) return value
+  }
+  return undefined
+}
+
+async function fetchFallbackSnippet(url: string): Promise<string | undefined> {
+  try {
+    const jinaUrl = `https://r.jina.ai/${url}`
+    const res = await fetch(jinaUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } })
+    if (!res.ok) return undefined
+    const text = await res.text()
+    const snippet = normalizeText(
+      text
+        .split('\n')
+        .map((line) => line.trim())
+        .filter(Boolean)
+        .join(' ')
+    )
+    return snippet
+  } catch {
+    return undefined
+  }
 }
 
 function hostnameOf(u: string): string | undefined {
@@ -67,8 +100,14 @@ async function main() {
       const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } })
       if (!res.ok) throw new Error(String(res.status))
       const html = await res.text()
-      const title = extractTitle(html) ?? url
-      const summary = extractMetaDescription(html)
+      const title = extractTitle(html) ?? normalizeText(url) ?? url
+      let summary = extractMetaDescription(html)
+      if (!summary) {
+        summary = await fetchFallbackSnippet(url)
+      }
+      if (!summary) {
+        summary = normalizeText(title)
+      }
       items.push({ title, url, summary, publishedAt: new Date().toISOString(), source: hostnameOf(url) })
     } catch (e) {
       items.push({ title: url, url })

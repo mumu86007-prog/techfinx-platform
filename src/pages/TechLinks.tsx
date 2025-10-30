@@ -17,6 +17,48 @@ const TechLinks = () => {
   const [items, setItems] = useState<LinkItem[]>([])
   const [loading, setLoading] = useState(false)
 
+  const snippetOf = (text?: string) => {
+    if (!text) return undefined
+    const normalized = text.replace(/\s+/g, ' ').trim()
+    if (!normalized) return undefined
+    const limit = 50
+    return normalized.length > limit ? normalized.slice(0, limit).trimEnd() + '…' : normalized
+  }
+
+  const fetchSnippet = async (url: string) => {
+    try {
+      const res = await fetch(`https://r.jina.ai/${url}`)
+      if (!res.ok) return undefined
+      const text = await res.text()
+      return snippetOf(
+        text
+          .split('\n')
+          .map((line) => line.trim())
+          .filter(Boolean)
+          .join(' ')
+      )
+    } catch {
+      return undefined
+    }
+  }
+
+  const displayTitle = (raw: string) => {
+    try {
+      const u = new URL(raw)
+      return u.pathname.replace(/\/$/, '') || u.hostname
+    } catch {
+      return raw
+    }
+  }
+
+  const hostOf = (raw: string) => {
+    try {
+      return new URL(raw).hostname
+    } catch {
+      return undefined
+    }
+  }
+
   useEffect(() => {
     let mounted = true
     setLoading(true)
@@ -58,8 +100,19 @@ const TechLinks = () => {
           .map((s) => s.trim())
           .filter((s) => s && !s.startsWith('#'))
           .slice(0, 20)
-        const fallback = urls.map((u) => ({ title: u, url: u }))
-        setItems(fallback)
+        const fallback = await Promise.all(
+          urls.map(async (u) => {
+            const summary = await fetchSnippet(u)
+            return {
+              title: displayTitle(u),
+              url: u,
+              summary: summary ?? snippetOf(displayTitle(u)),
+              source: hostOf(u),
+              publishedAt: new Date().toISOString(),
+            }
+          })
+        )
+        if (mounted) setItems(fallback)
         setLoading(false)
       }
     })()
@@ -89,7 +142,10 @@ const TechLinks = () => {
             </a>
             {it.source && <div className="text-xs text-text-secondary mt-1">来源：{it.source}</div>}
             {it.publishedAt && <div className="text-xs text-text-secondary">时间：{new Date(it.publishedAt).toLocaleString()}</div>}
-            {it.summary && <p className="text-sm text-text-secondary mt-2">{it.summary}</p>}
+            {(() => {
+              const summary = snippetOf(it.summary) ?? snippetOf(it.title) ?? snippetOf(it.url)
+              return summary ? <p className="text-sm text-text-secondary mt-2 leading-relaxed">{summary}</p> : null
+            })()}
           </li>
         ))}
       </ul>
