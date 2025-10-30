@@ -66,6 +66,20 @@ async function fetchSeries(symbol: 'NDX' | 'SPX'): Promise<MarketSeries | null> 
   }
 }
 
+const formatCurrency = new Intl.NumberFormat('en-US', {
+  style: 'currency',
+  currency: 'USD',
+  maximumFractionDigits: 0,
+})
+
+const formatNumber = new Intl.NumberFormat('en-US', {
+  maximumFractionDigits: 0,
+})
+
+const MONTHLY_MIN = 10
+const MONTHLY_MAX = 100000
+const MONTHLY_PRESETS = [100, 500, 1000, 2000, 5000]
+
 const Investing = () => {
   const [symbol, setSymbol] = useState<'NDX' | 'SPX'>('NDX')
   const [monthly, setMonthly] = useState<number>(1000)
@@ -102,6 +116,15 @@ const Investing = () => {
     const first = series?.timestamps?.[0]
     if (first) setStartDate(new Date(first).toISOString().slice(0, 10))
   }
+
+  const handleMonthlyInput = (value: number) => {
+    if (Number.isNaN(value)) return
+    const clamped = Math.min(MONTHLY_MAX, Math.max(MONTHLY_MIN, value))
+    setMonthly(clamped)
+  }
+
+  const [showPrice, setShowPrice] = useState(true)
+  const [showEquity, setShowEquity] = useState(true)
 
   const Chart = ({ data }: { data: MarketSeries }) => {
     const start = new Date(startDate).getTime()
@@ -166,6 +189,11 @@ const Investing = () => {
     // interactive view range
     const [viewMinX, setViewMinX] = useState<number>(dataMinX)
     const [viewMaxX, setViewMaxX] = useState<number>(dataMaxX)
+
+    useEffect(() => {
+      setViewMinX(dataMinX)
+      setViewMaxX(dataMaxX)
+    }, [dataMinX, dataMaxX])
 
     useEffect(() => {
       setViewMinX(dataMinX)
@@ -265,6 +293,7 @@ const Investing = () => {
 
     const idx = hoverX == null ? pts.length - 1 : nearestIndex(hoverX)
     const focus = pts[idx]
+    const focusDate = new Date(focus.x).toLocaleDateString()
 
     // interactions: wheel zoom, mouse/touch pan and pinch
     const onWheel: React.WheelEventHandler<SVGSVGElement> = (e) => {
@@ -372,7 +401,7 @@ const Investing = () => {
     return (
       <div className="p-4 border border-border rounded-lg bg-surface">
         <div className="flex items-center justify-between mb-2">
-          <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3">
             <div className="text-sm text-text-secondary">价格走势（起始：{startDate}）</div>
             <div className="flex items-center gap-1 text-xs">
               {(['day','week','month','year'] as const).map(k => (
@@ -386,11 +415,11 @@ const Investing = () => {
               ))}
             </div>
           </div>
-          <div className="text-xs text-text-secondary space-x-2 flex items-center">
+          <div className="text-xs text-text-secondary space-x-3 flex items-center">
             <span>
-              最新价：{focus.price.toFixed(2)} | 高：{maxY.toFixed(2)} | 低：{minY.toFixed(2)}
+              {focusDate} 最新价：{formatCurrency.format(focus.price)} | 高：{formatCurrency.format(maxY)} | 低：{formatCurrency.format(minY)}
             </span>
-            <span>定投市值：{focus.equity.toFixed(0)}</span>
+            <span>定投市值：{formatCurrency.format(focus.equity)}</span>
             <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={resetView}>重置视图</button>
             <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={exportSVG}>导出SVG</button>
             <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={exportPNG}>导出PNG</button>
@@ -466,14 +495,14 @@ const Investing = () => {
                 textAnchor="end"
                 className="fill-text-secondary text-[10px]"
               >
-                {t.toFixed(0)}
+                {formatCurrency.format(t)}
               </text>
             </g>
           ))}
 
           {/* lines */}
-          <path d={pathOf((p) => p.price)} fill="none" strokeWidth={2} className="stroke-primary" />
-          <path d={pathOf((p) => p.equity)} fill="none" strokeWidth={1.5} className="stroke-green-500" />
+          {showPrice && <path d={pathOf((p) => p.price)} fill="none" strokeWidth={2} className="stroke-primary" />}
+          {showEquity && <path d={pathOf((p) => p.equity)} fill="none" strokeWidth={1.5} className="stroke-green-500" />}
 
           {/* focus line */}
           {hoverX != null && (
@@ -487,9 +516,15 @@ const Investing = () => {
             />
           )}
         </svg>
-        <div className="flex items-center gap-3 text-xs text-text-secondary mt-2">
-          <div className="flex items-center gap-1"><span className="inline-block w-3 h-1 bg-primary"></span> 价格</div>
-          <div className="flex items-center gap-1"><span className="inline-block w-3 h-1 bg-green-500"></span> 定投市值</div>
+        <div className="flex items-center gap-4 text-xs text-text-secondary mt-2">
+          <label className="flex items-center gap-1 cursor-pointer">
+            <input type="checkbox" checked={showPrice} onChange={(e) => setShowPrice(e.target.checked)} />
+            <span className="flex items-center gap-1"><span className="inline-block w-3 h-1 bg-primary"></span> 价格</span>
+          </label>
+          <label className="flex items-center gap-1 cursor-pointer">
+            <input type="checkbox" checked={showEquity} onChange={(e) => setShowEquity(e.target.checked)} />
+            <span className="flex items-center gap-1"><span className="inline-block w-3 h-1 bg-green-500"></span> 定投市值</span>
+          </label>
         </div>
       </div>
     )
@@ -518,11 +553,27 @@ const Investing = () => {
           <label className="text-sm text-text-secondary">每月投入 (USD)</label>
           <input
             type="number"
-            min={1}
+            min={MONTHLY_MIN}
+            max={MONTHLY_MAX}
+            step={10}
             className="border border-border bg-surface rounded-md p-2 w-full"
             value={monthly}
-            onChange={(e) => setMonthly(Number(e.target.value))}
+            onChange={(e) => handleMonthlyInput(Number(e.target.value))}
+            onBlur={(e) => handleMonthlyInput(Number(e.target.value))}
           />
+          <div className="flex flex-wrap gap-2 text-xs text-text-secondary">
+            {MONTHLY_PRESETS.map((preset) => (
+              <button
+                key={preset}
+                type="button"
+                className={`px-2 py-1 border border-border rounded ${monthly === preset ? 'bg-primary text-white' : 'hover:bg-surface/60'}`}
+                onClick={() => setMonthly(preset)}
+              >
+                {formatCurrency.format(preset)}
+              </button>
+            ))}
+            <span className="ml-auto">范围：{formatCurrency.format(MONTHLY_MIN)} - {formatCurrency.format(MONTHLY_MAX)}</span>
+          </div>
         </div>
         <div className="space-y-1">
           <label className="text-sm text-text-secondary">起始日期</label>
@@ -545,18 +596,34 @@ const Investing = () => {
       {loading && <div className="text-text-secondary">加载中…（如无数据，请先运行数据抓取脚本）</div>}
 
       {!loading && dca && (
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div className="space-y-2 p-4 border border-border rounded-lg bg-surface">
             <div className="text-sm text-text-secondary">投入总额</div>
-            <div className="text-2xl font-semibold">${dca.totalContribution.toFixed(0)}</div>
-            <div className="text-sm text-text-secondary">定投月数：{dca.months}</div>
+            <div className="text-2xl font-semibold">{formatCurrency.format(dca.totalContribution)}</div>
+            <div className="text-sm text-text-secondary">定投月数：{dca.months}（≈ {formatNumber.format(Math.floor(dca.months / 12))} 年 {dca.months % 12} 个月）</div>
           </div>
           <div className="space-y-2 p-4 border border-border rounded-lg bg-surface">
             <div className="text-sm text-text-secondary">当前市值</div>
-            <div className="text-2xl font-semibold">${dca.currentValue.toFixed(0)}</div>
+            <div className="text-2xl font-semibold">{formatCurrency.format(dca.currentValue)}</div>
             <div className={`text-sm ${dca.gainPct >= 0 ? 'text-green-600' : 'text-red-600'}`}>
-              收益率：{(dca.gainPct * 100).toFixed(2)}%
+              总收益率：{(dca.gainPct * 100).toFixed(2)}%
             </div>
+          </div>
+          <div className="space-y-2 p-4 border border-border rounded-lg bg-surface">
+            <div className="text-sm text-text-secondary">累计收益</div>
+            <div className={`text-2xl font-semibold ${dca.currentValue - dca.totalContribution >= 0 ? 'text-green-600' : 'text-red-600'}`}>
+              {formatCurrency.format(dca.currentValue - dca.totalContribution)}
+            </div>
+            {dca.currentValue > 0 && dca.totalContribution > 0 && dca.months > 0 && (
+              <div className="text-sm text-text-secondary">
+                年化收益率：
+                {(() => {
+                  const ratio = dca.currentValue / dca.totalContribution
+                  const cagr = Math.pow(ratio, 12 / dca.months) - 1
+                  return Number.isFinite(cagr) ? `${(cagr * 100).toFixed(2)}%` : '—'
+                })()}
+              </div>
+            )}
           </div>
         </div>
       )}
