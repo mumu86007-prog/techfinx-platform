@@ -19,6 +19,8 @@ const TechLinks = () => {
       '/data/links/latest.json',
       'data/links/latest.json',
       '/links/latest.json',
+      // fallback to GitHub raw to ensure content even if static asset not deployed yet
+      'https://raw.githubusercontent.com/mumu86007-prog/techfinx-platform/main/public/data/links/latest.json',
     ]
     ;(async () => {
       for (const url of candidates) {
@@ -31,7 +33,7 @@ const TechLinks = () => {
             setLoading(false)
           }
           return
-        } catch {
+        } catch (e) {
           // try next candidate
         }
       }
