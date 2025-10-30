@@ -6,4 +6,14 @@ declare module '*?raw' {
   export default content
 }
 
+// In some CI environments, the vite/client ambient types are not picked up early enough.
+// Provide a minimal fallback so `import.meta.env` type-checks during `tsc` before Vite runs.
+interface ImportMetaEnv {
+  readonly BASE_URL?: string
+  readonly [key: string]: any
+}
+interface ImportMeta {
+  readonly env: ImportMetaEnv
+}
+
 
