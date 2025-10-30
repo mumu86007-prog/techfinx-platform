@@ -18,12 +18,14 @@ const TechLinks = () => {
     const base = import.meta.env.BASE_URL || '/'
     const withBase = (p: string) => `${base}${p.replace(/^\/+/, '')}`
     const candidates = [
+      // Prefer remote raw to avoid static-asset timing issues
+      'https://raw.githubusercontent.com/mumu86007-prog/techfinx-platform/main/public/data/links/latest.json',
+      // jsDelivr mirror as an additional fallback
+      'https://cdn.jsdelivr.net/gh/mumu86007-prog/techfinx-platform@main/public/data/links/latest.json',
+      // Same-origin copies (should be present when public assets are deployed)
       withBase('data/links/latest.json'),
-      // root-relative and relative fallbacks
       '/data/links/latest.json',
       'data/links/latest.json',
-      // fallback to GitHub raw to ensure content even if static asset not deployed yet
-      'https://raw.githubusercontent.com/mumu86007-prog/techfinx-platform/main/public/data/links/latest.json',
     ]
     ;(async () => {
       for (const url of candidates) {
