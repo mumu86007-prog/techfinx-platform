@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 
 type MarketSeries = {
   symbol: string
@@ -90,6 +90,18 @@ const Investing = () => {
     if (!series) return null
     return computeMonthlyDca(series, monthly, startDate)
   }, [series, monthly, startDate])
+
+  // Quick range helpers for startDate
+  const setYearsAgo = (years: number) => {
+    const end = series?.timestamps?.[series.timestamps.length - 1] ?? Date.now()
+    const d = new Date(end)
+    d.setFullYear(d.getFullYear() - years)
+    setStartDate(d.toISOString().slice(0, 10))
+  }
+  const setAll = () => {
+    const first = series?.timestamps?.[0]
+    if (first) setStartDate(new Date(first).toISOString().slice(0, 10))
+  }
 
   const Chart = ({ data }: { data: MarketSeries }) => {
     const start = new Date(startDate).getTime()
@@ -228,6 +240,7 @@ const Investing = () => {
     const onPointerDown: React.PointerEventHandler<SVGSVGElement> = (e) => {
       const rect = (e.target as SVGSVGElement).getBoundingClientRect()
       panState.current = { dragging: true, startX: e.clientX - rect.left, min: viewMinX, max: viewMaxX }
+      try { (e.target as Element).setPointerCapture?.(e.pointerId) } catch {}
     }
     const onPointerMove: React.PointerEventHandler<SVGSVGElement> = (e) => {
       if (!panState.current?.dragging) return
@@ -242,8 +255,9 @@ const Investing = () => {
       setViewMinX(nmin)
       setViewMaxX(nmax)
     }
-    const onPointerUp: React.PointerEventHandler<SVGSVGElement> = () => {
+    const onPointerUp: React.PointerEventHandler<SVGSVGElement> = (e) => {
       if (panState.current) panState.current.dragging = false
+      try { (e.target as Element).releasePointerCapture?.(e.pointerId) } catch {}
     }
 
     const onTouchMove: React.TouchEventHandler<SVGSVGElement> = (e) => {
@@ -383,7 +397,9 @@ const Investing = () => {
                 textAnchor="middle"
                 className="fill-text-secondary text-[10px]"
               >
-                {new Date(t).toISOString().slice(0, 7)}
+                {rangeMs <= 180 * dayMs
+                  ? new Date(t).toISOString().slice(0, 10)
+                  : new Date(t).toISOString().slice(0, 7)}
               </text>
             </g>
           ))}
@@ -468,6 +484,13 @@ const Investing = () => {
             value={startDate}
             onChange={(e) => setStartDate(e.target.value)}
           />
+          <div className="flex flex-wrap gap-2 text-xs mt-1">
+            <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={() => setYearsAgo(1)}>近1年</button>
+            <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={() => setYearsAgo(3)}>近3年</button>
+            <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={() => setYearsAgo(5)}>近5年</button>
+            <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={() => setYearsAgo(10)}>近10年</button>
+            <button className="px-2 py-1 border border-border rounded hover:bg-surface/60" onClick={setAll}>全部</button>
+          </div>
         </div>
       </div>
 
