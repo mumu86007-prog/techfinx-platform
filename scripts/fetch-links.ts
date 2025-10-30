@@ -1,127 +1,177 @@
 /*
-  Read sources from external/tech-links/sources.txt (one URL per line),
-  fetch each page, extract <title> and basic meta description, and
-  write to public/data/links/latest.json (up to 20 items).
+  Aggregate multi-source tech intelligence via RSSHub, score entries, and
+  output top 20 stories to public/data/links/latest.json.
 
   Usage: pnpm tsx scripts/fetch-links.ts
 */
-import { readFile, writeFile, mkdir } from 'fs/promises'
-import { resolve, dirname } from 'path'
-import { fileURLToPath } from 'url'
+import Parser from 'rss-parser'
+import { mkdir, writeFile } from 'fs/promises'
+import { resolve } from 'path'
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = dirname(__filename)
+type Category = 'AI' | 'Industry' | 'Blockchain' | 'Product' | 'Social'
 
-type LinkItem = { title: string; url: string; summary?: string; publishedAt?: string; source?: string }
-
-const SNIPPET_LIMIT = 50
-
-function normalizeText(text?: string): string | undefined {
-  if (!text) return undefined
-  const normalized = text.replace(/\s+/g, ' ').trim()
-  if (!normalized) return undefined
-  if (normalized.length <= SNIPPET_LIMIT) return normalized
-  return normalized.slice(0, SNIPPET_LIMIT).trimEnd() + '…'
+type FeedSource = {
+  id: string
+  name: string
+  route: string
+  category: Category
+  weight: number
+  tags?: string[]
 }
 
-function extractTitle(html: string): string | undefined {
-  const m = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)
-  if (m) return m[1].trim().replace(/\s+/g, ' ')
-  return undefined
-}
-
-function extractMetaDescription(html: string): string | undefined {
-  const metaRegex = /<meta[^>]+(?:name|property)=["'](?:description|og:description)["'][^>]*>/gi
-  let match: RegExpExecArray | null
-  while ((match = metaRegex.exec(html))) {
-    const tag = match[0]
-    const cm = tag.match(/content=["']([\s\S]*?)["']/i)
-    const value = normalizeText(cm?.[1])
-    if (value) return value
+type Candidate = {
+  id: string
+  title: string
+  url: string
+  summary: string
+  publishedAt: string
+  source: {
+    id: string
+    name: string
+    category: Category
   }
-  return undefined
+  tags?: string[]
+  score: number
 }
 
-async function fetchFallbackSnippet(url: string): Promise<string | undefined> {
-  try {
-    const jinaUrl = `https://r.jina.ai/${url}`
-    const res = await fetch(jinaUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } })
-    if (!res.ok) return undefined
-    const text = await res.text()
-    const snippet = normalizeText(
-      text
-        .split('\n')
-        .map((line) => line.trim())
-        .filter(Boolean)
-        .join(' ')
-    )
-    return snippet
-  } catch {
-    return undefined
-  }
+const ENV_ENDPOINTS = (process.env.RSSHUB_ENDPOINTS || process.env.RSSHUB_ENDPOINT || '')
+  .split(',')
+  .map((s) => s.trim())
+  .filter(Boolean)
+const RSSHUB_ENDPOINTS = (ENV_ENDPOINTS.length > 0
+  ? ENV_ENDPOINTS
+  : ['https://rsshub.app', 'https://rsshub.rssforever.com', 'https://rsshub.uneasy.win']
+).map((s) => s.replace(/\/$/, ''))
+const OUTPUT_FILE = resolve(process.cwd(), 'public', 'data', 'links', 'latest.json')
+const SNIPPET_LIMIT = 160
+const MAX_ITEMS = 20
+
+const FEEDS: FeedSource[] = [
+  {
+    id: 'hackernews',
+    name: 'Hacker News',
+    route: '/hackernews',
+    category: 'AI',
+    weight: 3,
+    tags: ['开发者', '社区'],
+  },
+]
+
+const KEYWORD_RULES: { pattern: RegExp; score: number }[] = [
+  { pattern: /AI|人工智能|大模型|生成式|GenAI/i, score: 2 },
+  { pattern: /投资|融资|IPO|收购|并购|估值/i, score: 1.5 },
+  { pattern: /监管|政策|合规|SEC|欧盟|China/i, score: 1 },
+  { pattern: /区块链|Web3|加密|crypto|DeFi|NFT/i, score: 1.5 },
+  { pattern: /芯片|半导体|Nvidia|英伟达|ARM|TSMC/i, score: 1 },
+]
+
+const parser = new Parser({ headers: { 'User-Agent': 'TechFinX Aggregator (+https://techfinx.top)' } })
+
+function normalizeText(text?: string, limit = SNIPPET_LIMIT): string {
+  if (!text) return ''
+  const str = text.replace(/\s+/g, ' ').trim()
+  if (!str) return ''
+  return str.length > limit ? `${str.slice(0, limit).trimEnd()}…` : str
 }
 
-function hostnameOf(u: string): string | undefined {
-  try {
-    return new URL(u).hostname
-  } catch {
-    return undefined
+function scoreItem(candidate: Candidate): number {
+  let score = candidate.score
+  const text = `${candidate.title} ${candidate.summary}`
+
+  for (const rule of KEYWORD_RULES) {
+    if (rule.pattern.test(text)) {
+      score += rule.score
+    }
   }
+
+  const ageHours = (Date.now() - new Date(candidate.publishedAt).getTime()) / 36e5
+  if (ageHours <= 6) score += 3
+  else if (ageHours <= 12) score += 2
+  else if (ageHours <= 24) score += 1
+  else if (ageHours > 48) score -= 100 // will be filtered later
+
+  return score
+}
+
+async function fetchFeed(feed: FeedSource): Promise<Candidate[]> {
+  for (const endpoint of RSSHUB_ENDPOINTS) {
+    const url = `${endpoint}${feed.route.startsWith('/') ? feed.route : `/${feed.route}`}`
+    try {
+      const data = await parser.parseURL(url)
+      if (!data.items?.length) continue
+
+      console.log(`Feed ${feed.id} loaded via ${endpoint}`)
+
+      return data.items
+        .filter((item) => item.link)
+        .map((item, idx) => {
+          const title = normalizeText(item.title || item.link || '')
+          const summary = normalizeText(item.contentSnippet || item.content || item.summary || '')
+          const publishedAt = item.isoDate || item.pubDate || new Date().toISOString()
+          return {
+            id: `${feed.id}-${item.guid || item.id || idx}`,
+            title,
+            url: item.link as string,
+            summary,
+            publishedAt,
+            source: {
+              id: feed.id,
+              name: feed.name,
+              category: feed.category,
+            },
+            tags: feed.tags,
+            score: feed.weight,
+          }
+        })
+    } catch (error) {
+      console.warn(`Feed ${feed.id} failed on ${endpoint}:`, error instanceof Error ? error.message : error)
+    }
+  }
+
+  console.warn(`Feed ${feed.id} skipped: all RSSHub endpoints failed`)
+  return []
 }
 
 async function main() {
-  const sourcesPath = resolve(__dirname, '..', 'external', 'tech-links', 'sources.txt')
-  const outDir = resolve(__dirname, '..', 'public', 'data', 'links')
+  const outDir = resolve(process.cwd(), 'public', 'data', 'links')
   await mkdir(outDir, { recursive: true })
 
-  let content = ''
-  try {
-    content = await readFile(sourcesPath, 'utf8')
-  } catch {
-    console.error(`Missing sources list at ${sourcesPath}. Create it with one URL per line.`)
-    // Preserve existing latest.json if present to avoid wiping data on CI runs
-    try {
-      const existing = await readFile(resolve(outDir, 'latest.json'), 'utf8')
-      await writeFile(resolve(outDir, 'latest.json'), existing, 'utf8')
-    } catch {
-      await writeFile(resolve(outDir, 'latest.json'), '[]', 'utf8')
-    }
-    return
+  const candidates: Candidate[] = []
+  for (const feed of FEEDS) {
+    const items = await fetchFeed(feed)
+    candidates.push(...items)
   }
-  const urls = content
-    .split(/\r?\n/)
-    .map((s) => s.trim())
-    .filter((s) => s && !s.startsWith('#'))
-    .slice(0, 20)
 
-  const items: LinkItem[] = []
-  for (const url of urls) {
-    try {
-      const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } })
-      if (!res.ok) throw new Error(String(res.status))
-      const html = await res.text()
-      const title = extractTitle(html) ?? normalizeText(url) ?? url
-      let summary = extractMetaDescription(html)
-      if (!summary) {
-        summary = await fetchFallbackSnippet(url)
-      }
-      if (!summary) {
-        summary = normalizeText(title)
-      }
-      items.push({ title, url, summary, publishedAt: new Date().toISOString(), source: hostnameOf(url) })
-    } catch (e) {
-      items.push({ title: url, url })
-      console.warn('Failed to fetch:', url, e)
+  const unique = new Map<string, Candidate>()
+  for (const candidate of candidates) {
+    const publishedAt = new Date(candidate.publishedAt)
+    if (!Number.isFinite(publishedAt.getTime())) continue
+    if (Date.now() - publishedAt.getTime() > 1000 * 60 * 60 * 72) continue // ignore >72h
+
+    candidate.score = scoreItem(candidate)
+    if (candidate.score < 0) continue
+
+    const key = candidate.url
+    const existing = unique.get(key)
+    if (!existing || candidate.score > existing.score) {
+      unique.set(key, candidate)
     }
   }
 
-  await writeFile(resolve(outDir, 'latest.json'), JSON.stringify(items, null, 2), 'utf8')
-  console.log(`Wrote ${items.length} items to latest.json`)
+  const ranked = Array.from(unique.values())
+    .sort((a, b) => {
+      if (b.score === a.score) {
+        return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+      }
+      return b.score - a.score
+    })
+    .slice(0, MAX_ITEMS)
+
+  await writeFile(OUTPUT_FILE, JSON.stringify(ranked, null, 2), 'utf8')
+  console.log(`Wrote ${ranked.length} items (from ${FEEDS.length} feeds) via RSSHub endpoints: ${RSSHUB_ENDPOINTS.join(', ')}`)
 }
 
-main().catch((e) => {
-  console.error(e)
+main().catch((err) => {
+  console.error(err)
   process.exit(1)
 })
-
-
