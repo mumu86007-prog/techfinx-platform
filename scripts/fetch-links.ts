@@ -46,7 +46,13 @@ async function main() {
     content = await readFile(sourcesPath, 'utf8')
   } catch {
     console.error(`Missing sources list at ${sourcesPath}. Create it with one URL per line.`)
-    await writeFile(resolve(outDir, 'latest.json'), '[]', 'utf8')
+    // Preserve existing latest.json if present to avoid wiping data on CI runs
+    try {
+      const existing = await readFile(resolve(outDir, 'latest.json'), 'utf8')
+      await writeFile(resolve(outDir, 'latest.json'), existing, 'utf8')
+    } catch {
+      await writeFile(resolve(outDir, 'latest.json'), '[]', 'utf8')
+    }
     return
   }
   const urls = content
