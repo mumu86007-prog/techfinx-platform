@@ -39,10 +39,14 @@ const TechLinks = () => {
           if (!r.ok) continue
           const data = await r.json()
           if (mounted) {
-            setItems(Array.isArray(data) ? data.slice(0, 20) : [])
-            setLoading(false)
+            const arr = Array.isArray(data) ? data : []
+            if (arr.length > 0) {
+              setItems(arr.slice(0, 20))
+              setLoading(false)
+              return
+            }
           }
-          return
+          // continue to next candidate when empty
         } catch (e) {
           // try next candidate
         }
