@@ -1,0 +1,37 @@
+name: Fetch Market Prices
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 23 * * 1-5' # 每个交易日 UTC 23:00 拉取（请按需调整）
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update market datasets
+        run: npm run fetch:markets
+
+      - name: Commit and push updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore(data): update market price series'
+          file_pattern: public/data/markets/*.json
+
