@@ -1,4 +1,9 @@
 import { useEffect, useState } from 'react'
+// Fallback: bundle the raw sources list and render URLs if JSON is empty
+// Vite will inline the text content at build time
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore - raw import for text file
+import sourcesRaw from '../../external/tech-links/sources.txt?raw'
 
 type LinkItem = {
   title: string
@@ -42,8 +47,15 @@ const TechLinks = () => {
           // try next candidate
         }
       }
+      // Final fallback: render plain URLs from sources.txt so the page always has content
       if (mounted) {
-        setItems([])
+        const urls = String(sourcesRaw)
+          .split(/\r?\n/)
+          .map((s) => s.trim())
+          .filter((s) => s && !s.startsWith('#'))
+          .slice(0, 20)
+        const fallback = urls.map((u) => ({ title: u, url: u }))
+        setItems(fallback)
         setLoading(false)
       }
     })()
