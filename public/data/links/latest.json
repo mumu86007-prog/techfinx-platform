@@ -4,7 +4,7 @@
     "title": "AI scrapers request commented scripts",
     "url": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Another European agency shifts off US Tech as digital sovereignty gains steam",
     "url": "https://www.zdnet.com/article/another-european-agency-ditches-big-tech-as-digital-sovereignty-movement-gains-steam/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
     "url": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Wheels for free-threaded Python now available for psutil",
     "url": "https://gmpy.dev/blog/2025/wheels-for-free-threaded-python-now-available-in-psutil",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "Bertie the Brain",
     "url": "https://en.wikipedia.org/wiki/Bertie_the_Brain",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,7 @@
     "title": "The cryptography behind electronic passports",
     "url": "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "Perfetto: Swiss army knife for Linux client tracing",
     "url": "https://lalitm.com/perfetto-swiss-army-knife/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +140,7 @@
     "title": "AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process",
     "url": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +157,7 @@
     "title": "John Carmack on Mutable Variables",
     "url": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +170,28 @@
     "score": 7
   },
   {
+    "id": "hackernews-45775642",
+    "title": "How to build silos and decrease collaboration (on purpose)",
+    "url": "https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-45758392",
     "title": "Introducing architecture variants",
     "url": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +208,7 @@
     "title": "x86 architecture 1 byte opcodes",
     "url": "https://www.sandpile.org/x86/opc_1.htm",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +225,7 @@
     "title": "Use DuckDB-WASM to query TB of data in browser",
     "url": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +242,7 @@
     "title": "Nix Derivation Madness",
     "url": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +259,7 @@
     "title": "My Impressions of the MacBook Pro M4",
     "url": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +276,7 @@
     "title": "Lording it, over: A new history of the modern British aristocracy",
     "url": "https://newcriterion.com/article/lording-it-over/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +293,7 @@
     "title": "Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)",
     "url": "https://docs.pangolin.net/careers/software-engineer-full-stack",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +310,7 @@
     "title": "Addiction Markets: Abolish Corporate-Run Gambling",
     "url": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "It's the \"Hardware\", Stupid",
     "url": "https://haebom.dev/archive?post=4w67rj24q76nrm5yq8ep",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45732160",
-    "title": "Floppy Disk / Diskettes // retrocmp / retro computing",
-    "url": "https://retrocmp.de/fdd/diskette/diskette.htm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T22:13:02.783Z",
+    "publishedAt": "2025-10-31T23:12:49.955Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
