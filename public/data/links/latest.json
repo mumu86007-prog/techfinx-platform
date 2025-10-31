@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-45766253",
-    "title": "Why We're Never Using Wise Again – A Cautionary Tale from a Business Burned",
-    "url": "https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/",
+    "id": "hackernews-45746482",
+    "title": "Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders",
+    "url": "https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,31 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 7
+  },
+  {
+    "id": "hackernews-45767725",
+    "title": "John Carmack on Mutable Variables",
+    "url": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
   },
   {
     "id": "hackernews-45767916",
     "title": "AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process",
     "url": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.113Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -32,47 +49,13 @@
       "社区"
     ],
     "score": 7
-  },
-  {
-    "id": "hackernews-45746482",
-    "title": "Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders",
-    "url": "https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-45768156",
-    "title": "No Code",
-    "url": "https://github.com/lemonyte/no-code",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-45761445",
     "title": "Affinity Studio Now Free",
     "url": "https://www.affinity.studio/get-affinity",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,41 +72,7 @@
     "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
     "url": "https://github.com/MoonshotAI/Kimi-Linear",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45765787",
-    "title": "Phone numbers for use in TV shows, films and creative works",
-    "url": "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45762259",
-    "title": "The ear does not do a Fourier transform",
-    "url": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +89,7 @@
     "title": "Rouille – Rust Programming, in French",
     "url": "https://github.com/bnjbvr/rouille",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45755027",
-    "title": "NPM flooded with malicious packages downloaded more than 86k times",
-    "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+    "id": "hackernews-45762259",
+    "title": "The ear does not do a Fourier transform",
+    "url": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,62 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45736461",
-    "title": "Springs and bounces in native CSS",
-    "url": "https://www.joshwcomeau.com/animation/linear-timing-function/",
+    "id": "hackernews-45765787",
+    "title": "Phone numbers for use in TV shows, films and creative works",
+    "url": "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45742957",
-    "title": "Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road",
-    "url": "https://theamericanscholar.org/scrolling-through/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45700672",
-    "title": "Modifying a radiation meter for (radioactive) rock collecting",
-    "url": "https://maurycyz.com/projects/ludlum3/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45712620",
-    "title": "987654321 / 123456789",
-    "url": "https://www.johndcook.com/blog/2025/10/26/987654321/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +140,7 @@
     "title": "Free software scares normal people",
     "url": "https://danieldelaney.net/normal/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +153,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-45767325",
-    "title": "ICE and the Smartphone Panopticon",
-    "url": "https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon",
+    "id": "hackernews-45700672",
+    "title": "Modifying a radiation meter for (radioactive) rock collecting",
+    "url": "https://maurycyz.com/projects/ludlum3/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45712620",
+    "title": "987654321 / 123456789",
+    "url": "https://www.johndcook.com/blog/2025/10/26/987654321/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +191,7 @@
     "title": "Show HN: Quibbler – A critic for your coding agent that learns what you want",
     "url": "https://github.com/fulcrumresearch/quibbler",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45743232",
-    "title": "Show HN: Front End Fuzzy and Substring and Prefix Search",
-    "url": "https://github.com/m31coding/fuzzy-search",
+    "id": "hackernews-45736461",
+    "title": "Springs and bounces in native CSS",
+    "url": "https://www.joshwcomeau.com/animation/linear-timing-function/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +221,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-45763877",
-    "title": "Minecraft HDL, an HDL for Redstone",
-    "url": "https://github.com/itsfrank/MinecraftHDL",
+    "id": "hackernews-45755027",
+    "title": "NPM flooded with malicious packages downloaded more than 86k times",
+    "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45702281",
+    "title": "Exceptional Measurement of Chirality",
+    "url": "https://www.rsc.org/news/2019/july/exceptional-measurement-of-chirality",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45720616",
+    "title": "Florian Schneider Collection: Instruments and Equipment Up for Auction",
+    "url": "https://www.juliensauctions.com/en/articles/the-florian-schneider-collection-rare-instruments-and-iconic-equipment-from-kraftwerk",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45742957",
+    "title": "Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road",
+    "url": "https://theamericanscholar.org/scrolling-through/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +293,41 @@
     "title": "Show HN: I made a heatmap diff viewer for code reviews",
     "url": "https://0github.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-10-31T09:14:54.472Z",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45746020",
+    "title": "Zig's New Async I/O",
+    "url": "https://andrewkelley.me/post/zig-new-async-io-text-version.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45763877",
+    "title": "Minecraft HDL, an HDL for Redstone",
+    "url": "https://github.com/itsfrank/MinecraftHDL",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-10-31T10:14:42.114Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
