@@ -5,12 +5,16 @@ import { useEffect, useState } from 'react'
 // @ts-ignore - raw import for text file
 import sourcesRaw from '../../external/tech-links/sources.txt?raw'
 
+type SourceInfo = string | { id?: string; name?: string; category?: string }
+
 type LinkItem = {
   title: string
   url: string
   summary?: string
   publishedAt?: string
-  source?: string
+  source?: SourceInfo
+  tags?: string[]
+  score?: number
 }
 
 const TechLinks = () => {
@@ -57,6 +61,12 @@ const TechLinks = () => {
     } catch {
       return undefined
     }
+  }
+
+  const sourceLabelOf = (source?: SourceInfo) => {
+    if (!source) return undefined
+    if (typeof source === 'string') return source
+    return source.name || source.id || source.category || undefined
   }
 
   useEffect(() => {
@@ -140,12 +150,24 @@ const TechLinks = () => {
             <a href={it.url} target="_blank" rel="noreferrer" className="text-primary font-medium hover:underline">
               {it.title || it.url}
             </a>
-            {it.source && <div className="text-xs text-text-secondary mt-1">来源：{it.source}</div>}
+            {(() => {
+              const label = sourceLabelOf(it.source)
+              return label ? <div className="text-xs text-text-secondary mt-1">来源：{label}</div> : null
+            })()}
             {it.publishedAt && <div className="text-xs text-text-secondary">时间：{new Date(it.publishedAt).toLocaleString()}</div>}
             {(() => {
               const summary = snippetOf(it.summary) ?? snippetOf(it.title) ?? snippetOf(it.url)
               return summary ? <p className="text-sm text-text-secondary mt-2 leading-relaxed">{summary}</p> : null
             })()}
+            {it.tags && it.tags.length > 0 && (
+              <div className="mt-2 text-xs text-text-tertiary space-x-2">
+                {it.tags.map((tag) => (
+                  <span key={tag} className="inline-block px-2 py-0.5 rounded bg-muted text-text-secondary">
+                    #{tag}
+                  </span>
+                ))}
+              </div>
+            )}
           </li>
         ))}
       </ul>
