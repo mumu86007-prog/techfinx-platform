@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-45777828",
-    "title": "OpenAI updates terms to forbid usage for medical and legal advice",
-    "url": "https://openai.com/policies/usage-policies/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.330Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45771636",
-    "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
-    "url": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.330Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45734865",
     "title": "Show HN: Pipelex – Declarative language for repeatable AI workflows",
     "url": "https://github.com/Pipelex/pipelex",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45773347",
-    "title": "AI scrapers request commented scripts",
-    "url": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +21,24 @@
     "title": "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45773347",
+    "title": "AI scrapers request commented scripts",
+    "url": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +55,7 @@
     "title": "The cryptography behind electronic passports",
     "url": "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.330Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,28 +68,11 @@
     "score": 7.5
   },
   {
-    "id": "hackernews-45771019",
-    "title": "Perfetto: Swiss army knife for Linux client tracing",
-    "url": "https://lalitm.com/perfetto-swiss-army-knife/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
     "id": "hackernews-45719829",
     "title": "Active listening: the Swiss Army Knife of communication",
     "url": "https://togetherlondon.com/insights/active-listening-swiss-army-knife",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +85,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45774198",
-    "title": "Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)",
-    "url": "https://docs.pangolin.net/careers/software-engineer-full-stack",
+    "id": "hackernews-45771019",
+    "title": "Perfetto: Swiss army knife for Linux client tracing",
+    "url": "https://lalitm.com/perfetto-swiss-army-knife/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.330Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -150,14 +99,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 7
   },
   {
-    "id": "hackernews-45706707",
-    "title": "Lording it, over: A new history of the modern British aristocracy",
-    "url": "https://newcriterion.com/article/lording-it-over/",
+    "id": "hackernews-45779181",
+    "title": "New analog chip that is 1k times faster than high-end Nvidia GPUs",
+    "url": "https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.330Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -167,82 +116,31 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45777015",
-    "title": "Tim Bray on Grokipedia",
-    "url": "https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.330Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45681514",
-    "title": "The 1924 New Mexico regional banking panic",
-    "url": "https://nodumbideas.com/p/labor-day-special-the-1924-new-mexico",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.330Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45777683",
-    "title": "Photographing the rare brown hyena stalking a diamond mining ghost town",
-    "url": "https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.330Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45764986",
-    "title": "Apple reports fourth quarter results",
-    "url": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.330Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 7
   },
   {
     "id": "hackernews-45777810",
     "title": "Show HN: Strange Attractors",
     "url": "https://blog.shashanktomar.com/posts/strange-attractors",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45778984",
+    "title": "The Profitable Startup",
+    "url": "https://linear.app/now/the-profitable-startup",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +157,7 @@
     "title": "S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine",
     "url": "https://github.com/vindar/SARCASM",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +174,41 @@
     "title": "Futurelock: A subtle risk in async Rust",
     "url": "https://rfd.shared.oxide.computer/rfd/0609",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45779261",
+    "title": "Intent to Deprecate and Remove: Deprecate and Remove XSLT",
+    "url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45686678",
+    "title": "Why Should I Care What Color the Bikeshed Is?",
+    "url": "https://www.bikeshed.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +225,7 @@
     "title": "Introducing architecture variants",
     "url": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +242,7 @@
     "title": "The Last PCB You'll Ever Buy [video]",
     "url": "https://www.youtube.com/watch?v=A_IUIyyqw0M",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +259,75 @@
     "title": "Addiction Markets: Abolish Corporate-Run Gambling",
     "url": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-01T06:18:19.329Z",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45770304",
+    "title": "My Impressions of the MacBook Pro M4",
+    "url": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45741569",
+    "title": "Hacking India's largest automaker: Tata Motors",
+    "url": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45774571",
+    "title": "Use DuckDB-WASM to query TB of data in browser",
+    "url": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45763359",
+    "title": "How We Found 7 TiB of Memory Just Sitting Around",
+    "url": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-01T07:12:16.233Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
