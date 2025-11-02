@@ -4,7 +4,7 @@
     "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
     "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 9
   },
   {
-    "id": "hackernews-45785858",
-    "title": "OS maintained by a single developer since 1997: Visopsys",
-    "url": "https://visopsys.org/",
+    "id": "hackernews-45785840",
+    "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+    "url": "https://sailfishos.org/info/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Chat Control proposal fails again after public opposition",
     "url": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,62 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45785794",
-    "title": "AI Broke Interviews",
-    "url": "https://yusufaytas.com/ai-broke-interviews/",
+    "id": "hackernews-45785858",
+    "title": "OS maintained by a single developer since 1997: Visopsys",
+    "url": "https://visopsys.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45783206",
-    "title": "What the Air You Breathe May Be Doing to Your Brain",
-    "url": "https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45784185",
-    "title": "Czech police forced to turn off facial recognition cameras at the Prague airport",
-    "url": "https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45785840",
-    "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
-    "url": "https://sailfishos.org/info/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.311Z",
+    "publishedAt": "2025-11-02T03:10:50.912Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +72,7 @@
     "title": "Claude Code Can Debug Low-Level Cryptography",
     "url": "https://words.filippo.io/claude-debugging/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +85,79 @@
     "score": 7.5
   },
   {
+    "id": "hackernews-45786192",
+    "title": "Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets",
+    "url": "https://github.com/Amal-David/keyleak-detector",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-45786738",
+    "title": "How I Use Every Claude Code Feature",
+    "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45786914",
+    "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
+    "url": "https://blog.cloudflare.com/private-rate-limiting/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45786324",
+    "title": "Pomelli",
+    "url": "https://labs.google.com/pomelli/about/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-45782136",
     "title": "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
     "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,41 +174,7 @@
     "title": "GHC now runs in the browser",
     "url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45784596",
-    "title": "Beginner-friendly, unofficial documentation for Helix text editor",
-    "url": "https://helix-editor.vercel.app/start-here/basics/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45784729",
-    "title": "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
-    "url": "https://blog.tymscar.com/posts/wifi7speedhunt/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +191,58 @@
     "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
     "url": "https://github.com/samrolken/nokode",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45784596",
+    "title": "Beginner-friendly, unofficial documentation for Helix text editor",
+    "url": "https://helix-editor.vercel.app/start-here/basics/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45787036",
+    "title": "A Few Words About Async",
+    "url": "https://yoric.github.io/post/quite-a-few-words-about-async/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45727696",
+    "title": "3M Diskette Reference Manual (1983) [pdf]",
+    "url": "https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +259,7 @@
     "title": "SQLite concurrency and why you should care about it",
     "url": "https://jellyfin.org/posts/SQLite-locking/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45742886",
-    "title": "The hardest program I've ever written (2015)",
-    "url": "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/",
+    "id": "hackernews-45786888",
+    "title": "Why \"Everyone Dies\" Gets AGI All Wrong",
+    "url": "https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,45 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45730940",
-    "title": "Austria: Pylons as sculpture for public acceptance of expanding electrification",
-    "url": "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals",
+    "id": "hackernews-45703666",
+    "title": "How to Build a Solar Powered Electric Oven",
+    "url": "https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45781397",
-    "title": "CharlotteOS – An Experimental Modern Operating System",
-    "url": "https://github.com/charlotte-os/Catten",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45701506",
-    "title": "The Suppliers Behind the Apple Pencil Pro",
-    "url": "https://quartr.com/insights/company-research/the-suppliers-behind-the-apple-pencil-pro",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +310,7 @@
     "title": "OpenDesk by the Centre for Digital Sovereignty",
     "url": "https://www.opendesk.eu/en/product",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45784455",
-    "title": "Word2vec-style vector arithmetic on docs embeddings",
-    "url": "https://technicalwriting.dev/embeddings/arithmetic/index.html",
+    "id": "hackernews-45733453",
+    "title": "RegEx Crossword",
+    "url": "https://jimbly.github.io/regex-crossword/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T01:07:25.312Z",
+    "publishedAt": "2025-11-02T03:10:50.913Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
