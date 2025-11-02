@@ -4,7 +4,7 @@
     "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
     "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,28 @@
     "score": 9
   },
   {
+    "id": "hackernews-45785858",
+    "title": "OS maintained by a single developer since 1997: Visopsys",
+    "url": "https://visopsys.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-45788327",
     "title": "Why do AI models use so many em-dashes?",
     "url": "https://www.seangoedecke.com/em-dashes/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +55,7 @@
     "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
     "url": "https://sailfishos.org/info/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45785858",
-    "title": "OS maintained by a single developer since 1997: Visopsys",
-    "url": "https://visopsys.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.803Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Claude Code Can Debug Low-Level Cryptography",
     "url": "https://words.filippo.io/claude-debugging/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "The Naked Man Problem and the Secret to Never Forgetting Numbers",
     "url": "https://ninjasandrobots.com/the-naked-man-problem-and-the-secret-to-never-forgetting-numbers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +102,28 @@
     "score": 7
   },
   {
+    "id": "hackernews-45788040",
+    "title": "Notes by djb on using Fil-C (2025)",
+    "url": "https://cr.yp.to/2025/fil-c.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-45786738",
     "title": "How I Use Every Claude Code Feature",
     "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "CLI to manage your SQL database schemas and migrations",
     "url": "https://github.com/gh-PonyM/shed",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +157,7 @@
     "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
     "url": "https://github.com/frostyplanet/crossfire-rs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,7 @@
     "title": "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
     "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +191,7 @@
     "title": "Pomelli",
     "url": "https://labs.google.com/pomelli/about/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +208,7 @@
     "title": "LM8560, the eternal chip from the 1980 years",
     "url": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +225,7 @@
     "title": "FlightAware Map Design",
     "url": "https://andywoodruff.com/posts/2024/flightaware-maps/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +242,7 @@
     "title": "Hyperbolic Non-Euclidean World (2007)",
     "url": "http://web1.kcn.jp/hp28ah77/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +259,7 @@
     "title": "GHC now runs in the browser",
     "url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +276,7 @@
     "title": "Chip Hall of Fame: Intel 8088 Microprocessor",
     "url": "https://spectrum.ieee.org/chip-hall-of-fame-intel-8088-microprocessor",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +293,7 @@
     "title": "You Don't Need Anubis",
     "url": "https://fxgn.dev/blog/anubis/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +310,7 @@
     "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
     "url": "https://blog.cloudflare.com/private-rate-limiting/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
     "url": "https://github.com/samrolken/nokode",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45781298",
-    "title": "SQLite concurrency and why you should care about it",
-    "url": "https://jellyfin.org/posts/SQLite-locking/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T11:10:06.804Z",
+    "publishedAt": "2025-11-02T12:23:35.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
