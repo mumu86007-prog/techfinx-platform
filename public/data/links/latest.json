@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-45762160",
-    "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
-    "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
+    "id": "hackernews-45789602",
+    "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
+    "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.799Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,14 @@
       "开发者",
       "社区"
     ],
-    "score": 9
+    "score": 8
   },
   {
-    "id": "hackernews-45789602",
-    "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
-    "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
+    "id": "hackernews-45730366",
+    "title": "Rats filmed snatching bats from air for first time",
+    "url": "https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Autodesk's John Walker Explained HP and IBM in 1991",
     "url": "https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "OS maintained by a single developer since 1997: Visopsys",
     "url": "https://visopsys.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Claude Code Can Debug Low-Level Cryptography",
     "url": "https://words.filippo.io/claude-debugging/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +85,11 @@
     "score": 7.5
   },
   {
-    "id": "hackernews-45786914",
-    "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
-    "url": "https://blog.cloudflare.com/private-rate-limiting/",
+    "id": "hackernews-45790015",
+    "title": "X.org Security Advisory: multiple security issues X.Org X server and Xwayland",
+    "url": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.799Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -99,14 +99,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 7
   },
   {
-    "id": "hackernews-45784596",
-    "title": "Beginner-friendly, unofficial documentation for Helix text editor",
-    "url": "https://helix-editor.vercel.app/start-here/basics/",
+    "id": "hackernews-45790867",
+    "title": "New South Korean national law will turn large parking lots into solar farms",
+    "url": "https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.799Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -116,14 +116,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 7
   },
   {
-    "id": "hackernews-45784729",
-    "title": "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
-    "url": "https://blog.tymscar.com/posts/wifi7speedhunt/",
+    "id": "hackernews-45791882",
+    "title": "At the end you use Git bisect",
+    "url": "https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.799Z",
+    "publishedAt": "2025-11-02T21:11:18.276Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -133,14 +133,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 7
   },
   {
     "id": "hackernews-45790827",
     "title": "\"Why don't you use dependent types?\"",
     "url": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,45 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45789474",
-    "title": "Your URL Is Your State",
-    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+    "id": "hackernews-45792209",
+    "title": "Anti-cybercrime laws are being weaponized to repress journalism",
+    "url": "https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45789556",
-    "title": "Mock – An API creation and testing utility: Examples",
-    "url": "https://dhuan.github.io/mock/latest/examples.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45787993",
-    "title": "Backpropagation is a leaky abstraction",
-    "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +174,7 @@
     "title": "Notes by djb on using Fil-C (2025)",
     "url": "https://cr.yp.to/2025/fil-c.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +187,96 @@
     "score": 6
   },
   {
-    "id": "hackernews-45789640",
-    "title": "Show HN: Open data reveals “100% renewable” UK energy isn’t really 100%",
-    "url": "https://matched.energy/blog/matched-clean-power-index-is-live",
+    "id": "hackernews-45790293",
+    "title": "Writing FreeDOS Programs in C",
+    "url": "https://www.freedos.org/books/cprogramming/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45789474",
+    "title": "Your URL Is Your State",
+    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45790061",
+    "title": "A prison of my own making",
+    "url": "https://jsteuernagel.de/posts/a-prison-of-my-own-making/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45787993",
+    "title": "Backpropagation is a leaky abstraction",
+    "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45789556",
+    "title": "Mock – An API creation and testing utility: Examples",
+    "url": "https://dhuan.github.io/mock/latest/examples.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45740382",
+    "title": "Preserving Digital Memory at the Festival of Floppies",
+    "url": "https://digitalpreservation-blog.lib.cam.ac.uk/preserving-digital-memory-at-the-festival-of-floppies-200f01092738",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,24 +293,7 @@
     "title": "Go Primitive in Java, or Go in a Box",
     "url": "https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45789596",
-    "title": "HyperRogue, the non-Euclidean roguelike, is a mind-melting masterpiece",
-    "url": "https://roguetemple.com/z/hyper/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +310,7 @@
     "title": "Welcome to hell; please drive carefully",
     "url": "https://2earth.github.io/website/20251026.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,45 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45782136",
-    "title": "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
-    "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+    "id": "hackernews-45712017",
+    "title": "A man who changes the time on Big Ben",
+    "url": "https://www.mylondon.news/news/zone-1-news/meet-man-who-changes-time-32715300",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45786738",
-    "title": "How I Use Every Claude Code Feature",
-    "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45786324",
-    "title": "Pomelli",
-    "url": "https://labs.google.com/pomelli/about/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T20:13:20.798Z",
+    "publishedAt": "2025-11-02T21:11:18.277Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
