@@ -1,10 +1,95 @@
 [
   {
-    "id": "hackernews-45719829",
-    "title": "Active listening: the Swiss Army Knife of communication",
-    "url": "https://togetherlondon.com/insights/active-listening-swiss-army-knife",
+    "id": "hackernews-45762160",
+    "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
+    "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
+    "id": "hackernews-45785858",
+    "title": "OS maintained by a single developer since 1997: Visopsys",
+    "url": "https://visopsys.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45788327",
+    "title": "Why do AI models use so many em-dashes?",
+    "url": "https://www.seangoedecke.com/em-dashes/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45785840",
+    "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+    "url": "https://sailfishos.org/info/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45784179",
+    "title": "Claude Code Can Debug Low-Level Cryptography",
+    "url": "https://words.filippo.io/claude-debugging/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7.5
+  },
+  {
+    "id": "hackernews-45735432",
+    "title": "The Naked Man Problem and the Secret to Never Forgetting Numbers",
+    "url": "https://ninjasandrobots.com/the-naked-man-problem-and-the-secret-to-never-forgetting-numbers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,28 +102,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45771019",
-    "title": "Perfetto: Swiss army knife for Linux client tracing",
-    "url": "https://lalitm.com/perfetto-swiss-army-knife/",
+    "id": "hackernews-45787993",
+    "title": "Backpropagation is a leaky abstraction",
+    "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-45781293",
-    "title": "Abandonware of the web: do you know that there is an HTML tables API?",
-    "url": "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45781298",
-    "title": "SQLite concurrency and why you should care about it",
-    "url": "https://jellyfin.org/posts/SQLite-locking/",
+    "id": "hackernews-45788040",
+    "title": "Notes by djb on using Fil-C (2025)",
+    "url": "https://cr.yp.to/2025/fil-c.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45781397",
-    "title": "CharlotteOS – An Experimental Modern Operating System",
-    "url": "https://github.com/charlotte-os/Catten",
+    "id": "hackernews-45786738",
+    "title": "How I Use Every Claude Code Feature",
+    "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45777810",
-    "title": "Show HN: Strange Attractors",
-    "url": "https://blog.shashanktomar.com/posts/strange-attractors",
+    "id": "hackernews-45788202",
+    "title": "CLI to manage your SQL database schemas and migrations",
+    "url": "https://github.com/gh-PonyM/shed",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45779860",
-    "title": "Hard Rust requirements from May onward for all Debian ports",
-    "url": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
+    "id": "hackernews-45787571",
+    "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
+    "url": "https://github.com/frostyplanet/crossfire-rs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45682917",
-    "title": "How I stopped worrying and started loving the Assembly",
-    "url": "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60",
+    "id": "hackernews-45782136",
+    "title": "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
+    "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45682501",
-    "title": "Solving the NY Times \"Pips\" game with F#",
-    "url": "https://github.com/brianberns/Pips",
+    "id": "hackernews-45786324",
+    "title": "Pomelli",
+    "url": "https://labs.google.com/pomelli/about/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45777682",
-    "title": "S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine",
-    "url": "https://github.com/vindar/SARCASM",
+    "id": "hackernews-45787842",
+    "title": "LM8560, the eternal chip from the 1980 years",
+    "url": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45767178",
-    "title": "Myths Programmers Believe about CPU Caches",
-    "url": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/",
+    "id": "hackernews-45719846",
+    "title": "FlightAware Map Design",
+    "url": "https://andywoodruff.com/posts/2024/flightaware-maps/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45774086",
-    "title": "Futurelock: A subtle risk in async Rust",
-    "url": "https://rfd.shared.oxide.computer/rfd/0609",
+    "id": "hackernews-45716371",
+    "title": "Hyperbolic Non-Euclidean World (2007)",
+    "url": "http://web1.kcn.jp/hp28ah77/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45766501",
-    "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
-    "url": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+    "id": "hackernews-45782981",
+    "title": "GHC now runs in the browser",
+    "url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45679050",
-    "title": "'Killing the Dead' Review: Watch the Graveyard",
-    "url": "https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4",
+    "id": "hackernews-45715408",
+    "title": "Chip Hall of Fame: Intel 8088 Microprocessor",
+    "url": "https://spectrum.ieee.org/chip-hall-of-fame-intel-8088-microprocessor",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45774640",
-    "title": "Addiction Markets: Abolish Corporate-Run Gambling",
-    "url": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
+    "id": "hackernews-45787775",
+    "title": "You Don't Need Anubis",
+    "url": "https://fxgn.dev/blog/anubis/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,79 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45731256",
-    "title": "The Impossible Optimization, and the Metaprogramming to Achieve It",
-    "url": "https://verdagon.dev/blog/impossible-optimization",
+    "id": "hackernews-45786914",
+    "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
+    "url": "https://blog.cloudflare.com/private-rate-limiting/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45776269",
-    "title": "A theoretical way to circumvent Android developer verification",
-    "url": "https://enaix.github.io/2025/10/30/developer-verification.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45758392",
-    "title": "Introducing architecture variants",
-    "url": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45706901",
-    "title": "Nisus Writer: Schrödinger's Word Processor",
-    "url": "https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45780228",
-    "title": "You Can't Refuse to Be Scanned by ICE's Facial Recognition App, DHS Document Say",
-    "url": "https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T08:15:43.442Z",
+    "publishedAt": "2025-11-02T09:12:18.284Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
