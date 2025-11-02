@@ -4,7 +4,7 @@
     "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
     "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "We reduced a container image from 800GB to 2GB",
     "url": "https://sealos.io/blog/reduce-container-image-size-case-study",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "OS maintained by a single developer since 1997: Visopsys",
     "url": "https://visopsys.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "Claude Code Can Debug Low-Level Cryptography",
     "url": "https://words.filippo.io/claude-debugging/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +68,28 @@
     "score": 7.5
   },
   {
+    "id": "hackernews-45789556",
+    "title": "Mock – An API creation and testing utility: Examples",
+    "url": "https://dhuan.github.io/mock/latest/examples.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-45787993",
     "title": "Backpropagation is a leaky abstraction",
     "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "Your URL Is Your State",
     "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +123,7 @@
     "title": "Notes by djb on using Fil-C (2025)",
     "url": "https://cr.yp.to/2025/fil-c.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "When O3 is 2x slower than O2",
     "url": "https://cat-solstice.github.io/test-pqueue/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +157,7 @@
     "title": "How I Use Every Claude Code Feature",
     "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,7 @@
     "title": "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
     "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +191,7 @@
     "title": "Pomelli",
     "url": "https://labs.google.com/pomelli/about/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +208,7 @@
     "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
     "url": "https://github.com/frostyplanet/crossfire-rs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +225,7 @@
     "title": "Sam Altman wants a refund for his $50k Tesla Roadster deposit",
     "url": "https://arstechnica.com/cars/2025/10/sam-altman-wants-a-refund-for-his-50000-tesla-roadster-deposit/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +242,7 @@
     "title": "LM8560, the eternal chip from the 1980 years",
     "url": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +259,7 @@
     "title": "Welcome to hell; please drive carefully",
     "url": "https://2earth.github.io/website/20251026.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +276,7 @@
     "title": "FlightAware Map Design",
     "url": "https://andywoodruff.com/posts/2024/flightaware-maps/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +293,7 @@
     "title": "Context engineering",
     "url": "https://chrisloy.dev/post/2025/08/03/context-engineering",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +310,7 @@
     "title": "GHC now runs in the browser",
     "url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "Automatically Translating C to Rust",
     "url": "https://cacm.acm.org/research/automatically-translating-c-to-rust/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45783640",
-    "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
-    "url": "https://github.com/samrolken/nokode",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T14:11:20.333Z",
+    "publishedAt": "2025-11-02T15:11:53.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
