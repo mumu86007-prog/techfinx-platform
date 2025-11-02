@@ -4,7 +4,7 @@
     "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
     "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,28 @@
     "score": 9
   },
   {
+    "id": "hackernews-45785858",
+    "title": "OS maintained by a single developer since 1997: Visopsys",
+    "url": "https://visopsys.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-45785840",
     "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
     "url": "https://sailfishos.org/info/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +55,7 @@
     "title": "Chat Control proposal fails again after public opposition",
     "url": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45785858",
-    "title": "OS maintained by a single developer since 1997: Visopsys",
-    "url": "https://visopsys.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.204Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Claude Code Can Debug Low-Level Cryptography",
     "url": "https://words.filippo.io/claude-debugging/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets",
     "url": "https://github.com/Amal-David/keyleak-detector",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,7 @@
     "title": "How I Use Every Claude Code Feature",
     "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
     "url": "https://blog.cloudflare.com/private-rate-limiting/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +140,7 @@
     "title": "Pomelli",
     "url": "https://labs.google.com/pomelli/about/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +157,7 @@
     "title": "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
     "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +174,7 @@
     "title": "GHC now runs in the browser",
     "url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +191,7 @@
     "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
     "url": "https://github.com/samrolken/nokode",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +208,7 @@
     "title": "Beginner-friendly, unofficial documentation for Helix text editor",
     "url": "https://helix-editor.vercel.app/start-here/basics/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +225,7 @@
     "title": "A Few Words About Async",
     "url": "https://yoric.github.io/post/quite-a-few-words-about-async/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +242,7 @@
     "title": "3M Diskette Reference Manual (1983) [pdf]",
     "url": "https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +259,7 @@
     "title": "SQLite concurrency and why you should care about it",
     "url": "https://jellyfin.org/posts/SQLite-locking/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +276,7 @@
     "title": "Why \"Everyone Dies\" Gets AGI All Wrong",
     "url": "https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +293,7 @@
     "title": "How to Build a Solar Powered Electric Oven",
     "url": "https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +310,7 @@
     "title": "OpenDesk by the Centre for Digital Sovereignty",
     "url": "https://www.opendesk.eu/en/product",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "RegEx Crossword",
     "url": "https://jimbly.github.io/regex-crossword/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-02T04:17:02.205Z",
+    "publishedAt": "2025-11-02T05:13:04.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
