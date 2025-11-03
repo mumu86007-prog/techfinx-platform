@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-45793652",
+    "title": "FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI",
+    "url": "https://news.ycombinator.com/item?id=45793652",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-45789424",
     "title": "Using FreeBSD to make self-hosting fun again",
     "url": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.754Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
     "url": "https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.754Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
     "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.754Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,24 +72,7 @@
     "title": "Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy",
     "url": "https://www.syllabi-ai.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45793652",
-    "title": "FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI",
-    "url": "https://news.ycombinator.com/item?id=45793652",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.754Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "'No idea who he is', says Trump after pardoning crypto tycoon",
     "url": "https://www.bbc.com/news/articles/cn7ek63e5xyo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,7 @@
     "title": "X.org Security Advisory: multiple security issues X.Org X server and Xwayland",
     "url": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second",
     "url": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +140,7 @@
     "title": "Is Your Bluetooth Chip Leaking Secrets via RF Signals?",
     "url": "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,130 +153,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45794032",
-    "title": "Facts About Throwing Good Parties",
-    "url": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45795511",
-    "title": "Oxy is Cloudflare's Rust-based next generation proxy framework",
-    "url": "https://blog.cloudflare.com/introducing-oxy/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45793466",
-    "title": "Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It",
-    "url": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45743105",
-    "title": "When models manipulate manifolds: The geometry of a counting task",
-    "url": "https://transformer-circuits.pub/2025/linebreaks/index.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45793244",
-    "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
-    "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45790827",
-    "title": "\"Why don't you use dependent types?\"",
-    "url": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45707330",
-    "title": "Terahertz Tech Sets Stage for \"Wireless Wired\" Chips",
-    "url": "https://spectrum.ieee.org/terahertz-chip-room-temperature",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-45789474",
     "title": "Your URL Is Your State",
     "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +174,7 @@
     "title": "How the Mayans were able to accurately predict solar eclipses for centuries",
     "url": "https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +191,7 @@
     "title": "Lisp: Notes on its Past and Future (1980)",
     "url": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +208,126 @@
     "title": "Collatz-Weyl Generators: Pseudorandom Number Generators",
     "url": "https://arxiv.org/abs/2312.17043",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T10:16:59.019Z",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45795036",
+    "title": "Simple trick to increase coverage: Lying to users about signal strength",
+    "url": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45735246",
+    "title": "Why does Swiss cheese have holes?",
+    "url": "https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45792373",
+    "title": "Reproducing the AWS Outage Race Condition with a Model Checker",
+    "url": "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45788040",
+    "title": "Notes by djb on using Fil-C (2025)",
+    "url": "https://cr.yp.to/2025/fil-c.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45773421",
+    "title": "The Arduino Uno Q is a weird hybrid SBC",
+    "url": "https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45693719",
+    "title": "Ask HN: Anyone else use FreePascal as their low level language?",
+    "url": "https://news.ycombinator.com/item?id=45693719",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45787993",
+    "title": "Backpropagation is a leaky abstraction",
+    "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T11:12:02.755Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
