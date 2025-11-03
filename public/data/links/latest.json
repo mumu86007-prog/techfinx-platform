@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-45789424",
-    "title": "Using FreeBSD to make self-hosting fun again",
-    "url": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45789602",
-    "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
-    "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45793652",
     "title": "FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI",
     "url": "https://news.ycombinator.com/item?id=45793652",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "Autodesk's John Walker Explained HP and IBM in 1991",
     "url": "https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45730366",
-    "title": "Rats filmed snatching bats from air for first time",
-    "url": "https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time",
+    "id": "hackernews-45795186",
+    "title": "Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy",
+    "url": "https://www.syllabi-ai.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +51,28 @@
     "score": 8
   },
   {
-    "id": "hackernews-45785858",
-    "title": "OS maintained by a single developer since 1997: Visopsys",
-    "url": "https://visopsys.org/",
+    "id": "hackernews-45789424",
+    "title": "Using FreeBSD to make self-hosting fun again",
+    "url": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.449Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45789602",
+    "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
+    "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T06:21:56.449Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +89,7 @@
     "title": "X.org Security Advisory: multiple security issues X.Org X server and Xwayland",
     "url": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,7 @@
     "title": "Is Your Bluetooth Chip Leaking Secrets via RF Signals?",
     "url": "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,7 @@
     "title": "At the end you use Git bisect",
     "url": "https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,130 +136,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45794032",
-    "title": "Facts About Throwing Good Parties",
-    "url": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45793244",
-    "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
-    "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45790827",
-    "title": "\"Why don't you use dependent types?\"",
-    "url": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45792579",
-    "title": "Lisp: Notes on its Past and Future (1980)",
-    "url": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45792373",
-    "title": "Reproducing the AWS Outage Race Condition with a Model Checker",
-    "url": "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45722344",
-    "title": "Scents of Arabia: Interdisciplinary approaches to ancient olfactory worlds",
-    "url": "https://www.scientificamerican.com/article/how-archaeology-is-reviving-the-smell-of-history/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-45735246",
     "title": "Why does Swiss cheese have holes?",
     "url": "https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45789474",
-    "title": "Your URL Is Your State",
-    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +157,7 @@
     "title": "Notes by djb on using Fil-C (2025)",
     "url": "https://cr.yp.to/2025/fil-c.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +174,24 @@
     "title": "Solar-powered QR reading postboxes being rolled out across UK",
     "url": "https://www.bbc.co.uk/news/articles/cgln72rgrero",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45707973",
+    "title": "The x86 Interrupt List, aka “Ralf Brown's Interrupt List” (2018)",
+    "url": "http://www.cs.cmu.edu/~ralf/files.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +208,126 @@
     "title": "Anti-cybercrime laws are being weaponized to repress journalism",
     "url": "https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T05:14:49.277Z",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45787993",
+    "title": "Backpropagation is a leaky abstraction",
+    "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45790293",
+    "title": "Writing FreeDOS Programs in C",
+    "url": "https://www.freedos.org/books/cprogramming/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45722344",
+    "title": "Scents of Arabia: Interdisciplinary approaches to ancient olfactory worlds",
+    "url": "https://www.scientificamerican.com/article/how-archaeology-is-reviving-the-smell-of-history/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45794455",
+    "title": "Amazon to start blocking sideloaded piracy apps on Fire TVs",
+    "url": "https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45792503",
+    "title": "Linux gamers on Steam cross over the 3% mark",
+    "url": "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T06:21:56.450Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45794032",
+    "title": "Facts About Throwing Good Parties",
+    "url": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T06:21:56.449Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45795036",
+    "title": "Simple trick to increase coverage: Lying to users about signal strength",
+    "url": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-03T06:21:56.449Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
