@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-45798479",
-    "title": "The Case Against PGVector",
-    "url": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45796421",
-    "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
-    "url": "https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45804377",
     "title": "AI's Dial-Up Era",
     "url": "https://www.wreflection.com/p/ai-dial-up-era",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.399Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "Why AC is cheap, but AC repair is a luxury",
     "url": "https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.399Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +34,181 @@
     "score": 8
   },
   {
+    "id": "hackernews-45798479",
+    "title": "The Case Against PGVector",
+    "url": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45796421",
+    "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
+    "url": "https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45805900",
+    "title": "Things you can do with diodes",
+    "url": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45807018",
+    "title": "An individual can change an organization",
+    "url": "https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45805539",
+    "title": "A Friendly Tour of Process Memory on Linux",
+    "url": "https://www.0xkato.xyz/linux-process-memory/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45806348",
+    "title": "When Stick Figures Fought",
+    "url": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45806903",
+    "title": "My Truck Desk",
+    "url": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45800465",
+    "title": "Ask HN: Who is hiring? (November 2025)",
+    "url": "https://news.ycombinator.com/item?id=45800465",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45805458",
+    "title": "Guideline has been acquired by Gusto",
+    "url": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45719250",
+    "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
+    "url": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-45804122",
     "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
     "url": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +225,7 @@
     "title": "Ask HN: How to deal with long vibe-coded PRs?",
     "url": "https://news.ycombinator.com/item?id=45744209",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +242,7 @@
     "title": "Linkers: A 20 Part Series (2007)",
     "url": "https://www.airs.com/blog/archives/38",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +259,7 @@
     "title": "Learning to read Arthur Whitney's C to become Smart (2024)",
     "url": "https://needleful.net/blog/2024/01/arthur_whitney.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +276,7 @@
     "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
     "url": "https://news.ycombinator.com/item?id=45807775",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +293,7 @@
     "title": "State of Terminal Emulators in 2025: The Errant Champions",
     "url": "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +310,7 @@
     "title": "Ask HN: Who wants to be hired? (November 2025)",
     "url": "https://news.ycombinator.com/item?id=45800464",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,143 +327,7 @@
     "title": "Gallery of wonderful drawings our little thermal printer received",
     "url": "https://guestbook.goodenough.us/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45748816",
-    "title": "A visualization of the RGB space covered by named colors",
-    "url": "https://codepen.io/meodai/full/zdgXJj/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45731469",
-    "title": "Resolution limit of the eye – how many pixels can we see?",
-    "url": "https://www.nature.com/articles/s41467-025-64679-2",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45714937",
-    "title": "The MP3.com Rescue Barge Barge",
-    "url": "https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45802029",
-    "title": "The Case That A.I. Is Thinking",
-    "url": "https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45783074",
-    "title": "WebAssembly (WASM) arch support for the Linux kernel",
-    "url": "https://github.com/joelseverin/linux-wasm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45695712",
-    "title": "Pixi: Reproducible Package Management for Robotics",
-    "url": "https://prefix.dev/blog/reproducible-package-management-for-robotics",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45798881",
-    "title": "Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery",
-    "url": "https://skyfall-gs.jayinnn.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45705583",
-    "title": "Draw high dimensional tensors as a matrix of matrices",
-    "url": "https://blog.ezyang.com/2025/10/draw-high-dimensional-tensors-as-a-matrix-of-matrices/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T06:21:37.400Z",
+    "publishedAt": "2025-11-04T07:14:08.410Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
