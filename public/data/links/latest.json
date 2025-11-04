@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-45798479",
-    "title": "The Case Against PGVector",
-    "url": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.694Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45796421",
     "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
     "url": "https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.694Z",
+    "publishedAt": "2025-11-04T17:10:59.644Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "Show HN: A CSS-Only Terrain Generator",
     "url": "https://terra.layoutit.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "Chaining FFmpeg with a Browser Agent",
     "url": "https://100x.bot/a/chaining-ffmpeg-with-browser-agent",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,7 @@
     "title": "Show HN: I built a local-first daily planner for iOS",
     "url": "https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +72,7 @@
     "title": "AI's Dial-Up Era",
     "url": "https://www.wreflection.com/p/ai-dial-up-era",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +89,24 @@
     "title": "Aisuru botnet shifts from DDoS to residential proxies",
     "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45798479",
+    "title": "The Case Against PGVector",
+    "url": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "The Farmer Was Replaced [video]",
     "url": "https://www.youtube.com/watch?v=aP2WHQKJVsw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,28 +136,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45804122",
-    "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
-    "url": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.694Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-45812024",
     "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
     "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.694Z",
+    "publishedAt": "2025-11-04T17:10:59.644Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +157,7 @@
     "title": "State of Terminal Emulators in 2025: The Errant Champions",
     "url": "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.694Z",
+    "publishedAt": "2025-11-04T17:10:59.644Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +174,7 @@
     "title": "Ask HN: Who wants to be hired? (November 2025)",
     "url": "https://news.ycombinator.com/item?id=45800464",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.694Z",
+    "publishedAt": "2025-11-04T17:10:59.644Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +191,7 @@
     "title": "Optimizing Datalog for the GPU",
     "url": "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +208,7 @@
     "title": "What Is a Manifold?",
     "url": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +225,7 @@
     "title": "You can't cURL a Border",
     "url": "https://drobinin.com/posts/you-cant-curl-a-border/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +242,7 @@
     "title": "Bloom filters are good for search that does not scale",
     "url": "https://notpeerreviewed.com/blog/bloom-filters/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +259,7 @@
     "title": "My Truck Desk",
     "url": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +276,7 @@
     "title": "Customize Nano Text Editor",
     "url": "https://shafi.ddns.net/blog/customize-nano-text-editor",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +293,7 @@
     "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
     "url": "https://news.ycombinator.com/item?id=45807775",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +310,24 @@
     "title": "Things you can do with diodes",
     "url": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T16:17:23.693Z",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45806348",
+    "title": "When Stick Figures Fought",
+    "url": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T17:10:59.643Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
