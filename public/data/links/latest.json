@@ -4,41 +4,7 @@
     "title": "Show HN: A CSS-Only Terrain Generator",
     "url": "https://terra.layoutit.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45813267",
-    "title": "Exploring a space-based, scalable AI infrastructure system design",
-    "url": "https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45813417",
-    "title": "The Rust Foundation Maintainers Fund",
-    "url": "https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,24 +21,7 @@
     "title": "Chaining FFmpeg with a Browser Agent",
     "url": "https://100x.bot/a/chaining-ffmpeg-with-browser-agent",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45810856",
-    "title": "Show HN: I built a local-first daily planner for iOS",
-    "url": "https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +38,7 @@
     "title": "AI's Dial-Up Era",
     "url": "https://www.wreflection.com/p/ai-dial-up-era",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +55,7 @@
     "title": "Aisuru botnet shifts from DDoS to residential proxies",
     "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45812403",
-    "title": "Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers",
-    "url": "https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent",
+    "id": "hackernews-45814461",
+    "title": "Amazon Demands Perplexity Stop AI Agent from Making Purchases",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-04/amazon-demands-perplexity-stop-ai-agent-from-making-purchases",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45813310",
-    "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
-    "url": "https://www.plexe.ai/",
+    "id": "hackernews-45813343",
+    "title": "NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware",
+    "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,45 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45809193",
-    "title": "What Is a Manifold?",
-    "url": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
+    "id": "hackernews-45812606",
+    "title": "Pg_lake: Postgres with Iceberg and data lake access",
+    "url": "https://github.com/Snowflake-Labs/pg_lake",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45811447",
-    "title": "Optimizing Datalog for the GPU",
-    "url": "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45684564",
-    "title": "Recovering videos from my Sony camera that I stupidly deleted",
-    "url": "https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +123,7 @@
     "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
     "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45812000",
-    "title": "How devtools map minified JS code back to your TypeScript source code",
-    "url": "https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals",
+    "id": "hackernews-45813767",
+    "title": "Codemaps: Understand Code, Before You Vibe It",
+    "url": "https://cognition.ai/blog/codemaps",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +153,113 @@
     "score": 6
   },
   {
-    "id": "hackernews-45808998",
-    "title": "Bloom filters are good for search that does not scale",
-    "url": "https://notpeerreviewed.com/blog/bloom-filters/",
+    "id": "hackernews-45734259",
+    "title": "Whole Earth Index",
+    "url": "https://wholeearth.info/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45771151",
+    "title": "By the Power of Grayscale",
+    "url": "https://zserge.com/posts/grayskull/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45813310",
+    "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
+    "url": "https://www.plexe.ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45692042",
+    "title": "Singing bus horns in West Sumatra",
+    "url": "https://www.auralarchipelago.com/auralarchipelago/kalason",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45809193",
+    "title": "What Is a Manifold?",
+    "url": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45684564",
+    "title": "Recovering videos from my Sony camera that I stupidly deleted",
+    "url": "https://www.jeffgeerling.com/blog/2025/recovering-videos-my-sony-camera-i-stupidly-deleted",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45811447",
+    "title": "Optimizing Datalog for the GPU",
+    "url": "https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +276,7 @@
     "title": "My Truck Desk",
     "url": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +289,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-45702316",
-    "title": "Customize Nano Text Editor",
-    "url": "https://shafi.ddns.net/blog/customize-nano-text-editor",
+    "id": "hackernews-45812000",
+    "title": "How devtools map minified JS code back to your TypeScript source code",
+    "url": "https://www.polarsignals.com/blog/posts/2025/11/04/javascript-source-maps-internals",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45808998",
+    "title": "Bloom filters are good for search that does not scale",
+    "url": "https://notpeerreviewed.com/blog/bloom-filters/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,41 +327,7 @@
     "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
     "url": "https://news.ycombinator.com/item?id=45807775",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45812499",
-    "title": "The 512KB Club",
-    "url": "https://512kb.club/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45805900",
-    "title": "Things you can do with diodes",
-    "url": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T21:12:59.224Z",
+    "publishedAt": "2025-11-04T22:12:56.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
