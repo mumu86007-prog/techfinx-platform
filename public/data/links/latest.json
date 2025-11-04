@@ -1,10 +1,44 @@
 [
   {
+    "id": "hackernews-45804377",
+    "title": "AI's Dial-Up Era",
+    "url": "https://www.wreflection.com/p/ai-dial-up-era",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45753109",
+    "title": "Maintaining a Music Library, Ten Years On",
+    "url": "https://brianschrader.com/archive/maintaining-a-music-library-ten-years-on/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-45798479",
     "title": "The Case Against PGVector",
     "url": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45789424",
-    "title": "Using FreeBSD to make self-hosting fun again",
-    "url": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+    "id": "hackernews-45796421",
+    "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
+    "url": "https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45793652",
-    "title": "FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI",
-    "url": "https://news.ycombinator.com/item?id=45793652",
+    "id": "hackernews-45805540",
+    "title": "Claude Code refused to add rainbows and unicorns to my app",
+    "url": "https://news.ycombinator.com/item?id=45805540",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,79 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45798489",
-    "title": "I analyzed 180M jobs to see what jobs AI is replacing today",
-    "url": "https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/",
+    "id": "hackernews-45805458",
+    "title": "Guideline has been acquired by Gusto",
+    "url": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45789602",
-    "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
-    "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45798898",
-    "title": "The Problem with Farmed Seafood",
-    "url": "https://nautil.us/the-problem-with-farmed-seafood-1243674/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-45794245",
-    "title": "New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second",
-    "url": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-45798973",
-    "title": "Tech workers' fight for living wages and a 32-hour workweek is a battle for all",
-    "url": "https://thechiefleader.com/stories/tech-workers-fight-for-living-wages-and-a-32-hour-workweek-is-a-battle-for-workers-everywhere,55298",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45798838",
-    "title": "VimGraph",
-    "url": "https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/",
+    "id": "hackernews-45804122",
+    "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
+    "url": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45798681",
-    "title": "Why Nextcloud feels slow to use",
-    "url": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/",
+    "id": "hackernews-45800465",
+    "title": "Ask HN: Who is hiring? (November 2025)",
+    "url": "https://news.ycombinator.com/item?id=45800465",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45798746",
-    "title": "Offline Math: Converting LaTeX to SVG with MathJax",
-    "url": "https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html",
+    "id": "hackernews-45805539",
+    "title": "A Friendly Tour of Process Memory on Linux",
+    "url": "https://www.0xkato.xyz/linux-process-memory/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +153,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-45783074",
-    "title": "WebAssembly (WASM) arch support for the Linux kernel",
-    "url": "https://github.com/joelseverin/linux-wasm",
+    "id": "hackernews-45800777",
+    "title": "Learning to read Arthur Whitney's C to become Smart (2024)",
+    "url": "https://needleful.net/blog/2024/01/arthur_whitney.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45802459",
+    "title": "Gallery of wonderful drawings our little thermal printer received",
+    "url": "https://guestbook.goodenough.us/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45800464",
+    "title": "Ask HN: Who wants to be hired? (November 2025)",
+    "url": "https://news.ycombinator.com/item?id=45800464",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +208,7 @@
     "title": "Tiny electric motor outperforms record holder by 40%",
     "url": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45746063",
-    "title": "KaTeX – The fastest math typesetting library for the web",
-    "url": "https://katex.org/",
+    "id": "hackernews-45714937",
+    "title": "The MP3.com Rescue Barge Barge",
+    "url": "https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45798871",
-    "title": "Show HN: a Rust ray tracer that runs on any GPU – even in the browser",
-    "url": "https://github.com/tchauffi/rust-rasterizer",
+    "id": "hackernews-45805514",
+    "title": "Linkers: A 20 Part Series (2007)",
+    "url": "https://www.airs.com/blog/archives/38",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45798193",
-    "title": "OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI",
-    "url": "https://github.com/ServiceStack/llms",
+    "id": "hackernews-45799478",
+    "title": "State of Terminal Emulators in 2025: The Errant Champions",
+    "url": "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45714336",
-    "title": "A Turn Lane in Rhododendron",
-    "url": "https://www.greentape.pub/p/a-turn-lane-in-rhododendron",
+    "id": "hackernews-45720919",
+    "title": "S1130 – IBM 1130 Emulator in C#",
+    "url": "https://github.com/semuhphor/S1130/tree/feature/web-frontend",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45795511",
-    "title": "Oxy is Cloudflare's Rust-based next generation proxy framework",
-    "url": "https://blog.cloudflare.com/introducing-oxy/",
+    "id": "hackernews-45748816",
+    "title": "A visualization of the RGB space covered by named colors",
+    "url": "https://codepen.io/meodai/full/zdgXJj/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45793466",
-    "title": "Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It",
-    "url": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
+    "id": "hackernews-45803358",
+    "title": "</> Htmx – The Fetch()ening",
+    "url": "https://htmx.org/essays/the-fetchening/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45720024",
-    "title": "Fish in the Wrong Place",
-    "url": "https://www.lrb.co.uk/the-paper/v47/n19/oliver-cussen/fish-in-the-wrong-place",
+    "id": "hackernews-45802290",
+    "title": "Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or Clojure",
+    "url": "https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-03T23:13:20.585Z",
+    "publishedAt": "2025-11-04T01:03:40.361Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
