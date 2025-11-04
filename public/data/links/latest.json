@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-45808308",
-    "title": "Lessons from 70 interviews on deploying AI Agents in production",
-    "url": "https://mmc.vc/research/state-of-agentic-ai-founders-edition/",
+    "id": "hackernews-45809876",
+    "title": "Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP",
+    "url": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "AI's Dial-Up Era",
     "url": "https://www.wreflection.com/p/ai-dial-up-era",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45808308",
+    "title": "Lessons from 70 interviews on deploying AI Agents in production",
+    "url": "https://mmc.vc/research/state-of-agentic-ai-founders-edition/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Pain Points of OCaml",
     "url": "https://quamserena.com/2025-11-03/pain-points-of-ocaml",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "The Case Against PGVector",
     "url": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
     "url": "https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +102,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45807542",
-    "title": "Why AC is cheap, but AC repair is a luxury",
-    "url": "https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is",
+    "id": "hackernews-45674676",
+    "title": "The Farmer Was Replaced [video]",
+    "url": "https://www.youtube.com/watch?v=aP2WHQKJVsw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -99,14 +116,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 7
   },
   {
-    "id": "hackernews-45806263",
-    "title": "You can't cURL a Border",
-    "url": "https://drobinin.com/posts/you-cant-curl-a-border/",
+    "id": "hackernews-45806903",
+    "title": "My Truck Desk",
+    "url": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "Things you can do with diodes",
     "url": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45806903",
-    "title": "My Truck Desk",
-    "url": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
+    "id": "hackernews-45808998",
+    "title": "Bloom filters are good for search that does not scale",
+    "url": "https://notpeerreviewed.com/blog/bloom-filters/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,24 @@
     "title": "When Stick Figures Fought",
     "url": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45729340",
+    "title": "Reverse-engineered CUPS driver for Phomemo receipt/label printers",
+    "url": "https://github.com/vivier/phomemo-tools",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +208,7 @@
     "title": "A Friendly Tour of Process Memory on Linux",
     "url": "https://www.0xkato.xyz/linux-process-memory/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,75 +225,7 @@
     "title": "Ask HN: Who is hiring? (November 2025)",
     "url": "https://news.ycombinator.com/item?id=45800465",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45808690",
-    "title": "Some software bloat is OK",
-    "url": "https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45800777",
-    "title": "Learning to read Arthur Whitney's C to become Smart (2024)",
-    "url": "https://needleful.net/blog/2024/01/arthur_whitney.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45805458",
-    "title": "Guideline has been acquired by Gusto",
-    "url": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45804122",
-    "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
-    "url": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +242,58 @@
     "title": "Tenacity – a multi-track audio editor/recorder",
     "url": "https://tenacityaudio.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45800777",
+    "title": "Learning to read Arthur Whitney's C to become Smart (2024)",
+    "url": "https://needleful.net/blog/2024/01/arthur_whitney.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45808918",
+    "title": "Show HN: Yourshoesmells.com – Find the most smelly boulder gym",
+    "url": "https://yourshoesmells.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45804122",
+    "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
+    "url": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,24 +310,7 @@
     "title": "Resolution limit of the eye – how many pixels can we see?",
     "url": "https://www.nature.com/articles/s41467-025-64679-2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45719250",
-    "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
-    "url": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "The Case That A.I. Is Thinking",
     "url": "https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-04T14:14:36.567Z",
+    "publishedAt": "2025-11-04T15:15:36.175Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
