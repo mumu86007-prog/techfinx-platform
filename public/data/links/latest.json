@@ -4,7 +4,7 @@
     "title": "Show HN: A CSS-Only Terrain Generator",
     "url": "https://terra.layoutit.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45810430",
-    "title": "Chaining FFmpeg with a Browser Agent",
-    "url": "https://100x.bot/a/chaining-ffmpeg-with-browser-agent",
+    "id": "hackernews-45818483",
+    "title": "What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise",
+    "url": "https://www.leefang.com/p/what-happened-to-piracy-copyright",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45816879",
-    "title": "Patching 68K Software – SimpleText",
-    "url": "https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/",
+    "id": "hackernews-45733204",
+    "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
+    "url": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.349Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,65 +48,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45812024",
-    "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45761433",
-    "title": "Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos",
-    "url": "https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45812606",
-    "title": "Pg_lake: Postgres with Iceberg and data lake access",
-    "url": "https://github.com/Snowflake-Labs/pg_lake",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 8
   },
   {
     "id": "hackernews-45734259",
     "title": "Whole Earth Index",
     "url": "https://wholeearth.info/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,28 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45817167",
-    "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
-    "url": "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
+    "id": "hackernews-45816673",
+    "title": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
+    "url": "https://github.com/zserge/grayskull",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45813767",
-    "title": "Codemaps: Understand Code, Before You Vibe It",
-    "url": "https://cognition.ai/blog/codemaps",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +89,7 @@
     "title": "By the Power of Grayscale",
     "url": "https://zserge.com/posts/grayskull/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +102,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-45816191",
-    "title": "BlackRock's Larry Fink: \"Tokenization\", Digital IDs, & Social Credit",
-    "url": "https://thewinepress.substack.com/p/tokenization-blackrocks-larry-fink",
+    "id": "hackernews-45817167",
+    "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
+    "url": "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45818421",
+    "title": "Zohran Mamdani wins the New York mayoral race",
+    "url": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45818123",
+    "title": "Munich's surfers left stunned after famed river wave vanishes",
+    "url": "https://www.theguardian.com/world/2025/nov/04/munichs-surfers-left-stunned-after-famed-river-wave-vanishes",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +157,41 @@
     "title": "Send this article to your friend who still thinks the cloud is a good idea",
     "url": "https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45818499",
+    "title": "Preventing Kubernetes from Pulling the Pause Image from the Internet",
+    "url": "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45813767",
+    "title": "Codemaps: Understand Code, Before You Vibe It",
+    "url": "https://cognition.ai/blog/codemaps",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,92 +208,7 @@
     "title": "Singing bus horns in West Sumatra",
     "url": "https://www.auralarchipelago.com/auralarchipelago/kalason",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45813310",
-    "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
-    "url": "https://www.plexe.ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45733836",
-    "title": "Frozen String Literals: Past, Present, Future?",
-    "url": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45816981",
-    "title": "Analyzing the Performance of WebAssembly vs. Native Code",
-    "url": "https://ar5iv.labs.arxiv.org/html/1901.09056",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45813343",
-    "title": "NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware",
-    "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45809193",
-    "title": "What Is a Manifold?",
-    "url": "https://www.quantamagazine.org/what-is-a-manifold-20251103/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +225,7 @@
     "title": "Google Removed 749M Anna's Archive URLs from Its Search Results",
     "url": "https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +238,96 @@
     "score": 6
   },
   {
-    "id": "hackernews-45815279",
-    "title": "Singapore to cane scammers as billions lost in financial crimes",
-    "url": "https://www.freemalaysiatoday.com/category/highlight/2025/11/04/singapore-to-cane-scammers-as-billions-lost-in-financial-crimes",
+    "id": "hackernews-45813310",
+    "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
+    "url": "https://www.plexe.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T05:14:43.426Z",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45809644",
+    "title": "Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload",
+    "url": "https://blog.wilsonl.in/blobd/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45733836",
+    "title": "Frozen String Literals: Past, Present, Future?",
+    "url": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45818694",
+    "title": "Live Updates: Mamdani Wins NYC Mayor's Race After Highest Turnout in Decades",
+    "url": "https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45818282",
+    "title": "GM Deprecating In-Car App Store for Models as Recent as 2020",
+    "url": "https://gmauthority.com/blog/2025/11/these-gm-vehicles-can-no-longer-download-apps-through-their-infotainment-system/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45813343",
+    "title": "NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware",
+    "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T06:21:20.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
