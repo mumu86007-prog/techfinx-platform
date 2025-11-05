@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-45763262",
-    "title": "Learning from Failure to Tackle Hard Problems",
-    "url": "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/",
+    "id": "hackernews-45826995",
+    "title": "New gel restores dental enamel and could revolutionise tooth repair",
+    "url": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "OpenAI ends legal and medical advice on ChatGPT",
     "url": "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45816963",
-    "title": "UPS plane crashes near Louisville airport",
-    "url": "https://www.cbsnews.com/news/ups-plane-crash-louisville-kentucky/",
+    "id": "hackernews-45763262",
+    "title": "Learning from Failure to Tackle Hard Problems",
+    "url": "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45733204",
-    "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
-    "url": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
+    "id": "hackernews-45822539",
+    "title": "NY Smartphone Ban Has Made Lunch Loud Again",
+    "url": "https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Norway reviews cybersecurity after remote-access feature found in Chinese buses",
     "url": "https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "Removing XSLT for a more secure browser",
     "url": "https://developer.chrome.com/docs/web-platform/deprecating-xslt",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,28 +102,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45823831",
-    "title": "Ruby and Its Neighbors: Smalltalk",
-    "url": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
+    "id": "hackernews-45827190",
+    "title": "Solarpunk is already happening in Africa",
+    "url": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45823141",
-    "title": "The Shadows Lurking in the Equations",
-    "url": "https://gods.art/articles/equation_shadows.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,24 +123,7 @@
     "title": "Dillo, a multi-platform graphical web browser",
     "url": "https://github.com/dillo-browser/dillo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45812756",
-    "title": "An eBPF Loophole: Using XDP for Egress Traffic",
-    "url": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +140,126 @@
     "title": "The state of SIMD in Rust in 2025",
     "url": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45823831",
+    "title": "Ruby and Its Neighbors: Smalltalk",
+    "url": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45823141",
+    "title": "The Shadows Lurking in the Equations",
+    "url": "https://gods.art/articles/equation_shadows.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45824864",
+    "title": "Why aren't smart people happier?",
+    "url": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45827661",
+    "title": "A Lost IBM PC/at Model? Analyzing a Newfound Old Bios",
+    "url": "https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45744038",
+    "title": "Firefox profiles: Private, focused spaces for all the ways you browse",
+    "url": "https://blog.mozilla.org/en/firefox/profile-management/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45807993",
+    "title": "I want a good parallel language [video]",
+    "url": "https://www.youtube.com/watch?v=0-eViUyPwso",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45812756",
+    "title": "An eBPF Loophole: Using XDP for Egress Traffic",
+    "url": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +276,7 @@
     "title": "Carice TC2 – An fully analog electric car",
     "url": "https://www.caricecars.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +293,7 @@
     "title": "A P2P Vision for QUIC (2024)",
     "url": "https://seemann.io/posts/2024-10-26---p2p-quic/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45816853",
-    "title": "Mr Tiff",
-    "url": "https://inventingthefuture.ghost.io/mr-tiff/",
+    "id": "hackernews-45826500",
+    "title": "Internet Archive's legal fights are over, but its founder mourns what was lost",
+    "url": "https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,96 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45822071",
-    "title": "The grim truth behind the Pied Piper",
-    "url": "https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper",
+    "id": "hackernews-45797228",
+    "title": "Absurd Workflows: Durable Execution with Just Postgres",
+    "url": "https://lucumr.pocoo.org/2025/11/3/absurd-workflows/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45822302",
-    "title": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
-    "url": "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45761594",
-    "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
-    "url": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45823234",
-    "title": "Ask HN: My family business runs on a 1993-era text-based-UI (TUI). Anybody else?",
-    "url": "https://news.ycombinator.com/item?id=45823234",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45822559",
-    "title": "Radiant Computer",
-    "url": "https://radiant.computer/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45821921",
-    "title": "Founder in Residence at Woz (San Francisco)",
-    "url": "https://news.ycombinator.com/item?id=45821921",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T22:13:04.177Z",
+    "publishedAt": "2025-11-05T23:13:09.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
