@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-45763262",
-    "title": "Learning from Failure to Tackle Hard Problems",
-    "url": "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45825965",
-    "title": "OpenAI ends legal and medical advice on ChatGPT",
-    "url": "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45816963",
     "title": "UPS plane crashes near Louisville airport",
     "url": "https://www.cbsnews.com/news/ups-plane-crash-louisville-kentucky/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,41 @@
     "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
     "url": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45763262",
+    "title": "Learning from Failure to Tackle Hard Problems",
+    "url": "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45825965",
+    "title": "OpenAI ends legal and medical advice on ChatGPT",
+    "url": "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Norway reviews cybersecurity after remote-access feature found in Chinese buses",
     "url": "https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
+    "publishedAt": "2025-11-05T21:12:51.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "Removing XSLT for a more secure browser",
     "url": "https://developer.chrome.com/docs/web-platform/deprecating-xslt",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
+    "publishedAt": "2025-11-05T21:12:51.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +102,164 @@
     "score": 7
   },
   {
+    "id": "hackernews-45770654",
+    "title": "DynGen – Run dynamic scripts on a SuperCollider server",
+    "url": "https://scsynth.org/t/dyngen-dynamic-ugen/12518",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45759839",
+    "title": "RISC-V takes first step toward international ISO/IEC standardization",
+    "url": "https://riscv.org/blog/risc-v-jtc1-pas-submitter/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45824864",
+    "title": "Why aren't smart people happier?",
+    "url": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45718002",
+    "title": "Stack walking: space and time trade-offs",
+    "url": "https://maskray.me/blog/2025-10-26-stack-walking-space-and-time-trade-offs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45818562",
+    "title": "Hypothesis: Property-Based Testing for Python",
+    "url": "https://hypothesis.readthedocs.io/en/latest/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45697414",
+    "title": "Parsing Chemistry",
+    "url": "https://re.factorcode.org/2025/10/parsing-chemistry.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45817114",
+    "title": "Bluetui – A TUI for managing Bluetooth on Linux",
+    "url": "https://github.com/pythops/bluetui",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45761433",
+    "title": "Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos",
+    "url": "https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45816673",
+    "title": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
+    "url": "https://github.com/zserge/grayskull",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T21:12:51.375Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-45823831",
     "title": "Ruby and Its Neighbors: Smalltalk",
     "url": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
+    "publishedAt": "2025-11-05T21:12:51.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +276,7 @@
     "title": "The Shadows Lurking in the Equations",
     "url": "https://gods.art/articles/equation_shadows.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
+    "publishedAt": "2025-11-05T21:12:51.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +293,7 @@
     "title": "Dillo, a multi-platform graphical web browser",
     "url": "https://github.com/dillo-browser/dillo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
+    "publishedAt": "2025-11-05T21:12:51.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +310,7 @@
     "title": "An eBPF Loophole: Using XDP for Egress Traffic",
     "url": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
+    "publishedAt": "2025-11-05T21:12:51.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,160 +327,7 @@
     "title": "The state of SIMD in Rust in 2025",
     "url": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45823186",
-    "title": "Carice TC2 – An fully analog electric car",
-    "url": "https://www.caricecars.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45822982",
-    "title": "A P2P Vision for QUIC (2024)",
-    "url": "https://seemann.io/posts/2024-10-26---p2p-quic/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45816853",
-    "title": "Mr Tiff",
-    "url": "https://inventingthefuture.ghost.io/mr-tiff/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45822071",
-    "title": "The grim truth behind the Pied Piper",
-    "url": "https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45822302",
-    "title": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
-    "url": "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45761594",
-    "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
-    "url": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45823234",
-    "title": "Ask HN: My family business runs on a 1993-era text-based-UI (TUI). Anybody else?",
-    "url": "https://news.ycombinator.com/item?id=45823234",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45822559",
-    "title": "Radiant Computer",
-    "url": "https://radiant.computer/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45821921",
-    "title": "Founder in Residence at Woz (San Francisco)",
-    "url": "https://news.ycombinator.com/item?id=45821921",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T20:15:50.809Z",
+    "publishedAt": "2025-11-05T21:12:51.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
