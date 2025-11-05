@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-45749833",
-    "title": "Developers are choosing older AI models, and the data explains why",
-    "url": "https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45733204",
     "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
     "url": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45818499",
-    "title": "Preventing Kubernetes from Pulling the Pause Image from the Internet",
-    "url": "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/",
+    "id": "hackernews-45811093",
+    "title": "Show HN: A CSS-Only Terrain Generator",
+    "url": "https://terra.layoutit.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.638Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,14 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-45726597",
-    "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
-    "url": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
+    "id": "hackernews-45818483",
+    "title": "What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise",
+    "url": "https://www.leefang.com/p/what-happened-to-piracy-copyright",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.638Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,82 +48,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45733836",
-    "title": "Frozen String Literals: Past, Present, Future?",
-    "url": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.638Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45809644",
-    "title": "Building blobd: single-machine object store with sub-ms reads and 15 GB/s upload",
-    "url": "https://blog.wilsonl.in/blobd/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.638Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45692042",
-    "title": "Singing bus horns in West Sumatra",
-    "url": "https://www.auralarchipelago.com/auralarchipelago/kalason",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.638Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 8
   },
   {
     "id": "hackernews-45816853",
     "title": "Mr Tiff",
     "url": "https://inventingthefuture.ghost.io/mr-tiff/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45761594",
-    "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
-    "url": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +72,7 @@
     "title": "Hypothesis: Property-Based Testing for Python",
     "url": "https://hypothesis.readthedocs.io/en/latest/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +89,7 @@
     "title": "RISC-V takes first step toward international ISO/IEC standardization",
     "url": "https://riscv.org/blog/risc-v-jtc1-pas-submitter/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +106,7 @@
     "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
     "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +123,7 @@
     "title": "Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos",
     "url": "https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,75 +140,7 @@
     "title": "Bluetui – A TUI for managing Bluetooth on Linux",
     "url": "https://github.com/pythops/bluetui",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45820715",
-    "title": "The Hackers Manifesto (The Conscience of a Hacker) (1986)",
-    "url": "https://phrack.org/issues/7/3",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45812606",
-    "title": "Pg_lake: Postgres with Iceberg and data lake access",
-    "url": "https://github.com/Snowflake-Labs/pg_lake",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45818471",
-    "title": "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45816673",
-    "title": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
-    "url": "https://github.com/zserge/grayskull",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +157,58 @@
     "title": "Patching 68K Software – SimpleText",
     "url": "https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45818319",
+    "title": "Direct File won't happen in 2026, IRS tells states",
+    "url": "https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45812606",
+    "title": "Pg_lake: Postgres with Iceberg and data lake access",
+    "url": "https://github.com/Snowflake-Labs/pg_lake",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45816673",
+    "title": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
+    "url": "https://github.com/zserge/grayskull",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +225,109 @@
     "title": "By the Power of Grayscale",
     "url": "https://zserge.com/posts/grayskull/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T11:12:46.637Z",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45750005",
+    "title": "Vectorizing for Fun and Performance",
+    "url": "https://www.ibm.com/support/pages/vectorizing-fun-and-performance",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45813767",
+    "title": "Codemaps: Understand Code, Before You Vibe It",
+    "url": "https://cognition.ai/blog/codemaps",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45817167",
+    "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
+    "url": "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45734259",
+    "title": "Whole Earth Index",
+    "url": "https://wholeearth.info/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45818471",
+    "title": "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45818282",
+    "title": "GM Deprecating In-Car App Store for Models as Recent as 2020",
+    "url": "https://gmauthority.com/blog/2025/11/these-gm-vehicles-can-no-longer-download-apps-through-their-infotainment-system/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T12:28:14.616Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
