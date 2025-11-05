@@ -4,7 +4,7 @@
     "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
     "url": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "UPS plane crashes near Louisville airport",
     "url": "https://www.cbsnews.com/news/ups-plane-crash-louisville-kentucky/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Developers are choosing older AI models, and the data explains why",
     "url": "https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,28 @@
     "score": 8
   },
   {
+    "id": "hackernews-45816853",
+    "title": "Mr Tiff",
+    "url": "https://inventingthefuture.ghost.io/mr-tiff/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-45822018",
     "title": "YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations",
     "url": "https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
     "url": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "Intervaltree with Rust Back End",
     "url": "https://github.com/Athe-kunal/intervaltree_rs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +123,7 @@
     "title": "RISC-V takes first step toward international ISO/IEC standardization",
     "url": "https://riscv.org/blog/risc-v-jtc1-pas-submitter/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "Hypothesis: Property-Based Testing for Python",
     "url": "https://hypothesis.readthedocs.io/en/latest/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +157,7 @@
     "title": "Founder in Residence at Woz (San Francisco)",
     "url": "https://news.ycombinator.com/item?id=45821921",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,7 @@
     "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
     "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +191,7 @@
     "title": "Bluetui – A TUI for managing Bluetooth on Linux",
     "url": "https://github.com/pythops/bluetui",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +208,7 @@
     "title": "Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos",
     "url": "https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +225,7 @@
     "title": "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
     "url": "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +242,7 @@
     "title": "Pg_lake: Postgres with Iceberg and data lake access",
     "url": "https://github.com/Snowflake-Labs/pg_lake",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +259,7 @@
     "title": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
     "url": "https://github.com/zserge/grayskull",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +276,7 @@
     "title": "By the Power of Grayscale",
     "url": "https://zserge.com/posts/grayskull/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +293,7 @@
     "title": "Moving tables across PostgreSQL instances",
     "url": "https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +310,7 @@
     "title": "The Hackers Manifesto (The Conscience of a Hacker) (1986)",
     "url": "https://phrack.org/issues/7/3",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "Patching 68K Software – SimpleText",
     "url": "https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45709513",
-    "title": "The Magic of Precision Engineering",
-    "url": "https://www.hightechinstitute.nl/the-magic-of-precision-engineering/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-05T13:28:00.582Z",
+    "publishedAt": "2025-11-05T14:14:06.196Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
