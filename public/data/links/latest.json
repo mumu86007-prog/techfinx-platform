@@ -4,7 +4,7 @@
     "title": "AI Slop vs. OSS Security",
     "url": "https://devansh.bearblog.dev/ai-slop/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,28 +17,11 @@
     "score": 9
   },
   {
-    "id": "hackernews-45826995",
-    "title": "New gel restores dental enamel and could revolutionise tooth repair",
-    "url": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.035Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45833496",
     "title": "The trust collapse: Infinite AI content is awful",
     "url": "https://arnon.dk/the-trust-collapse-infinite-ai-content-is-awful/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage",
     "url": "https://support.mozilla.org/en-US/forums/contributors/717446",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,7 @@
     "title": "OpenAI ends legal and medical advice on ChatGPT",
     "url": "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +72,24 @@
     "title": "NY Smartphone Ban Has Made Lunch Loud Again",
     "url": "https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45826995",
+    "title": "New gel restores dental enamel and could revolutionise tooth repair",
+    "url": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,7 @@
     "title": "Show HN: See Chords as Flags – Visual Harmony of Top 100 Composers on MuseScore",
     "url": "https://rawl.rocks/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,113 +119,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45775149",
-    "title": "A Computing Legend Speaks, a New Oral History with Ken Thompson",
-    "url": "https://computerhistory.org/blog/a-computing-legend-speaks/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.035Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45823831",
-    "title": "Ruby and Its Neighbors: Smalltalk",
-    "url": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.035Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45829210",
-    "title": "The Basic Laws of Human Stupidity (1987) [pdf]",
-    "url": "https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.035Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45823186",
-    "title": "Carice TC2 – An fully analog electric car",
-    "url": "https://www.caricecars.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.035Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45834254",
-    "title": "Eating Stinging Nettles",
-    "url": "https://rachel.blog/2018/04/29/eating-stinging-nettles/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.035Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45826348",
-    "title": "The state of SIMD in Rust in 2025",
-    "url": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.035Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-45833162",
     "title": "Mathematical Exploration and Discovery at Scale",
     "url": "https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +140,7 @@
     "title": "Rust's TUI Revolution",
     "url": "https://ratatui.rs/showcase/apps/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +157,7 @@
     "title": "Solarpunk is already happening in Africa",
     "url": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +174,7 @@
     "title": "How I am deeply integrating Emacs",
     "url": "https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +191,7 @@
     "title": "Dillo, a multi-platform graphical web browser",
     "url": "https://github.com/dillo-browser/dillo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +208,7 @@
     "title": "Pico-100BASE-TX: Bit-Banged 100 MBit/s Ethernet and UDP Framer for RP2040/RP2350",
     "url": "https://github.com/steve-m/Pico-100BASE-TX",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +225,109 @@
     "title": "Firefox profiles: Private, focused spaces for all the ways you browse",
     "url": "https://blog.mozilla.org/en/firefox/profile-management/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T14:14:23.034Z",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45824864",
+    "title": "Why aren't smart people happier?",
+    "url": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45830223",
+    "title": "Recursive macros in C, demystified (once the ugly crying stops)",
+    "url": "https://h4x0r.org/big-mac-ro-attack/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45832198",
+    "title": "Flutter_compositions: Vue-inspired reactive building blocks for Flutter",
+    "url": "https://github.com/yoyo930021/flutter_compositions",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45775149",
+    "title": "A Computing Legend Speaks, a New Oral History with Ken Thompson",
+    "url": "https://computerhistory.org/blog/a-computing-legend-speaks/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45823831",
+    "title": "Ruby and Its Neighbors: Smalltalk",
+    "url": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45829210",
+    "title": "The Basic Laws of Human Stupidity (1987) [pdf]",
+    "url": "https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T15:15:18.354Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
