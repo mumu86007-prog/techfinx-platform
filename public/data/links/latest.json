@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-45826995",
-    "title": "New gel restores dental enamel and could revolutionise tooth repair",
-    "url": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45830808",
-    "title": "Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer",
-    "url": "https://amitzalcher.github.io/Brain-IT/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45822539",
-    "title": "NY Smartphone Ban Has Made Lunch Loud Again",
-    "url": "https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45830770",
     "title": "Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage",
     "url": "https://support.mozilla.org/en-US/forums/contributors/717446",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.914Z",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +21,7 @@
     "title": "OpenAI ends legal and medical advice on ChatGPT",
     "url": "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.914Z",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +34,198 @@
     "score": 8
   },
   {
+    "id": "hackernews-45826995",
+    "title": "New gel restores dental enamel and could revolutionise tooth repair",
+    "url": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45822539",
+    "title": "NY Smartphone Ban Has Made Lunch Loud Again",
+    "url": "https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45830808",
+    "title": "Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer",
+    "url": "https://amitzalcher.github.io/Brain-IT/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45830829",
+    "title": "Rust's TUI Revolution",
+    "url": "https://ratatui.rs/showcase/apps/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45832341",
+    "title": "How I am deeply integrating Emacs",
+    "url": "https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45827190",
+    "title": "Solarpunk is already happening in Africa",
+    "url": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45826266",
+    "title": "Dillo, a multi-platform graphical web browser",
+    "url": "https://github.com/dillo-browser/dillo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45830223",
+    "title": "Recursive macros in C, demystified (once the ugly crying stops)",
+    "url": "https://h4x0r.org/big-mac-ro-attack/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45744038",
+    "title": "Firefox profiles: Private, focused spaces for all the ways you browse",
+    "url": "https://blog.mozilla.org/en/firefox/profile-management/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45786599",
+    "title": "Scientists Growing Colour Without Chemicals",
+    "url": "https://www.forbes.com/sites/maevecampbell/2025/06/20/dyeing-for-fashion-meet-the-scientists-growing-colour-without-chemicals/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-45824864",
     "title": "Why aren't smart people happier?",
     "url": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45775149",
+    "title": "A Computing Legend Speaks, a New Oral History with Ken Thompson",
+    "url": "https://computerhistory.org/blog/a-computing-legend-speaks/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +242,41 @@
     "title": "The state of SIMD in Rust in 2025",
     "url": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45832198",
+    "title": "Flutter_compositions: Vue-inspired reactive building blocks for Flutter",
+    "url": "https://github.com/yoyo930021/flutter_compositions",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45777109",
+    "title": "The Transformations of Fernand Braudel",
+    "url": "https://www.historytoday.com/archive/behind-times/transformations-fernand-braudel",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,75 +293,7 @@
     "title": "Ruby and Its Neighbors: Smalltalk",
     "url": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45829210",
-    "title": "The Basic Laws of Human Stupidity (1987) [pdf]",
-    "url": "https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45823186",
-    "title": "Carice TC2 – An fully analog electric car",
-    "url": "https://www.caricecars.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45823141",
-    "title": "The Shadows Lurking in the Equations",
-    "url": "https://gods.art/articles/equation_shadows.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45822559",
-    "title": "Radiant Computer",
-    "url": "https://radiant.computer/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +310,7 @@
     "title": "Vacuum bricked after user blocks data collection – user mods it to run anyway",
     "url": "https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,113 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45827661",
-    "title": "A Lost IBM PC/at Model? Analyzing a Newfound Old Bios",
-    "url": "https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/",
+    "id": "hackernews-45829210",
+    "title": "The Basic Laws of Human Stupidity (1987) [pdf]",
+    "url": "https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45815419",
-    "title": "I was right about dishwasher pods and now I can prove it [video]",
-    "url": "https://www.youtube.com/watch?v=DAX2_mPr9W8",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45812756",
-    "title": "An eBPF Loophole: Using XDP for Egress Traffic",
-    "url": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45765174",
-    "title": "Gloomth",
-    "url": "https://www.lrb.co.uk/the-paper/v47/n20/jon-day/gloomth",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45766347",
-    "title": "The MDL (\"Muddle\") Programming Language (1979) [pdf]",
-    "url": "http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/lcs/tr/MIT-LCS-TR-0293_MDL_Pgmg_Lang.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45782702",
-    "title": "Timing Wheels",
-    "url": "https://pncnmnp.github.io/blogs/timing-wheels.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45797228",
-    "title": "Absurd Workflows: Durable Execution with Just Postgres",
-    "url": "https://lucumr.pocoo.org/2025/11/3/absurd-workflows/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-06T08:19:21.915Z",
+    "publishedAt": "2025-11-06T09:15:22.149Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
