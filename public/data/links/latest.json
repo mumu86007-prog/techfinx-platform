@@ -4,7 +4,7 @@
     "title": "Two billion email addresses were exposed",
     "url": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "The Silent Scientist: When Software Research Fails to Reach Its Audience",
     "url": "https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
     "url": "https://book.sv/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris",
     "url": "https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Cryptography 101 with Alfred Menezes",
     "url": "https://cryptography101.ca/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +85,11 @@
     "score": 7.5
   },
   {
-    "id": "hackernews-45794824",
-    "title": "We built a cloud GPU notebook that boots in seconds",
-    "url": "https://modal.com/blog/notebooks-internals",
+    "id": "hackernews-45843146",
+    "title": "A Fond Farewell from Farmers' Almanac",
+    "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +102,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45843146",
-    "title": "A Fond Farewell from Farmers' Almanac",
-    "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
+    "id": "hackernews-45794824",
+    "title": "We built a cloud GPU notebook that boots in seconds",
+    "url": "https://modal.com/blog/notebooks-internals",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.169Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -117,13 +117,47 @@
       "社区"
     ],
     "score": 7
+  },
+  {
+    "id": "hackernews-45844655",
+    "title": "A startup’s quest to store electricity in the ocean",
+    "url": "https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45844197",
+    "title": "Lessons from Growing a Piracy Streaming Site",
+    "url": "https://prison.josh.mn/lessons",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
   },
   {
     "id": "hackernews-45840088",
     "title": "You Should Write An Agent",
     "url": "https://fly.io/blog/everyone-write-an-agent/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +174,7 @@
     "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
     "url": "https://moonshotai.github.io/Kimi-K2/thinking.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +191,7 @@
     "title": "Text case changes the size of QR codes",
     "url": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +208,7 @@
     "title": "Game Design Is Simple",
     "url": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +225,7 @@
     "title": "OpenTelemetry: Escape Hatch from the Observability Cartel",
     "url": "https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +242,7 @@
     "title": "A Note on Fil-C",
     "url": "https://graydon2.dreamwidth.org/320265.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +259,7 @@
     "title": "From web developer to database developer in 10 years",
     "url": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +276,7 @@
     "title": "Universe's expansion 'is now slowing, not speeding up'",
     "url": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +293,7 @@
     "title": "Open Source Implementation of Apple's Private Compute Cloud",
     "url": "https://github.com/openpcc/openpcc",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +310,7 @@
     "title": "JermCAD: Browser-Based CAD Software",
     "url": "https://github.com/jeremyaboyd/jerm-cad",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,41 +327,7 @@
     "title": "Machine Scheduler in LLVM – Part II",
     "url": "https://myhsu.xyz/llvm-machine-scheduler-2/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45842777",
-    "title": "HTML Slides with notes",
-    "url": "https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45843220",
-    "title": "Dead Framework Theory",
-    "url": "https://aifoc.us/dead-framework-theory/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T15:14:22.170Z",
+    "publishedAt": "2025-11-07T16:14:28.799Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
