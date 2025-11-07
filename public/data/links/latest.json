@@ -4,7 +4,7 @@
     "title": "Two billion email addresses were exposed",
     "url": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.078Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Scientists find ways to boost memory in aging brains",
     "url": "https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.078Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
     "url": "https://book.sv/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.078Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45843146",
-    "title": "A Fond Farewell from Farmers' Almanac",
-    "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
+    "id": "hackernews-45794824",
+    "title": "We built a cloud GPU notebook that boots in seconds",
+    "url": "https://modal.com/blog/notebooks-internals",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.078Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +68,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45794824",
-    "title": "We built a cloud GPU notebook that boots in seconds",
-    "url": "https://modal.com/blog/notebooks-internals",
+    "id": "hackernews-45843146",
+    "title": "A Fond Farewell from Farmers' Almanac",
+    "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.078Z",
+    "publishedAt": "2025-11-07T07:13:45.531Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -83,13 +83,115 @@
       "社区"
     ],
     "score": 7
+  },
+  {
+    "id": "hackernews-45840088",
+    "title": "You Should Write An Agent",
+    "url": "https://fly.io/blog/everyone-write-an-agent/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45836070",
+    "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
+    "url": "https://moonshotai.github.io/Kimi-K2/thinking.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45841262",
+    "title": "Game Design Is Simple",
+    "url": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45842494",
+    "title": "A Note on Fil-C",
+    "url": "https://graydon2.dreamwidth.org/320265.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45840200",
+    "title": "Universe's expansion 'is now slowing, not speeding up'",
+    "url": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45824243",
+    "title": "Open Source Implementation of Apple's Private Compute Cloud",
+    "url": "https://github.com/openpcc/openpcc",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
   },
   {
     "id": "hackernews-45843120",
     "title": "A prvalue is not a temporary",
     "url": "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +208,7 @@
     "title": "Swift on FreeBSD Preview",
     "url": "https://forums.swift.org/t/swift-on-freebsd-preview/83064",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +225,7 @@
     "title": "From web developer to database developer in 10 years",
     "url": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +242,7 @@
     "title": "LLMs Encode How Difficult Problems Are",
     "url": "https://arxiv.org/abs/2510.18147",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +259,7 @@
     "title": "FBI Tries to Unmask Owner of Infamous Archive.is Site",
     "url": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +276,7 @@
     "title": "Eating Stinging Nettles",
     "url": "https://rachel.blog/2018/04/29/eating-stinging-nettles/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +293,7 @@
     "title": "I analyzed the lineups at the most popular nightclubs",
     "url": "https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +310,7 @@
     "title": "Hightouch (YC S19) Is Hiring",
     "url": "https://job-boards.greenhouse.io/hightouch/jobs/5542602004",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,109 +327,7 @@
     "title": "HTML Slides with notes",
     "url": "https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45777701",
-    "title": "The Geometry of Schemes [pdf]",
-    "url": "https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45843220",
-    "title": "Dead Framework Theory",
-    "url": "https://aifoc.us/dead-framework-theory/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45833162",
-    "title": "Mathematical Exploration and Discovery at Scale",
-    "url": "https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45835931",
-    "title": "Auraphone: A simple app to collect people's info at events",
-    "url": "https://andrewarrow.dev/2025/11/simple-app-collect-peoples-info-at-events/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45837425",
-    "title": "The Parallel Search API",
-    "url": "https://parallel.ai/blog/introducing-parallel-search",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45789431",
-    "title": "Show HN: Auto-Adjust Keyboard and LCD Brightness via Ambient Light Sensor[Linux]",
-    "url": "https://github.com/donjajo/als-led-backlight",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T06:21:19.079Z",
+    "publishedAt": "2025-11-07T07:13:45.532Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
