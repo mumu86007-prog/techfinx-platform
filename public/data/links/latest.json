@@ -1,10 +1,27 @@
 [
   {
-    "id": "hackernews-45836466",
-    "title": "Supply chain attacks are exploiting our assumptions",
-    "url": "https://blog.trailofbits.com/2025/09/24/supply-chain-attacks-are-exploiting-our-assumptions/",
+    "id": "hackernews-45841910",
+    "title": "The secret campaign to silence critics of a hospital real estate empire",
+    "url": "https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.265Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
+    "id": "hackernews-45842263",
+    "title": "Scientists find ways to boost memory in aging brains",
+    "url": "https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "Two billion email addresses were exposed",
     "url": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
     "url": "https://book.sv/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Show HN: See Chords as Flags – Visual Harmony of Top 100 Composers on MuseScore",
     "url": "https://rawl.rocks/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,113 +85,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45837067",
-    "title": "Show HN: Dynamic code and feedback walkthroughs with your coding Agent in VSCode",
-    "url": "https://www.intraview.ai/hn-demo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.265Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45831541",
-    "title": "I may have found a way to spot U.S. at-sea strikes before they're announced",
-    "url": "https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.265Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45786041",
-    "title": "How often does Python allocate?",
-    "url": "https://zackoverflow.dev/writing/how-often-does-python-allocate/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.265Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45841464",
-    "title": "Man who threw sandwich at US border agent not guilty of assault",
-    "url": "https://www.bbc.com/news/articles/c5ypvv8n1jvo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45841056",
-    "title": "Writing software is an act of learning. Don’t automate it.",
-    "url": "https://martinfowler.com/articles/llm-learning-loop.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45840088",
-    "title": "You Should Write An Agent",
-    "url": "https://fly.io/blog/everyone-write-an-agent/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-45836070",
     "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
     "url": "https://moonshotai.github.io/Kimi-K2/thinking.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +106,24 @@
     "title": "Game Design Is Simple",
     "url": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45840200",
+    "title": "Universe's expansion 'is now slowing, not speeding up'",
+    "url": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,41 +140,7 @@
     "title": "Swift on FreeBSD Preview",
     "url": "https://forums.swift.org/t/swift-on-freebsd-preview/83064",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45837342",
-    "title": "ICC ditches Microsoft 365 for openDesk",
-    "url": "https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45840612",
-    "title": "Hightouch (YC S19) Is Hiring",
-    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5542602004",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +157,41 @@
     "title": "Open Source Implementation of Apple's Private Compute Cloud",
     "url": "https://github.com/openpcc/openpcc",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45842494",
+    "title": "A Note on Fil-C",
+    "url": "https://graydon2.dreamwidth.org/320265.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45842380",
+    "title": "IRS Ends Direct File",
+    "url": "https://www.wsj.com/politics/policy/irs-direct-file-tax-program-ended-00172148",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +208,7 @@
     "title": "LLMs Encode How Difficult Problems Are",
     "url": "https://arxiv.org/abs/2510.18147",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45770577",
-    "title": "C++: A prvalue is not a temporary",
-    "url": "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/",
+    "id": "hackernews-45834254",
+    "title": "Eating Stinging Nettles",
+    "url": "https://rachel.blog/2018/04/29/eating-stinging-nettles/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45837425",
-    "title": "The Parallel Search API",
-    "url": "https://parallel.ai/blog/introducing-parallel-search",
+    "id": "hackernews-45840612",
+    "title": "Hightouch (YC S19) Is Hiring",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5542602004",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +259,75 @@
     "title": "FBI Tries to Unmask Owner of Infamous Archive.is Site",
     "url": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-07T03:05:53.264Z",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45837425",
+    "title": "The Parallel Search API",
+    "url": "https://parallel.ai/blog/introducing-parallel-search",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45835083",
+    "title": "I analyzed the lineups at the most popular nightclubs",
+    "url": "https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45777701",
+    "title": "The Geometry of Schemes [pdf]",
+    "url": "https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45837342",
+    "title": "ICC ditches Microsoft 365 for openDesk",
+    "url": "https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-07T04:16:24.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
