@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-45852275",
-    "title": "FAA restricts commercial rocket launches indefinitely due to air traffic risks",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 9.5
-  },
-  {
     "id": "hackernews-45850963",
     "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
     "url": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
     "url": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "Show HN: Find matching acrylic paints for any HEX color",
     "url": "https://acrylicmatch.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,7 @@
     "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
     "url": "https://www.cerebras.ai/code",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +68,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45850382",
-    "title": "How did I get here?",
-    "url": "https://how-did-i-get-here.net/",
+    "id": "hackernews-45852328",
+    "title": "Why is Zig so Cool?",
+    "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45846517",
-    "title": "I Love OCaml",
-    "url": "https://mccd.space/posts/ocaml-the-worlds-best/",
+    "id": "hackernews-45852854",
+    "title": "Snapchat open-sources Valdi a cross-platform UI framework",
+    "url": "https://github.com/Snapchat/Valdi",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45849528",
-    "title": "Ruby Solved My Problem",
-    "url": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
+    "id": "hackernews-45851495",
+    "title": "Becoming a Compiler Engineer",
+    "url": "https://rona.substack.com/p/becoming-a-compiler-engineer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45786042",
-    "title": "Can you save on LLM tokens using images instead of text?",
-    "url": "https://pagewatch.ai/blog/post/llm-text-as-image-tokens/",
+    "id": "hackernews-45849342",
+    "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
+    "url": "https://github.com/sayyadirfanali/Myna",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45796575",
-    "title": "FSF40 Hackathon",
-    "url": "https://www.fsf.org/events/fsf40-hackathon",
+    "id": "hackernews-45792555",
+    "title": "Friendly Attributes Pattern in Ruby",
+    "url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45852029",
-    "title": "How a devboard works (and how to make your own)",
-    "url": "https://kaipereira.com/journal/build-a-devboard",
+    "id": "hackernews-45854862",
+    "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
+    "url": "https://arxiv.org/abs/2511.02743",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +174,7 @@
     "title": "How to find your ideal customer, right away",
     "url": "https://www.reifyworks.com/writing/2023-01-30-iicp",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45809007",
-    "title": "Venn Diagram for 7 Sets",
-    "url": "https://moebio.com/research/sevensets/",
+    "id": "hackernews-45850382",
+    "title": "How did I get here?",
+    "url": "https://how-did-i-get-here.net/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45809429",
-    "title": "Transducer: Composition, Abstraction, Performance",
-    "url": "https://funktionale-programmierung.de/en/2018/03/22/transducer.html",
+    "id": "hackernews-45846517",
+    "title": "I Love OCaml",
+    "url": "https://mccd.space/posts/ocaml-the-worlds-best/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45853204",
-    "title": "Running a 68060 CPU in Quadra 650",
-    "url": "https://github.com/ZigZagJoe/Macintosh-Q650-68060",
+    "id": "hackernews-45849528",
+    "title": "Ruby Solved My Problem",
+    "url": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +242,7 @@
     "title": "Local First Htmx",
     "url": "https://elijahm.com/posts/local_first_htmx/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45848468",
-    "title": "Angel Investors, a Field Guide",
-    "url": "https://www.jeanyang.com/posts/angel-investors-a-field-guide/",
+    "id": "hackernews-45853204",
+    "title": "Running a 68060 CPU in Quadra 650",
+    "url": "https://github.com/ZigZagJoe/Macintosh-Q650-68060",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45851786",
-    "title": "Using the Web Monetization API for fun and profit",
-    "url": "https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/",
+    "id": "hackernews-45796575",
+    "title": "FSF40 Hackathon",
+    "url": "https://www.fsf.org/events/fsf40-hackathon",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45853995",
-    "title": "Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool",
-    "url": "https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/",
+    "id": "hackernews-45809007",
+    "title": "Venn Diagram for 7 Sets",
+    "url": "https://moebio.com/research/sevensets/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +306,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-45852642",
-    "title": "Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication",
-    "url": "https://researchers.one/articles/24.01.00001v4",
+    "id": "hackernews-45854441",
+    "title": "Apple's \"notarisation\" – blocking software freedom of developers and users",
+    "url": "https://fsfe.org/news/2025/news-20251105-01.en.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T08:16:18.134Z",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45852029",
+    "title": "How a devboard works (and how to make your own)",
+    "url": "https://kaipereira.com/journal/build-a-devboard",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T09:12:38.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
