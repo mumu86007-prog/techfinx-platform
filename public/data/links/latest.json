@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-45850963",
-    "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
-    "url": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
+    "id": "hackernews-45856804",
+    "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
+    "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,14 @@
       "开发者",
       "社区"
     ],
-    "score": 9
+    "score": 8
   },
   {
     "id": "hackernews-45857836",
     "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
     "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +38,7 @@
     "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
     "url": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45856804",
-    "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
-    "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,24 @@
     "title": "52 Year old data tape could contain Unix history",
     "url": "https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45859216",
+    "title": "Near mid-air collision at LAX between American Airlines and ITA [video]",
+    "url": "https://www.youtube.com/watch?v=-j76cp7bETw",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "Computational Complexity of Air Travel Planning (2003) [pdf]",
     "url": "http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,7 @@
     "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
     "url": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
     "url": "https://www.cerebras.ai/code",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +136,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45856987",
-    "title": "Btop: A better modern alternative of htop with a gamified interface",
-    "url": "https://github.com/aristocratos/btop",
+    "id": "hackernews-45858905",
+    "title": "Marko – A declarative, HTML‑based language that makes building web apps fun",
+    "url": "https://markojs.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45799157",
-    "title": "C++ move semantics from scratch (2022)",
-    "url": "https://cbarrete.com/move-from-scratch.html",
+    "id": "hackernews-45858945",
+    "title": "WriterdeckOS",
+    "url": "https://writerdeckos.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45852328",
-    "title": "Why is Zig so Cool?",
-    "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+    "id": "hackernews-45859243",
+    "title": "Avería: The Average Font (2011)",
+    "url": "http://iotic.com/averia/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45852854",
-    "title": "Snapchat open-sources Valdi a cross-platform UI framework",
-    "url": "https://github.com/Snapchat/Valdi",
+    "id": "hackernews-45859160",
+    "title": "Facebook enables gender discrimination in job ads, European human rights rules",
+    "url": "https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,62 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45854862",
-    "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
-    "url": "https://arxiv.org/abs/2511.02743",
+    "id": "hackernews-45776368",
+    "title": "My first fifteen compilers (2019)",
+    "url": "https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45857053",
-    "title": "Ticker: Don't Die of Heart Disease",
-    "url": "https://myticker.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45792555",
-    "title": "Friendly Attributes Pattern in Ruby",
-    "url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45855933",
-    "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
-    "url": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +225,7 @@
     "title": "Syntax and Semantics of Programming Languages",
     "url": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45849342",
-    "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
-    "url": "https://github.com/sayyadirfanali/Myna",
+    "id": "hackernews-45793060",
+    "title": "The modern homes hidden inside ancient ruins",
+    "url": "https://www.ft.com/content/5f722a2e-71d8-430c-a476-95de2c4ad9a5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45808288",
-    "title": "Reverse Engineering a Neural Network's Clever Solution to Binary Addition (2023)",
-    "url": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
+    "id": "hackernews-45852854",
+    "title": "Snapchat open-sources Valdi a cross-platform UI framework",
+    "url": "https://github.com/Snapchat/Valdi",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +272,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-45856069",
-    "title": "Cekura (YC F24) Is Hiring",
-    "url": "https://news.ycombinator.com/item?id=45856069",
+    "id": "hackernews-45852328",
+    "title": "Why is Zig so Cool?",
+    "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T22:11:39.617Z",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45856987",
+    "title": "Btop: A better modern alternative of htop with a gamified interface",
+    "url": "https://github.com/aristocratos/btop",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45854862",
+    "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
+    "url": "https://arxiv.org/abs/2511.02743",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45857053",
+    "title": "Ticker: Don't Die of Heart Disease",
+    "url": "https://myticker.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T23:11:51.980Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
