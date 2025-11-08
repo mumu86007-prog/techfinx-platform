@@ -4,7 +4,7 @@
     "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
     "url": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.232Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,45 @@
     "score": 9
   },
   {
+    "id": "hackernews-45857836",
+    "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+    "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45857045",
+    "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
+    "url": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-45856804",
     "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
     "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,45 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45852895",
-    "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
-    "url": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
+    "id": "hackernews-45857695",
+    "title": "52 Year old data tape could contain Unix history",
+    "url": "https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45856883",
-    "title": "Why Sam Altman Won't Be on the Hook for OpenAI's Spending Spree",
-    "url": "https://www.forbes.com/sites/rashishrivastava/2025/11/07/why-sam-altman-wont-be-on-the-hook-for-openais-massive-spending-spree/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45857099",
-    "title": "$1T in Tech Stocks Sold Off as Market Grows Skeptical of AI",
-    "url": "https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "Computational Complexity of Air Travel Planning (2003) [pdf]",
     "url": "http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +102,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45800009",
-    "title": "Show HN: Find matching acrylic paints for any HEX color",
-    "url": "https://acrylicmatch.com/",
+    "id": "hackernews-45852895",
+    "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
+    "url": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
     "url": "https://www.cerebras.ai/code",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.232Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +136,147 @@
     "score": 7
   },
   {
-    "id": "hackernews-45856563",
-    "title": "Why hasn't there been a new major sports league?",
-    "url": "https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major",
+    "id": "hackernews-45846517",
+    "title": "I Love OCaml",
+    "url": "https://mccd.space/posts/ocaml-the-worlds-best/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.232Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45852974",
+    "title": "Mullvad: Shutting down our search proxy Leta",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.232Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45801651",
+    "title": "How to find your ideal customer, right away",
+    "url": "https://www.reifyworks.com/writing/2023-01-30-iicp",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.232Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45858404",
+    "title": "Driver livestreams on TikTok as she apparently hits and kills man in Chicago",
+    "url": "https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.232Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45789447",
+    "title": "Nubeian Translation for Childhood Songs by Hamza El Din",
+    "url": "https://nubianfoundation.org/translations/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.232Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45855918",
+    "title": "Always Be Ready to Leave (Even If You Never Do)",
+    "url": "https://andreacanton.dev/posts/2025-11-08-always-ready-to-leave/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.232Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45850430",
+    "title": "Apple is crossing a Steve Jobs red line",
+    "url": "https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.232Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45856987",
+    "title": "Btop: A better modern alternative of htop with a gamified interface",
+    "url": "https://github.com/aristocratos/btop",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45799157",
+    "title": "C++ move semantics from scratch (2022)",
+    "url": "https://cbarrete.com/move-from-scratch.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,24 +293,7 @@
     "title": "Why is Zig so Cool?",
     "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45855933",
-    "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
-    "url": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +310,7 @@
     "title": "Snapchat open-sources Valdi a cross-platform UI framework",
     "url": "https://github.com/Snapchat/Valdi",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,126 +327,7 @@
     "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
     "url": "https://arxiv.org/abs/2511.02743",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45792555",
-    "title": "Friendly Attributes Pattern in Ruby",
-    "url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45799949",
-    "title": "Dark mode by local sunlight (2021)",
-    "url": "https://www.ctnicholas.dev/articles/dark-mode-by-sunlight",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45808288",
-    "title": "Reverse Engineering a Neural Network's Clever Solution to Binary Addition (2023)",
-    "url": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45849342",
-    "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
-    "url": "https://github.com/sayyadirfanali/Myna",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45856069",
-    "title": "Cekura (YC F24) Is Hiring",
-    "url": "https://news.ycombinator.com/item?id=45856069",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45846517",
-    "title": "I Love OCaml",
-    "url": "https://mccd.space/posts/ocaml-the-worlds-best/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45850382",
-    "title": "How did I get here?",
-    "url": "https://how-did-i-get-here.net/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-08T19:09:55.937Z",
+    "publishedAt": "2025-11-08T20:13:20.231Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
