@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-45862470",
+    "title": "Tabloid: The Clickbait Headline Programming Language",
+    "url": "https://tabloid.vercel.app/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-45859471",
     "title": "Largest Cargo Sailboat Completes Historic First Atlantic Crossing",
     "url": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
     "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Control structures in programming languages: from goto to algebraic effects",
     "url": "http://xavierleroy.org/control-structures/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "How Airbus Took Off",
     "url": "https://worksinprogress.co/issue/how-airbus-took-off/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
     "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,24 +106,7 @@
     "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
     "url": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45862470",
-    "title": "Tabloid: The Clickbait Headline Programming Language",
-    "url": "https://tabloid.vercel.app/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.159Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
     "url": "https://ironclad-os.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +140,7 @@
     "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
     "url": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +157,7 @@
     "title": "Boring Company fined nearly $500K after it dumped drilling fluids into manholes",
     "url": "https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +174,7 @@
     "title": "Marko – A declarative, HTML‑based language that makes building web apps fun",
     "url": "https://markojs.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +191,7 @@
     "title": "Open-source communications by bouncing signals off the Moon",
     "url": "https://open.space/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +208,7 @@
     "title": "Syntax and Semantics of Programming Languages (1995)",
     "url": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +225,7 @@
     "title": "WriterdeckOS",
     "url": "https://writerdeckos.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +242,7 @@
     "title": "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
     "url": "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +259,7 @@
     "title": "Avería: The Average Font (2011)",
     "url": "http://iotic.com/averia/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +276,7 @@
     "title": "How to build your own VPN, or: the history of WARP",
     "url": "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +293,7 @@
     "title": "Show HN: Geofenced chat communities anyone can create",
     "url": "https://vicinity.social/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +310,7 @@
     "title": "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
     "url": "https://github.com/Ido-Levi/Hephaestus",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "Court Judge Rules Flock Safety camera data is not exempt from PRA [WA State]",
     "url": "https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T10:12:33.160Z",
+    "publishedAt": "2025-11-09T11:09:54.711Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
