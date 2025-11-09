@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-45862470",
-    "title": "Tabloid: The Clickbait Headline Programming Language",
-    "url": "https://tabloid.vercel.app/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.493Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45798068",
-    "title": "Control structures in programming languages: from goto to algebraic effects",
-    "url": "http://xavierleroy.org/control-structures/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.493Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45782192",
     "title": "Email verification protocol",
     "url": "https://github.com/WICG/email-verification-protocol",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "Largest Cargo Sailboat Completes Historic First Atlantic Crossing",
     "url": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +38,7 @@
     "title": "Show HN: I built a self-hosted error tracker in Rails",
     "url": "https://telebugs.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +55,7 @@
     "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
     "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +72,7 @@
     "title": "How Airbus Took Off",
     "url": "https://worksinprogress.co/issue/how-airbus-took-off/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45809552",
-    "title": "Defeating Kaslr by Doing Nothing at All",
-    "url": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
+    "id": "hackernews-45862470",
+    "title": "Tabloid: The Clickbait Headline Programming Language",
+    "url": "https://tabloid.vercel.app/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.493Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -133,14 +99,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-45859243",
-    "title": "Avería: The Average Font (2011)",
-    "url": "http://iotic.com/averia/",
+    "id": "hackernews-45798068",
+    "title": "Control structures in programming languages: from goto to algebraic effects",
+    "url": "http://xavierleroy.org/control-structures/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.493Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -150,31 +116,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45796897",
-    "title": "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
-    "url": "https://github.com/Ido-Levi/Hephaestus",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.493Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 8
   },
   {
     "id": "hackernews-45866224",
     "title": "The Manuscripts of Edsger W. Dijkstra",
     "url": "https://www.cs.utexas.edu/~EWD/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +140,7 @@
     "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
     "url": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +157,7 @@
     "title": "Visualize FastAPI endpoints with FastAPI-Voyager",
     "url": "https://www.newsyeah.fun/voyager/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +174,7 @@
     "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
     "url": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +191,7 @@
     "title": "Using bubblewrap to add sandboxing to NetBSD",
     "url": "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +208,7 @@
     "title": "Samsung Family Hub fridges will start showing adds to \"Elevate\" Home Ecosystem",
     "url": "https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +225,7 @@
     "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
     "url": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +242,7 @@
     "title": "I Am Mark Zuckerberg",
     "url": "https://iammarkzuckerberg.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +259,7 @@
     "title": "Alive Internet Theory",
     "url": "https://alivetheory.net/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +276,58 @@
     "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
     "url": "https://ironclad-os.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T16:14:24.492Z",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45862802",
+    "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
+    "url": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45865921",
+    "title": "About KeePassXC's Code Quality Control",
+    "url": "https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45794814",
+    "title": "The overengineered Solution to my Pigeon Problem",
+    "url": "https://maxnagy.com/posts/pigeons/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T17:10:59.478Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
