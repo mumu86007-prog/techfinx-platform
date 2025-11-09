@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-45862470",
-    "title": "Tabloid: The Clickbait Headline Programming Language",
-    "url": "https://tabloid.vercel.app/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45859471",
     "title": "Largest Cargo Sailboat Completes Historic First Atlantic Crossing",
     "url": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
     "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,24 @@
     "title": "Control structures in programming languages: from goto to algebraic effects",
     "url": "http://xavierleroy.org/control-structures/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45861984",
+    "title": "How Airbus Took Off",
+    "url": "https://worksinprogress.co/issue/how-airbus-took-off/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
     "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
     "url": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,45 +102,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45861897",
-    "title": "Judge says Education Dept partisan out-of-office emails violated First Amendment",
-    "url": "https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling",
+    "id": "hackernews-45862470",
+    "title": "Tabloid: The Clickbait Headline Programming Language",
+    "url": "https://tabloid.vercel.app/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45861329",
-    "title": "OpenAI: Our new model GPT-5-Codex-Mini – a more cost-efficient GPT-5-Codex",
-    "url": "https://github.com/openai/codex/releases/tag/rust-v0.56.0",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45852895",
-    "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
-    "url": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.347Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,58 +123,7 @@
     "title": "Marko – A declarative, HTML‑based language that makes building web apps fun",
     "url": "https://markojs.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45862591",
-    "title": "Syntax and Semantics of Programming Languages (1995)",
-    "url": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45860638",
-    "title": "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
-    "url": "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45858945",
-    "title": "WriterdeckOS",
-    "url": "https://writerdeckos.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +140,58 @@
     "title": "Open-source communications by bouncing signals off the Moon",
     "url": "https://open.space/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45862591",
+    "title": "Syntax and Semantics of Programming Languages (1995)",
+    "url": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45858945",
+    "title": "WriterdeckOS",
+    "url": "https://writerdeckos.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45860638",
+    "title": "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
+    "url": "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +208,7 @@
     "title": "Avería: The Average Font (2011)",
     "url": "http://iotic.com/averia/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45860654",
-    "title": "IP Blocking the UK Is Not Enough to Comply with the Online Safety Act",
-    "url": "https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/",
+    "id": "hackernews-45797083",
+    "title": "How to build your own VPN, or: the history of WARP",
+    "url": "https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45861933",
-    "title": "He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC",
-    "url": "https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1",
+    "id": "hackernews-45862500",
+    "title": "Show HN: Geofenced chat communities anyone can create",
+    "url": "https://vicinity.social/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45812835",
-    "title": "When a \"feature\" is worse than a bug (Hello,Sketchfab)",
-    "url": "https://medium.com/@egorich42/when-a-feature-is-worse-than-a-bug-hello-sketchfab-b88a10d52511",
+    "id": "hackernews-45796897",
+    "title": "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
+    "url": "https://github.com/Ido-Levi/Hephaestus",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +276,7 @@
     "title": "Court Judge Rules Flock Safety camera data is not exempt from PRA [WA State]",
     "url": "https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +293,41 @@
     "title": "My first fifteen compilers (2019)",
     "url": "https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T08:15:47.084Z",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45862071",
+    "title": "IRIX Introduction",
+    "url": "http://www.sgistuff.net/software/irixintro/index.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45852854",
+    "title": "Snapchat open-sources Valdi a cross-platform UI framework",
+    "url": "https://github.com/Snapchat/Valdi",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T09:12:30.348Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
