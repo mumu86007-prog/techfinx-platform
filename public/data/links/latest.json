@@ -4,7 +4,7 @@
     "title": "Marble Fountain",
     "url": "https://willmorrison.net/posts/marble-fountain/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "AI isn't replacing jobs. AI spending is",
     "url": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45869366",
+    "title": "America AI: Public Funding, Elite Extraction (not innovation)",
+    "url": "https://x.com/Toutapodcast/article/1987591854829768791",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Email verification protocol",
     "url": "https://github.com/WICG/email-verification-protocol",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Largest Cargo Sailboat Completes Historic First Atlantic Crossing",
     "url": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,45 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45787679",
-    "title": "Knowledge Insulating Vision-Language-Action Models: Train, Run Fast, Generalize [pdf]",
-    "url": "https://www.physicalintelligence.company/download/pi05_KI.pdf",
+    "id": "hackernews-45865289",
+    "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
+    "url": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45861984",
-    "title": "How Airbus Took Off",
-    "url": "https://worksinprogress.co/issue/how-airbus-took-off/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45866224",
-    "title": "The Manuscripts of Edsger W. Dijkstra",
-    "url": "https://www.cs.utexas.edu/~EWD/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +102,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-45865289",
-    "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
-    "url": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
+    "id": "hackernews-45866224",
+    "title": "The Manuscripts of Edsger W. Dijkstra",
+    "url": "https://www.cs.utexas.edu/~EWD/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45803601",
+    "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
+    "url": "https://www.youtube.com/watch?v=dy-wFixuRVU",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45869146",
+    "title": "Ask HN: What Are You Working On? (Nov 2025)",
+    "url": "https://news.ycombinator.com/item?id=45869146",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +157,7 @@
     "title": "The Principles of Diffusion Models",
     "url": "https://arxiv.org/abs/2510.21890",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,7 @@
     "title": "Drilling Down on Uncle Sam's Proposed TP-Link Ban",
     "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45866165",
-    "title": "Samsung Family Hub fridges will start showing adds to \"Elevate\" Home Ecosystem",
-    "url": "https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/",
+    "id": "hackernews-45868533",
+    "title": "The Computer Church – Pennsylvania Computer and Technology Museum",
+    "url": "https://www.thecomputerchurch.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +208,41 @@
     "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
     "url": "https://github.com/samcervantes/bumble-berry-pi",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45868259",
+    "title": "The Sega Master System",
+    "url": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45804295",
+    "title": "CHIP8 – writing emulator, assembler, example game and VHDL hardware impl",
+    "url": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +259,24 @@
     "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
     "url": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45811435",
+    "title": "Solving Every Sudoku Puzzle (2006)",
+    "url": "https://norvig.com/sudoku.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +293,7 @@
     "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
     "url": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45810223",
-    "title": "When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug",
-    "url": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
+    "id": "hackernews-45865956",
+    "title": "Startups are pushing the boundaries of reproductive genetics",
+    "url": "https://www.wsj.com/tech/biotech/genetically-engineered-babies-tech-billionaires-6779efc8",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,75 +327,7 @@
     "title": "Visualize FastAPI endpoints with FastAPI-Voyager",
     "url": "https://www.newsyeah.fun/voyager/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45865327",
-    "title": "Using bubblewrap to add sandboxing to NetBSD",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45867176",
-    "title": "Ask HN: How do you get over the fear of sharing code?",
-    "url": "https://news.ycombinator.com/item?id=45867176",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45863360",
-    "title": "I Am Mark Zuckerberg",
-    "url": "https://iammarkzuckerberg.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45860843",
-    "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
-    "url": "https://ironclad-os.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T22:12:28.227Z",
+    "publishedAt": "2025-11-09T23:12:18.862Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
