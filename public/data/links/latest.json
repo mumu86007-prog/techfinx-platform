@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-45866697",
-    "title": "Marble Fountain",
-    "url": "https://willmorrison.net/posts/marble-fountain/",
+    "id": "hackernews-45859471",
+    "title": "Largest Cargo Sailboat Completes Historic First Atlantic Crossing",
+    "url": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45866243",
-    "title": "AI isn't replacing jobs. AI spending is",
-    "url": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
+    "id": "hackernews-45776512",
+    "title": "Show HN: I built a self-hosted error tracker in Rails",
+    "url": "https://telebugs.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +34,62 @@
     "score": 8
   },
   {
-    "id": "hackernews-45869366",
-    "title": "America AI: Public Funding, Elite Extraction (not innovation)",
-    "url": "https://x.com/Toutapodcast/article/1987591854829768791",
+    "id": "hackernews-45856804",
+    "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
+    "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45861984",
+    "title": "How Airbus Took Off",
+    "url": "https://worksinprogress.co/issue/how-airbus-took-off/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45862470",
+    "title": "Tabloid: The Clickbait Headline Programming Language",
+    "url": "https://tabloid.vercel.app/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45798068",
+    "title": "Control structures in programming languages: from goto to algebraic effects",
+    "url": "http://xavierleroy.org/control-structures/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +106,7 @@
     "title": "Email verification protocol",
     "url": "https://github.com/WICG/email-verification-protocol",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.604Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,28 +119,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45859471",
-    "title": "Largest Cargo Sailboat Completes Historic First Atlantic Crossing",
-    "url": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
+    "id": "hackernews-45862802",
+    "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
+    "url": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45865289",
-    "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
-    "url": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45866224",
-    "title": "The Manuscripts of Edsger W. Dijkstra",
-    "url": "https://www.cs.utexas.edu/~EWD/",
+    "id": "hackernews-45865921",
+    "title": "About KeePassXC's Code Quality Control",
+    "url": "https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45803601",
-    "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
-    "url": "https://www.youtube.com/watch?v=dy-wFixuRVU",
+    "id": "hackernews-45794814",
+    "title": "The overengineered Solution to my Pigeon Problem",
+    "url": "https://maxnagy.com/posts/pigeons/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45869146",
-    "title": "Ask HN: What Are You Working On? (Nov 2025)",
-    "url": "https://news.ycombinator.com/item?id=45869146",
+    "id": "hackernews-45864732",
+    "title": "Ask HN: How would u setup a child's first Linux computer?",
+    "url": "https://news.ycombinator.com/item?id=45864732",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45866572",
-    "title": "The Principles of Diffusion Models",
-    "url": "https://arxiv.org/abs/2510.21890",
+    "id": "hackernews-45791380",
+    "title": "How to get the GOT address from a PLT stub using GDB",
+    "url": "https://rafaelbeirigo.github.io/cybersec-dojo/research/2025/11/01/how-to-get-the-got-address-from-a-plt-stub-using-gdb.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45867717",
-    "title": "Drilling Down on Uncle Sam's Proposed TP-Link Ban",
-    "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+    "id": "hackernews-45858905",
+    "title": "Marko – A declarative, HTML‑based language that makes building web apps fun",
+    "url": "https://markojs.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45868533",
-    "title": "The Computer Church – Pennsylvania Computer and Technology Museum",
-    "url": "https://www.thecomputerchurch.org/",
+    "id": "hackernews-45863024",
+    "title": "Forth – is it still relevant?",
+    "url": "https://github.com/chochain/eforth",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45866772",
-    "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
-    "url": "https://github.com/samcervantes/bumble-berry-pi",
+    "id": "hackernews-45798473",
+    "title": "Toolkit to help you get started with Spec-Driven Development",
+    "url": "https://github.com/github/spec-kit",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45868259",
-    "title": "The Sega Master System",
-    "url": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
+    "id": "hackernews-45790672",
+    "title": "Open-source communications by bouncing signals off the Moon",
+    "url": "https://open.space/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45804295",
-    "title": "CHIP8 – writing emulator, assembler, example game and VHDL hardware impl",
-    "url": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
+    "id": "hackernews-45865426",
+    "title": "Drax: Speech Recognition with Discrete Flow Matching",
+    "url": "https://huggingface.co/papers/2510.04162",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45865159",
-    "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
-    "url": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
+    "id": "hackernews-45809552",
+    "title": "Defeating Kaslr by Doing Nothing at All",
+    "url": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45811435",
-    "title": "Solving Every Sudoku Puzzle (2006)",
-    "url": "https://norvig.com/sudoku.html",
+    "id": "hackernews-45859243",
+    "title": "Avería: The Average Font (2011)",
+    "url": "http://iotic.com/averia/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,45 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45865189",
-    "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
-    "url": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
+    "id": "hackernews-45796897",
+    "title": "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
+    "url": "https://github.com/Ido-Levi/Hephaestus",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45865956",
-    "title": "Startups are pushing the boundaries of reproductive genetics",
-    "url": "https://www.wsj.com/tech/biotech/genetically-engineered-babies-tech-billionaires-6779efc8",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45865049",
-    "title": "Visualize FastAPI endpoints with FastAPI-Voyager",
-    "url": "https://www.newsyeah.fun/voyager/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-09T23:12:18.862Z",
+    "publishedAt": "2025-11-10T01:07:51.605Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
