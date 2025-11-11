@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-45866697",
-    "title": "Marble Fountain",
-    "url": "https://willmorrison.net/posts/marble-fountain/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45871107",
-    "title": "How to maintain good vision amidst the myopia epidemic",
-    "url": "https://ssathe.substack.com/p/vision-in-the-digital-age",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45871084",
-    "title": "My Git history was a mess of 'update' and 'fix' – so I made AI clean it up",
-    "url": "https://github.com/f/git-rewrite-commits",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45782192",
     "title": "Email verification protocol",
     "url": "https://github.com/WICG/email-verification-protocol",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-45871531",
-    "title": "Open source has a growing problem with LLM generated issues",
-    "url": "https://github.com/opencontainers/runc/issues/4990",
+    "id": "hackernews-45866243",
+    "title": "AI isn't replacing jobs. AI spending is",
+    "url": "https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -82,99 +31,31 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
+  },
+  {
+    "id": "hackernews-45866697",
+    "title": "Marble Fountain",
+    "url": "https://willmorrison.net/posts/marble-fountain/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-11T14:14:40.167Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
   },
   {
     "id": "hackernews-45869146",
     "title": "Ask HN: What Are You Working On? (Nov 2025)",
     "url": "https://news.ycombinator.com/item?id=45869146",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45865289",
-    "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
-    "url": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45864341",
-    "title": "Itiner-e: the Google Maps of Roman Roads",
-    "url": "https://itiner-e.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45870925",
-    "title": "Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB",
-    "url": "https://rajivm1991.github.io/DroidDock/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45867717",
-    "title": "Drilling Down on Uncle Sam's Proposed TP-Link Ban",
-    "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45803601",
-    "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
-    "url": "https://www.youtube.com/watch?v=dy-wFixuRVU",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +72,7 @@
     "title": "JVM exceptions are weird: a decompiler perspective",
     "url": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45866224",
-    "title": "The Manuscripts of Edsger W. Dijkstra",
-    "url": "https://www.cs.utexas.edu/~EWD/",
+    "id": "hackernews-45865289",
+    "title": "Montana Becomes First State to Enshrine 'Right to Compute' into Law",
+    "url": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45866572",
-    "title": "The Principles of Diffusion Models",
-    "url": "https://arxiv.org/abs/2510.21890",
+    "id": "hackernews-45803601",
+    "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
+    "url": "https://www.youtube.com/watch?v=dy-wFixuRVU",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,28 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45868259",
-    "title": "The Sega Master System",
-    "url": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
+    "id": "hackernews-45867717",
+    "title": "Drilling Down on Uncle Sam's Proposed TP-Link Ban",
+    "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45866772",
-    "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
-    "url": "https://github.com/samcervantes/bumble-berry-pi",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +140,7 @@
     "title": "Work After Work: Notes from an Unemployed New Grad Watching the Job Market Break",
     "url": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45804870",
-    "title": "Today I Learned: Binfmt_misc",
-    "url": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
+    "id": "hackernews-45866224",
+    "title": "The Manuscripts of Edsger W. Dijkstra",
+    "url": "https://www.cs.utexas.edu/~EWD/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +170,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-45865159",
-    "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
-    "url": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
+    "id": "hackernews-45866572",
+    "title": "The Principles of Diffusion Models",
+    "url": "https://arxiv.org/abs/2510.21890",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45869587",
+    "title": "If You're Not Active, You're Sick – You Just Don't Know It Yet",
+    "url": "https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45868259",
+    "title": "The Sega Master System",
+    "url": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45866772",
+    "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
+    "url": "https://github.com/samcervantes/bumble-berry-pi",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +242,92 @@
     "title": "Sued by Nintendo",
     "url": "https://www.suedbynintendo.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-11T13:27:07.884Z",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45865159",
+    "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
+    "url": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45804295",
+    "title": "CHIP8 – writing emulator, assembler, example game and VHDL hardware impl",
+    "url": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45865189",
+    "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
+    "url": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45868533",
+    "title": "The Computer Church – Pennsylvania Computer and Technology Museum",
+    "url": "https://www.thecomputerchurch.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45804870",
+    "title": "Today I Learned: Binfmt_misc",
+    "url": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-11T14:14:40.168Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
