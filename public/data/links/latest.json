@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-45914718",
-    "title": "Britain's railway privatization was an abject failure",
-    "url": "https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45912744",
-    "title": "Telli (Voice AI – YC F24) is hiring engineers in Berlin",
-    "url": "https://hi.telli.com/eng",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-45915380",
-    "title": "Google Posts Device Trees for Booting Pixel 10 with Mainline Linux Kernel",
-    "url": "https://www.phoronix.com/news/Google-Pixel-10-Google-DTs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-45912698",
     "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
     "url": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
+    "publishedAt": "2025-11-13T16:19:19.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,147 +17,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45914761",
-    "title": "Blender Lab",
-    "url": "https://www.blender.org/news/introducing-blender-lab/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-45908938",
     "title": "Android developer verification: Early access starts",
     "url": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45915731",
-    "title": "GitHub Partial Outage",
-    "url": "https://www.githubstatus.com/incidents/1jw8ltnr1qrj",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45915114",
-    "title": "Show HN: Ory Kratos - Cloud native Auth0 open-source alternative (self-hosted)",
-    "url": "https://github.com/ory/kratos",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45915069",
-    "title": "Denx (a.k.a. U-Boot) Retires",
-    "url": "https://www.denx.de/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45825040",
-    "title": "Switching from GPG to Age",
-    "url": "https://luke.hsiao.dev/blog/gpg-to-age/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45914815",
-    "title": "Heartbeats in Distributed Systems",
-    "url": "https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45912785",
-    "title": "Seed. LINE's Custom Typeface",
-    "url": "https://seed.line.me/index_en.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45910381",
-    "title": "Android 16 QPR1 is being pushed to the Android Open Source Project",
-    "url": "https://grapheneos.social/@GrapheneOS/115533432439509433",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
+    "publishedAt": "2025-11-13T16:19:19.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +38,7 @@
     "title": "Human Fovea Detector",
     "url": "https://www.shadertoy.com/view/4dsXzM",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
+    "publishedAt": "2025-11-13T16:19:19.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,24 +55,7 @@
     "title": "Steam Machine",
     "url": "https://store.steampowered.com/sale/steammachine",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45828523",
-    "title": "Continuous Autoregressive Language Models",
-    "url": "https://arxiv.org/abs/2510.27688",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
+    "publishedAt": "2025-11-13T16:19:19.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,24 +72,7 @@
     "title": "Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software",
     "url": "https://github.com/Homebrew/brew/issues/20755",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45808047",
-    "title": "Randomness Testing Guide",
-    "url": "https://random.tastemaker.design/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
+    "publishedAt": "2025-11-13T16:19:19.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +89,7 @@
     "title": "GPT-5.1: A smarter, more conversational ChatGPT",
     "url": "https://openai.com/index/gpt-5-1/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
+    "publishedAt": "2025-11-13T16:19:19.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45810516",
-    "title": "A Challenge to Roboticists: My Humanoid Olympics",
-    "url": "https://spectrum.ieee.org/humanoid-robot-olympics",
+    "id": "hackernews-45903325",
+    "title": "Steam Frame",
+    "url": "https://store.steampowered.com/sale/steamframe",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-13T15:17:03.715Z",
+    "publishedAt": "2025-11-13T16:19:19.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
