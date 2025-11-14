@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-45926779",
-    "title": "I think nobody wants AI in Firefox, Mozilla",
-    "url": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
+    "id": "hackernews-45928822",
+    "title": "RetailReady (YC W24) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/retailready/jobs/kGHAith-support-engineer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-14T19:11:52.039Z",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,164 @@
     "score": 8
   },
   {
-    "id": "hackernews-45928912",
-    "title": "You misunderstand what it means to be poor",
-    "url": "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/",
+    "id": "hackernews-45926037",
+    "title": "Magit manuals are available online again",
+    "url": "https://github.com/magit/magit/issues/5472",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-14T19:11:52.039Z",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45927210",
+    "title": "Linear Algebra Explains Why Some Words Are Effectively Untranslatable",
+    "url": "https://aethermug.com/posts/linear-algebra-explains-why-some-words-are-effectively-untranslatable",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45926779",
+    "title": "I think nobody wants AI in Firefox, Mozilla",
+    "url": "https://manualdousuario.net/en/mozilla-firefox-window-ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45930151",
+    "title": "AI World Clocks",
+    "url": "https://clocks.brianmoore.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.077Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45926439",
+    "title": "Nvidia is gearing up to sell servers instead of just GPUs and components",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-45930284",
+    "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
+    "url": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.077Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-45797689",
+    "title": "Awk Technical Notes (2023)",
+    "url": "https://maximullaris.com/awk_tech_notes.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45929358",
+    "title": "Bitchat for Gaza – messaging without internet",
+    "url": "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45821154",
+    "title": "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
+    "url": "https://linuxcontainers.org/incus-os/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45928620",
+    "title": "US Tech Market Treemap",
+    "url": "https://caplocus.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +191,143 @@
     "title": "AGI fantasy is a blocker to actual engineering",
     "url": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-14T19:11:52.038Z",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45929247",
+    "title": "Meeting notes between Forgejo and the Dutch government via Git commits",
+    "url": "https://codeberg.org/forgejo/sustainability/pulls/137/files",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45875618",
+    "title": "Honda: 2 years of ml vs 1 month of prompting - heres what we learned",
+    "url": "https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45885070",
+    "title": "GPG and Me (2015)",
+    "url": "https://moxie.org/2015/02/24/gpg-and-me.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45930659",
+    "title": "Show HN: Chirp – Local Windows dictation with ParakeetV3 no executable required",
+    "url": "https://github.com/Whamp/chirp",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45929052",
+    "title": "Germany to Ban Huawei from Future 6G Network in Sovereignty Push",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-13/germany-to-ban-huawei-from-future-6g-network-in-sovereignty-push",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45926224",
+    "title": "Winamp clone in Swift for macOS",
+    "url": "https://github.com/mgreenwood1001/winamp",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45926263",
+    "title": "EDE: Small and Fast Desktop Environment (2014)",
+    "url": "https://edeproject.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45866366",
+    "title": "Operating Margins",
+    "url": "https://fi-le.net/margin/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-14T20:16:33.078Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
