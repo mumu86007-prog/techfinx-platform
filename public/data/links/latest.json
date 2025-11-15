@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-45930151",
+    "title": "AI World Clocks",
+    "url": "https://clocks.brianmoore.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45936460",
+    "title": "Our investigation into the suspicious pressure on Archive.today",
+    "url": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45935503",
+    "title": "TCP, the workhorse of the internet",
+    "url": "https://cefboud.com/posts/tcp-deep-dive-internals/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45935729",
+    "title": "Messing with scraper bots",
+    "url": "https://herman.bearblog.dev/messing-with-bots/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45932962",
+    "title": "Go's Sweet 16",
+    "url": "https://go.dev/blog/16years",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45932798",
+    "title": "SSL Configuration Generator",
+    "url": "https://ssl-config.mozilla.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
