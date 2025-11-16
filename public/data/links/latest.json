@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-45930151",
-    "title": "AI World Clocks",
-    "url": "https://clocks.brianmoore.com/",
+    "id": "hackernews-45938785",
+    "title": "Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies",
+    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,228 @@
     "title": "Our investigation into the suspicious pressure on Archive.today",
     "url": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45941025",
+    "title": "libwifi: an 802.11 frame parsing and generation library written in C",
+    "url": "https://libwifi.so/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45841095",
+    "title": "When did people favor composition over inheritance?",
+    "url": "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45891066",
+    "title": "Show HN: Unflip – a puzzle game about XOR patterns of squares",
+    "url": "https://unflipgame.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45939550",
+    "title": "Transgenerational Epigenetic Inheritance: the story of learned avoidance",
+    "url": "https://elifesciences.org/articles/109427",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45939431",
+    "title": "Things that aren't doing the thing",
+    "url": "https://strangestloop.io/essays/things-that-arent-doing-the-thing",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45940706",
+    "title": "AsciiMath",
+    "url": "https://asciimath.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45832051",
+    "title": "Boa: A standard-conforming embeddable JavaScript engine written in Rust",
+    "url": "https://github.com/boa-dev/boa",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45939938",
+    "title": "Archimedes – A Python toolkit for hardware engineering",
+    "url": "https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45821328",
+    "title": "JVM exceptions are weird: a decompiler perspective",
+    "url": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45845582",
+    "title": "Show HN: I made a better DOM morphing algorithm",
+    "url": "https://joel.drapper.me/p/morphlex/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45940413",
+    "title": "AMD continues to chip away at Intel's x86 market share",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45937989",
+    "title": "Linux on the Fujitsu Lifebook U729",
+    "url": "https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45938027",
+    "title": "Weighting an average to minimize variance",
+    "url": "https://www.johndcook.com/blog/2025/11/12/minimum-variance/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +259,41 @@
     "title": "TCP, the workhorse of the internet",
     "url": "https://cefboud.com/posts/tcp-deep-dive-internals/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45834332",
+    "title": "Feature Extraction with KNN",
+    "url": "https://davpinto.github.io/fastknn/articles/knn-extraction.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45939798",
+    "title": "Nevada Governor's office covered up Boring Co safety violations",
+    "url": "https://fortune.com/2025/11/12/elon-musk-boring-company-tunnels-injuries-osha-citations-fines-rescinded-nevada-governor-office-documents-altered/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +310,7 @@
     "title": "Messing with scraper bots",
     "url": "https://herman.bearblog.dev/messing-with-bots/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,28 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45932962",
-    "title": "Go's Sweet 16",
-    "url": "https://go.dev/blog/16years",
+    "id": "hackernews-45938723",
+    "title": "Windhawk Windows classic theme mod for Windows 11",
+    "url": "https://windhawk.net/mods/classic-theme-enable",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-15T23:13:30.428Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45932798",
-    "title": "SSL Configuration Generator",
-    "url": "https://ssl-config.mozilla.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-15T23:13:30.428Z",
+    "publishedAt": "2025-11-16T01:09:47.481Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
