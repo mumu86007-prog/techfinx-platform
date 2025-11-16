@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-45946498",
+    "title": "Only three kinds of AI products work",
+    "url": "https://www.seangoedecke.com/ai-products/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45941596",
+    "title": "AirPods libreated from Apple's ecosystem",
+    "url": "https://github.com/kavishdevar/librepods",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45944951",
+    "title": "PgFirstAid: PostgreSQL function for improving stability and performance",
+    "url": "https://github.com/randoneering/pgFirstAid",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45945200",
+    "title": "Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog",
+    "url": "https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45945960",
+    "title": "Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]",
+    "url": "https://www.youtube.com/watch?v=uB0gr7Fh6lY",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-45945784",
+    "title": "FPGA Based IBM-PC-XT",
+    "url": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45944337",
+    "title": "Brimstone: ES2025 JavaScript engine written in Rust",
+    "url": "https://github.com/Hans-Halverson/brimstone",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45945750",
+    "title": "De Bruijn Numerals",
+    "url": "https://text.marvinborner.de/2023-08-22-22.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45945202",
+    "title": "Running the \"Reflections on Trusting Trust\" Compiler",
+    "url": "https://research.swtch.com/nih",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45944969",
+    "title": "Garbage Collection Is Useful",
+    "url": "https://dubroy.com/blog/garbage-collection-is-useful/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45825413",
+    "title": "Fourier Transforms",
+    "url": "https://www.continuummechanics.org/fourierxforms.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45944296",
+    "title": "Anthropic's report smells a lot like bullshit",
+    "url": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45815948",
+    "title": "Measuring the doppler shift of WWVB during a flight",
+    "url": "https://greatscottgadgets.com/2025/10-31-receiving-wwvb-with-hackrf-pro/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45944906",
+    "title": "Vintage Large Language Models",
+    "url": "https://owainevans.github.io/talk-transcript.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45945188",
+    "title": "Iran begins cloud seeding operations as drought bites",
+    "url": "https://www.arabnews.com/node/2622812/middle-east",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45943979",
+    "title": "Maybe you’re not trying",
+    "url": "https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45944870",
+    "title": "The Internet Is No Longer a Safe Haven",
+    "url": "https://brainbaking.com/post/2025/10/the-internet-is-no-longer-a-safe-haven/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45941835",
+    "title": "IDEmacs: A Visual Studio Code clone for Emacs",
+    "url": "https://codeberg.org/IDEmacs/IDEmacs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45801004",
+    "title": "Diamonds and Lasers: Thermal Management for Chips",
+    "url": "https://spectrum.ieee.org/thermal-management-chips",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45876884",
+    "title": "Run Nix Based Environments in Kubernetes",
+    "url": "https://flox.dev/kubernetes/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-16T18:18:53.752Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
