@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-45953045",
+    "title": "FCC Chairman backs demand that NBC fire Seth Meyers 'immediately'",
+    "url": "https://ew.com/donald-trump-calls-for-nbc-to-immediately-fire-seth-meyers-11850483",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45949352",
+    "title": "PicoIDE – An open IDE/ATAPI drive emulator",
+    "url": "https://picoide.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45947639",
+    "title": "The fate of \"small\" open source",
+    "url": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45946865",
+    "title": "I finally understand Cloudflare Zero Trust tunnels",
+    "url": "https://david.coffee/cloudflare-zero-trust-tunnels",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45947810",
+    "title": "Open-source Zig book",
+    "url": "https://www.zigbook.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45948254",
+    "title": "The Pragmatic Programmer: 20th Anniversary Edition (2023)",
+    "url": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45893471",
+    "title": "Runit Linux: Complete Guide to Unix Init Scheme with Service Supervision",
+    "url": "https://codelucky.com/runit-linux-init-service-supervision/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45948792",
+    "title": "Neuroscientists track the neural activity underlying an “aha”",
+    "url": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45945784",
+    "title": "FPGA Based IBM-PC-XT",
+    "url": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45949655",
+    "title": "A new chapter begins for EV batteries with the expiry of key LFP patents",
+    "url": "https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45947301",
+    "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines (2015)",
+    "url": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45952672",
+    "title": "The evolution of rationality: How chimps process conflicting evidence",
+    "url": "https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45825413",
+    "title": "Fourier Transforms",
+    "url": "https://www.continuummechanics.org/fourierxforms.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45950553",
+    "title": "Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down",
+    "url": "https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45948311",
+    "title": "Why Castrol Honda Superbike crashes on (most) modern systems",
+    "url": "https://seri.tools/blog/castrol-honda-superbike/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45880643",
+    "title": "\"Snarky\"; \"Snark\"",
+    "url": "https://notoneoffbritishisms.com/2025/10/13/snarky-snark/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45947770",
+    "title": "Supercookie: Browser Fingerprinting via Favicon (2021)",
+    "url": "https://github.com/jonasstrehle/supercookie",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45948058",
+    "title": "I have recordings proving Coinbase knew about breach months before disclosure",
+    "url": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.463Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45952428",
+    "title": "Giving C a Superpower",
+    "url": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.462Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45845060",
+    "title": "Craft Chrome Devtools Protocol (CDP) commands with the new command editor",
+    "url": "https://developer.chrome.com/blog/cdp-command-editor",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T13:28:37.462Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
