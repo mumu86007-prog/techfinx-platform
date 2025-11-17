@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "id": "hackernews-45947810",
+    "title": "Open-source Zig book",
+    "url": "https://www.zigbook.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T06:22:47.950Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45945587",
+    "title": "Heretic: Automatic censorship removal for language models",
+    "url": "https://github.com/p-e-w/heretic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T06:22:47.950Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45949326",
+    "title": "Britney Spears' Guide to Semiconductor Physics (2000)",
+    "url": "https://britneyspears.ac/lasers.htm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T06:22:47.950Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45944337",
+    "title": "Brimstone: ES2025 JavaScript engine written in Rust",
+    "url": "https://github.com/Hans-Halverson/brimstone",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T06:22:47.950Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45947770",
+    "title": "Supercookie: Browser Fingerprinting via Favicon (2021)",
+    "url": "https://github.com/jonasstrehle/supercookie",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T06:22:47.950Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45948058",
+    "title": "I have recordings proving Coinbase knew about breach months before disclosure",
+    "url": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T06:22:47.950Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45947761",
+    "title": "Dark Pattern Games",
+    "url": "https://www.darkpattern.games/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T06:22:47.950Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45944296",
+    "title": "Anthropic’s paper smells like bullshit",
+    "url": "https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T06:22:47.950Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
