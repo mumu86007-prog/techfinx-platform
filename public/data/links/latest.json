@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "hackernews-45952428",
+    "title": "Giving C a superpower: custom header file (safe_c.h)",
+    "url": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T22:13:58.782Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45945114",
+    "title": "Where do the children play?",
+    "url": "https://unpublishablepapers.substack.com/p/where-do-the-children-play",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T22:13:58.782Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45953702",
+    "title": "Replicate is joining Cloudflare",
+    "url": "https://replicate.com/blog/replicate-cloudflare",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T22:13:58.782Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45954560",
+    "title": "Google is killing the open web, part 2",
+    "url": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T22:13:58.782Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45953452",
+    "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
+    "url": "https://github.com/medusalix/FreeMDU",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-17T22:13:58.781Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
