@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-45957629",
+    "title": "Compiling Ruby to machine language",
+    "url": "https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-18T04:18:25.690Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45955900",
+    "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-18T04:18:25.690Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45954640",
+    "title": "Project Gemini",
+    "url": "https://geminiprotocol.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-18T04:18:25.690Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45944158",
+    "title": "Astrophotographer snaps skydiver falling in front of the sun",
+    "url": "https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-18T04:18:25.690Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45953452",
+    "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
+    "url": "https://github.com/medusalix/FreeMDU",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-18T04:18:25.690Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45954210",
+    "title": "WeatherNext 2: Our most advanced weather forecasting model",
+    "url": "https://blog.google/technology/google-deepmind/weathernext-2/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-18T04:18:25.690Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
