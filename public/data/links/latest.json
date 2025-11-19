@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "id": "hackernews-45961886",
+    "title": "Google boss says AI investment boom has 'elements of irrationality'",
+    "url": "https://www.bbc.com/news/articles/cwy7vrd8k4eo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45971726",
+    "title": "GitHub: Git operation failures",
+    "url": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45973709",
+    "title": "Cloudflare outage on November 18, 2025 post mortem",
+    "url": "https://blog.cloudflare.com/18-november-2025-outage/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45967211",
+    "title": "Gemini 3",
+    "url": "https://blog.google/products/gemini/gemini-3/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45967814",
+    "title": "Google Antigravity",
+    "url": "https://antigravity.google/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45969250",
+    "title": "Pebble, Rebble, and a path forward",
+    "url": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45972519",
+    "title": "Blender 5.0",
+    "url": "https://www.blender.org/download/releases/5-0/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45963780",
+    "title": "Cloudflare Global Network experiencing issues",
+    "url": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45969909",
+    "title": "I am stepping down as the CEO of Mastodon",
+    "url": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45966251",
+    "title": "Nearly all UK drivers say headlights are too bright",
+    "url": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-19T08:19:33.868Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
