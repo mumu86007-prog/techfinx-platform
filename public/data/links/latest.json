@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "hackernews-45980117",
+    "title": "Europe is scaling back GDPR and relaxing AI laws",
+    "url": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-20T01:03:40.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45978423",
+    "title": "Thunderbird adds native Microsoft Exchange email support",
+    "url": "https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-20T01:03:40.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45982649",
+    "title": "Building more with GPT-5.1-Codex-Max",
+    "url": "https://openai.com/index/gpt-5-1-codex-max/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-20T01:03:40.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45984143",
+    "title": "The Death of Arduino?",
+    "url": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-20T01:03:40.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45977744",
+    "title": "A $1k AWS mistake",
+    "url": "https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-20T01:03:40.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
