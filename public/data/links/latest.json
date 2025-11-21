@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "id": "hackernews-46001889",
+    "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
+    "url": "https://allenai.org/blog/olmo3",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-21T19:12:30.034Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46003778",
+    "title": "How a French judge was digitally cut off by the USA",
+    "url": "https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-21T19:12:30.035Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
