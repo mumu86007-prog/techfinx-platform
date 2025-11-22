@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46009056",
+    "title": "Arduino Terms of Service and Privacy Policy update: setting the record straight",
+    "url": "https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-45938005",
     "title": "Kodak Ran a Secret Nuclear Device in Its Basement for Decades",
     "url": "https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "Discontinuation of ARM Notebook with Snapdragon X Elite SoC",
     "url": "https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,28 +51,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-45913432",
-    "title": "An Interview with Unity CEO Matthew Bromberg About Turnarounds",
-    "url": "https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/",
+    "id": "hackernews-46013935",
+    "title": "Agent Design Is Still Hard",
+    "url": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46013960",
-    "title": "ADHD and Monotropism (2023)",
-    "url": "https://monotropism.org/adhd/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Personal blogs are back, should niche blogs be next?",
     "url": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "Helping Valve to power up Steam devices",
     "url": "https://www.igalia.com/2025/11/helpingvalve.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46013935",
-    "title": "Agent Design Is Still Hard",
-    "url": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
+    "id": "hackernews-46012328",
+    "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
+    "url": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
     "url": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +140,7 @@
     "title": "The Connectivity Standards Alliance Announces Zigbee 4.0 and Suzi",
     "url": "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +157,7 @@
     "title": "Weight-sparse transformers have interpretable circuits [pdf]",
     "url": "https://cdn.openai.com/pdf/41df8f28-d4ef-43e9-aed2-823f9393e470/circuit-sparsity-paper.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +174,7 @@
     "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
     "url": "https://wealthfolio.app/?v=2.0",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46013900",
-    "title": "Why DETRs are replacing YOLOs for real-time object detection",
-    "url": "https://blog.datameister.ai/detection-transformers-real-time-object-detection",
+    "id": "hackernews-46013960",
+    "title": "ADHD and Monotropism (2023)",
+    "url": "https://monotropism.org/adhd/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-45892123",
-    "title": "Single-Celled Marine Organisms Resulted in an Influential Illustrated Book",
-    "url": "https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/",
+    "id": "hackernews-45936776",
+    "title": "The twin probes just launched toward Mars have an Easter egg on board",
+    "url": "https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,24 +225,7 @@
     "title": "Moss Survives 9 Months in Space Vacuum",
     "url": "https://scienceclock.com/moss-survives-9-months-in-space-vacuum/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46010329",
-    "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
-    "url": "https://edw.is/learning-vulkan/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +242,24 @@
     "title": "Sharper MRI scans may be on horizon thanks to new physics-based model",
     "url": "https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46010329",
+    "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
+    "url": "https://edw.is/learning-vulkan/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +276,7 @@
     "title": "We should all be using dependency cooldowns",
     "url": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +293,24 @@
     "title": "Event Sourcing in Go: From Zero to Production",
     "url": "https://skoredin.pro/blog/golang/event-sourcing-go",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45913432",
+    "title": "An Interview with Unity CEO Matthew Bromberg About Turnarounds",
+    "url": "https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "Concrete Shipbuilding – Argentina",
     "url": "https://thecretefleet.com/blog/f/concrete-shipbuilding-%E2%80%93-argentina",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45927520",
-    "title": "Childhood Friends, Not Moms, Shape Attachment Styles Most",
-    "url": "https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-22T13:19:56.009Z",
+    "publishedAt": "2025-11-22T14:12:25.759Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
