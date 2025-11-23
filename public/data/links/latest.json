@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-45957911",
+    "title": "Almost all Collatz orbits attain almost bounded values",
+    "url": "https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46025942",
+    "title": "Fran Sans – font inspired by San Francisco light rail displays",
+    "url": "https://emilysneddon.com/fran-sans-essay",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.599Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46025721",
+    "title": "Native Secure Enclave backed SSH keys on macOS",
+    "url": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46024773",
+    "title": "Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]",
+    "url": "https://mathcs.holycross.edu/~ahwang/print/calc.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46023013",
+    "title": "Shaders: How to draw high fidelity graphics with just x and y coordinates",
+    "url": "https://www.makingsoftware.com/chapters/shaders",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46023460",
+    "title": "Racket v9.0",
+    "url": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46024584",
+    "title": "Mount Proton Drive on Linux using rclone and systemd",
+    "url": "https://github.com/dadtronics/protondrive-linux",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46026579",
+    "title": "780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks",
+    "url": "https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/loaded-this-linux-distro-in-a-month/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46026939",
+    "title": "\"Good engineering management\" is a fad",
+    "url": "https://lethain.com/good-eng-mgmt-is-a-fad/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46024032",
+    "title": "Editing Code in Emacs",
+    "url": "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46024184",
+    "title": "Court filings allege Meta downplayed risks to children and misled the public",
+    "url": "https://time.com/7336204/meta-lawsuit-files-child-safety/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46009962",
+    "title": "A time-travelling door bug in Half Life 2",
+    "url": "https://mastodon.gamedev.place/@TomF/115589875974658415",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46019685",
+    "title": "A monopoly ISP refuses to fix upstream infrastructure",
+    "url": "https://sacbear.com/xfinity-wont-fix-internet/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46025055",
+    "title": "HumanLayer (YC F24) Is Hiring Founding Engineers",
+    "url": "https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45956542",
+    "title": "Pyrotechnic Display Design Software",
+    "url": "https://github.com/giuseppe-coco/FireShow",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45922514",
+    "title": "Spectral rendering, part 2: Real-time rendering",
+    "url": "https://momentsingraphics.de/SpectralRendering2Rendering.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45979357",
+    "title": "Forever Object: The Staple-Less Oceanus Brass Stapler",
+    "url": "https://www.core77.com/posts/139027/Forever-Object-The-Staple-less-Oceanus-Brass-Stapler",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46020502",
+    "title": "MCP Apps: Extending servers with interactive user interfaces",
+    "url": "http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46025477",
+    "title": "SVG.js v3.2",
+    "url": "https://svgjs.dev/docs/3.2/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45941775",
+    "title": "Garibaldi, history's sexiest revolutionary?",
+    "url": "https://www.historyextra.com/period/victorian/historys-sexiest-revolutionary-meet-the-mesmerising-general-whose-charms-helped-win-a-war/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T21:12:57.601Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
