@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "id": "hackernews-46017175",
+    "title": "Show HN: Forty.News – Daily news, but on a 40-year delay",
+    "url": "https://forty.news/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T10:14:04.747Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46019817",
+    "title": "Meta buried 'causal' evidence of social media harm, US court filings allege",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T10:14:04.747Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46016639",
+    "title": "China reaches energy milestone by \"breeding\" uranium from thorium",
+    "url": "https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T10:14:04.747Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46016249",
+    "title": "The privacy nightmare of browser fingerprinting",
+    "url": "https://kevinboone.me/fingerprinting.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T10:14:04.747Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46008332",
+    "title": "We Induced Smells With Ultrasound",
+    "url": "https://writetobrain.com/olfactory",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T10:14:04.747Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46018380",
+    "title": "WorldGen – Text to Immersive 3D Worlds",
+    "url": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T10:14:04.747Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46016613",
+    "title": "The realities of being a pop star",
+    "url": "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T10:14:04.747Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46019685",
+    "title": "A monopoly ISP refuses to fix upstream infrastructure",
+    "url": "https://sacbear.com/xfinity-wont-fix-internet/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-23T10:14:04.746Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
