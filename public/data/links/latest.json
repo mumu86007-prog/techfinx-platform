@@ -4,7 +4,7 @@
     "title": "Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4",
     "url": "https://technotes.seastrom.com/2025/11/23/passing-the-torch.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,24 +21,7 @@
     "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
     "url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46032513",
-    "title": "General principles for the use of AI at CERN",
-    "url": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,24 +38,7 @@
     "title": "Fran Sans – font inspired by San Francisco light rail displays",
     "url": "https://emilysneddon.com/fran-sans-essay",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46029699",
-    "title": "Ask HN: Hearing aid wearers, what's hot?",
-    "url": "https://news.ycombinator.com/item?id=46029699",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +55,41 @@
     "title": "Japan's gamble to turn island of Hokkaido into global chip hub",
     "url": "https://www.bbc.com/news/articles/c8676qpxgnqo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46029699",
+    "title": "Ask HN: Hearing aid wearers, what's hot?",
+    "url": "https://news.ycombinator.com/item?id=46029699",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46032513",
+    "title": "General principles for the use of AI at CERN",
+    "url": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,7 @@
     "title": "Liva AI (YC S25) Is Hiring",
     "url": "https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "Native Secure Enclave backed SSH keys on macOS",
     "url": "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +136,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46033151",
-    "title": "NSA and IETF, part 3: Dodging the issues at hand",
-    "url": "https://blog.cr.yp.to/20251123-dodging.html",
+    "id": "hackernews-45985306",
+    "title": "I built an faster Notion in Rust",
+    "url": "https://imedadel.com/outcrop/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +157,7 @@
     "title": "Slicing Is All You Need: Towards a Universal One-Sided Distributed MatMul",
     "url": "https://arxiv.org/abs/2510.08874",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,41 +174,7 @@
     "title": "RuBee",
     "url": "https://computer.rip/2025-11-22-RuBee.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45968827",
-    "title": "Disney Lost Roger Rabbit",
-    "url": "https://pluralistic.net/2025/11/18/im-not-bad/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-45985306",
-    "title": "I built an faster Notion in Rust",
-    "url": "https://imedadel.com/outcrop/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +191,24 @@
     "title": "We stopped roadmap work for a week and fixed bugs",
     "url": "https://lalitm.com/fixits-are-good-for-the-soul/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45968827",
+    "title": "Disney Lost Roger Rabbit",
+    "url": "https://pluralistic.net/2025/11/18/im-not-bad/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +225,7 @@
     "title": "Building the largest known Kubernetes cluster, with 130k nodes",
     "url": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +242,7 @@
     "title": "µcad: New open source programming language that can generate 2D sketches and 3D",
     "url": "https://microcad.xyz/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +259,7 @@
     "title": "The Rust Performance Book (2020)",
     "url": "https://nnethercote.github.io/perf-book/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,24 +276,7 @@
     "title": "Lambda Calculus – Animated Beta Reduction of Lambda Diagrams",
     "url": "https://cruzgodar.com/applets/lambda-calculus",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46033536",
-    "title": "Trade Chaos Causes Businesses to Rethink Their Relationship with the U.S.",
-    "url": "https://www.nytimes.com/2025/11/24/business/tariffs-trade-small-business.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +293,41 @@
     "title": "Bureau of Meteorology asked to examine $96.5M bill for website redesign",
     "url": "https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-24T13:30:11.648Z",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45980608",
+    "title": "The Only GM EV1 Ever Publicly Sold, and Where It's Going Next",
+    "url": "https://www.theautopian.com/how-the-only-gm-ev1-ever-sold-didnt-get-crushed-and-where-its-going-now/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45985008",
+    "title": "New magnetic component discovered in the Faraday effect after nearly 2 centuries",
+    "url": "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-24T14:15:32.645Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
