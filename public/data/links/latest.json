@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-45988000",
-    "title": "A rare GM EV1 saved from the crusher is going to be driveable again",
-    "url": "https://electrek.co/2025/11/19/gm-ev1-saved-from-crusher-going-driveable-again/",
+    "id": "hackernews-45871107",
+    "title": "How to maintain good vision amidst the myopia epidemic",
+    "url": "https://ssathe.substack.com/p/vision-in-the-digital-age",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46045085",
-    "title": "Trillions spent and big software projects are still failing",
-    "url": "https://spectrum.ieee.org/it-management-software-failures",
+    "id": "hackernews-45871084",
+    "title": "My Git history was a mess of 'update' and 'fix' – so I made AI clean it up",
+    "url": "https://github.com/f/git-rewrite-commits",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46042928",
-    "title": "Human brains are preconfigured with instructions for understanding the world",
-    "url": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
+    "id": "hackernews-45782192",
+    "title": "Email verification protocol",
+    "url": "https://github.com/WICG/email-verification-protocol",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46038417",
-    "title": "PRC elites voice AI-skepticism",
-    "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
+    "id": "hackernews-45866697",
+    "title": "Marble Fountain",
+    "url": "https://willmorrison.net/posts/marble-fountain/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,28 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46045661",
-    "title": "Brain has five 'eras' with adult mode not starting until early 30s",
-    "url": "https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study",
+    "id": "hackernews-45870925",
+    "title": "Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB",
+    "url": "https://rajivm1991.github.io/DroidDock/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46049066",
-    "title": "Bad UX World Cup 2025",
-    "url": "https://badux.lol/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46016902",
-    "title": "how to repurpose your old phone into a web server",
-    "url": "https://far.computer/how-to/",
+    "id": "hackernews-45867717",
+    "title": "Drilling Down on Uncle Sam's Proposed TP-Link Ban",
+    "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46046916",
-    "title": "FLUX.2: Frontier Visual Intelligence",
-    "url": "https://bfl.ai/blog/flux-2",
+    "id": "hackernews-45803601",
+    "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
+    "url": "https://www.youtube.com/watch?v=dy-wFixuRVU",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46045987",
-    "title": "Launch HN: Onyx (YC W24) – Open-source chat UI",
-    "url": "https://news.ycombinator.com/item?id=46045987",
+    "id": "hackernews-45808899",
+    "title": "JVM exceptions are weird: a decompiler perspective",
+    "url": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46048252",
-    "title": "Show HN: We built an open source, zero webhooks payment processor",
-    "url": "https://github.com/flowglad/flowglad",
+    "id": "hackernews-45866224",
+    "title": "The Manuscripts of Edsger W. Dijkstra",
+    "url": "https://www.cs.utexas.edu/~EWD/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46049624",
-    "title": "IQ differences of identical twins reared apart are influenced by education",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0001691825003853",
+    "id": "hackernews-45866572",
+    "title": "The Principles of Diffusion Models",
+    "url": "https://arxiv.org/abs/2510.21890",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46042810",
-    "title": "Jakarta is now the biggest city in the world",
-    "url": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
+    "id": "hackernews-45868259",
+    "title": "The Sega Master System",
+    "url": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46003271",
-    "title": "The 101 of analog signal filtering (2024)",
-    "url": "https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering",
+    "id": "hackernews-45866772",
+    "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
+    "url": "https://github.com/samcervantes/bumble-berry-pi",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46049722",
-    "title": "Unison 1.0 Release",
-    "url": "https://www.unison-lang.org/unison-1-0/",
+    "id": "hackernews-45870863",
+    "title": "Work After Work: Notes from an Unemployed New Grad Watching the Job Market Break",
+    "url": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46045039",
-    "title": "Making Crash Bandicoot (2011)",
-    "url": "https://all-things-andy-gavin.com/video-games/making-crash/",
+    "id": "hackernews-45804870",
+    "title": "Today I Learned: Binfmt_misc",
+    "url": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46004519",
-    "title": "Inflatable Space Stations",
-    "url": "https://worksinprogress.co/issue/inflatable-space-stations/",
+    "id": "hackernews-45865159",
+    "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
+    "url": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46047513",
-    "title": "Ozempic does not slow Alzheimer's, study finds",
-    "url": "https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds",
+    "id": "hackernews-45870675",
+    "title": "Sued by Nintendo",
+    "url": "https://www.suedbynintendo.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46047350",
-    "title": "Orion 1.0",
-    "url": "https://blog.kagi.com/orion",
+    "id": "hackernews-45812454",
+    "title": "Understanding Financial Functions in Excel",
+    "url": "https://ciju.in/writings/understanding-financial-functions-excel-sheets",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46042946",
-    "title": "Most Stable Raspberry Pi? Better NTP with Thermal Management",
-    "url": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/",
+    "id": "hackernews-45865189",
+    "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
+    "url": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +306,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46038099",
-    "title": "Unpowered SSDs slowly lose data",
-    "url": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
+    "id": "hackernews-45804295",
+    "title": "CHIP8 – writing emulator, assembler, example game and VHDL hardware impl",
+    "url": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-11-25T21:13:49.038Z",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-45810223",
+    "title": "When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug",
+    "url": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-11-25T22:14:42.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
