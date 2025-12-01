@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46039594",
-    "title": "I made a quieter air purifier",
-    "url": "https://chillphysicsenjoyer.substack.com/p/i-made-a-quieter-air-purifier",
+    "id": "hackernews-45871107",
+    "title": "How to maintain good vision amidst the myopia epidemic",
+    "url": "https://ssathe.substack.com/p/vision-in-the-digital-age",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,62 @@
     "score": 8
   },
   {
-    "id": "hackernews-46108780",
-    "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
+    "id": "hackernews-45871084",
+    "title": "My Git history was a mess of 'update' and 'fix' – so I made AI clean it up",
+    "url": "https://github.com/f/git-rewrite-commits",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45782192",
+    "title": "Email verification protocol",
+    "url": "https://github.com/WICG/email-verification-protocol",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45866697",
+    "title": "Marble Fountain",
+    "url": "https://willmorrison.net/posts/marble-fountain/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-01T21:12:52.121Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-45870925",
+    "title": "Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB",
+    "url": "https://rajivm1991.github.io/DroidDock/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46104193",
-    "title": "India orders smartphone makers to preload state-owned cyber safety app",
-    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
+    "id": "hackernews-45867717",
+    "title": "Drilling Down on Uncle Sam's Proposed TP-Link Ban",
+    "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46111284",
-    "title": "Intel could return to Apple computers in 2027",
-    "url": "https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor",
+    "id": "hackernews-45803601",
+    "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
+    "url": "https://www.youtube.com/watch?v=dy-wFixuRVU",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46108941",
-    "title": "Ask HN: Who is hiring? (December 2025)",
-    "url": "https://news.ycombinator.com/item?id=46108941",
+    "id": "hackernews-45808899",
+    "title": "JVM exceptions are weird: a decompiler perspective",
+    "url": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46110842",
-    "title": "Ghostty compiled to WASM with xterm.js API compatibility",
-    "url": "https://github.com/coder/ghostty-web",
+    "id": "hackernews-45866224",
+    "title": "The Manuscripts of Edsger W. Dijkstra",
+    "url": "https://www.cs.utexas.edu/~EWD/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46106556",
-    "title": "Why xor eax, eax?",
-    "url": "https://xania.org/202512/01-xor-eax-eax",
+    "id": "hackernews-45866572",
+    "title": "The Principles of Diffusion Models",
+    "url": "https://arxiv.org/abs/2510.21890",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46039140",
-    "title": "Isn't WSL2 just a VM?",
-    "url": "https://ssg.dev/isnt-wsl2-just-a-vm/",
+    "id": "hackernews-45868259",
+    "title": "The Sega Master System",
+    "url": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46107282",
-    "title": "Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps",
-    "url": "https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/",
+    "id": "hackernews-45866772",
+    "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
+    "url": "https://github.com/samcervantes/bumble-berry-pi",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46108940",
-    "title": "Ask HN: Who wants to be hired? (December 2025)",
-    "url": "https://news.ycombinator.com/item?id=46108940",
+    "id": "hackernews-45870863",
+    "title": "Work After Work: Notes from an Unemployed New Grad Watching the Job Market Break",
+    "url": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46103376",
-    "title": "Search tool that only returns content created before ChatGPT's public release",
-    "url": "https://tegabrain.com/Slop-Evader",
+    "id": "hackernews-45804870",
+    "title": "Today I Learned: Binfmt_misc",
+    "url": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46111469",
-    "title": "Better Than JSON",
-    "url": "https://aloisdeniel.com/blog/better-than-json",
+    "id": "hackernews-45865159",
+    "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
+    "url": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46109802",
-    "title": "Better Auth (YC X25) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer",
+    "id": "hackernews-45870675",
+    "title": "Sued by Nintendo",
+    "url": "https://www.suedbynintendo.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46109080",
-    "title": "ImAnim: Modern animation capabilities to ImGui applications",
-    "url": "https://github.com/soufianekhiat/ImAnim",
+    "id": "hackernews-45812454",
+    "title": "Understanding Financial Functions in Excel",
+    "url": "https://ciju.in/writings/understanding-financial-functions-excel-sheets",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46110908",
-    "title": "High-income job losses are cooling housing demand",
-    "url": "https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/",
+    "id": "hackernews-45865189",
+    "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
+    "url": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46111120",
-    "title": "Durin is a library for reading and writing the Dwarf debugging format",
-    "url": "https://github.com/tmcgilchrist/durin",
+    "id": "hackernews-45804295",
+    "title": "CHIP8 – writing emulator, assembler, example game and VHDL hardware impl",
+    "url": "http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,62 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46107177",
-    "title": "A vector graphics workstation from the 70s",
-    "url": "https://justanotherelectronicsblog.com/?p=1429",
+    "id": "hackernews-45810223",
+    "title": "When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug",
+    "url": "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46106132",
-    "title": "Self-hosting a Matrix server for 5 years",
-    "url": "https://yaky.dev/2025-11-30-self-hosting-matrix/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46045876",
-    "title": "Historic Engineering Wonders: Photos That Reveal How They Pulled It Off",
-    "url": "https://rarehistoricalphotos.com/engineering-methods-from-the-past/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46111449",
-    "title": "React and Remix Choose Different Futures",
-    "url": "https://laconicwit.com/react-and-remix-choose-different-futures/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-01T20:16:12.782Z",
+    "publishedAt": "2025-12-01T21:12:52.122Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
