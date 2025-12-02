@@ -4,7 +4,7 @@
     "title": "What will enter the public domain in 2026?",
     "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T18:23:22.171Z",
+    "publishedAt": "2025-12-02T19:16:18.694Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Mistral 3 family of models released",
     "url": "https://mistral.ai/news/mistral-3",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T18:23:22.171Z",
+    "publishedAt": "2025-12-02T19:16:18.694Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Advent of Compiler Optimisations 2025",
     "url": "https://xania.org/202511/advent-of-compiler-optimisation",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T18:23:22.171Z",
+    "publishedAt": "2025-12-02T19:16:18.694Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,24 @@
     "title": "Apple Releases Open Weights Video Model",
     "url": "https://starflow-v.github.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T18:23:22.171Z",
+    "publishedAt": "2025-12-02T19:16:18.694Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46124267",
+    "title": "Bun is joining Anthropic",
+    "url": "https://bun.com/blog/bun-joins-anthropic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-02T19:16:18.693Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
