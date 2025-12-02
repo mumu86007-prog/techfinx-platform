@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46122957",
-    "title": "4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign",
-    "url": "https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46117112",
     "title": "What will enter the public domain in 2026?",
     "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "Amazon launches Trainium3",
     "url": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.351Z",
+    "publishedAt": "2025-12-02T21:14:36.385Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "OpenAI declares 'code red' as Google catches up in AI race",
     "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.351Z",
+    "publishedAt": "2025-12-02T21:14:36.385Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,7 @@
     "title": "Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)",
     "url": "https://github.com/marmotdata/marmot",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +72,7 @@
     "title": "School Cell Phone Bans and Student Achievement (NBER Digest)",
     "url": "https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46123374",
-    "title": "Poka Labs (YC S24) Is Hiring a Founding Engineer",
-    "url": "https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer",
+    "id": "hackernews-46121539",
+    "title": "Zig's new plan for asynchronous programs",
+    "url": "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,7 @@
     "title": "The Junior Hiring Crisis",
     "url": "https://people-work.io/blog/junior-hiring-crisis/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46120181",
-    "title": "Addressing the adding situation",
-    "url": "https://xania.org/202512/02-adding-integers",
+    "id": "hackernews-46121889",
+    "title": "Mistral 3 family of models released",
+    "url": "https://mistral.ai/news/mistral-3",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,45 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46121799",
-    "title": "Nixtml: Static website and blog generator written in Nix",
-    "url": "https://github.com/arnarg/nixtml",
+    "id": "hackernews-46047170",
+    "title": "YesNotice",
+    "url": "https://infinitedigits.co/docs/software/yesnotice/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46119500",
-    "title": "Advent of Compiler Optimisations 2025",
-    "url": "https://xania.org/202511/advent-of-compiler-optimisation",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46120611",
-    "title": "Python Data Science Handbook",
-    "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +157,7 @@
     "title": "Code Wiki: Accelerating your code understanding",
     "url": "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +170,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46080307",
-    "title": "Lowtype: Elegant Types in Ruby",
-    "url": "https://codeberg.org/Iow/type",
+    "id": "hackernews-46120181",
+    "title": "Addressing the adding situation",
+    "url": "https://xania.org/202512/02-adding-integers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46119500",
+    "title": "Advent of Compiler Optimisations 2025",
+    "url": "https://xania.org/202511/advent-of-compiler-optimisation",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46121799",
+    "title": "Nixtml: Static website and blog generator written in Nix",
+    "url": "https://github.com/arnarg/nixtml",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46120611",
+    "title": "Python Data Science Handbook",
+    "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +242,24 @@
     "title": "Apple Releases Open Weights Video Model",
     "url": "https://starflow-v.github.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46080307",
+    "title": "Lowtype: Elegant Types in Ruby",
+    "url": "https://codeberg.org/Iow/type",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +276,7 @@
     "title": "A series of vignettes from my childhood and early career",
     "url": "https://www.jasonscheirer.com/weblog/vignettes/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +293,7 @@
     "title": "YouTube increases FreeBASIC performance (2019)",
     "url": "https://freebasic.net/forum/viewtopic.php?t=27927",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,28 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46124258",
-    "title": "Anthropic Acquires Bun",
-    "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+    "id": "hackernews-46095662",
+    "title": "Beej's Guide to Learning Computer Science",
+    "url": "https://beej.us/guide/bglcs/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46121243",
-    "title": "Proximity to coworkers increases long-run development, lowers short-term output (2023)",
-    "url": "https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.352Z",
+    "publishedAt": "2025-12-02T21:14:36.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "Anthropic acquires Bun",
     "url": "https://bun.com/blog/bun-joins-anthropic",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T20:18:04.351Z",
+    "publishedAt": "2025-12-02T21:14:36.385Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
