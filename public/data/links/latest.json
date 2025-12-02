@@ -1,78 +1,10 @@
 [
   {
-    "id": "hackernews-46108437",
-    "title": "Google, Nvidia, and OpenAI",
-    "url": "https://stratechery.com/2025/google-nvidia-and-openai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 9
-  },
-  {
-    "id": "hackernews-46117112",
-    "title": "What will enter the public domain in 2026?",
-    "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46115682",
-    "title": "Arcee Trinity Mini: US-Trained Moe Model",
-    "url": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46115214",
-    "title": "AI agents find $4.6M in blockchain smart contract exploits",
-    "url": "https://red.anthropic.com/2025/smart-contracts/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46108780",
     "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
+    "publishedAt": "2025-12-02T08:22:03.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,92 +21,7 @@
     "title": "India orders smartphone makers to preload state-owned cyber safety app",
     "url": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46116724",
-    "title": "Reverse math shows why hard problems are hard",
-    "url": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46091211",
-    "title": "Tom Stoppard has died",
-    "url": "https://www.bbc.com/news/articles/c74xe49q7vlo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46117126",
-    "title": "Decreasing Certificate Lifetimes to 45 Days",
-    "url": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46116179",
-    "title": "Notes on Bhutan",
-    "url": "https://apropos.substack.com/p/notes-on-bhutan",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46117900",
-    "title": "Frequently Asked Unicycling Questions",
-    "url": "https://vale.rocks/posts/unicycle-faq",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
+    "publishedAt": "2025-12-02T08:22:03.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,41 +38,7 @@
     "title": "Ghostty compiled to WASM with xterm.js API compatibility",
     "url": "https://github.com/coder/ghostty-web",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46108941",
-    "title": "Ask HN: Who is hiring? (December 2025)",
-    "url": "https://news.ycombinator.com/item?id=46108941",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46080835",
-    "title": "Codex, Opus, Gemini try to build Counter Strike",
-    "url": "https://www.instantdb.com/essays/agents_building_counterstrike",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
+    "publishedAt": "2025-12-02T08:22:03.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +55,7 @@
     "title": "Cartographers have been hiding illustrations inside Switzerland’s maps (2020)",
     "url": "https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
+    "publishedAt": "2025-12-02T08:22:03.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,75 +72,7 @@
     "title": "Google unkills JPEG XL?",
     "url": "https://tonisagrista.com/blog/2025/google-unkills-jpegxl/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46074222",
-    "title": "Shrinking While Linking",
-    "url": "https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46070883",
-    "title": "10 years of writing a blog nobody reads",
-    "url": "https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46114599",
-    "title": "Last Week on My Mac: Losing confidence",
-    "url": "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46107658",
-    "title": "The Penicillin Myth",
-    "url": "https://www.asimov.press/p/penicillin-myth",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-02T07:17:26.669Z",
+    "publishedAt": "2025-12-02T08:22:03.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
