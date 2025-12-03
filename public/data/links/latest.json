@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46133141",
+    "title": "Are we repeating the telecoms crash with AI datacenters?",
+    "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46131406",
+    "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
+    "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46133555",
+    "title": "Satellite captures the first detailed look at a giant tsunami",
+    "url": "https://www.earth.com/news/satellite-captures-the-first-detailed-look-at-a-giant-tsunami/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46137514",
+    "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+    "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.801Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46136023",
+    "title": "MinIO is now in maintenance-mode",
+    "url": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.801Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46136901",
+    "title": "Steam Deck lead reveals Valve is funding ARM compatibility of Windows games",
+    "url": "https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.801Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46072280",
+    "title": "How to Synthesize a House Loop",
+    "url": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46136918",
+    "title": "Rocketable (YC W25) is hiring a founding engineer to automate software companies",
+    "url": "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46137845",
+    "title": "Stop Talking",
+    "url": "https://gurkan.in/2025/12/stop-talking/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46133622",
+    "title": "You Can't Fool the Optimizer",
+    "url": "https://xania.org/202512/03-more-adding-integers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46134443",
+    "title": "Congressional lawmakers 47% pts better at picking stocks",
+    "url": "https://www.nber.org/papers/w34524",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46135067",
+    "title": "Show HN: Fresh – A new terminal editor built in Rust",
+    "url": "https://sinelaw.github.io/fresh/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46134991",
+    "title": "GSWT: Gaussian Splatting Wang Tiles",
+    "url": "https://yunfan.zone/gswt_webpage/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46109332",
+    "title": "Boston's subway system replacing 1890s-era wooden catenary system",
+    "url": "https://www.mbta.com/news/2025-11-18/mbta-announces-december-service-changes",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46050855",
+    "title": "A Look at Rust from 2012",
+    "url": "https://purplesyringa.moe/blog/a-look-at-rust-from-2012/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46095372",
+    "title": "Shrinking While Linking",
+    "url": "https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46134178",
+    "title": "Helldivers 2 devs slash install size from 154GB to 23GB",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46130335",
+    "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
+    "url": "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46054467",
+    "title": "Super fast aggregations in PostgreSQL 19",
+    "url": "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46135627",
+    "title": "Why are my headphones buzzing whenever I run my game?",
+    "url": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-03T19:14:05.802Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
