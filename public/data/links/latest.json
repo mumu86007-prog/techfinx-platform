@@ -1,163 +1,10 @@
 [
   {
-    "id": "hackernews-46149740",
-    "title": "The End of the Train-Test Split",
-    "url": "https://folio.benguzovsky.com/train-test",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46144275",
-    "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
-    "url": "https://uncloud.run/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46146204",
-    "title": "Building optimistic UI in Rails (and learn custom elements)",
-    "url": "https://railsdesigner.com/custom-elements/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46092035",
-    "title": "The long wait is over, Ganymede has arrived",
-    "url": "https://endeavouros.com/news/the-long-wait-is-over-ganymede-has-arrived/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46148744",
-    "title": "Proxmox Datacenter Manager 1.0 available",
-    "url": "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-1-0",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46148748",
-    "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
-    "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46147540",
-    "title": "Transparent Leadership Beats Servant Leadership",
-    "url": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46145365",
     "title": "It’s time to free JavaScript (2024)",
     "url": "https://javascript.tm/letter",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46149813",
-    "title": "Multivox: Volumetric Display",
-    "url": "https://github.com/AncientJames/multivox",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46149727",
-    "title": "Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing",
-    "url": "https://www.browserbuddy.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
+    "publishedAt": "2025-12-04T19:15:01.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,58 +21,7 @@
     "title": "I ignore the spotlight as a staff engineer",
     "url": "https://lalitm.com/software-engineering-outside-the-spotlight/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46147341",
-    "title": "Functional Quadtrees",
-    "url": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46104539",
-    "title": "A lost Amazon world just reappeared in Bolivia",
-    "url": "https://www.sciencedaily.com/releases/2025/11/251130205421.htm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46149849",
-    "title": "Converge (YC S23) is hiring a martech expert in NYC",
-    "url": "https://www.runconverge.com/careers/technical-customer-success-manager",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
+    "publishedAt": "2025-12-04T19:15:01.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +38,7 @@
     "title": "PGlite – Embeddable Postgres",
     "url": "https://pglite.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
+    "publishedAt": "2025-12-04T19:15:01.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +51,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46148460",
-    "title": "Show HN: OnlyRecipe 2.0 – I added all features HN requested – 4 years later",
-    "url": "https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903",
+    "id": "hackernews-46145834",
+    "title": "Unreal Tournament 2004 is back",
+    "url": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
+    "publishedAt": "2025-12-04T19:15:01.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,62 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46149066",
-    "title": "Feynman vs. Computer",
-    "url": "https://entropicthoughts.com/feynman-vs-computer",
+    "id": "hackernews-46142100",
+    "title": "Average DRAM price in USD over last 18 months",
+    "url": "https://pcpartpicker.com/trends/price/memory/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46149019",
-    "title": "Bootloader Unlock Wall of Shame",
-    "url": "https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46121619",
-    "title": "What Is \"Open Recursion\"?",
-    "url": "https://journal.stuffwithstuff.com/2013/08/26/what-is-open-recursion/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46095474",
-    "title": "Show HN: MTXT – Music Text Format",
-    "url": "https://github.com/Daninet/mtxt",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-04T18:23:21.803Z",
+    "publishedAt": "2025-12-04T19:15:01.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
