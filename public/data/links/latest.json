@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46148748",
+    "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
+    "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46144275",
+    "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+    "url": "https://uncloud.run/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46148744",
+    "title": "Proxmox Datacenter Manager 1.0 available",
+    "url": "https://www.proxmox.com/en/about/company-details/press-releases/proxmox-datacenter-manager-1-0",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46146204",
+    "title": "Building optimistic UI in Rails (and learn custom elements)",
+    "url": "https://railsdesigner.com/custom-elements/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46147371",
+    "title": "Human hair grows through 'pulling' not pushing, study shows",
+    "url": "https://phys.org/news/2025-12-human-hair.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46139761",
+    "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
+    "url": "https://finfam.app/blog/credit-union-mortgages",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.643Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46147540",
+    "title": "Transparent Leadership Beats Servant Leadership",
+    "url": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46145365",
+    "title": "It’s time to free JavaScript (2024)",
+    "url": "https://javascript.tm/letter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46146451",
+    "title": "I ignore the spotlight as a staff engineer",
+    "url": "https://lalitm.com/software-engineering-outside-the-spotlight/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46149727",
+    "title": "Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing",
+    "url": "https://www.browserbuddy.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46149375",
+    "title": "Autism should not be treated as a single condition",
+    "url": "https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46147341",
+    "title": "Functional Quadtrees",
+    "url": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46149849",
+    "title": "Converge (YC S23) is hiring a martech expert in NYC",
+    "url": "https://www.runconverge.com/careers/technical-customer-success-manager",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46104539",
+    "title": "A lost Amazon world just reappeared in Bolivia",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251130205421.htm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46146133",
+    "title": "PGlite – Embeddable Postgres",
+    "url": "https://pglite.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46148460",
+    "title": "Show HN: OnlyRecipe 2.0 – I added all features HN requested – 4 years later",
+    "url": "https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46149066",
+    "title": "Feynman vs. Computer",
+    "url": "https://entropicthoughts.com/feynman-vs-computer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46146740",
+    "title": "Japanese Four-Cylinder Engine Is So Reliable Still in Production After 25 Years",
+    "url": "https://www.topspeed.com/reliable-japanese-four-cylinder-engine-still-in-production/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46095474",
+    "title": "Show HN: MTXT – Music Text Format",
+    "url": "https://github.com/Daninet/mtxt",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46108557",
+    "title": "Show HN: Walrus – a Kafka alternative written in Rust",
+    "url": "https://github.com/nubskr/walrus",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-04T17:18:27.642Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
