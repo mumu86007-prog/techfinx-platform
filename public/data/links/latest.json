@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46173407",
+    "title": "GrapheneOS is the only Android OS providing full security patches",
+    "url": "https://grapheneos.social/@GrapheneOS/115647408229616018",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46178347",
+    "title": "Using LLMs at Oxide",
+    "url": "https://rfd.shared.oxide.computer/rfd/0576",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177645",
+    "title": "Kilauea erupts, destroying webcam [video]",
+    "url": "https://www.youtube.com/watch?v=TK2N99BDw7A",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46178789",
+    "title": "Z2 – Lithographically fabricated IC in a garage fab",
+    "url": "https://sam.zeloof.xyz/second-ic/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46176905",
+    "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
+    "url": "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46176893",
+    "title": "The past was not that cute",
+    "url": "https://juliawise.net/the-past-was-not-that-cute/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46081418",
+    "title": "Principles of Slack Maximalism",
+    "url": "https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46178442",
+    "title": "Eurydice: a Rust to C compiler (yes)",
+    "url": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46178892",
+    "title": "Discovering the indieweb with calm tech",
+    "url": "https://alexsci.com/blog/calm-tech-discover/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46173547",
+    "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
+    "url": "http://www.tinycorelinux.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46107897",
+    "title": "Patching Pulse Oximeter Firmware",
+    "url": "https://stefan-gloor.ch/pulseoximeter-hack",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46175112",
+    "title": "Perl's decline was cultural",
+    "url": "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46125963",
+    "title": "What even is \"literate programming\"?",
+    "url": "https://pqnelson.github.io/2024/05/29/literate-programming.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46095817",
+    "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
+    "url": "https://github.com/Tongyi-MAI/Z-Image",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46102276",
+    "title": "Bikeshedding, or why I want to build a laptop",
+    "url": "https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46075126",
+    "title": "My car charger can boil water really fast [video]",
+    "url": "https://www.youtube.com/watch?v=INZybkX8tLI",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46173825",
+    "title": "HTML as an Accessible Format for Papers (2023)",
+    "url": "https://info.arxiv.org/about/accessible_HTML.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46176289",
+    "title": "Zebra-Llama – Towards efficient hybrid models",
+    "url": "https://arxiv.org/abs/2505.17272",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46175826",
+    "title": "OMSCS Open Courseware",
+    "url": "https://sites.gatech.edu/omscsopencourseware/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177418",
+    "title": "Saving Japan's exceptionally rare 'snow monsters'",
+    "url": "https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T13:21:23.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
