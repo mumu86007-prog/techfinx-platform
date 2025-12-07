@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46174789",
+    "title": "Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack",
+    "url": "https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46173407",
+    "title": "GrapheneOS is the only Android OS providing full security patches",
+    "url": "https://grapheneos.social/@GrapheneOS/115647408229616018",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.158Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46177737",
+    "title": "Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels",
+    "url": "https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.158Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46095817",
+    "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
+    "url": "https://github.com/Tongyi-MAI/Z-Image",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177418",
+    "title": "Saving Japan's exceptionally rare 'snow monsters'",
+    "url": "https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46173825",
+    "title": "HTML as an Accessible Format for Papers",
+    "url": "https://info.arxiv.org/about/accessible_HTML.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177615",
+    "title": "PatchworkOS: An OS for x86_64, built from scratch in C and assembly",
+    "url": "https://github.com/KaiNorberg/PatchworkOS",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46176766",
+    "title": "Coffee linked to slower biological ageing among those with severe mental illness",
+    "url": "https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46116007",
+    "title": "Mathematics Without Numbers (1959)",
+    "url": "https://www.jstor.org/stable/20026529?seq=1",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46172443",
+    "title": "Autism's confusing cousins",
+    "url": "https://www.psychiatrymargins.com/p/autisms-confusing-cousins",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46102276",
+    "title": "Bikeshedding, or why I want to build a laptop",
+    "url": "https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177022",
+    "title": "Catala – Law to Code",
+    "url": "https://catala-lang.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46176533",
+    "title": "Show HN: Tascli, a command line based (human) task and record manager",
+    "url": "https://github.com/Aperocky/tascli",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177664",
+    "title": "OpenTelemetry Distribution Builder",
+    "url": "https://github.com/observIQ/otel-distro-builder",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177198",
+    "title": "Wave of (Open Street Map) Vandalism in South Korea",
+    "url": "https://www.openstreetmap.org/user/KennyDap/diary/407844",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46172797",
+    "title": "Touching the Elephant – TPUs",
+    "url": "https://considerthebulldog.com/tte-tpu/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46128616",
+    "title": "Finding Gene Cernan's Missing Moon Camera",
+    "url": "https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46142949",
+    "title": "Abstract Interpretation in the Toy Optimizer",
+    "url": "https://bernsteinbear.com/blog/toy-abstract-interpretation/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46080498",
+    "title": "The unexpected effectiveness of one-shot decompilation with Claude",
+    "url": "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177926",
+    "title": "Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border",
+    "url": "https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T01:13:35.159Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
