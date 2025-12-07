@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46122921",
+    "title": "Removed rust to gain speed",
+    "url": "https://www.prisma.io/blog/announcing-prisma-orm-7-0-0",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46178108",
+    "title": "Trains cancelled over fake bridge collapse image",
+    "url": "https://www.bbc.com/news/articles/cwygqqll9k2o",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46177737",
+    "title": "Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels",
+    "url": "https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46173407",
+    "title": "GrapheneOS is the only Android OS providing full security patches",
+    "url": "https://grapheneos.social/@GrapheneOS/115647408229616018",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.291Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46177132",
+    "title": "United States Antarctic Program Field Manual (2024) [pdf]",
+    "url": "https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46175112",
+    "title": "Perl's decline was cultural",
+    "url": "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177418",
+    "title": "Saving Japan's exceptionally rare 'snow monsters'",
+    "url": "https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46127630",
+    "title": "Dhrystone",
+    "url": "https://en.wikipedia.org/wiki/Dhrystone",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46176289",
+    "title": "Zebra-Llama – Towards efficient hybrid models",
+    "url": "https://arxiv.org/abs/2505.17272",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46095817",
+    "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
+    "url": "https://github.com/Tongyi-MAI/Z-Image",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46175826",
+    "title": "OMSCS Open Courseware",
+    "url": "https://sites.gatech.edu/omscsopencourseware/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46173825",
+    "title": "HTML as an Accessible Format for Papers (2023)",
+    "url": "https://info.arxiv.org/about/accessible_HTML.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46102276",
+    "title": "Bikeshedding, or why I want to build a laptop",
+    "url": "https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46145960",
+    "title": "Recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On",
+    "url": "https://git.sr.ht/~nkali/vision-sdk/tree/main/item/note/index.md",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46151724",
+    "title": "Why does the Salish Sea glow in the dark?",
+    "url": "https://www.atlasobscura.com/articles/untold-earth-105-salish-sea-bioluminescence",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46172443",
+    "title": "Autism's confusing cousins",
+    "url": "https://www.psychiatrymargins.com/p/autisms-confusing-cousins",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46178464",
+    "title": "Oblast: A better Blasto game for the Commodore 64",
+    "url": "http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46177022",
+    "title": "Catala – Law to Code",
+    "url": "https://catala-lang.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46138473",
+    "title": "What Is Generative UI?",
+    "url": "https://tambo.co/blog/posts/what-is-generative-ui",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46176766",
+    "title": "Coffee linked to slower biological ageing among those with severe mental illness",
+    "url": "https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-07T06:20:22.292Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
