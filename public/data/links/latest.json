@@ -4,7 +4,7 @@
     "title": "Let's put Tailscale on a jailbroken Kindle",
     "url": "https://tailscale.com/blog/tailscale-jailbroken-kindle",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
+    "publishedAt": "2025-12-09T03:14:36.780Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -15,64 +15,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-46147329",
-    "title": "Show HN: Fanfa – Interactive and animated Mermaid diagrams",
-    "url": "https://fanfa.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46195198",
-    "title": "AI should only run as fast as we can catch up",
-    "url": "https://higashi.blog/2025/12/07/ai-verification/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46196308",
-    "title": "Trials avoid high risk patients and underestimate drug harms",
-    "url": "https://www.nber.org/papers/w34534",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
   },
   {
     "id": "hackernews-46196076",
     "title": "Deep dive on Nvidia circular funding",
     "url": "https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
+    "publishedAt": "2025-12-09T03:14:36.780Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,45 +34,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46196688",
-    "title": "Icons in Menus Everywhere – Send Help",
-    "url": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46199411",
-    "title": "Kroger acknowledges that its bet on robotics went too far",
-    "url": "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46196105",
     "title": "Jepsen: NATS 2.12.1",
     "url": "https://jepsen.io/analyses/nats-2.12.1",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
+    "publishedAt": "2025-12-09T03:14:36.780Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,24 +55,7 @@
     "title": "Strong earthquake hits northern Japan, tsunami warning issued",
     "url": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46193931",
-    "title": "AMD GPU Debugger",
-    "url": "https://thegeeko.me/blog/amd-gpu-debugging/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
+    "publishedAt": "2025-12-09T03:14:36.780Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,41 +72,7 @@
     "title": "Hunting for North Korean Fiber Optic Cables",
     "url": "https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46196228",
-    "title": "Has the cost of building software dropped 90%?",
-    "url": "https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46192130",
-    "title": "IBM to acquire Confluent",
-    "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
+    "publishedAt": "2025-12-09T03:14:36.780Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +89,7 @@
     "title": "Microsoft increases Office 365 and Microsoft 365 license prices",
     "url": "https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
+    "publishedAt": "2025-12-09T03:14:36.780Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,28 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46166178",
-    "title": "Microsoft Download Center Archive",
-    "url": "https://legacyupdate.net/download-center/",
+    "id": "hackernews-46192130",
+    "title": "IBM to acquire Confluent",
+    "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46194477",
-    "title": "A series of tricks and techniques I learned doing tiny GLSL demos",
-    "url": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
+    "publishedAt": "2025-12-09T03:14:36.780Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +123,7 @@
     "title": "Paramount launches hostile bid for Warner Bros",
     "url": "https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
+    "publishedAt": "2025-12-09T03:14:36.780Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,45 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46194828",
-    "title": "Launch HN: Nia (YC S25) – Give better context to coding agents",
-    "url": "https://www.trynia.ai/",
+    "id": "hackernews-46196688",
+    "title": "Icons in Menus Everywhere – Send Help",
+    "url": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46198177",
-    "title": "Running on Empty: Copper",
-    "url": "https://thehonestsorcerer.substack.com/p/running-on-empty-copper",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46194720",
-    "title": "Legion Health (YC S21) is hiring a founding engineer (SF, in-person)",
-    "url": "https://news.ycombinator.com/item?id=46194720",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-09T01:06:59.375Z",
+    "publishedAt": "2025-12-09T03:14:36.779Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
