@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46216446",
+    "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
+    "url": "https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46221594",
+    "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
+    "url": "https://arxiv.org/abs/2512.08309",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46219386",
+    "title": "Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings",
+    "url": "https://news.ycombinator.com/item?id=46219386",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46219346",
+    "title": "Size of Life",
+    "url": "https://neal.fun/size-of-life/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46223311",
+    "title": "Getting a Gemini API key is an exercise in frustration",
+    "url": "https://ankursethi.com/blog/gemini-api-key-frustration/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46226483",
+    "title": "Patterns.dev",
+    "url": "https://www.patterns.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46208348",
+    "title": "Australia begins enforcing world-first teen social media ban",
+    "url": "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46147987",
+    "title": "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
+    "url": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46220540",
+    "title": "Auto-grading decade-old Hacker News discussions with hindsight",
+    "url": "https://karpathy.bearblog.dev/auto-grade-hn/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46227619",
+    "title": "Incomplete list of mistakes in the design of CSS",
+    "url": "https://wiki.csswg.org/ideas/mistakes",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46119762",
+    "title": "Fossils reveal anacondas have been giants for over 12 million years",
+    "url": "https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46221925",
+    "title": "Super Mario 64 for the PS1",
+    "url": "https://github.com/malucard/sm64-psx",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46203343",
+    "title": "How Google Maps allocates survival across London's restaurants",
+    "url": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46140554",
+    "title": "3D-printed carotid artery-on-chips for personalized thrombosis investigation",
+    "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46174534",
+    "title": "VCMI: An open-source engine for Heroes III",
+    "url": "https://vcmi.eu/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46192748",
+    "title": "Python Workers redux: fast cold starts, packages, and a uv-first workflow",
+    "url": "https://blog.cloudflare.com/python-workers-advancements/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46212438",
+    "title": "Rubio stages font coup: Times New Roman ousts Calibri",
+    "url": "https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46219538",
+    "title": "Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model",
+    "url": "https://qwen.ai/blog?id=qwen3-omni-flash-20251201",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46218101",
+    "title": "Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search",
+    "url": "https://github.com/fcavallarin/wirebrowser",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46220794",
+    "title": "Show HN: Automated license plate reader coverage in the USA",
+    "url": "https://alpranalysis.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T07:20:14.387Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
