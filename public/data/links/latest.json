@@ -1,197 +1,10 @@
 [
   {
-    "id": "hackernews-46219853",
-    "title": "DeepSeek uses banned Nvidia chips for AI model, report says",
-    "url": "https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.796Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 9
-  },
-  {
-    "id": "hackernews-46194294",
-    "title": "Sharding to Contain the Blast Radius of Data Breaches",
-    "url": "https://www.mimirsec.com/2025/12/05/sharding-to-contain-the-blast-radius-of-data-breaches/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.796Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46216583",
-    "title": "Factor 0.101 now available",
-    "url": "https://re.factorcode.org/2025/12/factor-0-101-now-available.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.796Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46216446",
-    "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
-    "url": "https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46221594",
-    "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
-    "url": "https://arxiv.org/abs/2512.08309",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46219386",
-    "title": "Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings",
-    "url": "https://news.ycombinator.com/item?id=46219386",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46142589",
-    "title": "Golang's big miss on memory arenas",
-    "url": "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.796Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46162643",
-    "title": "Typewriter Plotters (2022)",
-    "url": "https://biosrhythm.com/?p=2143",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.796Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46220902",
-    "title": "Show HN: A 2-row, 16-key keyboard designed for smartphones",
-    "url": "https://k-keyboard.com/Why-QWERTY-mini",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.796Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46220211",
-    "title": "9 Mothers (YC X26) Is Hiring",
-    "url": "https://app.dover.com/jobs/9mothers",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.796Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46134541",
-    "title": "Show HN: VoxCSS – A DOM based voxel engine",
-    "url": "https://github.com/LayoutitStudio/voxcss",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.796Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46219346",
     "title": "Size of Life",
     "url": "https://neal.fun/size-of-life/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
+    "publishedAt": "2025-12-11T04:30:45.803Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +21,7 @@
     "title": "Getting a Gemini API key is an exercise in frustration",
     "url": "https://ankursethi.com/blog/gemini-api-key-frustration/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
+    "publishedAt": "2025-12-11T04:30:45.803Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,24 +38,7 @@
     "title": "Australia begins enforcing world-first teen social media ban",
     "url": "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46226483",
-    "title": "Patterns.dev",
-    "url": "https://www.patterns.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
+    "publishedAt": "2025-12-11T04:30:45.803Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +55,7 @@
     "title": "Auto-grading decade-old Hacker News discussions with hindsight",
     "url": "https://karpathy.bearblog.dev/auto-grade-hn/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
+    "publishedAt": "2025-12-11T04:30:45.803Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,41 +72,7 @@
     "title": "Super Mario 64 for the PS1",
     "url": "https://github.com/malucard/sm64-psx",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46174534",
-    "title": "VCMI: An open-source engine for Heroes III",
-    "url": "https://vcmi.eu/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46203343",
-    "title": "How Google Maps allocates survival across London's restaurants",
-    "url": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
+    "publishedAt": "2025-12-11T04:30:45.803Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +89,58 @@
     "title": "Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model",
     "url": "https://qwen.ai/blog?id=qwen3-omni-flash-20251201",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-11T03:20:26.795Z",
+    "publishedAt": "2025-12-11T04:30:45.803Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46212438",
+    "title": "Rubio stages font coup: Times New Roman ousts Calibri",
+    "url": "https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T04:30:45.803Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46220488",
+    "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
+    "url": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T04:30:45.803Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46220640",
+    "title": "Is it a bubble?",
+    "url": "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-11T04:30:45.803Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
