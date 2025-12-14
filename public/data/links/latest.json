@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "id": "hackernews-46264492",
+    "title": "Hashcards: A plain-text spaced repetition system",
+    "url": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-14T23:13:54.742Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46262816",
+    "title": "AI and the ironies of automation – Part 2",
+    "url": "https://www.ufried.com/blog/ironies_of_ai_2/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-14T23:13:54.742Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46262021",
+    "title": "Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem",
+    "url": "https://trigger.dev/blog/shai-hulud-postmortem",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-14T23:13:54.742Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46264704",
+    "title": "GraphQL: The enterprise honeymoon is over",
+    "url": "https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-14T23:13:54.742Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46259064",
+    "title": "Linux Sandboxes and Fil-C",
+    "url": "https://fil-c.org/seccomp",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-14T23:13:54.742Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46262734",
+    "title": "Kimi K2 1T model runs on 2 512GB M3 Ultras",
+    "url": "https://twitter.com/awnihannun/status/1943723599971443134",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-14T23:13:54.742Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46257607",
+    "title": "I fed 24 years of my blog posts to a Markov model",
+    "url": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-14T23:13:54.742Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
