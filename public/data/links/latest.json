@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46274478",
+    "title": "It seems that OpenAI is scraping [certificate transparency] logs",
+    "url": "https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46250259",
+    "title": "US TikTok investors in limbo as deal set to be delayed again",
+    "url": "https://www.bbc.com/news/articles/cp34442z25ko",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.511Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46279123",
+    "title": "“Super secure” messaging app leaks everyone's phone number",
+    "url": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.511Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46274822",
+    "title": "Carrier Landing in Top Gun for the NES",
+    "url": "https://relaxing.run/blag/posts/top-gun-landing/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46273466",
+    "title": "I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me",
+    "url": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46278857",
+    "title": "Problems with D-Bus on the Linux desktop",
+    "url": "https://blog.vaxry.net/articles/2025-dbusSucks",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46279825",
+    "title": "The appropriate amount of effort is zero",
+    "url": "https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46276313",
+    "title": "We architected an edge caching layer to eliminate cold starts",
+    "url": "https://www.mintlify.com/blog/page-speed-improvements",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46212376",
+    "title": "Liquid-rust: Liquid templating for Rust",
+    "url": "https://github.com/cobalt-org/liquid-rust",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46256325",
+    "title": "Building an efficient hash table in Java",
+    "url": "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46273372",
+    "title": "Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng",
+    "url": "https://www.optery.com/careers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46264657",
+    "title": "Show HN: A pager",
+    "url": "https://www.udp7777.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46264491",
+    "title": "Ask HN: What Are You Working On? (December 2025)",
+    "url": "https://news.ycombinator.com/item?id=46264491",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46261942",
+    "title": "Show HN: I Ching simulator with accurate Yarrow Stalk probabilities",
+    "url": "https://castiching.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46277353",
+    "title": "US Tech Force",
+    "url": "https://techforce.gov/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46269891",
+    "title": "SoundCloud has banned VPN access",
+    "url": "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46276019",
+    "title": "Ask HN: Is building a calm, non-gamified learning app a mistake?",
+    "url": "https://news.ycombinator.com/item?id=46276019",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46279241",
+    "title": "Upcoming Changes to Let's Encrypt Certificates",
+    "url": "https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.511Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46256643",
+    "title": "Essential Semiconductor Physics [pdf]",
+    "url": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.511Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46279187",
+    "title": "Umbrel – Personal Cloud",
+    "url": "https://umbrel.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-15T22:15:15.511Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
