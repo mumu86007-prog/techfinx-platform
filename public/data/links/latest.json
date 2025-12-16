@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "hackernews-46285376",
+    "title": "Children with cancer scammed out of millions fundraised for their treatment",
+    "url": "https://www.bbc.com/news/articles/ckgz318y8elo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-16T16:20:55.420Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46284266",
+    "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
+    "url": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-16T16:20:55.420Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46284658",
+    "title": "SHARP, an approach to photorealistic view synthesis from a single image",
+    "url": "https://apple.github.io/ml-sharp/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-16T16:20:55.420Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46283016",
+    "title": "Quill OS: An open-source OS for Kobo's eReaders",
+    "url": "https://quill-os.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-16T16:20:55.420Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46288371",
+    "title": "This is not the future",
+    "url": "https://blog.mathieui.net/this-is-not-the-future.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-16T16:20:55.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
