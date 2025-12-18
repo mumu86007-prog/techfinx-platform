@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "id": "hackernews-46302267",
+    "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
+    "url": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-18T07:18:22.485Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46302337",
+    "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
+    "url": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-18T07:18:22.485Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46306894",
+    "title": "Gut bacteria from amphibians and reptiles achieve tumor elimination in mice",
+    "url": "https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-18T07:18:22.485Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46301851",
+    "title": "Gemini 3 Flash: Frontier intelligence built for speed",
+    "url": "https://blog.google/products/gemini/gemini-3-flash/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-18T07:18:22.485Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46301346",
+    "title": "Coursera to combine with Udemy",
+    "url": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-18T07:18:22.485Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46305585",
+    "title": "I got hacked: My Hetzner server started mining Monero",
+    "url": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-18T07:18:22.485Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46301921",
+    "title": "Tell HN: HN was down",
+    "url": "https://news.ycombinator.com/item?id=46301921",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-18T07:18:22.485Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46303277",
+    "title": "How SQLite is tested",
+    "url": "https://sqlite.org/testing.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-18T07:18:22.485Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
