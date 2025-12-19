@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46316907",
+    "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
+    "url": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
+    "id": "hackernews-46289481",
+    "title": "Show HN: CommerceTXT – An open standard for AI shopping context (like llms.txt)",
+    "url": "https://commercetxt.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46294144",
+    "title": "Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)",
+    "url": "https://github.com/vivienhenz24/fuzzy-canary",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46317098",
+    "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+    "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.604Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46319826",
+    "title": "History LLMs: Models trained exclusively on pre-1913 texts",
+    "url": "https://github.com/DGoettlich/history-llms",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.604Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46320395",
+    "title": "Property-Based Testing Caught a Security Bug I Never Would Have Found",
+    "url": "https://kiro.dev/blog/property-based-testing-fixed-security-bug/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46259343",
+    "title": "From Zero to QED: An informal introduction to formality with Lean 4",
+    "url": "https://sdiehl.github.io/zero-to-qed/01_introduction.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46321619",
+    "title": "Noclip.website – A digital museum of video game levels",
+    "url": "https://noclip.website/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46324665",
+    "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
+    "url": "https://github.com/moasq/production-saas-starter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46316367",
+    "title": "GPT-5.2-Codex",
+    "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46260901",
+    "title": "Pingfs: Stores your data in ICMP ping packets",
+    "url": "https://github.com/yarrick/pingfs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46290620",
+    "title": "Prompt caching for cheaper LLM tokens",
+    "url": "https://ngrok.com/blog/prompt-caching/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46321982",
+    "title": "Reconstructed Commander Keen 1-3 Source Code",
+    "url": "https://pckf.com/viewtopic.php?t=18248",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46281355",
+    "title": "Designing a Passive Lidar Detector Device",
+    "url": "https://www.atredis.com/blog/2025/11/20/designing-a-passive-lidar-detection-sensor",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46322732",
+    "title": "Making Google Sans Flex",
+    "url": "https://design.google/library/google-sans-flex-font",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46290349",
+    "title": "Show HN: Picknplace.js, an alternative to drag-and-drop",
+    "url": "https://jgthms.com/picknplace.js/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46321350",
+    "title": "SMB Direct – SMB3 over RDMA",
+    "url": "https://docs.kernel.org/filesystems/smb/smbdirect.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46315414",
+    "title": "Skills for organizations, partners, the ecosystem",
+    "url": "https://claude.com/blog/organization-skills-and-directory",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.605Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46324543",
+    "title": "GotaTun -- Mullvad's WireGuard Implementation in Rust",
+    "url": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.604Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46324078",
+    "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
+    "url": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T13:29:27.604Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
