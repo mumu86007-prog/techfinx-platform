@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "id": "hackernews-46317098",
+    "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+    "url": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T01:09:39.196Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46311856",
+    "title": "Classical statues were not painted horribly",
+    "url": "https://worksinprogress.co/issue/were-classical-statues-painted-horribly/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T01:09:39.196Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46316409",
+    "title": "Firefox will have an option to disable all AI features",
+    "url": "https://mastodon.social/@firefoxwebdevs/115740500373677782",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T01:09:39.196Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46316367",
+    "title": "GPT-5.2-Codex",
+    "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T01:09:39.196Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46315414",
+    "title": "Skills for organizations, partners, the ecosystem",
+    "url": "https://claude.com/blog/organization-skills-and-directory",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T01:09:39.196Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46313297",
+    "title": "Your job is to deliver code you have proven to work",
+    "url": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T01:09:39.196Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46312973",
+    "title": "Please just try HTMX",
+    "url": "http://pleasejusttryhtmx.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T01:09:39.196Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46313991",
+    "title": "Beginning January 2026, all ACM publications will be made open access",
+    "url": "https://dl.acm.org/openaccess",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-19T01:09:39.195Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
