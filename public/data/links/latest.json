@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46336947",
+    "title": "Go ahead, self-host Postgres",
+    "url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-20T22:13:48.547Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46334299",
     "title": "NTP at NIST Boulder Has Lost Power",
     "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-20T21:12:40.999Z",
+    "publishedAt": "2025-12-20T22:13:48.547Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "Skills Officially Comes to Codex",
     "url": "https://developers.openai.com/codex/skills/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-20T21:12:40.999Z",
+    "publishedAt": "2025-12-20T22:13:48.547Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "CSS Grid Lanes",
     "url": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-20T21:12:40.999Z",
+    "publishedAt": "2025-12-20T22:13:48.547Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Privacy doesn't mean anything anymore, anonymity does",
     "url": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-20T21:12:40.999Z",
+    "publishedAt": "2025-12-20T22:13:48.547Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "Charles Proxy",
     "url": "https://www.charlesproxy.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-20T21:12:40.999Z",
+    "publishedAt": "2025-12-20T22:13:48.547Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46326984",
-    "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
-    "url": "https://garagehq.deuxfleurs.fr/",
+    "id": "hackernews-46338339",
+    "title": "Backing Up Spotify",
+    "url": "https://annas-archive.li/blog/backing-up-spotify.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-20T21:12:40.999Z",
+    "publishedAt": "2025-12-20T22:13:48.546Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,24 +123,7 @@
     "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
     "url": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-20T21:12:40.998Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46336947",
-    "title": "Go ahead, self-host Postgres",
-    "url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-20T21:12:40.998Z",
+    "publishedAt": "2025-12-20T22:13:48.546Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
