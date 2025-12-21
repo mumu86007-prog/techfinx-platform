@@ -4,7 +4,7 @@
     "title": "Show HN: Jmail – Google Suite for Epstein files",
     "url": "https://www.jmail.world/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Ireland’s Diarmuid Early wins world Microsoft Excel title",
     "url": "https://www.bbc.com/news/articles/cj4qzgvxxgvo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,28 +34,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46341305",
-    "title": "Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Critics",
-    "url": "https://haveibeenflocked.com/news/cyble-downtime",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46338339",
-    "title": "Backing Up Spotify",
+    "title": "Backing up Spotify",
     "url": "https://annas-archive.li/blog/backing-up-spotify.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,24 +55,7 @@
     "title": "Claude in Chrome",
     "url": "https://claude.com/chrome",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46337438",
-    "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
-    "url": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +72,7 @@
     "title": "Go ahead, self-host Postgres",
     "url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46338016",
-    "title": "Big GPUs don't need big PCs",
-    "url": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
+    "id": "hackernews-46337438",
+    "title": "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
+    "url": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +106,41 @@
     "title": "OpenSCAD is kinda neat",
     "url": "https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46338016",
+    "title": "Big GPUs don't need big PCs",
+    "url": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46341305",
+    "title": "Flock and Cyble Inc. weaponize \"cybercrime\" takedowns to silence critics",
+    "url": "https://haveibeenflocked.com/news/cyble-downtime",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +157,7 @@
     "title": "Skills Officially Comes to Codex",
     "url": "https://developers.openai.com/codex/skills/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2025-12-21T09:14:45.569Z",
+    "publishedAt": "2025-12-21T10:14:54.709Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
