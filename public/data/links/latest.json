@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46448998",
+    "title": "Resistance training load does not determine hypertrophy",
+    "url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46404509",
+    "title": "Only 5 Sears stores remain in the U.S.",
+    "url": "https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46397760",
+    "title": "Ÿnsect, a French insect farming startup, has been been placed into liquidation",
+    "url": "https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46448894",
+    "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
+    "url": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46449643",
+    "title": "2025: The Year in LLMs",
+    "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46446815",
+    "title": "I canceled my book deal",
+    "url": "https://austinhenley.com/blog/canceledbookdeal.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46451124",
+    "title": "Flow5 released to open source",
+    "url": "https://flow5.tech/docs/releasenotes.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46401763",
+    "title": "Pokémon Team Optimization",
+    "url": "https://nchagnet.pages.dev/blog/pokemon-team-optimization/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46449812",
+    "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+    "url": "https://bustermq.sh/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46446366",
+    "title": "Web Browsers have stopped blocking pop-ups",
+    "url": "https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46448705",
+    "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
+    "url": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46450731",
+    "title": "Pixar's True Story",
+    "url": "https://computerhistory.org/blog/pixars-true-story/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46417162",
+    "title": "Demystifying DVDs",
+    "url": "https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46409830",
+    "title": "Build Software. Build Users",
+    "url": "https://dima.day/blog/build-software-build-users/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46402620",
+    "title": "So I started cloning the Wii U gamepad [video]",
+    "url": "https://www.youtube.com/watch?v=jlbcKuDEBw8",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46395438",
+    "title": "My role as a founder-CTO: year 8",
+    "url": "https://miguelcarranza.es/cto-year-8",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46443744",
+    "title": "Tell HN: Happy New Year",
+    "url": "https://news.ycombinator.com/item?id=46443744",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46406570",
+    "title": "Reminiscences of a Stock Operator (1923)",
+    "url": "https://gutenberg.org/cache/epub/60979/pg60979-images.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46442245",
+    "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+    "url": "https://exopriors.com/scry",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46447827",
+    "title": "All-optical synthesis chip for large-scale intelligent semantic vision",
+    "url": "https://www.science.org/doi/10.1126/science.adv7434",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-01T10:16:17.142Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
