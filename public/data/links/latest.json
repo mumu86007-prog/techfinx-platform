@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46463644",
-    "title": "10 years of personal finances in plain text files",
-    "url": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-02T20:15:46.518Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46462702",
     "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
     "url": "https://standardebooks.org/blog/public-domain-day-2026",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-02T20:15:46.518Z",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "Happy Public Domain Day 2026",
     "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-02T20:15:46.518Z",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +34,147 @@
     "score": 8
   },
   {
-    "id": "hackernews-46464235",
-    "title": "FracturedJson",
-    "url": "https://github.com/j-brooke/FracturedJson/wiki",
+    "id": "hackernews-46463407",
+    "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
+    "url": "https://lalitm.com/post/one-number-i-trust/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-02T20:15:46.518Z",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46463644",
+    "title": "10 years of personal finances in plain text files",
+    "url": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.931Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46414152",
+    "title": "Miri: Practical Undefined Behavior Detection for Rust [pdf]",
+    "url": "https://research.ralfj.de/papers/2026-popl-miri.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7.5
+  },
+  {
+    "id": "hackernews-46404321",
+    "title": "What you need to know before touching a video file",
+    "url": "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46408510",
+    "title": "C –> Java != Java –> LLM",
+    "url": "http://www.observationalhazard.com/2025/12/c-java-java-llm.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46466073",
+    "title": "Ask HN: Who wants to be hired? (January 2026)",
+    "url": "https://news.ycombinator.com/item?id=46466073",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46464120",
+    "title": "Assorted less(1) tips",
+    "url": "https://blog.thechases.com/posts/assorted-less-tips/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46467651",
+    "title": "Accounting for Computer Scientists (2011)",
+    "url": "https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46466734",
+    "title": "The rsync algorithm (1996) [pdf]",
+    "url": "https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,24 +191,7 @@
     "title": "39th Chaos Communication Congress Videos",
     "url": "https://media.ccc.de/b/congress/2025",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-02T20:15:46.518Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46463315",
-    "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
-    "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-02T20:15:46.518Z",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +208,58 @@
     "title": "Why users cannot create Issues directly",
     "url": "https://github.com/ghostty-org/ghostty/issues/3558",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-02T20:15:46.518Z",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46463315",
+    "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
+    "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46410258",
+    "title": "ThingsBoard: Open-Source IoT Platform",
+    "url": "https://github.com/thingsboard/thingsboard",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46463635",
+    "title": "A small collection of text-only websites",
+    "url": "https://shkspr.mobi/blog/2025/12/a-small-collection-of-text-only-websites/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +276,7 @@
     "title": "Parental controls aren't for parents",
     "url": "https://beasthacker.com/til/parental-controls-arent-for-parents.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-02T20:15:46.518Z",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +293,41 @@
     "title": "A website to destroy all websites",
     "url": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-02T20:15:46.518Z",
+    "publishedAt": "2026-01-02T21:11:21.932Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46468600",
+    "title": "Publish (On Your) Own Site, Syndicate Elsewhere",
+    "url": "https://indieweb.org/POSSE#",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.931Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46468283",
+    "title": "4th Edition Unix in the Browser",
+    "url": "https://unixv4.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T21:11:21.931Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
