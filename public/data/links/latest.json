@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46463644",
+    "title": "10 years of personal finances in plain text files",
+    "url": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46462702",
+    "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
+    "url": "https://standardebooks.org/blog/public-domain-day-2026",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46409400",
+    "title": "List, inspect and explore OCI container images, their layers and contents",
+    "url": "https://github.com/bschaatsbergen/lix",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46414152",
+    "title": "Miri: Practical Undefined Behavior Detection for Rust [pdf]",
+    "url": "https://research.ralfj.de/papers/2026-popl-miri.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7.5
+  },
+  {
+    "id": "hackernews-46469623",
+    "title": "Linux kernel security work",
+    "url": "http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46468600",
+    "title": "Publish (On Your) Own Site, Syndicate Elsewhere",
+    "url": "https://indieweb.org/POSSE#",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46469577",
+    "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
+    "url": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46468283",
+    "title": "Unix v4 (1973) – Live Terminal",
+    "url": "https://unixv4.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46466074",
+    "title": "Ask HN: Who is hiring? (January 2026)",
+    "url": "https://news.ycombinator.com/item?id=46466074",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46467057",
+    "title": "Clicks Communicator",
+    "url": "https://www.clicksphone.com/en/communicator",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46464235",
+    "title": "FracturedJson",
+    "url": "https://github.com/j-brooke/FracturedJson/wiki",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46468237",
+    "title": "TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA",
+    "url": "https://github.com/Alanma23/tinytinyTPU-co",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46465327",
+    "title": "IPv6 just turned 30 and still hasn't taken over the world",
+    "url": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46467677",
+    "title": "Fighting Fire with Fire: Scalable Oral Exams",
+    "url": "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46468517",
+    "title": "Jank Lang Hit Alpha",
+    "url": "https://github.com/jank-lang/jank",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46408974",
+    "title": "Uxn32: Uxn Emulator for Windows and Wine",
+    "url": "https://github.com/randrew/uxn32",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46466364",
+    "title": "Punkt. Unveils MC03 Smartphone",
+    "url": "https://www.punkt.ch/blogs/news/punkt-unveils-mc03",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46467651",
+    "title": "Accounting for Computer Scientists (2011)",
+    "url": "https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46404321",
+    "title": "What you need to know before touching a video file",
+    "url": "https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46408510",
+    "title": "C –> Java != Java –> LLM",
+    "url": "http://www.observationalhazard.com/2025/12/c-java-java-llm.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-02T23:13:50.288Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
