@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46403062",
-    "title": "Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot",
-    "url": "https://streaming.media.ccc.de/39c3/relive/2149",
+    "id": "hackernews-46468600",
+    "title": "Publish on your own site, syndicate elsewhere",
+    "url": "https://indieweb.org/POSSE#",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
+    "publishedAt": "2026-01-03T16:16:42.423Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,31 +14,14 @@
       "开发者",
       "社区"
     ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46469623",
-    "title": "Linux kernel security work",
-    "url": "http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
+    "score": 6
   },
   {
     "id": "hackernews-46473348",
     "title": "Trump says Venezuela’s Maduro captured after strikes",
     "url": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
+    "publishedAt": "2026-01-03T16:16:42.423Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,24 +38,7 @@
     "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
     "url": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46475437",
-    "title": "X-Clacks-Overhead",
-    "url": "https://hleb.dev/post/x-clacks-overhead/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
+    "publishedAt": "2026-01-03T16:16:42.423Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,41 +55,7 @@
     "title": "IPv6 just turned 30 and still hasn't taken over the world",
     "url": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46443730",
-    "title": "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
-    "url": "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46476636",
-    "title": "ParadeDB (YC S23) Is Hiring Database Engineers",
-    "url": "https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
+    "publishedAt": "2026-01-03T16:16:42.423Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,24 +72,7 @@
     "title": "2026 will be my year of the Linux desktop",
     "url": "https://xeiaso.net/notes/2026/year-linux-desktop/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46475296",
-    "title": "Profiling with Ctrl-C (2024)",
-    "url": "https://yosefk.com/blog/profiling-with-ctrl-c.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
+    "publishedAt": "2026-01-03T16:16:42.423Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +89,7 @@
     "title": "Clicks Communicator",
     "url": "https://www.clicksphone.com/en/communicator",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
+    "publishedAt": "2026-01-03T16:16:42.423Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,143 +106,7 @@
     "title": "Ask HN: Who is hiring? (January 2026)",
     "url": "https://news.ycombinator.com/item?id=46466074",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46442624",
-    "title": "GitHub – tomasf/Cadova: Swift DSL for parametric 3D modeling",
-    "url": "https://github.com/tomasf/Cadova",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46417500",
-    "title": "How Smell Guides Our Inner World",
-    "url": "https://www.quantamagazine.org/how-smell-guides-our-inner-world-20250703/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46421045",
-    "title": "Show HN: The ASCII Side of the Moon",
-    "url": "https://aleyan.com/projects/ascii-side-of-the-moon/?lat=32.72&lon=-117.16&date=2025-12-29T14%3A24Z",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46442293",
-    "title": "UK company sends factory with 1,000C furnace into space",
-    "url": "https://www.bbc.co.uk/news/articles/c62vx0pgyrgo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46471712",
-    "title": "A Basic Just-In-Time Compiler (2015)",
-    "url": "https://nullprogram.com/blog/2015/03/19/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46468517",
-    "title": "Jank Lang Hit Alpha",
-    "url": "https://github.com/jank-lang/jank",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46475218",
-    "title": "Tally – A tool to help agents classify your bank transactions",
-    "url": "https://tallyai.money/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46442229",
-    "title": "The Cost of a Closure in C: The Rest",
-    "url": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T15:13:52.588Z",
+    "publishedAt": "2026-01-03T16:16:42.423Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
