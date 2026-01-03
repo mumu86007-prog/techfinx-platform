@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46480614",
-    "title": "Xsight Labs E1 DPU a 64-Core Arm Neoverse N2 800G DPU",
-    "url": "https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
     "id": "hackernews-46469623",
     "title": "Linux kernel security work",
     "url": "http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +17,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46480156",
-    "title": "Microsoft kills official way to activate Windows 11/10 without internet",
-    "url": "https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette",
+    "id": "hackernews-46480614",
+    "title": "Xsight Labs E1 DPU a 64-Core Arm Neoverse N2 800G DPU",
+    "url": "https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,14 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 7
   },
   {
-    "id": "hackernews-46468600",
-    "title": "Publish on your own site, syndicate elsewhere",
-    "url": "https://indieweb.org/POSSE#",
+    "id": "hackernews-46479673",
+    "title": "Xr0 verifier, guarantee the safety of C programs at compile time",
+    "url": "https://xr0.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,92 +55,7 @@
     "title": "Sirius DB",
     "url": "https://www.sirius-db.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46473348",
-    "title": "Trump says Venezuela’s Maduro captured after strikes",
-    "url": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46440037",
-    "title": "Exploring Dithering on Spectra 6-color E-Ink Displays",
-    "url": "https://myembeddedstuff.com/e-ink-spectra-6-color",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46469577",
-    "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
-    "url": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46475395",
-    "title": "Recursive Language Models",
-    "url": "https://arxiv.org/abs/2512.24601",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46433967",
-    "title": "Beating myself at chess",
-    "url": "https://log.schemescape.com/posts/diy/beating-myself-at-chess.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +72,41 @@
     "title": "Experiments with Ableton-MCP",
     "url": "https://jhurliman.org/post/804323197731373056/experiments-with-ableton-mcp-dec-2025",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46469577",
+    "title": "Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?",
+    "url": "https://www.madebywindmill.com/tempi/blog/hbfs-bpm/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46475395",
+    "title": "Recursive Language Models",
+    "url": "https://arxiv.org/abs/2512.24601",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +123,7 @@
     "title": "World's largest functioning musical instrument: Wanamaker Organ in Philadelphia",
     "url": "https://en.wikipedia.org/wiki/Wanamaker_Organ",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +136,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46475437",
-    "title": "X-Clacks-Overhead",
-    "url": "https://hleb.dev/post/x-clacks-overhead/",
+    "id": "hackernews-46433967",
+    "title": "Beating myself at chess",
+    "url": "https://log.schemescape.com/posts/diy/beating-myself-at-chess.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46480491",
+    "title": "Doesnt: An Esoteric Programming Language",
+    "url": "https://lists.sr.ht/~rabbits/horadric/%3C5d708fd1-1c01-4fb6-a8e5-61213a1e88f8@sheeeeeeeep.art%3E",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +174,24 @@
     "title": "IPv6 just turned 30 and still hasn't taken over the world",
     "url": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46475437",
+    "title": "X-Clacks-Overhead",
+    "url": "https://hleb.dev/post/x-clacks-overhead/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +208,7 @@
     "title": "Profiling with Ctrl-C (2024)",
     "url": "https://yosefk.com/blog/profiling-with-ctrl-c.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +225,24 @@
     "title": "ParadeDB (YC S23) Is Hiring Database Engineers",
     "url": "https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46473348",
+    "title": "Trump says Venezuela’s Maduro captured after strikes",
+    "url": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,41 +259,7 @@
     "title": "A Beginner's Two-Component Crystal-Style Wi-Fi Detector",
     "url": "https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46442624",
-    "title": "Cadova: Swift DSL for parametric 3D modeling",
-    "url": "https://github.com/tomasf/Cadova",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46478061",
-    "title": "Show HN: Offline tiles and routing and geocoding in one Docker Compose stack",
-    "url": "https://www.corviont.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +276,58 @@
     "title": "Clicks Communicator",
     "url": "https://www.clicksphone.com/en/communicator",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-03T21:12:53.847Z",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46442624",
+    "title": "Cadova: Swift DSL for parametric 3D modeling",
+    "url": "https://github.com/tomasf/Cadova",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46466074",
+    "title": "Ask HN: Who is hiring? (January 2026)",
+    "url": "https://news.ycombinator.com/item?id=46466074",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46471199",
+    "title": "2026 will be my year of the Linux desktop",
+    "url": "https://xeiaso.net/notes/2026/year-linux-desktop/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-03T22:13:29.405Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
