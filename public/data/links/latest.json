@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-46485090",
+    "title": "Neural Networks: Zero to Hero",
+    "url": "https://karpathy.ai/zero-to-hero.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T17:12:31.137Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46486135",
+    "title": "The Gentle Seduction (1989)",
+    "url": "http://www.skyhunter.com/marcs/GentleSeduction.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T17:12:31.137Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46482345",
+    "title": "Total monthly number of StackOverflow questions over time",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T17:12:31.137Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46482877",
+    "title": "The suck is why we're here",
+    "url": "https://nik.art/the-suck-is-why-were-here/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T17:12:31.137Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46483023",
+    "title": "Swift on Android: Full Native App Development Now Possible",
+    "url": "https://docs.swifdroid.com/app/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T17:12:31.137Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46485989",
+    "title": "Can I start using Wayland in 2026?",
+    "url": "https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T17:12:31.137Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
