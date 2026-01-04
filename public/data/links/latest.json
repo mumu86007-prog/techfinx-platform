@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "hackernews-46482877",
+    "title": "The suck is why we're here",
+    "url": "https://nik.art/the-suck-is-why-were-here/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T09:14:00.680Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46483023",
+    "title": "Swift on Android: Full Native App Development Now Possible",
+    "url": "https://docs.swifdroid.com/app/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T09:14:00.680Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46478377",
+    "title": "The Most Popular Blogs of Hacker News in 2025",
+    "url": "https://refactoringenglish.com/blog/2025-hn-top-5/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T09:14:00.680Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46478647",
+    "title": "The C3 Programming Language",
+    "url": "https://c3-lang.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T09:14:00.680Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46482345",
+    "title": "Total monthly number of StackOverflow questions over time",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-04T09:14:00.679Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
