@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46501137",
+    "title": "Show HN: Tailsnitch – A security auditor for Tailscale",
+    "url": "https://github.com/Adversis/tailsnitch",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
     "id": "hackernews-46499983",
     "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
     "url": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-05T21:14:37.782Z",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46499976",
-    "title": "RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids",
-    "url": "https://news.ycombinator.com/item?id=46499976",
+    "id": "hackernews-46503006",
+    "title": "Pipe Dreams – The life and times of Yahoo Pipes (2023)",
+    "url": "https://retool.com/pipes",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-05T21:14:37.782Z",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,31 +48,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 6
   },
   {
-    "id": "hackernews-46497164",
-    "title": "Anna's Archive loses .org domain after surprise suspension",
-    "url": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
+    "id": "hackernews-46466027",
+    "title": "Try to take my position: The best promotion advice I ever got",
+    "url": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-05T21:14:37.782Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46496054",
-    "title": "A spider web unlike any seen before",
-    "url": "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-05T21:14:37.782Z",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,24 @@
     "title": "It's hard to justify Tahoe icons",
     "url": "https://tonsky.me/blog/tahoe-icons/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-05T21:14:37.781Z",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46501665",
+    "title": "So, you want to chunk really fast?",
+    "url": "https://minha.sh/posts/so,-you-want-to-chunk-really-fast",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,41 @@
     "title": "Show HN: DoNotNotify – log and intelligently block notifications on Android",
     "url": "https://donotnotify.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-05T21:14:37.781Z",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46502736",
+    "title": "Gatekeepers of Law: Inside the Westlaw and LexisNexis Duopoly",
+    "url": "https://www.thebignewsletter.com/p/gatekeepers-of-law-inside-the-westlaw",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46502239",
+    "title": "Sega co-founder David Rosen has died",
+    "url": "https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +157,177 @@
     "title": "Databases in 2025: A Year in Review",
     "url": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-05T21:14:37.781Z",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46441154",
+    "title": "Selective Applicative Functors",
+    "url": "https://blog.veritates.love/selective_applicatives_theoretical_basis.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46503439",
+    "title": "Refactoring – Not on the backlog (2014)",
+    "url": "https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46502665",
+    "title": "Show HN: WOLS – Open standard for mushroom cultivation tracking",
+    "url": "https://github.com/wemush/open-standard",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46502652",
+    "title": "Utopian Scholastic",
+    "url": "https://wol.fm/blog/utopian-scholastic.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46501677",
+    "title": "How Y Combinator made it smart to trust founders",
+    "url": "https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46503685",
+    "title": "O-Ring Automation",
+    "url": "https://www.nber.org/papers/w34639",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46443861",
+    "title": "LLMRouter: An Open-Source Library for LLM Routing",
+    "url": "https://github.com/ulab-uiuc/LLMRouter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46465335",
+    "title": "Pebble Round 2",
+    "url": "https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46498658",
+    "title": "Singularity Rootkit: SELinux bypass and netlink filter (ss/conntrack hidden)",
+    "url": "https://github.com/MatheuZSecurity/Singularity",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46502051",
+    "title": "Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)",
+    "url": "https://github.com/Cerelog-ESP-EEG/ESP-EEG",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-05T22:14:33.357Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
