@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "hackernews-46499646",
+    "title": "Show HN: DoNotNotify – log and intelligently block notifications on Android",
+    "url": "https://donotnotify.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T01:10:11.358Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46498735",
+    "title": "I switched from VSCode to Zed",
+    "url": "https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T01:10:11.358Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46496103",
+    "title": "Databases in 2025: A Year in Review",
+    "url": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T01:10:11.358Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46504963",
+    "title": "There were BGP anomalies during the Venezuela blackout",
+    "url": "https://loworbitsecurity.com/radar/radar16/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T01:10:11.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46497712",
+    "title": "It's hard to justify Tahoe icons",
+    "url": "https://tonsky.me/blog/tahoe-icons/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T01:10:11.357Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
