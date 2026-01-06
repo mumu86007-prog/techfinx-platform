@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46514692",
+    "title": "Why is the Gmail app 700 MB?",
+    "url": "https://akr.am/blog/posts/why-is-the-gmail-app-700-mb",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46512842",
+    "title": "High-performance header-only container library for C++23 on x86-64",
+    "url": "https://github.com/kressler/fast-containers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46511153",
+    "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
+    "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46464462",
+    "title": "Repair a ship’s hull still in the river in -50˚C (2022)",
+    "url": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46513728",
+    "title": "The skill of the future is not 'AI', but 'Focus' (2025)",
+    "url": "https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46514677",
+    "title": "Vienam Bans Unskippable Ads, Requires Skip Button to Appear After 5 Seconds",
+    "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.433Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46511469",
+    "title": "Show HN: Prism.Tools – Free and privacy-focused developer utilities",
+    "url": "https://blgardner.github.io/prism.tools/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46509211",
+    "title": "enclose.horse",
+    "url": "https://enclose.horse/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46466843",
+    "title": "I wanted a camera that doesn't exist – so I built it",
+    "url": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46512881",
+    "title": "65% of Hacker News Posts Have Negative Sentiment, and They Outperform",
+    "url": "https://philippdubach.com/standalone/hn-sentiment/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46514807",
+    "title": "Loongarch Improvements with Box64",
+    "url": "https://box86.org/2026/01/new-box64-v0-4-0-released/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46512707",
+    "title": "Gemini Protocol Deployment Statistics",
+    "url": "https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46514913",
+    "title": "Volkswagen Brings Back Physical Buttons",
+    "url": "https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46504963",
+    "title": "There were BGP anomalies during the Venezuela blackout",
+    "url": "https://loworbitsecurity.com/radar/radar16/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46462997",
+    "title": "Swapping two blocks of memory inside a larger block, in constant memory",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260101-00/?p=111955",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46514794",
+    "title": "Raspberry Pi and mini PC home lab prices hit parity as DRAM costs skyrocket",
+    "url": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-and-mini-pc-home-lab-prices-hit-parity-as-dram-costs-skyrocket-price-hikes-force-hobbyists-to-weigh-up-performance-versus-power-consumption",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46469473",
+    "title": "\"Inspector Dangerfuck\", ANSI art comic from 1994",
+    "url": "https://breakintochat.com/blog/2025/12/31/ansi-art-and-webcomics-part-3-eerie-and-inspector-dangerfuck/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46511470",
+    "title": "C Is Best",
+    "url": "https://sqlite.org/whyc.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46510625",
+    "title": "SCiZE's Classic Warez Collection",
+    "url": "https://scenelist.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46511578",
+    "title": "Show HN: DDL to Data – Generate realistic test data from SQL schemas",
+    "url": "https://news.ycombinator.com/item?id=46511578",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-06T18:22:21.434Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
