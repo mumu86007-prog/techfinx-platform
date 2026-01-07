@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "hackernews-46515696",
+    "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+    "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T12:31:43.540Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46514677",
+    "title": "Vietnam bans unskippable ads",
+    "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T12:31:43.541Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46518129",
+    "title": "Calling All Hackers: How money works (2024)",
+    "url": "https://phrack.org/issues/71/17",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T12:31:43.541Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46517458",
+    "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
+    "url": "https://github.com/rberg27/doom-coding",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T12:31:43.540Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46518573",
+    "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
+    "url": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T12:31:43.540Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
