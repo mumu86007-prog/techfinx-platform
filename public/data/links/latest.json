@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46526933",
+    "title": "LaTeX Coffee Stains [pdf] (2021)",
+    "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46527950",
+    "title": "Creators of Tailwind laid off 75% of their engineering team",
+    "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46528389",
+    "title": "How Google got its groove back and edged ahead of OpenAI",
+    "url": "https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46527706",
+    "title": "Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years",
+    "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46515696",
+    "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+    "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46526088",
+    "title": "Show HN: KeelTest – AI-driven VS Code unit test generator with bug discovery",
+    "url": "https://keelcode.dev/keeltest",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46528045",
+    "title": "Building voice agents with Nvidia open models",
+    "url": "https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46526740",
+    "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
+    "url": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46527161",
+    "title": "Shipmap.org",
+    "url": "https://www.shipmap.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46528353",
+    "title": "Health care data breach affects over 600k patients, Illinois agency says",
+    "url": "https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46530448",
+    "title": "NPM to implement staged publishing after turbulent shift off classic tokens",
+    "url": "https://socket.dev/blog/npm-to-implement-staged-publishing",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46529797",
+    "title": "A tab hoarder's journey to sanity",
+    "url": "https://twitter.com/borisandcrispin/status/2008709479068794989",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46525888",
+    "title": "A4 Paper Stories",
+    "url": "https://susam.net/a4-paper-stories.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46528142",
+    "title": "The Case for Nushell (2023)",
+    "url": "https://www.sophiajt.com/case-for-nushell/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46527775",
+    "title": "Many Hells of WebDAV: Writing a Client/Server in Go",
+    "url": "https://candid.dev/blog/many-hells-of-webdav",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46527157",
+    "title": "Meditation as Wakeful Relaxation: Unclenching Smooth Muscle",
+    "url": "https://psychotechnology.substack.com/p/meditation-as-wakeful-relaxation",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46528192",
+    "title": "BillG the Manager (2021)",
+    "url": "https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46472258",
+    "title": "Becoming a Centenarian",
+    "url": "https://www.newyorker.com/magazine/2025/12/22/becoming-a-centenarian",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46524036",
+    "title": "Show HN: Free and local browser tool for designing gear models for 3D printing",
+    "url": "https://gears.dmtrkovalenko.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46477961",
+    "title": "Show HN: I built a \"Do not disturb\" Device for my home office",
+    "url": "https://apoorv.page/blogs/over-engineered-dnd",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T19:16:17.702Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
