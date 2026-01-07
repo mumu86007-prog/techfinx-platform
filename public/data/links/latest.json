@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46515696",
-    "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
-    "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+    "id": "hackernews-46520926",
+    "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
+    "url": "https://github.com/x011/smtp-tunnel-proxy",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-07T05:20:22.039Z",
+    "publishedAt": "2026-01-07T06:24:35.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46517458",
-    "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
-    "url": "https://github.com/rberg27/doom-coding",
+    "id": "hackernews-46512203",
+    "title": "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
+    "url": "https://vaultsandbox.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-07T05:20:22.039Z",
+    "publishedAt": "2026-01-07T06:24:35.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,14 +31,31 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-46514677",
-    "title": "Vietnam bans unskippable ads",
-    "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+    "id": "hackernews-46512182",
+    "title": "Show HN: Mantic.sh – A structural code search engine for AI agents",
+    "url": "https://github.com/marcoaapfortes/Mantic.sh",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-07T05:20:22.039Z",
+    "publishedAt": "2026-01-07T06:24:35.027Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46502148",
+    "title": "Show HN: Make audio loops online",
+    "url": "https://makeloops.online/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T06:24:35.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
