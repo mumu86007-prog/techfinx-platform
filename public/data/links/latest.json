@@ -4,7 +4,7 @@
     "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
     "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-07T12:31:43.540Z",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,79 @@
     "score": 8
   },
   {
-    "id": "hackernews-46514677",
-    "title": "Vietnam bans unskippable ads",
-    "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+    "id": "hackernews-46520926",
+    "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
+    "url": "https://github.com/x011/smtp-tunnel-proxy",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-07T12:31:43.541Z",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46515777",
+    "title": "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
+    "url": "https://news.ycombinator.com/item?id=46515777",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46512203",
+    "title": "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
+    "url": "https://vaultsandbox.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46515948",
+    "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
+    "url": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46525640",
+    "title": "Stop Designing Languages. Write Libraries Instead",
+    "url": "https://lbstanza.org/purpose_of_programming_languages.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +102,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46518129",
-    "title": "Calling All Hackers: How money works (2024)",
-    "url": "https://phrack.org/issues/71/17",
+    "id": "hackernews-46525542",
+    "title": "The Eric and Wendy Schmidt Observatory System",
+    "url": "https://www.schmidtsciences.org/schmidt-observatory-system/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-07T12:31:43.541Z",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46452641",
+    "title": "Sergey Brin's Unretirement",
+    "url": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46473247",
+    "title": "Vector graphics on GPU",
+    "url": "https://gasiulis.name/vector-graphics-on-gpu/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46473400",
+    "title": "Formal Methods Only Solve Half My Problems",
+    "url": "https://brooker.co.za/blog/2022/06/02/formal.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +174,75 @@
     "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
     "url": "https://github.com/rberg27/doom-coding",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-07T12:31:43.540Z",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46525394",
+    "title": "Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)",
+    "url": "https://www.optery.com/careers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46520935",
+    "title": "Electronic nose for indoor mold detection and identification",
+    "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46464689",
+    "title": "The first new compass since 1936",
+    "url": "https://www.youtube.com/watch?v=eiDhbZ8-BZI",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46470017",
+    "title": "The creator of Claude Code's Claude setup",
+    "url": "https://twitter.com/bcherny/status/2007179832300581177",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +259,75 @@
     "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
     "url": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-07T12:31:43.540Z",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46465206",
+    "title": "Investigating and fixing a nasty clone bug",
+    "url": "https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46514677",
+    "title": "Vietnam bans unskippable ads",
+    "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46522308",
+    "title": "On the slow death of scaling",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46466843",
+    "title": "I wanted a camera that doesn't exist, so I built it",
+    "url": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-07T13:35:11.622Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
