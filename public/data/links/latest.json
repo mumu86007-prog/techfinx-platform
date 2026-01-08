@@ -4,7 +4,41 @@
     "title": "Google AI Studio is now sponsoring Tailwind CSS",
     "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T21:16:09.128Z",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46542036",
+    "title": "AI coding assistants are getting worse?",
+    "url": "https://spectrum.ieee.org/ai-coding-degrades",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46544454",
+    "title": "IBM AI ('Bob') Downloads and Executes Malware",
+    "url": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +55,7 @@
     "title": "Dell admits consumers don't care about AI PCs",
     "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T21:16:09.128Z",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +68,147 @@
     "score": 8
   },
   {
+    "id": "hackernews-46502269",
+    "title": "I used Lego to design a farm for people who are blind – like me",
+    "url": "https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46546322",
+    "title": "Support for the TSO memory model on Arm CPUs",
+    "url": "https://lwn.net/Articles/970907/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46542982",
+    "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
+    "url": "https://arxiv.org/abs/2512.24617",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.107Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46493785",
+    "title": "The Napoleon Technique: Postponing things to increase productivity",
+    "url": "https://effectiviology.com/napoleon/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.107Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46545620",
+    "title": "How to Code Claude Code in 200 Lines of Code",
+    "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46546113",
+    "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
+    "url": "https://github.com/samuel-vitorino/sopro",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46541892",
     "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
     "url": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T21:16:09.128Z",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46544981",
+    "title": "The Unreasonable Effectiveness of the Fourier Transform",
+    "url": "https://joshuawise.com/resources/ofdm/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46546419",
+    "title": "SQL Studio",
+    "url": "https://sql.studio/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +225,7 @@
     "title": "The Jeff Dean Facts",
     "url": "https://github.com/LRitzdorf/TheJeffDeanFacts",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T21:16:09.128Z",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46542683",
-    "title": "Iran Goes Into IPv6 Blackout",
-    "url": "https://radar.cloudflare.com/routing/ir",
+    "id": "hackernews-46546413",
+    "title": "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
+    "url": "https://www.mux.com/jobs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T21:16:09.128Z",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46537489",
-    "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-    "url": "https://patchouli.readthedocs.io/en/latest/",
+    "id": "hackernews-46544610",
+    "title": "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
+    "url": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T21:16:09.128Z",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46538001",
-    "title": "A closer look at a BGP anomaly in Venezuela",
-    "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+    "id": "hackernews-46537253",
+    "title": "Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes",
+    "url": "https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T21:16:09.128Z",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46536866",
-    "title": "Open Infrastructure Map",
-    "url": "https://openinframap.org/",
+    "id": "hackernews-46544524",
+    "title": "Show HN: macOS menu bar app to track Claude usage in real time",
+    "url": "https://github.com/richhickson/claudecodeusage",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T21:16:09.128Z",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +306,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46536340",
-    "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
-    "url": "https://pebblebed.com/blog/kernel-bugs",
+    "id": "hackernews-46542761",
+    "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
+    "url": "https://sakana.ai/drq/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T21:16:09.128Z",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46545587",
+    "title": "Task-free intelligence testing of LLMs",
+    "url": "https://www.marble.onl/posts/tapping/index.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T22:15:31.106Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
