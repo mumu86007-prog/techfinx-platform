@@ -4,7 +4,7 @@
     "title": "Tailscale state file encryption no longer enabled by default",
     "url": "https://tailscale.com/changelog",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "LaTeX Coffee Stains (2021) [pdf]",
     "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Creators of Tailwind laid off 75% of their engineering team",
     "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,41 @@
     "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
     "url": "https://patchouli.readthedocs.io/en/latest/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46538001",
+    "title": "A closer look at a BGP anomaly in Venezuela",
+    "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46536866",
+    "title": "Open Infrastructure Map",
+    "url": "https://openinframap.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +106,7 @@
     "title": "Eat Real Food",
     "url": "https://realfood.gov/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +123,7 @@
     "title": "Shipmap.org",
     "url": "https://www.shipmap.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +140,7 @@
     "title": "ChatGPT Health",
     "url": "https://openai.com/index/introducing-chatgpt-health/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,24 +157,7 @@
     "title": "US will ban Wall Street investors from buying single-family homes",
     "url": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46525888",
-    "title": "A4 Paper Stories",
-    "url": "https://susam.net/a4-paper-stories.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,7 @@
     "title": "“Stop Designing Languages. Write Libraries Instead” (2016)",
     "url": "https://lbstanza.org/purpose_of_programming_languages.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T12:31:57.939Z",
+    "publishedAt": "2026-01-08T13:36:16.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
