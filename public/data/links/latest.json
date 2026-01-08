@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46542036",
+    "title": "AI Coding Assistants Are Getting Worse",
+    "url": "https://spectrum.ieee.org/ai-coding-degrades",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46531925",
     "title": "Tailscale state file encryption no longer enabled by default",
     "url": "https://tailscale.com/changelog",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "LaTeX Coffee Stains (2021) [pdf]",
     "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "How Google got its groove back and edged ahead of OpenAI",
     "url": "https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46527950",
-    "title": "Creators of Tailwind laid off 75% of their engineering team",
-    "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
+    "id": "hackernews-46541892",
+    "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
+    "url": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,14 +82,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 6
   },
   {
     "id": "hackernews-46540498",
     "title": "The Jeff Dean Facts",
     "url": "https://github.com/LRitzdorf/TheJeffDeanFacts",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -86,10 +103,10 @@
   },
   {
     "id": "hackernews-46468338",
-    "title": "Lights and Shadows",
+    "title": "Lights and Shadows (2020)",
     "url": "https://ciechanow.ski/lights-and-shadows/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,24 +123,7 @@
     "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
     "url": "https://patchouli.readthedocs.io/en/latest/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46538001",
-    "title": "A closer look at a BGP anomaly in Venezuela",
-    "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +140,24 @@
     "title": "Show HN: DeepDream for Video with Temporal Consistency",
     "url": "https://github.com/jeremicna/deepdream-video-pytorch",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46538001",
+    "title": "A closer look at a BGP anomaly in Venezuela",
+    "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,24 @@
     "title": "Open Infrastructure Map",
     "url": "https://openinframap.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46542015",
+    "title": "Japanese electronics store pleads for old PCs amid ongoing hardware shortage",
+    "url": "https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,24 +208,7 @@
     "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
     "url": "https://pebblebed.com/blog/kernel-bugs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46493785",
-    "title": "The Napoleon Technique: Postponing things to increase productivity",
-    "url": "https://effectiviology.com/napoleon/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +225,24 @@
     "title": "Eat Real Food",
     "url": "https://realfood.gov/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46487224",
+    "title": "The price of fame? Mortality risk among famous singers",
+    "url": "https://jech.bmj.com/content/early/2025/11/30/jech-2025-224589",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +259,24 @@
     "title": "Mothers (YC X26) Is Hiring",
     "url": "https://jobs.ashbyhq.com/9-mothers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46493785",
+    "title": "The Napoleon Technique: Postponing things to increase productivity",
+    "url": "https://effectiviology.com/napoleon/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +293,7 @@
     "title": "Shipmap.org",
     "url": "https://www.shipmap.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,24 +310,7 @@
     "title": "Go.sum is not a lockfile",
     "url": "https://words.filippo.io/gosum/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46492401",
-    "title": "Anyone have experiences with Audio Induction Loops?",
-    "url": "https://en.wikipedia.org/wiki/Audio_induction_loop",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,41 +327,7 @@
     "title": "Lessons from Hash Table Merging",
     "url": "https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46531280",
-    "title": "ChatGPT Health",
-    "url": "https://openai.com/index/introducing-chatgpt-health/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46523887",
-    "title": "The Q, K, V Matrices",
-    "url": "https://arpitbhayani.me/blogs/qkv-matrices/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-08T15:19:33.814Z",
+    "publishedAt": "2026-01-08T16:21:28.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
