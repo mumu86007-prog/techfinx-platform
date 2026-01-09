@@ -1,10 +1,129 @@
 [
   {
-    "id": "hackernews-46546349",
-    "title": "Show HN: A geofence-based social network app 6 years in development",
-    "url": "https://www.localvideoapp.com/",
+    "id": "hackernews-46454160",
+    "title": "Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots",
+    "url": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-09T03:25:19.292Z",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 10
+  },
+  {
+    "id": "hackernews-46542036",
+    "title": "AI coding assistants are getting worse?",
+    "url": "https://spectrum.ieee.org/ai-coding-degrades",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46545077",
+    "title": "Google AI Studio is now sponsoring Tailwind CSS",
+    "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46544276",
+    "title": "He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B",
+    "url": "https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46527706",
+    "title": "Dell admits consumers don't care about AI PCs",
+    "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46549105",
+    "title": "Logistics Is Dying; Or – Dude, Where's My Mail?",
+    "url": "https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46502269",
+    "title": "I used Lego to design a farm for people who are blind – like me",
+    "url": "https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46545620",
+    "title": "How to Code Claude Code in 200 Lines of Code",
+    "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +136,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46544524",
-    "title": "Show HN: macOS menu bar app to track Claude usage in real time",
-    "url": "https://github.com/richhickson/claudecodeusage",
+    "id": "hackernews-46547740",
+    "title": "Embassy: Modern embedded framework, using Rust and async",
+    "url": "https://github.com/embassy-rs/embassy",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-09T03:25:19.292Z",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46546113",
+    "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
+    "url": "https://github.com/samuel-vitorino/sopro",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46480664",
+    "title": "Anti-cheat evolution in Windows 11",
+    "url": "https://www.andrea-allievi.com/blog/new-year-post-anti-cheat-evolution-in-windows-11/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46541892",
+    "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
+    "url": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +208,126 @@
     "title": "Show HN: Executable Markdown files with Unix pipes",
     "url": "https://news.ycombinator.com/item?id=46549444",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-09T03:25:19.291Z",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46546614",
+    "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)",
+    "url": "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46544981",
+    "title": "The Unreasonable Effectiveness of the Fourier Transform",
+    "url": "https://joshuawise.com/resources/ofdm/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46540498",
+    "title": "The Jeff Dean Facts",
+    "url": "https://github.com/LRitzdorf/TheJeffDeanFacts",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46544524",
+    "title": "Show HN: macOS menu bar app to track Claude usage in real time",
+    "url": "https://github.com/richhickson/claudecodeusage",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46537253",
+    "title": "Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes",
+    "url": "https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46544610",
+    "title": "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
+    "url": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46547345",
+    "title": "Flint Confirms Biodegradable Paper Batteries Are Now in Production",
+    "url": "https://audioxpress.com/news/flint-confirms-biodegradable-paper-batteries-are-now-in-production",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-09T04:34:57.542Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
