@@ -1,10 +1,10 @@
 [
   {
     "id": "hackernews-46560445",
-    "title": "Erdos problem #728 was solved more or less autonomously by AI",
+    "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
     "url": "https://mathstodon.xyz/@tao/115855840223258103",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T21:12:41.564Z",
+    "publishedAt": "2026-01-10T22:13:51.765Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,28 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46566465",
-    "title": "I replaced Windows with Linux and everything's going great",
-    "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T21:12:41.564Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46564762",
     "title": "New information extracted from Snowden PDFs through metadata version analysis",
     "url": "https://libroot.org/posts/going-through-snowden-documents-part-4/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T21:12:41.564Z",
+    "publishedAt": "2026-01-10T22:13:51.765Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "UK government exempting itself from cyber law inspires little confidence",
     "url": "https://www.theregister.com/2026/01/10/csr_bill_analysis/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T21:12:41.564Z",
+    "publishedAt": "2026-01-10T22:13:51.765Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,24 @@
     "title": "Allow me to introduce, the Citroen C15",
     "url": "https://eupolicy.social/@jmaris/115860595238097654",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T21:12:41.564Z",
+    "publishedAt": "2026-01-10T22:13:51.765Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46566812",
+    "title": "Open Chaos: A self-evolving open-source project",
+    "url": "https://www.openchaos.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T22:13:51.764Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,24 @@
     "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
     "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T21:12:41.563Z",
+    "publishedAt": "2026-01-10T22:13:51.764Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46566465",
+    "title": "I replaced Windows with Linux and everything's going great",
+    "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T22:13:51.764Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
