@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46560445",
-    "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
-    "url": "https://mathstodon.xyz/@tao/115855840223258103",
+    "id": "hackernews-46565265",
+    "title": "Show HN: Yuanzai World – LLM RPGs with branching world-lines",
+    "url": "https://www.yuanzai.world/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T17:12:17.313Z",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,62 @@
     "score": 8
   },
   {
-    "id": "hackernews-46564696",
-    "title": "Allow me to introduce, the Citroen C15",
-    "url": "https://eupolicy.social/@jmaris/115860595238097654",
+    "id": "hackernews-46567392",
+    "title": "AI is a business model stress test",
+    "url": "https://dri.es/ai-is-a-business-model-stress-test",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T17:12:17.313Z",
+    "publishedAt": "2026-01-10T18:20:14.124Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46560445",
+    "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
+    "url": "https://mathstodon.xyz/@tao/115855840223258103",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.124Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46511555",
+    "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
+    "url": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.124Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46508956",
+    "title": "Time Travelling and Fixing Bugs with Property-Based Testing (2019)",
+    "url": "https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +89,24 @@
     "title": "JavaScript Demos in 140 Characters",
     "url": "https://beta.dwitter.net/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T17:12:17.313Z",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46524379",
+    "title": "Changes to Android Open Source Project",
+    "url": "https://source.android.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +123,126 @@
     "title": "How Markdown took over the world",
     "url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T17:12:17.313Z",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46506261",
+    "title": "Ask HN: What's a standard way for apps to request text completion as a service?",
+    "url": "https://news.ycombinator.com/item?id=46506261",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46560217",
+    "title": "Start your meetings at 5 minutes past",
+    "url": "https://philipotoole.com/start-your-meetings-at-5-minutes-past/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46567696",
+    "title": "Circumcision classed as possible child abuse in draft CPS document",
+    "url": "https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46477290",
+    "title": "Janderland/fenv: FoundationDB development environment",
+    "url": "https://github.com/janderland/fenv",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46473897",
+    "title": "Alien: Braun Aromaster KF 20 Coffee Makers (2012)",
+    "url": "http://alienexplorations.blogspot.com/1979/05/kf-20-coffee-making-machine.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46489514",
+    "title": "How will the miracle happen today?",
+    "url": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46562790",
+    "title": "Oh My Zsh adds bloat",
+    "url": "https://rushter.com/blog/zsh-shell/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +259,7 @@
     "title": "Kagi releases alpha version of Orion for Linux",
     "url": "https://help.kagi.com/orion/misc/linux-status.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T17:12:17.313Z",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +276,7 @@
     "title": "How to code Claude Code in 200 lines of code",
     "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T17:12:17.313Z",
+    "publishedAt": "2026-01-10T18:20:14.125Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +289,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-46555760",
-    "title": "Cloudflare CEO on the Italy Fines",
-    "url": "https://twitter.com/eastdakota/status/2009654937303896492",
+    "id": "hackernews-46566812",
+    "title": "Open Chaos: A self-evolving open-source project",
+    "url": "https://www.openchaos.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T17:12:17.313Z",
+    "publishedAt": "2026-01-10T18:20:14.124Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46565132",
+    "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
+    "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.124Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46564696",
+    "title": "Allow me to introduce, the Citroen C15",
+    "url": "https://eupolicy.social/@jmaris/115860595238097654",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T18:20:14.124Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
