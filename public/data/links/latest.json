@@ -1,10 +1,10 @@
 [
   {
     "id": "hackernews-46560445",
-    "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
+    "title": "Erdos problem #728 was solved more or less autonomously by AI",
     "url": "https://mathstodon.xyz/@tao/115855840223258103",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
+    "publishedAt": "2026-01-10T21:12:41.564Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -15,166 +15,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-46511555",
-    "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
-    "url": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46567392",
-    "title": "AI is a business model stress test",
-    "url": "https://dri.es/ai-is-a-business-model-stress-test",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46569075",
-    "title": "Bichon: A lightweight, high-performance Rust email archiver with WebUI",
-    "url": "https://github.com/rustmailer/bichon",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.272Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46547024",
-    "title": "Side-by-side comparison of how AI models answer moral dilemmas",
-    "url": "https://civai.org/p/ai-values",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.272Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46535143",
-    "title": "Distributed Denial of Secrets",
-    "url": "https://ddosecrets.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46543518",
-    "title": "GPU memory snapshots: sub-second startup (2025)",
-    "url": "https://modal.com/blog/gpu-mem-snapshots",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46565731",
-    "title": "UK government exempting itself from cyber law inspires little confidence",
-    "url": "https://www.theregister.com/2026/01/10/csr_bill_analysis/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46567458",
-    "title": "UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance",
-    "url": "https://up.codes/careers?utm_source=HN",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46524554",
-    "title": "Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml",
-    "url": "https://github.com/avsm/httpz",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-46566465",
     "title": "I replaced Windows with Linux and everything's going great",
     "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
+    "publishedAt": "2026-01-10T21:12:41.564Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +34,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46535691",
-    "title": "How we made v0 an effective coding agent",
-    "url": "https://vercel.com/blog/how-we-made-v0-an-effective-coding-agent",
+    "id": "hackernews-46564762",
+    "title": "New information extracted from Snowden PDFs through metadata version analysis",
+    "url": "https://libroot.org/posts/going-through-snowden-documents-part-4/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
+    "publishedAt": "2026-01-10T21:12:41.564Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,79 +51,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46474065",
-    "title": "Reverse Engineering the Epson FilmScan 200 for Classic Mac",
-    "url": "https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/",
+    "id": "hackernews-46565731",
+    "title": "UK government exempting itself from cyber law inspires little confidence",
+    "url": "https://www.theregister.com/2026/01/10/csr_bill_analysis/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46512743",
-    "title": "Creating Embroidered Charts with R and ImageMagick",
-    "url": "https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46508956",
-    "title": "Time Travelling and Fixing Bugs with Property-Based Testing (2019)",
-    "url": "https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46544009",
-    "title": "Good Judgment Open",
-    "url": "https://www.gjopen.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46557489",
-    "title": "JavaScript Demos in 140 Characters",
-    "url": "https://beta.dwitter.net/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
+    "publishedAt": "2026-01-10T21:12:41.564Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +72,7 @@
     "title": "Allow me to introduce, the Citroen C15",
     "url": "https://eupolicy.social/@jmaris/115860595238097654",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
+    "publishedAt": "2026-01-10T21:12:41.564Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,28 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46524379",
-    "title": "Changes to Android Open Source Project",
-    "url": "https://source.android.com/",
+    "id": "hackernews-46565132",
+    "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
+    "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46560217",
-    "title": "Start your meetings at 5 minutes past",
-    "url": "https://philipotoole.com/start-your-meetings-at-5-minutes-past/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T20:15:56.273Z",
+    "publishedAt": "2026-01-10T21:12:41.563Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
