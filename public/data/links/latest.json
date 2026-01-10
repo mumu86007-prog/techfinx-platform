@@ -1,10 +1,27 @@
 [
   {
-    "id": "hackernews-46484808",
-    "title": "Show HN: I built a tool to create AI agents that live in iMessage",
-    "url": "https://tryflux.ai/",
+    "id": "hackernews-46557057",
+    "title": "My article on why AI is great (or terrible) or how to use it",
+    "url": "https://matthewrocklin.com/ai-zealotry/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.318Z",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46549231",
+    "title": "Show HN: A website that auctions itself daily",
+    "url": "https://www.thedailyauction.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -18,10 +35,10 @@
   },
   {
     "id": "hackernews-46560445",
-    "title": "Erdos problem #728 was solved more or less autonomously by AI",
+    "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
     "url": "https://mathstodon.xyz/@tao/115855840223258103",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
+    "publishedAt": "2026-01-10T03:18:53.412Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,45 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46561302",
-    "title": "Caltrain shows why every region should be moving toward regional rail",
-    "url": "https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/",
+    "id": "hackernews-46557029",
+    "title": "Show HN: Scroll Wikipedia like TikTok",
+    "url": "https://quack.sdan.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46557823",
-    "title": "Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)",
-    "url": "https://github.com/Hiepler/EuConform",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46555963",
-    "title": "The Vietnam government has banned rooted phones from using any banking app",
-    "url": "https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.318Z",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46511903",
-    "title": "Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side",
-    "url": "https://puzer.github.io/github_recommender/",
+    "id": "hackernews-46556695",
+    "title": "How Markdown took over the world",
+    "url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.318Z",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,130 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46549333",
-    "title": "Show HN: Various shape regularization algorithms",
-    "url": "https://github.com/nickponline/shreg",
+    "id": "hackernews-46560343",
+    "title": "Pre-commit lint checks: Vibe coding's kryptonite",
+    "url": "https://www.getseer.dev/blogs/pre-commit-linting-vibe-coding",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.318Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46557233",
-    "title": "Exercise can be nearly as effective as therapy for depression",
-    "url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.318Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46481124",
-    "title": "Design duality and the expression problem (2018)",
-    "url": "https://www.tedinski.com/2018/02/27/the-expression-problem.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.318Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46555760",
-    "title": "Cloudflare CEO on the Italy fines",
-    "url": "https://twitter.com/eastdakota/status/2009654937303896492",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.318Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46557489",
-    "title": "JavaScript Demos in 140 Characters",
-    "url": "https://beta.dwitter.net/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46558148",
-    "title": "RTX 5090 and Raspberry Pi: Can It Game?",
-    "url": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46555807",
-    "title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times",
-    "url": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46557879",
-    "title": "Show HN: Rocket Launch and Orbit Simulator",
-    "url": "https://www.donutthejedi.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +106,7 @@
     "title": "Scientists discover oldest poison, on 60k-year-old arrows",
     "url": "https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +119,113 @@
     "score": 6
   },
   {
-    "id": "hackernews-46489514",
-    "title": "How will the miracle happen today?",
-    "url": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/",
+    "id": "hackernews-46555760",
+    "title": "Cloudflare CEO on the Italy Fines",
+    "url": "https://twitter.com/eastdakota/status/2009654937303896492",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46545636",
+    "title": "Robotopia: A 3D, first-person, talking simulator",
+    "url": "https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46547580",
+    "title": "Show HN: Yellopages – New tab Chrome extension",
+    "url": "https://yellopages.kawaicheung.io/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46559761",
+    "title": "Deno has made its PyPI distribution official",
+    "url": "https://github.com/denoland/deno/issues/31254",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46556210",
+    "title": "Show HN: I made a memory game to teach you to play piano by ear",
+    "url": "https://lend-me-your-ears.specr.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46557352",
+    "title": "Turn a single image into a navigable 3D Gaussian Splat with depth",
+    "url": "https://lab.revelium.studio/ml-sharp",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46553343",
+    "title": "Kagi releases alpha version of Orion for Linux",
+    "url": "https://help.kagi.com/orion/misc/linux-status.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,24 +242,7 @@
     "title": "The (likely?) cheapest home-made Michelson interferometer",
     "url": "https://guille.site/posts/3d-printed-michelson/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46561286",
-    "title": "See it with your lying ears",
-    "url": "https://lcamtuf.substack.com/p/see-it-with-your-lying-ears",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +259,7 @@
     "title": "QtNat – Open you port with Qt UPnP",
     "url": "http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +272,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46557029",
-    "title": "Show HN: Scroll Wikipedia like TikTok",
-    "url": "https://quack.sdan.io/",
+    "id": "hackernews-46561286",
+    "title": "See it with your lying ears",
+    "url": "https://lcamtuf.substack.com/p/see-it-with-your-lying-ears",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-10T01:08:21.317Z",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46511903",
+    "title": "Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side",
+    "url": "https://puzer.github.io/github_recommender/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46556822",
+    "title": "Replit (YC W18) Is Hiring",
+    "url": "https://jobs.ashbyhq.com/replit",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46554897",
+    "title": "Amiga Pointer Archive",
+    "url": "https://heckmeck.de/pointers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-10T03:18:53.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
