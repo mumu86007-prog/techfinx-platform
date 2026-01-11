@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46516807",
-    "title": "\"Food JPEGs\" in Super Smash Bros. & Kirby Air Riders",
-    "url": "https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46525271",
-    "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
-    "url": "https://github.com/vojtapolasek/vojtux",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46571980",
     "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
     "url": "https://github.com/OlaProeis/Ferrite",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
+    "publishedAt": "2026-01-11T16:17:06.053Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "AI is a business model stress test",
     "url": "https://dri.es/ai-is-a-business-model-stress-test",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
+    "publishedAt": "2026-01-11T16:17:06.053Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +38,7 @@
     "title": "Don't fall into the anti-AI hype",
     "url": "https://antirez.com/news/158",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
+    "publishedAt": "2026-01-11T16:17:06.053Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,147 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46569061",
-    "title": "Show HN: Play poker with LLMs, or watch them play against each other",
-    "url": "https://llmholdem.com/",
+    "id": "hackernews-46574707",
+    "title": "I dumped Windows 11 for Linux, and you should too",
+    "url": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46575804",
-    "title": "Happy 50th Birthday KIM-1",
-    "url": "https://github.com/netzherpes/KIM1-Demo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46551602",
-    "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
-    "url": "https://0xghost.dev/blog/std-move-deep-dive/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46574475",
-    "title": "Think of Pavlov",
-    "url": "https://boz.com/articles/think-pavlov",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46574961",
-    "title": "BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5",
-    "url": "https://github.com/amcchord/M5Tab-Macintosh",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46573001",
-    "title": "The Concise TypeScript Book",
-    "url": "https://github.com/gibbok/typescript-book",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46565833",
-    "title": "Show HN: Porting xv6 to HiFive Unmatched board",
-    "url": "https://github.com/eyengin/xv6-riscv-unmatched",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46573688",
-    "title": "More than one hundred years of Film Sizes",
-    "url": "https://wichm.home.xs4all.nl/filmsize.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46574640",
-    "title": "HTML-only conditional lazy loading (via preload and media)",
-    "url": "https://orga.cat/blog/html-conditional-lazy-loading/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
+    "publishedAt": "2026-01-11T16:17:06.053Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,24 +72,7 @@
     "title": "Finding and fixing Ghostty's largest memory leak",
     "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46575224",
-    "title": "Iran Shuts Down Starlink Internet for First Time",
-    "url": "https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
+    "publishedAt": "2026-01-11T16:17:06.053Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +89,7 @@
     "title": "Show HN: I used Claude Code to discover connections between 100 books",
     "url": "https://trails.pieterma.es/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
+    "publishedAt": "2026-01-11T16:17:06.053Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +106,7 @@
     "title": "Code and Let Live",
     "url": "https://fly.io/blog/code-and-let-live/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
+    "publishedAt": "2026-01-11T16:17:06.053Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,28 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46525236",
-    "title": "CPU Counters on Apple Silicon: article + tool",
-    "url": "https://blog.bugsiki.dev/posts/apple-pmu/",
+    "id": "hackernews-46566812",
+    "title": "Open Chaos: A self-evolving open-source project",
+    "url": "https://www.openchaos.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46507891",
-    "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T15:13:59.112Z",
+    "publishedAt": "2026-01-11T16:17:06.053Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
