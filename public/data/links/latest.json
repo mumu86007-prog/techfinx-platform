@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46571980",
+    "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+    "url": "https://github.com/OlaProeis/Ferrite",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46569061",
     "title": "Show HN: Play poker with LLMs, or watch them play against each other",
     "url": "https://llmholdem.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "AI is a business model stress test",
     "url": "https://dri.es/ai-is-a-business-model-stress-test",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Show HN: GlyphLang – An AI-first programming language",
     "url": "https://news.ycombinator.com/item?id=46571166",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,45 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46547024",
-    "title": "Side-by-side comparison of how AI models answer moral dilemmas",
-    "url": "https://civai.org/p/ai-values",
+    "id": "hackernews-46568794",
+    "title": "Finding and fixing Ghostty's largest memory leak",
+    "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46571095",
-    "title": "Private equity firms acquired more than 500 autism centers in past decade: study",
-    "url": "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46571149",
-    "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
-    "url": "https://news.ycombinator.com/item?id=46571149",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +89,7 @@
     "title": "Show HN: I used Claude Code to discover connections between 100 books",
     "url": "https://trails.pieterma.es/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46568794",
-    "title": "Finding and fixing Ghostty's largest memory leak",
-    "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+    "id": "hackernews-46571149",
+    "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+    "url": "https://news.ycombinator.com/item?id=46571149",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,7 @@
     "title": "Open Chaos: A self-evolving open-source project",
     "url": "https://www.openchaos.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -154,10 +137,10 @@
   },
   {
     "id": "hackernews-46565132",
-    "title": "Eulogy for Dark Sky, a data visualization masterpiece (2023)",
+    "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
     "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +157,7 @@
     "title": "Code and Let Live",
     "url": "https://fly.io/blog/code-and-let-live/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +170,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46481060",
-    "title": "1970 Paris, cut into a grid and photographed",
-    "url": "https://paris1970.jeantho.eu/index.html",
+    "id": "hackernews-46513163",
+    "title": "Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)",
+    "url": "https://github.com/apify/mcp-cli",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46521823",
+    "title": "Brands upset Buy For Me is featuring their products on Amazon without permission",
+    "url": "https://www.modernretail.co/technology/brands-are-upset-that-buy-for-me-is-featuring-their-products-on-amazon-without-permission/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +208,7 @@
     "title": "Code Is Clay",
     "url": "https://campedersen.com/code-is-clay",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46569312",
-    "title": "Overdose deaths are falling in America because of a 'supply shock': study",
-    "url": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
+    "id": "hackernews-46571707",
+    "title": "Grateful Dead co-founder Bob Weir has died at age 78",
+    "url": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,28 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46568662",
-    "title": "Rats caught on camera hunting flying bats",
-    "url": "https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/",
+    "id": "hackernews-46571760",
+    "title": "Kodbox: Open-source cloud desktop with multi-storage fusion and web IDE",
+    "url": "https://github.com/kalcaddle/kodbox",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46538628",
-    "title": "ASCII-Driven Development",
-    "url": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +259,7 @@
     "title": "ChatGPT Health is a marketplace, guess who is the product?",
     "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46500873",
-    "title": "The eight ways that all the elements in the Universe are made (2021)",
-    "url": "https://bigthink.com/starts-with-a-bang/8-ways-elements-made/",
+    "id": "hackernews-46538628",
+    "title": "ASCII-Driven Development",
+    "url": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46566465",
-    "title": "I replaced Windows with Linux and everything's going great",
-    "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+    "id": "hackernews-46568662",
+    "title": "Rats caught on camera hunting flying bats",
+    "url": "https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +306,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46522358",
-    "title": "A child in the state of nature",
-    "url": "https://lareviewofbooks.org/article/a-child-in-the-state-of-nature/",
+    "id": "hackernews-46572060",
+    "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+    "url": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T01:17:18.757Z",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46571095",
+    "title": "Private equity firms acquired more than 500 autism centers in past decade: study",
+    "url": "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T03:44:41.204Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
