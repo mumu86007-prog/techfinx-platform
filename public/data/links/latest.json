@@ -4,7 +4,7 @@
     "title": "Don't fall into the anti-AI hype",
     "url": "https://antirez.com/news/158",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T22:13:54.419Z",
+    "publishedAt": "2026-01-11T23:14:13.334Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,45 @@
     "score": 8
   },
   {
+    "id": "hackernews-46578921",
+    "title": "iCloud Photos Downloader",
+    "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T23:14:13.334Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46574769",
     "title": "Gentoo Linux 2025 Review",
     "url": "https://www.gentoo.org/news/2026/01/05/new-year.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T22:13:54.419Z",
+    "publishedAt": "2026-01-11T23:14:13.334Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46578701",
+    "title": "Anthropic: Developing a Claude Code competitor using Claude Code is banned",
+    "url": "https://twitter.com/SIGKITTEN/status/2009697031422652461",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T23:14:13.334Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +72,7 @@
     "title": "Meta announces nuclear energy projects",
     "url": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T22:13:54.419Z",
+    "publishedAt": "2026-01-11T23:14:13.334Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +89,7 @@
     "title": "I dumped Windows 11 for Linux, and you should too",
     "url": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T22:13:54.419Z",
+    "publishedAt": "2026-01-11T23:14:13.334Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,24 +106,7 @@
     "title": "The struggle of resizing windows on macOS Tahoe",
     "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T22:13:54.418Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46578921",
-    "title": "iCloud Photos Downloader",
-    "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T22:13:54.418Z",
+    "publishedAt": "2026-01-11T23:14:13.333Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
