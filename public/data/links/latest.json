@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-46572769",
-    "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
-    "url": "https://www.bbc.com/news/articles/c623r47d67lo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46567392",
-    "title": "AI is a business model stress test",
-    "url": "https://dri.es/ai-is-a-business-model-stress-test",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46569061",
-    "title": "Show HN: Play poker with LLMs, or watch them play against each other",
-    "url": "https://llmholdem.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46525271",
     "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
     "url": "https://github.com/vojtapolasek/vojtux",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.050Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +21,7 @@
     "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
     "url": "https://github.com/OlaProeis/Ferrite",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.050Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +34,62 @@
     "score": 8
   },
   {
-    "id": "hackernews-46525236",
-    "title": "CPU Counters on Apple Silicon: article + tool",
-    "url": "https://blog.bugsiki.dev/posts/apple-pmu/",
+    "id": "hackernews-46572769",
+    "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
+    "url": "https://www.bbc.com/news/articles/c623r47d67lo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46567392",
+    "title": "AI is a business model stress test",
+    "url": "https://dri.es/ai-is-a-business-model-stress-test",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46569061",
+    "title": "Show HN: Play poker with LLMs, or watch them play against each other",
+    "url": "https://llmholdem.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46573001",
+    "title": "The Concise TypeScript Book",
+    "url": "https://github.com/gibbok/typescript-book",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46572060",
-    "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
-    "url": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
+    "id": "hackernews-46573688",
+    "title": "More than one hundred years of Film Sizes",
+    "url": "https://wichm.home.xs4all.nl/filmsize.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46524483",
-    "title": "An Experimental Approach to Printf in HLSL",
-    "url": "https://www.abolishcrlf.org//2025/12/31/Printf.html",
+    "id": "hackernews-46507891",
+    "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +136,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46566812",
-    "title": "Open Chaos: A self-evolving open-source project",
-    "url": "https://www.openchaos.dev/",
+    "id": "hackernews-46568794",
+    "title": "Finding and fixing Ghostty's largest memory leak",
+    "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46567400",
+    "title": "Show HN: I used Claude Code to discover connections between 100 books",
+    "url": "https://trails.pieterma.es/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,7 @@
     "title": "Code and Let Live",
     "url": "https://fly.io/blog/code-and-let-live/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46572304",
-    "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
-    "url": "https://github.com/unhaya/vam-seek",
+    "id": "hackernews-46572060",
+    "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+    "url": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46571149",
-    "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
-    "url": "https://news.ycombinator.com/item?id=46571149",
+    "id": "hackernews-46572679",
+    "title": "My Home Fibre Network Disintegrated",
+    "url": "https://alienchow.dev/post/fibre_disintegration/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46569312",
-    "title": "Overdose deaths are falling in America because of a 'supply shock': study",
-    "url": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
+    "id": "hackernews-46566812",
+    "title": "Open Chaos: A self-evolving open-source project",
+    "url": "https://www.openchaos.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46573384",
-    "title": "Iranian regime tries to shut down Starlink",
-    "url": "https://www.timesofisrael.com/iran-appears-to-jam-starlink-after-shutting-down-comms-networks/",
+    "id": "hackernews-46524483",
+    "title": "An Experimental Approach to Printf in HLSL",
+    "url": "https://www.abolishcrlf.org//2025/12/31/Printf.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,45 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46572723",
-    "title": "Ripple: The Elegant TypeScript UI Framework",
-    "url": "https://jsdev.space/meet-ripple/",
+    "id": "hackernews-46525236",
+    "title": "CPU Counters on Apple Silicon: article + tool",
+    "url": "https://blog.bugsiki.dev/posts/apple-pmu/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46541533",
-    "title": "ChatGPT Health is a marketplace, guess who is the product?",
-    "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46572032",
-    "title": "Sisyphus Now Lives in Oh My Claude",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +276,7 @@
     "title": "I build products to get \"unplugged\" from the internet",
     "url": "https://getunplugged.io/I-build-products-to-get-unplugged",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46538628",
-    "title": "ASCII-Driven Development",
-    "url": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
+    "id": "hackernews-46572304",
+    "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
+    "url": "https://github.com/unhaya/vam-seek",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +306,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46513163",
-    "title": "Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)",
-    "url": "https://github.com/apify/mcp-cli",
+    "id": "hackernews-46571149",
+    "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+    "url": "https://news.ycombinator.com/item?id=46571149",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T08:19:32.051Z",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46569312",
+    "title": "Overdose deaths are falling in America because of a 'supply shock': study",
+    "url": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T09:15:09.318Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
