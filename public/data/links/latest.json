@@ -4,24 +4,7 @@
     "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
     "url": "https://github.com/OlaProeis/Ferrite",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46569061",
-    "title": "Show HN: Play poker with LLMs, or watch them play against each other",
-    "url": "https://llmholdem.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "AI is a business model stress test",
     "url": "https://dri.es/ai-is-a-business-model-stress-test",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +34,45 @@
     "score": 8
   },
   {
+    "id": "hackernews-46569061",
+    "title": "Show HN: Play poker with LLMs, or watch them play against each other",
+    "url": "https://llmholdem.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46572679",
+    "title": "My Home Fibre Network Disintegrated",
+    "url": "https://alienchow.dev/post/fibre_disintegration/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46568794",
     "title": "Finding and fixing Ghostty's largest memory leak",
     "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,24 +89,7 @@
     "title": "Show HN: I used Claude Code to discover connections between 100 books",
     "url": "https://trails.pieterma.es/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46572304",
-    "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
-    "url": "https://github.com/unhaya/vam-seek",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,24 +106,7 @@
     "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
     "url": "https://news.ycombinator.com/item?id=46571149",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46566812",
-    "title": "Open Chaos: A self-evolving open-source project",
-    "url": "https://www.openchaos.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,7 @@
     "title": "CPU Counters on Apple Silicon: article + tool",
     "url": "https://blog.bugsiki.dev/posts/apple-pmu/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46572060",
-    "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
-    "url": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
+    "id": "hackernews-46566812",
+    "title": "Open Chaos: A self-evolving open-source project",
+    "url": "https://www.openchaos.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,45 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46565132",
-    "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
-    "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
+    "id": "hackernews-46572304",
+    "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
+    "url": "https://github.com/unhaya/vam-seek",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46557825",
-    "title": "Code and Let Live",
-    "url": "https://fly.io/blog/code-and-let-live/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46558284",
-    "title": "Datadog, thank you for blocking us",
-    "url": "https://www.deductive.ai/blogs/datadog-thank-you-for-blocking-us",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +174,7 @@
     "title": "Brands upset Buy For Me is featuring their products on Amazon without permission",
     "url": "https://www.modernretail.co/technology/brands-are-upset-that-buy-for-me-is-featuring-their-products-on-amazon-without-permission/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +187,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-46572032",
-    "title": "Sisyphus Now Lives in Oh My Claude",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "id": "hackernews-46572060",
+    "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+    "url": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46565132",
+    "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
+    "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46557825",
+    "title": "Code and Let Live",
+    "url": "https://fly.io/blog/code-and-let-live/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +242,7 @@
     "title": "Overdose deaths are falling in America because of a 'supply shock': study",
     "url": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46569225",
-    "title": "Code Is Clay",
-    "url": "https://campedersen.com/code-is-clay",
+    "id": "hackernews-46572392",
+    "title": "Workers at Redmond SpaceX lab exposed to toxic chemicals",
+    "url": "https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +276,7 @@
     "title": "Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)",
     "url": "https://github.com/apify/mcp-cli",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46541533",
-    "title": "ChatGPT Health is a marketplace, guess who is the product?",
-    "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
+    "id": "hackernews-46572032",
+    "title": "Sisyphus Now Lives in Oh My Claude",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +306,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46571707",
-    "title": "Bob Weir has died",
-    "url": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/",
+    "id": "hackernews-46524483",
+    "title": "An Experimental Approach to Printf in HLSL",
+    "url": "https://www.abolishcrlf.org//2025/12/31/Printf.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-11T04:41:48.318Z",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46569225",
+    "title": "Code Is Clay",
+    "url": "https://campedersen.com/code-is-clay",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-11T05:20:14.264Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
