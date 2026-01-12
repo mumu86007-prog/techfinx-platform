@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46591170",
-    "title": "Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI",
-    "url": "https://news.ycombinator.com/item?id=46591170",
+    "id": "hackernews-46590280",
+    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,14 @@
       "开发者",
       "社区"
     ],
-    "score": 9
+    "score": 8
   },
   {
     "id": "hackernews-46591100",
     "title": "Show HN: AI in SolidWorks",
     "url": "https://www.trylad.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
     "url": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,62 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46589489",
-    "title": "Statement from Federal Reserve Chair",
-    "url": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm?mod=ANLink",
+    "id": "hackernews-46591708",
+    "title": "Postal Arbitrage",
+    "url": "https://walzr.com/postal-arbitrage",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46590280",
-    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
-    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.735Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46588319",
-    "title": "Ireland fast tracks Bill to criminalise harmful voice or image misuse",
-    "url": "https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46588837",
-    "title": "LLVM: The bad parts",
-    "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +72,7 @@
     "title": "Date is out, Temporal is in",
     "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +85,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-46587934",
-    "title": "Floppy disks turn out to be the greatest TV remote for kids",
-    "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+    "id": "hackernews-46588837",
+    "title": "LLVM: The bad parts",
+    "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46581095",
+    "title": "Unauthenticated remote code execution in OpenCode",
+    "url": "https://cy.md/opencode-rce/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46592461",
+    "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
+    "url": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +140,7 @@
     "title": "Message Queues: A Simple Guide with Analogies",
     "url": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46579864",
-    "title": "The struggle of resizing windows on macOS Tahoe",
-    "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+    "id": "hackernews-46587934",
+    "title": "Floppy disks turn out to be the greatest TV remote for kids",
+    "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46588572",
-    "title": "Reproducing DeepSeek's MHC: When Residual Connections Explode",
-    "url": "https://taylorkolasinski.com/notes/mhc-reproduction/",
+    "id": "hackernews-46591974",
+    "title": "Iran has now been offline for 96 hours",
+    "url": "https://twitter.com/netblocks/status/2010750871274160361",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +191,7 @@
     "title": "Building a 25 Gbit/s workstation for the SCION Association",
     "url": "https://github.com/scionassociation/blog-25gbit-workstation",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,45 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46587498",
-    "title": "Launch a Debugging Terminal into GitHub Actions",
-    "url": "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/",
+    "id": "hackernews-46589675",
+    "title": "Apple picks Google's Gemini to power Siri",
+    "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46525639",
-    "title": "Personal thoughts/notes from working on Zootopia 2",
-    "url": "https://blog.yiningkarlli.com/2025/12/zootopia-2.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46525477",
-    "title": "History's Attention Gap",
-    "url": "https://kidopoly.com/research/attention-gap/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +225,41 @@
     "title": "Zen-C: Write like a high-level language, run like C",
     "url": "https://github.com/z-libs/Zen-C",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46588572",
+    "title": "Reproducing DeepSeek's MHC: When Residual Connections Explode",
+    "url": "https://taylorkolasinski.com/notes/mhc-reproduction/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46587498",
+    "title": "Launch a Debugging Terminal into GitHub Actions",
+    "url": "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +276,7 @@
     "title": "Anthropic made a mistake in cutting off third-party clients",
     "url": "https://archaeologist.dev/artifacts/anthropic",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46586179",
-    "title": "Lightpanda migrate DOM implementation to Zig",
-    "url": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
+    "id": "hackernews-46525639",
+    "title": "Personal thoughts/notes from working on Zootopia 2",
+    "url": "https://blog.yiningkarlli.com/2025/12/zootopia-2.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +310,24 @@
     "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
     "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T18:23:38.736Z",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46586179",
+    "title": "Lightpanda migrate DOM implementation to Zig",
+    "url": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T19:16:41.507Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
