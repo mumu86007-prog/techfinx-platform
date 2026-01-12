@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46574276",
+    "title": "Don't fall into the anti-AI hype",
+    "url": "https://antirez.com/news/158",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46577464",
+    "title": "Poison Fountain",
+    "url": "https://rnsaffn.com/poison3/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46579864",
+    "title": "The struggle of resizing windows on macOS Tahoe",
+    "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46580326",
+    "title": "2026 is the year of self-hosting",
+    "url": "https://fulghum.io/self-hosting",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46580864",
+    "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
+    "url": "https://iczelia.net/posts/snake-polyglot/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46578921",
+    "title": "iCloud Photos Downloader",
+    "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46582728",
+    "title": "Which programming languages are most token-efficient?",
+    "url": "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46583464",
+    "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+    "url": "https://www.bbc.com/news/articles/clyndv7zd20o",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46539478",
+    "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
+    "url": "https://www.youtube.com/watch?v=il-TXbn5iMA",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46579374",
+    "title": "Sampling at negative temperature",
+    "url": "https://cavendishlabs.org/blog/negative-temperature/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46583410",
+    "title": "Code is cheap now, but software isn't",
+    "url": "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46580136",
+    "title": "FUSE is All You Need – Giving agents access to anything via filesystems",
+    "url": "https://jakobemmerling.de/posts/fuse-is-all-you-need/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46578867",
+    "title": "Erich von Däniken has died",
+    "url": "https://daniken.com/en/startseite-english/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46582033",
+    "title": "Gadget Exposed a Spy Camera [video]",
+    "url": "https://www.youtube.com/watch?v=1reman2waLs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46583581",
+    "title": "Show HN: An LLM-optimized programming language",
+    "url": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46525389",
+    "title": "Elo – A data expression language which compiles to JavaScript, Ruby, and SQL",
+    "url": "https://elo-lang.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46559452",
+    "title": "Garbage collection is contrarian",
+    "url": "https://trynova.dev/blog/garbage-collection-is-contrarian",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46543509",
+    "title": "Perfectly Replicating Coca Cola [video]",
+    "url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46515625",
+    "title": "Insights into Claude Opus 4.5 from Pokémon",
+    "url": "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46582762",
+    "title": "Uncrossy",
+    "url": "https://uncrossy.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T05:24:48.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
