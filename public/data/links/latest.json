@@ -4,7 +4,24 @@
     "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
     "url": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46523937",
+    "title": "Climbing the mountain: or, venturing into PL theory",
+    "url": "https://techne98.com/blog/climbing-the-mountain/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "Show HN: Shellock, a real-time CLI flag explainer for fish shell",
     "url": "https://github.com/ibehnam/shellock",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -32,47 +49,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-46574276",
-    "title": "Don't fall into the anti-AI hype",
-    "url": "https://antirez.com/news/158",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46579864",
-    "title": "The struggle of resizing windows on macOS Tahoe",
-    "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-46586179",
     "title": "Lightpanda migrate DOM implementation to Zig",
     "url": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,62 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46587033",
-    "title": "How to Build Reactive Declarative UI in Vanilla JavaScript",
-    "url": "https://jsdev.space/howto/reactive-vanilla-js/",
+    "id": "hackernews-46587804",
+    "title": "Zen-C: Write like a high-level language, run like C",
+    "url": "https://github.com/z-libs/Zen-C",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46587536",
-    "title": "Ozempic reduced grocery spending by an average of 5.3% in the US",
-    "url": "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46526896",
-    "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
-    "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46580326",
-    "title": "CLI agents make self-hosting on a home server easier and fun",
-    "url": "https://fulghum.io/self-hosting",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +89,58 @@
     "title": "Launch a Debugging Terminal into GitHub Actions",
     "url": "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46526896",
+    "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
+    "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46526809",
+    "title": "Show HN: 30k IKEA items in flat text (CommerceTXT). 24% smaller than JSON",
+    "url": "https://huggingface.co/datasets/tsazan/ikea-us-commercetxt",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46580326",
+    "title": "CLI agents make self-hosting on a home server easier and fun",
+    "url": "https://fulghum.io/self-hosting",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +157,7 @@
     "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
     "url": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46517654",
-    "title": "Show HN: DevicePrint – device fingerprinting without cookies",
-    "url": "https://news.ycombinator.com/item?id=46517654",
+    "id": "hackernews-46587536",
+    "title": "Ozempic reduced grocery spending by an average of 5.3% in the US",
+    "url": "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +191,7 @@
     "title": "iCloud Photos Downloader",
     "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +208,7 @@
     "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
     "url": "https://iczelia.net/posts/snake-polyglot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +225,24 @@
     "title": "Conbini Wars – Map of Japanese convenience store ratios",
     "url": "https://conbini.kikkia.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46586766",
+    "title": "Anthropic Made a Big Mistake",
+    "url": "https://archaeologist.dev/artifacts/anthropic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,24 +259,7 @@
     "title": "XMPP and Metadata",
     "url": "https://blog.mathieui.net/xmpp-and-metadata.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46539478",
-    "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
-    "url": "https://www.youtube.com/watch?v=il-TXbn5iMA",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +276,41 @@
     "title": "The next two years of software engineering",
     "url": "https://addyosmani.com/blog/next-two-years/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46539478",
+    "title": "I'm making a game engine based on dynamic signed distance fields (SDFs) [video]",
+    "url": "https://www.youtube.com/watch?v=il-TXbn5iMA",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46517654",
+    "title": "Show HN: DevicePrint – device fingerprinting without cookies",
+    "url": "https://news.ycombinator.com/item?id=46517654",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "Uncrossy",
     "url": "https://uncrossy.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46580136",
-    "title": "FUSE is All You Need – Giving agents access to anything via filesystems",
-    "url": "https://jakobemmerling.de/posts/fuse-is-all-you-need/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T13:37:54.303Z",
+    "publishedAt": "2026-01-12T14:19:10.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
