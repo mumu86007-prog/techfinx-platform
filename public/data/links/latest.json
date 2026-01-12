@@ -1,299 +1,10 @@
 [
   {
-    "id": "hackernews-46585947",
-    "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
-    "url": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46523937",
-    "title": "Climbing the mountain: or, venturing into PL theory",
-    "url": "https://techne98.com/blog/climbing-the-mountain/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46588319",
-    "title": "Ireland fast tracks Bill to criminalise harmful voice or image misuse",
-    "url": "https://www.irishtimes.com/ireland/2026/01/07/call-to-fast-track-bill-targeting-ai-deepfakes-and-identity-hijacking/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46587934",
-    "title": "Floppy disks turn out to be the greatest TV remote for kids",
-    "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46579864",
-    "title": "The struggle of resizing windows on macOS Tahoe",
-    "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46587804",
-    "title": "Zen-C: Write like a high-level language, run like C",
-    "url": "https://github.com/z-libs/Zen-C",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46588572",
-    "title": "Reproducing DeepSeek's MHC: When Residual Connections Explode",
-    "url": "https://taylorkolasinski.com/notes/mhc-reproduction/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46587498",
-    "title": "Launch a Debugging Terminal into GitHub Actions",
-    "url": "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46588132",
-    "title": "Windows 8 Desktop Environment for Linux",
-    "url": "https://github.com/er-bharat/Win8DE",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46586179",
-    "title": "Lightpanda migrate DOM implementation to Zig",
-    "url": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46526809",
-    "title": "Show HN: 30k IKEA items in flat text",
-    "url": "https://huggingface.co/datasets/tsazan/ikea-us-commercetxt",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46580326",
     "title": "CLI agents make self-hosting on a home server easier and fun",
     "url": "https://fulghum.io/self-hosting",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46588837",
-    "title": "LLVM: The Bad Parts",
-    "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46526896",
-    "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
-    "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46589009",
-    "title": "2025 marked a record-breaking year for Apple services",
-    "url": "https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46553137",
-    "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
-    "url": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46525639",
-    "title": "Personal thoughts/notes from working on Zootopia 2",
-    "url": "https://blog.yiningkarlli.com/2025/12/zootopia-2.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46587536",
-    "title": "Ozempic reduced grocery spending by an average of 5.3% in the US",
-    "url": "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
+    "publishedAt": "2026-01-12T16:20:17.042Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +21,7 @@
     "title": "iCloud Photos Downloader",
     "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
+    "publishedAt": "2026-01-12T16:20:17.042Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +34,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46589386",
-    "title": "Why Ontario Digital Service couldn't procure '98% safe' LLMs (15M Canadians)",
-    "url": "https://rosetta-labs-erb.github.io/authority-boundary-ledger/",
+    "id": "hackernews-46580864",
+    "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
+    "url": "https://iczelia.net/posts/snake-polyglot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T15:19:09.531Z",
+    "publishedAt": "2026-01-12T16:20:17.042Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46587536",
+    "title": "Ozempic reduced grocery spending by an average of 5.3% in the US",
+    "url": "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T16:20:17.042Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46580703",
+    "title": "The next two years of software engineering",
+    "url": "https://addyosmani.com/blog/next-two-years/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T16:20:17.042Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46579864",
+    "title": "The struggle of resizing windows on macOS Tahoe",
+    "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T16:20:17.041Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
