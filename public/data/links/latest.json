@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "id": "hackernews-46590280",
+    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T21:14:48.637Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46589658",
+    "title": "Date is out, Temporal is in",
+    "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T21:14:48.637Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46588837",
+    "title": "LLVM: The bad parts",
+    "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T21:14:48.637Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46587934",
+    "title": "Floppy disks turn out to be the greatest TV remote for kids",
+    "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T21:14:48.637Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46589675",
+    "title": "Apple picks Google's Gemini to power Siri",
+    "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T21:14:48.637Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46579864",
+    "title": "The struggle of resizing windows on macOS Tahoe",
+    "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T21:14:48.637Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46593022",
+    "title": "Cowork: Claude Code for the rest of your work",
+    "url": "https://claude.com/blog/cowork-research-preview",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-12T21:14:48.636Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
