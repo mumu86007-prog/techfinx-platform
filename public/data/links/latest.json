@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46590280",
-    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
-    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+    "id": "hackernews-46540126",
+    "title": "'I rarely get outside': scientists ditch fieldwork in the age of AI",
+    "url": "https://www.nature.com/articles/d41586-025-04150-w",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
     "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Show HN: AI in SolidWorks",
     "url": "https://www.trylad.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46592344",
-    "title": "Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir",
-    "url": "https://github.com/finbarr/yolobox",
+    "id": "hackernews-46595419",
+    "title": "Google removes AI health summaries after investigation finds dangerous flaws",
+    "url": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "GitHub: A case study in link maintenance and 404 pages (2013)",
     "url": "https://chrismorgan.info/blog/github-links-case-study/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,41 @@
     "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
     "url": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46540598",
+    "title": "Using DistributedDataParallel to train a base model from scratch in the cloud",
+    "url": "https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46590280",
+    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T01:07:29.486Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +140,7 @@
     "title": "Perlsecret – Perl secret operators and constants",
     "url": "https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,28 +153,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46593802",
-    "title": "Fabrice Bellard's TS Zip (2024)",
-    "url": "https://www.bellard.org/ts_zip/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46591708",
     "title": "Postal Arbitrage",
     "url": "https://walzr.com/postal-arbitrage",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,24 +174,7 @@
     "title": "Unauthenticated remote code execution in OpenCode",
     "url": "https://cy.md/opencode-rce/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46595130",
-    "title": "F2 (YC S25) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +191,7 @@
     "title": "Date is out, Temporal is in",
     "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +208,24 @@
     "title": "LLVM: The bad parts",
     "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46595130",
+    "title": "F2 (YC S25) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +242,7 @@
     "title": "Floppy disks turn out to be the greatest TV remote for kids",
     "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +259,7 @@
     "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
     "url": "https://github.com/njbrake/agent-of-empires",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,41 +276,7 @@
     "title": "What old tennis players teach us (2017)",
     "url": "https://www.raphkoster.com/2017/09/22/31098/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46591402",
-    "title": "Message Queues: A Simple Guide with Analogies (2024)",
-    "url": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46593819",
-    "title": "Update on age requirements for apps distributed in Texas",
-    "url": "https://developer.apple.com/news/?id=8jzbigf4",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +293,7 @@
     "title": "Apple picks Google's Gemini to power Siri",
     "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +306,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46592376",
-    "title": "Show HN: Fall asleep by watching JavaScript load",
-    "url": "https://github.com/sarusso/bedtime",
+    "id": "hackernews-46591402",
+    "title": "Message Queues: A Simple Guide with Analogies (2024)",
+    "url": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-12T23:12:10.431Z",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46586766",
+    "title": "Anthropic made a mistake in cutting off third-party clients",
+    "url": "https://archaeologist.dev/artifacts/anthropic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T01:07:29.487Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
