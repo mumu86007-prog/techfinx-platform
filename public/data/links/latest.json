@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46590280",
+    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46593395",
+    "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
+    "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46549039",
+    "title": "Zirgen: Compiler for a Domain-Specific Language",
+    "url": "https://github.com/risc0/zirgen",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46591100",
+    "title": "Show HN: AI in SolidWorks",
+    "url": "https://www.trylad.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46592344",
+    "title": "Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir",
+    "url": "https://github.com/finbarr/yolobox",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46595419",
+    "title": "Google removes AI health summaries after investigation finds dangerous flaws",
+    "url": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46593022",
+    "title": "Cowork: Claude Code for the rest of your work",
+    "url": "https://claude.com/blog/cowork-research-preview",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46597518",
+    "title": "Text-Based Web Browsers",
+    "url": "https://cssence.com/2026/text-based-web-browsers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46591708",
+    "title": "Postal Arbitrage",
+    "url": "https://walzr.com/postal-arbitrage",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46557733",
+    "title": "The Cray-1 Computer System (1977) [pdf]",
+    "url": "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46549714",
+    "title": "Implementing a web server in a single printf() call (2014)",
+    "url": "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46587934",
+    "title": "Floppy disks turn out to be the greatest TV remote for kids",
+    "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46581095",
+    "title": "Unauthenticated remote code execution in OpenCode",
+    "url": "https://cy.md/opencode-rce/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46540126",
+    "title": "Some ecologists fear their field is losing touch with nature",
+    "url": "https://www.nature.com/articles/d41586-025-04150-w",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46589658",
+    "title": "Date is out, Temporal is in",
+    "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46530920",
+    "title": "Git Rebase for the Terrified",
+    "url": "https://www.brethorsting.com/blog/2026/01/git-rebase-for-the-terrified/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46593802",
+    "title": "Fabrice Bellard's TS Zip (2024)",
+    "url": "https://www.bellard.org/ts_zip/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46588837",
+    "title": "LLVM: The bad parts",
+    "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46589675",
+    "title": "Apple picks Gemini to power Siri",
+    "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46597927",
+    "title": "Chromium Has Merged JpegXL",
+    "url": "https://chromium-review.googlesource.com/c/chromium/src/+/7184969",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T09:22:32.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
