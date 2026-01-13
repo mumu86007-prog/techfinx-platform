@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-46599341",
-    "title": "Show HN: An iOS budget app I've been maintaining since 2011",
-    "url": "https://primoco.me/en/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46598991",
-    "title": "FOSS in times of war, scarcity and (adversarial) AI [video]",
-    "url": "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46590280",
     "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
     "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46599897",
-    "title": "Owners, not renters: Mozilla's open source AI strategy",
-    "url": "https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +21,7 @@
     "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
     "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,92 +38,7 @@
     "title": "Cowork: Claude Code for the rest of your work",
     "url": "https://claude.com/blog/cowork-research-preview",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46600092",
-    "title": "Show HN: SnackBase – Open-source, GxP-compliant back end for Python teams",
-    "url": "https://snackbase.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46600194",
-    "title": "The UK is shaping a future of Precrime and dissent management",
-    "url": "https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46597518",
-    "title": "Text-Based Web Browsers",
-    "url": "https://cssence.com/2026/text-based-web-browsers/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46554775",
-    "title": "Designing an IPv6-native P2P transport – lessons from building I6P",
-    "url": "https://theushen.medium.com/designing-an-ipv6-native-p2p-transport-lessons-from-building-i6p-b8ca216d1d73",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46600729",
-    "title": "Why have death rates from accidental falls tripled?",
-    "url": "https://usafacts.org/articles/why-have-death-rates-from-accidental-falls-tripled/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +55,7 @@
     "title": "Postal Arbitrage",
     "url": "https://walzr.com/postal-arbitrage",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +72,7 @@
     "title": "Floppy disks turn out to be the greatest TV remote for kids",
     "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,24 +89,7 @@
     "title": "Unauthenticated remote code execution in OpenCode",
     "url": "https://cy.md/opencode-rce/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46540126",
-    "title": "Some ecologists fear their field is losing touch with nature",
-    "url": "https://www.nature.com/articles/d41586-025-04150-w",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +106,7 @@
     "title": "Date is out, Temporal is in",
     "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46600484",
-    "title": "NASA topples towers used to test Saturn rockets, space shuttle",
-    "url": "https://arstechnica.com/space/2026/01/nasa-topples-towers-used-to-test-saturn-rockets-space-shuttle/",
+    "id": "hackernews-46588837",
+    "title": "LLVM: The bad parts",
+    "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46545636",
-    "title": "Robotopia: A 3D, first-person, talking simulator",
-    "url": "https://elbowgreasegames.substack.com/p/introducing-robotopia-a-3d-first",
+    "id": "hackernews-46589675",
+    "title": "Apple picks Gemini to power Siri",
+    "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46557733",
-    "title": "The Cray-1 Computer System (1977) [pdf]",
-    "url": "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf",
+    "id": "hackernews-46597927",
+    "title": "Chromium Has Merged JpegXL",
+    "url": "https://chromium-review.googlesource.com/c/chromium/src/+/7184969",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46549714",
-    "title": "Implementing a web server in a single printf() call (2014)",
-    "url": "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/",
+    "id": "hackernews-46586766",
+    "title": "Anthropic made a mistake in cutting off third-party clients",
+    "url": "https://archaeologist.dev/artifacts/anthropic",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T14:19:27.048Z",
+    "publishedAt": "2026-01-13T15:18:22.845Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
