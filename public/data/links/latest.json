@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46595419",
-    "title": "Google removes AI health summaries after investigation finds dangerous flaws",
-    "url": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+    "id": "hackernews-46534157",
+    "title": "HP Reveals Keyboard Computer with Ryzen AI Chip",
+    "url": "https://www.hp.com/us-en/desktops/business/eliteboard.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.305Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46590280",
-    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
-    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46593395",
-    "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
-    "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "Show HN: AI in SolidWorks",
     "url": "https://www.trylad.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +38,7 @@
     "title": "Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir",
     "url": "https://github.com/finbarr/yolobox",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +51,62 @@
     "score": 8
   },
   {
-    "id": "hackernews-46588905",
-    "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
-    "url": "https://github.com/njbrake/agent-of-empires",
+    "id": "hackernews-46595419",
+    "title": "Google removes AI health summaries after investigation finds dangerous flaws",
+    "url": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.305Z",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46590280",
+    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.140Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46593395",
+    "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
+    "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.140Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46589658",
+    "title": "Date is out, Temporal is in",
+    "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +119,96 @@
     "score": 6
   },
   {
-    "id": "hackernews-46549714",
-    "title": "Implementing a web server in a single printf() call (2014)",
-    "url": "https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/",
+    "id": "hackernews-46593802",
+    "title": "Fabrice Bellard's TS Zip (2024)",
+    "url": "https://www.bellard.org/ts_zip/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.305Z",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46588837",
+    "title": "LLVM: The bad parts",
+    "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46589675",
+    "title": "Apple picks Google's Gemini to power Siri",
+    "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46586766",
+    "title": "Anthropic made a mistake in cutting off third-party clients",
+    "url": "https://archaeologist.dev/artifacts/anthropic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46595130",
+    "title": "F2 (YC S25) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46588905",
+    "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
+    "url": "https://github.com/njbrake/agent-of-empires",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +225,24 @@
     "title": "Windows 8 Desktop Environment for Linux",
     "url": "https://github.com/er-bharat/Win8DE",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.305Z",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46541848",
+    "title": "Why BM25 queries with more terms can be faster (and other scaling surprises)",
+    "url": "https://turbopuffer.com/blog/bm25-latency-musings",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,24 +259,7 @@
     "title": "Message Queues: A Simple Guide with Analogies (2024)",
     "url": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.305Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46592376",
-    "title": "Show HN: Fall asleep by watching JavaScript load",
-    "url": "https://github.com/sarusso/bedtime",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.305Z",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +276,41 @@
     "title": "Ozempic reduced grocery spending by an average of 5.3% in the US",
     "url": "https://news.cornell.edu/stories/2025/12/ozempic-changing-foods-americans-buy",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.305Z",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46579864",
+    "title": "The struggle of resizing windows on macOS Tahoe",
+    "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46592376",
+    "title": "Show HN: Fall asleep by watching JavaScript load",
+    "url": "https://github.com/sarusso/bedtime",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,143 +327,7 @@
     "title": "Zen-C: Write like a high-level language, run like C",
     "url": "https://github.com/z-libs/Zen-C",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.305Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46543257",
-    "title": "What old tennis players teach us (2017)",
-    "url": "https://www.raphkoster.com/2017/09/22/31098/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.305Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46593022",
-    "title": "Cowork: Claude Code for the rest of your work",
-    "url": "https://claude.com/blog/cowork-research-preview",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46557733",
-    "title": "The Cray-1 Computer System (1977) [pdf]",
-    "url": "https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46591708",
-    "title": "Postal Arbitrage",
-    "url": "https://walzr.com/postal-arbitrage",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46540126",
-    "title": "Some ecologists fear their field is losing touch with nature",
-    "url": "https://www.nature.com/articles/d41586-025-04150-w",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46587934",
-    "title": "Floppy disks turn out to be the greatest TV remote for kids",
-    "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46581095",
-    "title": "Unauthenticated remote code execution in OpenCode",
-    "url": "https://cy.md/opencode-rce/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46597030",
-    "title": "PawSense: Catproof Your Computer",
-    "url": "http://bitboost.com/pawsense/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-13T05:20:38.304Z",
+    "publishedAt": "2026-01-13T06:24:26.141Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
