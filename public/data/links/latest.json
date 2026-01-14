@@ -1,10 +1,180 @@
 [
   {
-    "id": "hackernews-46614037",
-    "title": "I’m leaving Redis for SolidQueue",
-    "url": "https://www.simplethread.com/redis-solidqueue/",
+    "id": "hackernews-46622139",
+    "title": "Show HN: Harmony – AI notetaker for Discord",
+    "url": "https://harmonynotetaker.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T21:15:32.770Z",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
+    "id": "hackernews-46570811",
+    "title": "Ski map artist James Niehues, the 'Monet of the mountains' (2021)",
+    "url": "https://adventure.com/ski-map-artist-james-niehues/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46623195",
+    "title": "The Influentists: AI hype without proof",
+    "url": "https://carette.xyz/posts/influentists/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.457Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46623761",
+    "title": "Sun Position Calculator",
+    "url": "https://drajmarsh.bitbucket.io/earthsun.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46561341",
+    "title": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
+    "url": "https://webtiles.kicya.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46618714",
+    "title": "Ask HN: Share your personal website",
+    "url": "https://news.ycombinator.com/item?id=46618714",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46572307",
+    "title": "Why some clothes shrink in the wash and how to unshrink them",
+    "url": "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46617668",
+    "title": "Roam 50GB is now Roam 100GB",
+    "url": "https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46616488",
+    "title": "SparkFun Officially Dropping AdaFruit due to CoC Violation",
+    "url": "https://www.sparkfun.com/official-response",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46620673",
+    "title": "Native ZFS VDEV for Object Storage (OpenZFS Summit)",
+    "url": "https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46616481",
+    "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
+    "url": "https://github.com/cosinusalpha/webctl",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +191,143 @@
     "title": "I Hate GitHub Actions with Passion",
     "url": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T21:15:32.770Z",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46617360",
+    "title": "Find a pub that needs you",
+    "url": "https://www.ismypubfucked.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46618901",
+    "title": "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
+    "url": "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46619030",
+    "title": "So, you've hit an age gate. what now?",
+    "url": "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46620990",
+    "title": "Ask HN: How do you safely give LLMs SSH/DB access?",
+    "url": "https://news.ycombinator.com/item?id=46620990",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46621518",
+    "title": "The string theory hype machine will never die",
+    "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15407",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46616919",
+    "title": "Show HN: Digital Carrot – Block social media with programmable rules and goals",
+    "url": "https://www.digitalcarrot.app/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46568472",
+    "title": "You Can Just Buy Far-UVC",
+    "url": "https://www.jefftk.com/p/you-can-just-buy-far-uvc",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46618027",
+    "title": "GitHub should charge everyone $1 more per month to fund open source",
+    "url": "https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T22:15:36.458Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
