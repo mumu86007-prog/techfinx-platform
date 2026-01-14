@@ -1,10 +1,27 @@
 [
   {
-    "id": "hackernews-46608840",
-    "title": "We can't have nice things because of AI scrapers",
-    "url": "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/",
+    "id": "hackernews-46611348",
+    "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
+    "url": "https://epstein.trynia.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46610967",
+    "title": "Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)",
+    "url": "https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "AI Generated Music Barred from Bandcamp",
     "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46609591",
-    "title": "The insecure evangelism of LLM maximalists",
-    "url": "https://lewiscampbell.tech/blog/260114.html",
+    "id": "hackernews-46608840",
+    "title": "We can't have nice things because of AI scrapers",
+    "url": "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,14 +65,14 @@
       "开发者",
       "社区"
     ],
-    "score": 7
+    "score": 8
   },
   {
     "id": "hackernews-46609630",
-    "title": "A 40-Line Fix Eliminated a 400x Performance Gap",
+    "title": "A 40-line fix eliminated a 400x performance gap",
     "url": "https://questdb.com/blog/jvm-current-thread-user-time/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -69,10 +86,95 @@
   },
   {
     "id": "hackernews-46602591",
-    "title": "Every GitHub Object Has Two IDs",
+    "title": "Every GitHub object has two IDs",
     "url": "https://www.greptile.com/blog/github-ids",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46611507",
+    "title": "ASCII Clouds",
+    "url": "https://caidan.dev/portfolio/ascii_clouds/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46602737",
+    "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
+    "url": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46610557",
+    "title": "The $LANG Programming Language",
+    "url": "https://news.ycombinator.com/item?id=46610557",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46605332",
+    "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
+    "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46584864",
+    "title": "The Emacs Widget Library: A Critique and Case Study",
+    "url": "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,24 +191,7 @@
     "title": "Are two heads better than one?",
     "url": "https://eieio.games/blog/two-heads-arent-better-than-one/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46603995",
-    "title": "The Tulip Creative Computer",
-    "url": "https://github.com/shorepine/tulipcc",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +208,7 @@
     "title": "Japan's Skyscraper Factories (2021)",
     "url": "https://www.construction-physics.com/p/japans-skyscraper-factories",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46605675",
-    "title": "Show HN: Nogic – VS Code extension that visualizes your codebase as a graph",
-    "url": "https://marketplace.visualstudio.com/items?itemName=Nogic.nogic",
+    "id": "hackernews-46605854",
+    "title": "No management needed: anti-patterns in early-stage engineering teams",
+    "url": "https://www.ablg.io/blog/no-management-needed",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46604250",
-    "title": "How to make a damn website (2024)",
-    "url": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
+    "id": "hackernews-46603995",
+    "title": "The Tulip Creative Computer",
+    "url": "https://github.com/shorepine/tulipcc",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,147 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46602102",
-    "title": "Scott Adams has died",
-    "url": "https://www.youtube.com/watch?v=Rs_JrOIo3SE",
+    "id": "hackernews-46589842",
+    "title": "Why we built our own background agent",
+    "url": "https://builders.ramp.com/post/why-we-built-our-background-agent",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46608731",
-    "title": "Running Lean at Scale",
-    "url": "https://harmonic.fun/news#blog-post-lean",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46608971",
-    "title": "Terra - A rolling-release Fedora repository",
-    "url": "https://terra.fyralabs.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46563251",
-    "title": "Understanding the Types of Data in Data",
-    "url": "https://ischool.syracuse.edu/types-of-data/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46608811",
-    "title": "Is it a joke?",
-    "url": "https://novalis.org/blog/2025-11-06-is-it-a-joke.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46603535",
-    "title": "Influencers and OnlyFans models are dominating U.S. O-1 visa requests",
-    "url": "https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46599807",
-    "title": "Ask HN: Quantum Computation, Computers and Programming",
-    "url": "https://news.ycombinator.com/item?id=46599807",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46555297",
-    "title": "Inlining – The Ultimate Optimisation",
-    "url": "https://xania.org/202512/17-inlining-the-ultimate-optimisation",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46609389",
-    "title": "Show HN: AsciiSketch a free browser-based ASCII art and diagram editor",
-    "url": "https://files.littlebird.com.au/ascii-sketch.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.987Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +276,58 @@
     "title": "EOL hardware should mean open-source software",
     "url": "https://www.marcia.no/words/eol",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T01:13:34.986Z",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46611063",
+    "title": "Exa-d: How to store the web in S3",
+    "url": "https://exa.ai/blog/exa-d",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46604067",
+    "title": "Show HN: Microwave – Native iOS app for videos on ATproto",
+    "url": "https://testflight.apple.com/join/cVxV1W3g",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46605675",
+    "title": "Show HN: Nogic – VS Code extension that visualizes your codebase as a graph",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Nogic.nogic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T03:41:44.646Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
