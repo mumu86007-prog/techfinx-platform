@@ -4,7 +4,7 @@
     "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
     "url": "https://epstein.trynia.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46615374",
-    "title": "Why NUKEMAP isn't on Google Maps anymore",
-    "url": "https://blog.nuclearsecrecy.com/2019/12/13/why-nukemap-isnt-on-google-maps-anymore/",
+    "id": "hackernews-46605490",
+    "title": "AI generated music barred from Bandcamp",
+    "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,150 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46614688",
-    "title": "Show HN: Tiny FOSS Compass and Navigation App (<2MB)",
-    "url": "https://github.com/CompassMB/MBCompass",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46611823",
-    "title": "1000 Blank White Cards",
-    "url": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46611507",
-    "title": "ASCII Clouds",
-    "url": "https://caidan.dev/portfolio/ascii_clouds/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 8
   },
   {
     "id": "hackernews-46615235",
     "title": "Lago (Open-Source Billing) is hiring across teams and geos",
     "url": "https://news.ycombinator.com/item?id=46615235",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46602591",
-    "title": "Every GitHub object has two IDs",
-    "url": "https://www.greptile.com/blog/github-ids",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46554982",
-    "title": "Putting the \"You\" in CPU (2023)",
-    "url": "https://cpu.land/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46615167",
-    "title": "Servo 2025 Stats",
-    "url": "https://blogs.igalia.com/mrego/servo-2025-stats/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46609630",
-    "title": "A 40-line fix eliminated a 400x performance gap",
-    "url": "https://questdb.com/blog/jvm-current-thread-user-time/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46579387",
-    "title": "Systematically generating tests that would have caught Anthropic's top‑K bug",
-    "url": "https://theorem.dev/blog/anthropic-bug-test/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +55,7 @@
     "title": "I Hate GitHub Actions with Passion",
     "url": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +68,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-46614285",
-    "title": "System Programming in Linux: A Hands-On Introduction \"Demo\" Programs",
-    "url": "https://github.com/stewartweiss/intro-linux-sys-prog",
+    "id": "hackernews-46609630",
+    "title": "A 40-line fix eliminated a 400x performance gap",
+    "url": "https://questdb.com/blog/jvm-current-thread-user-time/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46554982",
+    "title": "Putting the \"You\" in CPU (2023)",
+    "url": "https://cpu.land/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46579387",
+    "title": "Systematically generating tests that would have caught Anthropic's top‑K bug",
+    "url": "https://theorem.dev/blog/anthropic-bug-test/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +123,7 @@
     "title": "The Gleam Programming Language",
     "url": "https://gleam.run/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +136,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46605332",
-    "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
-    "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
+    "id": "hackernews-46615167",
+    "title": "Servo 2025 Stats",
+    "url": "https://blogs.igalia.com/mrego/servo-2025-stats/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46614285",
+    "title": "System Programming in Linux: A Hands-On Introduction \"Demo\" Programs",
+    "url": "https://github.com/stewartweiss/intro-linux-sys-prog",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +174,24 @@
     "title": "No management needed: anti-patterns in early-stage engineering teams",
     "url": "https://www.ablg.io/blog/no-management-needed",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46605332",
+    "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
+    "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +208,7 @@
     "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
     "url": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +225,7 @@
     "title": "The $LANG Programming Language",
     "url": "https://news.ycombinator.com/item?id=46610557",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +242,7 @@
     "title": "Show HN: 1D-Pong Game at 39C3",
     "url": "https://github.com/ogermer/1d-pong",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +259,75 @@
     "title": "Are two heads better than one?",
     "url": "https://eieio.games/blog/two-heads-arent-better-than-one/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T13:35:56.199Z",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46604308",
+    "title": "Show HN: The Tsonic Programming Language",
+    "url": "https://tsonic.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46584864",
+    "title": "The Emacs Widget Library: A Critique and Case Study",
+    "url": "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46554461",
+    "title": "April 9, 1940 a Dish Best Served Cold (2021)",
+    "url": "https://todayinhistory.blog/2021/04/09/april-9-1940-a-dish-best-served-cold/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46603995",
+    "title": "The Tulip Creative Computer",
+    "url": "https://github.com/shorepine/tulipcc",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T14:19:50.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
