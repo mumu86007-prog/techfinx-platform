@@ -4,24 +4,7 @@
     "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
     "url": "https://epstein.trynia.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46610967",
-    "title": "Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)",
-    "url": "https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,24 @@
     "title": "AI generated music barred from Bandcamp",
     "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46610967",
+    "title": "Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)",
+    "url": "https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "Handling secrets (somewhat) securely in shells",
     "url": "https://linus.schreibt.jetzt/posts/shell-secrets.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +68,28 @@
     "score": 7
   },
   {
+    "id": "hackernews-46591810",
+    "title": "There's a ridiculous amount of tech in a disposable vape",
+    "url": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46611823",
     "title": "1000 Blank White Cards",
     "url": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "ASCII Clouds",
     "url": "https://caidan.dev/portfolio/ascii_clouds/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +123,7 @@
     "title": "A 40-line fix eliminated a 400x performance gap",
     "url": "https://questdb.com/blog/jvm-current-thread-user-time/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "Every GitHub object has two IDs",
     "url": "https://www.greptile.com/blog/github-ids",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,92 +157,7 @@
     "title": "The Gleam Programming Language",
     "url": "https://gleam.run/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46579612",
-    "title": "Show HN: 1D-Pong Game at 39C3",
-    "url": "https://github.com/ogermer/1d-pong",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46610557",
-    "title": "The $LANG Programming Language",
-    "url": "https://news.ycombinator.com/item?id=46610557",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46605332",
-    "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
-    "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46602737",
-    "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
-    "url": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46611550",
-    "title": "Stop using natural language interfaces",
-    "url": "https://tidepool.leaflet.pub/3mcbegnuf2k2i",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +174,75 @@
     "title": "Putting the \"You\" in CPU (2023)",
     "url": "https://cpu.land/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46605332",
+    "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
+    "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46602737",
+    "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
+    "url": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46610557",
+    "title": "The $LANG Programming Language",
+    "url": "https://news.ycombinator.com/item?id=46610557",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46579612",
+    "title": "Show HN: 1D-Pong Game at 39C3",
+    "url": "https://github.com/ogermer/1d-pong",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +259,7 @@
     "title": "No management needed: anti-patterns in early-stage engineering teams",
     "url": "https://www.ablg.io/blog/no-management-needed",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,24 +276,7 @@
     "title": "The Emacs Widget Library: A Critique and Case Study",
     "url": "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46611548",
-    "title": "Show HN: Cachekit – High performance caching policies library in Rust",
-    "url": "https://github.com/OxidizeLabs/cachekit",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +293,7 @@
     "title": "Show HN: The Tsonic Programming Language",
     "url": "https://tsonic.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +310,24 @@
     "title": "Are two heads better than one?",
     "url": "https://eieio.games/blog/two-heads-arent-better-than-one/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-14T08:21:36.403Z",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46611548",
+    "title": "Show HN: Cachekit – High performance caching policies library in Rust",
+    "url": "https://github.com/OxidizeLabs/cachekit",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-14T09:23:00.928Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
