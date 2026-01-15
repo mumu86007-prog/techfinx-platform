@@ -1,129 +1,10 @@
 [
   {
-    "id": "hackernews-46629682",
-    "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
-    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46629474",
-    "title": "A letter to those who fired tech writers because of AI",
-    "url": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46624352",
-    "title": "The State of OpenSSL for pyca/cryptography",
-    "url": "https://cryptography.io/en/latest/statements/state-of-openssl/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7.5
-  },
-  {
-    "id": "hackernews-46629610",
-    "title": "Have Taken Up Farming",
-    "url": "https://dylan.gr/1768295794",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
     "id": "hackernews-46622328",
     "title": "Claude Cowork Exfiltrates Files",
     "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46612711",
-    "title": "The <Geolocation> HTML Element",
-    "url": "https://developer.chrome.com/blog/geolocation-html-element",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46584523",
-    "title": "Z80 Mem­ber­ship Card",
-    "url": "https://sunrise-ev.com/z80.htm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46616529",
-    "title": "Ask HN: How are you doing RAG locally?",
-    "url": "https://news.ycombinator.com/item?id=46616529",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
+    "publishedAt": "2026-01-15T12:31:45.668Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +21,7 @@
     "title": "Ask HN: Share your personal website",
     "url": "https://news.ycombinator.com/item?id=46618714",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
+    "publishedAt": "2026-01-15T12:31:45.668Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,164 +34,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46629957",
-    "title": "Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer",
+    "id": "hackernews-46617360",
+    "title": "Find a pub that needs you",
+    "url": "https://www.ismypubfucked.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46626210",
-    "title": "New Safari developer tools provide insight into CSS Grid Lanes",
-    "url": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46624541",
-    "title": "Scaling long-running autonomous coding",
-    "url": "https://cursor.com/blog/scaling-agents",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46628397",
-    "title": "Handy – Free open source speech-to-text app",
-    "url": "https://github.com/cjpais/Handy",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46626410",
-    "title": "Furiosa: 3.5x efficiency over H100s",
-    "url": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46626836",
-    "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
-    "url": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46618503",
-    "title": "Project SkyWatch (a.k.a. Wescam at Home)",
-    "url": "https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46619464",
-    "title": "Ask HN: What did you find out or explore today?",
-    "url": "https://news.ycombinator.com/item?id=46619464",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46619614",
-    "title": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
-    "url": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46561341",
-    "title": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
-    "url": "https://webtiles.kicya.net/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
+    "publishedAt": "2026-01-15T12:31:45.668Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +55,24 @@
     "title": "SparkFun Officially Dropping AdaFruit due to CoC Violation",
     "url": "https://www.sparkfun.com/official-response",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T11:14:34.625Z",
+    "publishedAt": "2026-01-15T12:31:45.668Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46627652",
+    "title": "The URL shortener that makes your links look as suspicious as possible",
+    "url": "https://creepylink.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T12:31:45.667Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
