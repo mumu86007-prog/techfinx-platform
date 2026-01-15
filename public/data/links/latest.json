@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46622328",
+    "title": "Claude Cowork Exfiltrates Files",
+    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T09:22:22.016Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46618714",
     "title": "Ask HN: Share your personal website",
     "url": "https://news.ycombinator.com/item?id=46618714",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T08:22:29.558Z",
+    "publishedAt": "2026-01-15T09:22:22.016Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "SparkFun Officially Dropping AdaFruit due to CoC Violation",
     "url": "https://www.sparkfun.com/official-response",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T08:22:29.558Z",
+    "publishedAt": "2026-01-15T09:22:22.016Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,58 +55,7 @@
     "title": "Find a pub that needs you",
     "url": "https://www.ismypubfucked.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T08:22:29.558Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46617668",
-    "title": "Roam 50GB is now Roam 100GB",
-    "url": "https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T08:22:29.558Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46618901",
-    "title": "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
-    "url": "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T08:22:29.558Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46622328",
-    "title": "Claude Cowork Exfiltrates Files",
-    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T08:22:29.556Z",
+    "publishedAt": "2026-01-15T09:22:22.016Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +72,7 @@
     "title": "The URL shortener that makes your links look as suspicious as possible",
     "url": "https://creepylink.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T08:22:29.555Z",
+    "publishedAt": "2026-01-15T09:22:22.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
