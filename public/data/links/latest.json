@@ -1,146 +1,10 @@
 [
   {
-    "id": "hackernews-46633378",
-    "title": "The Palantir app helping ICE raids in Minneapolis",
-    "url": "https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46633429",
-    "title": "OBS Studio 32.1.0 Beta 1 available",
-    "url": "https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46629682",
-    "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
-    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46629191",
-    "title": "Show HN: MailPilot – Freedom to go anywhere while your agents work",
-    "url": "https://news.ycombinator.com/item?id=46629191",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46624352",
-    "title": "The State of OpenSSL for pyca/cryptography",
-    "url": "https://cryptography.io/en/latest/statements/state-of-openssl/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7.5
-  },
-  {
-    "id": "hackernews-46633488",
-    "title": "Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage",
-    "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46632023",
-    "title": "25 Years of Wikipedia",
-    "url": "https://wikipedia25.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46632768",
-    "title": "Show HN: TinyCity – A tiny city SIM for MicroPython (Thumby micro console)",
-    "url": "https://github.com/chrisdiana/TinyCity",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46627652",
     "title": "The URL shortener that makes your links look as suspicious as possible",
     "url": "https://creepylink.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
+    "publishedAt": "2026-01-15T17:26:57.147Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -154,112 +18,10 @@
   },
   {
     "id": "hackernews-46622328",
-    "title": "Claude Cowork exfiltrates files",
+    "title": "Claude Cowork Exfiltrates Files",
     "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46630798",
-    "title": "The 3D Software Rendering Technology of 1998's Thief: The Dark Project (2019)",
-    "url": "https://nothings.org/gamedev/thief_rendering.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46587284",
-    "title": "Impeccable Style",
-    "url": "https://impeccable.style/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46632039",
-    "title": "Programming, Evolved: Lessons and Observations",
-    "url": "https://github.com/kulesh/dotfiles/blob/main/dev/dev/docs/programming-evolved.md",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46566065",
-    "title": "Investing with GIFs: A Visual Guide",
-    "url": "https://www.ft.com/content/9b1ff0b8-a1e8-4869-8d61-620c5ed32d35",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46584523",
-    "title": "Z80 Mem­ber­ship Card",
-    "url": "https://sunrise-ev.com/z80.htm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46631276",
-    "title": "Jiga (YC W21) Is Hiring Full Stack Engineers",
-    "url": "https://jiga.io/about-us",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
+    "publishedAt": "2026-01-15T17:26:57.147Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +38,7 @@
     "title": "Ask HN: Share your personal website",
     "url": "https://news.ycombinator.com/item?id=46618714",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
+    "publishedAt": "2026-01-15T17:26:57.147Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,41 +55,7 @@
     "title": "Ask HN: How are you doing RAG locally?",
     "url": "https://news.ycombinator.com/item?id=46616529",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46631728",
-    "title": "The 500k-ton typo: Why data center copper math doesn't add up",
-    "url": "https://investinglive.com/news/the-500000-ton-typo-why-data-center-copper-math-doesnt-add-up-20260113/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46558224",
-    "title": "San Remo Pasta Measurer",
-    "url": "https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T16:27:10.473Z",
+    "publishedAt": "2026-01-15T17:26:57.147Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
