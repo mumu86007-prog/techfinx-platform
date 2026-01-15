@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46629474",
+    "title": "A letter to those who fired tech writers because of AI",
+    "url": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46629682",
+    "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
+    "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46629191",
+    "title": "Show HN: MailPilot – Freedom to go anywhere while your agents work",
+    "url": "https://news.ycombinator.com/item?id=46629191",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46624352",
+    "title": "The State of OpenSSL for pyca/cryptography",
+    "url": "https://cryptography.io/en/latest/statements/state-of-openssl/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7.5
+  },
+  {
+    "id": "hackernews-46630369",
+    "title": "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
+    "url": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46627652",
+    "title": "The URL shortener that makes your links look as suspicious as possible",
+    "url": "https://creepylink.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46622328",
+    "title": "Claude Cowork exfiltrates files",
+    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46630798",
+    "title": "The 3D Software Rendering Technology of 1998's Thief: The Dark Project",
+    "url": "https://nothings.org/gamedev/thief_rendering.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46584523",
+    "title": "Z80 Mem­ber­ship Card",
+    "url": "https://sunrise-ev.com/z80.htm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46553556",
+    "title": "Test your square brackets",
+    "url": "https://fluca1978.github.io/2025/12/10/testAndSquareBrackets.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46616529",
+    "title": "Ask HN: How are you doing RAG locally?",
+    "url": "https://news.ycombinator.com/item?id=46616529",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46587284",
+    "title": "Impeccable Style",
+    "url": "https://impeccable.style/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46631276",
+    "title": "Jiga (YC W21) Is Hiring Full Stack Engineers",
+    "url": "https://jiga.io/about-us",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46618714",
+    "title": "Ask HN: Share your personal website",
+    "url": "https://news.ycombinator.com/item?id=46618714",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46558224",
+    "title": "San Remo Pasta Measurer",
+    "url": "https://www.toxel.com/tech/2025/09/17/san-remo-pasta-measurer/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46624541",
+    "title": "Scaling long-running autonomous coding",
+    "url": "https://cursor.com/blog/scaling-agents",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46619464",
+    "title": "Ask HN: What did you find out or explore today?",
+    "url": "https://news.ycombinator.com/item?id=46619464",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46629964",
+    "title": "Python: Tprof, a Targeting Profiler",
+    "url": "https://adamj.eu/tech/2026/01/14/python-introducing-tprof/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46626210",
+    "title": "New Safari developer tools provide insight into CSS Grid Lanes",
+    "url": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46626836",
+    "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+    "url": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T14:19:17.549Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
