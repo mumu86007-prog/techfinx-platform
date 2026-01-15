@@ -1,248 +1,10 @@
 [
   {
-    "id": "hackernews-46551065",
-    "title": "Show HN: Ever wanted to look at yourself in Braille?",
-    "url": "https://github.com/NishantJoshi00/dith",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46624352",
-    "title": "The State of OpenSSL for pyca/cryptography",
-    "url": "https://cryptography.io/en/latest/statements/state-of-openssl/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7.5
-  },
-  {
-    "id": "hackernews-46627652",
-    "title": "The URL shortener that makes your links look as suspicious as possible",
-    "url": "https://creepylink.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46622328",
-    "title": "Claude Cowork Exfiltrates Files",
-    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46626410",
-    "title": "Furiosa: 3.5x efficiency over H100s",
-    "url": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46619614",
-    "title": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
-    "url": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46626210",
-    "title": "New Safari developer tools provide insight into CSS Grid Lanes",
-    "url": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46628397",
-    "title": "Handy – free open source speech-to-text app",
-    "url": "https://github.com/cjpais/Handy",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46618714",
     "title": "Ask HN: Share your personal website",
     "url": "https://news.ycombinator.com/item?id=46618714",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46618503",
-    "title": "Project SkyWatch (a.k.a. Wescam at Home)",
-    "url": "https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46624541",
-    "title": "Scaling long-running autonomous coding",
-    "url": "https://cursor.com/blog/scaling-agents",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46616529",
-    "title": "Ask HN: How are you doing RAG locally?",
-    "url": "https://news.ycombinator.com/item?id=46616529",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46626836",
-    "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
-    "url": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46624740",
-    "title": "Ask HN: Weird archive.today behavior?",
-    "url": "https://news.ycombinator.com/item?id=46624740",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46561341",
-    "title": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
-    "url": "https://webtiles.kicya.net/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
+    "publishedAt": "2026-01-15T08:22:29.558Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,41 +21,7 @@
     "title": "SparkFun Officially Dropping AdaFruit due to CoC Violation",
     "url": "https://www.sparkfun.com/official-response",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46616481",
-    "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
-    "url": "https://github.com/cosinusalpha/webctl",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46623761",
-    "title": "Sun Position Calculator",
-    "url": "https://drajmarsh.bitbucket.io/earthsun.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
+    "publishedAt": "2026-01-15T08:22:29.558Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +38,7 @@
     "title": "Find a pub that needs you",
     "url": "https://www.ismypubfucked.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
+    "publishedAt": "2026-01-15T08:22:29.558Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +51,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46626639",
-    "title": "Ask HN: What is the best way to provide continuous context to models?",
-    "url": "https://news.ycombinator.com/item?id=46626639",
+    "id": "hackernews-46617668",
+    "title": "Roam 50GB is now Roam 100GB",
+    "url": "https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T07:20:39.659Z",
+    "publishedAt": "2026-01-15T08:22:29.558Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46618901",
+    "title": "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
+    "url": "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T08:22:29.558Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46622328",
+    "title": "Claude Cowork Exfiltrates Files",
+    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T08:22:29.556Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46627652",
+    "title": "The URL shortener that makes your links look as suspicious as possible",
+    "url": "https://creepylink.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T08:22:29.555Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
