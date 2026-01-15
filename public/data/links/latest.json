@@ -1,10 +1,78 @@
 [
   {
+    "id": "hackernews-46639248",
+    "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
+    "url": "https://www.ycombinator.com/companies/aviator/jobs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46636093",
+    "title": "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
+    "url": "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46637127",
+    "title": "‘ELITE’: The Palantir app ICE uses to find neighborhoods to raid",
+    "url": "https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46620358",
+    "title": "Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)",
+    "url": "https://news.ycombinator.com/item?id=46620358",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46633488",
-    "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
+    "title": "Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage",
     "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T20:18:09.476Z",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +85,232 @@
     "score": 7
   },
   {
+    "id": "hackernews-46630369",
+    "title": "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
+    "url": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46636387",
+    "title": "CVEs affecting the Svelte ecosystem",
+    "url": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46613324",
+    "title": "Inside The Internet Archive's Infrastructure",
+    "url": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46637165",
+    "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
+    "url": "https://github.com/juicedata/juicefs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46635345",
+    "title": "Ask HN: How can we solve the loneliness epidemic?",
+    "url": "https://news.ycombinator.com/item?id=46635345",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46618042",
+    "title": "Claude is good at assembling blocks, but still falls apart at creating them",
+    "url": "https://www.approachwithalacrity.com/claude-ne/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46638629",
+    "title": "Linux boxes via SSH: suspended when disconected",
+    "url": "https://shellbox.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46612494",
+    "title": "Show HN: OpenWork – an open-source alternative to Claude Cowork",
+    "url": "https://github.com/different-ai/openwork",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46637399",
+    "title": "UK offshore wind prices come in 40% cheaper than gas in record auction",
+    "url": "https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46633574",
+    "title": "Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever",
+    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46632023",
     "title": "25 Years of Wikipedia",
     "url": "https://wikipedia25.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T20:18:09.477Z",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46638894",
+    "title": "Show HN: The Hessian of tall-skinny networks is easy to invert",
+    "url": "https://github.com/a-rahimi/hessian",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46634450",
+    "title": "Design and Implementation of Sprites",
+    "url": "https://fly.io/blog/design-and-implementation/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46636861",
+    "title": "Ask HN: One IP, multiple unrealistic locations worldwide hitting my website",
+    "url": "https://news.ycombinator.com/item?id=46636861",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,41 +327,7 @@
     "title": "The URL shortener that makes your links look as suspicious as possible",
     "url": "https://creepylink.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T20:18:09.477Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46618714",
-    "title": "Ask HN: Share your personal website",
-    "url": "https://news.ycombinator.com/item?id=46618714",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T20:18:09.477Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46616529",
-    "title": "Ask HN: How are you doing RAG locally?",
-    "url": "https://news.ycombinator.com/item?id=46616529",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T20:18:09.477Z",
+    "publishedAt": "2026-01-15T21:15:45.413Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
