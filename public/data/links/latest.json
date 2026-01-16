@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46641362",
-    "title": "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
-    "url": "https://github.com/bolt-foundry/gambit",
+    "id": "hackernews-46577105",
+    "title": "Primecoin and Cunningham Prime Chains",
+    "url": "https://www.johndcook.com/blog/2026/01/10/prime-chains/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Tldraw pauses external contributions due to AI slop",
     "url": "https://github.com/tldraw/tldraw/issues/7695",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46639248",
-    "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
-    "url": "https://www.ycombinator.com/companies/aviator/jobs",
+    "id": "hackernews-46641362",
+    "title": "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
+    "url": "https://github.com/bolt-foundry/gambit",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,24 @@
     "title": "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
     "url": "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46639248",
+    "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
+    "url": "https://www.ycombinator.com/companies/aviator/jobs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -69,10 +86,10 @@
   },
   {
     "id": "hackernews-46633488",
-    "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
+    "title": "Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage",
     "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
     "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -103,10 +120,10 @@
   },
   {
     "id": "hackernews-46641284",
-    "title": "List of Individual Trees",
+    "title": "List of individual trees",
     "url": "https://en.wikipedia.org/wiki/List_of_individual_trees",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
     "url": "https://kyutai.org/blog/2026-01-13-pocket-tts",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +157,24 @@
     "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
     "url": "https://briarproject.org/manual/fa/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46643737",
+    "title": "Building a better Bugbot",
+    "url": "https://cursor.com/blog/building-bugbot",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,24 +191,7 @@
     "title": "Inside The Internet Archive's Infrastructure",
     "url": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46641239",
-    "title": "All 23-Bit Still Lifes Are Glider Constructible",
-    "url": "https://mvr.github.io/posts/xs23.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +208,7 @@
     "title": "Linux boxes via SSH: suspended when disconected",
     "url": "https://shellbox.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +225,7 @@
     "title": "Ask HN: How can we solve the loneliness epidemic?",
     "url": "https://news.ycombinator.com/item?id=46635345",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46642920",
-    "title": "Boeing knew of flaw in part linked to UPS plane crash, NTSB report says",
-    "url": "https://www.bbc.com/news/articles/cly56w0p9e1o",
+    "id": "hackernews-46641239",
+    "title": "All 23-Bit Still Lifes Are Glider Constructible",
+    "url": "https://mvr.github.io/posts/xs23.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,41 +259,7 @@
     "title": "My Gripes with Prolog",
     "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46643099",
-    "title": "San Francisco to offer free childcare to people making up to $230000",
-    "url": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46637328",
-    "title": "Data is the only moat",
-    "url": "https://frontierai.substack.com/p/data-is-your-only-moat",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +276,41 @@
     "title": "Claude is good at assembling blocks, but still falls apart at creating them",
     "url": "https://www.approachwithalacrity.com/claude-ne/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46642920",
+    "title": "Boeing knew of flaw in part linked to UPS plane crash, NTSB report says",
+    "url": "https://www.bbc.com/news/articles/cly56w0p9e1o",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46637328",
+    "title": "Data is the only moat",
+    "url": "https://frontierai.substack.com/p/data-is-your-only-moat",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
     "url": "https://github.com/juicedata/juicefs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46612494",
-    "title": "Show HN: OpenWork – An open-source alternative to Claude Cowork",
-    "url": "https://github.com/different-ai/openwork",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T07:19:54.081Z",
+    "publishedAt": "2026-01-16T08:21:35.067Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
