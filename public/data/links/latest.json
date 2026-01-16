@@ -4,7 +4,7 @@
     "title": "6-Day and IP Address Certificates Are Generally Available",
     "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
+    "publishedAt": "2026-01-16T20:16:15.412Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Michelangelo's first painting, created when he was 12 or 13",
     "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
+    "publishedAt": "2026-01-16T20:16:15.412Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,130 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46648144",
-    "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
-    "url": "https://www.shimmer.care/indy-redirect",
+    "id": "hackernews-46645615",
+    "title": "Just the Browser",
+    "url": "https://justthebrowser.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46648714",
-    "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
-    "url": "https://www.ycombinator.com/companies/zep-ai/jobs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46646226",
-    "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
-    "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46646091",
-    "title": "psc: The ps utility, with an eBPF twist and container context",
-    "url": "https://github.com/loresuso/psc",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46624563",
-    "title": "Training my smartwatch to track intelligence",
-    "url": "https://dmvaldman.github.io/rooklift/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46643754",
-    "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
-    "url": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46588584",
-    "title": "Zorgdomein Integration: A Guide to Secure .NET and Azure Architecture",
-    "url": "https://plakhlani.in/healthcare/bidirectional-patient-data-exchange-with-zorgdomein/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46646645",
-    "title": "Astro Joining Cloudflare",
-    "url": "https://astro.build/blog/joining-cloudflare/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
+    "publishedAt": "2026-01-16T20:16:15.412Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +55,7 @@
     "title": "STFU",
     "url": "https://github.com/Pankajtanwarbanna/stfu",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
+    "publishedAt": "2026-01-16T20:16:15.412Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46645615",
-    "title": "Just the Browser",
-    "url": "https://justthebrowser.com/",
+    "id": "hackernews-46642560",
+    "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
+    "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
+    "publishedAt": "2026-01-16T20:16:15.412Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46588379",
-    "title": "Lock-Picking Robot",
-    "url": "https://github.com/etinaude/Lock-Picking-Robot",
+    "id": "hackernews-46641284",
+    "title": "List of individual trees",
+    "url": "https://en.wikipedia.org/wiki/List_of_individual_trees",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
+    "publishedAt": "2026-01-16T20:16:15.412Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,113 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46646777",
-    "title": "Cursor's latest \"browser experiment\" implied success without evidence",
-    "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+    "id": "hackernews-46646645",
+    "title": "Astro Joining Cloudflare",
+    "url": "https://astro.build/blog/joining-cloudflare/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46648885",
-    "title": "Dell UltraSharp 52 Thunderbolt Hub Monitor",
-    "url": "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46579954",
-    "title": "Elasticsearch Was Never a Database",
-    "url": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46647059",
-    "title": "Read_once(), Write_once(), but Not for Rust",
-    "url": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46649577",
-    "title": "Our approach to advertising and expanding access to ChatGPT",
-    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46637723",
-    "title": "Show HN: 1Code – Open-source Cursor-like UI for Claude Code",
-    "url": "https://github.com/21st-dev/1code",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46649813",
-    "title": "Earth from Space: The Fate of a Giant",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T19:15:40.854Z",
+    "publishedAt": "2026-01-16T20:16:15.411Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
