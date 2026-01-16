@@ -1,78 +1,10 @@
 [
   {
-    "id": "hackernews-46640366",
-    "title": "Why Senior Engineers Let Bad Projects Fail",
-    "url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46639248",
-    "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
-    "url": "https://www.ycombinator.com/companies/aviator/jobs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46636093",
-    "title": "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
-    "url": "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46620358",
-    "title": "Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)",
-    "url": "https://news.ycombinator.com/item?id=46620358",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46630369",
     "title": "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
     "url": "https://e360.yale.edu/digest/china-renewable-photo-essay",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
+    "publishedAt": "2026-01-16T01:10:49.153Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +21,7 @@
     "title": "Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage",
     "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.227Z",
+    "publishedAt": "2026-01-16T01:10:49.152Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,58 +38,7 @@
     "title": "Inside The Internet Archive's Infrastructure",
     "url": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46628329",
-    "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
-    "url": "https://kyutai.org/blog/2026-01-13-pocket-tts",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46636387",
-    "title": "CVEs affecting the Svelte ecosystem",
-    "url": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46588243",
-    "title": "Go-legacy-winxp: Compile Golang 1.24 code for Windows XP",
-    "url": "https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
+    "publishedAt": "2026-01-16T01:10:49.153Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +55,7 @@
     "title": "Ask HN: How can we solve the loneliness epidemic?",
     "url": "https://news.ycombinator.com/item?id=46635345",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
+    "publishedAt": "2026-01-16T01:10:49.153Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,147 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46637165",
-    "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
-    "url": "https://github.com/juicedata/juicefs",
+    "id": "hackernews-46632023",
+    "title": "25 Years of Wikipedia",
+    "url": "https://wikipedia25.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46637328",
-    "title": "Data is the only moat",
-    "url": "https://frontierai.substack.com/p/data-is-your-only-moat",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46629295",
-    "title": "Use of Bayesian methodology in clinical trials of drug and biological products [pdf]",
-    "url": "https://www.fda.gov/media/190505/download",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46612494",
-    "title": "Show HN: OpenWork – an open-source alternative to Claude Cowork",
-    "url": "https://github.com/different-ai/openwork",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46612919",
-    "title": "First impressions of Claude Cowork",
-    "url": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46636861",
-    "title": "Ask HN: One IP, multiple unrealistic locations worldwide hitting my website",
-    "url": "https://news.ycombinator.com/item?id=46636861",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46638894",
-    "title": "Show HN: The Hessian of tall-skinny networks is easy to invert",
-    "url": "https://github.com/a-rahimi/hessian",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46587444",
-    "title": "Managing the development of large software systems (1970) [pdf]",
-    "url": "https://www.praxisframework.org/files/royce1970.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46573566",
-    "title": "A Unique Performance Optimization for a 3D Geometry Language",
-    "url": "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-15T23:14:48.228Z",
+    "publishedAt": "2026-01-16T01:10:49.153Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
