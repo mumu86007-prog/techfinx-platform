@@ -1,78 +1,10 @@
 [
   {
-    "id": "hackernews-46624563",
-    "title": "Training my smartwatch to track intelligence",
-    "url": "https://dmvaldman.github.io/rooklift/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46645430",
-    "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
-    "url": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46584526",
-    "title": "Altaid 8800",
-    "url": "https://sunrise-ev.com/8080.htm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46577105",
-    "title": "Primecoin and Cunningham Prime Chains",
-    "url": "https://www.johndcook.com/blog/2026/01/10/prime-chains/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46633488",
     "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
     "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
+    "publishedAt": "2026-01-16T15:17:36.417Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,45 +17,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46645615",
-    "title": "Just the Browser",
-    "url": "https://justthebrowser.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46641992",
-    "title": "Show HN: I built a text-based business simulator to replace video courses",
-    "url": "https://www.core-mba.pro/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46642560",
     "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
     "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
+    "publishedAt": "2026-01-16T15:17:36.417Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,58 +38,7 @@
     "title": "List of individual trees",
     "url": "https://en.wikipedia.org/wiki/List_of_individual_trees",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46644181",
-    "title": "Interactive eBPF",
-    "url": "https://ebpf.party/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46644661",
-    "title": "The spectrum of isolation: From bare metal to WebAssembly",
-    "url": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46588607",
-    "title": "Cue Does It All, but Can It Literate?",
-    "url": "https://xlii.space/cue/cue-does-it-all-but-can-it-literate/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
+    "publishedAt": "2026-01-16T15:17:36.417Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +55,7 @@
     "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
     "url": "https://kyutai.org/blog/2026-01-13-pocket-tts",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
+    "publishedAt": "2026-01-16T15:17:36.417Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,75 +72,7 @@
     "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
     "url": "https://briarproject.org/manual/fa/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46613324",
-    "title": "Inside The Internet Archive's Infrastructure",
-    "url": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46612727",
-    "title": "Bringing the Predators to Life in MAME",
-    "url": "https://lysiwyg.mataroa.blog/blog/bringing-the-predators-to-life-in-mame/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46574277",
-    "title": "Show HN: pgwire-replication - pure rust client for Postgres CDC",
-    "url": "https://github.com/vnvo/pgwire-replication",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46644541",
-    "title": "pf: Make af-to less magical",
-    "url": "https://undeadly.org/cgi?action=article;sid=20260116085115",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
+    "publishedAt": "2026-01-16T15:17:36.417Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +89,7 @@
     "title": "Linux boxes via SSH: suspended when disconected",
     "url": "https://shellbox.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
+    "publishedAt": "2026-01-16T15:17:36.417Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +106,41 @@
     "title": "Ask HN: How can we solve the loneliness epidemic?",
     "url": "https://news.ycombinator.com/item?id=46635345",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T14:17:53.498Z",
+    "publishedAt": "2026-01-16T15:17:36.417Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46618042",
+    "title": "Claude is good at assembling blocks, but still falls apart at creating them",
+    "url": "https://www.approachwithalacrity.com/claude-ne/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T15:17:36.417Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46645615",
+    "title": "Just the Browser",
+    "url": "https://justthebrowser.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T15:17:36.416Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
