@@ -1,10 +1,44 @@
 [
   {
+    "id": "hackernews-46588915",
+    "title": "Brain: PC virus [audio]",
+    "url": "https://www.bbc.com/audio/play/w3ct7479",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.612Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46647491",
     "title": "6-Day and IP Address Certificates Are Generally Available",
     "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46652617",
+    "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +55,7 @@
     "title": "Michelangelo's first painting, created when he was 12 or 13",
     "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +72,7 @@
     "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
     "url": "https://www.shimmer.care/indy-redirect",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46646226",
-    "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
-    "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
     "url": "https://www.ycombinator.com/companies/zep-ai/jobs/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +102,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46646091",
-    "title": "psc: The ps utility, with an eBPF twist and container context",
-    "url": "https://github.com/loresuso/psc",
+    "id": "hackernews-46646226",
+    "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
+    "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,28 +119,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46643754",
-    "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
-    "url": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/",
+    "id": "hackernews-46634697",
+    "title": "We Gave Our Browser Agent a 3MB Data Warehouse",
+    "url": "https://100x.bot/a/we-gave-our-browser-agent-a-3mb-data-warehouse",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46646645",
-    "title": "Astro Joining Cloudflare",
-    "url": "https://astro.build/blog/joining-cloudflare/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
+    "publishedAt": "2026-01-16T23:14:43.612Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,181 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46646777",
-    "title": "Cursor's latest \"browser experiment\" implied success without evidence",
-    "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+    "id": "hackernews-46652914",
+    "title": "Drawbot: Let's hack something cute (2025)",
+    "url": "https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46645615",
-    "title": "Just the Browser",
-    "url": "https://justthebrowser.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46635309",
-    "title": "LLM Structured Outputs Handbook",
-    "url": "https://nanonets.com/cookbooks/structured-llm-outputs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46588379",
-    "title": "Lock-Picking Robot",
-    "url": "https://github.com/etinaude/Lock-Picking-Robot",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46651443",
-    "title": "Slop Is Everywhere for Those with Eyes to See",
-    "url": "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46650347",
-    "title": "Reading across books with Claude Code",
-    "url": "https://pieterma.es/syntopic-reading-claude/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46649142",
-    "title": "STFU",
-    "url": "https://github.com/Pankajtanwarbanna/stfu",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46645176",
-    "title": "Why DuckDB is my first choice for data processing",
-    "url": "https://www.robinlinacre.com/recommend_duckdb/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46579954",
-    "title": "Elasticsearch Was Never a Database",
-    "url": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46651887",
-    "title": "LWN is currently under the heaviest scraper attack seen yet",
-    "url": "https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46647059",
-    "title": "Read_once(), Write_once(), but Not for Rust",
-    "url": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
+    "publishedAt": "2026-01-16T23:14:43.612Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +157,177 @@
     "title": "Independent Guest Virtual Machine (IGVM) File Format",
     "url": "https://github.com/microsoft/igvm",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T22:15:08.042Z",
+    "publishedAt": "2026-01-16T23:14:43.612Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46637723",
+    "title": "Show HN: 1Code – Open-source Cursor-like UI for Claude Code",
+    "url": "https://github.com/21st-dev/1code",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.612Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46579954",
+    "title": "Elasticsearch was never a database",
+    "url": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.612Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46651887",
+    "title": "LWN is currently under the heaviest scraper attack seen yet",
+    "url": "https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.612Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46649577",
+    "title": "Our approach to advertising",
+    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.612Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46641216",
+    "title": "The Alignment Game (2023)",
+    "url": "https://dmvaldman.github.io/alignment-game/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.612Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46648916",
+    "title": "East Germany balloon escape",
+    "url": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46646645",
+    "title": "Cloudflare acquires Astro",
+    "url": "https://astro.build/blog/joining-cloudflare/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46646777",
+    "title": "Cursor's latest \"browser experiment\" implied success without evidence",
+    "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46635309",
+    "title": "LLM Structured Outputs Handbook",
+    "url": "https://nanonets.com/cookbooks/structured-llm-outputs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46652944",
+    "title": "Install.md: A standard for LLM-executable installation",
+    "url": "https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-16T23:14:43.611Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
