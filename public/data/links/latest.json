@@ -1,78 +1,10 @@
 [
   {
-    "id": "hackernews-46641362",
-    "title": "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
-    "url": "https://github.com/bolt-foundry/gambit",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46639248",
-    "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
-    "url": "https://www.ycombinator.com/companies/aviator/jobs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46636093",
-    "title": "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
-    "url": "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46641042",
-    "title": "Tldraw pauses external contributions due to AI slop",
-    "url": "https://github.com/tldraw/tldraw/issues/7695",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46633488",
     "title": "Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage",
     "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
+    "publishedAt": "2026-01-16T04:34:28.682Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +21,7 @@
     "title": "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
     "url": "https://e360.yale.edu/digest/china-renewable-photo-essay",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
+    "publishedAt": "2026-01-16T04:34:28.682Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +38,7 @@
     "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
     "url": "https://kyutai.org/blog/2026-01-13-pocket-tts",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
+    "publishedAt": "2026-01-16T04:34:28.682Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,41 +55,7 @@
     "title": "Inside The Internet Archive's Infrastructure",
     "url": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46638013",
-    "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
-    "url": "https://briarproject.org/manual/fa/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46638629",
-    "title": "Linux boxes via SSH: suspended when disconected",
-    "url": "https://shellbox.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
+    "publishedAt": "2026-01-16T04:34:28.682Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +72,7 @@
     "title": "Ask HN: How can we solve the loneliness epidemic?",
     "url": "https://news.ycombinator.com/item?id=46635345",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
+    "publishedAt": "2026-01-16T04:34:28.682Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,147 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46637165",
-    "title": "JuiceFS is a distributed POSIX file system built on top of Redis and S3",
-    "url": "https://github.com/juicedata/juicefs",
+    "id": "hackernews-46632023",
+    "title": "25 Years of Wikipedia",
+    "url": "https://wikipedia25.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46641348",
-    "title": "My Gripes with Prolog",
-    "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46618042",
-    "title": "Claude is good at assembling blocks, but still falls apart at creating them",
-    "url": "https://www.approachwithalacrity.com/claude-ne/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46588243",
-    "title": "Go-legacy-winxp: Compile Golang 1.24 code for Windows XP",
-    "url": "https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46637328",
-    "title": "Data is the only moat",
-    "url": "https://frontierai.substack.com/p/data-is-your-only-moat",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46636387",
-    "title": "CVEs affecting the Svelte ecosystem",
-    "url": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46612494",
-    "title": "Show HN: OpenWork – an open-source alternative to Claude Cowork",
-    "url": "https://github.com/different-ai/openwork",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46612919",
-    "title": "First impressions of Claude Cowork",
-    "url": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46629295",
-    "title": "Use of Bayesian methodology in clinical trials of drug and biological products [pdf]",
-    "url": "https://www.fda.gov/media/190505/download",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-16T03:24:39.152Z",
+    "publishedAt": "2026-01-16T04:34:28.682Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
