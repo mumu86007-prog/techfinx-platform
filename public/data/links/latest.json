@@ -4,7 +4,7 @@
     "title": "6-Day and IP Address Certificates Are Generally Available",
     "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
     "url": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46648916",
-    "title": "East Germany balloon escape",
-    "url": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+    "id": "hackernews-46657122",
+    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+    "url": "https://alexharri.com/blog/ascii-rendering",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46615084",
-    "title": "Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless",
-    "url": "https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless",
+    "id": "hackernews-46646475",
+    "title": "The Dilbert Afterlife",
+    "url": "https://www.astralcodexten.com/p/the-dilbert-afterlife",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46646645",
-    "title": "Cloudflare acquires Astro",
-    "url": "https://astro.build/blog/joining-cloudflare/",
+    "id": "hackernews-46656552",
+    "title": "ClickHouse Acquires Langfuse",
+    "url": "https://langfuse.com/blog/joining-clickhouse",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46656998",
-    "title": "PCs refuse to shut down after Microsoft patch",
-    "url": "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
+    "id": "hackernews-46657296",
+    "title": "The 600-year-old origins of the word 'hello'",
+    "url": "https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46630816",
-    "title": "High-Level Is the Goal",
-    "url": "https://bvisness.me/high-level/",
+    "id": "hackernews-46656834",
+    "title": "Map To Poster – Create Art of your favourite city",
+    "url": "https://github.com/originalankur/maptoposter",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,160 @@
     "title": "Architecture for Disposable Systems",
     "url": "https://tuananh.net/2026/01/15/architecture-for-disposable-systems/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46656903",
+    "title": "US electricity demand surged in 2025 – solar handled 61% of it",
+    "url": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46577968",
+    "title": "Finding and Fixing a 50k Goroutine Leak That Nearly Killed Production",
+    "url": "https://skoredin.pro/blog/golang/goroutine-leak-debugging",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46656358",
+    "title": "Show HN: Streaming gigabyte medical images from S3 without downloading them",
+    "url": "https://github.com/PABannier/WSIStreamer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46648916",
+    "title": "East Germany balloon escape",
+    "url": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46656911",
+    "title": "After 25 years, Wikipedia has proved that news doesn't need to look like news",
+    "url": "https://www.niemanlab.org/2026/01/after-25-years-wikipedia-has-proved-that-news-doesnt-need-to-look-like-news/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46657194",
+    "title": "Fitdrop: Personal exploration of fashion from 1980 to 2025",
+    "url": "https://fitdrop.cc/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46646645",
+    "title": "Cloudflare acquires Astro",
+    "url": "https://astro.build/blog/joining-cloudflare/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46615084",
+    "title": "Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless",
+    "url": "https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46630816",
+    "title": "High-Level Is the Goal",
+    "url": "https://bvisness.me/high-level/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +293,7 @@
     "title": "Cursor's latest “browser experiment” implied success without evidence",
     "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,41 +310,7 @@
     "title": "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
     "url": "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46654749",
-    "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
-    "url": "https://neodyme.io/en/blog/drone_hacking_part_1/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46635309",
-    "title": "LLM Structured Outputs Handbook",
-    "url": "https://nanonets.com/cookbooks/structured-llm-outputs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,126 +327,7 @@
     "title": "AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0",
     "url": "https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46588210",
-    "title": "Post-PARA: What survived 4 years of real use",
-    "url": "https://cortwave.github.io/posts/post-para/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46648885",
-    "title": "Dell UltraSharp 52 Thunderbolt Hub Monitor",
-    "url": "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46657116",
-    "title": "Gut micro-organisms associated with health, nutrition and dietary intervention",
-    "url": "https://www.nature.com/articles/s41586-025-09854-7?lid=t94o71j7gslg",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46649142",
-    "title": "STFU",
-    "url": "https://github.com/Pankajtanwarbanna/stfu",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46650347",
-    "title": "Reading across books with Claude Code",
-    "url": "https://pieterma.es/syntopic-reading-claude/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46654085",
-    "title": "Keifu – A TUI for navigating commit graphs with color and clarity",
-    "url": "https://github.com/trasta298/keifu",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46572742",
-    "title": "Which is \"Bouba\", and which is \"Kiki\"? [video]",
-    "url": "https://www.youtube.com/watch?v=1TDIAObsqcs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T12:26:50.416Z",
+    "publishedAt": "2026-01-17T13:24:47.535Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
