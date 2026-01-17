@@ -4,109 +4,7 @@
     "title": "6-Day and IP Address Certificates Are Generally Available",
     "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46646263",
-    "title": "Michelangelo's first painting, created when he was 12 or 13",
-    "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46648144",
-    "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
-    "url": "https://www.shimmer.care/indy-redirect",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46648714",
-    "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
-    "url": "https://www.ycombinator.com/companies/zep-ai/jobs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46653270",
-    "title": "Re: Mix: open-source repairable blender",
-    "url": "https://github.com/openfunkHQ/reMix",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46646226",
-    "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
-    "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46646091",
-    "title": "psc: The ps utility, with an eBPF twist and container context",
-    "url": "https://github.com/loresuso/psc",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +21,7 @@
     "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
     "url": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.167Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +34,130 @@
     "score": 8
   },
   {
+    "id": "hackernews-46646263",
+    "title": "Michelangelo's first painting, created when he was 12 or 13",
+    "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46648144",
+    "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
+    "url": "https://www.shimmer.care/indy-redirect",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46646226",
+    "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
+    "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46648714",
+    "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
+    "url": "https://www.ycombinator.com/companies/zep-ai/jobs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46648916",
+    "title": "East Germany balloon escape",
+    "url": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46646645",
+    "title": "Cloudflare acquires Astro",
+    "url": "https://astro.build/blog/joining-cloudflare/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46653721",
+    "title": "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
+    "url": "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46635309",
     "title": "LLM Structured Outputs Handbook",
     "url": "https://nanonets.com/cookbooks/structured-llm-outputs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -154,10 +171,27 @@
   },
   {
     "id": "hackernews-46646777",
-    "title": "Cursor's latest “browser experiment” implied success without evidence",
+    "title": "Cursor's latest \"browser experiment\" implied success without evidence",
     "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46630816",
+    "title": "High-Level Is the Goal",
+    "url": "https://bvisness.me/high-level/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +208,7 @@
     "title": "Just the Browser",
     "url": "https://justthebrowser.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,28 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46645941",
-    "title": "Patching the Wii News Channel to serve local news (2025)",
-    "url": "https://raulnegron.me/2025/wii-news-pr/",
+    "id": "hackernews-46648885",
+    "title": "Dell UltraSharp 52 Thunderbolt Hub Monitor",
+    "url": "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46649142",
-    "title": "STFU",
-    "url": "https://github.com/Pankajtanwarbanna/stfu",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +242,41 @@
     "title": "Lock-Picking Robot",
     "url": "https://github.com/etinaude/Lock-Picking-Robot",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46645941",
+    "title": "Patching the Wii News Channel to serve local news (2025)",
+    "url": "https://raulnegron.me/2025/wii-news-pr/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46649142",
+    "title": "STFU",
+    "url": "https://github.com/Pankajtanwarbanna/stfu",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +293,7 @@
     "title": "Reading across books with Claude Code",
     "url": "https://pieterma.es/syntopic-reading-claude/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,45 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46618105",
-    "title": "HTTP RateLimit Headers",
-    "url": "https://dotat.at/@/2026-01-13-http-ratelimit.html",
+    "id": "hackernews-46654085",
+    "title": "Keifu – A TUI for navigating commit graphs with color and clarity",
+    "url": "https://github.com/trasta298/keifu",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46579954",
-    "title": "Elasticsearch was never a database",
-    "url": "https://www.paradedb.com/blog/elasticsearch-was-never-a-database",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46651443",
-    "title": "Slop is everywhere for those with eyes to see",
-    "url": "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "Why DuckDB is my first choice for data processing",
     "url": "https://www.robinlinacre.com/recommend_duckdb/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46583581",
-    "title": "Show HN: B-IR – An LLM-optimized programming language",
-    "url": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T01:07:46.168Z",
+    "publishedAt": "2026-01-17T03:17:39.842Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
