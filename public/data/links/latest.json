@@ -4,7 +4,7 @@
     "title": "6-Day and IP Address Certificates Are Generally Available",
     "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T20:15:25.679Z",
+    "publishedAt": "2026-01-17T21:12:27.552Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,28 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46657122",
-    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-    "url": "https://alexharri.com/blog/ascii-rendering",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T20:15:25.679Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46648916",
     "title": "East Germany balloon escape",
     "url": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T20:15:25.679Z",
+    "publishedAt": "2026-01-17T21:12:27.552Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,41 @@
     "title": "The Dilbert Afterlife",
     "url": "https://www.astralcodexten.com/p/the-dilbert-afterlife",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T20:15:25.679Z",
+    "publishedAt": "2026-01-17T21:12:27.552Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46656552",
+    "title": "ClickHouse acquires Langfuse",
+    "url": "https://langfuse.com/blog/joining-clickhouse",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T21:12:27.552Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46656834",
+    "title": "Map To Poster – Create Art of your favourite city",
+    "url": "https://github.com/originalankur/maptoposter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T21:12:27.552Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "Cursor's latest “browser experiment” implied success without evidence",
     "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T20:15:25.679Z",
+    "publishedAt": "2026-01-17T21:12:27.552Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,28 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46656903",
-    "title": "US electricity demand surged in 2025 – solar handled 61% of it",
-    "url": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
+    "id": "hackernews-46657122",
+    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+    "url": "https://alexharri.com/blog/ascii-rendering",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T20:15:25.679Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46656998",
-    "title": "PCs refuse to shut down after Microsoft patch",
-    "url": "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T20:15:25.679Z",
+    "publishedAt": "2026-01-17T21:12:27.551Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
