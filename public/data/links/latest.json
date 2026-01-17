@@ -4,7 +4,7 @@
     "title": "6-Day and IP Address Certificates Are Generally Available",
     "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T18:19:57.591Z",
+    "publishedAt": "2026-01-17T19:10:47.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "The Dilbert Afterlife",
     "url": "https://www.astralcodexten.com/p/the-dilbert-afterlife",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T18:19:57.591Z",
+    "publishedAt": "2026-01-17T19:10:47.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +38,7 @@
     "title": "East Germany balloon escape",
     "url": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T18:19:57.591Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46656903",
-    "title": "US electricity demand surged in 2025 – solar handled 61% of it",
-    "url": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T18:19:57.591Z",
+    "publishedAt": "2026-01-17T19:10:47.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,24 @@
     "title": "Cloudflare acquires Astro",
     "url": "https://astro.build/blog/joining-cloudflare/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T18:19:57.591Z",
+    "publishedAt": "2026-01-17T19:10:47.309Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46656903",
+    "title": "US electricity demand surged in 2025 – solar handled 61% of it",
+    "url": "https://electrek.co/2026/01/16/us-electricity-demand-surged-in-2025-solar-handled-61-percent/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-17T19:10:47.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "Cursor's latest “browser experiment” implied success without evidence",
     "url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T18:19:57.591Z",
+    "publishedAt": "2026-01-17T19:10:47.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,7 @@
     "title": "FLUX.2 [Klein]: Towards Interactive Visual Intelligence",
     "url": "https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T18:19:57.591Z",
+    "publishedAt": "2026-01-17T19:10:47.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46635309",
-    "title": "LLM Structured Outputs Handbook",
-    "url": "https://nanonets.com/cookbooks/structured-llm-outputs",
+    "id": "hackernews-46656998",
+    "title": "PCs refuse to shut down after Microsoft patch",
+    "url": "https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T18:19:57.591Z",
+    "publishedAt": "2026-01-17T19:10:47.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +140,7 @@
     "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
     "url": "https://alexharri.com/blog/ascii-rendering",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-17T18:19:57.590Z",
+    "publishedAt": "2026-01-17T19:10:47.308Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
