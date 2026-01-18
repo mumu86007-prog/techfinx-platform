@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "hackernews-46660543",
+    "title": "Raising money fucked me up",
+    "url": "https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-18T05:18:55.093Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46657122",
+    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+    "url": "https://alexharri.com/blog/ascii-rendering",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-18T05:18:55.093Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46658345",
+    "title": "The recurring dream of replacing developers",
+    "url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-18T05:18:55.093Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46663338",
+    "title": "If you put Apple icons in reverse it looks like someone getting good at design",
+    "url": "https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-18T05:18:55.093Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46662662",
+    "title": "Light Mode InFFFFFFlation",
+    "url": "https://willhbr.net/2025/10/20/light-mode-infffffflation/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-18T05:18:55.093Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
