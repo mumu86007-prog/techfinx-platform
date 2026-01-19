@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "id": "hackernews-46676276",
+    "title": "Radboud University selects Fairphone as standard smartphone for employees",
+    "url": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T19:15:18.099Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46679872",
+    "title": "GLM-4.7-Flash",
+    "url": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T19:15:18.099Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46675853",
+    "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
+    "url": "https://bitchat.free/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T19:15:18.099Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46670279",
+    "title": "Flux 2 Klein pure C inference",
+    "url": "https://github.com/antirez/flux2.c",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T19:15:18.099Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
