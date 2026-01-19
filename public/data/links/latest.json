@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46683645",
+    "title": "Weight Transfer for RL Post-Training in under 2 seconds",
+    "url": "https://research.perplexity.ai/articles/weight-transfer-for-rl-post-training-in-under-2-seconds",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
     "id": "hackernews-46683205",
     "title": "Letter from a Birmingham Jail [King, Jr.] (1963)",
     "url": "https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.914Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,113 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46683947",
-    "title": "Threads edges out X in daily mobile users, new data shows",
-    "url": "https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/",
+    "id": "hackernews-46684056",
+    "title": "Level S4 solar radiation event",
+    "url": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46680597",
-    "title": "Show HN: Pipenet – A Modern Alternative to Localtunnel",
-    "url": "https://pipenet.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.914Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46683833",
-    "title": "There's a hidden Android setting that spots fake cell towers",
-    "url": "https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.914Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46675271",
-    "title": "Bypassing Gemma and Qwen safety with raw strings",
-    "url": "https://teendifferent.substack.com/p/apply_chat_template-is-the-safety",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.914Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46675853",
-    "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
-    "url": "https://bitchat.free/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.914Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46674433",
-    "title": "San Francisco coyote swims to Alcatraz",
-    "url": "https://www.sfgate.com/local/article/san-francisco-coyote-alcatraz-21302218.php",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.914Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46683969",
-    "title": "Mammals have evolved into ant eaters 12 times since the dinosaur age – study",
-    "url": "https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.914Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,24 +55,7 @@
     "title": "What came first: the CNAME or the A record?",
     "url": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46683752",
-    "title": "Understanding C++ Ownership System",
-    "url": "https://blog.aiono.dev/posts/understanding-c++-ownership-system.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +72,58 @@
     "title": "Nearly a third of social media research has undisclosed ties to industry",
     "url": "https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46676081",
+    "title": "The coming industrialisation of exploit generation with LLMs",
+    "url": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46684815",
+    "title": "Targeted Bets: An alternative approach to the job hunt",
+    "url": "https://www.seanmuirhead.com/blog/targeted-bets",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46683752",
+    "title": "Understanding C++ Ownership System",
+    "url": "https://blog.aiono.dev/posts/understanding-c++-ownership-system.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,24 +140,7 @@
     "title": "Notes on Apple's Nano Texture (2025)",
     "url": "https://jon.bo/posts/nano-texture/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46649781",
-    "title": "Graphics In Flatland – 2D ray tracing [video]",
-    "url": "https://www.youtube.com/watch?v=WYTOykSqf2Y",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +157,41 @@
     "title": "Simple Sabotage Field Manual [pdf]",
     "url": "https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46684708",
+    "title": "The assistant axis: situating and stabilizing the character of LLMs",
+    "url": "https://www.anthropic.com/research/assistant-axis",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46649781",
+    "title": "Graphics In Flatland – 2D ray tracing [video]",
+    "url": "https://www.youtube.com/watch?v=WYTOykSqf2Y",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +208,7 @@
     "title": "Show HN: Subth.ink – write something and see how many others wrote the same",
     "url": "https://subth.ink/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,28 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46683589",
-    "title": "Fix macOS 26 (Tahoe) exaggerated rounded corners",
-    "url": "https://github.com/makalin/CornerFix",
+    "id": "hackernews-46682115",
+    "title": "Show HN: An interactive physics simulator with 1000's of balls, in your terminal",
+    "url": "https://github.com/minimaxir/ballin",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46632120",
-    "title": "Conditions in the Intel 8087 floating-point chip's microcode",
-    "url": "https://www.righto.com/2025/12/8087-microcode-conditions.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +242,7 @@
     "title": "From Nevada to Kansas by Glider",
     "url": "https://www.weglide.org/flight/978820",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46683858",
-    "title": "Show HN: A creative coding library for making art with desktop windows",
-    "url": "https://github.com/willmeyers/window-art",
+    "id": "hackernews-46632120",
+    "title": "Conditions in the Intel 8087 floating-point chip's microcode",
+    "url": "https://www.righto.com/2025/12/8087-microcode-conditions.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +276,58 @@
     "title": "Sending Data over Offline Finding Networks",
     "url": "https://cc-sw.com/find-my-and-find-hub-network-research/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T22:15:20.913Z",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46679907",
+    "title": "CSS Web Components for marketing sites (2024)",
+    "url": "https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46683858",
+    "title": "Show HN: A creative coding library for making art with desktop windows",
+    "url": "https://github.com/willmeyers/window-art",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46680597",
+    "title": "Show HN: Pipenet – A Modern Alternative to Localtunnel",
+    "url": "https://pipenet.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T23:14:49.155Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
