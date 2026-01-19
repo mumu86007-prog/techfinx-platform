@@ -1,10 +1,78 @@
 [
   {
-    "id": "hackernews-46665839",
-    "title": "A Social Filesystem",
-    "url": "https://overreacted.io/a-social-filesystem/",
+    "id": "hackernews-46673453",
+    "title": "At least 21 killed in Spain after crash involving high-speed trains",
+    "url": "https://www.bbc.com/news/articles/cedw6ylpynyo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T04:45:27.879Z",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46673809",
+    "title": "Show HN: I quit coding years ago. AI brought me back",
+    "url": "https://calquio.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46674505",
+    "title": "CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod",
+    "url": "https://www.patreon.com/posts/another-one-dust-148437771",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46605155",
+    "title": "Using proxies to hide secrets from Claude Code",
+    "url": "https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46670024",
+    "title": "Gaussian Splatting – A$AP Rocky Helicopter Music Video",
+    "url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,62 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46672150",
-    "title": "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
-    "url": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/",
+    "id": "hackernews-46656897",
+    "title": "Don't waste your back pressure",
+    "url": "https://banay.me/dont-waste-your-backpressure/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T04:45:27.879Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46666085",
-    "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
-    "url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T04:45:27.879Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46668021",
-    "title": "The A in AGI Stands for Ads",
-    "url": "https://ossa-ma.github.io/blog/openads",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T04:45:27.879Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46657122",
-    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-    "url": "https://alexharri.com/blog/ascii-rendering",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T04:45:27.879Z",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "Flux 2 Klein pure C inference",
     "url": "https://github.com/antirez/flux2.c",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T04:45:27.877Z",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +119,215 @@
     "score": 6
   },
   {
-    "id": "hackernews-46670024",
-    "title": "Gaussian Splatting – A$AP Rocky Helicopter Music Video",
-    "url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+    "id": "hackernews-46674416",
+    "title": "The Code-Only Agent",
+    "url": "https://rijnard.com/blog/the-code-only-agent",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T04:45:27.876Z",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46665839",
+    "title": "A Social Filesystem",
+    "url": "https://overreacted.io/a-social-filesystem/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46671731",
+    "title": "Dead Internet Theory",
+    "url": "https://kudmitry.com/articles/dead-internet-theory/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46646080",
+    "title": "Fil-Qt: A Qt Base build with Fil-C experience",
+    "url": "https://git.qt.io/cradam/fil-qt",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46624883",
+    "title": "Gas Town Decoded",
+    "url": "https://www.alilleybrinker.com/mini/gas-town-decoded/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46610800",
+    "title": "AVX-512: First Impressions on Performance and Programmability",
+    "url": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46674424",
+    "title": "All your OpenCodes belong to us",
+    "url": "https://johncodes.com/archive/2026/01-18-all-your-opencodes/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46639897",
+    "title": "The Space and Motion of Communicating Agents (2008) [pdf]",
+    "url": "https://www.cl.cam.ac.uk/archive/rm135/Bigraphs-draft.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46671952",
+    "title": "Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss",
+    "url": "https://getdock.io/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46624396",
+    "title": "Poking holes into bytecode with peephole optimisations",
+    "url": "https://xnacly.me/posts/2026/purple-garden-first-optimisations/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46666085",
+    "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
+    "url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46672150",
+    "title": "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
+    "url": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46637937",
+    "title": "Astrophotography visibility plotting and planning tool",
+    "url": "https://airmass.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T05:26:36.791Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
