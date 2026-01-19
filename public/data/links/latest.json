@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46673453",
-    "title": "High-speed train collision in Spain kills at least 39",
-    "url": "https://www.bbc.com/news/articles/cedw6ylpynyo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T15:20:03.015Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46676276",
     "title": "Radboud University selects Fairphone as standard smartphone for employees",
     "url": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T15:20:03.014Z",
+    "publishedAt": "2026-01-19T16:21:03.378Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "Show HN: I quit coding years ago. AI brought me back",
     "url": "https://calquio.com/finance/compound-interest",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T15:20:03.014Z",
+    "publishedAt": "2026-01-19T16:21:03.378Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,28 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46678430",
-    "title": "Article by article, how Big Tech shaped the EU's roll-back of digital rights",
-    "url": "https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T15:20:03.015Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46675853",
     "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
     "url": "https://bitchat.free/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T15:20:03.014Z",
+    "publishedAt": "2026-01-19T16:21:03.378Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +55,7 @@
     "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
     "url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T15:20:03.014Z",
+    "publishedAt": "2026-01-19T16:21:03.378Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +72,7 @@
     "title": "Dead Internet Theory",
     "url": "https://kudmitry.com/articles/dead-internet-theory/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T15:20:03.014Z",
+    "publishedAt": "2026-01-19T16:21:03.378Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +89,7 @@
     "title": "Flux 2 Klein pure C inference",
     "url": "https://github.com/antirez/flux2.c",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T15:20:03.014Z",
+    "publishedAt": "2026-01-19T16:21:03.378Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +106,24 @@
     "title": "Amazon is ending all inventory commingling as of March 31, 2026",
     "url": "https://twitter.com/ghhughes/status/2012824754319753456",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T15:20:03.014Z",
+    "publishedAt": "2026-01-19T16:21:03.378Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46678430",
+    "title": "Article by article, how Big Tech shaped the EU's roll-back of digital rights",
+    "url": "https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T16:21:03.378Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
