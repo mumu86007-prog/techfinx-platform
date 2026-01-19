@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "id": "hackernews-46665839",
+    "title": "A Social Filesystem",
+    "url": "https://overreacted.io/a-social-filesystem/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T11:16:56.526Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46672150",
+    "title": "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
+    "url": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T11:16:56.526Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46657122",
+    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+    "url": "https://alexharri.com/blog/ascii-rendering",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T11:16:56.526Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46675853",
+    "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
+    "url": "https://bitchat.free/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T11:16:56.525Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46670024",
+    "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+    "url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T11:16:56.525Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46670279",
+    "title": "Flux 2 Klein pure C inference",
+    "url": "https://github.com/antirez/flux2.c",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T11:16:56.525Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46671731",
+    "title": "Dead Internet Theory",
+    "url": "https://kudmitry.com/articles/dead-internet-theory/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T11:16:56.525Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
