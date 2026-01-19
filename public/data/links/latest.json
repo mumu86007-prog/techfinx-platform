@@ -1,10 +1,146 @@
 [
   {
-    "id": "hackernews-46665839",
-    "title": "A Social Filesystem",
-    "url": "https://overreacted.io/a-social-filesystem/",
+    "id": "hackernews-46677106",
+    "title": "Wikipedia: WikiProject AI Cleanup",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T11:16:56.526Z",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46673809",
+    "title": "Show HN: I quit coding years ago. AI brought me back",
+    "url": "https://calquio.com/finance/compound-interest",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46676824",
+    "title": "Greenpeace pilot brings heat pumps and solar to Ukrainian community",
+    "url": "https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46673453",
+    "title": "High-speed train collision in Spain kills at least 39",
+    "url": "https://www.bbc.com/news/articles/cedw6ylpynyo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46627410",
+    "title": "Nepal's Mountainside Teahouses Elevate the Experience for Trekkers",
+    "url": "https://www.smithsonianmag.com/travel/nepal-mountainside-teahouses-elevate-experience-trekkers-heading-to-top-world-180987844/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.797Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46676276",
+    "title": "Radboud University selects Fairphone as standard smartphone for employees",
+    "url": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.796Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46677549",
+    "title": "Show HN: Kacet – a freelancer marketplace with crypto-native payments",
+    "url": "https://kacet.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7.5
+  },
+  {
+    "id": "hackernews-46605155",
+    "title": "Using proxies to hide secrets from Claude Code",
+    "url": "https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46671731",
+    "title": "Dead Internet Theory",
+    "url": "https://kudmitry.com/articles/dead-internet-theory/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,62 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46672150",
-    "title": "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
-    "url": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/",
+    "id": "hackernews-46656897",
+    "title": "Provide agents with automated feedback",
+    "url": "https://banay.me/dont-waste-your-backpressure/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T11:16:56.526Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46657122",
-    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
-    "url": "https://alexharri.com/blog/ascii-rendering",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T11:16:56.526Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46675853",
-    "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
-    "url": "https://bitchat.free/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T11:16:56.525Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46670024",
-    "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
-    "url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T11:16:56.525Z",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +174,7 @@
     "title": "Flux 2 Klein pure C inference",
     "url": "https://github.com/antirez/flux2.c",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T11:16:56.525Z",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +187,147 @@
     "score": 6
   },
   {
-    "id": "hackernews-46671731",
-    "title": "Dead Internet Theory",
-    "url": "https://kudmitry.com/articles/dead-internet-theory/",
+    "id": "hackernews-46651691",
+    "title": "Gladys West's vital contributions to GPS technology",
+    "url": "https://en.wikipedia.org/wiki/Gladys_West",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-19T11:16:56.525Z",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46665839",
+    "title": "A Social Filesystem",
+    "url": "https://overreacted.io/a-social-filesystem/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46646080",
+    "title": "Fil-Qt: A Qt Base build with Fil-C experience",
+    "url": "https://git.qt.io/cradam/fil-qt",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46674416",
+    "title": "The Code-Only Agent",
+    "url": "https://rijnard.com/blog/the-code-only-agent",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46616541",
+    "title": "Fluid Gears Rotate Without Teeth",
+    "url": "https://phys.org/news/2026-01-fluid-gears-rotate-teeth-mechanical.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46677212",
+    "title": "RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board",
+    "url": "https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46610800",
+    "title": "AVX-512: First Impressions on Performance and Programmability",
+    "url": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46624883",
+    "title": "Gas Town Decoded",
+    "url": "https://www.alilleybrinker.com/mini/gas-town-decoded/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46675092",
+    "title": "Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go",
+    "url": "https://github.com/elC0mpa/aws-doctor",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-19T12:34:49.798Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
