@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46695628",
+    "title": "The 26,000-Year Astronomical Monument Hidden in Plain Sight",
+    "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.186Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46693205",
     "title": "Nvidia Stock Crash Prediction",
     "url": "https://entropicthoughts.com/nvidia-stock-crash-prediction",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "Reticulum, a secure and anonymous mesh networking stack",
     "url": "https://github.com/markqvist/Reticulum",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +51,28 @@
     "score": 7
   },
   {
-    "id": "hackernews-46684056",
-    "title": "Level S4 solar radiation event",
-    "url": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
+    "id": "hackernews-46696683",
+    "title": "The secret medieval tunnels that we still don't understand",
+    "url": "https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46694124",
+    "title": "The Unix Pipe Card Game",
+    "url": "https://punkx.org/unix-pipe-game/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46693346",
-    "title": "De-dollarization: Is the US dollar losing its dominance? (2025)",
-    "url": "https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization",
+    "id": "hackernews-46696300",
+    "title": "Without benchmarking LLMs, you're likely overpaying 5-10x",
+    "url": "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,113 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46680974",
-    "title": "Apple testing new App Store design that blurs the line between ads and results",
-    "url": "https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/",
+    "id": "hackernews-46692116",
+    "title": "Unconventional PostgreSQL Optimizations",
+    "url": "https://hakibenita.com/postgresql-unconventional-optimizations",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46690907",
-    "title": "Running Claude Code dangerously (safely)",
-    "url": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46681611",
-    "title": "What came first: the CNAME or the A record?",
-    "url": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46676081",
-    "title": "The coming industrialisation of exploit generation with LLMs",
-    "url": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46670524",
-    "title": "Prediction markets are ushering in a world in which news becomes about gambling",
-    "url": "https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46684958",
-    "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
-    "url": "https://github.com/jordanhubbard/nanolang",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46682518",
-    "title": "Notes on Apple's Nano Texture (2025)",
-    "url": "https://jon.bo/posts/nano-texture/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.613Z",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +123,211 @@
     "title": "I'm addicted to being useful",
     "url": "https://www.seangoedecke.com/addicted-to-being-useful/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T20:07:53.612Z",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46696357",
+    "title": "Instabridge has acquired Nova Launcher",
+    "url": "https://novalauncher.com/nova-is-here-to-stay",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46618472",
+    "title": "Show HN: wxpath – Declarative web crawling in XPath",
+    "url": "https://github.com/rodricios/wxpath",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46689065",
+    "title": "Linux kernel framework for PCIe device emulation, in userspace",
+    "url": "https://github.com/cakehonolulu/pciem",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46652569",
+    "title": "Fast Concordance: Instant concordance on a corpus of >1,200 books",
+    "url": "https://iafisher.com/concordance/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46693959",
+    "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
+    "url": "https://github.com/mastra-ai/mastra",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46691660",
+    "title": "The Zen of Reticulum",
+    "url": "https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46684056",
+    "title": "Level S4 solar radiation event",
+    "url": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46695978",
+    "title": "When \"Likers'' Go Private: Engagement with Reputationally Risky Content on X",
+    "url": "https://arxiv.org/abs/2601.11140",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46693346",
+    "title": "De-dollarization: Is the US dollar losing its dominance? (2025)",
+    "url": "https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46691835",
+    "title": "IP Addresses Through 2025",
+    "url": "https://www.potaroo.net/ispcol/2026-01/addr2025.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46690920",
+    "title": "Channel3 (YC S25) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46691454",
+    "title": "Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API",
+    "url": "https://github.com/majcheradam/ocrbase",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T21:14:44.187Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
