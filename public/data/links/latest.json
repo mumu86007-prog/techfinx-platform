@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46684056",
+    "title": "Level S4 solar radiation event",
+    "url": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T04:39:14.508Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46682534",
     "title": "Nearly a third of social media research has undisclosed ties to industry",
     "url": "https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T03:28:25.220Z",
+    "publishedAt": "2026-01-20T04:39:14.508Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,24 +38,7 @@
     "title": "What came first: the CNAME or the A record?",
     "url": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T03:28:25.220Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46684056",
-    "title": "Level S4 solar radiation event",
-    "url": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T03:28:25.219Z",
+    "publishedAt": "2026-01-20T04:39:14.508Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
