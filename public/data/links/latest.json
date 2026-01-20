@@ -4,7 +4,7 @@
     "title": "Reticulum, a secure and anonymous mesh networking stack",
     "url": "https://github.com/markqvist/Reticulum",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
+    "publishedAt": "2026-01-20T16:26:39.182Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,96 +17,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46691835",
-    "title": "IP Addresses Through 2025",
-    "url": "https://www.potaroo.net/ispcol/2026-01/addr2025.html",
+    "id": "hackernews-46692594",
+    "title": "Danish pension fund divesting US Treasuries",
+    "url": "https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46691660",
-    "title": "The Zen of Reticulum",
-    "url": "https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46691454",
-    "title": "Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API",
-    "url": "https://github.com/majcheradam/ocrbase",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46690402",
-    "title": "I'm addicted to being useful",
-    "url": "https://www.seangoedecke.com/addicted-to-being-useful/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46690907",
-    "title": "Running Claude Code dangerously (safely)",
-    "url": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46689065",
-    "title": "Linux kernel framework for PCIe device emulation, in userspace",
-    "url": "https://github.com/cakehonolulu/pciem",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
+    "publishedAt": "2026-01-20T16:26:39.182Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,24 +38,7 @@
     "title": "Level S4 solar radiation event",
     "url": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46690530",
-    "title": "IP over Avian Carriers with Quality of Service (1999)",
-    "url": "https://www.rfc-editor.org/rfc/rfc2549.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
+    "publishedAt": "2026-01-20T16:26:39.182Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,41 +55,7 @@
     "title": "Apple testing new App Store design that blurs the line between ads and results",
     "url": "https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46629399",
-    "title": "Increasing the performance of WebAssembly Text Format parser by 350%",
-    "url": "https://blog.gplane.win/posts/improve-wat-parser-perf.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46690920",
-    "title": "Channel3 (YC S25) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
+    "publishedAt": "2026-01-20T16:26:39.182Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,109 +72,7 @@
     "title": "What came first: the CNAME or the A record?",
     "url": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46646870",
-    "title": "Benchmarking a Baseline Fully-in-Place Functional Language Compiler [pdf]",
-    "url": "https://trendsfp.github.io/papers/tfp26-paper-12.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46688971",
-    "title": "The Overcomplexity of the Shadcn Radio Button",
-    "url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46684958",
-    "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
-    "url": "https://github.com/jordanhubbard/nanolang",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46691243",
-    "title": "Ask HN: Do you have any evidence that agentic coding works?",
-    "url": "https://news.ycombinator.com/item?id=46691243",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46676081",
-    "title": "The coming industrialisation of exploit generation with LLMs",
-    "url": "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46686418",
-    "title": "Scaling long-running autonomous coding",
-    "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
+    "publishedAt": "2026-01-20T16:26:39.182Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +89,58 @@
     "title": "Notes on Apple's Nano Texture (2025)",
     "url": "https://jon.bo/posts/nano-texture/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-20T15:24:27.677Z",
+    "publishedAt": "2026-01-20T16:26:39.182Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46688971",
+    "title": "The Overcomplexity of the Shadcn Radio Button",
+    "url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T16:26:39.182Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46670524",
+    "title": "Prediction markets are ushering in a world in which news becomes about gambling",
+    "url": "https://www.theatlantic.com/technology/2026/01/america-polymarket-disaster/685662/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T16:26:39.182Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46690402",
+    "title": "I'm addicted to being useful",
+    "url": "https://www.seangoedecke.com/addicted-to-being-useful/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-20T16:26:39.181Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
