@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46698370",
-    "title": "Which AI Lies Best? A game theory classic designed by John Nash",
-    "url": "https://so-long-sucker.vercel.app/",
+    "id": "hackernews-46701733",
+    "title": "Curl removes bug bounties because of AI slop",
+    "url": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46696276",
-    "title": "Maintenance: Of Everything, Part One",
-    "url": "https://press.stripe.com/maintenance-part-one",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46642490",
-    "title": "Show HN: Aventos – An experiment in cheap AI SEO",
-    "url": "https://www.aventos.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
     "url": "https://github.com/ef1500/libbbf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.579Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +38,58 @@
     "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
     "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.579Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46698370",
+    "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+    "url": "https://so-long-sucker.vercel.app/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46656759",
+    "title": "Show HN: I built a tool to assist AI agents to know when a PR is good to go",
+    "url": "https://dsifry.github.io/goodtogo/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46696276",
+    "title": "Maintenance: Of Everything, Part One",
+    "url": "https://press.stripe.com/maintenance-part-one",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "IPv6 is not insecure because it lacks a NAT",
     "url": "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +123,7 @@
     "title": "Nvidia Stock Crash Prediction",
     "url": "https://entropicthoughts.com/nvidia-stock-crash-prediction",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +136,45 @@
     "score": 7
   },
   {
+    "id": "hackernews-46700594",
+    "title": "Anthropic's original take home assignment open sourced",
+    "url": "https://github.com/anthropics/original_performance_takehome",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46675630",
+    "title": "Are arrays functions?",
+    "url": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46696357",
     "title": "Instabridge has acquired Nova Launcher",
     "url": "https://novalauncher.com/nova-is-here-to-stay",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +191,7 @@
     "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
     "url": "https://github.com/mastra-ai/mastra",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,45 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46700809",
-    "title": "Disaster planning for regular folks (2015)",
-    "url": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+    "id": "hackernews-46698660",
+    "title": "California is free of drought for the first time in 25 years",
+    "url": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46694124",
-    "title": "The Unix Pipe Card Game",
-    "url": "https://punkx.org/unix-pipe-game/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46692116",
-    "title": "Unconventional PostgreSQL Optimizations",
-    "url": "https://hakibenita.com/postgresql-unconventional-optimizations",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +225,7 @@
     "title": "The GDB JIT Interface",
     "url": "https://bernsteinbear.com/blog/gdb-jit/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +238,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46698469",
-    "title": "Provably unmasking malicious behavior through execution traces",
-    "url": "https://arxiv.org/abs/2512.13821",
+    "id": "hackernews-46694124",
+    "title": "The Unix Pipe Card Game",
+    "url": "https://punkx.org/unix-pipe-game/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46700809",
+    "title": "Disaster planning for regular folks (2015)",
+    "url": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +276,7 @@
     "title": "The challenges of soft delete",
     "url": "https://atlas9.dev/blog/soft-delete.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,45 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46699597",
-    "title": "Who Owns Rudolph's Nose?",
-    "url": "https://creativelawcenter.com/copyright-rudolph-reindeer/",
+    "id": "hackernews-46692116",
+    "title": "Unconventional PostgreSQL Optimizations",
+    "url": "https://hakibenita.com/postgresql-unconventional-optimizations",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46696699",
-    "title": "Our approach to age prediction",
-    "url": "https://openai.com/index/our-approach-to-age-prediction/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46676708",
-    "title": "Building Robust Helm Charts",
-    "url": "https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +310,7 @@
     "title": "Lunar Radio Telescope to Unlock Cosmic Mysteries",
     "url": "https://spectrum.ieee.org/lunar-radio-telescope",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "Show HN: Agent Skills Leaderboard",
     "url": "https://skills.sh/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T06:26:46.580Z",
+    "publishedAt": "2026-01-21T07:22:21.350Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
