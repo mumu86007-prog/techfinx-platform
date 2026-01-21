@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46707699",
-    "title": "Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday",
-    "url": "https://news.ycombinator.com/item?id=46707699",
+    "id": "hackernews-46711958",
+    "title": "Show HN: Grov – Multiplayer for AI coding agents",
+    "url": "https://github.com/TonyStef/Grov",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T22:18:27.454Z",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,317 @@
     "score": 8
   },
   {
+    "id": "hackernews-46711380",
+    "title": "Spotify won court order against Anna's Archive, taking down .org domain",
+    "url": "https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46710569",
+    "title": "OpenAI API Logs: Unpatched data exfiltration",
+    "url": "https://www.promptarmor.com/resources/openai-api-logs-unpatched-data-exfiltration",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46709543",
+    "title": "Show HN: Rails UI",
+    "url": "https://railsui.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46708678",
+    "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
+    "url": "https://blog.kagi.com/waiting-dawn-search",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46676861",
+    "title": "SIMD programming in pure Rust",
+    "url": "https://kerkour.com/introduction-rust-simd",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46708592",
+    "title": "Open source server code for the BitCraft MMORPG",
+    "url": "https://github.com/clockworklabs/BitCraftPublic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46708766",
+    "title": "Slouching Towards Bethlehem – Joan Didion (1967)",
+    "url": "https://www.saturdayeveningpost.com/2017/06/didion/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46709179",
+    "title": "Scientists find a way to regrow cartilage in mice and human tissue samples",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46705676",
+    "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
+    "url": "https://news.ycombinator.com/item?id=46705676",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46709548",
+    "title": "TeraWave Satellite Communications Network",
+    "url": "https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46702411",
+    "title": "Can you slim macOS down?",
+    "url": "https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46705201",
+    "title": "Nested code fences in Markdown",
+    "url": "https://susam.net/nested-code-fences.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46705830",
+    "title": "Show HN: Semantic search engine for Studio Ghibli movie",
+    "url": "https://ghibli-search.anini.workers.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.757Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46706528",
     "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
     "url": "https://github.com/ChartGPU/ChartGPU",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T22:18:27.453Z",
+    "publishedAt": "2026-01-21T23:19:08.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46711649",
+    "title": "Show HN: TerabyteDeals – Compare storage prices by $/TB",
+    "url": "https://terabytedeals.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46707572",
+    "title": "Claude's new constitution",
+    "url": "https://www.anthropic.com/news/claude-new-constitution",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46651027",
+    "title": "Golfing APL/K in 90 Lines of Python",
+    "url": "https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46706906",
+    "title": "Skip is now free and open source",
+    "url": "https://skip.dev/blog/skip-is-free/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.755Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46708351",
+    "title": "Challenges in join optimization",
+    "url": "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T23:19:08.755Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
