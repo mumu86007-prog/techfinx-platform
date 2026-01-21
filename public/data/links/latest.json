@@ -4,7 +4,7 @@
     "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
     "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T09:26:31.357Z",
+    "publishedAt": "2026-01-21T10:20:39.511Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,28 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46698660",
-    "title": "California is free of drought for the first time in 25 years",
-    "url": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
+    "id": "hackernews-46691243",
+    "title": "Ask HN: Do you have any evidence that agentic coding works?",
+    "url": "https://news.ycombinator.com/item?id=46691243",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T09:26:31.358Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46692116",
-    "title": "Unconventional PostgreSQL Optimizations",
-    "url": "https://hakibenita.com/postgresql-unconventional-optimizations",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T09:26:31.358Z",
+    "publishedAt": "2026-01-21T10:20:39.512Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,41 @@
     "title": "Anthropic's original take home assignment open sourced",
     "url": "https://github.com/anthropics/original_performance_takehome",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-21T09:26:31.357Z",
+    "publishedAt": "2026-01-21T10:20:39.511Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46698660",
+    "title": "California is free of drought for the first time in 25 years",
+    "url": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T10:20:39.511Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46692116",
+    "title": "Unconventional PostgreSQL Optimizations",
+    "url": "https://hakibenita.com/postgresql-unconventional-optimizations",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-21T10:20:39.511Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
