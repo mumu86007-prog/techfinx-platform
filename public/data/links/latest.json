@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46709543",
+    "title": "Show HN: Rails UI",
+    "url": "https://railsui.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46708678",
     "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
     "url": "https://blog.kagi.com/waiting-dawn-search",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T04:42:09.901Z",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "Internet voting is insecure and should not be used in public elections",
     "url": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T04:42:09.901Z",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +51,79 @@
     "score": 7
   },
   {
+    "id": "hackernews-46713106",
+    "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
+    "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46713526",
+    "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
+    "url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46713444",
+    "title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
+    "url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46658128",
+    "title": "Binary fuse filters: Fast and smaller than xor filters (2022)",
+    "url": "https://arxiv.org/abs/2201.01174",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46706528",
     "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
     "url": "https://github.com/ChartGPU/ChartGPU",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T04:42:09.901Z",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +140,41 @@
     "title": "Claude's new constitution",
     "url": "https://www.anthropic.com/news/claude-new-constitution",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T04:42:09.901Z",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46711649",
+    "title": "Show HN: TerabyteDeals – Compare storage prices by $/TB",
+    "url": "https://terabytedeals.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46714916",
+    "title": "Show HN: High speed graphics rendering research with tinygrad/tinyJIT",
+    "url": "https://github.com/quantbagel/gtinygrad",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +191,143 @@
     "title": "Skip is now free and open source",
     "url": "https://skip.dev/blog/skip-is-free/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T04:42:09.901Z",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46668780",
+    "title": "Show HN: Open-source certificate from GitHub activity",
+    "url": "https://certificate.brendonmatos.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46652173",
+    "title": "Letting Claude play text adventures",
+    "url": "https://borretti.me/article/letting-claude-play-text-adventures",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46705676",
+    "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
+    "url": "https://news.ycombinator.com/item?id=46705676",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46658133",
+    "title": "Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby",
+    "url": "https://www.ratatui-ruby.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46713473",
+    "title": "Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env",
+    "url": "https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46708601",
+    "title": "TrustTunnel: AdGuard VPN protocol goes open-source",
+    "url": "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46712815",
+    "title": "Convert potentially dangerous PDFs to safe PDFs",
+    "url": "https://github.com/freedomofpress/dangerzone",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46675583",
+    "title": "Beowulf's opening \"What\" is no interjection (2013)",
+    "url": "https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T05:22:57.810Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
