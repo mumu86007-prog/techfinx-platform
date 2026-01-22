@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46712678",
-    "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-    "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
+    "id": "hackernews-46716696",
+    "title": "In Praise of APL (1977)",
+    "url": "https://www.jsoftware.com/papers/perlis77.htm",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46708678",
-    "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-    "url": "https://blog.kagi.com/waiting-dawn-search",
+    "id": "hackernews-46712678",
+    "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
+    "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,24 @@
     "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
     "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46708678",
+    "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
+    "url": "https://blog.kagi.com/waiting-dawn-search",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Show HN: Rails UI",
     "url": "https://railsui.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "Significant US farm losses persist, despite federal assistance",
     "url": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
     "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +123,7 @@
     "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
     "url": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
     "url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +157,7 @@
     "title": "Hands-On Introduction to Unikernels",
     "url": "https://labs.iximiuz.com/tutorials/unikernels-intro-93976514",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,24 @@
     "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
     "url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46672713",
+    "title": "App Subscription is now my Weekend Project",
+    "url": "https://rselbach.com/your-sub-is-now-my-weekend-project",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +208,7 @@
     "title": "Gathering Linux Syscall Numbers in a C Table",
     "url": "https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +225,7 @@
     "title": "Claude's new constitution",
     "url": "https://www.anthropic.com/news/claude-new-constitution",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,24 +242,7 @@
     "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
     "url": "https://github.com/ChartGPU/ChartGPU",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46658128",
-    "title": "Binary fuse filters: Fast and smaller than xor filters (2022)",
-    "url": "https://arxiv.org/abs/2201.01174",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +259,24 @@
     "title": "Skip is now free and open source",
     "url": "https://skip.dev/blog/skip-is-free/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46658128",
+    "title": "Binary fuse filters: Fast and smaller than xor filters (2022)",
+    "url": "https://arxiv.org/abs/2201.01174",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +293,24 @@
     "title": "Lix – universal version control system for binary files",
     "url": "https://lix.dev/blog/introducing-lix/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46716560",
+    "title": "SpaceX lowering orbits of 4,400 Starlink satellites for safety's sake",
+    "url": "https://www.space.com/space-exploration/satellites/spacex-lowering-orbits-of-4-400-starlink-satellites-for-safetys-sake",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,58 +327,7 @@
     "title": "TrustTunnel: AdGuard VPN protocol goes open-source",
     "url": "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46708032",
-    "title": "JPEG XL Test Page",
-    "url": "https://tildeweb.nl/~michiel/jxl/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46705676",
-    "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
-    "url": "https://news.ycombinator.com/item?id=46705676",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46714916",
-    "title": "Show HN: High speed graphics rendering research with tinygrad/tinyJIT",
-    "url": "https://github.com/quantbagel/gtinygrad",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-22T09:26:59.654Z",
+    "publishedAt": "2026-01-22T10:21:03.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
