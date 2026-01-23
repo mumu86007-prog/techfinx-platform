@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-46729368",
+    "title": "Proton Spam and the AI Consent Problem",
+    "url": "https://dbushell.com/2026/01/22/proton-spam/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T19:19:54.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46732213",
+    "title": "Radicle: The Sovereign Forge",
+    "url": "https://radicle.xyz/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T19:19:54.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46730885",
+    "title": "Booting from a vinyl record (2020)",
+    "url": "https://boginjr.com/it/sw/dev/vinyl-boot/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T19:19:54.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46728808",
+    "title": "I built a light that reacts to radio waves [video]",
+    "url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T19:19:54.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46731976",
+    "title": "European Alternatives",
+    "url": "https://european-alternatives.eu/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T19:19:54.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46725288",
+    "title": "Capital One to acquire Brex for $5.15B",
+    "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T19:19:54.069Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
