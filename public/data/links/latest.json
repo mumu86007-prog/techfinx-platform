@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46729368",
-    "title": "Proton Spam and the AI Consent Problem",
-    "url": "https://dbushell.com/2026/01/22/proton-spam/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46730504",
     "title": "AI Usage Policy",
     "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
+    "publishedAt": "2026-01-23T16:21:37.320Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46728808",
-    "title": "I built a light that reacts to radio waves [video]",
-    "url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
+    "id": "hackernews-46729368",
+    "title": "Proton Spam and the AI Consent Problem",
+    "url": "https://dbushell.com/2026/01/22/proton-spam/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
+    "publishedAt": "2026-01-23T16:21:37.319Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,31 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46721802",
-    "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-    "url": "https://cannoneyed.com/isometric-nyc/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 8
   },
   {
     "id": "hackernews-46720395",
     "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
     "url": "https://gptzero.me/news/neurips/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
+    "publishedAt": "2026-01-23T16:21:37.320Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +55,7 @@
     "title": "Capital One to acquire Brex for $5.15B",
     "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
+    "publishedAt": "2026-01-23T16:21:37.320Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +72,7 @@
     "title": "Why does SSH send 100 packets per keystroke?",
     "url": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
+    "publishedAt": "2026-01-23T16:21:37.320Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +89,7 @@
     "title": "I was banned from Claude for scaffolding a Claude.md file?",
     "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
+    "publishedAt": "2026-01-23T16:21:37.320Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +106,7 @@
     "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
     "url": "https://qwen.ai/blog?id=qwen3tts-0115",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
+    "publishedAt": "2026-01-23T16:21:37.320Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +123,41 @@
     "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
     "url": "https://shreevatsa.net/post/douglas-adams-cultural-divide/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T15:19:06.705Z",
+    "publishedAt": "2026-01-23T16:21:37.320Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46728808",
+    "title": "I built a light that reacts to radio waves [video]",
+    "url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T16:21:37.319Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46721802",
+    "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+    "url": "https://cannoneyed.com/isometric-nyc/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T16:21:37.319Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
