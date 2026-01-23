@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46730504",
-    "title": "Ghostty's AI Policy",
-    "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
+    "id": "hackernews-46686402",
+    "title": "AI is a horse (2024)",
+    "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46686402",
-    "title": "AI Is a Horse (2024)",
-    "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
+    "id": "hackernews-46730504",
+    "title": "Ghostty's AI Policy",
+    "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "The State of Modern AI Text to Speech Systems for Screen Reader Users",
     "url": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "Proton Spam and the AI Consent Problem",
     "url": "https://dbushell.com/2026/01/22/proton-spam/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Writing First, Tooling Second",
     "url": "https://susam.net/writing-first-tooling-second.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -86,44 +86,10 @@
   },
   {
     "id": "hackernews-46731748",
-    "title": "What Has Docker Become?",
+    "title": "What has Docker become?",
     "url": "https://tuananh.net/2026/01/20/what-has-docker-become/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46728808",
-    "title": "I built a light that reacts to radio waves [video]",
-    "url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46730214",
-    "title": "Replacing Protobuf with Rust to go 5 times faster",
-    "url": "https://pgdog.dev/blog/replace-protobuf-with-rust",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +106,7 @@
     "title": "Booting a PC from a Vinyl Record",
     "url": "https://boginjr.com/it/sw/dev/vinyl-boot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46721802",
-    "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-    "url": "https://cannoneyed.com/isometric-nyc/",
+    "id": "hackernews-46728808",
+    "title": "I built a light that reacts to radio waves [video]",
+    "url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,62 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46720395",
-    "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-    "url": "https://gptzero.me/news/neurips/",
+    "id": "hackernews-46730214",
+    "title": "Replacing Protobuf with Rust to go 5 times faster",
+    "url": "https://pgdog.dev/blog/replace-protobuf-with-rust",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46708055",
-    "title": "Show HN: S2-lite, an open source Stream Store",
-    "url": "https://github.com/s2-streamstore/s2",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46731612",
-    "title": "Presence in Death",
-    "url": "https://rubinmuseum.org/presence-in-death/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46725288",
-    "title": "Capital One to acquire Brex for $5.15B",
-    "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +157,7 @@
     "title": "Why I Don't Have Fun With Claude Code",
     "url": "https://brennan.io/2026/01/23/claude-code/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,45 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46676629",
-    "title": "Variation on Iota",
-    "url": "https://www.toolofthought.com/posts/variation-on-iota",
+    "id": "hackernews-46708055",
+    "title": "Show HN: S2-lite, an open source Stream Store",
+    "url": "https://github.com/s2-streamstore/s2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46723990",
-    "title": "Why does SSH send 100 packets per keystroke?",
-    "url": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46723384",
-    "title": "I was banned from Claude for scaffolding a Claude.md file?",
-    "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +191,126 @@
     "title": "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",
     "url": "https://github.com/ramonvermeulen/whosthere",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46731996",
+    "title": "Microsoft Mishandling Example.com",
+    "url": "https://tinyapps.org/blog/microsoft-mishandling-example-com.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46721802",
+    "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+    "url": "https://cannoneyed.com/isometric-nyc/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46720395",
+    "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+    "url": "https://gptzero.me/news/neurips/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46731612",
+    "title": "Presence in Death",
+    "url": "https://rubinmuseum.org/presence-in-death/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46725288",
+    "title": "Capital One to acquire Brex for $5.15B",
+    "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46723990",
+    "title": "Why does SSH send 100 packets per keystroke?",
+    "url": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46723384",
+    "title": "I was banned from Claude for scaffolding a Claude.md file?",
+    "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
     "url": "https://qwen.ai/blog?id=qwen3tts-0115",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-23T13:38:05.279Z",
+    "publishedAt": "2026-01-23T14:19:36.195Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
