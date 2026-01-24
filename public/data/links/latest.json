@@ -1,10 +1,10 @@
 [
   {
     "id": "hackernews-46729368",
-    "title": "Proton Spam and the AI Consent Problem",
+    "title": "Proton spam and the AI consent problem",
     "url": "https://dbushell.com/2026/01/22/proton-spam/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T09:14:42.664Z",
+    "publishedAt": "2026-01-24T10:15:08.604Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Proof of Corn",
     "url": "https://proofofcorn.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T09:14:42.664Z",
+    "publishedAt": "2026-01-24T10:15:08.604Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
     "url": "https://maggieappleton.com/gastown",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T09:14:42.664Z",
+    "publishedAt": "2026-01-24T10:15:08.604Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "New YC homepage",
     "url": "https://www.ycombinator.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T09:14:42.664Z",
+    "publishedAt": "2026-01-24T10:15:08.604Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Comma openpilot – Open source driver-assistance",
     "url": "https://comma.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T09:14:42.664Z",
+    "publishedAt": "2026-01-24T10:15:08.604Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
     "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T09:14:42.664Z",
+    "publishedAt": "2026-01-24T10:15:08.604Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,24 @@
     "title": "Booting from a vinyl record (2020)",
     "url": "https://boginjr.com/it/sw/dev/vinyl-boot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T09:14:42.664Z",
+    "publishedAt": "2026-01-24T10:15:08.604Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46731432",
+    "title": "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",
+    "url": "https://github.com/ramonvermeulen/whosthere",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-24T10:15:08.604Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "Unrolling the Codex agent loop",
     "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T09:14:42.662Z",
+    "publishedAt": "2026-01-24T10:15:08.603Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
