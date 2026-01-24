@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46676061",
-    "title": "Traintrackr – Live LED Maps",
-    "url": "https://www.traintrackr.co.uk/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46742362",
     "title": "Doing gigabit Ethernet over my British phone wires",
     "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46744572",
-    "title": "After two years of vibecoding, I'm back to writing by hand [video]",
-    "url": "https://www.youtube.com/watch?v=SKTsNV41DYg",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
+    "publishedAt": "2026-01-24T18:21:47.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,24 +21,7 @@
     "title": "How I Estimate Work as a Staff Software Engineer",
     "url": "https://www.seangoedecke.com/how-i-estimate-work/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742635",
-    "title": "Many Small Queries Are Efficient in SQLite",
-    "url": "https://www.sqlite.org/np1queryprob.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
+    "publishedAt": "2026-01-24T18:21:47.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,58 +38,7 @@
     "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
     "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742432",
-    "title": "I Like GitLab",
-    "url": "https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46694618",
-    "title": "Internet Archive's Storage",
-    "url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46691108",
-    "title": "When employees feel slighted, they work less",
-    "url": "https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
+    "publishedAt": "2026-01-24T18:21:47.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,24 +55,7 @@
     "title": "Unrolling the Codex agent loop",
     "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742828",
-    "title": "JVIC: New web-based Commodore VIC 20 emulator",
-    "url": "https://vic20.games/#/basic/24k",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
+    "publishedAt": "2026-01-24T18:21:47.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,75 +72,7 @@
     "title": "Proof of Corn",
     "url": "https://proofofcorn.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46689342",
-    "title": "6 Years Building Video Players. 9B Requests. Starting Over",
-    "url": "https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46741482",
-    "title": "80386 Multiplication and Division",
-    "url": "https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46689631",
-    "title": "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
-    "url": "https://bloomberg.github.io/crane/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46740748",
-    "title": "“Let people help” – Advice that made a big difference to a grieving widow",
-    "url": "https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
+    "publishedAt": "2026-01-24T18:21:47.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,58 +89,7 @@
     "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
     "url": "https://maggieappleton.com/gastown",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46688133",
-    "title": "Management Time: Who's Got the Monkey? [pdf]",
-    "url": "https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46676125",
-    "title": "Some C habits I employ for the modern day",
-    "url": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46741929",
-    "title": "Modetc: Move your dotfiles from kernel space",
-    "url": "https://maxwell.eurofusion.eu/git/rnhmjoj/modetc",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T17:12:43.456Z",
+    "publishedAt": "2026-01-24T18:21:47.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
