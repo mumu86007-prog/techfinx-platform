@@ -4,7 +4,7 @@
     "title": "Proton Spam and the AI Consent Problem",
     "url": "https://dbushell.com/2026/01/22/proton-spam/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T01:08:47.455Z",
+    "publishedAt": "2026-01-24T03:22:00.086Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46734302",
-    "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
-    "url": "https://maggieappleton.com/gastown",
+    "id": "hackernews-46737630",
+    "title": "Unrolling the Codex agent loop",
+    "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T01:08:47.455Z",
+    "publishedAt": "2026-01-24T03:22:00.086Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +34,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46735511",
-    "title": "Proof of Corn",
-    "url": "https://proofofcorn.com/",
+    "id": "hackernews-46734302",
+    "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+    "url": "https://maggieappleton.com/gastown",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T01:08:47.455Z",
+    "publishedAt": "2026-01-24T03:22:00.086Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,24 @@
     "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
     "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T01:08:47.455Z",
+    "publishedAt": "2026-01-24T03:22:00.086Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46735511",
+    "title": "Proof of Corn",
+    "url": "https://proofofcorn.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-24T03:22:00.086Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,41 +89,7 @@
     "title": "Booting from a vinyl record (2020)",
     "url": "https://boginjr.com/it/sw/dev/vinyl-boot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T01:08:47.455Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46731976",
-    "title": "European Alternatives",
-    "url": "https://european-alternatives.eu/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T01:08:47.455Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46732213",
-    "title": "Radicle: The Sovereign Forge",
-    "url": "https://radicle.xyz/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T01:08:47.455Z",
+    "publishedAt": "2026-01-24T03:22:00.086Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
