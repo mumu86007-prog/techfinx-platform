@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46742362",
-    "title": "Doing gigabit Ethernet over my British phone wires",
-    "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T21:12:47.047Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46742389",
     "title": "How I Estimate Work as a Staff Software Engineer",
     "url": "https://www.seangoedecke.com/how-i-estimate-work/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T21:12:47.047Z",
+    "publishedAt": "2026-01-24T22:13:52.780Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,41 @@
     "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
     "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T21:12:47.047Z",
+    "publishedAt": "2026-01-24T22:13:52.780Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46746476",
+    "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+    "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-24T22:13:52.779Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46742362",
+    "title": "Doing gigabit Ethernet over my British phone wires",
+    "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-24T22:13:52.779Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
