@@ -1,112 +1,10 @@
 [
   {
-    "id": "hackernews-46676061",
-    "title": "Traintrackr – Live LED Maps",
-    "url": "https://www.traintrackr.co.uk/",
+    "id": "hackernews-46742362",
+    "title": "Doing gigabit Ethernet over my British phone wires",
+    "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46743328",
-    "title": "FOSS \"Just Fork It\" Delusion",
-    "url": "https://hamishcampbell.com/foss-just-fork-it-delusion/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742635",
-    "title": "Many Small Queries Are Efficient in SQLite",
-    "url": "https://www.sqlite.org/np1queryprob.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46743219",
-    "title": "XHTML Club",
-    "url": "https://xhtml.club/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46691108",
-    "title": "When employees feel slighted, they work less",
-    "url": "https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742432",
-    "title": "I Like GitLab",
-    "url": "https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46694618",
-    "title": "Internet Archive's Storage",
-    "url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
+    "publishedAt": "2026-01-24T15:13:57.536Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,41 +21,7 @@
     "title": "Unrolling the Codex agent loop",
     "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46696283",
-    "title": "Show HN: Coi – A language that compiles to WASM, beats React/Vue",
-    "url": "https://news.ycombinator.com/item?id=46696283",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46741482",
-    "title": "80386 Multiplication and Division",
-    "url": "https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
+    "publishedAt": "2026-01-24T15:13:57.536Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +38,7 @@
     "title": "Proof of Corn",
     "url": "https://proofofcorn.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
+    "publishedAt": "2026-01-24T15:13:57.536Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +51,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46742285",
-    "title": "Show HN: I built a space travel calculator using Vanilla JavaScript",
-    "url": "https://cosmic-odometer.vercel.app/",
+    "id": "hackernews-46734302",
+    "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+    "url": "https://maggieappleton.com/gastown",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
+    "publishedAt": "2026-01-24T15:13:57.536Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46741929",
-    "title": "Modetc: Move your dotfiles from kernel space",
-    "url": "https://maxwell.eurofusion.eu/git/rnhmjoj/modetc",
+    "id": "hackernews-46735545",
+    "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
+    "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
+    "publishedAt": "2026-01-24T15:13:57.536Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46688133",
-    "title": "Management Time: Who's Got the Monkey? [pdf]",
-    "url": "https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf",
+    "id": "hackernews-46735644",
+    "title": "New YC homepage",
+    "url": "https://www.ycombinator.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
+    "publishedAt": "2026-01-24T15:13:57.536Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46742828",
-    "title": "JVIC: New web-based Commodore VIC 20 emulator",
-    "url": "https://vic20.games/#/basic/24k",
+    "id": "hackernews-46730885",
+    "title": "Booting from a vinyl record (2020)",
+    "url": "https://boginjr.com/it/sw/dev/vinyl-boot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
+    "publishedAt": "2026-01-24T15:13:57.536Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,79 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46689631",
-    "title": "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
-    "url": "https://bloomberg.github.io/crane/",
+    "id": "hackernews-46740029",
+    "title": "Comma openpilot – Open source driver-assistance",
+    "url": "https://comma.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46743154",
-    "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
-    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46676125",
-    "title": "Some C habits I employ for the modern day",
-    "url": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46741643",
-    "title": "Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]",
-    "url": "https://careers.telli.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46740748",
-    "title": "“Let people help” – Advice that made a big difference to a grieving widow",
-    "url": "https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T14:13:56.086Z",
+    "publishedAt": "2026-01-24T15:13:57.536Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
