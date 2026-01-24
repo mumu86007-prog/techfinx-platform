@@ -1,78 +1,10 @@
 [
   {
-    "id": "hackernews-46745224",
-    "title": "Metriport (YC S22) is hiring a security eng to harden healthcare data infra",
-    "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8.5
-  },
-  {
-    "id": "hackernews-46744807",
-    "title": "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
-    "url": "https://news.ycombinator.com/item?id=46744807",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46745998",
-    "title": "US Vaccine Panel Chair Says Polio and Other Shots Should Be Optional",
-    "url": "https://www.nytimes.com/2026/01/23/health/milhoan-vaccines-optional-polio.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46743908",
-    "title": "Claude Code's new hidden feature: Swarms",
-    "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
     "id": "hackernews-46742362",
     "title": "Doing gigabit Ethernet over my British phone wires",
     "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
+    "publishedAt": "2026-01-24T20:15:15.411Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,62 +17,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46675030",
-    "title": "How I Became a Quant [pdf]",
-    "url": "https://engineering.nyu.edu/sites/default/files/2021-10/How_I_Became_a_Quant%20%281%29.pdf",
+    "id": "hackernews-46742389",
+    "title": "How I estimate work",
+    "url": "https://www.seangoedecke.com/how-i-estimate-work/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46737202",
-    "title": "Maze Algorithms (2017)",
-    "url": "http://www.jamisbuck.org/mazes/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46745233",
-    "title": "Tao Te Ching – Translated by Ursula K. Le Guin",
-    "url": "https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46745259",
-    "title": "December in Servo: multiple windows, proxy support, better caching, and more",
-    "url": "https://servo.org/blog/2026/01/23/december-in-servo/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
+    "publishedAt": "2026-01-24T20:15:15.411Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,92 +38,7 @@
     "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
     "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742389",
-    "title": "How I Estimate Work as a Staff Software Engineer",
-    "url": "https://www.seangoedecke.com/how-i-estimate-work/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46688191",
-    "title": "C++26 Reflection loves QRangeModel",
-    "url": "https://www.qt.io/blog/c26-reflection-qrangemodel",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46691108",
-    "title": "When employees feel slighted, they work less",
-    "url": "https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46694618",
-    "title": "Internet Archive's Storage",
-    "url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742635",
-    "title": "Many Small Queries Are Efficient in SQLite",
-    "url": "https://www.sqlite.org/np1queryprob.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
+    "publishedAt": "2026-01-24T20:15:15.411Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,75 +55,7 @@
     "title": "Unrolling the Codex agent loop",
     "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46744968",
-    "title": "Are we all plagiarists now?",
-    "url": "https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742432",
-    "title": "I Like GitLab",
-    "url": "https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742828",
-    "title": "JVIC: New web-based Commodore VIC 20 emulator",
-    "url": "https://vic20.games/#/basic/24k",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46735511",
-    "title": "Proof of Corn",
-    "url": "https://proofofcorn.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T19:12:03.624Z",
+    "publishedAt": "2026-01-24T20:15:15.411Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
