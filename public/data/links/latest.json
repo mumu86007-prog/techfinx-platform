@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46740644",
-    "title": "SEC obtains final consent judgments against former FTX and Alameda executives",
-    "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 9
-  },
-  {
     "id": "hackernews-46729368",
     "title": "Proton Spam and the AI Consent Problem",
     "url": "https://dbushell.com/2026/01/22/proton-spam/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
+    "publishedAt": "2026-01-24T08:19:03.322Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46674482",
-    "title": "Air traffic control: the IBM 9020",
-    "url": "https://computer.rip/2026-01-17-air-traffic-control-9020.html",
+    "id": "hackernews-46737630",
+    "title": "Unrolling the Codex agent loop",
+    "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
+    "publishedAt": "2026-01-24T08:19:03.322Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,14 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 6
   },
   {
-    "id": "hackernews-46740029",
-    "title": "Comma openpilot – Open source driver-assistance",
-    "url": "https://comma.ai/",
+    "id": "hackernews-46735511",
+    "title": "Proof of Corn",
+    "url": "https://proofofcorn.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
+    "publishedAt": "2026-01-24T08:19:03.322Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,24 @@
     "title": "New YC homepage",
     "url": "https://www.ycombinator.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
+    "publishedAt": "2026-01-24T08:19:03.322Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46740029",
+    "title": "Comma openpilot – Open source driver-assistance",
+    "url": "https://comma.ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-24T08:19:03.322Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,24 +89,7 @@
     "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
     "url": "https://maggieappleton.com/gastown",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46737447",
-    "title": "Banned C++ features in Chromium",
-    "url": "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
+    "publishedAt": "2026-01-24T08:19:03.322Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,75 +106,7 @@
     "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
     "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46689631",
-    "title": "Extracting verified C++ from the Rocq theorem prover at Bloomberg",
-    "url": "https://bloomberg.github.io/crane/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46731068",
-    "title": "Ask HN: What's the current best local/open speech-to-speech setup?",
-    "url": "https://news.ycombinator.com/item?id=46731068",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46735489",
-    "title": "Route leak incident on January 22, 2026",
-    "url": "https://blog.cloudflare.com/route-leak-incident-january-22-2026/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46737957",
-    "title": "Mental Models (2018)",
-    "url": "https://fs.blog/mental-models/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
+    "publishedAt": "2026-01-24T08:19:03.322Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,126 +123,7 @@
     "title": "Booting from a vinyl record (2020)",
     "url": "https://boginjr.com/it/sw/dev/vinyl-boot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46732967",
-    "title": "KORG phase8 – Acoustic Synthesizer",
-    "url": "https://www.korg.com/us/products/dj/phase8/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46733624",
-    "title": "The tech monoculture is finally breaking",
-    "url": "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46738853",
-    "title": "Wilson Lin on FastRender: a browser built by parallel agents",
-    "url": "https://simonwillison.net/2026/Jan/23/fastrender/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46731432",
-    "title": "Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",
-    "url": "https://github.com/ramonvermeulen/whosthere",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46679802",
-    "title": "Losing 1½ Million Lines of Go",
-    "url": "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46735139",
-    "title": "Nobody likes lag: How to make low-latency dev sandboxes",
-    "url": "https://www.compyle.ai/blog/nobody-likes-lag/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46721488",
-    "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
-    "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-24T07:15:13.583Z",
+    "publishedAt": "2026-01-24T08:19:03.322Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
