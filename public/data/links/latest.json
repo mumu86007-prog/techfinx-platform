@@ -1,10 +1,10 @@
 [
   {
     "id": "hackernews-46756117",
-    "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
+    "title": "ICE using Palantir tool that feeds on Medicaid data",
     "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T22:14:11.420Z",
+    "publishedAt": "2026-01-25T23:14:22.134Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "A macOS app that blurs your screen when you slouch",
     "url": "https://github.com/tldev/posturr",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T22:14:11.420Z",
+    "publishedAt": "2026-01-25T23:14:22.134Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46757944",
+    "title": "Oneplus phone update introduces hardware anti-rollback",
+    "url": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-25T23:14:22.134Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Doom has been ported to an earbud",
     "url": "https://doombuds.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T22:14:11.420Z",
+    "publishedAt": "2026-01-25T23:14:22.134Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -52,10 +69,10 @@
   },
   {
     "id": "hackernews-46752151",
-    "title": "This paper has been cited more than 6k times. It's fatally flawed.",
+    "title": "A flawed paper in management science has been cited more than 6k times",
     "url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T22:14:11.420Z",
+    "publishedAt": "2026-01-25T23:14:22.134Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "Introduction to PostgreSQL Indexes",
     "url": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T22:14:11.420Z",
+    "publishedAt": "2026-01-25T23:14:22.134Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
