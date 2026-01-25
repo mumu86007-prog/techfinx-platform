@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-46750470",
-    "title": "Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net",
-    "url": "https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46721421",
-    "title": "Draig, a Welsh Programming Language",
-    "url": "https://raku.land/zef:l10n/L10N::CY",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46744807",
-    "title": "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
-    "url": "https://news.ycombinator.com/item?id=46744807",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46749198",
     "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
     "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.762Z",
+    "publishedAt": "2026-01-25T05:23:22.029Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +21,7 @@
     "title": "Claude Code's new hidden feature: Swarms",
     "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
+    "publishedAt": "2026-01-25T05:23:22.029Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +38,7 @@
     "title": "I added a Bluesky comment section to my blog",
     "url": "https://micahcantor.com/blog/bluesky-comment-section.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
+    "publishedAt": "2026-01-25T05:23:22.029Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,232 +51,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46749671",
-    "title": "Two Weeks Until Tapeout",
-    "url": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+    "id": "hackernews-46746476",
+    "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+    "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46749053",
-    "title": "We X-Rayed a Suspicious FTDI USB Cable",
-    "url": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46747119",
-    "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
-    "url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46745922",
-    "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
-    "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46742389",
-    "title": "How I estimate work",
-    "url": "https://www.seangoedecke.com/how-i-estimate-work/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46744647",
-    "title": "Memory layout in Zig with formulas",
-    "url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46697876",
-    "title": "Typography on Pencils (2023)",
-    "url": "https://www.presentandcorrect.com/blogs/blog/typography-on-pencils-1-5",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46747827",
-    "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
-    "url": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46747625",
-    "title": "First Design Engineer Hire – Build Games at Gym Class (YC W22)",
-    "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46700384",
-    "title": "High-bandwidth flash progress and future",
-    "url": "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46705830",
-    "title": "Show HN: Semantic search engine for Studio Ghibli movie",
-    "url": "https://ghibli-search.anini.workers.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46690779",
-    "title": "Small Kafka: Tansu and SQLite on a free t3.micro",
-    "url": "https://blog.tansu.io/articles/broker-aws-free-tier",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46737202",
-    "title": "Maze Algorithms (2017)",
-    "url": "http://www.jamisbuck.org/mazes/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46741923",
-    "title": "Shared Claude: A website controlled by the public",
-    "url": "https://sharedclaude.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T04:46:53.763Z",
+    "publishedAt": "2026-01-25T05:23:22.029Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
