@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46744807",
-    "title": "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
-    "url": "https://news.ycombinator.com/item?id=46744807",
+    "id": "hackernews-46747366",
+    "title": "I added a Bluesky comment section to my blog",
+    "url": "https://micahcantor.com/blog/bluesky-comment-section.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
+    "publishedAt": "2026-01-25T03:48:41.128Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 7
   },
   {
     "id": "hackernews-46743908",
     "title": "Claude Code's new hidden feature: Swarms",
     "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
+    "publishedAt": "2026-01-25T03:48:41.127Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,62 +34,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46747366",
-    "title": "I added a Bluesky comment section to my blog",
-    "url": "https://micahcantor.com/blog/bluesky-comment-section.html",
+    "id": "hackernews-46743154",
+    "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46745922",
-    "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
-    "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46700384",
-    "title": "High-bandwidth flash progress and future",
-    "url": "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46744647",
-    "title": "Memory layout in Zig with formulas",
-    "url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
+    "publishedAt": "2026-01-25T03:48:41.128Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +55,7 @@
     "title": "Doing gigabit Ethernet over my British phone wires",
     "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
+    "publishedAt": "2026-01-25T03:48:41.128Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,28 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46747827",
-    "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
-    "url": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
+    "id": "hackernews-46746476",
+    "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+    "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46748077",
-    "title": "I don't write code anymore – I sculpt it",
-    "url": "https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
+    "publishedAt": "2026-01-25T03:48:41.127Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -154,180 +86,10 @@
   },
   {
     "id": "hackernews-46742389",
-    "title": "How I Estimate Work as a Staff Software Engineer",
+    "title": "How I estimate work",
     "url": "https://www.seangoedecke.com/how-i-estimate-work/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46746681",
-    "title": "Agent orchestration for the timid",
-    "url": "https://substack.com/inbox/post/185649875",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46747625",
-    "title": "First Design Engineer Hire – Build Games at Gym Class (YC W22)",
-    "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46746266",
-    "title": "Understanding Rust Closures",
-    "url": "https://antoine.vandecreme.net/blog/rust-closures/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46690779",
-    "title": "Small Kafka: Tansu and SQLite on a free t3.micro",
-    "url": "https://blog.tansu.io/articles/broker-aws-free-tier",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46746570",
-    "title": "JSON-render: LLM-based JSON-to-UI tool",
-    "url": "https://json-render.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46741923",
-    "title": "Shared Claude: A website controlled by the public",
-    "url": "https://sharedclaude.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46748771",
-    "title": "Europe wants to end its dangerous reliance on US internet technology",
-    "url": "https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46737202",
-    "title": "Maze Algorithms (2017)",
-    "url": "http://www.jamisbuck.org/mazes/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46688521",
-    "title": "KAOS – The Kubernetes Agent Orchestration System",
-    "url": "https://github.com/axsaucedo/kaos",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46705134",
-    "title": "Microservices for the Benefits, Not the Hustle (2023)",
-    "url": "https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T01:18:40.849Z",
+    "publishedAt": "2026-01-25T03:48:41.127Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
