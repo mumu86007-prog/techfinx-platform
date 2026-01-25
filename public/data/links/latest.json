@@ -1,10 +1,10 @@
 [
   {
     "id": "hackernews-46756117",
-    "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
+    "title": "ICE using Palantir tool that feeds on Medicaid data",
     "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T20:17:00.380Z",
+    "publishedAt": "2026-01-25T21:13:30.951Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46749198",
-    "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-    "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+    "id": "hackernews-46751826",
+    "title": "Introduction to PostgreSQL Indexes",
+    "url": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T20:17:00.380Z",
+    "publishedAt": "2026-01-25T21:13:30.951Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,14 +31,31 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 6
+  },
+  {
+    "id": "hackernews-46751899",
+    "title": "Deutsche Telekom is throttling the internet",
+    "url": "https://netzbremse.de/en/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-25T21:13:30.951Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
   },
   {
     "id": "hackernews-46754944",
     "title": "A macOS app that blurs your screen when you slouch",
     "url": "https://github.com/tldev/posturr",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T20:17:00.380Z",
+    "publishedAt": "2026-01-25T21:13:30.950Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Doom has been ported to an earbud",
     "url": "https://doombuds.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T20:17:00.380Z",
+    "publishedAt": "2026-01-25T21:13:30.950Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -69,44 +86,10 @@
   },
   {
     "id": "hackernews-46752151",
-    "title": "This paper has been cited more than 6k times. It's fatally flawed.",
+    "title": "A flawed paper in Management Science has been cited more than 6,000 times",
     "url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T20:17:00.380Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46751826",
-    "title": "Introduction to PostgreSQL Indexes",
-    "url": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T20:17:00.380Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46751899",
-    "title": "Deutsche Telekom is violating Net Neutrality",
-    "url": "https://netzbremse.de/en/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-25T20:17:00.380Z",
+    "publishedAt": "2026-01-25T21:13:30.950Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
