@@ -4,7 +4,7 @@
     "title": "Scientists identify brain waves that define the limits of 'you'",
     "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
+    "publishedAt": "2026-01-26T16:25:19.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,164 +17,11 @@
     "score": 9.5
   },
   {
-    "id": "hackernews-46766031",
-    "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
-    "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46762882",
-    "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
-    "url": "https://github.com/quaadgras/graphics.gd/discussions/242",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46765819",
-    "title": "Apple introduces new AirTag with longer range and improved findability",
-    "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46766493",
-    "title": "AI will not replace software engineers (hopefully)",
-    "url": "https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46764223",
-    "title": "TSMC Risk",
-    "url": "https://stratechery.com/2026/tsmc-risk/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46763864",
-    "title": "MapLibre Tile: a modern and efficient vector tile format",
-    "url": "https://maplibre.org/news/2026-01-23-mlt-release/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46765694",
-    "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
-    "url": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46765460",
     "title": "After two years of vibecoding, I'm back to writing by hand",
     "url": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46766229",
-    "title": "Exactitude in Science – Borges (1946) [pdf]",
-    "url": "https://kwarc.info/teaching/TDM/Borges.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46709270",
-    "title": "Things I've learned in my 10 years as an engineering manager",
-    "url": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
+    "publishedAt": "2026-01-26T16:25:19.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,41 +38,7 @@
     "title": "The browser is the sandbox",
     "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46765273",
-    "title": "Transfering Files with gRPC",
-    "url": "https://kreya.app/blog/transfering-files-with-grpc/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46765120",
-    "title": "Vibe Coding Kills Open Source",
-    "url": "https://arxiv.org/abs/2601.15494",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
+    "publishedAt": "2026-01-26T16:25:19.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,75 +55,7 @@
     "title": "First, make me care",
     "url": "https://gwern.net/blog/2026/make-me-care",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46698264",
-    "title": "Text Is King",
-    "url": "https://www.experimental-history.com/p/text-is-king",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46764170",
-    "title": "Show HN: Only 1 LLM can fly a drone",
-    "url": "https://github.com/kxzk/snapbench",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46698456",
-    "title": "Wind Chime Length Calculator (2022)",
-    "url": "https://www.snyderfamily.com/chimecalcs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46765092",
-    "title": "Water 'Bankruptcy' Era Has Begun for Billions, Scientists Say",
-    "url": "https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
+    "publishedAt": "2026-01-26T16:25:19.879Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +72,24 @@
     "title": "A macOS app that blurs your screen when you slouch",
     "url": "https://github.com/tldev/posturr",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T15:22:30.298Z",
+    "publishedAt": "2026-01-26T16:25:19.879Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46763864",
+    "title": "MapLibre Tile: a modern and efficient vector tile format",
+    "url": "https://maplibre.org/news/2026-01-23-mlt-release/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T16:25:19.878Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
