@@ -4,7 +4,7 @@
     "title": "Scientists identify brain waves that define the limits of 'you'",
     "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
     "url": "https://github.com/quaadgras/graphics.gd/discussions/242",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +38,7 @@
     "title": "Case study: Creative math – How AI fakes proofs",
     "url": "https://tomaszmachnik.pl/case-study-math-en.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46753708",
-    "title": "Web-based image editor modeled after Deluxe Paint",
-    "url": "https://github.com/steffest/DPaint-js",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,7 @@
     "title": "Clawdbot - open source personal AI assistant",
     "url": "https://github.com/clawdbot/clawdbot",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +72,7 @@
     "title": "Show HN: An interactive map of US lighthouses and navigational aids",
     "url": "https://www.lighthouses.app/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46756117",
-    "title": "ICE Using Palantir Tool That Feeds on Medicaid Data",
-    "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+    "id": "hackernews-46763864",
+    "title": "MapLibre Tile: a modern and efficient vector tile format",
+    "url": "https://maplibre.org/news/2026-01-23-mlt-release/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -116,14 +99,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 6
   },
   {
     "id": "hackernews-46762150",
     "title": "The browser is the sandbox",
     "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,7 @@
     "title": "Things I've learned in my 10 years as an engineering manager",
     "url": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,58 +140,7 @@
     "title": "First, make me care",
     "url": "https://gwern.net/blog/2026/make-me-care",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46763548",
-    "title": "UK House of Lords Votes to Extend Age Verification to VPNs",
-    "url": "https://reclaimthenet.org/uk-house-of-lords-votes-to-extend-age-verification-to-vpns",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46723049",
-    "title": "Emissary, a fast open-source Java messaging library",
-    "url": "https://github.com/joel-jeremy/emissary",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46763592",
-    "title": "Apple, What Have You Done?",
-    "url": "https://onlinegoddess.net/2026/01/apple-what-have-you-done/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +157,41 @@
     "title": "A macOS app that blurs your screen when you slouch",
     "url": "https://github.com/tldev/posturr",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46723049",
+    "title": "Emissary, a fast open-source Java messaging library",
+    "url": "https://github.com/joel-jeremy/emissary",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46763721",
+    "title": "San Francisco Graffiti",
+    "url": "https://walzr.com/sf-graffiti",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,24 +208,7 @@
     "title": "Video Games as Art",
     "url": "https://gwern.net/video-game-art",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46761822",
-    "title": "Iran's internet blackout may become permanent, with access for elites only",
-    "url": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +225,24 @@
     "title": "A static site generator written in POSIX shell",
     "url": "https://aashvik.com/posts/shell-ssg/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46761822",
+    "title": "Iran's internet blackout may become permanent, with access for elites only",
+    "url": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +259,7 @@
     "title": "Ask HN: DDD was a great debugger – what would a modern equivalent look like?",
     "url": "https://news.ycombinator.com/item?id=46759387",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +276,24 @@
     "title": "The future of software engineering is SRE",
     "url": "https://swizec.com/blog/the-future-of-software-engineering-is-sre/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46763548",
+    "title": "UK House of Lords Votes to Extend Age Verification to VPNs",
+    "url": "https://reclaimthenet.org/uk-house-of-lords-votes-to-extend-age-verification-to-vpns",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -324,10 +307,27 @@
   },
   {
     "id": "hackernews-46733306",
-    "title": "The Science of Fermentation (The Food Programme)",
+    "title": "The Science of Fermentation [audio]",
     "url": "https://www.bbc.co.uk/programmes/m002pqg6",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T10:20:07.088Z",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46758644",
+    "title": "LED lighting undermines visual performance unless supplemented by wider spectra",
+    "url": "https://www.nature.com/articles/s41598-026-35389-6",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T11:16:32.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
