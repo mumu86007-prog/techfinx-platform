@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46760099",
+    "title": "Scientists identify brain waves that define the limits of 'you'",
+    "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.414Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9.5
+  },
+  {
+    "id": "hackernews-46759352",
+    "title": "Case study: Creative math – How AI fakes proofs",
+    "url": "https://tomaszmachnik.pl/case-study-math-en.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46756427",
+    "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+    "url": "https://www.lighthouses.app/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46760237",
+    "title": "Clawdbot - open source personal AI assistant",
+    "url": "https://github.com/clawdbot/clawdbot",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46756117",
+    "title": "ICE using Palantir tool that feeds on Medicaid data",
+    "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46762882",
+    "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
+    "url": "https://github.com/quaadgras/graphics.gd/discussions/242",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.414Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46757357",
+    "title": "I was right about ATProto key management",
+    "url": "https://notes.nora.codes/atproto-again/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46690592",
+    "title": "Guix for Development",
+    "url": "https://dthompson.us/posts/guix-for-development.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46733306",
+    "title": "The Science of Fermentation [audio]",
+    "url": "https://www.bbc.co.uk/programmes/m002pqg6",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46750951",
+    "title": "Compiling models to megakernels",
+    "url": "https://blog.luminal.com/p/compiling-models-to-megakernels",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46720987",
+    "title": "SFPark: Interactive map of SF parking regulations",
+    "url": "https://hugues.betakappaphi.com/2026/01/21/sfpark/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46761822",
+    "title": "Iran's internet blackout may become permanent, with access for elites only",
+    "url": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46754522",
+    "title": "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
+    "url": "https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46761614",
+    "title": "Environmentalists worry Google behind bid to control Oregon town's water",
+    "url": "https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.415Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46763864",
+    "title": "MapLibre Tile: a modern and efficient vector tile format",
+    "url": "https://maplibre.org/news/2026-01-23-mlt-release/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.414Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46709270",
+    "title": "Things I've learned in my 10 years as an engineering manager",
+    "url": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.414Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46762150",
+    "title": "The browser is the sandbox",
+    "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.414Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46757067",
+    "title": "First, make me care",
+    "url": "https://gwern.net/blog/2026/make-me-care",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.414Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46698264",
+    "title": "Text Is King",
+    "url": "https://www.experimental-history.com/p/text-is-king",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.414Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46698456",
+    "title": "Wind Chime Length Calculator",
+    "url": "https://www.snyderfamily.com/chimecalcs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T13:39:30.414Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
