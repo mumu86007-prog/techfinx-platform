@@ -4,7 +4,7 @@
     "title": "Scientists identify brain waves that define the limits of 'you'",
     "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T17:24:29.822Z",
+    "publishedAt": "2026-01-26T18:25:37.784Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,28 @@
     "score": 9.5
   },
   {
+    "id": "hackernews-46766741",
+    "title": "Qwen3-Max-Thinking",
+    "url": "https://qwen.ai/blog?id=qwen3-max-thinking",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T18:25:37.783Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46763864",
     "title": "MapLibre Tile: a modern and efficient vector tile format",
     "url": "https://maplibre.org/news/2026-01-23-mlt-release/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T17:24:29.822Z",
+    "publishedAt": "2026-01-26T18:25:37.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "After two years of vibecoding, I'm back to writing by hand",
     "url": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T17:24:29.822Z",
+    "publishedAt": "2026-01-26T18:25:37.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "First, make me care",
     "url": "https://gwern.net/blog/2026/make-me-care",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T17:24:29.822Z",
+    "publishedAt": "2026-01-26T18:25:37.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,24 +89,7 @@
     "title": "The browser is the sandbox",
     "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T17:24:29.822Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46765120",
-    "title": "Vibe coding kills open source",
-    "url": "https://arxiv.org/abs/2601.15494",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T17:24:29.822Z",
+    "publishedAt": "2026-01-26T18:25:37.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
