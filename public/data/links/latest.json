@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "id": "hackernews-46766031",
+    "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+    "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T20:18:45.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46767668",
+    "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+    "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T20:18:45.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46766188",
+    "title": "Television is 100 years old today",
+    "url": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T20:18:45.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46766741",
+    "title": "Qwen3-Max-Thinking",
+    "url": "https://qwen.ai/blog?id=qwen3-max-thinking",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T20:18:45.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46763864",
+    "title": "MapLibre Tile: a modern and efficient vector tile format",
+    "url": "https://maplibre.org/news/2026-01-23-mlt-release/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T20:18:45.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46762150",
+    "title": "The browser is the sandbox",
+    "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T20:18:45.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46765460",
+    "title": "After two years of vibecoding, I'm back to writing by hand",
+    "url": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T20:18:45.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
