@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46760099",
+    "title": "Scientists identify brain waves that define the limits of 'you'",
+    "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9.5
+  },
+  {
+    "id": "hackernews-46759352",
+    "title": "Case study: Creative math – How AI fakes proofs",
+    "url": "https://tomaszmachnik.pl/case-study-math-en.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46757162",
+    "title": "Spanish track was fractured before high-speed train disaster, report finds",
+    "url": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46756427",
+    "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+    "url": "https://www.lighthouses.app/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46760237",
+    "title": "Clawdbot - open source personal AI assistant",
+    "url": "https://github.com/clawdbot/clawdbot",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46753708",
+    "title": "Web-based image editor modeled after Deluxe Paint",
+    "url": "https://github.com/steffest/DPaint-js",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46756117",
+    "title": "ICE using Palantir tool that feeds on Medicaid data",
+    "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46757067",
+    "title": "First, make me care",
+    "url": "https://gwern.net/blog/2026/make-me-care",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46754944",
+    "title": "A macOS app that blurs your screen when you slouch",
+    "url": "https://github.com/tldev/posturr",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46733306",
+    "title": "The Science of Fermentation (The Food Programme)",
+    "url": "https://www.bbc.co.uk/programmes/m002pqg6",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46753484",
+    "title": "Doom has been ported to an earbud",
+    "url": "https://doombuds.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46714981",
+    "title": "Delta single handle ball faucets (1963)",
+    "url": "https://archive.org/details/DeltaSingleHandleBallFaucets",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46755115",
+    "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+    "url": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46759520",
+    "title": "Show HN: A small programming language where everything is pass-by-value",
+    "url": "https://github.com/Jcparkyn/herd",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46690592",
+    "title": "Guix for Development",
+    "url": "https://dthompson.us/posts/guix-for-development.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46719958",
+    "title": "Building a Real-Time HN Display for $15",
+    "url": "https://medium.com/@lee.harding/building-a-real-time-hn-display-for-15-3ea1772051ff",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46761822",
+    "title": "Iran's internet blackout may become permanent, with access for elites only",
+    "url": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46696111",
+    "title": "Turbopack: Building faster by building less",
+    "url": "https://nextjs.org/blog/turbopack-incremental-computation",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46757944",
+    "title": "Oneplus phone update introduces hardware anti-rollback",
+    "url": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46758450",
+    "title": "The '3.5% rule': How a small minority can change the world (2019)",
+    "url": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-26T04:50:54.904Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
