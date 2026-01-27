@@ -1,10 +1,214 @@
 [
   {
+    "id": "hackernews-46783017",
+    "title": "AI2: Open Coding Agents",
+    "url": "https://allenai.org/blog/open-coding-agents",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46782811",
+    "title": "Management as AI superpower: Thriving in a world of agentic AI",
+    "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46784599",
+    "title": "Arm's Cortex A725 Ft. Dell's Pro Max with GB10",
+    "url": "https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46783752",
+    "title": "Prism",
+    "url": "https://openai.com/index/introducing-prism",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46781530",
     "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
     "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T22:16:55.635Z",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46771564",
+    "title": "A few random notes from Claude coding quite a bit last few weeks",
+    "url": "https://twitter.com/karpathy/status/2015883857489522876",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46784977",
+    "title": "Try text scaling support in Chrome Canary",
+    "url": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46786183",
+    "title": "Time Station Emulator",
+    "url": "https://github.com/kangtastic/timestation",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46784572",
+    "title": "Lennart Poettering, Christian Brauner founded a new company",
+    "url": "https://amutable.com/about",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46786618",
+    "title": "Show HN: I wrapped the Zorks with an LLM",
+    "url": "https://infocom.tambo.co/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46782930",
+    "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
+    "url": "https://haveibeenpwned.com/Breach/SoundCloud",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46779645",
+    "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
+    "url": "https://alexxcons.github.io/blogpost_15.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46776155",
+    "title": "Doing the thing is doing the thing",
+    "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +225,92 @@
     "title": "FBI is investigating Minnesota Signal chats tracking ICE",
     "url": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T22:16:55.635Z",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46781444",
+    "title": "Amazon closing its Fresh and Go stores",
+    "url": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46786237",
+    "title": "TikTok settles just before social media addiction trial to begin",
+    "url": "https://www.bbc.com/news/articles/c24g8v6qr1mo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46784491",
+    "title": "Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer",
+    "url": "https://www.ycombinator.com/companies/hypercubic/jobs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46779522",
+    "title": "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
+    "url": "https://emsh.cat/one-human-one-agent-one-browser/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46783600",
+    "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
+    "url": "https://news.ycombinator.com/item?id=46783600",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +327,7 @@
     "title": "I made my own Git",
     "url": "https://tonystr.net/blog/git_immitation",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T22:16:55.635Z",
+    "publishedAt": "2026-01-27T23:15:59.685Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
