@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46782811",
-    "title": "Management as AI superpower: Thriving in a world of agentic AI",
-    "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46736815",
-    "title": "Heathrow scraps liquid container limit",
-    "url": "https://www.bbc.com/news/articles/c1evvx89559o",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46781516",
     "title": "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
     "url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
+    "publishedAt": "2026-01-27T20:19:39.291Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46782091",
-    "title": "A first look at Aperture by Tailscale (private alpha)",
-    "url": "https://tailscale.com/blog/aperture-private-alpha",
+    "id": "hackernews-46784263",
+    "title": "U.S. government has lost more than 10k STEM PhDs since Trump took office",
+    "url": "https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
+    "publishedAt": "2026-01-27T20:19:39.291Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,14 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 6
   },
   {
-    "id": "hackernews-46687729",
-    "title": "Velox: A Port of Tauri to Swift by Miguel de Icaza",
-    "url": "https://github.com/velox-apps/velox",
+    "id": "hackernews-46779809",
+    "title": "TikTok users can't upload anti-ICE videos. The company blames tech issues",
+    "url": "https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.814Z",
+    "publishedAt": "2026-01-27T20:19:39.291Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,143 +55,7 @@
     "title": "A list of fun destinations for telnet",
     "url": "https://telnet.org/htm/places.htm",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46783600",
-    "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
-    "url": "https://news.ycombinator.com/item?id=46783600",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46781707",
-    "title": "Amazon to shut down Go and Fresh stores",
-    "url": "https://www.cnn.com/2026/01/27/food/amazon-fresh-go-closures",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46780065",
-    "title": "The age of Pump and Dump software",
-    "url": "https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46735637",
-    "title": "The Enchiridion by Epictetus",
-    "url": "https://www.gutenberg.org/files/45109/45109-h/45109-h.htm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46775961",
-    "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
-    "url": "https://www.kimi.com/blog/kimi-k2-5.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46781530",
-    "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
-    "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46782930",
-    "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
-    "url": "https://haveibeenpwned.com/Breach/SoundCloud",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46782662",
-    "title": "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
-    "url": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
+    "publishedAt": "2026-01-27T20:19:39.291Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,92 +72,7 @@
     "title": "I made my own Git",
     "url": "https://tonystr.net/blog/git_immitation",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46779645",
-    "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
-    "url": "https://alexxcons.github.io/blogpost_15.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46711159",
-    "title": "Flexible use of a multi-purpose tool by a cow",
-    "url": "https://doi.org/10.1016/j.cub.2025.11.059",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46702948",
-    "title": "A simulation where life unfolds in real time",
-    "url": "https://soupof.life/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46770855",
-    "title": "Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle",
-    "url": "https://www.quantamagazine.org/two-twisty-shapes-resolve-a-centuries-old-topology-puzzle-20260120/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46691548",
-    "title": "Snow Simulation Toy",
-    "url": "https://potch.me/2026/snow-simulation-toy.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-27T19:21:40.813Z",
+    "publishedAt": "2026-01-27T20:19:39.290Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
