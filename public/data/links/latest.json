@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46769188",
+    "title": "AI code and software craft",
+    "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46770221",
     "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
     "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,41 +38,7 @@
     "title": "There is an AI code review bubble",
     "url": "https://www.greptile.com/blog/ai-code-review-bubble",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46769188",
-    "title": "AI code and software craft",
-    "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46769752",
-    "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
-    "url": "https://tetrisbench.com/tetrisbench/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,24 @@
     "title": "Apple introduces new AirTag with longer range and improved findability",
     "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46769752",
+    "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
+    "url": "https://tetrisbench.com/tetrisbench/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
     "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,24 @@
     "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
     "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46762882",
+    "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
+    "url": "https://github.com/quaadgras/graphics.gd/discussions/242",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "Television is 100 years old today",
     "url": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,58 +157,7 @@
     "title": "The Hidden Engineering of Runways",
     "url": "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46768909",
-    "title": "JuiceSSH – Give me my pro features back",
-    "url": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46767440",
-    "title": "RIP Low-Code 2014-2025",
-    "url": "https://www.zackliscio.com/posts/rip-low-code-2014-2025/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46770274",
-    "title": "Dithering – Part 2: The Ordered Dithering",
-    "url": "https://visualrambling.space/dithering-part-2/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +174,92 @@
     "title": "People who know the formula for WD-40",
     "url": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46767440",
+    "title": "RIP Low-Code 2014-2025",
+    "url": "https://www.zackliscio.com/posts/rip-low-code-2014-2025/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46768909",
+    "title": "JuiceSSH – Give me my pro features back",
+    "url": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46770274",
+    "title": "Dithering – Part 2: The Ordered Dithering",
+    "url": "https://visualrambling.space/dithering-part-2/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46772966",
+    "title": "You have to know how tech companies work",
+    "url": "https://www.seangoedecke.com/knowing-how-to-drive-the-car/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46693673",
+    "title": "Pharos: The Lighthouse at Alexandria",
+    "url": "https://penelope.uchicago.edu/encyclopaedia_romana/greece/paganism/pharos.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +276,7 @@
     "title": "MapLibre Tile: a modern and efficient vector tile format",
     "url": "https://maplibre.org/news/2026-01-23-mlt-release/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,58 +293,7 @@
     "title": "The Adolescence of Technology",
     "url": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46772404",
-    "title": "Toy implementations of the 30 foundational papers recommended by Ilya Sutskever",
-    "url": "https://github.com/pageman/sutskever-30-implementations",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46769051",
-    "title": "Fedora Asahi Remix is now working on Apple M3",
-    "url": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46766741",
-    "title": "Qwen3-Max-Thinking",
-    "url": "https://qwen.ai/blog?id=qwen3-max-thinking",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +310,7 @@
     "title": "Windows 11's Patch Tuesday nightmare gets worse",
     "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46765694",
-    "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
-    "url": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+    "id": "hackernews-46769051",
+    "title": "Fedora Asahi Remix is now working on Apple M3",
+    "url": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-26T23:16:19.747Z",
+    "publishedAt": "2026-01-27T01:16:03.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
