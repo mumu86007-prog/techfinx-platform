@@ -4,7 +4,7 @@
     "title": "AI2: Open Coding Agents",
     "url": "https://allenai.org/blog/open-coding-agents",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release",
     "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
     "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46792370",
-    "title": "ASML firing 1700 people, mostly managers",
-    "url": "https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/",
+    "id": "hackernews-46793693",
+    "title": "Show HN: The HN Arcade",
+    "url": "https://andrewgy8.github.io/hnarcade/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46792194",
-    "title": "Make.ts",
-    "url": "https://matklad.github.io/2026/01/27/make-ts.html",
+    "id": "hackernews-46792370",
+    "title": "ASML firing 1700 people, mostly managers",
+    "url": "https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "There's only one Woz, but we can all learn from him",
     "url": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,7 @@
     "title": "SVG Path Editor",
     "url": "https://yqnn.github.io/svg-path-editor/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "Prism",
     "url": "https://openai.com/index/introducing-prism",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,41 +140,7 @@
     "title": "A few random notes from Claude coding quite a bit last few weeks",
     "url": "https://twitter.com/karpathy/status/2015883857489522876",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46735152",
-    "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
-    "url": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46756311",
-    "title": "Thirty Years of the Square Kilometre Array",
-    "url": "https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +157,58 @@
     "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
     "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46735152",
+    "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
+    "url": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46756311",
+    "title": "Thirty Years of the Square Kilometre Array",
+    "url": "https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46734641",
+    "title": "Pandas 3.0",
+    "url": "https://pandas.pydata.org/community/blog/pandas-3.0.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +225,7 @@
     "title": "Rust’s Standard Library on the GPU",
     "url": "https://www.vectorware.com/blog/rust-std-on-gpu/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,28 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46786196",
-    "title": "Parametric CAD in Rust",
-    "url": "https://campedersen.com/vcad",
+    "id": "hackernews-46792194",
+    "title": "Make.ts",
+    "url": "https://matklad.github.io/2026/01/27/make-ts.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46784572",
-    "title": "Lennart Poettering, Christian Brauner founded a new company",
-    "url": "https://amutable.com/about",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +259,58 @@
     "title": "Doing the thing is doing the thing",
     "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46784572",
+    "title": "Lennart Poettering, Christian Brauner founded a new company",
+    "url": "https://amutable.com/about",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46786196",
+    "title": "Parametric CAD in Rust",
+    "url": "https://campedersen.com/vcad",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46792783",
+    "title": "Devuan – Debian Without Systemd",
+    "url": "https://www.devuan.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,58 +327,7 @@
     "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
     "url": "https://alexxcons.github.io/blogpost_15.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46786183",
-    "title": "Time Station Emulator",
-    "url": "https://github.com/kangtastic/timestation",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46781444",
-    "title": "Amazon closing its Fresh and Go stores",
-    "url": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46779522",
-    "title": "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
-    "url": "https://emsh.cat/one-human-one-agent-one-browser/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T10:21:34.539Z",
+    "publishedAt": "2026-01-28T11:18:09.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
