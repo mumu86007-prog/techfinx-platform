@@ -4,7 +4,7 @@
     "title": "Airfoil (2024)",
     "url": "https://ciechanow.ski/airfoil/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
+    "publishedAt": "2026-01-28T17:27:40.676Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "Show HN: Cua-Bench – a benchmark for AI agents in GUI environments",
     "url": "https://github.com/trycua/cua",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
+    "publishedAt": "2026-01-28T17:27:40.676Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46796745",
+    "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
+    "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.676Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
     "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
+    "publishedAt": "2026-01-28T17:27:40.676Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,181 +68,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46795864",
-    "title": "Microsoft forced me to switch to Linux",
-    "url": "https://www.himthe.dev/blog/microsoft-to-linux",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46793693",
-    "title": "Show HN: The HN Arcade",
-    "url": "https://andrewgy8.github.io/hnarcade/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46741045",
-    "title": "Package Management Is a Wicked Problem",
-    "url": "https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46790127",
-    "title": "A verification layer for browser agents: Amazon case study",
-    "url": "https://sentienceapi.com/blog/verification-layer-amazon-case-study",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46739704",
-    "title": "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux",
-    "url": "https://github.com/saysjonathan/dwm.tmux",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46735407",
-    "title": "There's only one Woz, but we can all learn from him",
-    "url": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46771564",
-    "title": "A few random notes from Claude coding quite a bit last few weeks",
-    "url": "https://twitter.com/karpathy/status/2015883857489522876",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46783752",
-    "title": "Prism",
-    "url": "https://openai.com/index/introducing-prism",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46726269",
     "title": "SVG Path Editor",
     "url": "https://yqnn.github.io/svg-path-editor/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46728659",
-    "title": "Show HN: Extracting React apps from Figma Make's undocumented binary format",
-    "url": "https://albertsikkema.com/ai/development/tools/reverse-engineering/2026/01/23/reverse-engineering-figma-make-files.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46792572",
-    "title": "Virtual Boy on TV with Intelligent Systems Video Boy",
-    "url": "https://hcs64.com/video-boy-vue/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +89,41 @@
     "title": "Show HN: Build Web Automations via Demonstration",
     "url": "https://www.notte.cc/launch-week-i/demonstrate-mode",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46794231",
+    "title": "Kyber (YC W23) Is Hiring a Staff Engineer",
+    "url": "https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46792572",
+    "title": "Virtual Boy on TV with Intelligent Systems Video Boy",
+    "url": "https://hcs64.com/video-boy-vue/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +140,7 @@
     "title": "Make.ts",
     "url": "https://matklad.github.io/2026/01/27/make-ts.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,41 +157,7 @@
     "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
     "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46756311",
-    "title": "Thirty Years of the Square Kilometre Array",
-    "url": "https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46734641",
-    "title": "Pandas 3.0",
-    "url": "https://pandas.pydata.org/community/blog/pandas-3.0.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +174,160 @@
     "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
     "url": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T16:28:20.945Z",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46734641",
+    "title": "Pandas 3.0",
+    "url": "https://pandas.pydata.org/community/blog/pandas-3.0.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46756311",
+    "title": "Thirty Years of the Square Kilometre Array",
+    "url": "https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46741150",
+    "title": "Rust’s Standard Library on the GPU",
+    "url": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46776155",
+    "title": "Doing the thing is doing the thing",
+    "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46752172",
+    "title": "I Made a MIT Licensed Mecrisp-Stellaris Language Server",
+    "url": "https://mecrisp-stellaris-folkdoc.sourceforge.io/mecrisp-stellaris-lsp.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46741045",
+    "title": "Package Management Is a Wicked Problem",
+    "url": "https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46784572",
+    "title": "Lennart Poettering, Christian Brauner founded a new company",
+    "url": "https://amutable.com/about",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46786196",
+    "title": "Parametric CAD in Rust",
+    "url": "https://campedersen.com/vcad",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.677Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46795864",
+    "title": "Microsoft forced me to switch to Linux",
+    "url": "https://www.himthe.dev/blog/microsoft-to-linux",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T17:27:40.676Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
