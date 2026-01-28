@@ -4,24 +4,7 @@
     "title": "Airfoil (2024)",
     "url": "https://ciechanow.ski/airfoil/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46800303",
-    "title": "Trying to craft AI images that are worth displaying to end users",
-    "url": "https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
+    "publishedAt": "2026-01-28T22:20:40.925Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
     "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
+    "publishedAt": "2026-01-28T22:20:40.925Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -49,234 +32,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-46792225",
-    "title": "Kairos: AI interns for everyone",
-    "url": "https://www.kairos.computer/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46799304",
-    "title": "That's not how email works",
-    "url": "https://danq.me/2026/01/28/hsbc-dont-understand-email/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46797865",
-    "title": "Will AIs take all our jobs and end human history, or not? (2023)",
-    "url": "https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46799402",
-    "title": "Show HN: I'm building an AI-proof writing tool. How would you defeat it?",
-    "url": "https://auth-auth.vercel.app/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46800737",
-    "title": "Native Linux VST plugin directory",
-    "url": "https://linuxmusic.rocks/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46797594",
-    "title": "Oban, the job processing framework from Elixir, has come to Python",
-    "url": "https://www.dimamik.com/posts/oban_py/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46801225",
-    "title": "What does Werner Herzog's nihilist penguin teach us about life?",
-    "url": "https://lwlies.com/article/werner-herzog-penguin-encounters-at-the-end-of-the-world",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-46795864",
     "title": "Microsoft forced me to switch to Linux",
     "url": "https://www.himthe.dev/blog/microsoft-to-linux",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46790740",
-    "title": "Android's desktop interface leaks",
-    "url": "https://9to5google.com/2026/01/27/android-desktop-leak/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46798994",
-    "title": "Computer History Museum Launches Digital Portal to Its Collection",
-    "url": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46739117",
-    "title": "The Five Levels: From Spicy Autocomplete to the Software Factory",
-    "url": "https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46800623",
-    "title": "Who sets the Doomsday Clock?",
-    "url": "https://www.popularmechanics.com/science/a70162364/setting-the-doomsday-clock/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46765772",
-    "title": "I have written gemma3 inference in pure C",
-    "url": "https://github.com/robitec97/gemma3.c",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46797868",
-    "title": "Spinning around: Please don't – Common problems with spin locks",
-    "url": "https://www.siliceum.com/en/blog/post/spinning-around/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
+    "publishedAt": "2026-01-28T22:20:40.925Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,41 +55,7 @@
     "title": "Show HN: The HN Arcade",
     "url": "https://andrewgy8.github.io/hnarcade/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46728070",
-    "title": "I Overengineered a Spinning Top",
-    "url": "https://www.youtube.com/watch?v=Wp5NodfvvF4",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46800484",
-    "title": "Show HN: Cursor for Userscripts",
-    "url": "https://github.com/chebykinn/browser-code",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T21:23:41.761Z",
+    "publishedAt": "2026-01-28T22:20:40.925Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
