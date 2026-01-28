@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46796745",
-    "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
-    "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+    "id": "hackernews-46795908",
+    "title": "Airfoil (2024)",
+    "url": "https://ciechanow.ski/airfoil/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T18:29:03.725Z",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,300 @@
     "score": 8
   },
   {
+    "id": "hackernews-46799304",
+    "title": "That's Not How Email Works, HSBC",
+    "url": "https://danq.me/2026/01/28/hsbc-dont-understand-email/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46768906",
+    "title": "Show HN: Cua-Bench – a benchmark for AI agents in GUI environments",
+    "url": "https://github.com/trycua/cua",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46791742",
+    "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+    "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46797594",
+    "title": "Oban, the job processing framework from Elixir, has come to Python",
+    "url": "https://www.dimamik.com/posts/oban_py/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46798402",
+    "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+    "url": "https://github.com/ratatui/mousefood",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46793693",
+    "title": "Show HN: The HN Arcade",
+    "url": "https://andrewgy8.github.io/hnarcade/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46728070",
+    "title": "I Overengineered a Spinning Top",
+    "url": "https://www.youtube.com/watch?v=Wp5NodfvvF4",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46790740",
+    "title": "Android's full desktop interface leaks: New status bar, Chrome Extensions",
+    "url": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46795540",
+    "title": "Show HN: I built a small browser engine from scratch in C++",
+    "url": "https://github.com/beginner-jhj/mini_browser",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46744272",
+    "title": "3D-Printed Mathematical Lampshades",
+    "url": "https://hessammehr.github.io/blog/posts/2025-12-24-maths-to-lampshade.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46755278",
+    "title": "Immanuel 'the Königsberg clock' Kant (2015)",
+    "url": "https://www.versobooks.com/en-gb/blogs/news/1963-immanuel-kant-the-errrr-walker",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46739704",
+    "title": "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux",
+    "url": "https://github.com/saysjonathan/dwm.tmux",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46798994",
+    "title": "Computer History Museum Launches Digital Portal to Its Collection",
+    "url": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46790127",
+    "title": "A verification layer for browser agents: Amazon case study",
+    "url": "https://sentienceapi.com/blog/verification-layer-amazon-case-study",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46735407",
+    "title": "There's only one Woz, but we can all learn from him",
+    "url": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46797868",
+    "title": "Spinning around: Please don't – Common problems with spin locks",
+    "url": "https://www.siliceum.com/en/blog/post/spinning-around/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46771564",
     "title": "A few random notes from Claude coding quite a bit last few weeks",
     "url": "https://twitter.com/karpathy/status/2015883857489522876",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T18:29:03.725Z",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46794231",
+    "title": "Kyber (YC W23) Is Hiring a Staff Engineer",
+    "url": "https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,58 +327,7 @@
     "title": "Prism",
     "url": "https://openai.com/index/introducing-prism",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T18:29:03.725Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46781530",
-    "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
-    "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T18:29:03.725Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46776155",
-    "title": "Doing the thing is doing the thing",
-    "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T18:29:03.725Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46795864",
-    "title": "Microsoft forced me to switch to Linux",
-    "url": "https://www.himthe.dev/blog/microsoft-to-linux",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T18:29:03.724Z",
+    "publishedAt": "2026-01-28T19:21:31.374Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
