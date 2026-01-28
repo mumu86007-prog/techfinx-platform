@@ -1,10 +1,10 @@
 [
   {
     "id": "hackernews-46789913",
-    "title": "AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities",
+    "title": "AI found 12 vulnerabilities in OpenSSL",
     "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "AI2: Open Coding Agents",
     "url": "https://allenai.org/blog/open-coding-agents",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
     "url": "https://www.web3isgoinggreat.com/single/lick-theft",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,147 +51,11 @@
     "score": 7.5
   },
   {
-    "id": "hackernews-46771564",
-    "title": "A few random notes from Claude coding quite a bit last few weeks",
-    "url": "https://twitter.com/karpathy/status/2015883857489522876",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46735152",
-    "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
-    "url": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46781530",
-    "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
-    "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46741150",
-    "title": "Rust’s Standard Library on the GPU",
-    "url": "https://www.vectorware.com/blog/rust-std-on-gpu/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46786196",
-    "title": "Parametric CAD in Rust",
-    "url": "https://campedersen.com/vcad",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46786183",
-    "title": "Time Station Emulator",
-    "url": "https://github.com/kangtastic/timestation",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46784572",
-    "title": "Lennart Poettering, Christian Brauner founded a new company",
-    "url": "https://amutable.com/about",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46776155",
-    "title": "Doing the thing is doing the thing",
-    "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46779645",
     "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
     "url": "https://alexxcons.github.io/blogpost_15.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,24 +72,7 @@
     "title": "Amazon closing its Fresh and Go stores",
     "url": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46782930",
-    "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
-    "url": "https://haveibeenpwned.com/Breach/SoundCloud",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +89,7 @@
     "title": "FBI is investigating Minnesota Signal chats tracking ICE",
     "url": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46784977",
-    "title": "Try text scaling support in Chrome Canary",
-    "url": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
+    "id": "hackernews-46782930",
+    "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
+    "url": "https://haveibeenpwned.com/Breach/SoundCloud",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +123,7 @@
     "title": "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
     "url": "https://emsh.cat/one-human-one-agent-one-browser/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +140,7 @@
     "title": "I found the perfect yearly calendar (for me)",
     "url": "https://blog.notmyhostna.me/posts/i-found-the-perfect-yearly-calendar-for-me",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +153,79 @@
     "score": 6
   },
   {
-    "id": "hackernews-46723521",
-    "title": "The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC)",
-    "url": "http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html",
+    "id": "hackernews-46784977",
+    "title": "Try text scaling support in Chrome Canary",
+    "url": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46788384",
+    "title": "Notes on starting to use Django",
+    "url": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46783600",
+    "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
+    "url": "https://news.ycombinator.com/item?id=46783600",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46731513",
+    "title": "Extremophile molds are invading art museums",
+    "url": "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46786618",
+    "title": "Show HN: I wrapped the Zorks with an LLM",
+    "url": "https://infocom.tambo.co/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +242,92 @@
     "title": "Super Monkey Ball ported to a website",
     "url": "https://monkeyball-online.pages.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T06:27:22.845Z",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46785598",
+    "title": "How many chess games are possible?",
+    "url": "https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46723521",
+    "title": "The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC)",
+    "url": "http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46782662",
+    "title": "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
+    "url": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46784491",
+    "title": "Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer",
+    "url": "https://www.ycombinator.com/companies/hypercubic/jobs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T07:20:46.386Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46735407",
+    "title": "There's only one Woz, but we can all learn from him",
+    "url": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-28T07:20:46.385Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
