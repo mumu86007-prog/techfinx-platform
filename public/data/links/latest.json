@@ -4,7 +4,7 @@
     "title": "Claude Code Daily Benchmarks for Degradation Tracking",
     "url": "https://marginlab.ai/trackers/claude-code/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
+    "publishedAt": "2026-01-29T22:21:17.942Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -15,98 +15,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-46812608",
-    "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
-    "url": "https://news.ycombinator.com/item?id=46812608",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46815527",
-    "title": "Why \"The AI Hallucinated\" is the perfect legal defense",
-    "url": "https://niyikiza.com/posts/hallucination-defense/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46811588",
-    "title": "OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)",
-    "url": "https://quesma.com/blog/introducing-otel-bench/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46812909",
-    "title": "Show HN: Autonomous recovery for distributed training jobs",
-    "url": "https://docs.tensorpool.dev/features/agent",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46814614",
-    "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
-    "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
   },
   {
     "id": "hackernews-46812173",
     "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
     "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
+    "publishedAt": "2026-01-29T22:21:17.942Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,62 +34,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46812159",
-    "title": "Drug trio found to block tumour resistance in pancreatic cancer",
-    "url": "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46814569",
-    "title": "My Mom and Dr. DeepSeek (2025)",
-    "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46814743",
-    "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
-    "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46806773",
     "title": "Europe’s next-generation weather satellite sends back first images",
     "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
+    "publishedAt": "2026-01-29T22:21:17.942Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,147 +51,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46741602",
-    "title": "C++ Modules Are Here to Stay",
-    "url": "https://faresbakhit.github.io/e/cpp-modules/",
+    "id": "hackernews-46812933",
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46752754",
-    "title": "The Value of Things",
-    "url": "https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46729139",
-    "title": "EmulatorJS",
-    "url": "https://github.com/EmulatorJS/EmulatorJS",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46812892",
-    "title": "Reflex (YC W23) Senior Software Engineer Infra",
-    "url": "https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46751460",
-    "title": "Box64 Expands into RISC-V and LoongArch territory",
-    "url": "https://boilingsteam.com/box64-expands-into-risc-v-and-loong-arch-territory/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46760546",
-    "title": "Usenet personality",
-    "url": "https://en.wikipedia.org/wiki/Usenet_personality",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46815297",
-    "title": "Flameshot",
-    "url": "https://github.com/flameshot-org/flameshot",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46810828",
-    "title": "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
-    "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46814991",
-    "title": "Networks Hold the Key to a Decades-Old Problem About Waves",
-    "url": "https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T21:21:05.227Z",
+    "publishedAt": "2026-01-29T22:21:17.941Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
