@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46810282",
-    "title": "Claude Code Daily Benchmarks for Degradation Tracking",
-    "url": "https://marginlab.ai/trackers/claude-code/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46804828",
     "title": "Render Mermaid diagrams as SVGs or ASCII art",
     "url": "https://github.com/lukilabs/beautiful-mermaid",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
+    "publishedAt": "2026-01-29T17:32:13.519Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,41 +21,7 @@
     "title": "We can’t send mail farther than 500 miles (2002)",
     "url": "https://web.mit.edu/jemorris/humor/500-miles",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46804854",
-    "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
-    "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46795908",
-    "title": "Airfoil (2024)",
-    "url": "https://ciechanow.ski/airfoil/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
+    "publishedAt": "2026-01-29T17:32:13.519Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,58 +38,7 @@
     "title": "Europe’s next-generation weather satellite sends back first images",
     "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46810904",
-    "title": "How to Choose Colors for Your CLI Applications",
-    "url": "https://blog.xoria.org/terminal-colors/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46772132",
-    "title": "Making niche solutions is the point",
-    "url": "https://ntietz.com/blog/making-niche-solutions-is-the-point/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46810536",
-    "title": "Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC",
-    "url": "https://www.breakmeifyoucan.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
+    "publishedAt": "2026-01-29T17:32:13.519Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,109 +55,7 @@
     "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
     "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46810027",
-    "title": "A lot of population numbers are fake",
-    "url": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46809420",
-    "title": "The Sovereign Tech Fund Invests in Scala",
-    "url": "https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46779922",
-    "title": "Show HN: ShapedQL – A SQL engine for multi-stage ranking and RAG",
-    "url": "https://playground.shaped.ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46810337",
-    "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
-    "url": "https://ipsj.ixsq.nii.ac.jp/records/229345",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46810950",
-    "title": "Deep dive into Turso, the \"SQLite rewrite in Rust\"",
-    "url": "https://kerkour.com/turso-sqlite",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46751382",
-    "title": "Apt-bundle: brew bundle for apt",
-    "url": "https://github.com/apt-bundle/apt-bundle",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
+    "publishedAt": "2026-01-29T17:32:13.519Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,58 +72,7 @@
     "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
     "url": "https://blog.ncase.me/on-depression/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46750220",
-    "title": "Building a High-Performance Rotating Bloom Filter in Java",
-    "url": "https://medium.com/@udaysagar.2177/building-a-high-performance-rotating-bloom-filter-in-java-a9e75de993bf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46758652",
-    "title": "Mecha Comet – Open Modular Linux Handheld Computer",
-    "url": "https://mecha.so/comet",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46736804",
-    "title": "Tea Chemistry (1997)",
-    "url": "https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-29T16:35:25.191Z",
+    "publishedAt": "2026-01-29T17:32:13.519Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
