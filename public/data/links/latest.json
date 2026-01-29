@@ -4,24 +4,7 @@
     "title": "Airfoil (2024)",
     "url": "https://ciechanow.ski/airfoil/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T23:20:37.560Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46796745",
-    "title": "Amazon axes 16,000 jobs as it pushes AI and efficiency",
-    "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T23:20:37.560Z",
+    "publishedAt": "2026-01-29T01:22:08.240Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "Show HN: The HN Arcade",
     "url": "https://andrewgy8.github.io/hnarcade/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T23:20:37.560Z",
+    "publishedAt": "2026-01-29T01:22:08.241Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,41 @@
     "title": "Microsoft forced me to switch to Linux",
     "url": "https://www.himthe.dev/blog/microsoft-to-linux",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-28T23:20:37.560Z",
+    "publishedAt": "2026-01-29T01:22:08.241Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46796745",
+    "title": "Amazon cuts 16k jobs",
+    "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-29T01:22:08.241Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46802067",
+    "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+    "url": "https://alecmuffett.com/article/143548",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-29T01:22:08.240Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
