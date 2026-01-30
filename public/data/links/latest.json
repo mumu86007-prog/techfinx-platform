@@ -1,10 +1,95 @@
 [
   {
+    "id": "hackernews-46828881",
+    "title": "Washington Post Raid Is a Frightening Reminder: Turn Off Your Phone's Biometrics",
+    "url": "https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46820783",
     "title": "OpenClaw – Moltbot Renamed Again",
     "url": "https://openclaw.ai/blog/introducing-openclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T19:27:41.947Z",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46764228",
+    "title": "Joel Spolsky: Painless Software Schedules (2000)",
+    "url": "https://www.joelonsoftware.com/2000/03/29/painless-software-schedules/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46827665",
+    "title": "Mamdani to kill the NYC AI chatbot caught telling businesses to break the law",
+    "url": "https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46824877",
+    "title": "Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents",
+    "url": "https://github.com/amlalabs/amla-sandbox",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46828482",
+    "title": "Videogame stocks slide after Google's Project Genie AI model release",
+    "url": "https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +106,7 @@
     "title": "How AI assistance impacts the formation of coding skills",
     "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T19:27:41.947Z",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +119,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46816539",
-    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "id": "hackernews-46821360",
+    "title": "How AI Impacts Skill Formation",
+    "url": "https://arxiv.org/abs/2601.20245",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T19:27:41.947Z",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +140,7 @@
     "title": "Wisconsin communities signed secrecy deals for billion-dollar data centers",
     "url": "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T19:27:41.947Z",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,62 +153,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46821134",
-    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
-    "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+    "id": "hackernews-46782412",
+    "title": "The National Herbarium of Ireland digital collection of Irish plants",
+    "url": "https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T19:27:41.947Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46821774",
-    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
-    "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T19:27:41.947Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46817813",
-    "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
-    "url": "https://grid.space/stem/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T19:27:41.947Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46809708",
-    "title": "AGENTS.md outperforms skills in our agent evals",
-    "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T19:27:41.947Z",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +174,160 @@
     "title": "Moltbook",
     "url": "https://www.moltbook.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T19:27:41.946Z",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46773655",
+    "title": "The Engineer who invented the Mars Rover Suspension in his garage [video]",
+    "url": "https://www.youtube.com/watch?v=QKSPk_0N4Jc",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46755270",
+    "title": "The Home Computer Hybrids",
+    "url": "https://technicshistory.com/2026/01/25/the-home-computer-hybrids/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46773793",
+    "title": "Quack-Cluster: A Serverless Distributed SQL Query Engine with DuckDB and Ray",
+    "url": "https://github.com/kristianaryanto/Quack-Cluster",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46825828",
+    "title": "Self Driving Car Insurance",
+    "url": "https://www.lemonade.com/car/explained/self-driving-car-insurance/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46825415",
+    "title": "Buttered Crumpet, a custom typeface for Wallace and Gromit",
+    "url": "https://jamieclarketype.com/case-study/wallace-and-gromit-font/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46759358",
+    "title": "Implementing a tiny CPU rasterizer (2024)",
+    "url": "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46824400",
+    "title": "Ode to the AA Battery",
+    "url": "https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46782357",
+    "title": "Emoji Design Convergence Review: 2018-2026",
+    "url": "https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46824422",
+    "title": "HTTP Cats",
+    "url": "https://http.cat/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T20:21:48.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
