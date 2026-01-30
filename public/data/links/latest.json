@@ -1,10 +1,27 @@
 [
   {
     "id": "hackernews-46810282",
-    "title": "Claude Code Daily Benchmarks for Degradation Tracking",
+    "title": "Claude Code daily benchmarks for degradation tracking",
     "url": "https://marginlab.ai/trackers/claude-code/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46816539",
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "The WiFi only works when it's raining (2024)",
     "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
     "url": "https://news.ycombinator.com/item?id=46812608",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -49,47 +66,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-46810828",
-    "title": "Moltworker: a self-hosted personal AI agent, minus the minis",
-    "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46814614",
-    "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
-    "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
   },
   {
     "id": "hackernews-46820360",
     "title": "Moltbook",
     "url": "https://www.moltbook.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -103,10 +86,10 @@
   },
   {
     "id": "hackernews-46817813",
-    "title": "Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer",
+    "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
     "url": "https://grid.space/stem/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,7 @@
     "title": "The Dank Case for Scrolling Window Managers",
     "url": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,7 @@
     "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
     "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +140,7 @@
     "title": "Project Genie: Experimenting with infinite, interactive worlds",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +157,7 @@
     "title": "Stargaze: SpaceX's Space Situational Awareness System",
     "url": "https://starlink.com/updates/stargaze",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +174,24 @@
     "title": "AGENTS.md outperforms skills in our agent evals",
     "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46780891",
+    "title": "Doin' It with a 555: One Chip to Rule Them All",
+    "url": "https://aashvik.com/posts/555-revolution/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +208,7 @@
     "title": "Backseat Software",
     "url": "https://blog.mikeswanson.com/backseat-software/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,58 +225,7 @@
     "title": "Flameshot",
     "url": "https://github.com/flameshot-org/flameshot",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46770411",
-    "title": "The Home Computer Hybrids: Atari, TI, and the FCC",
-    "url": "https://technicshistory.com/2026/01/25/the-home-computer-hybrids/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46786672",
-    "title": "CISA’s acting head uploaded sensitive files into public version of ChatGPT",
-    "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46784130",
-    "title": "Nannou – A creative coding framework for Rust",
-    "url": "https://github.com/nannou-org/nannou",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +242,7 @@
     "title": "My Mom and Dr. DeepSeek (2025)",
     "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46769422",
-    "title": "Show HN: Ourguide – OS wide task guidance system that shows you where to click",
-    "url": "https://ourguide.ai/",
+    "id": "hackernews-46770411",
+    "title": "The Home Computer Hybrids: Atari, TI, and the FCC",
+    "url": "https://technicshistory.com/2026/01/25/the-home-computer-hybrids/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +272,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46810027",
-    "title": "A lot of population numbers are fake",
-    "url": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
+    "id": "hackernews-46784130",
+    "title": "Nannou – A creative coding framework for Rust",
+    "url": "https://github.com/nannou-org/nannou",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T06:39:29.012Z",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46786672",
+    "title": "CISA’s acting head uploaded sensitive files into public version of ChatGPT",
+    "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46784221",
+    "title": "Show HN: Mystral Native – Run JavaScript games natively with WebGPU (no browser)",
+    "url": "https://github.com/mystralengine/mystralnative",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46819809",
+    "title": "Two days of oatmeal reduce cholesterol level",
+    "url": "https://www.uni-bonn.de/en/news/017-2026",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T07:36:12.188Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
