@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "id": "hackernews-46820783",
+    "title": "OpenClaw – Moltbot Renamed Again",
+    "url": "https://openclaw.ai/blog/introducing-openclaw",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46810282",
+    "title": "Claude Code daily benchmarks for degradation tracking",
+    "url": "https://marginlab.ai/trackers/claude-code/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46816539",
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46820360",
+    "title": "Moltbook",
+    "url": "https://www.moltbook.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46821774",
+    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+    "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46817813",
+    "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
+    "url": "https://grid.space/stem/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46814743",
+    "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+    "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46812933",
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46815297",
+    "title": "Flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46809708",
+    "title": "AGENTS.md outperforms skills in our agent evals",
+    "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46814569",
+    "title": "My Mom and Dr. DeepSeek (2025)",
+    "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
