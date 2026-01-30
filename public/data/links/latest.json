@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46820783",
-    "title": "OpenClaw – Moltbot Renamed Again",
-    "url": "https://openclaw.ai/blog/introducing-openclaw",
+    "id": "hackernews-46820924",
+    "title": "Way AI assistance impacts the formation of coding skills",
+    "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46821360",
-    "title": "How AI Impacts Skill Formation",
-    "url": "https://arxiv.org/abs/2601.20245",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +21,7 @@
     "title": "Claude Code daily benchmarks for degradation tracking",
     "url": "https://marginlab.ai/trackers/claude-code/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46820924",
-    "title": "How AI assistance impacts the formation of coding skills",
-    "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +38,7 @@
     "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
     "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +55,7 @@
     "title": "The WiFi only works when it's raining (2024)",
     "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +72,7 @@
     "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
     "url": "https://news.ycombinator.com/item?id=46812608",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46776848",
-    "title": "Software Pump and Dump",
-    "url": "http://tautvilas.lt/software-pump-and-dump/",
+    "id": "hackernews-46820783",
+    "title": "OpenClaw – Moltbot Renamed Again",
+    "url": "https://openclaw.ai/blog/introducing-openclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.306Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -133,14 +99,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-46821774",
-    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
-    "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+    "id": "hackernews-46821360",
+    "title": "Anthropic: AI Coding shows no productivity gains; impairs skill development",
+    "url": "https://arxiv.org/abs/2601.20245",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.306Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -150,82 +116,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46817813",
-    "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
-    "url": "https://grid.space/stem/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46814743",
-    "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
-    "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 8
   },
   {
     "id": "hackernews-46812933",
     "title": "Project Genie: Experimenting with infinite, interactive worlds",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46780891",
-    "title": "Doin' It with a 555: One Chip to Rule Them All",
-    "url": "https://aashvik.com/posts/555-revolution/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46821326",
-    "title": "Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris",
-    "url": "https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +140,75 @@
     "title": "Stargaze: SpaceX's Space Situational Awareness System",
     "url": "https://starlink.com/updates/stargaze",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46821326",
+    "title": "Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris",
+    "url": "https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46780891",
+    "title": "Doin' It with a 555: One Chip to Rule Them All",
+    "url": "https://aashvik.com/posts/555-revolution/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46821134",
+    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+    "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46771605",
+    "title": "Long-hidden Leonardo mural opens to the public ahead of 2026 Milan Olympics",
+    "url": "https://news.artnet.com/art-world/leonardo-sforza-castle-olympics-2739171",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,24 +225,7 @@
     "title": "Backseat Software",
     "url": "https://blog.mikeswanson.com/backseat-software/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46820468",
-    "title": "The Dank Case for Scrolling Window Managers",
-    "url": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,24 +242,7 @@
     "title": "AGENTS.md outperforms skills in our agent evals",
     "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46815297",
-    "title": "Flameshot",
-    "url": "https://github.com/flameshot-org/flameshot",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +259,75 @@
     "title": "Nannou – A creative coding framework for Rust",
     "url": "https://github.com/nannou-org/nannou",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T09:31:53.485Z",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46815297",
+    "title": "Flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46820468",
+    "title": "The Dank Case for Scrolling Window Managers",
+    "url": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46787693",
+    "title": "Spacecurve: A space-filling curve playground",
+    "url": "https://corte.si/posts/spacecurve/announce/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46814569",
+    "title": "My Mom and Dr. DeepSeek (2025)",
+    "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T10:26:30.307Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
