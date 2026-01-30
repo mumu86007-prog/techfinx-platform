@@ -4,7 +4,7 @@
     "title": "OpenClaw – Moltbot Renamed Again",
     "url": "https://openclaw.ai/blog/introducing-openclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T18:33:08.491Z",
+    "publishedAt": "2026-01-30T19:27:41.947Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "How AI assistance impacts the formation of coding skills",
     "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T18:33:08.491Z",
+    "publishedAt": "2026-01-30T19:27:41.947Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
     "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T18:33:08.491Z",
+    "publishedAt": "2026-01-30T19:27:41.947Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,28 @@
     "score": 8
   },
   {
-    "id": "hackernews-46821774",
-    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
-    "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+    "id": "hackernews-46824098",
+    "title": "Wisconsin communities signed secrecy deals for billion-dollar data centers",
+    "url": "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T18:33:08.491Z",
+    "publishedAt": "2026-01-30T19:27:41.947Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46821134",
+    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+    "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T19:27:41.947Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46821134",
-    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
-    "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+    "id": "hackernews-46821774",
+    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+    "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T18:33:08.491Z",
+    "publishedAt": "2026-01-30T19:27:41.947Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
     "url": "https://grid.space/stem/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T18:33:08.491Z",
+    "publishedAt": "2026-01-30T19:27:41.947Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +123,7 @@
     "title": "AGENTS.md outperforms skills in our agent evals",
     "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T18:33:08.491Z",
+    "publishedAt": "2026-01-30T19:27:41.947Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "Moltbook",
     "url": "https://www.moltbook.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T18:33:08.490Z",
+    "publishedAt": "2026-01-30T19:27:41.946Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
