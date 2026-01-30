@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46810282",
+    "title": "Claude Code Daily Benchmarks for Degradation Tracking",
+    "url": "https://marginlab.ai/trackers/claude-code/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46816357",
+    "title": "The WiFi only works when it's raining (2024)",
+    "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46812608",
+    "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
+    "url": "https://news.ycombinator.com/item?id=46812608",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46810828",
+    "title": "Moltworker: a self-hosted personal AI agent, minus the minis",
+    "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46814614",
+    "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
+    "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46817813",
+    "title": "Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer",
+    "url": "https://grid.space/stem/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46820468",
+    "title": "The Dank Case for Scrolling Window Managers",
+    "url": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46820360",
+    "title": "Moltbook",
+    "url": "https://www.moltbook.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46814743",
+    "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+    "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46812933",
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46809708",
+    "title": "AGENTS.md outperforms skills in our agent evals",
+    "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46817452",
+    "title": "Backseat Software",
+    "url": "https://blog.mikeswanson.com/backseat-software/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46815297",
+    "title": "Flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46786672",
+    "title": "CISA’s acting head uploaded sensitive files into public version of ChatGPT",
+    "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46814569",
+    "title": "My Mom and Dr. DeepSeek (2025)",
+    "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46810027",
+    "title": "A lot of population numbers are fake",
+    "url": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46811664",
+    "title": "Is the RAM shortage killing small VPS hosts?",
+    "url": "https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46817764",
+    "title": "Cutting Up Curved Things",
+    "url": "https://campedersen.com/tessellation",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46810401",
+    "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+    "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46818154",
+    "title": "Software is mostly all you need",
+    "url": "https://softwarefordays.com/post/software-is-mostly-all-you-need/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T05:41:51.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
