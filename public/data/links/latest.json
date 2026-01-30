@@ -4,7 +4,24 @@
     "title": "OpenClaw – Moltbot Renamed Again",
     "url": "https://openclaw.ai/blog/introducing-openclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46820924",
+    "title": "How AI assistance impacts the formation of coding skills",
+    "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "Claude Code daily benchmarks for degradation tracking",
     "url": "https://marginlab.ai/trackers/claude-code/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
     "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +68,198 @@
     "score": 8
   },
   {
+    "id": "hackernews-46816357",
+    "title": "The WiFi only works when it's raining (2024)",
+    "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46824098",
+    "title": "Wisconsin communities signed secrecy deals for billion-dollar data centers",
+    "url": "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.078Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46776848",
+    "title": "Software Pump and Dump",
+    "url": "http://tautvilas.lt/software-pump-and-dump/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46820360",
     "title": "Moltbook",
     "url": "https://www.moltbook.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46821134",
+    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+    "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46822632",
+    "title": "Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor",
+    "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46823485",
+    "title": "Code is cheap. Show me the talk",
+    "url": "https://nadh.in/blog/code-is-cheap/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46824017",
+    "title": "Norway EV Push Nears 100 Percent: What's Next?",
+    "url": "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46773655",
+    "title": "The Engineer who invented the Mars Rover Suspension in his garage [video]",
+    "url": "https://www.youtube.com/watch?v=QKSPk_0N4Jc",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46823544",
+    "title": "Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)",
+    "url": "https://docs.pangolin.net/careers/join-us",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46823358",
+    "title": "Track Your Routine – Open-source app for task management",
+    "url": "https://github.com/MSF01/TYR",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46823498",
+    "title": "Show HN: Cicada – a scripting language that integrates with C",
+    "url": "https://github.com/heltilda/cicada",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +276,7 @@
     "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
     "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +293,7 @@
     "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
     "url": "https://grid.space/stem/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +310,7 @@
     "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
     "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,58 +327,7 @@
     "title": "Project Genie: Experimenting with infinite, interactive worlds",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46815297",
-    "title": "Flameshot",
-    "url": "https://github.com/flameshot-org/flameshot",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46809708",
-    "title": "AGENTS.md outperforms skills in our agent evals",
-    "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46814569",
-    "title": "My Mom and Dr. DeepSeek (2025)",
-    "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-30T13:51:03.579Z",
+    "publishedAt": "2026-01-30T14:30:42.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
