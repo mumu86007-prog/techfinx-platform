@@ -1,1 +1,155 @@
-[]
+[
+  {
+    "id": "hackernews-46820783",
+    "title": "OpenClaw – Moltbot Renamed Again",
+    "url": "https://openclaw.ai/blog/introducing-openclaw",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T17:28:01.066Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46816539",
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T17:28:01.066Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46816357",
+    "title": "The WiFi only works when it's raining (2024)",
+    "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T17:28:01.066Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46820360",
+    "title": "Moltbook",
+    "url": "https://www.moltbook.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T17:28:01.066Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46821774",
+    "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+    "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T17:28:01.066Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46814743",
+    "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+    "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T17:28:01.066Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46821134",
+    "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+    "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T17:28:01.066Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46817813",
+    "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
+    "url": "https://grid.space/stem/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T17:28:01.066Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46809708",
+    "title": "AGENTS.md outperforms skills in our agent evals",
+    "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-30T17:28:01.066Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
