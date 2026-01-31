@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-46838635",
-    "title": "US has investigated claims WhatsApp chats aren't private",
-    "url": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46840178",
-    "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
-    "url": "https://github.com/rtvkiz/minimal",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46780086",
-    "title": "CPython Internals Explained",
-    "url": "https://github.com/zpoint/CPython-Internals",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46832074",
     "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
     "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
+    "publishedAt": "2026-01-31T22:15:55.578Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,62 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46840252",
-    "title": "Demystifying ARM SME to Optimize General Matrix Multiplications",
-    "url": "https://arxiv.org/abs/2512.21473",
+    "id": "hackernews-46838597",
+    "title": "Mobile carriers can get your GPS location",
+    "url": "https://an.dywa.ng/carrier-gnss.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46838981",
-    "title": "Genode OS is a tool kit for building highly secure special-purpose OS",
-    "url": "https://genode.org/about/index",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.770Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-46840219",
-    "title": "The Saddest Moment (2013) [pdf]",
-    "url": "https://www.usenix.org/system/files/login-logout_1305_mickens.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46777409",
-    "title": "Claude Code is your customer",
-    "url": "https://calebjohn.xyz/blog/b2cc/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
+    "publishedAt": "2026-01-31T22:15:55.578Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,177 +38,7 @@
     "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
     "url": "https://yle.fi/a/74-20207494",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46839215",
-    "title": "Nintendo DS code editor and scriptable game engine",
-    "url": "https://crl.io/ds-game-engine/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46839743",
-    "title": "Death Note: L, Anonymity and Eluding Entropy (2011)",
-    "url": "https://gwern.net/death-note-anonymity",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46839375",
-    "title": "Google Cloud suspended my account for 2 years, only automated replies",
-    "url": "https://news.ycombinator.com/item?id=46839375",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46835454",
-    "title": "\"Giving up upstream-ing my patches & feel free to pick them up\"",
-    "url": "https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46839784",
-    "title": "Berlin: Record harvest sparks mass giveaway of free potatoes",
-    "url": "https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46792242",
-    "title": "NASA's WB-57 crash lands at Houston",
-    "url": "https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46834953",
-    "title": "We have ipinfo at home or how to geolocate IPs in your CLI using latency",
-    "url": "https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46794971",
-    "title": "My ridiculously robust photo management system (Immich edition)",
-    "url": "https://jaisenmathai.com/articles/my-ridiculously-robust-photo-management-system-immich-edition/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46835612",
-    "title": "Guix System First Impressions as a Nix User",
-    "url": "https://nemin.hu/guix.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46795487",
-    "title": "Show HN: An extensible pub/sub messaging server for edge applications",
-    "url": "https://github.com/narwhal-io/narwhal",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
+    "publishedAt": "2026-01-31T22:15:55.578Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +55,24 @@
     "title": "Antirender: remove the glossy shine on architectural renderings",
     "url": "https://antirender.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-01-31T21:15:10.771Z",
+    "publishedAt": "2026-01-31T22:15:55.578Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46824422",
+    "title": "HTTP Cats",
+    "url": "https://http.cat/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-01-31T22:15:55.578Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
