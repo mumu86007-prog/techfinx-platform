@@ -1,95 +1,10 @@
 [
   {
-    "id": "hackernews-46842603",
-    "title": "List animals until failure",
-    "url": "https://rose.systems/animalist/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46840924",
-    "title": "Generative AI and Wikipedia editing: What we learned in 2025",
-    "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46813909",
-    "title": "Coffee as a staining agent substitute in electron microscopy",
-    "url": "https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46840178",
-    "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
-    "url": "https://github.com/rtvkiz/minimal",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46780086",
-    "title": "CPython Internals Explained",
-    "url": "https://github.com/zpoint/CPython-Internals",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46844870",
     "title": "Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)",
     "url": "https://netbird.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.180Z",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +21,75 @@
     "title": "In praise of –dry-run",
     "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.180Z",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46842603",
+    "title": "List animals until failure",
+    "url": "https://rose.systems/animalist/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46840924",
+    "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+    "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46813909",
+    "title": "Coffee as a staining agent substitute in electron microscopy",
+    "url": "https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46840178",
+    "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
+    "url": "https://github.com/rtvkiz/minimal",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,7 @@
     "title": "Nvidia's 10-year effort to make the Shield TV the most updated Android device",
     "url": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,7 @@
     "title": "Apple Platform Security (Jan 2026) [pdf]",
     "url": "https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +136,130 @@
     "score": 7
   },
   {
+    "id": "hackernews-46844822",
+    "title": "What I learned building an opinionated and minimal coding agent",
+    "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46844350",
+    "title": "The Book of PF, 4th edition",
+    "url": "https://nostarch.com/book-of-pf-4th-edition",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46845470",
+    "title": "How to Scale a System from 0 to 10M+ Users",
+    "url": "https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46838597",
+    "title": "Mobile carriers can get your GPS location",
+    "url": "https://an.dywa.ng/carrier-gnss.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46786575",
+    "title": "Reliable 25 Gigabit Ethernet via Thunderbolt",
+    "url": "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46782872",
+    "title": "The history of C# and TypeScript with Anders Hejlsberg | GitHub",
+    "url": "https://www.youtube.com/watch?v=uMqx8NNT4xY",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46799435",
+    "title": "VisualJJ – Jujutsu in Visual Studio Code",
+    "url": "https://www.visualjj.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46804009",
     "title": "pg_tracing: Distributed Tracing for PostgreSQL",
     "url": "https://github.com/DataDog/pg_tracing",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +276,7 @@
     "title": "Cells use 'bioelectricity' to coordinate and make group decisions",
     "url": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +293,7 @@
     "title": "Opentrees.org (2024)",
     "url": "https://opentrees.org/#pos=1/-37.8/145",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,75 +310,7 @@
     "title": "Drawings of the elements of CMS detector, in the style of Leonardo da Vinci",
     "url": "https://cds.cern.ch/record/1157741/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46840865",
-    "title": "Outsourcing thinking",
-    "url": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46817779",
-    "title": "EV-1 for Lease (1996)",
-    "url": "https://www.loe.org/shows/shows.html?programID=96-P13-00047#feature4",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46793313",
-    "title": "Scientist who helped eradicate smallpox dies at age 89",
-    "url": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46802254",
-    "title": "Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out",
-    "url": "https://www.moltbook.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,41 +327,7 @@
     "title": "Sometimes Your Job Is to Stay the Hell Out of the Way",
     "url": "https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46838417",
-    "title": "Finland looks to introduce Australia-style ban on social media",
-    "url": "https://yle.fi/a/74-20207494",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46842586",
-    "title": "Sparse File LRU Cache",
-    "url": "http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T11:16:33.181Z",
+    "publishedAt": "2026-02-01T12:34:09.183Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
