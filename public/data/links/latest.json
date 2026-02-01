@@ -1,10 +1,61 @@
 [
   {
+    "id": "hackernews-46782462",
+    "title": "Anciente map of Fairyland. Places from nursery rhymes, fairy tales etc.",
+    "url": "https://collections.leventhalmap.org/search/commonwealth:3f463773q",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46842603",
     "title": "List animals until failure",
     "url": "https://rose.systems/animalist/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T18:25:31.499Z",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46847746",
+    "title": "Aging muscle stem cells shift from rapid repair to long-term survival",
+    "url": "https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46846210",
+    "title": "Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code",
+    "url": "https://github.com/zuckermanai/zuckerman",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -18,10 +69,10 @@
   },
   {
     "id": "hackernews-46840612",
-    "title": "In Praise of –dry-run",
+    "title": "In praise of –dry-run",
     "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T18:25:31.499Z",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +89,7 @@
     "title": "Generative AI and Wikipedia editing: What we learned in 2025",
     "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T18:25:31.499Z",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -49,13 +100,81 @@
       "社区"
     ],
     "score": 8
+  },
+  {
+    "id": "hackernews-46847456",
+    "title": "Real engineering failures instead of success stories",
+    "url": "https://failhub.substack.com/p/failhub-issue-1",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46813909",
+    "title": "Coffee as a staining agent substitute in electron microscopy",
+    "url": "https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46847780",
+    "title": "Apple: Our philosophy is to provide software for our machines free (1976)",
+    "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46846252",
+    "title": "Adventure Game Studio: OSS software for creating adventure games",
+    "url": "https://www.adventuregamestudio.co.uk/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
   },
   {
     "id": "hackernews-46844870",
-    "title": "Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)",
+    "title": "Netbird – Open Source Zero Trust Networking",
     "url": "https://netbird.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T18:25:31.498Z",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,31 +184,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46837346",
-    "title": "Nvidia's 10-year effort to make the Shield TV the most updated Android device",
-    "url": "https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T18:25:31.499Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
+    "score": 6
   },
   {
     "id": "hackernews-46844822",
     "title": "What I learned building an opinionated and minimal coding agent",
     "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T18:25:31.499Z",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46838597",
-    "title": "Mobile carriers can get your GPS location",
-    "url": "https://an.dywa.ng/carrier-gnss.html",
+    "id": "hackernews-46812795",
+    "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
+    "url": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T18:25:31.499Z",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +221,113 @@
     "score": 6
   },
   {
-    "id": "hackernews-46840865",
-    "title": "Outsourcing thinking",
-    "url": "https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html",
+    "id": "hackernews-46820691",
+    "title": "Show HN: ÆTHRA – Writing Music as Code",
+    "url": "https://news.ycombinator.com/item?id=46820691",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-01T18:25:31.499Z",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46848260",
+    "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
+    "url": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46844350",
+    "title": "The Book of PF, 4th edition",
+    "url": "https://nostarch.com/book-of-pf-4th-edition",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46845103",
+    "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
+    "url": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46845244",
+    "title": "Amiga Unix (Amix)",
+    "url": "https://www.amigaunix.com/doku.php/home",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46799435",
+    "title": "VisualJJ – Jujutsu in Visual Studio Code",
+    "url": "https://www.visualjj.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46782872",
+    "title": "The history of C# and TypeScript with Anders Hejlsberg [video]",
+    "url": "https://www.youtube.com/watch?v=uMqx8NNT4xY",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-01T19:19:55.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
