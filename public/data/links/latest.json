@@ -4,41 +4,7 @@
     "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
     "url": "https://github.com/gavrielc/nanoclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46848699",
-    "title": "TIL: Apple Broke Time Machine Again on Tahoe",
-    "url": "https://taoofmac.com/space/til/2026/02/01/1630",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46849630",
-    "title": "MRI scans show exercise can make the brain look younger",
-    "url": "https://www.sciencedaily.com/releases/2026/01/260121034130.htm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "Treasures found on HS2 route stored in secret warehouse",
     "url": "https://www.bbc.com/news/articles/c93v21q5xdvo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +34,28 @@
     "score": 7
   },
   {
-    "id": "hackernews-46849567",
-    "title": "Defeating a 40-year-old copy protection dongle",
-    "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+    "id": "hackernews-46851548",
+    "title": "Notepad++ hijacked by state-sponsored actors",
+    "url": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46850803",
+    "title": "Show HN: Wikipedia as a doomscrollable social media feed",
+    "url": "https://xikipedia.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +72,7 @@
     "title": "Apple I Advertisement (1976)",
     "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46849258",
-    "title": "My thousand dollar iPhone can't do math",
-    "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+    "id": "hackernews-46851192",
+    "title": "Actors: A Model of Concurrent Computation [pdf]",
+    "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46844870",
-    "title": "Netbird – Open Source Zero Trust Networking",
-    "url": "https://netbird.io/",
+    "id": "hackernews-46850709",
+    "title": "Time Machine-style Backups with rsync (2018)",
+    "url": "https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,24 @@
     "title": "Adventure Game Studio: OSS software for creating adventure games",
     "url": "https://www.adventuregamestudio.co.uk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46849258",
+    "title": "My thousand dollar iPhone can't do math",
+    "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,24 +157,7 @@
     "title": "Founding is a snowball",
     "url": "https://blog.bawolf.com/p/founding-is-a-snowball",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46848415",
-    "title": "I taught my neighbor to keep the volume down",
-    "url": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +174,7 @@
     "title": "Efficient String Compression for Modern Database Systems",
     "url": "https://cedardb.com/blog/string_compression/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46820874",
-    "title": "Typechecking is undecidable when 'type' is a type (1989) [pdf]",
-    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6",
+    "id": "hackernews-46849154",
+    "title": "Building Your Own Efficient uint128 in C++",
+    "url": "https://solidean.com/blog/2026/building-your-own-u128/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46844822",
-    "title": "What I learned building an opinionated and minimal coding agent",
-    "url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+    "id": "hackernews-46848415",
+    "title": "I taught my neighbor to keep the volume down",
+    "url": "https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +225,7 @@
     "title": "MicroPythonOS graphical operating system delivers Android-like user experience",
     "url": "https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46801383",
-    "title": "Troublemaker: The fierce, unruly life of Jessica Mitford",
-    "url": "https://www.lrb.co.uk/the-paper/v48/n02/rosemary-hill/one-of-the-worst-things",
+    "id": "hackernews-46848231",
+    "title": "Ian's Shoelace Site",
+    "url": "https://www.fieggen.com/shoelace/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,28 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46848260",
-    "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
-    "url": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
+    "id": "hackernews-46820874",
+    "title": "Typechecking is undecidable when 'type' is a type (1989) [pdf]",
+    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46847924",
-    "title": "A Crisis comes to Wordle: Reusing old words",
-    "url": "https://forkingmad.blog/wordle-crisis/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +276,7 @@
     "title": "Reliable 25 Gigabit Ethernet via Thunderbolt",
     "url": "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +289,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-46845244",
-    "title": "Amiga Unix (Amix)",
-    "url": "https://www.amigaunix.com/doku.php/home",
+    "id": "hackernews-46844870",
+    "title": "Netbird – Open Source Zero Trust Networking",
+    "url": "https://netbird.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T01:26:21.943Z",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46850653",
+    "title": "History and Timeline of the Proco Rat Pedal (2021)",
+    "url": "https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46801383",
+    "title": "Troublemaker: The fierce, unruly life of Jessica Mitford",
+    "url": "https://www.lrb.co.uk/the-paper/v48/n02/rosemary-hill/one-of-the-worst-things",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T04:17:04.436Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
