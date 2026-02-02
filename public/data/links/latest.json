@@ -4,7 +4,7 @@
     "title": "MaliciousCorgi: AI Extensions send your code to China",
     "url": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.229Z",
+    "publishedAt": "2026-02-02T15:32:39.383Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,28 +17,11 @@
     "score": 9
   },
   {
-    "id": "hackernews-46850205",
-    "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
-    "url": "https://github.com/gavrielc/nanoclaw",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46852660",
     "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
     "url": "https://www.wired.com/story/the-red-bull-leaks/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "Microsoft is walking back Windows 11's AI overload",
     "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46850588",
-    "title": "Two kinds of AI users are emerging",
-    "url": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
+    "id": "hackernews-46850205",
+    "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+    "url": "https://github.com/gavrielc/nanoclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.383Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -86,61 +69,10 @@
   },
   {
     "id": "hackernews-46814340",
-    "title": "Ratchets in software development (2021)",
+    "title": "Ratchets in Software Development",
     "url": "https://qntm.org/ratchet",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46850803",
-    "title": "Show HN: Wikipedia as a doomscrollable social media feed",
-    "url": "https://xikipedia.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46853552",
-    "title": "Library of Juggling",
-    "url": "https://libraryofjuggling.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46848231",
-    "title": "Ian's Shoelace Site",
-    "url": "https://www.fieggen.com/shoelace/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +89,7 @@
     "title": "Best Gas Masks",
     "url": "https://www.theverge.com/policy/868571/best-gas-masks",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46844466",
-    "title": "Contracts in Nix",
-    "url": "https://sraka.xyz/posts/contracts.html",
+    "id": "hackernews-46853552",
+    "title": "Library of Juggling",
+    "url": "https://libraryofjuggling.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46847780",
-    "title": "Apple I Advertisement (1976)",
-    "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+    "id": "hackernews-46848231",
+    "title": "Ian's Shoelace Site",
+    "url": "https://www.fieggen.com/shoelace/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +140,24 @@
     "title": "Adventure Game Studio: OSS software for creating adventure games",
     "url": "https://www.adventuregamestudio.co.uk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46847780",
+    "title": "Apple I Advertisement (1976)",
+    "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +174,24 @@
     "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
     "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46844466",
+    "title": "Contracts in Nix",
+    "url": "https://sraka.xyz/posts/contracts.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,41 +208,7 @@
     "title": "EU launches government satcom program in sovereignty push",
     "url": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46822961",
-    "title": "Rev up the viral factories",
-    "url": "https://www.science.org/content/blog-post/rev-viral-factories",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46849154",
-    "title": "Building Your Own Efficient uint128 in C++",
-    "url": "https://solidean.com/blog/2026/building-your-own-u128/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +225,41 @@
     "title": "Board Games in Ancient Fiction: Egypt, Iran, Greece",
     "url": "https://reference-global.com/article/10.2478/bgs-2022-0016",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46822961",
+    "title": "Rev Up the Viral Factories",
+    "url": "https://www.science.org/content/blog-post/rev-viral-factories",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46849154",
+    "title": "Building Your Own Efficient uint128 in C++",
+    "url": "https://solidean.com/blog/2026/building-your-own-u128/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +276,7 @@
     "title": "Efficient String Compression for Modern Database Systems",
     "url": "https://cedardb.com/blog/string_compression/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.230Z",
+    "publishedAt": "2026-02-02T15:32:39.384Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +293,41 @@
     "title": "Nano-vLLM: How a vLLM-style inference engine works",
     "url": "https://neutree.ai/blog/nano-vllm-part-1",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T14:40:52.229Z",
+    "publishedAt": "2026-02-02T15:32:39.383Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46855803",
+    "title": "Geologists may have solved mystery of Green River's 'uphill' route",
+    "url": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T15:32:39.383Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46854534",
+    "title": "My (very) fast zero-allocation webserver using OxCaml",
+    "url": "https://anil.recoil.org/notes/oxcaml-httpz",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T15:32:39.383Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
