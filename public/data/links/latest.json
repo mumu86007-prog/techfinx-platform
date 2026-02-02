@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46854951",
-    "title": "Microsoft is walking back Windows 11's AI overload",
-    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
+    "id": "hackernews-46855527",
+    "title": "MaliciousCorgi: AI Extensions send your code to China",
+    "url": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 9
   },
   {
     "id": "hackernews-46850205",
     "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
     "url": "https://github.com/gavrielc/nanoclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,24 @@
     "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
     "url": "https://www.wired.com/story/the-red-bull-leaks/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46854951",
+    "title": "Microsoft is walking back Windows 11's AI overload",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Two kinds of AI users are emerging",
     "url": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "Treasures found on HS2 route stored in secret warehouse",
     "url": "https://www.bbc.com/news/articles/c93v21q5xdvo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,24 +106,7 @@
     "title": "Termux",
     "url": "https://github.com/termux/termux-app",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46855003",
-    "title": "Applications where agents are first-class citizens",
-    "url": "https://every.to/guides/agent-native",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "Defeating a 40-year-old copy protection dongle",
     "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -137,10 +137,10 @@
   },
   {
     "id": "hackernews-46854534",
-    "title": "My (very) fast zero-allocation webserver using OxCaml",
+    "title": "My fast zero-allocation webserver using OxCaml",
     "url": "https://anil.recoil.org/notes/oxcaml-httpz",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,58 +157,7 @@
     "title": "My thousand dollar iPhone can't do math",
     "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46852096",
-    "title": "Apple's MacBook Pro DFU port documentation is wrong",
-    "url": "https://lapcatsoftware.com/articles/2026/2/1.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46855059",
-    "title": "EU must become a 'genuine federation' to avoid deindustrialisation and decline",
-    "url": "https://www.euronews.com/my-europe/2026/02/02/eu-must-become-a-genuine-federation-to-avoid-deindustrialisation-and-decline-draghi-says",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46854999",
-    "title": "Claude Code is suddenly everywhere inside Microsoft",
-    "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +174,24 @@
     "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
     "url": "https://github.com/rustrum/apate",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46852096",
+    "title": "Apple's MacBook Pro DFU port documentation is wrong",
+    "url": "https://lapcatsoftware.com/articles/2026/2/1.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -239,10 +205,10 @@
   },
   {
     "id": "hackernews-46814340",
-    "title": "Ratchets in Software Development",
+    "title": "Ratchets in software development (2021)",
     "url": "https://qntm.org/ratchet",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +225,7 @@
     "title": "Show HN: Wikipedia as a doomscrollable social media feed",
     "url": "https://xikipedia.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +238,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46851192",
-    "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
-    "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
+    "id": "hackernews-46830026",
+    "title": "Hypergrowth isn’t always easy",
+    "url": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46848231",
+    "title": "Ian's Shoelace Site",
+    "url": "https://www.fieggen.com/shoelace/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +276,7 @@
     "title": "Contracts in Nix",
     "url": "https://sraka.xyz/posts/contracts.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +293,7 @@
     "title": "Apple I Advertisement (1976)",
     "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +310,24 @@
     "title": "Adventure Game Studio: OSS software for creating adventure games",
     "url": "https://www.adventuregamestudio.co.uk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-02T12:41:46.168Z",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46853552",
+    "title": "Library of Juggling",
+    "url": "https://libraryofjuggling.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-02T13:57:58.537Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
