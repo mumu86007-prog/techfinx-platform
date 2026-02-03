@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46876047",
-    "title": "China Moon Mission: Aiming for 2030 Lunar Landing",
-    "url": "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis",
+    "id": "hackernews-46874097",
+    "title": "Deno Sandbox",
+    "url": "https://deno.com/blog/introducing-deno-sandbox",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
+    "publishedAt": "2026-02-03T22:22:54.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,14 @@
       "开发者",
       "社区"
     ],
-    "score": 9
+    "score": 6
   },
   {
-    "id": "hackernews-46874139",
-    "title": "Sandboxing AI Agents in Linux",
-    "url": "https://blog.senko.net/sandboxing-ai-agents-in-linux",
+    "id": "hackernews-46872706",
+    "title": "Qwen3-Coder-Next",
+    "url": "https://qwen.ai/blog?id=qwen3-coder-next",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
+    "publishedAt": "2026-02-03T22:22:54.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,133 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46837150",
-    "title": "I became a maintainer and all I got was a lousy perspective on librarianship",
-    "url": "https://www.hughrundle.net/i-accidentally-became-a-foss-maintainer-and-all-i-got-was-this-lousy-new-perspective-on-librarianship/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46872894",
-    "title": "X offices raided in France",
-    "url": "https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46876720",
-    "title": "Anthropic AI Tool Sparks Selloff from Software to Broader Market",
-    "url": "https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46873885",
-    "title": "Migrate Wizard – IMAP Based Email Migration Tool",
-    "url": "https://migratewizard.com/#features",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46873790",
-    "title": "Defining Safe Hardware Design [pdf]",
-    "url": "https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7.5
+    "score": 6
   },
   {
     "id": "hackernews-46871173",
     "title": "Agent Skills",
     "url": "https://agentskills.io/home",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46874619",
-    "title": "Xcode 26.3 unlocks the power of agentic coding",
-    "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46873138",
-    "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
-    "url": "https://github.com/j178/prek",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
+    "publishedAt": "2026-02-03T22:22:54.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,24 +55,7 @@
     "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
     "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46876347",
-    "title": "When rust ≠ performance. a lesson in developer experience",
-    "url": "https://suriya.cc/tech/performance/oxen-add/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
+    "publishedAt": "2026-02-03T22:22:54.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,126 +72,7 @@
     "title": "What's up with all those equals signs anyway?",
     "url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46872733",
-    "title": "Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework",
-    "url": "https://news.ycombinator.com/item?id=46872733",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46833534",
-    "title": "Puget Systems Most Reliable Hardware of 2025",
-    "url": "https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46870015",
-    "title": "Bunny Database",
-    "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46848653",
-    "title": "Another London: Excavating the disenchanted city",
-    "url": "https://harpers.org/archive/2026/02/another-london-situationists-hari-kunzru/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46876455",
-    "title": "How Vibe Coding Is Killing Open Source",
-    "url": "https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46845650",
-    "title": "Heritability of intrinsic human life span is about 50%",
-    "url": "https://www.science.org/doi/10.1126/science.adz1187",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46795961",
-    "title": "The Everdeck: A Universal Card System (2019)",
-    "url": "https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T21:27:26.580Z",
+    "publishedAt": "2026-02-03T22:22:54.846Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
