@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46873885",
-    "title": "Migrate Wizard – IMAP Based Email Migration Tool",
-    "url": "https://migratewizard.com/#features",
+    "id": "hackernews-46874139",
+    "title": "Sandboxing AI Agents in Linux",
+    "url": "https://blog.senko.net/sandboxing-ai-agents-in-linux",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46872238",
-    "title": "The next steps for Airbus' big bet on open rotor engines",
-    "url": "https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/",
+    "id": "hackernews-46873885",
+    "title": "Migrate Wizard – IMAP Based Email Migration Tool",
+    "url": "https://migratewizard.com/#features",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,24 @@
     "title": "Show HN: I built \"AI Wattpad\" to eval LLMs on fiction",
     "url": "https://narrator.sh/llm-leaderboard",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46865275",
+    "title": "Banning lead in gas worked. The proof is in our hair",
+    "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Defining Safe Hardware Design [pdf]",
     "url": "https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "Qwen3-Coder-Next",
     "url": "https://qwen.ai/blog?id=qwen3-coder-next",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,41 +106,7 @@
     "title": "Deno Sandbox",
     "url": "https://deno.com/blog/introducing-deno-sandbox",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46871173",
-    "title": "Agent Skills",
-    "url": "https://agentskills.io/home",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46875228",
-    "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
-    "url": "https://github.com/alibaba/AliSQL",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,41 @@
     "title": "Xcode 26.3 unlocks the power of agentic coding",
     "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46875228",
+    "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+    "url": "https://github.com/alibaba/AliSQL",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46871173",
+    "title": "Agent Skills",
+    "url": "https://agentskills.io/home",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,7 @@
     "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
     "url": "https://github.com/j178/prek",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,24 +191,7 @@
     "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
     "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46873574",
-    "title": "221 Cannon Road Is Not for Sale",
-    "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +208,7 @@
     "title": "What's up with all those equals signs anyway?",
     "url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46873539",
-    "title": "Kilobyte is precisely 1000 bytes",
-    "url": "https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes",
+    "id": "hackernews-46833534",
+    "title": "Puget Systems Most Reliable Hardware of 2025",
+    "url": "https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +242,7 @@
     "title": "Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework",
     "url": "https://news.ycombinator.com/item?id=46872733",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +259,7 @@
     "title": "Bunny Database",
     "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,24 +276,7 @@
     "title": "Heritability of intrinsic human life span is about 50%",
     "url": "https://www.science.org/doi/10.1126/science.adz1187",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46873782",
-    "title": "Show HN: Octosphere, a tool to decentralise scientific publishing",
-    "url": "https://octosphere.social/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +293,24 @@
     "title": "The Everdeck: A Universal Card System (2019)",
     "url": "https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46873782",
+    "title": "Show HN: Octosphere, a tool to decentralise scientific publishing",
+    "url": "https://octosphere.social/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "Show HN: C discrete event SIM w stackful coroutines runs 45x faster than SimPy",
     "url": "https://github.com/ambonvik/cimba",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-03T19:40:51.906Z",
+    "publishedAt": "2026-02-03T20:28:36.377Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
