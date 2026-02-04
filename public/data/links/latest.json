@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-46876105",
+    "title": "Data centers in space makes no sense",
+    "url": "https://civai.org/blog/space-data-centers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T17:40:08.210Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46886237",
+    "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
+    "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T17:40:08.210Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46881264",
+    "title": "I miss thinking hard",
+    "url": "https://www.jernesto.com/articles/thinking_hard",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T17:40:08.210Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46872540",
+    "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+    "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T17:40:08.210Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46874097",
+    "title": "Deno Sandbox",
+    "url": "https://deno.com/blog/introducing-deno-sandbox",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T17:40:08.210Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46871173",
+    "title": "Agent Skills",
+    "url": "https://agentskills.io/home",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T17:40:08.210Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
