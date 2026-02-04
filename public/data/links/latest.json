@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-46882389",
+    "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
+    "url": "https://github.com/bethington/ghidra-mcp",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46868998",
+    "title": "X offices raided in France as UK opens fresh investigation into Grok",
+    "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46878338",
+    "title": "Notepad++ supply chain attack breakdown",
+    "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46848876",
+    "title": "Lessons learned shipping 500 units of my first hardware product",
+    "url": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46876105",
+    "title": "Data centers in space makes no sense",
+    "url": "https://civai.org/blog/space-data-centers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46847690",
+    "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
+    "url": "https://github.com/puemos/craftplan",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46798556",
+    "title": "How watercolor brushes are made (2015)",
+    "url": "https://www.handprint.com/HP/WCL/brush1.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46842288",
+    "title": "High-Altitude Adventure with a DIY Pico Balloon",
+    "url": "https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46874097",
+    "title": "Deno Sandbox",
+    "url": "https://deno.com/blog/introducing-deno-sandbox",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46872540",
+    "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+    "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46871173",
+    "title": "Agent Skills",
+    "url": "https://agentskills.io/home",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46874619",
+    "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+    "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46875228",
+    "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+    "url": "https://github.com/alibaba/AliSQL",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46813029",
+    "title": "The largest zip tie is nearly 4 feet long and $75",
+    "url": "https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46792506",
+    "title": "Exploring Different Keyboard Sensing Technologies",
+    "url": "https://www.lttlabs.com/articles/2026/01/27/exploring-different-keyboard-sensing-technologies",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46844157",
+    "title": "Reimplementing Tor from Scratch for a Single-Hop Proxy",
+    "url": "https://foxmoss.com/blog/kurrat/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46846101",
+    "title": "Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game",
+    "url": "https://banteg.xyz/posts/crimsonland/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46873574",
+    "title": "221 Cannon is Not For Sale",
+    "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46873138",
+    "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
+    "url": "https://github.com/j178/prek",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46822717",
+    "title": "1,400-year-old tomb featuring giant owl sculpture discovered in Mexico",
+    "url": "https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T09:36:22.891Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
