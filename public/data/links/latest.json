@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46844195",
-    "title": "Procedures for Repair of Potholes in Asphalt-Surfaced Pavements",
-    "url": "https://highways.dot.gov/media/7941",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46882389",
     "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
     "url": "https://github.com/bethington/ghidra-mcp",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46888441",
-    "title": "AI Is Killing B2B SaaS",
-    "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
+    "publishedAt": "2026-02-04T19:34:34.140Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,228 +21,7 @@
     "title": "Voxtral Transcribe 2",
     "url": "https://mistral.ai/news/voxtral-transcribe-2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46888532",
-    "title": "Study: emotional support from social media found to reduce anxiety",
-    "url": "https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46886265",
-    "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
-    "url": "https://arxiv.org/abs/2602.00294",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46877278",
-    "title": "Tractor",
-    "url": "https://incoherency.co.uk/blog/stories/tractor.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46888331",
-    "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
-    "url": "https://www.runconverge.com/careers/product-engineer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46872465",
-    "title": "A sane but bull case on Clawdbot / OpenClaw",
-    "url": "https://brandon.wang/2026/clawdbot",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46886440",
-    "title": "A case study in PDF forensics: The Epstein PDFs",
-    "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46844410",
-    "title": "Coding Agent VMs on NixOS with Microvm.nix",
-    "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46884883",
-    "title": "Claude Is a Space to Think",
-    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46888498",
-    "title": "In Tehran",
-    "url": "https://www.lrb.co.uk/blog/2026/january/in-tehran",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46886191",
-    "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
-    "url": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46888877",
-    "title": "Intel will start making GPUs",
-    "url": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46788588",
-    "title": "Old Insurance Maps – Georeferencing Sanborn Fire Insurance Maps on Modern Maps",
-    "url": "https://oldinsurancemaps.net/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46824752",
-    "title": "The Voxel Is a Cutting-Edge Theater Experiment",
-    "url": "https://bmoreart.com/2024/09/the-voxel-is-a-cutting-edge-theater-experiment.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
+    "publishedAt": "2026-02-04T19:34:34.140Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +38,7 @@
     "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
     "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
+    "publishedAt": "2026-02-04T19:34:34.140Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +51,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46888438",
-    "title": "French streamer unbanked by Qonto after criticizing Palantir and Peter Thiel",
-    "url": "https://twitter.com/Ced_haurus/status/2018716889191498172",
+    "id": "hackernews-46881264",
+    "title": "I miss thinking hard",
+    "url": "https://www.jernesto.com/articles/thinking_hard",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
+    "publishedAt": "2026-02-04T19:34:34.140Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46847690",
-    "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
-    "url": "https://github.com/puemos/craftplan",
+    "id": "hackernews-46876105",
+    "title": "Data centers in space makes no sense",
+    "url": "https://civai.org/blog/space-data-centers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T18:38:47.992Z",
+    "publishedAt": "2026-02-04T19:34:34.140Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
