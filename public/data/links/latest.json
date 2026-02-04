@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "id": "hackernews-46878338",
+    "title": "Notepad++ supply chain attack breakdown",
+    "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46868998",
+    "title": "X offices raided in France as UK opens fresh investigation into Grok",
+    "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46876105",
+    "title": "Data centers in space makes no sense",
+    "url": "https://civai.org/blog/space-data-centers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46874097",
+    "title": "Deno Sandbox",
+    "url": "https://deno.com/blog/introducing-deno-sandbox",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46874619",
+    "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+    "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46871173",
+    "title": "Agent Skills",
+    "url": "https://agentskills.io/home",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46872540",
+    "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+    "url": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46872706",
+    "title": "Qwen3-Coder-Next",
+    "url": "https://qwen.ai/blog?id=qwen3-coder-next",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46873294",
+    "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+    "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46870015",
+    "title": "Bunny Database",
+    "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T05:42:40.733Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
