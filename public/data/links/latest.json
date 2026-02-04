@@ -1,10 +1,78 @@
 [
   {
+    "id": "hackernews-46826803",
+    "title": "Yawning has an unexpected influence on the fluid inside your brain",
+    "url": "https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46890675",
+    "title": "Mean People Fail (2014)",
+    "url": "https://paulgraham.com/mean.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46888441",
+    "title": "AI is killing B2B SaaS",
+    "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46882389",
     "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
     "url": "https://github.com/bethington/ghidra-mcp",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T19:34:34.140Z",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46889282",
+    "title": "AI needs to augment rather than replace humans or the workplace is doomed",
+    "url": "https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +89,7 @@
     "title": "Voxtral Transcribe 2",
     "url": "https://mistral.ai/news/voxtral-transcribe-2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T19:34:34.140Z",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46886237",
-    "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
-    "url": "https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/",
+    "id": "hackernews-46890034",
+    "title": "How Jeff Bezos Brought Down the Washington Post",
+    "url": "https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T19:34:34.140Z",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46881264",
-    "title": "I miss thinking hard",
-    "url": "https://www.jernesto.com/articles/thinking_hard",
+    "id": "hackernews-46888795",
+    "title": "Building a 24-bit arcade CRT display adapter from scratch",
+    "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T19:34:34.140Z",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +136,198 @@
     "score": 6
   },
   {
-    "id": "hackernews-46876105",
-    "title": "Data centers in space makes no sense",
-    "url": "https://civai.org/blog/space-data-centers",
+    "id": "hackernews-46889703",
+    "title": "Claude Code for Infrastructure",
+    "url": "https://www.fluid.sh/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-04T19:34:34.140Z",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46886265",
+    "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+    "url": "https://arxiv.org/abs/2602.00294",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46845845",
+    "title": "Claude Code: connect to a local model when your quota runs out",
+    "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46877278",
+    "title": "Tractor",
+    "url": "https://incoherency.co.uk/blog/stories/tractor.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46887326",
+    "title": "Arcan-A12: Weaving a Different Web",
+    "url": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46888142",
+    "title": "RS-SDK: Drive RuneScape with Claude Code",
+    "url": "https://github.com/MaxBittker/rs-sdk",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46872465",
+    "title": "A sane but bull case on Clawdbot / OpenClaw",
+    "url": "https://brandon.wang/2026/clawdbot",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46888331",
+    "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
+    "url": "https://www.runconverge.com/careers/product-engineer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46889264",
+    "title": "2 in 5 Americans did not read a single book in 2025",
+    "url": "https://mybooklist.club/reading-statistics",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46888532",
+    "title": "Study: emotional support from social media found to reduce anxiety",
+    "url": "https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46884883",
+    "title": "Claude Is a Space to Think",
+    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46844410",
+    "title": "Coding Agent VMs on NixOS with Microvm.nix",
+    "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-04T20:26:51.105Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
