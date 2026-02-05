@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46895950",
-    "title": "Study: Older Cannabis Users Have Larger Brains, Better Cognition",
-    "url": "https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function",
+    "id": "hackernews-46888441",
+    "title": "AI is killing B2B SaaS",
+    "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46888441",
-    "title": "AI is killing B2B SaaS",
-    "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
+    "id": "hackernews-46896146",
+    "title": "Don't rent the cloud, own instead",
+    "url": "https://blog.comma.ai/datacenter/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,14 +31,31 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 6
   },
   {
     "id": "hackernews-46895972",
     "title": "When internal hostnames are leaked to the clown",
     "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46897620",
+    "title": "If you've got Nothing to Hide",
+    "url": "https://jacquesmattheij.com/if-you-have-nothing-to-hide/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,24 +72,7 @@
     "title": "Modernizing Linux swapping: introducing the swap table",
     "url": "https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46895381",
-    "title": "Wirth's Revenge",
-    "url": "https://jmoiron.net/blog/wirths-revenge/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,24 @@
     "title": "Adobe Animate will be discontinued effective March 1, 2026",
     "url": "https://helpx.adobe.com/uk/animate/kb/end-of-life.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46895381",
+    "title": "Wirth's Revenge",
+    "url": "https://jmoiron.net/blog/wirths-revenge/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,41 +123,7 @@
     "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
     "url": "https://sqldef.github.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46887893",
-    "title": "Postgres Postmaster does not scale",
-    "url": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46895388",
-    "title": "A few CPU hardware bugs",
-    "url": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +140,7 @@
     "title": "Claude Code: connect to a local model when your quota runs out",
     "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46893970",
-    "title": "OpenClaw is what Apple intelligence should have been",
-    "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+    "id": "hackernews-46895388",
+    "title": "A few CPU hardware bugs",
+    "url": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +174,7 @@
     "title": "A case study in PDF forensics: The Epstein PDFs",
     "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,75 +191,7 @@
     "title": "Claude Code for Infrastructure",
     "url": "https://www.fluid.sh/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46887564",
-    "title": "Microsoft's Copilot chatbot is running into problems",
-    "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46835677",
-    "title": "Why S7 Scheme? (2020)",
-    "url": "https://iainctduncan.github.io/scheme-for-max-docs/s7.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46845642",
-    "title": "Remarkable Pro Colors",
-    "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46888795",
-    "title": "Building a 24-bit arcade CRT display adapter from scratch",
-    "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +208,109 @@
     "title": "I built a search engine to index the un-indexable parts of Telegram",
     "url": "https://telehunt.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46893970",
+    "title": "OpenClaw is what Apple intelligence should have been",
+    "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46887564",
+    "title": "Microsoft's Copilot chatbot is running into problems",
+    "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46887893",
+    "title": "Postgres Postmaster does not scale",
+    "url": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46845642",
+    "title": "Remarkable Pro Colors",
+    "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46888795",
+    "title": "Building a 24-bit arcade CRT display adapter from scratch",
+    "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46835677",
+    "title": "Why S7 Scheme? (2020)",
+    "url": "https://iainctduncan.github.io/scheme-for-max-docs/s7.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "Voxtral Transcribe 2",
     "url": "https://mistral.ai/news/voxtral-transcribe-2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46867018",
-    "title": "An interactive version of Byrne's The Elements of Euclid (1847)",
-    "url": "https://c82.net/euclid/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T09:36:59.608Z",
+    "publishedAt": "2026-02-05T10:34:12.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
