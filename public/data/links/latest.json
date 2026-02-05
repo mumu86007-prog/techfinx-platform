@@ -1,44 +1,27 @@
 [
   {
-    "id": "hackernews-46891827",
-    "title": "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
-    "url": "https://morphllm.com/products/glance",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46890418",
-    "title": "Tell HN: Another round of Zendesk email spam",
-    "url": "https://news.ycombinator.com/item?id=46890418",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46888441",
     "title": "AI is killing B2B SaaS",
     "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.281Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46891827",
+    "title": "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
+    "url": "https://morphllm.com/products/glance",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "A real-world benchmark for AI code review",
     "url": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.281Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +51,45 @@
     "score": 8
   },
   {
-    "id": "hackernews-46886265",
-    "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
-    "url": "https://arxiv.org/abs/2602.00294",
+    "id": "hackernews-46890418",
+    "title": "Tell HN: Another round of Zendesk email spam",
+    "url": "https://news.ycombinator.com/item?id=46890418",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46841776",
+    "title": "Secure erase for Samsung PM951 NVMe drive (2024)",
+    "url": "https://peterbabic.dev/blog/how-not-to-securely-erase-nvme-drive/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46886735",
+    "title": "Voxtral Transcribe 2",
+    "url": "https://mistral.ai/news/voxtral-transcribe-2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46872465",
-    "title": "A sane but bull case on Clawdbot / OpenClaw",
-    "url": "https://brandon.wang/2026/clawdbot",
+    "id": "hackernews-46893970",
+    "title": "OpenClaw Is What Apple Intelligence Should Have Been",
+    "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46888142",
-    "title": "RS-SDK: Drive RuneScape with Claude Code",
-    "url": "https://github.com/MaxBittker/rs-sdk",
+    "id": "hackernews-46845239",
+    "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+    "url": "https://sqldef.github.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46891794",
-    "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
-    "url": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+    "id": "hackernews-46845845",
+    "title": "Claude Code: connect to a local model when your quota runs out",
+    "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46845617",
-    "title": "Data Poems",
-    "url": "https://dr.eamer.dev/datavis/poems/",
+    "id": "hackernews-46845642",
+    "title": "Remarkable Pro Colors",
+    "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46887326",
-    "title": "Arcan-A12: Weaving a Different Web",
-    "url": "https://www.divergent-desktop.org/blog/2026/01/26/a12web/",
+    "id": "hackernews-46889703",
+    "title": "Claude Code for Infrastructure",
+    "url": "https://www.fluid.sh/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46844410",
-    "title": "Coding Agent VMs on NixOS with Microvm.nix",
-    "url": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+    "id": "hackernews-46893411",
+    "title": "Why More Companies Are Recognizing the Benefits of Keeping Older Employees",
+    "url": "https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +204,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46888331",
-    "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
-    "url": "https://www.runconverge.com/careers/product-engineer",
+    "id": "hackernews-46888795",
+    "title": "Building a 24-bit arcade CRT display adapter from scratch",
+    "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46886440",
+    "title": "A case study in PDF forensics: The Epstein PDFs",
+    "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46887564",
+    "title": "Microsoft's Copilot chatbot is running into problems",
+    "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46849753",
+    "title": "Lily Programming Language",
+    "url": "https://lily-lang.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +276,7 @@
     "title": "Show HN: Bunqueue – Job queue for Bun using SQLite instead of Redis",
     "url": "https://github.com/egeominotti/bunqueue",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46891131",
-    "title": "The Codex app illustrates the shift left of IDEs and coding GUIs",
-    "url": "https://www.benshoemaker.us/writing/codex-app-launch/",
+    "id": "hackernews-46877278",
+    "title": "Tractor",
+    "url": "https://incoherency.co.uk/blog/stories/tractor.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46892861",
-    "title": "Debian's Challenge When Its Developers Drift Away",
-    "url": "https://www.phoronix.com/news/Debian-Developers-Quiet-Away",
+    "id": "hackernews-46886265",
+    "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+    "url": "https://arxiv.org/abs/2602.00294",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,79 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46884883",
-    "title": "Claude is a space to think",
-    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "id": "hackernews-46872465",
+    "title": "A sane but bull case on Clawdbot / OpenClaw",
+    "url": "https://brandon.wang/2026/clawdbot",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46838511",
-    "title": "No More Hidden Changes: How MySQL 9.6 Transforms Foreign Key Management",
-    "url": "https://blogs.oracle.com/mysql/no-more-hidden-changes-how-mysql-9-6-transforms-foreign-key-management",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46886191",
-    "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
-    "url": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46893167",
-    "title": "Litestream Writable VFS",
-    "url": "https://fly.io/blog/litestream-writable-vfs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46891290",
-    "title": "Show HN: Interactive California Budget (By Claude Code)",
-    "url": "https://california-budget.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T01:21:43.282Z",
+    "publishedAt": "2026-02-05T04:08:16.721Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
