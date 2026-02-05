@@ -4,7 +4,7 @@
     "title": "Top downloaded skill in ClawHub contains malware",
     "url": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
+    "publishedAt": "2026-02-05T18:39:01.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,232 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46888441",
-    "title": "AI is killing B2B SaaS",
-    "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
+    "id": "hackernews-46902223",
+    "title": "Claude Opus 4.6",
+    "url": "https://www.anthropic.com/news/claude-opus-4-6",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46855057",
-    "title": "Making Ferrite Core Inductors at Home",
-    "url": "https://danielmangum.com/posts/making-ferrite-core-inductors-home/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46895381",
-    "title": "Wirth's Revenge",
-    "url": "https://jmoiron.net/blog/wirths-revenge/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46899100",
-    "title": "CIA to Sunset the World Factbook",
-    "url": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46845239",
-    "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
-    "url": "https://sqldef.github.io/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46845845",
-    "title": "Claude Code: connect to a local model when your quota runs out",
-    "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46839036",
-    "title": "Improving Unnesting of Complex Queries [pdf]",
-    "url": "https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46844511",
-    "title": "CG/SQL – SQL dialect compiler to C for sqlite3 mimicking stored procedures",
-    "url": "https://ricomariani.github.io/CG-SQL-author/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46888795",
-    "title": "Building a 24-bit arcade CRT display adapter from scratch",
-    "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46893970",
-    "title": "OpenClaw is what Apple intelligence should have been",
-    "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46867018",
-    "title": "An interactive version of Byrne's The Elements of Euclid (1847)",
-    "url": "https://c82.net/euclid/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46886735",
-    "title": "Voxtral Transcribe 2",
-    "url": "https://mistral.ai/news/voxtral-transcribe-2",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46845642",
-    "title": "Remarkable Pro Colors",
-    "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46889703",
-    "title": "Claude Code for Infrastructure",
-    "url": "https://www.fluid.sh/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.473Z",
+    "publishedAt": "2026-02-05T18:39:01.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +38,7 @@
     "title": "Don't rent the cloud, own instead",
     "url": "https://blog.comma.ai/datacenter/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.472Z",
+    "publishedAt": "2026-02-05T18:39:01.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,62 +51,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46899591",
-    "title": "The New Collabora Office for Desktop",
-    "url": "https://www.collaboraonline.com/collabora-office/",
+    "id": "hackernews-46895972",
+    "title": "When internal hostnames are leaked to the clown",
+    "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46901452",
-    "title": "European Commission Trials Matrix to Replace Teams",
-    "url": "https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46841897",
-    "title": "150 MB Minimal FreeBSD Installation",
-    "url": "https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.472Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46899132",
-    "title": "Company as Code",
-    "url": "https://blog.42futures.com/p/company-as-code",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-05T17:42:13.472Z",
+    "publishedAt": "2026-02-05T18:39:01.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
