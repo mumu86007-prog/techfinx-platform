@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46911873",
-    "title": "Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is",
-    "url": "https://wiz.jock.pl/experiments/agent-arena/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46910963",
     "title": "A new bill in New York would require disclaimers on AI-generated news content",
     "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46901233",
-    "title": "Show HN: Smooth CLI – Token-efficient browser for AI agents",
-    "url": "https://docs.smooth.sh/cli/overview",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
+    "publishedAt": "2026-02-06T15:33:34.872Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "My AI Adoption Journey",
     "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
+    "publishedAt": "2026-02-06T15:33:34.872Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -66,166 +32,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-46868803",
-    "title": "DNS Explained – How Domain Names Get Resolved",
-    "url": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46902223",
-    "title": "Claude Opus 4.6",
-    "url": "https://www.anthropic.com/news/claude-opus-4-6",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46911869",
-    "title": "TikTok's 'Addictive Design' Found to Be Illegal in Europe",
-    "url": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46911170",
-    "title": "Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy",
-    "url": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46908650",
-    "title": "Solving Shrinkwrap: New Experimental Technique",
-    "url": "https://kizu.dev/shrinkwrap-solution/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-46902638",
     "title": "GPT-5.3-Codex",
     "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46909468",
-    "title": "Things Unix can do atomically (2010)",
-    "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46854128",
-    "title": "Nixie-clock using neon lamps as logic elements (2007)",
-    "url": "https://www.pa3fwm.nl/projects/neonclock/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46909439",
-    "title": "Systems Thinking",
-    "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46867271",
-    "title": "Plasma Effect (2016)",
-    "url": "https://www.4rknova.com/blog/2016/11/01/plasma",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
+    "publishedAt": "2026-02-06T15:33:34.872Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,24 +55,7 @@
     "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
     "url": "https://www.anthropic.com/engineering/building-c-compiler",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46867446",
-    "title": "Stay Away from My Trash",
-    "url": "https://tldraw.dev/blog/stay-away-from-my-trash",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
+    "publishedAt": "2026-02-06T15:33:34.872Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +72,7 @@
     "title": "Recreating Epstein PDFs from raw encoded attachments",
     "url": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
+    "publishedAt": "2026-02-06T15:33:34.872Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46909037",
-    "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
-    "url": "https://github.com/artifact-keeper",
+    "id": "hackernews-46906947",
+    "title": "The RCE that AMD won't fix",
+    "url": "https://mrbruh.com/amd/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
+    "publishedAt": "2026-02-06T15:33:34.872Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46855697",
-    "title": "Animated Knots",
-    "url": "https://www.animatedknots.com/",
+    "id": "hackernews-46911901",
+    "title": "I now assume that all ads on Apple news are scams",
+    "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
+    "publishedAt": "2026-02-06T15:33:34.871Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46865849",
-    "title": "How to carry more than your own bodyweight (2025)",
-    "url": "https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight",
+    "id": "hackernews-46902223",
+    "title": "Claude Opus 4.6",
+    "url": "https://www.anthropic.com/news/claude-opus-4-6",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-06T14:38:37.231Z",
+    "publishedAt": "2026-02-06T15:33:34.871Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
