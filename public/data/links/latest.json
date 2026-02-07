@@ -1,10 +1,61 @@
 [
   {
+    "id": "hackernews-46918254",
+    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+    "url": "https://github.com/pydantic/monty",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
     "id": "hackernews-46916609",
     "title": "Show HN: If you lose your memory, how to regain access to your computer?",
     "url": "https://eljojo.github.io/rememory/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T09:24:09.538Z",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46916586",
+    "title": "How to effectively write quality code with AI",
+    "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46920487",
+    "title": "Why I Joined OpenAI",
+    "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +72,7 @@
     "title": "Microsoft open-sources LiteBox, a security-focused library OS",
     "url": "https://github.com/microsoft/litebox",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T09:24:09.538Z",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,45 +85,79 @@
     "score": 7
   },
   {
-    "id": "hackernews-46911901",
-    "title": "I now assume that all ads on Apple news are scams",
-    "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T09:24:09.539Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46918612",
-    "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
-    "url": "https://openciv3.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T09:24:09.538Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46914785",
     "title": "The Waymo World Model",
     "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T09:24:09.538Z",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46867361",
+    "title": "What Is Ruliology?",
+    "url": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46898473",
+    "title": "How we made geo joins 400× faster with H3 indexes",
+    "url": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46868343",
+    "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
+    "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46918429",
+    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+    "url": "https://github.com/valdanylchuk/breezydemo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +174,7 @@
     "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
     "url": "https://vecti.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T09:24:09.538Z",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +191,7 @@
     "title": "Sheldon Brown's Bicycle Technical Info",
     "url": "https://www.sheldonbrown.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T09:24:09.538Z",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +208,7 @@
     "title": "Hackers (1995) Animated Experience",
     "url": "https://hackers-1995.vercel.app/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T09:24:09.538Z",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +225,109 @@
     "title": "An Update on Heroku",
     "url": "https://www.heroku.com/blog/an-update-on-heroku/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T09:24:09.538Z",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46859267",
+    "title": "Delimited Continuations vs. Lwt for Threads",
+    "url": "https://mirageos.org/blog/delimcc-vs-lwt",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46857453",
+    "title": "Dark Alley Mathematics",
+    "url": "https://blog.szczepan.org/blog/three-points/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46854386",
+    "title": "PC Floppy Copy Protection: Vault Prolok",
+    "url": "https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46919824",
+    "title": "Introducing the Developer Knowledge API and MCP Server",
+    "url": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46877820",
+    "title": "Was Benoit Mandelbrot a hedgehog or a fox?",
+    "url": "https://arxiv.org/abs/2602.01122",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46915102",
+    "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
+    "url": "https://infisical.com/blog/devops-to-solutions-engineering",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T10:18:28.363Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
