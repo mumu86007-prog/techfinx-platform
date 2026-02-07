@@ -4,7 +4,7 @@
     "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
     "url": "https://github.com/pydantic/monty",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Show HN: If you lose your memory, how to regain access to your computer?",
     "url": "https://eljojo.github.io/rememory/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "How to effectively write quality code with AI",
     "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "Microsoft open-sources LiteBox, a security-focused library OS",
     "url": "https://github.com/microsoft/litebox",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,232 +68,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46890814",
-    "title": "Start all of your commands with a comma (2009)",
-    "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46923254",
-    "title": "Hoot: Scheme on WebAssembly",
-    "url": "https://www.spritely.institute/hoot/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46918612",
-    "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
-    "url": "https://openciv3.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46923463",
-    "title": "Reinforcement Learning from Human Feedback",
-    "url": "https://arxiv.org/abs/2504.12501",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46914785",
-    "title": "The Waymo World Model",
-    "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46923543",
-    "title": "Software Engineering Is Back",
-    "url": "https://blog.alaindichiappari.dev/p/software-engineering-is-back",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46922049",
-    "title": "Vocal Guide – belt sing without killing yourself",
-    "url": "https://jesperordrup.github.io/vocal-guide/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46868343",
-    "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
-    "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46898473",
-    "title": "Making geo joins faster with H3 indexes",
-    "url": "https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46872319",
-    "title": "Ga68, a GNU Algol 68 Compiler",
-    "url": "https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46918429",
     "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
     "url": "https://github.com/valdanylchuk/breezydemo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46868787",
-    "title": "Cross-Region MSK Replication: K2K vs. MirrorMaker2",
-    "url": "https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46896105",
-    "title": "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
-    "url": "https://github.com/sandys/kappal",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46917033",
-    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-    "url": "https://vecti.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +89,7 @@
     "title": "Hackers (1995) Animated Experience",
     "url": "https://hackers-1995.vercel.app/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +106,228 @@
     "title": "Sheldon Brown's Bicycle Technical Info",
     "url": "https://www.sheldonbrown.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-07T15:18:11.649Z",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46867361",
+    "title": "What Is Ruliology?",
+    "url": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46917033",
+    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+    "url": "https://vecti.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46896105",
+    "title": "Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev",
+    "url": "https://github.com/sandys/kappal",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46913903",
+    "title": "An Update on Heroku",
+    "url": "https://www.heroku.com/blog/an-update-on-heroku/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46868787",
+    "title": "Cross-Region MSK Replication: K2K vs. MirrorMaker2",
+    "url": "https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46857453",
+    "title": "Dark Alley Mathematics",
+    "url": "https://blog.szczepan.org/blog/three-points/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46920773",
+    "title": "Female Asian Elephant Calf Born at the Smithsonian National Zoo",
+    "url": "https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46911901",
+    "title": "I now assume that all ads on Apple news are scams",
+    "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.961Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46923736",
+    "title": "France's homegrown open source online office suite",
+    "url": "https://github.com/suitenumerique",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.960Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46890814",
+    "title": "Start all of your commands with a comma (2009)",
+    "url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.960Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46923254",
+    "title": "Hoot: Scheme on WebAssembly",
+    "url": "https://www.spritely.institute/hoot/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.960Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46918612",
+    "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+    "url": "https://openciv3.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.960Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46923463",
+    "title": "Reinforcement Learning from Human Feedback",
+    "url": "https://arxiv.org/abs/2504.12501",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-07T16:20:42.960Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
