@@ -4,7 +4,41 @@
     "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
     "url": "https://github.com/localgpt-app/localgpt",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46932343",
+    "title": "Matchlock: Linux-based sandboxing for AI agents",
+    "url": "https://github.com/jingkaihe/matchlock",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46931347",
+    "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
+    "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +55,7 @@
     "title": "Al Lowe on model trains, funny deaths and working with Disney",
     "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +72,7 @@
     "title": "The AI boom is causing shortages everywhere else",
     "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46928810",
-    "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -69,10 +86,10 @@
   },
   {
     "id": "hackernews-46925741",
-    "title": "SectorC: A C Compiler in 512 bytes",
+    "title": "SectorC: A C Compiler in 512 bytes (2023)",
     "url": "https://xorvoid.com/sectorc.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +102,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46930565",
-    "title": "Haskell for all: Beyond agentic coding",
-    "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
+    "id": "hackernews-46932192",
+    "title": "DoNotNotify is now Open Source",
+    "url": "https://donotnotify.com/opensource.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46931559",
-    "title": "Roger Ebert Reviews \"The Shawshank Redemption\"",
-    "url": "https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994",
+    "id": "hackernews-46930565",
+    "title": "Haskell for all: Beyond agentic coding",
+    "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,41 +140,7 @@
     "title": "LLMs as the new high level language",
     "url": "https://federicopereiro.com/llm-high/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46924426",
-    "title": "Software factories and the agentic moment",
-    "url": "https://factory.strongdm.ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46926043",
-    "title": "Speed up responses with fast mode",
-    "url": "https://code.claude.com/docs/en/fast-mode",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +157,58 @@
     "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
     "url": "https://aosabook.org/en/v1/bdb.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46924426",
+    "title": "Software factories and the agentic moment",
+    "url": "https://factory.strongdm.ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46855852",
+    "title": "Moroccan sardine prices to stabilise via new measures: officials",
+    "url": "https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46926043",
+    "title": "Speed up responses with fast mode",
+    "url": "https://code.claude.com/docs/en/fast-mode",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +225,7 @@
     "title": "LineageOS 23.2",
     "url": "https://lineageos.org/Changelog-31/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +242,7 @@
     "title": "Hoot: Scheme on WebAssembly",
     "url": "https://www.spritely.institute/hoot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +259,24 @@
     "title": "Stories from 25 Years of Software Development",
     "url": "https://susam.net/twenty-five-years-of-computing.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46867997",
+    "title": "Modern and Antique Technologies Reveal a Dynamic Cosmos",
+    "url": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +293,7 @@
     "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
     "url": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +310,7 @@
     "title": "Vocal Guide – belt sing without killing yourself",
     "url": "https://jesperordrup.github.io/vocal-guide/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,58 +327,7 @@
     "title": "Wood Gas Vehicles: Firewood in the Fuel Tank (2010)",
     "url": "https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46869713",
-    "title": "uLauncher",
-    "url": "https://github.com/jrpie/launcher",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46931347",
-    "title": "Why there is no official statement from Substack about the data leak",
-    "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46924591",
-    "title": "First Proof",
-    "url": "https://arxiv.org/abs/2602.05192",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T09:24:24.676Z",
+    "publishedAt": "2026-02-08T10:19:42.841Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
