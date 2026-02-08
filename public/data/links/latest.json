@@ -4,7 +4,24 @@
     "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
     "url": "https://github.com/localgpt-app/localgpt",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46932468",
+    "title": "Arcan Explained – A browser for different webs",
+    "url": "https://arcan-fe.com/2026/01/26/arcan-explained-a-browser-for-different-webs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,58 +38,7 @@
     "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
     "url": "https://github.com/joshuanwalker/Raiders2600",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46933067",
-    "title": "(AI) Slop Terrifies Me",
-    "url": "https://ezhik.jp/ai-slop-terrifies-me/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46931347",
-    "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
-    "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46924790",
-    "title": "Al Lowe on model trains, funny deaths and working with Disney",
-    "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
+    "publishedAt": "2026-02-08T13:39:33.511Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +55,7 @@
     "title": "Matchlock: Linux-based sandboxing for AI agents",
     "url": "https://github.com/jingkaihe/matchlock",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.966Z",
+    "publishedAt": "2026-02-08T13:39:33.511Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +72,7 @@
     "title": "SectorC: A C Compiler in 512 bytes (2023)",
     "url": "https://xorvoid.com/sectorc.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +85,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46930565",
-    "title": "Haskell for all: Beyond agentic coding",
-    "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
+    "id": "hackernews-46933401",
+    "title": "Dave Farber has passed away",
+    "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +102,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46868928",
-    "title": "LLMs as the new high level language",
-    "url": "https://federicopereiro.com/llm-high/",
+    "id": "hackernews-46930565",
+    "title": "Haskell for all: Beyond agentic coding",
+    "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46932985",
+    "title": "Curating a Show on My Ineffable Mother, Ursula K. Le Guin",
+    "url": "https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,126 +140,7 @@
     "title": "Rabbit Ear \"Origami\": programmable origami in the browser (JS)",
     "url": "https://rabbitear.org/book/origami.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46861158",
-    "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
-    "url": "https://aosabook.org/en/v1/bdb.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46924426",
-    "title": "Software factories and the agentic moment",
-    "url": "https://factory.strongdm.ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46867997",
-    "title": "Modern and Antique Technologies Reveal a Dynamic Cosmos",
-    "url": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46926043",
-    "title": "Speed up responses with fast mode",
-    "url": "https://code.claude.com/docs/en/fast-mode",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46923254",
-    "title": "Hoot: Scheme on WebAssembly",
-    "url": "https://www.spritely.institute/hoot/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46869713",
-    "title": "uLauncher",
-    "url": "https://github.com/jrpie/launcher",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46924264",
-    "title": "Stories from 25 Years of Software Development",
-    "url": "https://susam.net/twenty-five-years-of-computing.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +157,160 @@
     "title": "The Legacy of Daniel Kahneman: A Personal View (2025)",
     "url": "https://ejpe.org/journal/article/view/1075/753",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46868928",
+    "title": "LLMs as the new high level language",
+    "url": "https://federicopereiro.com/llm-high/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46861158",
+    "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
+    "url": "https://aosabook.org/en/v1/bdb.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46924426",
+    "title": "Software factories and the agentic moment",
+    "url": "https://factory.strongdm.ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46869113",
+    "title": "A11yJSON: A standard to describe the accessibility of the physical world",
+    "url": "https://sozialhelden.github.io/a11yjson/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46926043",
+    "title": "Speed up responses with fast mode",
+    "url": "https://code.claude.com/docs/en/fast-mode",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46867997",
+    "title": "Modern and Antique Technologies Reveal a Dynamic Cosmos",
+    "url": "https://www.quantamagazine.org/how-modern-and-antique-technologies-reveal-a-dynamic-cosmos-20260202/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46923254",
+    "title": "Hoot: Scheme on WebAssembly",
+    "url": "https://www.spritely.institute/hoot/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46869713",
+    "title": "uLauncher",
+    "url": "https://github.com/jrpie/launcher",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46924264",
+    "title": "Stories from 25 Years of Software Development",
+    "url": "https://susam.net/twenty-five-years-of-computing.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +327,7 @@
     "title": "Vocal Guide – belt sing without killing yourself",
     "url": "https://jesperordrup.github.io/vocal-guide/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46926576",
-    "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
-    "url": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T12:33:40.968Z",
+    "publishedAt": "2026-02-08T13:39:33.512Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
