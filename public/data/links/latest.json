@@ -4,24 +4,7 @@
     "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
     "url": "https://github.com/localgpt-app/localgpt",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.903Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46928810",
-    "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.903Z",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "Al Lowe on model trains, funny deaths and working with Disney",
     "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.903Z",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46864642",
-    "title": "Show HN: Axiomeer – An open marketplace for AI agents",
-    "url": "https://github.com/ujjwalredd/Axiomeer",
+    "id": "hackernews-46928810",
+    "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.903Z",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,7 @@
     "title": "The AI boom is causing shortages everywhere else",
     "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.903Z",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -86,10 +69,10 @@
   },
   {
     "id": "hackernews-46925741",
-    "title": "SectorC: A C Compiler in 512 bytes",
+    "title": "SectorC: A C Compiler in 512 bytes (2023)",
     "url": "https://xorvoid.com/sectorc.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.903Z",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +85,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46927098",
-    "title": "Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?",
-    "url": "https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs",
+    "id": "hackernews-46931213",
+    "title": "Homeland Security Spying on Reddit Users",
+    "url": "https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -116,184 +99,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46925808",
-    "title": "I write games in C (yes, C) (2016)",
-    "url": "https://jonathanwhiting.com/writing/blog/games_in_c/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46878942",
-    "title": "Selection rather than prediction",
-    "url": "https://voratiq.com/blog/selection-rather-than-prediction/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46887084",
-    "title": "The F Word",
-    "url": "http://muratbuffalo.blogspot.com/2026/02/friction.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46870514",
-    "title": "Learning from context is harder than we thought",
-    "url": "https://hy.tencent.com/research/100025?langVersion=en",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46918612",
-    "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
-    "url": "https://openciv3.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46929391",
-    "title": "The silent death of good code",
-    "url": "https://amit.prasad.me/blog/rip-good-code",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46870694",
-    "title": "Where did all the starships go?",
-    "url": "https://www.datawrapper.de/blog/science-fiction-decline",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46868343",
-    "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
-    "url": "https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46923463",
-    "title": "Reinforcement Learning from Human Feedback",
-    "url": "https://rlhfbook.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46918429",
-    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-    "url": "https://github.com/valdanylchuk/breezydemo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.904Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 7
   },
   {
     "id": "hackernews-46930565",
     "title": "Haskell for all: Beyond agentic coding",
     "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.903Z",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +123,7 @@
     "title": "Speed up responses with fast mode",
     "url": "https://code.claude.com/docs/en/fast-mode",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.903Z",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +140,194 @@
     "title": "Software factories and the agentic moment",
     "url": "https://factory.strongdm.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T04:32:20.903Z",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46868282",
+    "title": "Total Surface Area Required to Fuel the World with Solar (2009)",
+    "url": "https://landartgenerator.org/blagi/archives/127",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46868928",
+    "title": "LLMs as the new high level language",
+    "url": "https://federicopereiro.com/llm-high/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46926576",
+    "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
+    "url": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46923254",
+    "title": "Hoot: Scheme on WebAssembly",
+    "url": "https://www.spritely.institute/hoot/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46924264",
+    "title": "Stories from 25 Years of Software Development",
+    "url": "https://susam.net/twenty-five-years-of-computing.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46922049",
+    "title": "Vocal Guide – belt sing without killing yourself",
+    "url": "https://jesperordrup.github.io/vocal-guide/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46924591",
+    "title": "First Proof",
+    "url": "https://arxiv.org/abs/2602.05192",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46925811",
+    "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
+    "url": "https://github.com/Momciloo/fun-with-clip-path",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46930961",
+    "title": "Vouch",
+    "url": "https://twitter.com/mitchellh/status/2020252149117313349",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46931026",
+    "title": "Bye Bye Humanity: The Potential AMOC Collapse",
+    "url": "https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46884412",
+    "title": "Show HN: A luma dependent chroma compression algorithm (image compression)",
+    "url": "https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-08T05:57:43.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
