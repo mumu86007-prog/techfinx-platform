@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46900472",
-    "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
-    "url": "https://github.com/jnidzwetzki/pg-dev-container",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46946827",
     "title": "It's not you; GitHub is down again",
     "url": "https://www.githubstatus.com/incidents/54hndjxft5bx",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
+    "publishedAt": "2026-02-09T22:29:14.867Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "AT&T, Verizon blocking release of Salt Typhoon security assessment reports",
     "url": "https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
+    "publishedAt": "2026-02-09T22:29:14.867Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,198 +34,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46946308",
-    "title": "Sandboxels",
-    "url": "https://neal.fun/sandboxels/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46897804",
-    "title": "What's the Entropy of a Random Integer?",
-    "url": "https://quomodocumque.wordpress.com/2026/02/03/whats-the-entropy-of-a-random-integer/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46878373",
-    "title": "How I've run major projects (2025)",
-    "url": "https://www.benkuhn.net/pjm/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46949864",
-    "title": "An articulated archer automaton [video]",
-    "url": "https://www.youtube.com/watch?v=Bc0bIpDVEa8",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46933955",
-    "title": "Like Game-of-Life, but on Growing Graphs, with WASM and WebGL",
-    "url": "https://znah.net/graphs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46949642",
-    "title": "Luce: First Electric Ferrari. Designed by LoveFrom",
-    "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46938511",
-    "title": "Art of Roads in Games",
-    "url": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46937696",
-    "title": "Ask HN: What are you working on? (February 2026)",
-    "url": "https://news.ycombinator.com/item?id=46937696",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46949401",
-    "title": "Testing Ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46885249",
-    "title": "Medieval Monks Wrote over Ancient Star Catalog – Particle Accel Reveals Original",
-    "url": "https://www.smithsonianmag.com/smart-news/medieval-monks-wrote-over-a-copy-of-an-ancient-star-catalog-now-a-particle-accelerator-is-revealing-the-long-lost-original-text-180988123/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46945663",
-    "title": "Discord will require a face scan or ID for full access next month",
-    "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.865Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46947096",
     "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
     "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.865Z",
+    "publishedAt": "2026-02-09T22:29:14.867Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +55,7 @@
     "title": "Why is the sky blue?",
     "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.865Z",
+    "publishedAt": "2026-02-09T22:29:14.867Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46947777",
-    "title": "Hard-braking events as indicators of road segment crash risk",
-    "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+    "id": "hackernews-46943568",
+    "title": "Show HN: Algorithmically Finding the Longest Line of Sight on Earth",
+    "url": "https://alltheviews.world/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.865Z",
+    "publishedAt": "2026-02-09T22:29:14.867Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46948273",
-    "title": "Game Boy Advance Audio Interpolation",
-    "url": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
+    "id": "hackernews-46937696",
+    "title": "Ask HN: What are you working on? (February 2026)",
+    "url": "https://news.ycombinator.com/item?id=46937696",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.865Z",
+    "publishedAt": "2026-02-09T22:29:14.867Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46945348",
-    "title": "UEFI Bindings for JavaScript",
-    "url": "https://codeberg.org/smnx/promethee",
+    "id": "hackernews-46941882",
+    "title": "Nobody knows how the whole system works",
+    "url": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.865Z",
+    "publishedAt": "2026-02-09T22:29:14.867Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46946062",
-    "title": "Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM",
-    "url": "https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp",
+    "id": "hackernews-46945663",
+    "title": "Discord will require a face scan or ID for full access next month",
+    "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T21:33:39.865Z",
+    "publishedAt": "2026-02-09T22:29:14.866Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
