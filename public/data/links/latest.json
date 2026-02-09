@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-46932678",
-    "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
-    "url": "https://github.com/joshuanwalker/Raiders2600",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46937012",
     "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
     "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.601Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46936105",
-    "title": "Billing can be bypassed using a combo of subagents with an agent definition",
-    "url": "https://github.com/microsoft/vscode/issues/292452",
+    "id": "hackernews-46939593",
+    "title": "AI makes the easy part easier and the hard part harder",
+    "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,14 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 7.5
+    "score": 8
   },
   {
     "id": "hackernews-46934579",
     "title": "Exploiting signed bootloaders to circumvent UEFI Secure Boot",
     "url": "https://habr.com/en/articles/446238/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +51,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-46936828",
-    "title": "The Little Bool of Doom (2025)",
-    "url": "https://blog.svgames.pl/article/the-little-bool-of-doom",
+    "id": "hackernews-46930961",
+    "title": "Vouch",
+    "url": "https://github.com/mitchellh/vouch",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +68,79 @@
     "score": 6
   },
   {
-    "id": "hackernews-46938241",
-    "title": "A GTA modder has got the 1997 original working on modern PCs and Steam Deck",
-    "url": "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/",
+    "id": "hackernews-46938398",
+    "title": "More Mac malware from Google search",
+    "url": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46939187",
+    "title": "Reverse Engineering the Prom for the SGI O2",
+    "url": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46938280",
+    "title": "Apple XNU: Clutch Scheduler",
+    "url": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46938903",
+    "title": "Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)",
+    "url": "https://arxiv.org/abs/2510.25417",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46937696",
+    "title": "Ask HN: What are you working on? (February 2026)",
+    "url": "https://news.ycombinator.com/item?id=46937696",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +157,7 @@
     "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books",
     "url": "https://underhillgame.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +170,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46938615",
-    "title": "Everything – Locate files and folders by name instantly",
-    "url": "https://www.voidtools.com/",
+    "id": "hackernews-46936828",
+    "title": "The Little Bool of Doom (2025)",
+    "url": "https://blog.svgames.pl/article/the-little-bool-of-doom",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46938241",
+    "title": "A GTA modder has got the 1997 original working on modern PCs and Steam Deck",
+    "url": "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46939298",
+    "title": "Toma (YC W24) Is Hiring Founding Engineers",
+    "url": "https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46932444",
+    "title": "Quartz Crystals",
+    "url": "https://www.pa3fwm.nl/technotes/tn13a.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,24 +242,7 @@
     "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
     "url": "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46935791",
-    "title": "I put a real-time 3D shader on the Game Boy Color",
-    "url": "https://blog.otterstack.com/posts/202512-gbshader/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +259,7 @@
     "title": "Dave Farber has died",
     "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +276,7 @@
     "title": "RFC 3092 – Etymology of \"Foo\" (2001)",
     "url": "https://datatracker.ietf.org/doc/html/rfc3092",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,96 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46934107",
-    "title": "GitHub Agentic Workflows",
-    "url": "https://github.github.io/gh-aw/",
+    "id": "hackernews-46935791",
+    "title": "I put a real-time 3D shader on the Game Boy Color",
+    "url": "https://blog.otterstack.com/posts/202512-gbshader/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46935991",
-    "title": "Omega-3 is inversely related to risk of early-onset dementia",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41506004/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46935931",
-    "title": "Credentials for Linux: Bringing Passkeys to the Linux Desktop",
-    "url": "https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46936595",
-    "title": "Bun v1.3.9",
-    "url": "https://bun.com/blog/bun-v1.3.9",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46932985",
-    "title": "Curating a Show on My Ineffable Mother, Ursula K. Le Guin",
-    "url": "https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46931805",
-    "title": "OpenClaw is changing my life",
-    "url": "https://reorx.com/blog/openclaw-is-changing-my-life/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +310,7 @@
     "title": "Ktkit: A Kotlin toolkit for building server applications with Ktor",
     "url": "https://github.com/smyrgeorge/ktkit",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46888258",
-    "title": "Show HN: It took 4 years to sell my startup. I wrote a book about it",
-    "url": "https://derekyan.com/ma-book/",
+    "id": "hackernews-46934107",
+    "title": "GitHub Agentic Workflows",
+    "url": "https://github.github.io/gh-aw/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-08T23:23:09.602Z",
+    "publishedAt": "2026-02-09T01:28:01.079Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
