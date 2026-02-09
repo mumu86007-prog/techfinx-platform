@@ -4,7 +4,7 @@
     "title": "AI makes the easy part easier and the hard part harder",
     "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T09:55:34.239Z",
+    "publishedAt": "2026-02-09T10:51:28.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Art of Roads in Games",
     "url": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T09:55:34.239Z",
+    "publishedAt": "2026-02-09T10:51:28.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,24 @@
     "title": "Vouch",
     "url": "https://github.com/mitchellh/vouch",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T09:55:34.239Z",
+    "publishedAt": "2026-02-09T10:51:28.783Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46936237",
+    "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
+    "url": "https://underhillgame.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-09T10:51:28.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Claude’s C Compiler vs. GCC",
     "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T09:55:34.239Z",
+    "publishedAt": "2026-02-09T10:51:28.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "GitHub Agentic Workflows",
     "url": "https://github.github.io/gh-aw/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T09:55:34.239Z",
+    "publishedAt": "2026-02-09T10:51:28.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "Dave Farber has died",
     "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-09T09:55:34.239Z",
+    "publishedAt": "2026-02-09T10:51:28.783Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
