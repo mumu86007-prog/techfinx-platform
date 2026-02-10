@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46959679",
-    "title": "America's $1T AI Gamble",
-    "url": "https://www.apricitas.io/p/americas-1t-ai-gamble",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46960517",
-    "title": "Vercel's CEO offers to cover expenses of 'Jmail'",
-    "url": "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46960036",
     "title": "Oxide raises $200M Series C",
     "url": "https://oxide.computer/blog/our-200m-series-c",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.207Z",
+    "publishedAt": "2026-02-10T17:09:06.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
     "url": "https://arxiv.org/abs/2512.20798",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.207Z",
+    "publishedAt": "2026-02-10T17:09:06.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,79 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46960118",
-    "title": "Redefining Go Functions",
-    "url": "https://pboyd.io/posts/redefining-go-functions/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.207Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7.5
-  },
-  {
-    "id": "hackernews-46959832",
-    "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
-    "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46957198",
-    "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
-    "url": "https://qwen.ai/blog?id=qwen-image-2.0",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46958742",
-    "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
-    "url": "https://github.com/distr-sh/distr",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46954136",
     "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
     "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
+    "publishedAt": "2026-02-10T17:09:06.674Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +55,7 @@
     "title": "Discord Alternatives, Ranked",
     "url": "https://taggart-tech.com/discord-alternatives/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
+    "publishedAt": "2026-02-10T17:09:06.674Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,58 +72,7 @@
     "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
     "url": "https://github.com/antirez/voxtral.c",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46949870",
-    "title": "A method and calculator for building foamcore drawer organisers",
-    "url": "https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46932068",
-    "title": "80386 Barrel Shifter",
-    "url": "https://nand2mario.github.io/posts/2026/80386_barrel_shifter/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46958378",
-    "title": "RLHF from Scratch",
-    "url": "https://github.com/ashworks1706/rlhf-from-scratch",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
+    "publishedAt": "2026-02-10T17:09:06.674Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,41 +89,7 @@
     "title": "Why is the sky blue?",
     "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46953815",
-    "title": "Zulip.com Values",
-    "url": "https://zulip.com/values/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46960743",
-    "title": "Disruption with Some GitHub Services",
-    "url": "https://www.githubstatus.com/incidents/wkgqj4546z1c",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
+    "publishedAt": "2026-02-10T17:09:06.674Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +106,7 @@
     "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
     "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
+    "publishedAt": "2026-02-10T17:09:06.674Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46932911",
-    "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
-    "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+    "id": "hackernews-46945663",
+    "title": "Discord will require a face scan or ID for full access next month",
+    "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
+    "publishedAt": "2026-02-10T17:09:06.674Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +136,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46933022",
-    "title": "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
-    "url": "https://elysiajs.com/internal/jit-compiler",
+    "id": "hackernews-46947777",
+    "title": "Hard-braking events as indicators of road segment crash risk",
+    "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T16:00:14.208Z",
+    "publishedAt": "2026-02-10T17:09:06.674Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46959832",
+    "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
+    "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-10T17:09:06.673Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
