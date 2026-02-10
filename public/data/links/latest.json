@@ -4,7 +4,7 @@
     "title": "Oxide raises $200M Series C",
     "url": "https://oxide.computer/blog/our-200m-series-c",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.673Z",
+    "publishedAt": "2026-02-10T18:57:22.911Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
     "url": "https://arxiv.org/abs/2512.20798",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.673Z",
+    "publishedAt": "2026-02-10T18:57:22.911Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,113 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46954136",
-    "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
-    "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+    "id": "hackernews-46957198",
+    "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+    "url": "https://qwen.ai/blog?id=qwen-image-2.0",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.674Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46949564",
-    "title": "Discord Alternatives, Ranked",
-    "url": "https://taggart-tech.com/discord-alternatives/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.674Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46954049",
-    "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-    "url": "https://github.com/antirez/voxtral.c",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.674Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46946401",
-    "title": "Why is the sky blue?",
-    "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.674Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46947096",
-    "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
-    "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.674Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46945663",
-    "title": "Discord will require a face scan or ID for full access next month",
-    "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.674Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46947777",
-    "title": "Hard-braking events as indicators of road segment crash risk",
-    "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.674Z",
+    "publishedAt": "2026-02-10T18:57:22.911Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +55,58 @@
     "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
     "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T17:09:06.673Z",
+    "publishedAt": "2026-02-10T18:57:22.911Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46958399",
+    "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+    "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-10T18:57:22.911Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46954136",
+    "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+    "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-10T18:57:22.911Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46949564",
+    "title": "Discord Alternatives, Ranked",
+    "url": "https://taggart-tech.com/discord-alternatives/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-10T18:57:22.911Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
