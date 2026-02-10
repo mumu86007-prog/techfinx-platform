@@ -1,299 +1,10 @@
 [
   {
-    "id": "hackernews-46948533",
-    "title": "Everyone’s building “async agents,” but almost no one can define them",
-    "url": "https://www.omnara.com/blog/what-is-an-async-agent-really",
+    "id": "hackernews-46946401",
+    "title": "Why is the sky blue?",
+    "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7.5
-  },
-  {
-    "id": "hackernews-46945348",
-    "title": "UEFI Bindings for JavaScript",
-    "url": "https://codeberg.org/smnx/promethee",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46954899",
-    "title": "Why \"just prompt better\" doesn't work",
-    "url": "https://www.bicameral-ai.com/blog/tech-debt-meeting",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46948273",
-    "title": "Game Boy Advance Audio Interpolation",
-    "url": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46945235",
-    "title": "Thoughts on Generating C",
-    "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46898840",
-    "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
-    "url": "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46952118",
-    "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
-    "url": "https://www.chainlift.io/liftkit",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46937696",
-    "title": "Ask HN: What are you working on? (February 2026)",
-    "url": "https://news.ycombinator.com/item?id=46937696",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46946062",
-    "title": "Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM",
-    "url": "https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46950634",
-    "title": "Data exfil from agents in messaging apps",
-    "url": "https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test)",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46933955",
-    "title": "Like Game-of-Life, but on Growing Graphs, with WASM and WebGL",
-    "url": "https://znah.net/graphs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46895089",
-    "title": "The Traffic Mimes of Bogotá",
-    "url": "https://www.atlasobscura.com/articles/traffic-mimes-of-colombia",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46900796",
-    "title": "Show HN: VillageSQL = MySQL and Extensions",
-    "url": "https://github.com/villagesql/villagesql-server",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46949452",
-    "title": "Another GitHub outage in the same day",
-    "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46941882",
-    "title": "Nobody knows how the whole system works",
-    "url": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.294Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46945663",
-    "title": "Discord will require a face scan or ID for full access next month",
-    "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.293Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46954136",
-    "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
-    "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.293Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46953491",
-    "title": "What Functional Programmers Get Wrong About Systems",
-    "url": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.293Z",
+    "publishedAt": "2026-02-10T06:08:19.060Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +21,7 @@
     "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
     "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.293Z",
+    "publishedAt": "2026-02-10T06:08:19.060Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +34,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-46946401",
-    "title": "Why is the sky blue?",
-    "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+    "id": "hackernews-46947777",
+    "title": "Hard-braking events as indicators of road segment crash risk",
+    "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T04:26:46.293Z",
+    "publishedAt": "2026-02-10T06:08:19.060Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46949452",
+    "title": "Another GitHub outage in the same day",
+    "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-10T06:08:19.060Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46937696",
+    "title": "Ask HN: What are you working on? (February 2026)",
+    "url": "https://news.ycombinator.com/item?id=46937696",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-10T06:08:19.060Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46945663",
+    "title": "Discord will require a face scan or ID for full access next month",
+    "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-10T06:08:19.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
