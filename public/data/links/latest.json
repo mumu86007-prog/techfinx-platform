@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46958597",
-    "title": "Show HN: Pipelock – All-in-one security harness for AI coding agents",
-    "url": "https://github.com/luckyPipewrench/pipelock",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.261Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 9
-  },
-  {
-    "id": "hackernews-46955703",
-    "title": "AI doesn’t reduce work, it intensifies it",
-    "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-46954920",
     "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
     "url": "https://arxiv.org/abs/2512.20798",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.261Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "Discord will require a face scan or ID for full access next month",
     "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,41 +38,7 @@
     "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
     "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46958231",
-    "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
-    "url": "https://code.idtech.space/fn/hl2",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46954049",
-    "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-    "url": "https://github.com/antirez/voxtral.c",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +55,7 @@
     "title": "Discord Alternatives, Ranked",
     "url": "https://taggart-tech.com/discord-alternatives/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +72,7 @@
     "title": "Why is the sky blue?",
     "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +89,7 @@
     "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
     "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,41 +106,7 @@
     "title": "Hard-braking events as indicators of road segment crash risk",
     "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46953815",
-    "title": "Zulip.com Values",
-    "url": "https://zulip.com/values/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46952118",
-    "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
-    "url": "https://www.chainlift.io/liftkit",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,41 +123,7 @@
     "title": "Luce: First Electric Ferrari",
     "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46933022",
-    "title": "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
-    "url": "https://elysiajs.com/internal/jit-compiler",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46953136",
-    "title": "Is particle physics dead, dying, or just hard?",
-    "url": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +140,7 @@
     "title": "Sandboxels",
     "url": "https://neal.fun/sandboxels/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46932911",
-    "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
-    "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+    "id": "hackernews-46945348",
+    "title": "UEFI Bindings for JavaScript",
+    "url": "https://codeberg.org/smnx/promethee",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,28 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46907183",
-    "title": "Show HN: Total Recall – write-gated memory for Claude Code",
-    "url": "https://github.com/davegoldblatt/total-recall",
+    "id": "hackernews-46937696",
+    "title": "Ask HN: What are you working on? (February 2026)",
+    "url": "https://news.ycombinator.com/item?id=46937696",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46957198",
-    "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
-    "url": "https://qwen.ai/blog?id=qwen-image-2.0",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T12:56:58.262Z",
+    "publishedAt": "2026-02-10T14:20:01.908Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
