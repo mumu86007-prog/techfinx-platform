@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46960036",
-    "title": "Oxide raises $200M Series C",
-    "url": "https://oxide.computer/blog/our-200m-series-c",
+    "id": "hackernews-46961345",
+    "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+    "url": "https://entire.io/blog/hello-entire-world/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T23:32:50.688Z",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,96 @@
     "score": 8
   },
   {
-    "id": "hackernews-46963804",
-    "title": "Google handed ICE student journalist's bank and credit card numbers",
-    "url": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
+    "id": "hackernews-46934248",
+    "title": "The Little Learner: A Straight Line to Deep Learning",
+    "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T23:32:50.688Z",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46932581",
+    "title": "Willow – Protocols for an uncertain future [video]",
+    "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46962641",
+    "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46960036",
+    "title": "Oxide raises $200M Series C",
+    "url": "https://oxide.computer/blog/our-200m-series-c",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46964162",
+    "title": "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
+    "url": "https://livedocs.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46967772",
+    "title": "The Day the Telnet Died",
+    "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46958399",
-    "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-    "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+    "id": "hackernews-46958345",
+    "title": "The Feynman Lectures on Physics (1961-1964)",
+    "url": "https://www.feynmanlectures.caltech.edu/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T23:32:50.688Z",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +140,58 @@
     "title": "The Singularity will occur on a Tuesday",
     "url": "https://campedersen.com/singularity",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T23:32:50.687Z",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46966182",
+    "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
+    "url": "https://github.com/tambo-ai/tambo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46966605",
+    "title": "The Falkirk Wheel",
+    "url": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46933444",
+    "title": "My eighth year as a bootstrapped founder",
+    "url": "https://mtlynch.io/bootstrapped-founder-year-8/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +208,7 @@
     "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
     "url": "https://code.idtech.space/fn/hl2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T23:32:50.687Z",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +221,113 @@
     "score": 6
   },
   {
-    "id": "hackernews-46957198",
-    "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
-    "url": "https://qwen.ai/blog?id=qwen-image-2.0",
+    "id": "hackernews-46959418",
+    "title": "Simplifying Vulkan one subsystem at a time",
+    "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-10T23:32:50.687Z",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46962402",
+    "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
+    "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46947229",
+    "title": "Show HN: JavaScript-first, open-source WYSIWYG DOCX editor",
+    "url": "https://github.com/eigenpal/docx-js-editor",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46963804",
+    "title": "Google Handed ICE Student Journalist's Bank and Credit Card Numbers",
+    "url": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46961726",
+    "title": "Competition is not market validation",
+    "url": "https://www.ablg.io/blog/competition-is-not-validation",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46951573",
+    "title": "A brief history of oral peptides",
+    "url": "https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46963865",
+    "title": "Markdown CLI viewer with VI keybindings",
+    "url": "https://github.com/taf2/mdvi",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T01:47:39.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
