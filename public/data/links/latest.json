@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-46961345",
-    "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-    "url": "https://entire.io/blog/hello-entire-world/",
+    "id": "hackernews-46967772",
+    "title": "The Day the Telnet Died",
+    "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T17:56:22.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46973083",
-    "title": "Chrome extensions spying on users' browsing data",
-    "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T17:56:22.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46971516",
-    "title": "Windows Notepad App Remote Code Execution Vulnerability",
-    "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T17:56:22.375Z",
+    "publishedAt": "2026-02-11T18:55:30.717Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,41 @@
     "title": "The Feynman Lectures on Physics (1961-1964)",
     "url": "https://www.feynmanlectures.caltech.edu/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T17:56:22.375Z",
+    "publishedAt": "2026-02-11T18:55:30.717Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46971516",
+    "title": "Windows Notepad App Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T18:55:30.717Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46973083",
+    "title": "Chrome extensions spying on 37M users' browsing data",
+    "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T18:55:30.717Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,24 +72,7 @@
     "title": "The Singularity will occur on a Tuesday",
     "url": "https://campedersen.com/singularity",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T17:56:22.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46967772",
-    "title": "The Day the Telnet Died",
-    "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T17:56:22.374Z",
+    "publishedAt": "2026-02-11T18:55:30.717Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
