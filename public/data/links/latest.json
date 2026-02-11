@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46961345",
-    "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-    "url": "https://entire.io/blog/hello-entire-world/",
+    "id": "hackernews-46973647",
+    "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+    "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T11:39:25.216Z",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,147 @@
     "score": 8
   },
   {
+    "id": "hackernews-46961345",
+    "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+    "url": "https://entire.io/blog/hello-entire-world/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46934248",
+    "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
+    "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46932581",
+    "title": "Willow – Protocols for an uncertain future [video]",
+    "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46962641",
+    "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46973083",
+    "title": "Chrome extensions spying on 37M users' browsing data",
+    "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46971516",
     "title": "Windows Notepad App Remote Code Execution Vulnerability",
     "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T11:39:25.216Z",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46909279",
+    "title": "It's All a Blur",
+    "url": "https://lcamtuf.substack.com/p/its-all-a-blur",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46973573",
+    "title": "Exposure Simulator",
+    "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46972471",
+    "title": "A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST",
+    "url": "https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +174,7 @@
     "title": "The Feynman Lectures on Physics (1961-1964)",
     "url": "https://www.feynmanlectures.caltech.edu/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T11:39:25.216Z",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +191,58 @@
     "title": "The Singularity will occur on a Tuesday",
     "url": "https://campedersen.com/singularity",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T11:39:25.216Z",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46967898",
+    "title": "Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)",
+    "url": "https://itsyhome.app/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46934318",
+    "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
+    "url": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46933135",
+    "title": "Show HN: CodeMic",
+    "url": "https://codemic.io/#hn",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +259,7 @@
     "title": "The Day the Telnet Died",
     "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T11:39:25.216Z",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +276,7 @@
     "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
     "url": "https://code.idtech.space/fn/hl2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T11:39:25.216Z",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +289,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-46958399",
-    "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-    "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+    "id": "hackernews-46969088",
+    "title": "Fun With Pinball",
+    "url": "https://www.funwithpinball.com/exhibits/small-boards",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T11:39:25.216Z",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46933444",
+    "title": "My eighth year as a bootstrapped founder",
+    "url": "https://mtlynch.io/bootstrapped-founder-year-8/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46971794",
+    "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
+    "url": "https://www.workatastartup.com/jobs/90016",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T12:53:09.146Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
