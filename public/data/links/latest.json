@@ -4,7 +4,7 @@
     "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
     "url": "https://entire.io/blog/hello-entire-world/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T10:42:00.450Z",
+    "publishedAt": "2026-02-11T11:39:25.216Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,28 @@
     "score": 8
   },
   {
+    "id": "hackernews-46971516",
+    "title": "Windows Notepad App Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-11T11:39:25.216Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46958345",
     "title": "The Feynman Lectures on Physics (1961-1964)",
     "url": "https://www.feynmanlectures.caltech.edu/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T10:42:00.450Z",
+    "publishedAt": "2026-02-11T11:39:25.216Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "The Singularity will occur on a Tuesday",
     "url": "https://campedersen.com/singularity",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T10:42:00.450Z",
+    "publishedAt": "2026-02-11T11:39:25.216Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "The Day the Telnet Died",
     "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T10:42:00.450Z",
+    "publishedAt": "2026-02-11T11:39:25.216Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
     "url": "https://code.idtech.space/fn/hl2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T10:42:00.450Z",
+    "publishedAt": "2026-02-11T11:39:25.216Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
     "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-11T10:42:00.450Z",
+    "publishedAt": "2026-02-11T11:39:25.216Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
