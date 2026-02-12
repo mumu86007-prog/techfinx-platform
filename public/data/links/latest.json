@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-46939200",
+    "title": "Lance table format explained with simple animations",
+    "url": "https://tontinton.com/posts/lance/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46979936",
     "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
     "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "“Nothing” is the secret to structuring your work",
     "url": "https://www.vangemert.dev/blog/nothing",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "The missing digit of Stela C",
     "url": "https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Using an engineering notebook",
     "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
     "url": "https://z.ai/blog/glm-5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,41 +106,7 @@
     "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
     "url": "https://fluorite.game/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46942864",
-    "title": "Text classification with Python 3.14's ZSTD module",
-    "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46977175",
-    "title": "Ireland rolls out basic income scheme for artists",
-    "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,109 +123,7 @@
     "title": "HeyWhatsThat",
     "url": "https://www.heywhatsthat.com/faq.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46921757",
-    "title": "Kanchipuram Saris and Thinking Machines",
-    "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46985147",
-    "title": "D Programming Language",
-    "url": "https://dlang.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46923051",
-    "title": "RISC-V Vector Primer",
-    "url": "https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46978490",
-    "title": "NetNewsWire Turns 23",
-    "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46984735",
-    "title": "How to make a living as an artist",
-    "url": "https://essays.fnnch.com/make-a-living",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46980355",
-    "title": "Reports of Telnet's death have been greatly exaggerated",
-    "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +140,7 @@
     "title": "From specification to stress test: a weekend with Claude",
     "url": "https://www.juxt.pro/blog/from-specification-to-stress-test/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46930602",
-    "title": "The other Markov's inequality",
-    "url": "https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/",
+    "id": "hackernews-46942864",
+    "title": "Text classification with Python 3.14's ZSTD module",
+    "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +170,130 @@
     "score": 6
   },
   {
-    "id": "hackernews-46920315",
-    "title": "WiFi could become an invisible mass surveillance system",
-    "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+    "id": "hackernews-46984735",
+    "title": "How to make a living as an artist",
+    "url": "https://essays.fnnch.com/make-a-living",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46977175",
+    "title": "Ireland rolls out basic income scheme for artists",
+    "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46921757",
+    "title": "Kanchipuram Saris and Thinking Machines",
+    "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46982943",
+    "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
+    "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46986614",
+    "title": "Show HN: A free online British accent generator for instant voice conversion",
+    "url": "https://audioconvert.ai/british-accent-generator",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46978490",
+    "title": "NetNewsWire Turns 23",
+    "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46923051",
+    "title": "RISC-V Vector Primer",
+    "url": "https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46980355",
+    "title": "Reports of Telnet's death have been greatly exaggerated",
+    "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +310,7 @@
     "title": "Clay Christensen's Milkshake Marketing (2011)",
     "url": "https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46978710",
-    "title": "Claude Code is being dumbed down?",
-    "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+    "id": "hackernews-46920315",
+    "title": "WiFi could become an invisible mass surveillance system",
+    "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T10:37:50.347Z",
+    "publishedAt": "2026-02-12T11:34:48.184Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
