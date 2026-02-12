@@ -4,7 +4,7 @@
     "title": "An AI agent published a hit piece on me",
     "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T22:24:52.287Z",
+    "publishedAt": "2026-02-12T23:22:03.347Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Major European payment processor can't send email to Google Workspace users",
     "url": "https://atha.io/blog/2026-02-12-viva",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T22:24:52.287Z",
+    "publishedAt": "2026-02-12T23:22:03.347Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "ai;dr",
     "url": "https://www.0xsid.com/blog/aidr",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T22:24:52.287Z",
+    "publishedAt": "2026-02-12T23:22:03.347Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,28 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46992553",
-    "title": "GPT‑5.3‑Codex‑Spark",
-    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T22:24:52.287Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-46991240",
     "title": "Gemini 3 Deep Think",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T22:24:52.287Z",
+    "publishedAt": "2026-02-12T23:22:03.347Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +72,24 @@
     "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
     "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T22:24:52.287Z",
+    "publishedAt": "2026-02-12T23:22:03.347Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46992553",
+    "title": "GPT‑5.3‑Codex‑Spark",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T23:22:03.346Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
