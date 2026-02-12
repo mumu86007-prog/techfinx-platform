@@ -4,24 +4,7 @@
     "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
     "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46984083",
-    "title": "Show HN: Double blind entropy using Drand for verifiably fair randomness",
-    "url": "https://blockrand.net/live.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -35,10 +18,10 @@
   },
   {
     "id": "hackernews-46972610",
-    "title": "FAA halts all flights at El Paso airport for 10 days",
+    "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
     "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "“Nothing” is the secret to structuring your work",
     "url": "https://www.vangemert.dev/blog/nothing",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,7 @@
     "title": "Using an engineering notebook",
     "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46942864",
-    "title": "Text classification with Python 3.14's ZSTD module",
-    "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+    "id": "hackernews-46984735",
+    "title": "How to Make a Living as an Artist",
+    "url": "https://essays.fnnch.com/make-a-living",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -103,10 +86,10 @@
   },
   {
     "id": "hackernews-46976911",
-    "title": "Toyota Fluorite: \"console-grade\" Flutter game engine",
+    "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
     "url": "https://fluorite.game/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,24 @@
     "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
     "url": "https://z.ai/blog/glm-5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46942864",
+    "title": "Text classification with Python 3.14's ZSTD module",
+    "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +140,7 @@
     "title": "Kanchipuram Saris and Thinking Machines",
     "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,24 +157,7 @@
     "title": "Reports of Telnet's death have been greatly exaggerated",
     "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46982943",
-    "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
-    "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +174,7 @@
     "title": "NetNewsWire Turns 23",
     "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +191,24 @@
     "title": "Ireland rolls out basic income scheme for artists",
     "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46937427",
+    "title": "Deobfuscation and Analysis of Ring-1.io",
+    "url": "https://back.engineering/blog/04/02/2026/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +225,7 @@
     "title": "The Problem with LLMs",
     "url": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46978710",
-    "title": "Claude Code Is Being Dumbed Down",
-    "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+    "id": "hackernews-46982943",
+    "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
+    "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +255,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46979781",
-    "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
-    "url": "https://github.com/adenhq/hive/blob/main/README.md",
+    "id": "hackernews-46930602",
+    "title": "The Other Markov's Inequality",
+    "url": "https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,28 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46982792",
-    "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+    "id": "hackernews-46981058",
+    "title": "Covering electricity price increases from our data centers",
+    "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46983196",
-    "title": "Heroku is not dead",
-    "url": "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +293,24 @@
     "title": "WiFi Could Become an Invisible Mass Surveillance System",
     "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46978710",
+    "title": "Claude Code is being dumbed down?",
+    "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
     "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T04:17:52.667Z",
+    "publishedAt": "2026-02-12T06:00:09.969Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
