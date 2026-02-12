@@ -4,7 +4,7 @@
     "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
     "url": "https://github.com/matplotlib/matplotlib/pull/31132",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,24 +21,7 @@
     "title": "Lance table format explained with simple animations",
     "url": "https://tontinton.com/posts/lance/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46979936",
-    "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-    "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "“Nothing” is the secret to structuring your work",
     "url": "https://www.vangemert.dev/blog/nothing",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +51,79 @@
     "score": 7
   },
   {
+    "id": "hackernews-46987919",
+    "title": "The \"Crown of Nobles\" Noble Gas Tube Display",
+    "url": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46985151",
+    "title": "Warcraft III Peon Voice Notifications for Claude Code",
+    "url": "https://github.com/tonyyont/peon-ping",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46987963",
+    "title": "America's Cyber Defense Agency Is Burning Down and Nobody's Coming to Put It Out",
+    "url": "https://www.threathunter.ai/blog/americas-cyber-defense-agency-burning-down/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46988596",
+    "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+    "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46982421",
     "title": "Discord/Twitch/Snapchat age verification bypass",
     "url": "https://age-verifier.kibty.town/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +140,7 @@
     "title": "The missing digit of Stela C",
     "url": "https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +157,7 @@
     "title": "Using an engineering notebook",
     "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +174,7 @@
     "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
     "url": "https://z.ai/blog/glm-5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +191,7 @@
     "title": "How to make a living as an artist",
     "url": "https://essays.fnnch.com/make-a-living",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +208,7 @@
     "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
     "url": "https://fluorite.game/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +225,7 @@
     "title": "Ireland rolls out basic income scheme for artists",
     "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,24 +242,7 @@
     "title": "Text classification with Python 3.14's ZSTD module",
     "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46986614",
-    "title": "Show HN: A free online British accent generator for instant voice conversion",
-    "url": "https://audioconvert.ai/british-accent-generator",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +259,7 @@
     "title": "HeyWhatsThat",
     "url": "https://www.heywhatsthat.com/faq.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +272,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-46982943",
-    "title": "Hologram v0.7.0: Milestone release for Elixir-to-JavaScript porting initiative",
-    "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+    "id": "hackernews-46987425",
+    "title": "Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",
+    "url": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46986614",
+    "title": "Show HN: A free online British accent generator for instant voice conversion",
+    "url": "https://audioconvert.ai/british-accent-generator",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +310,7 @@
     "title": "RISC-V Vector Primer",
     "url": "https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,62 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46978490",
-    "title": "NetNewsWire Turns 23",
-    "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+    "id": "hackernews-46982943",
+    "title": "Hologram v0.7.0: Milestone release for Elixir-to-JavaScript porting initiative",
+    "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46921757",
-    "title": "Kanchipuram Saris and Thinking Machines",
-    "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46980355",
-    "title": "Reports of Telnet's death have been greatly exaggerated",
-    "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46932533",
-    "title": "Clay Christensen's Milkshake Marketing (2011)",
-    "url": "https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T12:48:33.938Z",
+    "publishedAt": "2026-02-12T14:07:02.207Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
