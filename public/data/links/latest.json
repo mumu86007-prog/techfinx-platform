@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46987559",
-    "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-    "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+    "id": "hackernews-46989217",
+    "title": "Email is tough: Major European Payment Processor's Emails rejected by GWorkspace",
+    "url": "https://atha.io/blog/2026-02-12-viva",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T16:50:36.161Z",
+    "publishedAt": "2026-02-12T17:53:04.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46978490",
-    "title": "NetNewsWire Turns 23",
-    "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+    "id": "hackernews-46987559",
+    "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+    "url": "https://github.com/matplotlib/matplotlib/pull/31132",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T16:50:36.162Z",
+    "publishedAt": "2026-02-12T17:53:04.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,14 +31,31 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
+  },
+  {
+    "id": "hackernews-46990729",
+    "title": "An AI Agent Published a Hit Piece on Me",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T17:53:04.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
   },
   {
     "id": "hackernews-46988596",
     "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
     "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T16:50:36.161Z",
+    "publishedAt": "2026-02-12T17:53:04.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,24 +72,7 @@
     "title": "Warcraft III Peon Voice Notifications for Claude Code",
     "url": "https://github.com/tonyyont/peon-ping",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T16:50:36.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46982421",
-    "title": "Discord/Twitch/Snapchat age verification bypass",
-    "url": "https://age-verifier.kibty.town/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T16:50:36.161Z",
+    "publishedAt": "2026-02-12T17:53:04.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
