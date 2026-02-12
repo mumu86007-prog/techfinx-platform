@@ -4,7 +4,7 @@
     "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
     "url": "https://github.com/matplotlib/matplotlib/pull/31132",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T15:43:46.423Z",
+    "publishedAt": "2026-02-12T16:50:36.161Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,45 @@
     "score": 8
   },
   {
+    "id": "hackernews-46978490",
+    "title": "NetNewsWire Turns 23",
+    "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T16:50:36.162Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46988596",
+    "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+    "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-12T16:50:36.161Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46985151",
     "title": "Warcraft III Peon Voice Notifications for Claude Code",
     "url": "https://github.com/tonyyont/peon-ping",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T15:43:46.423Z",
+    "publishedAt": "2026-02-12T16:50:36.161Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,58 +72,7 @@
     "title": "Discord/Twitch/Snapchat age verification bypass",
     "url": "https://age-verifier.kibty.town/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T15:43:46.423Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46974853",
-    "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-    "url": "https://z.ai/blog/glm-5",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T15:43:46.423Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46976911",
-    "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-    "url": "https://fluorite.game/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T15:43:46.423Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46977175",
-    "title": "Ireland rolls out basic income scheme for artists",
-    "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-12T15:43:46.423Z",
+    "publishedAt": "2026-02-12T16:50:36.161Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
