@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "id": "hackernews-46990729",
+    "title": "An AI agent published a hit piece on me",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.466Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47000041",
+    "title": "MinIO repository is no longer maintained",
+    "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.466Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46997008",
+    "title": "Resizing windows on macOS Tahoe – the saga continues",
+    "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.466Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46992553",
+    "title": "GPT‑5.3‑Codex‑Spark",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.466Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46991240",
+    "title": "Gemini 3 Deep Think",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.466Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46996490",
+    "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
+    "url": "https://news.ycombinator.com/item?id=46996490",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.466Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46997133",
+    "title": "AWS Adds support for nested virtualization",
+    "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.466Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46992815",
+    "title": "Polis: Open-source platform for large-scale civic deliberation",
+    "url": "https://pol.is/home2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.466Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47003064",
+    "title": "Apple, fix my keyboard before the timer ends or I'm leaving iPhone",
+    "url": "https://ios-countdown.win/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.465Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47001871",
+    "title": "Monosketch",
+    "url": "https://monosketch.io/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T19:37:40.465Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
