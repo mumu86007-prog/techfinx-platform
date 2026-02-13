@@ -4,7 +4,7 @@
     "title": "MinIO repository is no longer maintained",
     "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
     "url": "http://qualify.gauntletai.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "An AI agent published a hit piece on me",
     "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "Major European payment processor can't send email to Google Workspace users",
     "url": "https://atha.io/blog/2026-02-12-viva",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +68,79 @@
     "score": 8
   },
   {
+    "id": "hackernews-47002825",
+    "title": "Zed editor switching graphics lib from blade to wgpu",
+    "url": "https://github.com/zed-industries/zed/pull/46758",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47001871",
+    "title": "Monosketch",
+    "url": "https://monosketch.io/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47003219",
+    "title": "Open Source Is Not About You (2018)",
+    "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46931482",
+    "title": "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
+    "url": "https://greensdictofslang.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-46997008",
     "title": "Resizing windows on macOS Tahoe – the saga continues",
     "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,24 +157,7 @@
     "title": "Implementing Auto Tiling with Just 5 Tiles",
     "url": "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46999224",
-    "title": "MMAcevedo aka Lena by qntm",
-    "url": "https://qntm.org/mmacevedo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +174,7 @@
     "title": "GPT‑5.3‑Codex‑Spark",
     "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +191,7 @@
     "title": "Gemini 3 Deep Think",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +208,7 @@
     "title": "Cache Monet",
     "url": "https://cachemonet.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +225,7 @@
     "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
     "url": "https://news.ycombinator.com/item?id=46996490",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +242,24 @@
     "title": "Advanced Aerial Robotics Made Simple",
     "url": "https://www.drehmflight.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46999224",
+    "title": "MMAcevedo aka Lena by qntm",
+    "url": "https://qntm.org/mmacevedo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +276,7 @@
     "title": "Particle Lenia",
     "url": "https://znah.net/lenia/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +293,7 @@
     "title": "We interfaced single-threaded C++ with multi-threaded Rust",
     "url": "https://antithesis.com/blog/2026/rust_cpp/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +310,7 @@
     "title": "AWS Adds support for nested virtualization",
     "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,75 +327,7 @@
     "title": "Polis: Open-source platform for large-scale civic deliberation",
     "url": "https://pol.is/home2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46988596",
-    "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-    "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47000164",
-    "title": "CSS-Doodle",
-    "url": "https://css-doodle.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46945693",
-    "title": "Ruby Newbie Is Joining the Ruby Users Forum",
-    "url": "https://www.rubyforum.org/tag/getting-started",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46999545",
-    "title": "Ring owners are returning their cameras",
-    "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T14:39:36.821Z",
+    "publishedAt": "2026-02-13T15:35:10.828Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
