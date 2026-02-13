@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-46990729",
-    "title": "An AI agent published a hit piece on me",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+    "id": "hackernews-46989217",
+    "title": "Major European payment processor can't send email to Google Workspace users",
+    "url": "https://atha.io/blog/2026-02-12-viva",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T01:43:16.600Z",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46989217",
-    "title": "Major European payment processor can't send email to Google Workspace users",
-    "url": "https://atha.io/blog/2026-02-12-viva",
+    "id": "hackernews-46994869",
+    "title": "Fixing retail with land value capture",
+    "url": "https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T01:43:16.600Z",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
     "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T01:43:16.600Z",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46991394",
-    "title": "ai;dr",
-    "url": "https://www.0xsid.com/blog/aidr",
+    "id": "hackernews-46990729",
+    "title": "An AI agent published a hit piece on me",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T01:43:16.600Z",
+    "publishedAt": "2026-02-13T04:14:08.891Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +68,62 @@
     "score": 8
   },
   {
-    "id": "hackernews-46991240",
-    "title": "Gemini 3 Deep Think",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+    "id": "hackernews-46989117",
+    "title": "The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware",
+    "url": "https://lwn.net/Articles/1055590/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T01:43:16.600Z",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-46924818",
+    "title": "Take a trip to Japan's Dododo Land, the most irritating place on Earth",
+    "url": "https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46996999",
+    "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+    "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46992815",
+    "title": "Polis: Open-source platform for large-scale civic deliberation",
+    "url": "https://pol.is/home2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +140,7 @@
     "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
     "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T01:43:16.600Z",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,11 +153,181 @@
     "score": 6
   },
   {
-    "id": "hackernews-46992553",
-    "title": "GPT‑5.3‑Codex‑Spark",
-    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+    "id": "hackernews-46934659",
+    "title": "How a Cat Debugged Stable Diffusion (2023)",
+    "url": "https://blog.dwac.dev/posts/cat-debugging/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-13T01:43:16.599Z",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46934513",
+    "title": "My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood",
+    "url": "https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46996569",
+    "title": "Recoverable and Irrecoverable Decisions",
+    "url": "https://herbertlui.net/recoverable-and-irrecoverable-decisions/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46990578",
+    "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
+    "url": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46991591",
+    "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
+    "url": "https://news.ycombinator.com/item?id=46991591",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46993596",
+    "title": "Rari – Rust-powered React framework",
+    "url": "https://rari.build/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46988438",
+    "title": "Apache Arrow is 10 years old",
+    "url": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46993397",
+    "title": "How to Have a Bad Career – David Patterson (2016) [video]",
+    "url": "https://www.youtube.com/watch?v=Rn1w4MRHIhc",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46944376",
+    "title": "Partial 8-Piece Tablebase",
+    "url": "https://lichess.org/@/Lichess/blog/op1-partial-8-piece-tablebase-available/1ptPBDpC",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46989605",
+    "title": "A brief history of barbed wire fence telephone networks (2024)",
+    "url": "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46987919",
+    "title": "The \"Crown of Nobles\" Noble Gas Tube Display (2024)",
+    "url": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-13T04:14:08.892Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
