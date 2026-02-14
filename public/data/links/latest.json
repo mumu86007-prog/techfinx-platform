@@ -4,7 +4,7 @@
     "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
     "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,24 +21,7 @@
     "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
     "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47013059",
-    "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-    "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "Dr. Oz pushes AI avatars as a fix for rural health care",
     "url": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +51,113 @@
     "score": 8
   },
   {
+    "id": "hackernews-47013059",
+    "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+    "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47017138",
+    "title": "Internet Increasingly Becoming Unarchivable",
+    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47017682",
+    "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
+    "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47016443",
+    "title": "uBlock filter list to hide all YouTube Shorts",
+    "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47017545",
+    "title": "Descent, Ported to the Web",
+    "url": "https://mrdoob.github.io/three-descent/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47017727",
+    "title": "You Can't Trust the Internet Anymore",
+    "url": "https://nicole.express/2026/not-my-casual-hobby.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-47014449",
     "title": "Ooh.directory: a place to find good blogs that interest you",
     "url": "https://ooh.directory/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,109 +174,7 @@
     "title": "Amsterdam Compiler Kit",
     "url": "https://github.com/davidgiven/ack",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47014500",
-    "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
-    "url": "https://github.com/datavorous/sameshi",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47012717",
-    "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-    "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46934622",
-    "title": "Ask HN: How to get started with robotics as a hobbyist?",
-    "url": "https://news.ycombinator.com/item?id=46934622",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47015330",
-    "title": "Vim 9.2 Released",
-    "url": "https://www.vim.org/vim-9.2-released.php",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47016058",
-    "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
-    "url": "https://github.com/Geek-1001/arcmark",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46959531",
-    "title": "Shades of Halftone",
-    "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +191,126 @@
     "title": "A header-only C vector database library",
     "url": "https://github.com/abdimoallim/vdb",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47014500",
+    "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+    "url": "https://github.com/datavorous/sameshi",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46934622",
+    "title": "Ask HN: How to get started with robotics as a hobbyist?",
+    "url": "https://news.ycombinator.com/item?id=46934622",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47015330",
+    "title": "Vim 9.2 Released",
+    "url": "https://www.vim.org/vim-9.2-released.php",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47016058",
+    "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
+    "url": "https://github.com/Geek-1001/arcmark",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46968641",
+    "title": "Windows NT/OS2 Design Workbook",
+    "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47012717",
+    "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+    "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46959531",
+    "title": "Shades of Halftone",
+    "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,109 +327,7 @@
     "title": "A Review of M Disc Archival Capability. With long term testing results",
     "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46954696",
-    "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-    "url": "https://www.wallstreetraider.com/story.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47011567",
-    "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-    "url": "https://github.com/mickamy/sql-tap",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47000505",
-    "title": "Babylon 5 is now free to watch on YouTube",
-    "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47014995",
-    "title": "7zip.com Is Serving Malware",
-    "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46957629",
-    "title": "Code Storage by the Pierre Computer Company",
-    "url": "https://code.storage/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46971273",
-    "title": "What color are your bits? (2004)",
-    "url": "https://ansuz.sooke.bc.ca/entry/23",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T19:18:36.536Z",
+    "publishedAt": "2026-02-14T20:18:12.419Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
