@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47008560",
-    "title": "OpenAI has deleted the word 'safely' from its mission",
-    "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+    "id": "hackernews-47009949",
+    "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "I'm not worried about AI job loss",
     "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47008560",
+    "title": "OpenAI has deleted the word 'safely' from its mission",
+    "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "gRPC: From service definition to wire format",
     "url": "https://kreya.app/blog/grpc-deep-dive/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,160 +72,7 @@
     "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
     "url": "https://github.com/mickamy/sql-tap",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46936671",
-    "title": "Understanding the Go Compiler: The Linker",
-    "url": "https://internals-for-interns.com/posts/the-go-linker/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47008163",
-    "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-    "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47010823",
-    "title": "NPMX – a fast, modern browser for the NPM registry",
-    "url": "https://npmx.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47006594",
-    "title": "GPT-5.2 derives a new result in theoretical physics",
-    "url": "https://openai.com/index/new-result-theoretical-physics/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46983873",
-    "title": "Common Lisp Screenshots: today's CL applications in action",
-    "url": "http://www.lisp-screenshots.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47005509",
-    "title": "Building a TUI is easy now",
-    "url": "https://hatchet.run/blog/tuis-are-easy-now",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46967147",
-    "title": "Adventures in Neural Rendering",
-    "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46930181",
-    "title": "Font Rendering from First Principles",
-    "url": "https://mccloskeybr.com/articles/font_rendering.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46955311",
-    "title": "Gradient.horse",
-    "url": "https://gradient.horse/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +89,7 @@
     "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
     "url": "https://www.wallstreetraider.com/story.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +102,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-47007656",
-    "title": "The EU moves to kill infinite scrolling",
-    "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+    "id": "hackernews-46936671",
+    "title": "Understanding the Go Compiler: The Linker",
+    "url": "https://internals-for-interns.com/posts/the-go-linker/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47010823",
+    "title": "NPMX – a fast, modern browser for the NPM registry",
+    "url": "https://npmx.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47008163",
+    "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+    "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +157,7 @@
     "title": "Backblaze Drive Stats for 2025",
     "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47001871",
-    "title": "Monosketch",
-    "url": "https://monosketch.io/",
+    "id": "hackernews-47012312",
+    "title": "Cogram (YC W22) – Hiring former technical founders",
+    "url": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47001095",
-    "title": "WolfSSL sucks too, so now what?",
-    "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+    "id": "hackernews-47006594",
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "url": "https://openai.com/index/new-result-theoretical-physics/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47000164",
-    "title": "CSS-Doodle",
-    "url": "https://css-doodle.com/",
+    "id": "hackernews-46983873",
+    "title": "Common Lisp Screenshots: today's CL applications in action",
+    "url": "http://www.lisp-screenshots.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +221,113 @@
     "score": 6
   },
   {
-    "id": "hackernews-46934860",
-    "title": "Advanced Aerial Robotics Made Simple",
-    "url": "https://www.drehmflight.com/",
+    "id": "hackernews-47012122",
+    "title": "Do Not Outsource Judgement",
+    "url": "https://dncrews.com/do-not-outsource-judgement-76f9e5be61b9",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T06:36:02.386Z",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47005509",
+    "title": "Building a TUI is easy now",
+    "url": "https://hatchet.run/blog/tuis-are-easy-now",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46930181",
+    "title": "Font Rendering from First Principles",
+    "url": "https://mccloskeybr.com/articles/font_rendering.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46955311",
+    "title": "Gradient.horse",
+    "url": "https://gradient.horse/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46967147",
+    "title": "Adventures in Neural Rendering",
+    "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47007656",
+    "title": "The EU moves to kill infinite scrolling",
+    "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47003064",
+    "title": "Apple, fix my keyboard before the timer ends or I'm leaving iPhone",
+    "url": "https://ios-countdown.win/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-14T07:29:33.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
