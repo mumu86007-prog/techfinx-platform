@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47025399",
-    "title": "LT6502: A 6502-based homebrew laptop",
-    "url": "https://github.com/TechPaula/LT6502",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T22:16:56.898Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47022891",
     "title": "I Fixed Windows Native Development",
     "url": "https://marler8997.github.io/blog/fixed-windows/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T22:16:56.898Z",
+    "publishedAt": "2026-02-15T23:19:06.866Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
     "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T22:16:56.898Z",
+    "publishedAt": "2026-02-15T23:19:06.866Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,41 +38,7 @@
     "title": "Hideki Sato, designer of all Sega's consoles, has died",
     "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T22:16:56.898Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47025624",
-    "title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
-    "url": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T22:16:56.898Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47021354",
-    "title": "Flashpoint Archive – Over 200k web games and animations preserved",
-    "url": "https://flashpointarchive.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T22:16:56.898Z",
+    "publishedAt": "2026-02-15T23:19:06.866Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -103,10 +52,44 @@
   },
   {
     "id": "hackernews-47021980",
-    "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+    "title": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
     "url": "https://oat.ink/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T22:16:56.898Z",
+    "publishedAt": "2026-02-15T23:19:06.866Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47023238",
+    "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
+    "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T23:19:06.866Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47025399",
+    "title": "LT6502: A 6502-based homebrew laptop",
+    "url": "https://github.com/TechPaula/LT6502",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T23:19:06.865Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
