@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47017138",
-    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47015294",
     "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
     "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,24 @@
     "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
     "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47019133",
+    "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
+    "url": "https://github.com/alichherawalla/off-grid-mobile",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -52,10 +52,10 @@
   },
   {
     "id": "hackernews-47009949",
-    "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+    "title": "An AI agent published a hit piece on me – more things have happened",
     "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,28 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47012553",
-    "title": "OpenAI should build Slack",
-    "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+    "id": "hackernews-47017138",
+    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46965462",
-    "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
-    "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.560Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,24 +89,7 @@
     "title": "uBlock filter list to hide all YouTube Shorts",
     "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47006615",
-    "title": "Breaking the spell of vibe coding",
-    "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +106,7 @@
     "title": "Ooh.directory: a place to find good blogs that interest you",
     "url": "https://ooh.directory/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,24 +123,7 @@
     "title": "Zvec: A lightweight, fast, in-process vector database",
     "url": "https://github.com/alibaba/zvec",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46973299",
-    "title": "Flood Fill vs. The Magic Circle",
-    "url": "https://www.robinsloan.com/winter-garden/magic-circle/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,41 +140,7 @@
     "title": "Instagram's URL Blackhole",
     "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47010147",
-    "title": "Discord: A case study in performance optimization",
-    "url": "https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47016008",
-    "title": "Amsterdam Compiler Kit",
-    "url": "https://github.com/davidgiven/ack",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +157,7 @@
     "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
     "url": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47018405",
-    "title": "Colored Petri Nets, LLMs, and distributed applications",
-    "url": "https://blog.sao.dev/cpns-llms-distributed-apps/",
+    "id": "hackernews-46973299",
+    "title": "Flood Fill vs. The Magic Circle",
+    "url": "https://www.robinsloan.com/winter-garden/magic-circle/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +187,62 @@
     "score": 6
   },
   {
-    "id": "hackernews-47016530",
-    "title": "A header-only C vector database library",
-    "url": "https://github.com/abdimoallim/vdb",
+    "id": "hackernews-46961931",
+    "title": "Can my SPARC server host a website?",
+    "url": "https://rup12.net/posts/can-my-sparc-server-host-my-website/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47016008",
+    "title": "Amsterdam Compiler Kit",
+    "url": "https://github.com/davidgiven/ack",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46977967",
+    "title": "Show HN: MOL – A programming language where pipelines trace themselves",
+    "url": "https://github.com/crux-ecosystem/mol-lang",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47010147",
+    "title": "Discord: A case study in performance optimization",
+    "url": "https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +259,24 @@
     "title": "The consequences of task switching in supervisory programming",
     "url": "https://martinfowler.com/fragments/2026-02-13.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47018405",
+    "title": "Colored Petri Nets, LLMs, and distributed applications",
+    "url": "https://blog.sao.dev/cpns-llms-distributed-apps/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +293,24 @@
     "title": "Launching Interop 2026",
     "url": "https://hacks.mozilla.org/2026/02/launching-interop-2026/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47014500",
+    "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+    "url": "https://github.com/datavorous/sameshi",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "Ask HN: How to get started with robotics as a hobbyist?",
     "url": "https://news.ycombinator.com/item?id=46934622",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-14T23:17:27.440Z",
+    "publishedAt": "2026-02-15T01:42:49.561Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
