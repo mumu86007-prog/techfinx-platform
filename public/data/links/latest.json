@@ -4,7 +4,24 @@
     "title": "I love the work of the ArchWiki maintainers",
     "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46968964",
+    "title": "RynnBrain",
+    "url": "https://github.com/alibaba-damo-academy/RynnBrain",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
     "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Constraint Propagation for Fun",
     "url": "https://eli.li/constraint-propagation-for-fun",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -52,10 +69,10 @@
   },
   {
     "id": "hackernews-47020791",
-    "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
+    "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
     "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "News publishers limit Internet Archive access due to AI scraping concerns",
     "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "OpenAI should build Slack",
     "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +123,7 @@
     "title": "Flashpoint Archive – Over 200k web games and animations preserved",
     "url": "https://flashpointarchive.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,130 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47022329",
-    "title": "Two different tricks for fast LLM inference",
-    "url": "https://www.seangoedecke.com/fast-llm-inference/",
+    "id": "hackernews-47023333",
+    "title": "Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)",
+    "url": "https://github.com/denisepattenson/perlin-terminal",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46990888",
-    "title": "A practical guide to observing the night sky for real skies and real equipment",
-    "url": "https://stargazingbuddy.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46989859",
-    "title": "Inspecting the Source of Go Modules",
-    "url": "https://words.filippo.io/go-source/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47000535",
-    "title": "Zvec: A lightweight, fast, in-process vector database",
-    "url": "https://github.com/alibaba/zvec",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47004689",
-    "title": "Instagram's URL Blackhole",
-    "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46998580",
-    "title": "Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction",
-    "url": "https://note.com/hydraenids/n/nbe89030deaba",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47016443",
-    "title": "uBlock filter list to hide all YouTube Shorts",
-    "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46970733",
-    "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
-    "url": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +157,7 @@
     "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
     "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47008607",
-    "title": "How often do full-body MRIs find cancer?",
-    "url": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
+    "id": "hackernews-47022943",
+    "title": "Reversed engineered game Starflight (1986)",
+    "url": "https://github.com/s-macke/starflight-reverse",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47016008",
-    "title": "Amsterdam Compiler Kit",
-    "url": "https://github.com/davidgiven/ack",
+    "id": "hackernews-46990888",
+    "title": "A practical guide to observing the night sky for real skies and real equipment",
+    "url": "https://stargazingbuddy.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46972392",
-    "title": "Show HN: Copy-and-patch compiler for hard real-time Python",
-    "url": "https://github.com/Nonannet/copapy",
+    "id": "hackernews-47021980",
+    "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
+    "url": "https://oat.ink/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +221,113 @@
     "score": 6
   },
   {
-    "id": "hackernews-47006615",
-    "title": "Breaking the spell of vibe coding",
-    "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+    "id": "hackernews-47000535",
+    "title": "Zvec: A lightweight, fast, in-process vector database",
+    "url": "https://github.com/alibaba/zvec",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T13:40:26.835Z",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47004689",
+    "title": "Instagram's URL Blackhole",
+    "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46998580",
+    "title": "Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction",
+    "url": "https://note.com/hydraenids/n/nbe89030deaba",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47022704",
+    "title": "A Pokémon of a Different Color",
+    "url": "https://matthew.verive.me/blog/color/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47016443",
+    "title": "uBlock filter list to hide all YouTube Shorts",
+    "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47022329",
+    "title": "Two different tricks for fast LLM inference",
+    "url": "https://www.seangoedecke.com/fast-llm-inference/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46970733",
+    "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
+    "url": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-15T14:20:43.340Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
