@@ -4,24 +4,7 @@
     "title": "I love the work of the ArchWiki maintainers",
     "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46968964",
-    "title": "RynnBrain",
-    "url": "https://github.com/alibaba-damo-academy/RynnBrain",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
+    "publishedAt": "2026-02-15T18:26:14.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
     "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
+    "publishedAt": "2026-02-15T18:26:14.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -49,149 +32,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-46960305",
-    "title": "Constraint Propagation for Fun",
-    "url": "https://eli.li/constraint-propagation-for-fun",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47020791",
-    "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
-    "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47012553",
-    "title": "OpenAI should build Slack",
-    "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47017138",
-    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47024907",
-    "title": "Hideki Sato, designer of all Sega's consoles, has died",
-    "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47024676",
-    "title": "An Enslaved Gardener Transformed the Pecan into a Cash Crop",
-    "url": "https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-47021354",
     "title": "Flashpoint Archive – Over 200k web games and animations preserved",
     "url": "https://flashpointarchive.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47022943",
-    "title": "Reversed engineered game Starflight (1986)",
-    "url": "https://github.com/s-macke/starflight-reverse",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47023238",
-    "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
-    "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
+    "publishedAt": "2026-02-15T18:26:14.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +55,7 @@
     "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
     "url": "https://oat.ink/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
+    "publishedAt": "2026-02-15T18:26:14.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47022329",
-    "title": "Two different tricks for fast LLM inference",
-    "url": "https://www.seangoedecke.com/fast-llm-inference/",
+    "id": "hackernews-47023238",
+    "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
+    "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
+    "publishedAt": "2026-02-15T18:26:14.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46960485",
-    "title": "How Is Data Stored?",
-    "url": "https://www.makingsoftware.com/chapters/how-is-data-stored",
+    "id": "hackernews-47004689",
+    "title": "Instagram's URL Blackhole",
+    "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
+    "publishedAt": "2026-02-15T18:26:14.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46990888",
-    "title": "A practical guide to observing the night sky for real skies and real equipment",
-    "url": "https://stargazingbuddy.com/",
+    "id": "hackernews-47016443",
+    "title": "uBlock filter list to hide all YouTube Shorts",
+    "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
+    "publishedAt": "2026-02-15T18:26:14.309Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,62 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-46994456",
-    "title": "The seam through the center of things",
-    "url": "https://usefulfictions.substack.com/p/the-seam-through-the-center-of-things",
+    "id": "hackernews-47022891",
+    "title": "I Fixed Windows Native Development",
+    "url": "https://marler8997.github.io/blog/fixed-windows/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47024112",
-    "title": "Inner-Platform Effect",
-    "url": "https://en.wikipedia.org/wiki/Inner-platform_effect",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46977477",
-    "title": "Build Gaussian Splat Experiences with SuperSplat Studio",
-    "url": "https://blog.playcanvas.com/build-gaussian-splat-experiences-with-supersplat-studio/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47000535",
-    "title": "Zvec: A lightweight, fast, in-process vector database",
-    "url": "https://github.com/alibaba/zvec",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T17:20:07.574Z",
+    "publishedAt": "2026-02-15T18:26:14.308Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
