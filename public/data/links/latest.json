@@ -4,7 +4,7 @@
     "title": "I’m joining OpenAI",
     "url": "https://steipete.me/posts/2026/openclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T12:44:52.917Z",
+    "publishedAt": "2026-02-16T14:01:29.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47031580",
-    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-    "url": "https://mastodon.world/@knowmadd/116072773118828295",
+    "id": "hackernews-47025851",
+    "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+    "url": "https://modern-css.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T12:44:52.917Z",
+    "publishedAt": "2026-02-16T14:01:29.037Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +38,7 @@
     "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
     "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T12:44:52.917Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47025851",
-    "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-    "url": "https://modern-css.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T12:44:52.917Z",
+    "publishedAt": "2026-02-16T14:01:29.037Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,7 @@
     "title": "LT6502: A 6502-based homebrew laptop",
     "url": "https://github.com/TechPaula/LT6502",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T12:44:52.917Z",
+    "publishedAt": "2026-02-16T14:01:29.037Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +72,7 @@
     "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
     "url": "https://microgpt.boratto.ca/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T12:44:52.917Z",
+    "publishedAt": "2026-02-16T14:01:29.037Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +89,7 @@
     "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
     "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T12:44:52.917Z",
+    "publishedAt": "2026-02-16T14:01:29.037Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,24 @@
     "title": "Gwtar: A static efficient single-file HTML format",
     "url": "https://gwern.net/gwtar",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T12:44:52.917Z",
+    "publishedAt": "2026-02-16T14:01:29.037Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47031580",
+    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+    "url": "https://mastodon.world/@knowmadd/116072773118828295",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T14:01:29.036Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
