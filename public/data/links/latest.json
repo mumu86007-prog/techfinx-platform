@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47022891",
-    "title": "I Fixed Windows Native Development",
-    "url": "https://marler8997.github.io/blog/fixed-windows/",
+    "id": "hackernews-47028013",
+    "title": "I’m joining OpenAI",
+    "url": "https://steipete.me/posts/2026/openclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T23:19:06.866Z",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,48 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47025378",
-    "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-    "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+    "id": "hackernews-47025478",
+    "title": "Show HN: Klaw.sh – Kubernetes for AI agents",
+    "url": "https://github.com/klawsh/klaw.sh",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T23:19:06.866Z",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47026071",
+    "title": "Editor's Note: Retraction of article containing fabricated quotations",
+    "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47023238",
+    "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+    "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.444Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +72,7 @@
     "title": "Hideki Sato, designer of all Sega's consoles, has died",
     "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T23:19:06.866Z",
+    "publishedAt": "2026-02-16T01:26:27.444Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,28 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47021980",
-    "title": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
-    "url": "https://oat.ink/",
+    "id": "hackernews-47028227",
+    "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+    "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T23:19:06.866Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47023238",
-    "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
-    "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T23:19:06.866Z",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,228 @@
     "title": "LT6502: A 6502-based homebrew laptop",
     "url": "https://github.com/TechPaula/LT6502",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-15T23:19:06.865Z",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47025864",
+    "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+    "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47028705",
+    "title": "Error payloads in Zig",
+    "url": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47025851",
+    "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+    "url": "https://modern-css.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46999285",
+    "title": "Audio is the one area small labs are winning",
+    "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47022891",
+    "title": "I fixed Windows native development",
+    "url": "https://marler8997.github.io/blog/fixed-windows/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47004384",
+    "title": "I Gave Claude Access to My Pen Plotter",
+    "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47025378",
+    "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+    "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47026768",
+    "title": "Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI",
+    "url": "https://github.com/gpasquero/voog",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47025085",
+    "title": "Pocketblue – Fedora Atomic for mobile devices",
+    "url": "https://github.com/pocketblue/pocketblue",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47026186",
+    "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
+    "url": "https://microgpt.boratto.ca/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47027427",
+    "title": "GNU Pies – Program Invocation and Execution Supervisor",
+    "url": "https://www.gnu.org.ua/software/pies/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46969642",
+    "title": "I'm Always in the Club",
+    "url": "https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46993014",
+    "title": "Real-time PathTracing with global illumination in WebGL",
+    "url": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T01:26:27.443Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
