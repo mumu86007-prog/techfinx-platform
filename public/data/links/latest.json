@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-47028013",
-    "title": "I’m joining OpenAI",
-    "url": "https://steipete.me/posts/2026/openclaw",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47036063",
-    "title": "Show HN: Maths, CS and AI Compendium",
-    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46998266",
-    "title": "Richard Carrington's first portrait has been found",
-    "url": "https://www.cnn.com/2026/02/12/science/solar-storm-richard-carrington-photo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47033622",
     "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
     "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
+    "publishedAt": "2026-02-16T20:21:52.295Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -66,115 +15,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-47034713",
-    "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
-    "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47038588",
-    "title": "Use Protocols, Not Services",
-    "url": "https://notnotp.com/notes/use-protocols-not-services/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47037501",
-    "title": "WebMCP Proposal",
-    "url": "https://webmachinelearning.github.io/webmcp/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47035560",
-    "title": "What Your Bluetooth Devices Reveal About You",
-    "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47011548",
-    "title": "Ghidra by NSA",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47034801",
-    "title": "Running My Own XMPP Server",
-    "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-47032876",
     "title": "Qwen3.5: Towards Native Multimodal Agents",
     "url": "https://qwen.ai/blog?id=qwen3.5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
+    "publishedAt": "2026-02-16T20:21:52.295Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,45 +34,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47037313",
-    "title": "How to take a photo with scotch tape (lensless imaging) [video]",
-    "url": "https://www.youtube.com/watch?v=97f0nfU5Px0",
+    "id": "hackernews-47034713",
+    "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
+    "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47036891",
-    "title": "Show HN: Simple org-mode web adapter",
-    "url": "https://github.com/SpaceTurth/Org-Web-Adapter",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47010018",
-    "title": "Looks: A Halide Mark III Preview",
-    "url": "https://www.lux.camera/mark-iii-looks/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
+    "publishedAt": "2026-02-16T20:21:52.295Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,58 +55,7 @@
     "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
     "url": "https://mastodon.world/@knowmadd/116072773118828295",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47038706",
-    "title": "Robert Duvall Dead at 95",
-    "url": "https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46988538",
-    "title": "Rolling your own serverless OCR in 40 lines of code",
-    "url": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47036921",
-    "title": "History of AT&T Long Lines",
-    "url": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
+    "publishedAt": "2026-02-16T20:21:52.295Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,24 +72,7 @@
     "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
     "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47033875",
-    "title": "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
-    "url": "https://github.com/nineties/planckforth",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T19:27:53.975Z",
+    "publishedAt": "2026-02-16T20:21:52.295Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
