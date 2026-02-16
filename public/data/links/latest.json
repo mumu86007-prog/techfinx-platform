@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-47028013",
-    "title": "I’m joining OpenAI",
-    "url": "https://steipete.me/posts/2026/openclaw",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46976256",
-    "title": "Databases should contain their own Metadata – Use SQL Everywhere",
-    "url": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46984768",
-    "title": "1,300-year-old world chronicle unearthed in Sinai",
-    "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47026071",
     "title": "Editor's Note: Retraction of article containing fabricated quotations",
     "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
+    "publishedAt": "2026-02-16T08:38:05.639Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-46977678",
-    "title": "I Love Board Games: A Personal Obsession Explained by Psychology",
-    "url": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
+    "id": "hackernews-47028013",
+    "title": "I’m joining OpenAI",
+    "url": "https://steipete.me/posts/2026/openclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
+    "publishedAt": "2026-02-16T08:38:05.638Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -83,64 +32,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-47031268",
-    "title": "Building SQLite with a small swarm",
-    "url": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-47030271",
-    "title": "Arm wants a bigger slice of the chip business",
-    "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
   },
   {
     "id": "hackernews-47028227",
     "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
     "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46974763",
-    "title": "Why does aluminum foil have one shiny side and one with a matte finish?",
-    "url": "https://bookofjoe2.blogspot.com/2025/10/why-does-aluminum-foil-have-one-shiny.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
+    "publishedAt": "2026-02-16T08:38:05.639Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,24 +55,7 @@
     "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
     "url": "https://modern-css.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47000034",
-    "title": "Expensively Quadratic: The LLM Agent Cost Curve",
-    "url": "https://blog.exe.dev/expensively-quadratic",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
+    "publishedAt": "2026-02-16T08:38:05.639Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,126 +72,7 @@
     "title": "LT6502: A 6502-based homebrew laptop",
     "url": "https://github.com/TechPaula/LT6502",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46999285",
-    "title": "Audio is the one area small labs are winning",
-    "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47019102",
-    "title": "How long do job postings stay open?",
-    "url": "https://corvi.careers/blog/job_open_days_by_category_feb_2026/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47029339",
-    "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
-    "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46975822",
-    "title": "Lost Soviet Moon Lander May Have Been Found",
-    "url": "https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47004384",
-    "title": "I gave Claude access to my pen plotter",
-    "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47028705",
-    "title": "Error payloads in Zig",
-    "url": "https://srcreigh.ca/posts/error-payloads-in-zig/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47026186",
-    "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
-    "url": "https://microgpt.boratto.ca/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
+    "publishedAt": "2026-02-16T08:38:05.639Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +89,58 @@
     "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
     "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T07:48:43.076Z",
+    "publishedAt": "2026-02-16T08:38:05.639Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47024506",
+    "title": "Gwtar: A static efficient single-file HTML format",
+    "url": "https://gwern.net/gwtar",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T08:38:05.639Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47023238",
+    "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+    "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T08:38:05.639Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47031580",
+    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+    "url": "https://mastodon.world/@knowmadd/116072773118828295",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T08:38:05.638Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
