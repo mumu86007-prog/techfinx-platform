@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-47028013",
+    "title": "I’m joining OpenAI",
+    "url": "https://steipete.me/posts/2026/openclaw",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-46984768",
     "title": "1,300-year-old world chronicle unearthed in Sinai",
     "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,24 +38,7 @@
     "title": "Databases should contain their own Metadata – Use SQL Everywhere",
     "url": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-46977678",
-    "title": "I Love Board Games: A Personal Obsession Explained by Psychology",
-    "url": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,24 +55,7 @@
     "title": "Editor's Note: Retraction of article containing fabricated quotations",
     "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47028013",
-    "title": "I’m joining OpenAI",
-    "url": "https://steipete.me/posts/2026/openclaw",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.702Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +72,7 @@
     "title": "Building SQLite with a small swarm",
     "url": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +89,7 @@
     "title": "Arm wants a bigger slice of the chip business",
     "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,24 @@
     "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
     "url": "https://mastodon.world/@knowmadd/116072773118828295",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47033328",
+    "title": "MessageFormat: Unicode standard for localizable message strings",
+    "url": "https://github.com/unicode-org/message-format-wg",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +140,7 @@
     "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
     "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +157,7 @@
     "title": "picol: A Tcl interpreter in 500 lines of code",
     "url": "https://github.com/antirez/picol",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +174,7 @@
     "title": "Expensively Quadratic: The LLM Agent Cost Curve",
     "url": "https://blog.exe.dev/expensively-quadratic",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +191,7 @@
     "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
     "url": "https://modern-css.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +208,7 @@
     "title": "Lost Soviet Moon Lander May Have Been Found",
     "url": "https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +225,7 @@
     "title": "LT6502: A 6502-based homebrew laptop",
     "url": "https://github.com/TechPaula/LT6502",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +242,7 @@
     "title": "Audio is the one area small labs are winning",
     "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,24 +259,7 @@
     "title": "Designing a 36-key custom keyboard layout (2021)",
     "url": "https://peterxjang.medium.com/designing-a-36-key-custom-keyboard-layout-24498a0eecd4",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-46986604",
-    "title": "Show HN: Solving Sudoku reasoning via Energy Geometric models",
-    "url": "https://www.davisgeometric.com/index.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +276,7 @@
     "title": "I gave Claude access to my pen plotter",
     "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +293,7 @@
     "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
     "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +310,24 @@
     "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
     "url": "https://microgpt.boratto.ca/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T09:44:42.703Z",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47025378",
+    "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+    "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T10:41:38.503Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
