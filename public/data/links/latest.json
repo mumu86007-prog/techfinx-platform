@@ -4,7 +4,58 @@
     "title": "I’m joining OpenAI",
     "url": "https://steipete.me/posts/2026/openclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T16:35:26.814Z",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46998266",
+    "title": "Richard Carrington's first portrait has been found",
+    "url": "https://www.cnn.com/2026/02/12/science/solar-storm-richard-carrington-photo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47033622",
+    "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+    "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-46984768",
+    "title": "1,300-year-old world chronicle unearthed in Sinai",
+    "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +72,7 @@
     "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
     "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T16:35:26.814Z",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,96 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47032876",
-    "title": "Qwen3.5: Towards Native Multimodal Agents",
-    "url": "https://qwen.ai/blog?id=qwen3.5",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T16:35:26.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47031580",
-    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-    "url": "https://mastodon.world/@knowmadd/116072773118828295",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T16:35:26.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47025851",
-    "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-    "url": "https://modern-css.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T16:35:26.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47028227",
-    "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-    "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T16:35:26.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47025399",
-    "title": "LT6502: A 6502-based homebrew laptop",
-    "url": "https://github.com/TechPaula/LT6502",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T16:35:26.814Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47026186",
     "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
     "url": "https://microgpt.boratto.ca/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T16:35:26.814Z",
+    "publishedAt": "2026-02-16T17:33:38.206Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +106,228 @@
     "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
     "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-16T16:35:26.813Z",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47034801",
+    "title": "Running My Own XMPP Server",
+    "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47035560",
+    "title": "What Your Bluetooth Devices Reveal About You",
+    "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47036891",
+    "title": "Show HN: Simple org-mode web adapter",
+    "url": "https://github.com/SpaceTurth/Org-Web-Adapter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47035371",
+    "title": "The Sideprocalypse",
+    "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47032876",
+    "title": "Qwen3.5: Towards Native Multimodal Agents",
+    "url": "https://qwen.ai/blog?id=qwen3.5",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47011548",
+    "title": "Ghidra by NSA",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47031580",
+    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+    "url": "https://mastodon.world/@knowmadd/116072773118828295",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-46988538",
+    "title": "Rolling your own serverless OCR in 40 lines of code",
+    "url": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47033328",
+    "title": "MessageFormat: Unicode standard for localizable message strings",
+    "url": "https://github.com/unicode-org/message-format-wg",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47033875",
+    "title": "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
+    "url": "https://github.com/nineties/planckforth",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47035679",
+    "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
+    "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47025851",
+    "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+    "url": "https://modern-css.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47032235",
+    "title": "picol: A Tcl interpreter in 500 lines of code",
+    "url": "https://github.com/antirez/picol",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-16T17:33:38.205Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
