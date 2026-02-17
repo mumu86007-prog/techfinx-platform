@@ -4,7 +4,7 @@
     "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
     "url": "https://forestrydiary.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,24 +21,7 @@
     "title": "Building for an audience of one: starting and finishing side projects with AI",
     "url": "https://codemade.net/blog/building-for-one/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47014460",
-    "title": "PCB Rework and Repair Guide [pdf]",
-    "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "Neurons outside the brain",
     "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47038270",
-    "title": "The long tail of LLM-assisted decompilation",
-    "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
+    "id": "hackernews-47014460",
+    "title": "PCB Rework and Repair Guide [pdf]",
+    "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -83,81 +66,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-47036063",
-    "title": "Show HN: Maths, CS and AI Compendium",
-    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47040524",
-    "title": "Rise of the Triforce",
-    "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-47003071",
-    "title": "What every compiler writer should know about programmers (Anton Ertl, 2015) [pdf]",
+    "title": "What every compiler writer should know about programmers (2015) [pdf]",
     "url": "https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47042396",
-    "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-    "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47040375",
-    "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
-    "url": "https://github.com/zachlatta/freeflow",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,143 +89,7 @@
     "title": "What your Bluetooth devices reveal",
     "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47002231",
-    "title": "Visual Introduction to PyTorch",
-    "url": "https://0byte.io/articles/pytorch_introduction.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47039834",
-    "title": "Testing Postgres race conditions with synchronization barriers",
-    "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47012486",
-    "title": "DBASE on the Kaypro II",
-    "url": "https://stonetools.ghost.io/dbase-cpm/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47011548",
-    "title": "Ghidra by NSA",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47000708",
-    "title": "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
-    "url": "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47039478",
-    "title": "State of Show HN: 2025",
-    "url": "https://blog.sturdystatistics.com/posts/show_hn/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47039966",
-    "title": "Suicide Linux (2009)",
-    "url": "https://qntm.org/suicide",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47040430",
-    "title": "Study: Self-generated Agent Skills are useless",
-    "url": "https://arxiv.org/abs/2602.12670",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +106,228 @@
     "title": "A Deep Dive into Apple's .car File Format",
     "url": "https://dbg.re/posts/car-file-format/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T05:53:40.375Z",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47042396",
+    "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+    "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47002231",
+    "title": "Visual Introduction to PyTorch",
+    "url": "https://0byte.io/articles/pytorch_introduction.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47042766",
+    "title": "Thinking Hard Burns Almost No Calories–But Destroys Your Next Workout",
+    "url": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47034087",
+    "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+    "url": "https://arxiv.org/abs/2602.11988",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47040375",
+    "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+    "url": "https://github.com/zachlatta/freeflow",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47012486",
+    "title": "DBASE on the Kaypro II",
+    "url": "https://stonetools.ghost.io/dbase-cpm/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47000708",
+    "title": "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
+    "url": "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47039834",
+    "title": "Testing Postgres race conditions with synchronization barriers",
+    "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47011548",
+    "title": "Ghidra by NSA",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47039478",
+    "title": "State of Show HN: 2025",
+    "url": "https://blog.sturdystatistics.com/posts/show_hn/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47041456",
+    "title": "Running NanoClaw in a Docker Shell Sandbox",
+    "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47040390",
+    "title": "Show HN: Wildex – Pokémon Go for real wildlife",
+    "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47038318",
+    "title": "\"Token anxiety\", a slot machine by any other name",
+    "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T06:50:06.209Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
