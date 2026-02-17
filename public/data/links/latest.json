@@ -1,282 +1,10 @@
 [
   {
-    "id": "hackernews-47041973",
-    "title": "Building for an audience of one: starting and finishing side projects with AI",
-    "url": "https://codemade.net/blog/building-for-one/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47041836",
-    "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
-    "url": "https://forestrydiary.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47006587",
-    "title": "Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs",
-    "url": "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47038731",
-    "title": "Neurons outside the brain",
-    "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47038318",
-    "title": "\"Token anxiety\", a slot machine by any other name",
-    "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47011548",
-    "title": "Ghidra by NSA",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47041456",
-    "title": "Running NanoClaw in a Docker Shell Sandbox",
-    "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47042396",
-    "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-    "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47012486",
-    "title": "DBASE on the Kaypro II",
-    "url": "https://stonetools.ghost.io/dbase-cpm/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47039478",
-    "title": "State of Show HN: 2025",
-    "url": "https://blog.sturdystatistics.com/posts/show_hn/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47000708",
-    "title": "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
-    "url": "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47031334",
-    "title": "Show HN: Jemini – Gemini for the Epstein Files",
-    "url": "https://jmail.world/jemini",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47040390",
-    "title": "Show HN: Wildex – Pokémon Go for real wildlife",
-    "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.515Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47045612",
-    "title": "GrapheneOS – Break Free from Android and iOS",
-    "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.514Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47022270",
-    "title": "Four Column ASCII (2017)",
-    "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.514Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47038546",
     "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
     "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.514Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47033954",
-    "title": "Show HN: Glitchy camera – a circuit-bent camera simulator in the browser",
-    "url": "https://glitchycam.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.514Z",
+    "publishedAt": "2026-02-17T14:02:26.774Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +21,7 @@
     "title": "Rise of the Triforce",
     "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.514Z",
+    "publishedAt": "2026-02-17T14:02:26.774Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +34,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47004629",
-    "title": "How teaching molecules to think is revealing what a 'mind' is",
-    "url": "https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/",
+    "id": "hackernews-47035560",
+    "title": "What your Bluetooth devices reveal",
+    "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.514Z",
+    "publishedAt": "2026-02-17T14:02:26.774Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +51,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-47014002",
-    "title": "A deep dive into Apple's .car file format",
-    "url": "https://dbg.re/posts/car-file-format/",
+    "id": "hackernews-47042396",
+    "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+    "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T12:44:42.514Z",
+    "publishedAt": "2026-02-17T14:02:26.774Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47031334",
+    "title": "Show HN: Jemini – Gemini for the Epstein Files",
+    "url": "https://jmail.world/jemini",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T14:02:26.774Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47045612",
+    "title": "GrapheneOS – Break Free from Google and Apple",
+    "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T14:02:26.773Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
