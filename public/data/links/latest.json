@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47040524",
-    "title": "Rise of the Triforce",
-    "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+    "id": "hackernews-47049848",
+    "title": "Show HN: Continue – Source-controlled AI checks, enforceable in CI",
+    "url": "https://docs.continue.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T18:47:19.726Z",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,116 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47045612",
-    "title": "GrapheneOS – Break Free from Google and Apple",
-    "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+    "id": "hackernews-47049227",
+    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+    "url": "https://mage-bench.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T18:47:19.725Z",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47049088",
+    "title": "Semantic ablation: Why AI writing is generic and boring",
+    "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47050215",
+    "title": "Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School",
+    "url": "https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47049520",
+    "title": "Show HN: I built a simulated AI containment terminal for my sci-fi novel",
+    "url": "https://vertex.flowlogix.ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47049628",
+    "title": "Async/Await on the GPU",
+    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47049776",
+    "title": "Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts",
+    "url": "https://sonarly.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47019902",
+    "title": "Don't pass on small block ciphers",
+    "url": "https://00f.net/2026/02/10/small-block-ciphers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +140,194 @@
     "title": "Is Show HN dead? No, but it's drowning",
     "url": "https://www.arthurcnops.blog/death-of-show-hn/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T18:47:19.725Z",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47050376",
+    "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
+    "url": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47049743",
+    "title": "Show HN: 6cy – Experimental streaming archive format with per-block codecs",
+    "url": "https://github.com/byte271/6cy",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47022270",
+    "title": "Four Column ASCII (2017)",
+    "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47007331",
+    "title": "Labyrinth Locator",
+    "url": "https://labyrinthlocator.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47021711",
+    "title": "Hamming Distance for Hybrid Search in SQLite",
+    "url": "https://notnotp.com/notes/hamming-distance-for-hybrid-search-in-sqlite/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47050488",
+    "title": "Claude Sonnet 4.6",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47049479",
+    "title": "Using go fix to modernize Go code",
+    "url": "https://go.dev/blog/gofix",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47050067",
+    "title": "Gentoo on Codeberg",
+    "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47045612",
+    "title": "GrapheneOS – Break Free from Google and Apple",
+    "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47049573",
+    "title": "HackMyClaw",
+    "url": "https://hackmyclaw.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47049718",
+    "title": "So you want to build a tunnel",
+    "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-17T19:42:22.516Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
