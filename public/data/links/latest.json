@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47049824",
-    "title": "Thank HN: You helped save 33k lives",
-    "url": "https://news.ycombinator.com/item?id=47049824",
+    "id": "hackernews-47055979",
+    "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+    "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T01:28:21.442Z",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -14,14 +14,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47051852",
-    "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-    "url": "https://asteroidos.org/news/2-0-release/index.html",
+    "id": "hackernews-47049628",
+    "title": "Async/Await on the GPU",
+    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T01:28:21.442Z",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,14 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47050067",
-    "title": "Gentoo on Codeberg",
-    "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+    "id": "hackernews-47015138",
+    "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+    "url": "https://www.vogons.org/viewtopic.php?t=105451",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T01:28:21.442Z",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,14 +48,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47049479",
-    "title": "Using go fix to modernize Go code",
-    "url": "https://go.dev/blog/gofix",
+    "id": "hackernews-47053267",
+    "title": "Structured AI (YC F25) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T01:28:21.442Z",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,48 +65,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47045612",
-    "title": "GrapheneOS – Break Free from Google and Apple",
-    "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+    "id": "hackernews-47056314",
+    "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+    "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T01:28:21.442Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47045804",
-    "title": "Is Show HN dead? No, but it's drowning",
-    "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T01:28:21.442Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47049573",
-    "title": "HackMyClaw",
-    "url": "https://hackmyclaw.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T01:28:21.442Z",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +89,245 @@
     "title": "Claude Sonnet 4.6",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T01:28:21.441Z",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47049824",
+    "title": "Thank HN: You helped save 33k lives",
+    "url": "https://news.ycombinator.com/item?id=47049824",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47052941",
+    "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+    "url": "https://github.com/Zaneham/BarraCUDA",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47051852",
+    "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+    "url": "https://asteroidos.org/news/2-0-release/index.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47055262",
+    "title": "Minimal x86 Kernel Zig",
+    "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47050067",
+    "title": "Gentoo on Codeberg",
+    "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47049479",
+    "title": "Using go fix to modernize Go code",
+    "url": "https://go.dev/blog/gofix",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47049718",
+    "title": "So you want to build a tunnel",
+    "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47055696",
+    "title": "Google Public CA is down",
+    "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47054134",
+    "title": "I swear the UFO is coming any minute",
+    "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47002926",
+    "title": "Assistant to the Regional Manager",
+    "url": "https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47045804",
+    "title": "Is Show HN dead? No, but it's drowning",
+    "url": "https://www.arthurcnops.blog/death-of-show-hn/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47048733",
+    "title": "Show HN: I wrote a technical history book on Lisp",
+    "url": "https://berksoft.ca/gol/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47056152",
+    "title": "It's not just you, YouTube is partially down in outage",
+    "url": "https://9to5google.com/2026/02/17/youtube-outage-february-2026/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47048004",
+    "title": "I converted 2D conventional flight tracking into 3D",
+    "url": "https://aeris.edbn.me/?city=SFO",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T04:14:42.729Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
