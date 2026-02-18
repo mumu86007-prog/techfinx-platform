@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-47045612",
-    "title": "GrapheneOS – Break Free from Android and iOS",
-    "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+    "id": "hackernews-47049824",
+    "title": "Thank HN: You helped save 33k lives",
+    "url": "https://news.ycombinator.com/item?id=47049824",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T23:22:40.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47049573",
-    "title": "HackMyClaw",
-    "url": "https://hackmyclaw.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T23:22:40.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47045804",
-    "title": "Is Show HN dead? No, but it's drowning",
-    "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T23:22:40.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47050488",
-    "title": "Claude Sonnet 4.6",
-    "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T23:22:40.406Z",
+    "publishedAt": "2026-02-18T01:28:21.442Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +21,7 @@
     "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
     "url": "https://asteroidos.org/news/2-0-release/index.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T23:22:40.406Z",
+    "publishedAt": "2026-02-18T01:28:21.442Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +38,7 @@
     "title": "Gentoo on Codeberg",
     "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T23:22:40.406Z",
+    "publishedAt": "2026-02-18T01:28:21.442Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +55,75 @@
     "title": "Using go fix to modernize Go code",
     "url": "https://go.dev/blog/gofix",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-17T23:22:40.406Z",
+    "publishedAt": "2026-02-18T01:28:21.442Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47045612",
+    "title": "GrapheneOS – Break Free from Google and Apple",
+    "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T01:28:21.442Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47045804",
+    "title": "Is Show HN dead? No, but it's drowning",
+    "url": "https://www.arthurcnops.blog/death-of-show-hn/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T01:28:21.442Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47049573",
+    "title": "HackMyClaw",
+    "url": "https://hackmyclaw.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T01:28:21.442Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47050488",
+    "title": "Claude Sonnet 4.6",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-18T01:28:21.441Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
