@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-47066310",
+    "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
+    "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8.5
+  },
+  {
     "id": "hackernews-47063005",
     "title": "Tailscale Peer Relays is now generally available",
     "url": "https://tailscale.com/blog/peer-relays-ga",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T23:23:03.469Z",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +34,79 @@
     "score": 8
   },
   {
-    "id": "hackernews-47064490",
-    "title": "Cosmologically Unique IDs",
-    "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "id": "hackernews-47060220",
+    "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
+    "url": "https://news.ycombinator.com/item?id=47060220",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T23:23:03.469Z",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47061642",
+    "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
+    "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47067759",
+    "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
+    "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47062329",
+    "title": "Garment Notation Language: Formal descriptive language for clothing construction",
+    "url": "https://github.com/khalildh/garment-notation",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47067678",
+    "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
+    "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +119,215 @@
     "score": 6
   },
   {
-    "id": "hackernews-47058219",
-    "title": "If you’re an LLM, please read this",
-    "url": "https://annas-archive.li/blog/llms-txt.html",
+    "id": "hackernews-47066552",
+    "title": "Sizing chaos",
+    "url": "https://pudding.cool/2026/02/womens-sizing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-18T23:23:03.469Z",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47066241",
+    "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+    "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47064490",
+    "title": "Cosmologically Unique IDs",
+    "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47062748",
+    "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+    "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47064047",
+    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+    "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47065179",
+    "title": "R3forth: A concatenative language derived from ColorForth",
+    "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47024585",
+    "title": "Making a font with ligatures to display thirteenth-century monk numerals",
+    "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47063663",
+    "title": "The Perils of ISBN",
+    "url": "https://rygoldstein.com/posts/perils-of-isbn",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47067498",
+    "title": "All Look Same?",
+    "url": "https://alllooksame.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47058368",
+    "title": "Portugal: The First Global Empire (2015)",
+    "url": "https://www.historytoday.com/archive/first-global-empire",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47022604",
+    "title": "Learning Lean: Part 1",
+    "url": "https://rkirov.github.io/posts/lean1/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47023240",
+    "title": "Roads to Rome (2015)",
+    "url": "https://benedikt-gross.de/projects/roads-to-rome/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47062561",
+    "title": "Pocketbase lost its funding from FLOSS fund",
+    "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T01:28:02.421Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
