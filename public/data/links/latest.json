@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-47075318",
+    "title": "Gemini 3.1 Pro",
+    "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T18:42:14.631Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-47066552",
     "title": "Sizing chaos",
     "url": "https://pudding.cool/2026/02/womens-sizing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T17:45:11.493Z",
+    "publishedAt": "2026-02-19T18:42:14.631Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,41 +38,7 @@
     "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
     "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T17:45:11.493Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47069299",
-    "title": "Anthropic officially bans using subscription auth for third party use",
-    "url": "https://code.claude.com/docs/en/legal-and-compliance",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T17:45:11.493Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47075318",
-    "title": "Gemini 3.1 Pro",
-    "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T17:45:11.492Z",
+    "publishedAt": "2026-02-19T18:42:14.631Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
