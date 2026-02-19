@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47066310",
-    "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
-    "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8.5
-  },
-  {
     "id": "hackernews-47063005",
     "title": "Tailscale Peer Relays is now generally available",
     "url": "https://tailscale.com/blog/peer-relays-ga",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
+    "publishedAt": "2026-02-19T14:05:19.009Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -32,81 +15,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-47069876",
-    "title": "Show HN: A Lisp where each function call runs a Docker container",
-    "url": "https://github.com/a11ce/docker-lisp",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47038032",
-    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.620Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47028803",
-    "title": "Visualizing the ARM64 Instruction Set (2024)",
-    "url": "https://zyedidia.github.io/blog/posts/6-arm64/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-47041225",
-    "title": "The Mongol Khans of Medieval France",
-    "url": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-47066552",
     "title": "Sizing chaos",
     "url": "https://pudding.cool/2026/02/womens-sizing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
+    "publishedAt": "2026-02-19T14:05:19.009Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,92 +38,7 @@
     "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
     "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47068890",
-    "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-    "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47027171",
-    "title": "Voith Schneider Propeller",
-    "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47042065",
-    "title": "Lilush – LuaJIT static runtime and shell",
-    "url": "https://lilush.link/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47070680",
-    "title": "Old School Visual Effects: The Cloud Tank (2010)",
-    "url": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47069179",
-    "title": "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
-    "url": "https://static.stepfun.com/blog/step-3.5-flash/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
+    "publishedAt": "2026-02-19T14:05:19.009Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +55,7 @@
     "title": "Cosmologically Unique IDs",
     "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
+    "publishedAt": "2026-02-19T14:05:19.009Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,24 +72,7 @@
     "title": "Anthropic officially bans using subscription auth for third party use",
     "url": "https://code.claude.com/docs/en/legal-and-compliance",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47025885",
-    "title": "How to choose between Hindley-Milner and bidirectional typing",
-    "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
+    "publishedAt": "2026-02-19T14:05:19.009Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,58 +89,7 @@
     "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
     "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47038578",
-    "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
-    "url": "https://tempus-word.de/en/index",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47064047",
-    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-    "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47039440",
-    "title": "Fff.nvim – Typo-resistant code search",
-    "url": "https://github.com/dmtrKovalenko/fff.nvim",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T12:46:54.621Z",
+    "publishedAt": "2026-02-19T14:05:19.009Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
