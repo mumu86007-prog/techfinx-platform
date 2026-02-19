@@ -4,7 +4,7 @@
     "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
     "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Tailscale Peer Relays is now generally available",
     "url": "https://tailscale.com/blog/peer-relays-ga",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "How AI is affecting productivity and jobs in Europe",
     "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,24 +55,7 @@
     "title": "Show HN: A Lisp where each function call runs a Docker container",
     "url": "https://github.com/a11ce/docker-lisp",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47060220",
-    "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
-    "url": "https://news.ycombinator.com/item?id=47060220",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +72,7 @@
     "title": "Visualizing the ARM64 Instruction Set (2024)",
     "url": "https://zyedidia.github.io/blog/posts/6-arm64/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +89,7 @@
     "title": "Sizing chaos",
     "url": "https://pudding.cool/2026/02/womens-sizing/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,7 @@
     "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
     "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,41 +123,7 @@
     "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
     "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47069299",
-    "title": "Anthropic officially bans using subscription auth for third party use",
-    "url": "https://code.claude.com/docs/en/legal-and-compliance",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47064490",
-    "title": "Cosmologically Unique IDs",
-    "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +140,41 @@
     "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
     "url": "https://static.stepfun.com/blog/step-3.5-flash/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47064490",
+    "title": "Cosmologically Unique IDs",
+    "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47069299",
+    "title": "Anthropic officially bans using subscription auth for third party use",
+    "url": "https://code.claude.com/docs/en/legal-and-compliance",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,24 +191,7 @@
     "title": "How to choose between Hindley-Milner and bidirectional typing",
     "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47070446",
-    "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
-    "url": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +208,41 @@
     "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
     "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47038578",
+    "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
+    "url": "https://tempus-word.de/en/index",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47039440",
+    "title": "Fff.nvim – Typo-resistant code search",
+    "url": "https://github.com/dmtrKovalenko/fff.nvim",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +259,7 @@
     "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
     "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +272,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47068948",
-    "title": "Minecraft Java is switching from OpenGL to Vulkan",
-    "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+    "id": "hackernews-47070743",
+    "title": "Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta",
+    "url": "https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +293,7 @@
     "title": "US funding for global internet freedom 'effectively gutted'",
     "url": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47022704",
-    "title": "A Pokémon of a Different Color",
-    "url": "https://matthew.verive.me/blog/color/",
+    "id": "hackernews-47070446",
+    "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
+    "url": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47063663",
-    "title": "The Perils of ISBN",
-    "url": "https://rygoldstein.com/posts/perils-of-isbn",
+    "id": "hackernews-47068948",
+    "title": "Minecraft Java is switching from OpenGL to Vulkan",
+    "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T08:35:43.615Z",
+    "publishedAt": "2026-02-19T09:38:04.015Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
