@@ -1,10 +1,10 @@
 [
   {
     "id": "hackernews-47076966",
-    "title": "AI makes you boring",
+    "title": "AI Makes You Boring",
     "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T19:35:30.444Z",
+    "publishedAt": "2026-02-19T20:24:46.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Gemini 3.1 Pro",
     "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T19:35:30.443Z",
+    "publishedAt": "2026-02-19T20:24:46.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,24 @@
     "title": "Pebble Production: February Update",
     "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T19:35:30.443Z",
+    "publishedAt": "2026-02-19T20:24:46.238Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47072968",
+    "title": "Paged Out Issue #8 [pdf]",
+    "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T20:24:46.238Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
