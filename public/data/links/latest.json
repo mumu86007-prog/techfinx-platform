@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47076966",
-    "title": "AI Makes You Boring",
-    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+    "id": "hackernews-47078324",
+    "title": "AI is not a coworker, it's an exoskeleton",
+    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T20:24:46.238Z",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,96 @@
     "score": 8
   },
   {
-    "id": "hackernews-47075318",
-    "title": "Gemini 3.1 Pro",
-    "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+    "id": "hackernews-47079222",
+    "title": "We're no longer attracting top talent: the brain drain killing American science",
+    "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T20:24:46.238Z",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47038032",
+    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47073947",
+    "title": "Measuring AI agent autonomy in practice",
+    "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47076966",
+    "title": "AI Makes You Boring",
+    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47074083",
+    "title": "Against Theory-Motivated Experimentation",
+    "url": "https://journals.sagepub.com/doi/10.1177/26339137261421577",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47074735",
+    "title": "Gemini 3.1 Pro Preview",
+    "url": "https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +119,79 @@
     "score": 6
   },
   {
-    "id": "hackernews-47073112",
-    "title": "Pebble Production: February Update",
-    "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+    "id": "hackernews-47075124",
+    "title": "Show HN: Micasa – track your house from the terminal",
+    "url": "https://micasa.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T20:24:46.238Z",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47078167",
+    "title": "Micropayments as a reality check for news sites",
+    "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47077245",
+    "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
+    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47076659",
+    "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+    "url": "https://github.com/Veirt/weathr",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47078840",
+    "title": "Something Is Going on with Colorectal Cancer",
+    "url": "https://www.hankgreen.com/crc",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +208,126 @@
     "title": "Paged Out Issue #8 [pdf]",
     "url": "https://pagedout.institute/download/PagedOut_008.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-19T20:24:46.238Z",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47073112",
+    "title": "Pebble Production: February Update",
+    "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47072444",
+    "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+    "url": "https://makie.org/website/blogposts/raytracing/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47067270",
+    "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+    "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47041294",
+    "title": "My 1981 adventure game is now a multimedia extravaganza",
+    "url": "https://technologizer.com/home/2026/02/16/arctic-adventure-2026/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47072863",
+    "title": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
+    "url": "https://github.com/fjrevoredo/mini-diarium",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47072539",
+    "title": "Bridging Elixir and Python with Oban",
+    "url": "https://oban.pro/articles/bridging-with-oban",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47077731",
+    "title": "Techno-cynics are wounded techno-optimists",
+    "url": "https://aftermath.site/anthropic-claude-ai-leftist-technology/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-19T21:26:16.217Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
