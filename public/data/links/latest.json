@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-47086181",
+    "title": "The path to ubiquitous AI (17k tokens/sec)",
+    "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T20:22:44.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
+    "id": "hackernews-47088037",
+    "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+    "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T20:22:44.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47078324",
+    "title": "AI is not a coworker, it's an exoskeleton",
+    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T20:22:44.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47088181",
+    "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+    "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T20:22:44.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47089213",
+    "title": "Trump's global tariffs struck down by US Supreme Court",
+    "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T20:22:44.561Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47091419",
+    "title": "Keep Android Open",
+    "url": "https://f-droid.org/2026/02/20/twif.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T20:22:44.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
