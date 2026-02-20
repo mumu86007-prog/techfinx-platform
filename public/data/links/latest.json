@@ -4,7 +4,7 @@
     "title": "Defer available in gcc and clang",
     "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "AI is not a coworker, it's an exoskeleton",
     "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47085370",
+    "title": "Web Components: The Framework-Free Renaissance",
+    "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Pi for Excel: AI sidebar add-in for Excel",
     "url": "https://github.com/tmustier/pi-for-excel",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
     "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47082496",
-    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
-    "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+    "id": "hackernews-47086170",
+    "title": "SwiftUI Agent Skill: Build Better Views with AI",
+    "url": "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
     "url": "https://cormullion.github.io/Lindenmayer.jl/stable/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +123,7 @@
     "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
     "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
     "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47074735",
-    "title": "Gemini 3.1 Pro",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+    "id": "hackernews-47085425",
+    "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+    "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +174,24 @@
     "title": "I tried building my startup entirely on European infrastructure",
     "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47085387",
+    "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
+    "url": "https://learn.pimoroni.com/article/overclocking-the-pico-2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +208,7 @@
     "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
     "url": "https://github.com/olvvier/apple-silicon-accelerometer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +225,7 @@
     "title": "FreeCAD",
     "url": "https://www.freecad.org/index.php",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +242,7 @@
     "title": "Show HN: Micasa – track your house from the terminal",
     "url": "https://micasa.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +259,7 @@
     "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
     "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,24 +276,7 @@
     "title": "US plans online portal to bypass content bans in Europe and elsewhere",
     "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47029368",
-    "title": "A beginner's guide to split keyboards",
-    "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +293,7 @@
     "title": "Fast KV Compaction via Attention Matching",
     "url": "https://arxiv.org/abs/2602.16284",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47078167",
-    "title": "Micropayments as a reality check for news sites",
-    "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+    "id": "hackernews-47029368",
+    "title": "A beginner's guide to split keyboards",
+    "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,28 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47074389",
-    "title": "America vs. Singapore: You can't save your way out of economic shocks",
-    "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+    "id": "hackernews-47058308",
+    "title": "Spell Checking a Year's Worth of Hacker News",
+    "url": "https://fi-le.net/spell/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47076659",
-    "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-    "url": "https://github.com/Veirt/weathr",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T10:30:40.968Z",
+    "publishedAt": "2026-02-20T11:26:23.769Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
