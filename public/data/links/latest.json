@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47079222",
-    "title": "We're no longer attracting top talent: the brain drain killing American science",
-    "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+    "id": "hackernews-47083145",
+    "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+    "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T04:09:22.137Z",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47074389",
-    "title": "America vs. Singapore: You can't save your way out of economic shocks",
-    "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+    "id": "hackernews-47031197",
+    "title": "Defer Available in GCC and Clang",
+    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T04:09:22.137Z",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,14 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47072968",
-    "title": "Paged Out Issue #8 [pdf]",
-    "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+    "id": "hackernews-47082854",
+    "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+    "url": "https://github.com/tmustier/pi-for-excel",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T04:09:22.137Z",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,14 +48,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47073112",
-    "title": "Pebble Production: February Update",
-    "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+    "id": "hackernews-47038032",
+    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T04:09:22.137Z",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,14 +65,133 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
+  },
+  {
+    "id": "hackernews-47073947",
+    "title": "Measuring AI agent autonomy in practice",
+    "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47079222",
+    "title": "We're no longer attracting top talent: the brain drain killing American science",
+    "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47082496",
+    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+    "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.249Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47035698",
+    "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
+    "url": "https://cormullion.github.io/Lindenmayer.jl/stable/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7.5
+  },
+  {
+    "id": "hackernews-47082548",
+    "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+    "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
   },
   {
     "id": "hackernews-47074735",
     "title": "Gemini 3.1 Pro",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T04:09:22.136Z",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47083648",
+    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+    "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47083735",
+    "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
+    "url": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +208,126 @@
     "title": "Show HN: Micasa – track your house from the terminal",
     "url": "https://micasa.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T04:09:22.136Z",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47078167",
+    "title": "Micropayments as a reality check for news sites",
+    "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47067270",
+    "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+    "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47058350",
+    "title": "A Famous Enigma: On Alexandre Kojève",
+    "url": "https://clereviewofbooks.com/isabel-jacobs-boris-groys-marco-filoni/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47074389",
+    "title": "America vs. Singapore: You can't save your way out of economic shocks",
+    "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47076659",
+    "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+    "url": "https://github.com/Veirt/weathr",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47029368",
+    "title": "A beginner's guide to split keyboards",
+    "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47043345",
+    "title": "Almost Every infrastructure decision I endorse or regret after 4 years",
+    "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T05:48:37.250Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
