@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "id": "hackernews-47086181",
+    "title": "The path to ubiquitous AI (17k tokens/sec)",
+    "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T17:32:11.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
+    "id": "hackernews-47078324",
+    "title": "AI is not a coworker, it's an exoskeleton",
+    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T17:32:11.251Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47088037",
+    "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+    "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T17:32:11.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47067270",
+    "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+    "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T17:32:11.251Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47075124",
+    "title": "Show HN: Micasa – track your house from the terminal",
+    "url": "https://micasa.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T17:32:11.251Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47085483",
+    "title": "I tried building my startup entirely on European infrastructure",
+    "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T17:32:11.251Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47074735",
+    "title": "Gemini 3.1 Pro",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T17:32:11.251Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47089213",
+    "title": "Trump's global tariffs struck down by US Supreme Court",
+    "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T17:32:11.250Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
