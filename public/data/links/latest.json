@@ -4,7 +4,7 @@
     "title": "The path to ubiquitous AI (17k tokens/sec)",
     "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
     "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +34,11 @@
     "score": 9
   },
   {
-    "id": "hackernews-47085370",
-    "title": "Web Components: The Framework-Free Renaissance",
-    "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+    "id": "hackernews-47088037",
+    "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+    "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
     "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47031197",
-    "title": "Defer available in gcc and clang",
-    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+    "id": "hackernews-47085370",
+    "title": "Web Components: The Framework-Free Renaissance",
+    "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +89,7 @@
     "title": "AI is not a coworker, it's an exoskeleton",
     "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,28 +102,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47082854",
-    "title": "Pi for Excel: AI sidebar add-in for Excel",
-    "url": "https://github.com/tmustier/pi-for-excel",
+    "id": "hackernews-47031197",
+    "title": "Defer available in gcc and clang",
+    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47088037",
-    "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-    "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.230Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,7 @@
     "title": "Silicon Valley engineers were indicted for allegedly sending secrets to Iran",
     "url": "https://www.cnbc.com/2026/02/20/three-engineers-charged-stealing-google-trade-secrets-data-iran-soc-snapdragon.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.793Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +136,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-47082548",
-    "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
-    "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+    "id": "hackernews-47029368",
+    "title": "A beginner's guide to split keyboards",
+    "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.793Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -167,14 +150,31 @@
       "开发者",
       "社区"
     ],
-    "score": 7
+    "score": 6
+  },
+  {
+    "id": "hackernews-47083882",
+    "title": "Fast KV Compaction via Attention Matching",
+    "url": "https://arxiv.org/abs/2602.16284",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T15:32:42.793Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
   },
   {
     "id": "hackernews-47088181",
     "title": "I found a useful Git one liner buried in leaked CIA developer docs",
     "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,58 +191,7 @@
     "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
     "url": "https://github.com/IronsideXXVI/Hacker-News",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47087687",
-    "title": "How to Stop Being Boring",
-    "url": "https://www.joanwestenberg.com/how-to-stop-being-boring/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47085425",
-    "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
-    "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47087954",
-    "title": "Mothers (YC X26) Is Hiring",
-    "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +208,7 @@
     "title": "PayPal discloses data breach that exposed user info for 6 months",
     "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47086557",
-    "title": "Minions – Stripe's Coding Agents Part 2",
-    "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+    "id": "hackernews-47085425",
+    "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+    "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +242,7 @@
     "title": "Gemini 3.1 Pro",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +255,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-47083648",
-    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-    "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+    "id": "hackernews-47087954",
+    "title": "Mothers (YC X26) Is Hiring",
+    "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47086557",
+    "title": "Minions – Stripe's Coding Agents Part 2",
+    "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +293,41 @@
     "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
     "url": "https://learn.pimoroni.com/article/overclocking-the-pico-2",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-20T14:36:42.231Z",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47083648",
+    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+    "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47043345",
+    "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
+    "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-20T15:32:42.792Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
