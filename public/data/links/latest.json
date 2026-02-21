@@ -4,7 +4,7 @@
     "title": "The path to ubiquitous AI (17k tokens/sec)",
     "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Making frontier cybersecurity capabilities available to defenders",
     "url": "https://www.anthropic.com/news/claude-code-security",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,28 +34,11 @@
     "score": 9
   },
   {
-    "id": "hackernews-47092203",
-    "title": "Every company building your AI assistant is now an ad company",
-    "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+    "id": "hackernews-47097502",
+    "title": "Meta Deployed AI and It Is Killing Our Agency",
+    "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47096466",
-    "title": "Cord: Coordinating Trees of AI Agents",
-    "url": "https://www.june.kim/cord",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,7 @@
     "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
     "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.299Z",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +68,215 @@
     "score": 8
   },
   {
+    "id": "hackernews-47092203",
+    "title": "Every company building your AI assistant is now an ad company",
+    "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47096466",
+    "title": "Cord: Coordinating Trees of AI Agents",
+    "url": "https://www.june.kim/cord",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47091419",
+    "title": "Keep Android Open",
+    "url": "https://f-droid.org/2026/02/20/twif.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47094192",
+    "title": "Turn Dependabot Off",
+    "url": "https://words.filippo.io/dependabot/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47092578",
+    "title": "I found a Vulnerability. They found a Lawyer",
+    "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47091748",
+    "title": "Facebook is cooked",
+    "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47095429",
+    "title": "CERN rebuilt the original browser from 1989 (2019)",
+    "url": "https://worldwideweb.cern.ch/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47092006",
+    "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+    "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47047936",
+    "title": "The Evolution of x86 SIMD: From SSE to AVX-512",
+    "url": "https://bgslabs.org/blog/evolution-of-x86-simd/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47065729",
+    "title": "Microsoft team creates 'revolutionary' data storage system that lasts millennia",
+    "url": "https://www.nature.com/articles/d41586-026-00502-2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47096520",
+    "title": "What Is OAuth?",
+    "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47058584",
+    "title": "Index, Count, Offset, Size",
+    "url": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-47093724",
     "title": "OpenScan",
     "url": "https://openscan.eu/pages/scan-gallery",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +293,7 @@
     "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
     "url": "https://mines.fyi/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,24 +310,7 @@
     "title": "Blue light filters don't work – controlling total luminance is a better bet",
     "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47045194",
-    "title": "SwiftForth IDE for Windows, Linux, macOS",
-    "url": "https://www.forth.com/swiftforth/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,177 +327,7 @@
     "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
     "url": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47094877",
-    "title": "Don't create .gitkeep files, use .gitignore instead (2023)",
-    "url": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47089213",
-    "title": "Trump's global tariffs struck down by US Supreme Court",
-    "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47055261",
-    "title": "The true story behind the Toronto mystery tunnel",
-    "url": "https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47091071",
-    "title": "Lil' Fun Langs",
-    "url": "https://taylor.town/scrapscript-000",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47088166",
-    "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
-    "url": "https://github.com/IronsideXXVI/Hacker-News",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47064048",
-    "title": "Reproducible and traceable configuration for Conan C and C++ package manager",
-    "url": "https://blog.conan.io/cpp/conan/configuration/reproducibility/lockfile/2026/02/17/Reproducible-Configuration-Conan.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47085425",
-    "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
-    "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47037568",
-    "title": "Building a model that visualizes strategic golf",
-    "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47097554",
-    "title": "Show HN: Script Snap – Extract code from videos",
-    "url": "https://script-snap.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.300Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47091419",
-    "title": "Keep Android Open",
-    "url": "https://f-droid.org/2026/02/20/twif.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-21T06:33:58.299Z",
+    "publishedAt": "2026-02-21T07:27:46.274Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
