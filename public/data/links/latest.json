@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47100232",
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-    "url": "https://github.com/tnm/zclaw",
+    "id": "hackernews-47111440",
+    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+    "url": "https://quesma.com/blog/introducing-binaryaudit/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T17:20:12.259Z",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,62 @@
     "score": 8
   },
   {
-    "id": "hackernews-47103661",
-    "title": "How Taalas “prints” LLM onto a chip?",
-    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+    "id": "hackernews-47111400",
+    "title": "Man accidentally gains control of 7k robot vacuums",
+    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T17:20:12.259Z",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47100232",
+    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+    "url": "https://github.com/tnm/zclaw",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47060334",
+    "title": "Carelessness versus craftsmanship in cryptography",
+    "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.630Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7.5
+  },
+  {
+    "id": "hackernews-47100190",
+    "title": "The Four-Color Theorem 1852–1976",
+    "url": "https://www.ams.org/journals/notices/202603/noti3305/noti3305.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,62 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47096167",
-    "title": "Gamedate – A site to revive dead multiplayer games",
-    "url": "https://gamedate.org/",
+    "id": "hackernews-47110946",
+    "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
+    "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T17:20:12.259Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47104667",
-    "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-    "url": "https://github.com/xaskasdf/ntransformer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T17:20:12.259Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47106686",
-    "title": "How I use Claude Code: Separation of planning and execution",
-    "url": "https://boristane.com/blog/how-i-use-claude-code/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T17:20:12.259Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47096253",
-    "title": "Claws are now a new layer on top of LLM agents",
-    "url": "https://twitter.com/karpathy/status/2024987174077432126",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T17:20:12.259Z",
+    "publishedAt": "2026-02-22T18:26:08.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,41 @@
     "title": "Parse, Don't Validate and Type-Driven Design in Rust",
     "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T17:20:12.259Z",
+    "publishedAt": "2026-02-22T18:26:08.630Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47074671",
+    "title": "How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)",
+    "url": "https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.630Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47046853",
+    "title": "Unreal numbers",
+    "url": "https://lcamtuf.substack.com/p/unreal-numbers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.630Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +157,177 @@
     "title": "Attention Media ≠ Social Networks",
     "url": "https://susam.net/attention-media-vs-social-networks.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T17:20:12.258Z",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47112174",
+    "title": "Fix Your Tools",
+    "url": "https://ochagavia.nl/blog/fix-your-tools/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47111981",
+    "title": "Show HN: 3D Mahjong, Built in CSS",
+    "url": "https://voxjong.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47110473",
+    "title": "What Is a Database Transaction?",
+    "url": "https://planetscale.com/blog/database-transactions",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47111626",
+    "title": "Xweather Live – Interactive global vector weather map",
+    "url": "https://live.xweather.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47108989",
+    "title": "Back to FreeBSD: Part 1",
+    "url": "https://hypha.pub/back-to-freebsd-part-1",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47111218",
+    "title": "Git's Magic Files",
+    "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47103661",
+    "title": "How Taalas \"prints\" LLM onto a chip?",
+    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47096167",
+    "title": "Gamedate – A site to revive dead multiplayer games",
+    "url": "https://gamedate.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47061614",
+    "title": "How far back in time can you understand English?",
+    "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47059516",
+    "title": "Monkey Patching in VBA",
+    "url": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T18:26:08.629Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
