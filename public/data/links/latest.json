@@ -4,7 +4,7 @@
     "title": "NanoClaw Moved from Apple Containers to Docker",
     "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
     "url": "https://quesma.com/blog/introducing-binaryaudit/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -32,64 +32,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-47111400",
-    "title": "Man accidentally gains control of 7k robot vacuums",
-    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47111981",
-    "title": "Show HN: 3D Mahjong, Built in CSS",
-    "url": "https://voxjong.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-47110473",
     "title": "What is a database transaction?",
     "url": "https://planetscale.com/blog/database-transactions",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47112925",
-    "title": "Hello Worg, the Org-Mode Community",
-    "url": "https://orgmode.org/worg/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +55,41 @@
     "title": "Fresh File Explorer – VS Code extension for navigating recent work",
     "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47111981",
+    "title": "Show HN: 3D Mahjong, Built in CSS",
+    "url": "https://voxjong.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47112892",
+    "title": "Emulated Windows 3.11 in the Browser",
+    "url": "https://pieter.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,7 @@
     "title": "Xweather Live – Interactive global vector weather map",
     "url": "https://live.xweather.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,7 @@
     "title": "Git's Magic Files",
     "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +140,7 @@
     "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
     "url": "https://github.com/olserra/symplex",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47113769",
-    "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
-    "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
+    "id": "hackernews-47114412",
+    "title": "In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback",
+    "url": "https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +174,7 @@
     "title": "Back to FreeBSD: Part 1",
     "url": "https://hypha.pub/back-to-freebsd-part-1",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47113892",
-    "title": "Factory-built housing hasn't taken off in California",
-    "url": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
+    "id": "hackernews-47113782",
+    "title": "Black-White Array: fast, ordered and based on with O(log N) memory allocations",
+    "url": "https://github.com/dronnix/bwarr",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47074287",
-    "title": "International box-sizing Awareness Day (2014)",
-    "url": "https://css-tricks.com/international-box-sizing-awareness-day/",
+    "id": "hackernews-47089933",
+    "title": "Procedural Tron",
+    "url": "https://www.tripgeo.com/huntforredoctangles",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,62 +221,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47103661",
-    "title": "How Taalas “prints” LLM onto a chip?",
-    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+    "id": "hackernews-47113769",
+    "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
+    "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47046647",
-    "title": "Show HN: Data Studio – Open-Source Data Notebooks",
-    "url": "https://github.com/dataspren-analytics/data-studio",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47059516",
-    "title": "Monkey Patching in VBA",
-    "url": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47096167",
-    "title": "Gamedate – A site to revive dead multiplayer games",
-    "url": "https://gamedate.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +242,7 @@
     "title": "What's the best way to learn a new language?",
     "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +255,79 @@
     "score": 6
   },
   {
-    "id": "hackernews-47104667",
-    "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-    "url": "https://github.com/xaskasdf/ntransformer",
+    "id": "hackernews-47059516",
+    "title": "Monkey Patching in VBA",
+    "url": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47046647",
+    "title": "Show HN: Data Studio – Open-Source Data Notebooks",
+    "url": "https://github.com/dataspren-analytics/data-studio",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47074287",
+    "title": "International box-sizing Awareness Day (2014)",
+    "url": "https://css-tricks.com/international-box-sizing-awareness-day/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T22:16:55.298Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47113728",
+    "title": "I built Timeframe, our family e-paper dashboard",
+    "url": "https://hawksley.org/2026/02/17/timeframe.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T22:16:55.297Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47114579",
+    "title": "Global Intelligence Crisis",
+    "url": "https://www.citriniresearch.com/p/2028gic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T22:16:55.297Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
