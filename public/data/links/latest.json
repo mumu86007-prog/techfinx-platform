@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47111400",
-    "title": "Man accidentally gains control of 7k robot vacuums",
-    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47100232",
     "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
     "url": "https://github.com/tnm/zclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
     "url": "https://www.koreaherald.com/article/10679206",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,62 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47060334",
-    "title": "Carelessness versus craftsmanship in cryptography",
-    "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
+    "id": "hackernews-47110515",
+    "title": "Attention Media ≠ Social Networks",
+    "url": "https://susam.net/attention-media-vs-social-networks.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7.5
-  },
-  {
-    "id": "hackernews-47110473",
-    "title": "What Is a Database Transaction?",
-    "url": "https://planetscale.com/blog/database-transactions",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47108989",
-    "title": "Back to FreeBSD: Part 1",
-    "url": "https://hypha.pub/back-to-freebsd-part-1",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47110781",
-    "title": "Volatility: The volatile memory forensic extraction framework",
-    "url": "https://github.com/volatilityfoundation/volatility3",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +55,7 @@
     "title": "How Taalas “prints” LLM onto a chip?",
     "url": "https://www.anuragk.com/blog/posts/Taalas.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,41 +72,7 @@
     "title": "How I use Claude Code: Separation of planning and execution",
     "url": "https://boristane.com/blog/how-i-use-claude-code/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47107781",
-    "title": "Japanese Woodblock Print Search",
-    "url": "https://ukiyo-e.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47061614",
-    "title": "How far back in time can you understand English?",
-    "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,24 +89,7 @@
     "title": "Gamedate – A site to revive dead multiplayer games",
     "url": "https://gamedate.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47100190",
-    "title": "The Four-Color Theorem 1852–1976",
-    "url": "https://www.ams.org/journals/notices/202603/noti3305/noti3305.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +106,7 @@
     "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
     "url": "https://github.com/xaskasdf/ntransformer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,11 +119,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47069918",
-    "title": "ReferenceFinder: Find coordinates on a piece of paper with only folds",
-    "url": "https://mutsuntsai.github.io/reference-finder/",
+    "id": "hackernews-47096253",
+    "title": "Claws are now a new layer on top of LLM agents",
+    "url": "https://twitter.com/karpathy/status/2024987174077432126",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47046070",
-    "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
-    "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+    "id": "hackernews-47103931",
+    "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+    "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,62 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47110549",
-    "title": "The Dance Floor Is Disappearing in a Sea of Phones",
-    "url": "https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture",
+    "id": "hackernews-47098245",
+    "title": "I verified my LinkedIn identity. Here's what I handed over",
+    "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47105198",
-    "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-    "url": "https://www.science.org/doi/10.1126/science.adq7188",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47046853",
-    "title": "Unreal Numbers",
-    "url": "https://lcamtuf.substack.com/p/unreal-numbers",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47108977",
-    "title": "What's the best way to learn a new language?",
-    "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T15:18:53.440Z",
+    "publishedAt": "2026-02-22T16:21:40.838Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
