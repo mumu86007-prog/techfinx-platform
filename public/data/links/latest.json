@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47100232",
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-    "url": "https://github.com/tnm/zclaw",
+    "id": "hackernews-47113731",
+    "title": "NanoClaw Moved from Apple Containers to Docker",
+    "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T20:18:21.958Z",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,215 @@
     "score": 8
   },
   {
-    "id": "hackernews-47110515",
-    "title": "Attention Media ≠ Social Networks",
-    "url": "https://susam.net/attention-media-vs-social-networks.html",
+    "id": "hackernews-47111440",
+    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+    "url": "https://quesma.com/blog/introducing-binaryaudit/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T20:18:21.958Z",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47111400",
+    "title": "Man accidentally gains control of 7k robot vacuums",
+    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47111981",
+    "title": "Show HN: 3D Mahjong, Built in CSS",
+    "url": "https://voxjong.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47110473",
+    "title": "What is a database transaction?",
+    "url": "https://planetscale.com/blog/database-transactions",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47112925",
+    "title": "Hello Worg, the Org-Mode Community",
+    "url": "https://orgmode.org/worg/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47113325",
+    "title": "Fresh File Explorer – VS Code extension for navigating recent work",
+    "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47111626",
+    "title": "Xweather Live – Interactive global vector weather map",
+    "url": "https://live.xweather.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47111218",
+    "title": "Git's Magic Files",
+    "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47113793",
+    "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
+    "url": "https://github.com/olserra/symplex",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47113769",
+    "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
+    "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47108989",
+    "title": "Back to FreeBSD: Part 1",
+    "url": "https://hypha.pub/back-to-freebsd-part-1",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47113892",
+    "title": "Factory-built housing hasn't taken off in California",
+    "url": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47074287",
+    "title": "International box-sizing Awareness Day (2014)",
+    "url": "https://css-tricks.com/international-box-sizing-awareness-day/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +242,41 @@
     "title": "How Taalas “prints” LLM onto a chip?",
     "url": "https://www.anuragk.com/blog/posts/Taalas.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T20:18:21.958Z",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47046647",
+    "title": "Show HN: Data Studio – Open-Source Data Notebooks",
+    "url": "https://github.com/dataspren-analytics/data-studio",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47059516",
+    "title": "Monkey Patching in VBA",
+    "url": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +293,24 @@
     "title": "Gamedate – A site to revive dead multiplayer games",
     "url": "https://gamedate.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T20:18:21.958Z",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47108977",
+    "title": "What's the best way to learn a new language?",
+    "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,41 +327,7 @@
     "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
     "url": "https://github.com/xaskasdf/ntransformer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T20:18:21.958Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47106686",
-    "title": "How I use Claude Code: Separation of planning and execution",
-    "url": "https://boristane.com/blog/how-i-use-claude-code/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T20:18:21.958Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47107781",
-    "title": "Japanese Woodblock Print Search",
-    "url": "https://ukiyo-e.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T20:18:21.958Z",
+    "publishedAt": "2026-02-22T21:18:08.621Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
