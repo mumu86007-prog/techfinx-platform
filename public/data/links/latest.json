@@ -4,7 +4,7 @@
     "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
     "url": "https://github.com/tnm/zclaw",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
     "url": "https://www.koreaherald.com/article/10679206",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47100935",
+    "title": "The Human Root of Trust – public domain framework for agent accountability",
+    "url": "https://humanrootoftrust.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
     "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47091557",
-    "title": "Uncovering insiders and alpha on Polymarket with AI",
-    "url": "https://twitter.com/peterjliu/status/2024901585806225723",
+    "id": "hackernews-47060334",
+    "title": "Carelessness versus Craftsmanship in Cryptography",
+    "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,14 +82,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
+    "score": 7.5
   },
   {
     "id": "hackernews-47102576",
     "title": "What not to write on your security clearance form (1988)",
     "url": "https://milk.com/wall-o-shame/security_clearance.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,24 +106,7 @@
     "title": "Japanese Woodblock Print Search",
     "url": "https://ukiyo-e.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47104667",
-    "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-    "url": "https://github.com/xaskasdf/ntransformer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,41 @@
     "title": "A Botnet Accidentally Destroyed I2P",
     "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47104667",
+    "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+    "url": "https://github.com/xaskasdf/ntransformer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47103661",
+    "title": "How Taalas \"prints\" LLM onto a chip?",
+    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +174,7 @@
     "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
     "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +191,7 @@
     "title": "How far back in time can you understand English?",
     "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +208,7 @@
     "title": "“Playmakers,” reviewed: The race to give every child a toy",
     "url": "https://www.newyorker.com/magazine/2026/02/16/playmakers-the-jewish-entrepreneurs-who-created-the-toy-industry-in-america-michael-kimmel-book-review",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,24 +225,7 @@
     "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
     "url": "https://www.science.org/doi/10.1126/science.adq7188",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47103931",
-    "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-    "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +242,24 @@
     "title": "Gamedate – A site to revive dead multiplayer games",
     "url": "https://gamedate.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47103931",
+    "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+    "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,24 +276,7 @@
     "title": "Scientists discover recent tectonic activity on the moon",
     "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47071770",
-    "title": "Forward propagation of errors through time",
-    "url": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +293,24 @@
     "title": "Claws are now a new layer on top of LLM agents",
     "url": "https://twitter.com/karpathy/status/2024987174077432126",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47071770",
+    "title": "Forward propagation of errors through time",
+    "url": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,41 +327,7 @@
     "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
     "url": "https://github.com/a-e-k/canvas_ity",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47104185",
-    "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
-    "url": "https://www.eduke32.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47098245",
-    "title": "I verified my LinkedIn identity. Here's what I handed over",
-    "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-22T05:45:54.430Z",
+    "publishedAt": "2026-02-22T06:38:39.027Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
