@@ -1,10 +1,78 @@
 [
   {
+    "id": "hackernews-47104251",
+    "title": "Rhythms the Compendium: Life aboard an aircraft carrier (2021)",
+    "url": "https://thelexicans.wordpress.com/2020/04/05/38223/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47117169",
+    "title": "Aqua: A CLI message tool for AI agents",
+    "url": "https://github.com/quailyquaily/aqua",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47118990",
+    "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
+    "url": "https://bitmovin.com/careers/8023403002/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.522Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47066446",
+    "title": "How to train your program verifier",
+    "url": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.522Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-47115805",
     "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
     "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-23T06:01:35.867Z",
+    "publishedAt": "2026-02-23T07:49:39.522Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +89,7 @@
     "title": "Man accidentally gains control of 7k robot vacuums",
     "url": "https://www.popsci.com/technology/robot-vacuum-army/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-23T06:01:35.867Z",
+    "publishedAt": "2026-02-23T07:49:39.522Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,62 +102,130 @@
     "score": 8
   },
   {
-    "id": "hackernews-47113728",
-    "title": "I built Timeframe, our family e-paper dashboard",
-    "url": "https://hawksley.org/2026/02/17/timeframe.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-23T06:01:35.867Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47113618",
-    "title": "Loops is a federated, open-source TikTok",
-    "url": "https://joinloops.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-23T06:01:35.867Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47114530",
-    "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
-    "url": "https://cia-factbook-archive.fly.dev/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-23T06:01:35.867Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47112174",
     "title": "Fix your tools",
     "url": "https://ochagavia.nl/blog/fix-your-tools/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-23T06:01:35.867Z",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47115575",
+    "title": "Using the new bridges of FreeBSD 15",
+    "url": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47113567",
+    "title": "Show HN: Local-First Linux MicroVMs for macOS",
+    "url": "https://shuru.run/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47112925",
+    "title": "Hello Worg, the Org-Mode Community",
+    "url": "https://orgmode.org/worg/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47113527",
+    "title": "Linuxulator on FreeBSD Feels Like Magic",
+    "url": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47088005",
+    "title": "Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology",
+    "url": "https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47112892",
+    "title": "Emulated Windows 3.11 in the Browser",
+    "url": "https://pieter.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47118055",
+    "title": "How close are we to a vision for 2010?",
+    "url": "https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +242,92 @@
     "title": "Attention Media ≠ Social Networks",
     "url": "https://susam.net/attention-media-vs-social-networks.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-23T06:01:35.867Z",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47117946",
+    "title": "What I learned designing a barebones UI engine",
+    "url": "https://madebymohammed.com/miniui",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47113325",
+    "title": "Fresh File Explorer – VS Code extension for navigating recent work",
+    "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47111218",
+    "title": "Git's Magic Files",
+    "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47111626",
+    "title": "Xweather Live – Interactive global vector weather map",
+    "url": "https://live.xweather.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.523Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47113728",
+    "title": "I built Timeframe, our family e-paper dashboard",
+    "url": "https://hawksley.org/2026/02/17/timeframe.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-23T07:49:39.522Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
