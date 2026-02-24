@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-47129727",
+    "title": "Making Wolfram tech available as a foundation tool for LLM systems",
+    "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T18:54:15.190Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47131225",
+    "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+    "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T18:54:15.190Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47124171",
+    "title": "The Missing Semester of Your CS Education – Revised for 2026",
+    "url": "https://missing.csail.mit.edu/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T18:54:15.190Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47123689",
+    "title": "Terence Tao, at 8 years old (1984) [pdf]",
+    "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T18:54:15.190Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47136036",
+    "title": "Discord cuts ties with identity verification software, Persona",
+    "url": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T18:54:15.190Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47130860",
+    "title": "I Ported Coreboot to the ThinkPad X270",
+    "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T18:54:15.190Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
