@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47131506",
-    "title": "Iowa farmers are leading the fight for repair",
-    "url": "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair",
+    "id": "hackernews-47133055",
+    "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+    "url": "https://github.com/GreatScott/enveil",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,45 @@
     "score": 9
   },
   {
+    "id": "hackernews-47131506",
+    "title": "Iowa farmers are leading the fight for repair",
+    "url": "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
+    "id": "hackernews-47133313",
+    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+    "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-47131225",
     "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
     "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +72,7 @@
     "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
     "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -52,10 +86,10 @@
   },
   {
     "id": "hackernews-47129361",
-    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
     "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +106,7 @@
     "title": "Ladybird adopts Rust, with help from AI",
     "url": "https://ladybird.org/posts/adopting-rust/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +119,28 @@
     "score": 8
   },
   {
+    "id": "hackernews-47123689",
+    "title": "Terence Tao, at 8 years old [pdf]",
+    "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-47132388",
     "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
     "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +157,7 @@
     "title": "I Ported Coreboot to the ThinkPad X270",
     "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +174,7 @@
     "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
     "url": "https://lyra.horse/x86css/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +191,7 @@
     "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
     "url": "https://spectrum.ieee.org/age-verification",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +208,7 @@
     "title": "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
     "url": "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +225,7 @@
     "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
     "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +242,7 @@
     "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
     "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,41 +259,7 @@
     "title": "“Car Wash” test with 53 models",
     "url": "https://opper.ai/blog/car-wash-test",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47131173",
-    "title": "Shatner is making an album with 35 metal icons",
-    "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47126156",
-    "title": "Study shows two child household must earn $400k/year to afford childcare",
-    "url": "https://www.lendingtree.com/debt-consolidation/child-care-affordability-study/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +276,24 @@
     "title": "A simple web we own",
     "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47131173",
+    "title": "Shatner is making an album with 35 metal icons",
+    "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +310,7 @@
     "title": "Show HN: PgDog – Scale Postgres without changing the app",
     "url": "https://github.com/pgdogdev/pgdog",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,41 +327,7 @@
     "title": "What it means that Ubuntu is using Rust",
     "url": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47125484",
-    "title": "The rise of eyes began with just one",
-    "url": "https://www.nytimes.com/2026/02/23/science/evolution-vertebrate-eye.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47128631",
-    "title": "The challenges of porting Shufflepuck Cafe to the 8 bits Apple II",
-    "url": "https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-24T05:54:45.779Z",
+    "publishedAt": "2026-02-24T06:52:10.595Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
