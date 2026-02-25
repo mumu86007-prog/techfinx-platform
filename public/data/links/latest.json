@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "id": "hackernews-47151233",
+    "title": "Never Buy A .online Domain",
+    "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T15:55:01.678Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47143754",
+    "title": "Pi – A minimal terminal coding harness",
+    "url": "https://pi.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T15:55:01.679Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47136604",
+    "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
+    "url": "https://wordglyph.xyz/one-piece-at-a-time",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T15:55:01.679Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47143152",
+    "title": "Mac mini will be made at a new facility in Houston",
+    "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T15:55:01.679Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47141797",
+    "title": "Hacking an old Kindle to display bus arrival times",
+    "url": "https://www.mariannefeng.com/portfolio/kindle/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T15:55:01.679Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47140042",
+    "title": "Nearby Glasses",
+    "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T15:55:01.679Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47149701",
+    "title": "Danish government agency to ditch Microsoft software (2025)",
+    "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T15:55:01.678Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47139675",
+    "title": "I'm helping my dog vibe code games",
+    "url": "https://www.calebleak.com/posts/dog-game/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T15:55:01.678Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
