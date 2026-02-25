@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-47144325",
+    "title": "Cell Service for the Fairly Paranoid",
+    "url": "https://www.cape.co/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47149586",
+    "title": "Show HN: A real-time strategy game that AI agents can play",
+    "url": "https://llmskirmish.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.473Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47114678",
+    "title": "We installed a single turnstile to feel secure",
+    "url": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47147609",
+    "title": "Turing Completeness of GNU find",
+    "url": "https://arxiv.org/abs/2602.20762",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47143754",
+    "title": "Pi – A minimal terminal coding harness",
+    "url": "https://pi.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47143755",
+    "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
+    "url": "https://github.com/moonshine-ai/moonshine",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47114165",
+    "title": "Japanese Death Poems",
+    "url": "https://www.secretorum.life/p/japanese-death-poems-part-3",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47144464",
+    "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47138631",
+    "title": "Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app",
+    "url": "https://shouldhavebought.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47110384",
+    "title": "Cl-kawa: Scheme on Java on Common Lisp",
+    "url": "https://github.com/atgreen/cl-kawa",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47143152",
+    "title": "Mac mini will be made at a new facility in Houston",
+    "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47141797",
+    "title": "Hacking an old Kindle to display bus arrival times",
+    "url": "https://www.mariannefeng.com/portfolio/kindle/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47140322",
+    "title": "Show HN: Emdash – Open-source agentic development environment",
+    "url": "https://github.com/generalaction/emdash",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47136604",
+    "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
+    "url": "https://wordglyph.xyz/one-piece-at-a-time",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47140042",
+    "title": "Nearby Glasses",
+    "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47140657",
+    "title": "Steel Bank Common Lisp",
+    "url": "https://www.sbcl.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47145907",
+    "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+    "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47125287",
+    "title": "Half million 'Words with Spaces' missing from dictionaries",
+    "url": "https://www.linguabase.org/words-with-spaces.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47133716",
+    "title": "Show HN: Scheme-langserver – Digest incomplete code with static analysis",
+    "url": "https://github.com/ufo5260987423/scheme-langserver",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47130997",
+    "title": "Meta problem with URPF our bundle in Boca raton",
+    "url": "https://metafixthis.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T10:42:55.474Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
