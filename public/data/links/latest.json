@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47136179",
-    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+    "id": "hackernews-47144325",
+    "title": "Cell Service for the Fairly Paranoid",
+    "url": "https://www.cape.co/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-25T06:56:52.770Z",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47139675",
-    "title": "I'm helping my dog vibe code games",
-    "url": "https://www.calebleak.com/posts/dog-game/",
+    "id": "hackernews-47136537",
+    "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+    "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-25T06:56:52.769Z",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,14 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47143152",
-    "title": "Mac mini will be made at a new facility in Houston",
-    "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+    "id": "hackernews-47136179",
+    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-25T06:56:52.769Z",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,14 +48,31 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47145907",
-    "title": "Amazon accused of widespread scheme to inflate prices across the economy",
-    "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+    "id": "hackernews-47114678",
+    "title": "We installed a single turnstile to feel secure",
+    "url": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-25T06:56:52.769Z",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47140322",
+    "title": "Show HN: Emdash – Open-source agentic development environment",
+    "url": "https://github.com/generalaction/emdash",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,245 @@
     "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
     "url": "https://wordglyph.xyz/one-piece-at-a-time",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-25T06:56:52.769Z",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47140042",
+    "title": "Nearby Glasses",
+    "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47140657",
+    "title": "Steel Bank Common Lisp",
+    "url": "https://www.sbcl.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47148025",
+    "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
+    "url": "https://github.com/mksglu/claude-context-mode",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47145911",
+    "title": "Corgi Labs (YC W23) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47145963",
+    "title": "Anthropic Drops Flagship Safety Pledge",
+    "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47103668",
+    "title": "3D-Printed electric motor via multi-modal, multi-material extrusion",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47147609",
+    "title": "Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput",
+    "url": "https://arxiv.org/abs/2602.20762",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47139902",
+    "title": "Hugging Face Skills",
+    "url": "https://github.com/huggingface/skills",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47104227",
+    "title": "Aesthetics of single threading",
+    "url": "https://ta.fo/aesthetics-of-single-threading/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47143211",
+    "title": "Looks like it is happening",
+    "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15500",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47137711",
+    "title": "Stripe valued at $159B, 2025 annual letter",
+    "url": "https://stripe.com/newsroom/news/stripe-2025-update",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47147183",
+    "title": "Ask HN: Share your productive usage of OpenClaw",
+    "url": "https://news.ycombinator.com/item?id=47147183",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47093978",
+    "title": "Optophone",
+    "url": "https://en.wikipedia.org/wiki/Optophone",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.212Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47139675",
+    "title": "I'm helping my dog vibe code games",
+    "url": "https://www.calebleak.com/posts/dog-game/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T07:49:59.211Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
