@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-47151233",
+    "title": "Never buy a .online domain",
+    "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47154246",
+    "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
+    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47151598",
+    "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+    "url": "https://app.teamout.com/ai",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47149586",
+    "title": "Show HN: A real-time strategy game that AI agents can play",
+    "url": "https://llmskirmish.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47153941",
+    "title": "Show HN: Sgai – Goal-driven multi-agent software dev (GOAL.md → working code)",
+    "url": "https://github.com/sandgardenhq/sgai",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47153798",
+    "title": "Bus stop balancing is fast, cheap, and effective",
+    "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47155597",
+    "title": "Show HN: I ported Tree-sitter to Go",
+    "url": "https://github.com/odvcencio/gotreesitter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47154971",
+    "title": "om",
+    "url": "https://www.om-language.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47139716",
+    "title": "Large-Scale Online Deanonymization with LLMs",
+    "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47152085",
+    "title": "New accounts on HN 10x more likely to use em-dashes",
+    "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47154009",
+    "title": "Following 35% growth, solar has passed hydro on US grid",
+    "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47152982",
+    "title": "GNU Texmacs",
+    "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47115574",
+    "title": "How to fold the Blade Runner origami unicorn (1996)",
+    "url": "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47111092",
+    "title": "Scipy.stats. Chatterjeexi",
+    "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chatterjeexi.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47154042",
+    "title": "Racket v9.1",
+    "url": "https://blog.racket-lang.org/2026/02/racket-v9-1.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47148454",
+    "title": "Claude Code Remote Control",
+    "url": "https://code.claude.com/docs/en/remote-control",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47102610",
+    "title": "Text-Based Google Directions",
+    "url": "https://gdir.telae.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47151995",
+    "title": "Show HN: Django Control Room – All Your Tools Inside the Django Admin",
+    "url": "https://github.com/yassi/dj-control-room",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47097446",
+    "title": "Topological Naming Problem",
+    "url": "https://wiki.freecad.org/Topological_naming_problem",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47149701",
+    "title": "Danish government agency to ditch Microsoft software (2025)",
+    "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T19:46:51.562Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
