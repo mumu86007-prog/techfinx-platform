@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-47151233",
+    "title": "Never buy a .online domain",
+    "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T23:22:21.107Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47148454",
+    "title": "Claude Code Remote Control",
+    "url": "https://code.claude.com/docs/en/remote-control",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T23:22:21.107Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47152085",
+    "title": "New accounts on HN more likely to use em-dashes",
+    "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T23:22:21.107Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47152252",
+    "title": "US orders diplomats to fight data sovereignty initiatives",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T23:22:21.107Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47149701",
+    "title": "Danish government agency to ditch Microsoft software (2025)",
+    "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T23:22:21.107Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47154009",
+    "title": "Following 35% growth, solar has passed hydro on US grid",
+    "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-25T23:22:21.106Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
