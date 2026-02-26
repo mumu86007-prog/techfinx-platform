@@ -1,10 +1,163 @@
 [
   {
-    "id": "hackernews-47154971",
-    "title": "The Om Programming Language",
-    "url": "https://www.om-language.com/",
+    "id": "hackernews-47158975",
+    "title": "How will OpenAI compete?",
+    "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-26T04:10:00.615Z",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47108861",
+    "title": "The Pleasures and Pains of Coffee (1830)",
+    "url": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47112299",
+    "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
+    "url": "https://simonbergerart.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47157841",
+    "title": "An autopsy of AI-generated 3D slop",
+    "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47151598",
+    "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+    "url": "https://app.teamout.com/ai",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47156925",
+    "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+    "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47160980",
+    "title": "Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub",
+    "url": "https://github.com/Intrect-io/OpenSwarm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47137140",
+    "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+    "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47152982",
+    "title": "GNU Texmacs",
+    "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.517Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47155597",
+    "title": "Show HN: I ported Tree-sitter to Go",
+    "url": "https://github.com/odvcencio/gotreesitter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.517Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +174,109 @@
     "title": "Jimi Hendrix was a systems engineer",
     "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-26T04:10:00.614Z",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47159302",
+    "title": "First Website (1992)",
+    "url": "https://info.cern.ch/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47161160",
+    "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+    "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47157398",
+    "title": "Making MCP cheaper via CLI",
+    "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47154399",
+    "title": "Windows 11 Notepad to support Markdown",
+    "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47161498",
+    "title": "Self-improving software won't produce Skynet",
+    "url": "https://contalign.jefflunt.com/self-improving-software/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47105175",
+    "title": "Gauss's Weekday Algorithm, Visualized",
+    "url": "https://lukasmetzner.github.io/blog/gauss-weekday.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +293,41 @@
     "title": "Bus stop balancing is fast, cheap, and effective",
     "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-26T04:10:00.614Z",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47160526",
+    "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
+    "url": "https://github.com/Zyora-Dev/zse",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47151842",
+    "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
+    "url": "https://respectify.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-26T05:53:17.516Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
