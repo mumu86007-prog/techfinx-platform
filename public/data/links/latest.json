@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47181841",
-    "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
-    "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 9
-  },
-  {
     "id": "hackernews-47178371",
     "title": "Get free Claude max 20x for open-source maintainers",
     "url": "https://claude.com/contact-sales/claude-for-oss",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
+    "publishedAt": "2026-02-27T21:22:44.850Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -32,166 +15,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-47183191",
-    "title": "Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)",
-    "url": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47181316",
-    "title": "We Built Secure, Scalable Agent Sandbox Infrastructure",
-    "url": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-47184744",
-    "title": "The Robotic Dexterity Deadlock",
-    "url": "https://www.origami-robotics.com/blog/dexterity-deadlocks.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47180569",
-    "title": "A better streams API is possible for JavaScript",
-    "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47183725",
-    "title": "Writing a Guide to SDF Fonts",
-    "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47184049",
-    "title": "Let's discuss sandbox isolation",
-    "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-47183578",
     "title": "Dan Simmons, author of Hyperion, has died",
     "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47182487",
-    "title": "Allocating on the Stack",
-    "url": "https://go.dev/blog/allocation-optimizations",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47183907",
-    "title": "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
-    "url": "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47137199",
-    "title": "Modeling cycles of grift with evolutionary game theory",
-    "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
+    "publishedAt": "2026-02-27T21:22:44.850Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +38,7 @@
     "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
     "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
+    "publishedAt": "2026-02-27T21:22:44.850Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -221,11 +51,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47181801",
-    "title": "We gave terabytes of CI logs to an LLM",
-    "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+    "id": "hackernews-47173121",
+    "title": "Statement from Dario Amodei on our discussions with the Department of War",
+    "url": "https://www.anthropic.com/news/statement-department-of-war",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
+    "publishedAt": "2026-02-27T21:22:44.850Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -238,96 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47180083",
-    "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
-    "url": "https://retrotick.com/",
+    "id": "hackernews-47180569",
+    "title": "A better streams API is possible for JavaScript",
+    "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47181471",
-    "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-    "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47181753",
-    "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
-    "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47178863",
-    "title": "F-Droid Board of Directors nominations 2026",
-    "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47135159",
-    "title": "Sprites on the Web",
-    "url": "https://www.joshwcomeau.com/animation/sprites/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47184480",
-    "title": "Rob Grant, creator of Red Dwarf, has died",
-    "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T20:20:46.167Z",
+    "publishedAt": "2026-02-27T21:22:44.849Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
