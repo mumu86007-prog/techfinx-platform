@@ -4,7 +4,7 @@
     "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
     "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
+    "publishedAt": "2026-02-27T11:26:51.960Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47145082",
-    "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
-    "url": "https://www.playlinex.com/",
+    "id": "hackernews-47173121",
+    "title": "Statement from Dario Amodei on our discussions with the Department of War",
+    "url": "https://www.anthropic.com/news/statement-department-of-war",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
+    "publishedAt": "2026-02-27T11:26:51.960Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -31,65 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47172730",
-    "title": "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
-    "url": "https://coderush.me/hydroph0bia-part3/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
+    "score": 6
   },
   {
     "id": "hackernews-47176257",
     "title": "The Hunt for Dark Breakfast",
     "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47177186",
-    "title": "The normalization of corruption in organizations (2003) [pdf]",
-    "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47123633",
-    "title": "Julia: Performance Tips",
-    "url": "https://docs.julialang.org/en/v1/manual/performance-tips/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
+    "publishedAt": "2026-02-27T11:26:51.960Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -103,78 +52,10 @@
   },
   {
     "id": "hackernews-47169757",
-    "title": "What Claude Code Chooses",
+    "title": "What Claude Code chooses",
     "url": "https://amplifying.ai/research/claude-code-picks",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47138698",
-    "title": "80386 Protection",
-    "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47123109",
-    "title": "The Origins of Agar",
-    "url": "https://www.asimov.press/p/agar",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47178176",
-    "title": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
-    "url": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47171233",
-    "title": "What does \" 2>&1 \" mean?",
-    "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
+    "publishedAt": "2026-02-27T11:26:51.960Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +72,7 @@
     "title": "Layoffs at Block",
     "url": "https://twitter.com/jack/status/2027129697092731343",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
+    "publishedAt": "2026-02-27T11:26:51.960Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -204,130 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47176239",
-    "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
-    "url": "https://github.com/Frikallo/parakeet.cpp",
+    "id": "hackernews-47171233",
+    "title": "What does \" 2>&1 \" mean?",
+    "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47149829",
-    "title": "Writing a \"clear room\" Z80 and Spectrum emulator with Claude Code",
-    "url": "https://antirez.com/news/160",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47150674",
-    "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
-    "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47170174",
-    "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-    "url": "https://www.usecardboard.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47170157",
-    "title": "OsmAnd's Faster Offline Navigation (2025)",
-    "url": "https://osmand.net/blog/fast-routing/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47124454",
-    "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
-    "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47126017",
-    "title": "Show HN: As Level Chemistry Lab Simulator",
-    "url": "https://github.com/nsriram/chem_lab",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47124999",
-    "title": "Museum of Plugs and Sockets",
-    "url": "https://plugsocketmuseum.nl/index.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T10:30:21.724Z",
+    "publishedAt": "2026-02-27T11:26:51.960Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
