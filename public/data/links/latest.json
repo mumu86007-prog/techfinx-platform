@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-47167763",
+    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+    "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-47145082",
     "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
     "url": "https://www.playlinex.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.210Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,24 +38,7 @@
     "title": "Nano Banana 2: Google's latest AI image generation model",
     "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.210Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47167763",
-    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-    "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
     "url": "https://coderush.me/hydroph0bia-part3/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,96 +68,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-47141119",
-    "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
-    "url": "https://hackersmacker.org/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.210Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47175281",
-    "title": "Two insider cases we've recently closed",
-    "url": "https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.210Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47169518",
-    "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
-    "url": "https://github.com/flamestro/deff",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.210Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47126286",
-    "title": "Cartographic Symbologies: The Art and Design of Expression in Historic Maps",
-    "url": "https://exhibits.stanford.edu/cartosym/browse",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.210Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47173121",
-    "title": "Statement from Dario Amodei on our discussions with the Department of War",
-    "url": "https://www.anthropic.com/news/statement-department-of-war",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47176257",
-    "title": "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
+    "title": "The Hunt for Dark Breakfast",
     "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,58 +89,7 @@
     "title": "What Claude Code Chooses",
     "url": "https://amplifying.ai/research/claude-code-picks",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47138698",
-    "title": "80386 Protection",
-    "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47171233",
-    "title": "What does \" 2>&1 \" mean?",
-    "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47172119",
-    "title": "Layoffs at Block",
-    "url": "https://twitter.com/jack/status/2027129697092731343",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +106,7 @@
     "title": "Julia: Performance Tips",
     "url": "https://docs.julialang.org/en/v1/manual/performance-tips/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +119,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-47176239",
-    "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
-    "url": "https://github.com/Frikallo/parakeet.cpp",
+    "id": "hackernews-47138698",
+    "title": "80386 Protection",
+    "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47172119",
+    "title": "Layoffs at Block",
+    "url": "https://twitter.com/jack/status/2027129697092731343",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47171233",
+    "title": "What does \" 2>&1 \" mean?",
+    "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +174,7 @@
     "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
     "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47124454",
-    "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
-    "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
+    "id": "hackernews-47176239",
+    "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+    "url": "https://github.com/Frikallo/parakeet.cpp",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47170174",
-    "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-    "url": "https://www.usecardboard.com/",
+    "id": "hackernews-47176581",
+    "title": "Dear Time Lords: Freeze Computers in 1993",
+    "url": "https://graydon2.dreamwidth.org/322461.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +225,109 @@
     "title": "Move tests to closed source repo",
     "url": "https://github.com/tldraw/tldraw/issues/8082",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T06:42:59.209Z",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47170174",
+    "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+    "url": "https://www.usecardboard.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47124454",
+    "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
+    "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47170157",
+    "title": "OsmAnd's Faster Offline Navigation (2025)",
+    "url": "https://osmand.net/blog/fast-routing/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47128645",
+    "title": "I baked a pie every day for a year",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47168726",
+    "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+    "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47175013",
+    "title": "LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity",
+    "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T07:40:52.376Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
