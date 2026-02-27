@@ -4,7 +4,7 @@
     "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
     "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 9
   },
   {
-    "id": "hackernews-47178371",
-    "title": "Get free Claude max 20x for open-source maintainers",
-    "url": "https://claude.com/contact-sales/claude-for-oss",
+    "id": "hackernews-47183191",
+    "title": "Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)",
+    "url": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Don't run OpenClaw on your main machine",
     "url": "https://blog.skypilot.co/openclaw-on-skypilot/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
+    "publishedAt": "2026-02-27T19:28:39.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47180569",
-    "title": "A better streams API is possible for JavaScript",
-    "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+    "id": "hackernews-47178371",
+    "title": "Get free Claude max 20x for open-source maintainers",
+    "url": "https://claude.com/contact-sales/claude-for-oss",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
+    "publishedAt": "2026-02-27T19:28:39.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,201 +65,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47173121",
-    "title": "Statement from Dario Amodei on our discussions with the Department of War",
-    "url": "https://www.anthropic.com/news/statement-department-of-war",
+    "id": "hackernews-47172238",
+    "title": "Show HN: Unfudged – version every change between commits - local-first",
+    "url": "https://www.unfudged.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47182483",
-    "title": "NASA announces major overhaul of Artemis program amid safety concerns, delays",
-    "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47181801",
-    "title": "We gave terabytes of CI logs to an LLM",
-    "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47181391",
-    "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
-    "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47137199",
-    "title": "Modeling Cycles of Grift with Evolutionary Game Theory",
-    "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47180083",
-    "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
-    "url": "https://retrotick.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47182487",
-    "title": "Allocating on the Stack",
-    "url": "https://go.dev/blog/allocation-optimizations",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47178863",
-    "title": "F-Droid Board of Directors nominations 2026",
-    "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47135159",
-    "title": "Sprites on the Web",
-    "url": "https://www.joshwcomeau.com/animation/sprites/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47146487",
-    "title": "Can you reverse engineer our neural network?",
-    "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47181471",
-    "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-    "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47151961",
-    "title": "What was the first life restoration of a sauropod?",
-    "url": "https://svpow.com/2026/02/02/what-was-the-first-life-restoration-of-a-sauropod/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +89,7 @@
     "title": "The Hunt for Dark Breakfast",
     "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47181753",
-    "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
-    "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
+    "id": "hackernews-47151961",
+    "title": "What was the first life restoration of a sauropod?",
+    "url": "https://svpow.com/2026/02/02/what-was-the-first-life-restoration-of-a-sauropod/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +123,24 @@
     "title": "An interactive intro to quadtrees",
     "url": "https://growingswe.com/blog/quadtrees",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47146487",
+    "title": "Can you reverse engineer our neural network?",
+    "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +157,177 @@
     "title": "Breaking Free",
     "url": "https://www.forbrukerradet.no/breakingfree/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T18:32:36.649Z",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47182483",
+    "title": "NASA announces major overhaul of Artemis program amid safety concerns, delays",
+    "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47183660",
+    "title": "Block spent $68M on a single party in September 2025",
+    "url": "https://twitter.com/BullTheoryio/status/2027250361816486085",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47182659",
+    "title": "Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users",
+    "url": "https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47181753",
+    "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
+    "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47183435",
+    "title": "Your Device Identity Is Probably a Liability",
+    "url": "https://smallstep.com/blog/ncsc-zero-trust-device-identity/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.899Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47183578",
+    "title": "Dan Simmons, author of Hyperion, Song of Kali, dead at 77",
+    "url": "https://en.wikipedia.org/wiki/Dan_Simmons",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.898Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47180569",
+    "title": "We deserve a better streams API for JavaScript",
+    "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.898Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47182487",
+    "title": "Allocating on the Stack",
+    "url": "https://go.dev/blog/allocation-optimizations",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.898Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47181801",
+    "title": "We gave terabytes of CI logs to an LLM",
+    "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.898Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47137199",
+    "title": "Modeling Cycles of Grift with Evolutionary Game Theory",
+    "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T19:28:39.898Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
