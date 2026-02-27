@@ -4,7 +4,7 @@
     "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
     "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T13:55:17.478Z",
+    "publishedAt": "2026-02-27T14:35:16.502Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,62 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47171233",
-    "title": "What does \" 2>&1 \" mean?",
-    "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T13:55:17.478Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47172119",
-    "title": "Layoffs at Block",
-    "url": "https://twitter.com/jack/status/2027129697092731343",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T13:55:17.478Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47173121",
-    "title": "Statement from Dario Amodei on our discussions with the Department of War",
-    "url": "https://www.anthropic.com/news/statement-department-of-war",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T13:55:17.477Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47176257",
     "title": "The Hunt for Dark Breakfast",
     "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T13:55:17.477Z",
+    "publishedAt": "2026-02-27T14:35:16.502Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +38,58 @@
     "title": "What Claude Code chooses",
     "url": "https://amplifying.ai/research/claude-code-picks",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-27T13:55:17.477Z",
+    "publishedAt": "2026-02-27T14:35:16.502Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47171233",
+    "title": "What does \" 2>&1 \" mean?",
+    "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T14:35:16.502Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47172119",
+    "title": "Layoffs at Block",
+    "url": "https://twitter.com/jack/status/2027129697092731343",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T14:35:16.502Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47173121",
+    "title": "Statement from Dario Amodei on our discussions with the Department of War",
+    "url": "https://www.anthropic.com/news/statement-department-of-war",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-27T14:35:16.501Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
