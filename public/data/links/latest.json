@@ -1,61 +1,10 @@
 [
   {
-    "id": "hackernews-47194847",
-    "title": "What AI coding costs you",
-    "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47194611",
-    "title": "Don't trust AI agents",
-    "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47195317",
-    "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-    "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47189650",
     "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
     "url": "https://twitter.com/sama/status/2027578652477821175",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
+    "publishedAt": "2026-02-28T16:18:30.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +21,7 @@
     "title": "US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway",
     "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
+    "publishedAt": "2026-02-28T16:18:30.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +38,7 @@
     "title": "OpenAI raises $110B on $730B pre-money valuation",
     "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
+    "publishedAt": "2026-02-28T16:18:30.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +55,7 @@
     "title": "OpenAI – How to delete your account",
     "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
+    "publishedAt": "2026-02-28T16:18:30.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,28 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47194994",
-    "title": "Show HN: Reclaim Flowers – A 2D physics-based \"Digital Altar\" protocol",
-    "url": "https://github.com/voice-of-japan/Virtual-Protest-Protocol/blob/main/README.md",
+    "id": "hackernews-47181208",
+    "title": "A new California law says all operating systems need to have age verification",
+    "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47195371",
-    "title": "Addressing Antigravity Bans and Reinstating Access",
-    "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
+    "publishedAt": "2026-02-28T16:18:30.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,62 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47155526",
-    "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-    "url": "https://github.com/ad-si/Woxi",
+    "id": "hackernews-47189535",
+    "title": "Croatia declared free of landmines after 31 years",
+    "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47195530",
-    "title": "Show HN: Decided to play god this morning, so I built an agent civilisation",
-    "url": "https://github.com/nocodemf/werld",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47195123",
-    "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-    "url": "https://nowigetit.us/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47195093",
-    "title": "Customer Update on Simplenote",
-    "url": "https://forums.simplenote.com/forums/topic/customer-update-on-simplenote/?view=all",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
+    "publishedAt": "2026-02-28T16:18:30.031Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,109 +106,7 @@
     "title": "We Will Not Be Divided",
     "url": "https://notdivided.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47192505",
-    "title": "Unsloth Dynamic 2.0 GGUFs",
-    "url": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47195157",
-    "title": "The Life Cycle of Money",
-    "url": "https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47147597",
-    "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
-    "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47195210",
-    "title": "Everything Changes, and Nothing Changes",
-    "url": "https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47193832",
-    "title": "Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash",
-    "url": "https://github.com/junevm/splathash",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47152967",
-    "title": "More Cows, More Wives",
-    "url": "https://www.worksinprogress.news/p/more-cows-more-wives",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T15:15:33.597Z",
+    "publishedAt": "2026-02-28T16:18:30.030Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
