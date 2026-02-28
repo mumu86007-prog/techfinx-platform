@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47144835",
-    "title": "How Long Is the Coast of Britain? (1967)",
-    "url": "https://www.jstor.org/stable/1721427",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47193476",
     "title": "The Future of AI",
     "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47195317",
-    "title": "OpenAI fires an employee for prediction market insider trading",
-    "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+    "id": "hackernews-47200420",
+    "title": "\"We do not think Anthropic should be designated as a supply chain risk\"",
+    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
     "url": "https://twitter.com/sama/status/2027578652477821175",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,62 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47197267",
-    "title": "Obsidian Sync now has a headless client",
-    "url": "https://help.obsidian.md/sync/headless",
+    "id": "hackernews-47200828",
+    "title": "Building a Minimal Transformer for 10-digit Addition",
+    "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47161759",
-    "title": "The happiest I've ever been",
-    "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47197595",
-    "title": "Verified Spec-Driven Development (VSDD)",
-    "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47195371",
-    "title": "Addressing Antigravity Bans and Reinstating Access",
-    "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +72,58 @@
     "title": "Block the \"Upgrade to Tahoe\" Alerts",
     "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47195371",
+    "title": "Addressing Antigravity Bans and Reinstating Access",
+    "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47197595",
+    "title": "Verified Spec-Driven Development (VSDD)",
+    "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47199781",
+    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+    "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +140,7 @@
     "title": "Werner Herzog Between Fact and Fiction",
     "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +157,7 @@
     "title": "New evidence that Cantor plagiarized Dedekind?",
     "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +174,7 @@
     "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
     "url": "https://github.com/ad-si/Woxi",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +191,7 @@
     "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
     "url": "https://nowigetit.us/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +208,7 @@
     "title": "The whole thing was a scam",
     "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +225,7 @@
     "title": "747s and Coding Agents",
     "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +238,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47155235",
-    "title": "Ghosts'n Goblins – “Worse danger is ahead”",
-    "url": "https://superchartisland.com/ghostsn-goblins/",
+    "id": "hackernews-47152835",
+    "title": "The archivist preserving decaying floppy disks",
+    "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +259,24 @@
     "title": "We Will Not Be Divided",
     "url": "https://notdivided.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47155235",
+    "title": "Ghosts'n Goblins – “Worse danger is ahead”",
+    "url": "https://superchartisland.com/ghostsn-goblins/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,24 +293,7 @@
     "title": "Our Agreement with the Department of War",
     "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47170847",
-    "title": "'Play like a dog biting God's feet': Steven Isserlis on György Kurtág at 100",
-    "url": "https://www.theguardian.com/music/2026/feb/26/steven-isserlis-on-the-formidable-gyorgy-kurtag-at-100",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +310,24 @@
     "title": "From Noise to Image – interactive guide to diffusion",
     "url": "https://lighthousesoftware.co.uk/projects/from-noise-to-image/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-02-28T22:16:11.553Z",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47150352",
+    "title": "What I learned while trying to build a production-ready nearest neighbor system",
+    "url": "https://github.com/thatipamula-jashwanth/smart-knn",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T23:15:42.324Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
