@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-47144835",
+    "title": "How Long Is the Coast of Britain? (1967)",
+    "url": "https://www.jstor.org/stable/1721427",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47193476",
+    "title": "The Future of AI",
+    "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47195317",
+    "title": "OpenAI fires an employee for prediction market insider trading",
+    "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47189650",
+    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+    "url": "https://twitter.com/sama/status/2027578652477821175",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47194611",
+    "title": "Don't trust AI agents",
+    "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47161759",
+    "title": "The happiest I've ever been",
+    "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47197595",
+    "title": "Verified Spec-Driven Development (VSDD)",
+    "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47195371",
+    "title": "Addressing Antigravity Bans and Reinstating Access",
+    "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47178051",
+    "title": "Werner Herzog Between Fact and Fiction",
+    "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47154637",
+    "title": "New evidence that Cantor plagiarized Dedekind?",
+    "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47155526",
+    "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+    "url": "https://github.com/ad-si/Woxi",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47195123",
+    "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+    "url": "https://nowigetit.us/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47197505",
+    "title": "The whole thing was a scam",
+    "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47182986",
+    "title": "747s and Coding Agents",
+    "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47155235",
+    "title": "Ghosts'n Goblins – “Worse danger is ahead”",
+    "url": "https://superchartisland.com/ghostsn-goblins/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47188473",
+    "title": "We Will Not Be Divided",
+    "url": "https://notdivided.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47170847",
+    "title": "'Play like a dog biting God's feet': Steven Isserlis on György Kurtág at 100",
+    "url": "https://www.theguardian.com/music/2026/feb/26/steven-isserlis-on-the-formidable-gyorgy-kurtag-at-100",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47163167",
+    "title": "From Noise to Image – interactive guide to diffusion",
+    "url": "https://lighthousesoftware.co.uk/projects/from-noise-to-image/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47192505",
+    "title": "Unsloth Dynamic 2.0 GGUFs",
+    "url": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47147597",
+    "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+    "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-02-28T21:14:24.888Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
