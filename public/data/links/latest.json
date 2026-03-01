@@ -4,7 +4,7 @@
     "title": "We do not think Anthropic should be designated as a supply chain risk",
     "url": "https://twitter.com/OpenAI/status/2027846016423321831",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "publishedAt": "2026-03-01T08:22:54.789Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,28 @@
     "score": 8
   },
   {
-    "id": "hackernews-47202708",
-    "title": "Microgpt",
-    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "id": "hackernews-47152448",
+    "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
+    "url": "https://www.nature.com/articles/s41586-026-10114-5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "publishedAt": "2026-03-01T08:22:54.789Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47157265",
+    "title": "SpacetimeDB ThreeJS Support",
+    "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,28 +51,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47197267",
-    "title": "Obsidian Sync now has a headless client",
-    "url": "https://help.obsidian.md/sync/headless",
+    "id": "hackernews-47199948",
+    "title": "Our Agreement with the Department of War",
+    "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T07:28:02.274Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47193064",
-    "title": "MCP server that reduces Claude Code context consumption by 98%",
-    "url": "https://mksg.lu/blog/context-mode",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,75 @@
     "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
     "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47154637",
+    "title": "New evidence that Cantor plagiarized Dedekind?",
+    "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47178051",
+    "title": "Werner Herzog Between Fact and Fiction",
+    "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47202864",
+    "title": "The Science of Detecting LLM-Generated Text",
+    "url": "https://dl.acm.org/doi/10.1145/3624725",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47200828",
+    "title": "Building a Minimal Transformer for 10-digit Addition",
+    "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +157,177 @@
     "title": "The whole thing was a scam",
     "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47158834",
+    "title": "Deterministic Programming with LLMs",
+    "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47202808",
+    "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
+    "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47152835",
+    "title": "The archivist preserving decaying floppy disks",
+    "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47182986",
+    "title": "747s and Coding Agents",
+    "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47147597",
+    "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+    "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.790Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47202708",
+    "title": "Microgpt",
+    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.789Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47200904",
+    "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+    "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.789Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47161759",
+    "title": "The happiest I've ever been",
+    "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.789Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47197267",
+    "title": "Obsidian Sync now has a headless client",
+    "url": "https://help.obsidian.md/sync/headless",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.789Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47163779",
+    "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
+    "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T08:22:54.789Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
