@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-47200420",
+    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47202708",
+    "title": "Microgpt",
+    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47197267",
+    "title": "Obsidian Sync now has a headless client",
+    "url": "https://help.obsidian.md/sync/headless",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47193064",
+    "title": "MCP server that reduces Claude Code context consumption by 98%",
+    "url": "https://mksg.lu/blog/context-mode",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47199781",
+    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+    "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47197505",
+    "title": "The whole thing was a scam",
+    "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T07:28:02.274Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
