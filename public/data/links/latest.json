@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-47205890",
+    "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+    "url": "https://99helpers.com/tools/ad-supported-chat",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47200420",
+    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47151367",
+    "title": "Python Type Checker Comparison: Empty Container Inference",
+    "url": "https://pyrefly.org/blog/container-inference-comparison/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47204559",
+    "title": "10-202: Introduction to Modern AI (CMU)",
+    "url": "https://modernaicourse.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47164336",
+    "title": "Pigeons and Planes Has a Website Again",
+    "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47208423",
+    "title": "I Built a Scheme Compiler with AI in 4 Days",
+    "url": "https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47207404",
+    "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47202708",
+    "title": "Microgpt",
+    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47207236",
+    "title": "Why XML Tags Are So Fundamental to Claude",
+    "url": "https://glthr.com/XML-fundamental-to-Claude",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47204964",
+    "title": "Decision trees – the unreasonable power of nested decision rules",
+    "url": "https://mlu-explain.github.io/decision-tree/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47205637",
+    "title": "Flightradar24 for Ships",
+    "url": "https://atlas.flexport.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47168405",
+    "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
+    "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47207531",
+    "title": "Lil' Fun Langs' Guts",
+    "url": "https://taylor.town/scrapscript-001",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47207806",
+    "title": "Show HN: Audio Toolkit for Agents",
+    "url": "https://github.com/shiehn/sas-audio-processor",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47165230",
+    "title": "The real cost of random I/O",
+    "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47204571",
+    "title": "Switch to Claude without starting over",
+    "url": "https://claude.com/import-memory",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47178758",
+    "title": "Aromatic 5-silicon rings synthesized at last",
+    "url": "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47205129",
+    "title": "Why is the first C++ (m)allocation always 72 KB?",
+    "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47197267",
+    "title": "Obsidian Sync now has a headless client",
+    "url": "https://help.obsidian.md/sync/headless",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47181542",
+    "title": "An ode to houseplant programming (2025)",
+    "url": "https://hannahilea.com/blog/houseplant-programming/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T19:17:36.514Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
