@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-47211249",
+    "title": "WebMCP is available for early preview",
+    "url": "https://developer.chrome.com/blog/webmcp-epp",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-47205208",
     "title": "Microgpt explained interactively",
     "url": "https://growingswe.com/blog/microgpt",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "Python Type Checker Comparison: Empty Container Inference",
     "url": "https://pyrefly.org/blog/container-inference-comparison/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "10-202: Introduction to Modern AI (CMU)",
     "url": "https://modernaicourse.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
     "url": "https://99helpers.com/tools/ad-supported-chat",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +85,45 @@
     "score": 8
   },
   {
+    "id": "hackernews-47211040",
+    "title": "Working with memories can reduce fear of failure",
+    "url": "https://medicalxpress.com/news/2026-02-memories-failure.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47211081",
+    "title": "South Korean Police Lose Seized Crypto by Posting Password Online",
+    "url": "https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7.5
+  },
+  {
     "id": "hackernews-47207404",
     "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
     "url": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,11 +136,45 @@
     "score": 7
   },
   {
+    "id": "hackernews-47210903",
+    "title": "Are the Mysteries of Quantum Mechanics Beginning to Dissolve?",
+    "url": "https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47211112",
+    "title": "Big Breakfast Alters Appetite, Gut Health",
+    "url": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-47206009",
     "title": "Ghostty – Terminal Emulator",
     "url": "https://ghostty.org/docs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,28 +187,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47209788",
-    "title": "Why does C have the best file API",
-    "url": "https://maurycyz.com/misc/c_files/",
+    "id": "hackernews-47182284",
+    "title": "Tove Jansson's criticized illustrations of The Hobbit",
+    "url": "https://tovejansson.com/hobbit-tolkien/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47202708",
-    "title": "Microgpt",
-    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +208,7 @@
     "title": "When does MCP make sense vs CLI?",
     "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +221,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-47180140",
-    "title": "Chorba: A novel CRC32 implementation (2024)",
-    "url": "https://arxiv.org/abs/2412.16398",
+    "id": "hackernews-47209788",
+    "title": "Why does C have the best file API",
+    "url": "https://maurycyz.com/misc/c_files/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47211145",
+    "title": "Waymo blocking ambulance during deadly Austin shooting",
+    "url": "https://www.mysanantonio.com/news/austin/article/waymo-austin-shooting-21948947.php",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,24 +259,7 @@
     "title": "Long Range E-Bike (2021)",
     "url": "https://jacquesmattheij.com/long-range-ebike/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47209781",
-    "title": "Operational issue – Multiple services (UAE)",
-    "url": "https://health.aws.amazon.com/health/status",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,41 +276,7 @@
     "title": "Decision trees – the unreasonable power of nested decision rules",
     "url": "https://mlu-explain.github.io/decision-tree/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47210572",
-    "title": "How the Government Deceived Congress in the Debate over Surveillance Powers (2013)",
-    "url": "https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47207236",
-    "title": "Why XML tags are so fundamental to Claude",
-    "url": "https://glthr.com/XML-fundamental-to-Claude",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +293,7 @@
     "title": "Setting up phones is a nightmare",
     "url": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +306,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47205637",
-    "title": "Flightradar24 for Ships",
-    "url": "https://atlas.flexport.com/",
+    "id": "hackernews-47180140",
+    "title": "Chorba: A novel CRC32 implementation (2024)",
+    "url": "https://arxiv.org/abs/2412.16398",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,45 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47168405",
-    "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
-    "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
+    "id": "hackernews-47209781",
+    "title": "Operational issue – Multiple services (UAE)",
+    "url": "https://health.aws.amazon.com/health/status",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47177700",
-    "title": "Gzpeek: Tool to Parse Gzip Metadata",
-    "url": "https://evanhahn.com/introducing-gzpeek/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47207531",
-    "title": "Lil' Fun Langs' Guts",
-    "url": "https://taylor.town/scrapscript-001",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-01T22:16:34.415Z",
+    "publishedAt": "2026-03-01T23:16:47.649Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
