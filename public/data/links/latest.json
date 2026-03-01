@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "id": "hackernews-47200420",
+    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T21:16:18.148Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47205890",
+    "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+    "url": "https://99helpers.com/tools/ad-supported-chat",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T21:16:18.148Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47197267",
+    "title": "Obsidian Sync now has a headless client",
+    "url": "https://help.obsidian.md/sync/headless",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T21:16:18.148Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47206009",
+    "title": "Ghostty – Terminal Emulator",
+    "url": "https://ghostty.org/docs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T21:16:18.147Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47202708",
+    "title": "Microgpt",
+    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T21:16:18.147Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47204964",
+    "title": "Decision trees – the unreasonable power of nested decision rules",
+    "url": "https://mlu-explain.github.io/decision-tree/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-01T21:16:18.147Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
