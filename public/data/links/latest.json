@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "id": "hackernews-47214645",
+    "title": "Motorola announces a partnership with GrapheneOS Foundation",
+    "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-02T20:28:15.723Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47215489",
+    "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+    "url": "https://e.foundation/e-os/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-02T20:28:15.723Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47214864",
+    "title": "How to talk to anyone and why you should",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-02T20:28:15.723Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47216047",
+    "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+    "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-02T20:28:15.723Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47218288",
+    "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+    "url": "https://github.com/anthropics/claude-code/issues/22543",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-02T20:28:15.723Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
