@@ -4,7 +4,7 @@
     "title": "If AI writes code, should the session be part of the commit?",
     "url": "https://github.com/mandel-macaque/memento",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
     "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47216541",
+    "title": "Libxml2 Enterprise Edition (AGPL, from the previous maintainer)",
+    "url": "https://codeberg.org/nwellnhof/libxml2-ee",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "WebMCP is available for early preview",
     "url": "https://developer.chrome.com/blog/webmcp-epp",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +68,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47214250",
-    "title": "Evolving descriptive text of mental content from human brain activity",
-    "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+    "id": "hackernews-47167960",
+    "title": "Squidcasa/midipipe: ALSA Sequencer to plain text and back",
+    "url": "https://codeberg.org/squidcasa/midipipe",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,7 @@
     "title": "An interactive intro to Elliptic Curve Cryptography",
     "url": "https://growingswe.com/blog/elliptic-curve-cryptography",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -85,62 +102,11 @@
     "score": 7.5
   },
   {
-    "id": "hackernews-47214645",
-    "title": "Motorola announces a partnership with GrapheneOS Foundation",
-    "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47215489",
-    "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
-    "url": "https://e.foundation/e-os/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47217491",
-    "title": "Microslop Manifesto",
-    "url": "http://microslop.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47215565",
     "title": "U.S. science agency moves to restrict foreign scientists from its labs",
     "url": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +123,7 @@
     "title": "How to talk to anyone and why you should",
     "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +140,7 @@
     "title": "Making Video Games in 2025 (without an engine)",
     "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +157,7 @@
     "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
     "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +174,7 @@
     "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
     "url": "https://github.com/getomnico/omni",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +191,24 @@
     "title": "Jolla phone – a full-stack European alternative",
     "url": "https://commerce.jolla.com/products/jolla-phone-sept-26",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47208573",
+    "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
+    "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +225,7 @@
     "title": "Go-Native Durable Execution",
     "url": "https://www.dbos.dev/blog/how-we-built-golang-native-durable-execution",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +242,7 @@
     "title": "Neocaml – Rubocop Creator's New OCaml Mode for Emacs",
     "url": "https://github.com/bbatsov/neocaml",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +259,24 @@
     "title": "Computer-generated dream world: Virtual reality for a 286 processor",
     "url": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47216773",
+    "title": "Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs",
+    "url": "https://webaudio.studio/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +293,7 @@
     "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
     "url": "https://github.com/AlexsJones/llmfit",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +310,7 @@
     "title": "How to record and retrieve anything you've ever had to look up twice",
     "url": "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47212576",
-    "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
-    "url": "https://github.com/kossisoroyce/timber",
+    "id": "hackernews-47206009",
+    "title": "Ghostty – Terminal Emulator",
+    "url": "https://ghostty.org/docs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-02T13:55:47.698Z",
+    "publishedAt": "2026-03-02T14:38:49.057Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
