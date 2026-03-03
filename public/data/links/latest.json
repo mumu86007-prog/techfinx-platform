@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-47225130",
-    "title": "Meta’s AI smart glasses and data privacy concerns",
-    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47226608",
-    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-    "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47218743",
     "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
     "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
+    "publishedAt": "2026-03-03T13:54:42.579Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +21,7 @@
     "title": "New iPad Air, powered by M4",
     "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
+    "publishedAt": "2026-03-03T13:54:42.579Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47229344",
-    "title": "Arm's Cortex X925: Reaching Desktop Performance",
-    "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+    "id": "hackernews-47225130",
+    "title": "Meta’s AI smart glasses and data privacy concerns",
+    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
+    "publishedAt": "2026-03-03T13:54:42.578Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -82,14 +48,14 @@
       "开发者",
       "社区"
     ],
-    "score": 7
+    "score": 8
   },
   {
-    "id": "hackernews-47220320",
-    "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
-    "url": "https://news.ycombinator.com/item?id=47220320",
+    "id": "hackernews-47226608",
+    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+    "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
+    "publishedAt": "2026-03-03T13:54:42.578Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -99,14 +65,48 @@
       "开发者",
       "社区"
     ],
-    "score": 7
+    "score": 8
   },
   {
-    "id": "hackernews-47230663",
-    "title": "The beauty and terror of modding Windows",
-    "url": "https://windowsread.me/p/windhawk-explained",
+    "id": "hackernews-47224295",
+    "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+    "url": "https://www.ntik.me/posts/voice-agent",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
+    "publishedAt": "2026-03-03T13:54:42.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47214645",
+    "title": "Motorola announces a partnership with GrapheneOS",
+    "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-03T13:54:42.579Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47218084",
+    "title": "iPhone 17e",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-03T13:54:42.579Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +123,7 @@
     "title": "The Xkcd thing, now interactive",
     "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
+    "publishedAt": "2026-03-03T13:54:42.578Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,194 +140,7 @@
     "title": "British Columbia is permanently adopting daylight time",
     "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47203827",
-    "title": "We Built a Video Rendering Engine by Lying to the Browser About What Time It Is",
-    "url": "https://blog.replit.com/browsers-dont-want-to-be-cameras",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47201132",
-    "title": "Simple screw counter",
-    "url": "https://mitxela.com/projects/screwcounter",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47217224",
-    "title": "C64: Putting Sprite Multiplexing to Work",
-    "url": "https://bumbershootsoft.wordpress.com/2026/02/28/c64-putting-sprite-multiplexing-to-work/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47224295",
-    "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-    "url": "https://www.ntik.me/posts/voice-agent",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47229953",
-    "title": "Privacy-preserving age and identity verification via anonymous credentials",
-    "url": "https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47196864",
-    "title": "DOS Memory Management",
-    "url": "https://www.os2museum.com/wp/dos-memory-management/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47225726",
-    "title": "Physicists developing a quantum computer that’s entirely open source",
-    "url": "https://physics.aps.org/articles/v19/24",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47229119",
-    "title": "I built a pint-sized Macintosh",
-    "url": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47228639",
-    "title": "Buckle Up for Bumpier Skies",
-    "url": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47204784",
-    "title": "Guilty Displeasures",
-    "url": "https://www.hopefulmons.com/p/what-are-your-guilty-displeasures",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47210162",
-    "title": "Guido van Rossum Interviews Thomas Wouters (Python Core Dev)",
-    "url": "https://gvanrossum.github.io/interviews/Thomas.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T12:39:37.716Z",
+    "publishedAt": "2026-03-03T13:54:42.578Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
