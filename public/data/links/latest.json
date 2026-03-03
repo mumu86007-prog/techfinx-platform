@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47225130",
-    "title": "Meta’s AI smart glasses and data privacy concerns",
-    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T19:35:12.843Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47232502",
     "title": "MacBook Air with M5",
     "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T19:35:12.842Z",
+    "publishedAt": "2026-03-03T20:25:47.370Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47232158",
-    "title": "I'm losing the SEO battle for my own open source project",
-    "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
+    "id": "hackernews-47225130",
+    "title": "Meta’s AI smart glasses and data privacy concerns",
+    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T19:35:12.843Z",
+    "publishedAt": "2026-03-03T20:25:47.370Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -48,31 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47232768",
-    "title": "I'm reluctant to verify my identity or age for any online services",
-    "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T19:35:12.842Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 8
   },
   {
     "id": "hackernews-47232453",
     "title": "MacBook Pro with new M5 Pro and M5 Max",
     "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T19:35:12.842Z",
+    "publishedAt": "2026-03-03T20:25:47.370Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +55,7 @@
     "title": "Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]",
     "url": "https://www.youtube.com/watch?v=B3m3AMRlYfc",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T19:35:12.842Z",
+    "publishedAt": "2026-03-03T20:25:47.370Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +72,7 @@
     "title": "Claude's Cycles [pdf]",
     "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T19:35:12.842Z",
+    "publishedAt": "2026-03-03T20:25:47.370Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +89,41 @@
     "title": "The Xkcd thing, now interactive",
     "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-03T19:35:12.842Z",
+    "publishedAt": "2026-03-03T20:25:47.370Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47232158",
+    "title": "I'm losing the SEO battle for my own open source project",
+    "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-03T20:25:47.370Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47232768",
+    "title": "I'm reluctant to verify my identity or age for any online services",
+    "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-03T20:25:47.369Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
