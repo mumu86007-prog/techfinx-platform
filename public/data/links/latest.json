@@ -4,7 +4,7 @@
     "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
     "url": "https://roboflow.com/careers",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,45 +17,11 @@
     "score": 9
   },
   {
-    "id": "hackernews-47252838",
-    "title": "Father claims Google's AI product fuelled son's delusional spiral",
-    "url": "https://www.bbc.com/news/articles/czx44p99457o",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47252049",
-    "title": "An interactive map of FLock Cams",
-    "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47247645",
     "title": "MacBook Neo",
     "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,41 +38,7 @@
     "title": "Building a New Flash",
     "url": "https://bill.newgrounds.com/news/post/1607118",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47253364",
-    "title": "Does that use a lot of energy?",
-    "url": "https://hannahritchie.github.io/energy-use-comparisons/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47246110",
-    "title": "Nobody Gets Promoted for Simplicity",
-    "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +55,7 @@
     "title": "Something is afoot in the land of Qwen",
     "url": "https://simonwillison.net/2026/Mar/4/qwen/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +68,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-47251259",
-    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
-    "url": "https://qlabs.sh/slowrun",
+    "id": "hackernews-47253364",
+    "title": "Does that use a lot of energy?",
+    "url": "https://hannahritchie.github.io/energy-use-comparisons/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47254322",
+    "title": "It is sweet and fitting to die for one's country (1921)",
+    "url": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47253892",
+    "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+    "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +123,7 @@
     "title": "Moss is a pixel canvas where every brush is a tiny program",
     "url": "https://www.moss.town/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47251987",
-    "title": "Data Has Weight but Only on SSDs",
-    "url": "https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/",
+    "id": "hackernews-47252049",
+    "title": "An interactive map of FLock Cams",
+    "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -187,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47208688",
-    "title": "The Rust Calling Convention We Deserve",
-    "url": "https://mcyoung.xyz/2024/04/17/calling-convention/",
+    "id": "hackernews-47251259",
+    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+    "url": "https://qlabs.sh/slowrun",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +174,24 @@
     "title": "Humans 40k yrs ago developed a system of conventional signs",
     "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47251987",
+    "title": "Data Has Weight but Only on SSDs",
+    "url": "https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +208,24 @@
     "title": "The View from RSS",
     "url": "https://www.carolinecrampton.com/the-view-from-rss/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47208688",
+    "title": "The Rust Calling Convention We Deserve",
+    "url": "https://mcyoung.xyz/2024/04/17/calling-convention/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +242,7 @@
     "title": "“It turns out” (2010)",
     "url": "https://jsomers.net/blog/it-turns-out",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,24 +259,7 @@
     "title": "Was Windows 1.0's lack of overlapping windows a legal or a technical matter?",
     "url": "https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47251480",
-    "title": "Making Firefox's right-click not suck with about:config",
-    "url": "https://joshua.hu/firefox-making-right-click-not-suck",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +276,7 @@
     "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
     "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +293,24 @@
     "title": "Glaze by Raycast",
     "url": "https://www.glazeapp.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47251480",
+    "title": "Making Firefox's right-click not suck with about:config",
+    "url": "https://joshua.hu/firefox-making-right-click-not-suck",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +327,7 @@
     "title": "Raspberry Pi Pico as AM Radio Transmitter",
     "url": "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T22:24:14.531Z",
+    "publishedAt": "2026-03-04T23:23:49.202Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
