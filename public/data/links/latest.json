@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47246110",
-    "title": "Nobody Gets Promoted for Simplicity",
-    "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+    "id": "hackernews-47241551",
+    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+    "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T15:33:46.237Z",
+    "publishedAt": "2026-03-04T16:35:25.615Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47241551",
-    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-    "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+    "id": "hackernews-47247645",
+    "title": "Apple Introduces MacBook Neo",
+    "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T15:33:46.237Z",
+    "publishedAt": "2026-03-04T16:35:25.615Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Agentic Engineering Patterns",
     "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T15:33:46.237Z",
+    "publishedAt": "2026-03-04T16:35:25.615Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,24 @@
     "title": "Claude's Cycles [pdf]",
     "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T15:33:46.237Z",
+    "publishedAt": "2026-03-04T16:35:25.615Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47246110",
+    "title": "Nobody Gets Promoted for Simplicity",
+    "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T16:35:25.612Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
