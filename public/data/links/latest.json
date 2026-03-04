@@ -1,10 +1,10 @@
 [
   {
-    "id": "hackernews-47246110",
-    "title": "Nobody Gets Promoted for Simplicity",
-    "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+    "id": "hackernews-47249343",
+    "title": "Something is afoot in the land of Qwen",
+    "url": "https://simonwillison.net/2026/Mar/4/qwen/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T18:38:03.329Z",
+    "publishedAt": "2026-03-04T19:33:43.774Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47241551",
-    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-    "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+    "id": "hackernews-47246110",
+    "title": "Nobody Gets Promoted for Simplicity",
+    "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T18:38:03.329Z",
+    "publishedAt": "2026-03-04T19:33:43.774Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Agentic Engineering Patterns",
     "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T18:38:03.329Z",
+    "publishedAt": "2026-03-04T19:33:43.774Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,24 @@
     "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
     "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T18:38:03.329Z",
+    "publishedAt": "2026-03-04T19:33:43.774Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47241551",
+    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+    "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T19:33:43.774Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -69,10 +86,10 @@
   },
   {
     "id": "hackernews-47247645",
-    "title": "Apple Introduces MacBook Neo",
+    "title": "MacBook Neo",
     "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T18:38:03.328Z",
+    "publishedAt": "2026-03-04T19:33:43.773Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
