@@ -1,10 +1,78 @@
 [
   {
+    "id": "hackernews-47251163",
+    "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+    "url": "https://roboflow.com/careers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 9
+  },
+  {
+    "id": "hackernews-47246044",
+    "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
+    "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47247645",
+    "title": "Apple Introduces MacBook Neo",
+    "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47251480",
+    "title": "Making Firefox's right-click not suck with about:config",
+    "url": "https://joshua.hu/firefox-making-right-click-not-suck",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-47249343",
     "title": "Something is afoot in the land of Qwen",
     "url": "https://simonwillison.net/2026/Mar/4/qwen/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T19:33:43.774Z",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +89,194 @@
     "title": "Nobody Gets Promoted for Simplicity",
     "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T19:33:43.774Z",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47251259",
+    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+    "url": "https://qlabs.sh/slowrun",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47245491",
+    "title": "Moss is a pixel canvas where every brush is a tiny program",
+    "url": "https://www.moss.town/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47251987",
+    "title": "Data Has Weight but Only on SSDs",
+    "url": "https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47250985",
+    "title": "Who Writes the Bugs? A Deeper Look at 125,000 Kernel Vulnerabilities",
+    "url": "https://pebblebed.com/blog/kernel-bugs-part2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47248319",
+    "title": "“It turns out” (2010)",
+    "url": "https://jsomers.net/blog/it-turns-out",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47251787",
+    "title": "Faster C software with Dynamic Feature Detection",
+    "url": "https://gist.github.com/jjl/d998164191af59a594500687a679b98d",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47202210",
+    "title": "Raspberry Pi Pico as AM Radio Transmitter",
+    "url": "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47247033",
+    "title": "Glaze by Raycast",
+    "url": "https://www.glazeapp.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47246296",
+    "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+    "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47204994",
+    "title": "Libre Solar – Open Hardware for Renewable Energy",
+    "url": "https://libre.solar/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47246858",
+    "title": "MyFirst Kids Watch Hacked. Access to Camera and Microphone",
+    "url": "https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +293,24 @@
     "title": "Agentic Engineering Patterns",
     "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T19:33:43.774Z",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47251332",
+    "title": "The Space Race's Forgotten Theme Park",
+    "url": "https://daily.jstor.org/the-space-races-forgotten-theme-park/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,41 +327,7 @@
     "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
     "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T19:33:43.774Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47241551",
-    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-    "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T19:33:43.774Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47247645",
-    "title": "MacBook Neo",
-    "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-04T19:33:43.773Z",
+    "publishedAt": "2026-03-04T20:25:23.429Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
