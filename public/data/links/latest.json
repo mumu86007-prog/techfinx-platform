@@ -4,7 +4,7 @@
     "title": "Relicensing with AI-Assisted Rewrite",
     "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T19:13:19.724Z",
+    "publishedAt": "2026-03-05T20:30:56.153Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
     "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T19:13:19.724Z",
+    "publishedAt": "2026-03-05T20:30:56.153Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,28 +34,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-47263323",
-    "title": "Wikipedia in read-only mode following mass admin account compromise",
-    "url": "https://www.wikimediastatus.net/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T19:13:19.724Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47255881",
     "title": "Google Workspace CLI",
     "url": "https://github.com/googleworkspace/cli",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T19:13:19.724Z",
+    "publishedAt": "2026-03-05T20:30:56.153Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +55,24 @@
     "title": "Building a new Flash",
     "url": "https://bill.newgrounds.com/news/post/1607118",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T19:13:19.724Z",
+    "publishedAt": "2026-03-05T20:30:56.153Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47263323",
+    "title": "Wikipedia in read-only mode following mass admin account compromise",
+    "url": "https://www.wikimediastatus.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T20:30:56.152Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
