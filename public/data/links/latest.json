@@ -4,7 +4,7 @@
     "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
     "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T10:31:56.963Z",
+    "publishedAt": "2026-03-05T11:28:27.248Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,28 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47253177",
-    "title": "Building a new Flash",
-    "url": "https://bill.newgrounds.com/news/post/1607118",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T10:31:56.963Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47249343",
     "title": "Something is afoot in the land of Qwen",
     "url": "https://simonwillison.net/2026/Mar/4/qwen/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T10:31:56.963Z",
+    "publishedAt": "2026-03-05T11:28:27.248Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,41 @@
     "title": "MacBook Neo",
     "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T10:31:56.963Z",
+    "publishedAt": "2026-03-05T11:28:27.248Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47248319",
+    "title": "“It turns out” (2010)",
+    "url": "https://jsomers.net/blog/it-turns-out",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T11:28:27.248Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47246296",
+    "title": "Qwen3.5 Fine-Tuning Guide",
+    "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T11:28:27.248Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,24 @@
     "title": "Google Workspace CLI",
     "url": "https://github.com/googleworkspace/cli",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T10:31:56.962Z",
+    "publishedAt": "2026-03-05T11:28:27.247Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47253177",
+    "title": "Building a new Flash",
+    "url": "https://bill.newgrounds.com/news/post/1607118",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T11:28:27.247Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
