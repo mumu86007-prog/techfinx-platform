@@ -4,7 +4,7 @@
     "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
     "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T12:42:45.083Z",
+    "publishedAt": "2026-03-05T13:57:45.927Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "Google Workspace CLI",
     "url": "https://github.com/googleworkspace/cli",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T12:42:45.083Z",
+    "publishedAt": "2026-03-05T13:57:45.927Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47257394",
+    "title": "The L in \"LLM\" Stands for Lying",
+    "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T13:57:45.927Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "Building a new Flash",
     "url": "https://bill.newgrounds.com/news/post/1607118",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T12:42:45.083Z",
+    "publishedAt": "2026-03-05T13:57:45.927Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Something is afoot in the land of Qwen",
     "url": "https://simonwillison.net/2026/Mar/4/qwen/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T12:42:45.083Z",
+    "publishedAt": "2026-03-05T13:57:45.927Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,24 +89,7 @@
     "title": "MacBook Neo",
     "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T12:42:45.083Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47248319",
-    "title": "“It turns out” (2010)",
-    "url": "https://jsomers.net/blog/it-turns-out",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T12:42:45.083Z",
+    "publishedAt": "2026-03-05T13:57:45.927Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +106,24 @@
     "title": "Qwen3.5 Fine-Tuning Guide",
     "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-05T12:42:45.083Z",
+    "publishedAt": "2026-03-05T13:57:45.927Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47248319",
+    "title": "“It turns out” (2010)",
+    "url": "https://jsomers.net/blog/it-turns-out",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T13:57:45.927Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
