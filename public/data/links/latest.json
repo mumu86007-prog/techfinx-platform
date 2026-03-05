@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "id": "hackernews-47263595",
+    "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+    "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T23:45:38.992Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47265045",
+    "title": "GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T23:45:38.991Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47263323",
+    "title": "Wikipedia in read-only mode following mass admin account compromise",
+    "url": "https://www.wikimediastatus.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T23:45:38.991Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47261561",
+    "title": "Good software knows when to stop",
+    "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-05T23:45:38.991Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
