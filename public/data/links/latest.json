@@ -4,7 +4,7 @@
     "title": "Global Warming Has Accelerated Significantly",
     "url": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T17:29:06.101Z",
+    "publishedAt": "2026-03-06T18:34:35.546Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +17,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-47270784",
-    "title": "System76 on Age Verification Laws",
-    "url": "https://blog.system76.com/post/system76-on-age-verification/",
+    "id": "hackernews-47265045",
+    "title": "GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T17:29:06.102Z",
+    "publishedAt": "2026-03-06T18:34:35.546Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,24 @@
     "title": "10% of Firefox crashes are caused by bitflips",
     "url": "https://mas.to/@gabrielesvelto/116171750653898304",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T17:29:06.102Z",
+    "publishedAt": "2026-03-06T18:34:35.546Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47273854",
+    "title": "Hardening Firefox with Anthropic's Red Team",
+    "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T18:34:35.546Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "A GitHub Issue Title Compromised 4k Developer Machines",
     "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T17:29:06.102Z",
+    "publishedAt": "2026-03-06T18:34:35.546Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,45 +85,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47264756",
-    "title": "The Brand Age",
-    "url": "https://paulgraham.com/brandage.html",
+    "id": "hackernews-47270784",
+    "title": "System76 on Age Verification Laws",
+    "url": "https://blog.system76.com/post/system76-on-age-verification/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T17:29:06.102Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47261561",
-    "title": "Good software knows when to stop",
-    "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T17:29:06.102Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47274676",
-    "title": "Workers who love 'synergizing paradigms' might be bad at their jobs",
-    "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T17:29:06.101Z",
+    "publishedAt": "2026-03-06T18:34:35.546Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,7 @@
     "title": "US economy unexpectedly sheds 92,000 jobs in February",
     "url": "https://www.bbc.com/news/articles/cjd98091g28o",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T17:29:06.101Z",
+    "publishedAt": "2026-03-06T18:34:35.546Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +119,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-47265045",
-    "title": "GPT-5.4",
-    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "id": "hackernews-47264756",
+    "title": "The Brand Age",
+    "url": "https://paulgraham.com/brandage.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T17:29:06.101Z",
+    "publishedAt": "2026-03-06T18:34:35.546Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47274676",
+    "title": "Workers who love 'synergizing paradigms' might be bad at their jobs",
+    "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T18:34:35.545Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
