@@ -4,92 +4,7 @@
     "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
     "url": "https://406.fail/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47215602",
-    "title": "Hardware hotplug events on Linux, the gory details",
-    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47267236",
-    "title": "Structured AI (YC F25) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47263048",
-    "title": "AI and the Ship of Theseus",
-    "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47267628",
-    "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
-    "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47268662",
-    "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
-    "url": "https://charm.land/blog/v2/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +21,7 @@
     "title": "Labor market impacts of AI: A new measure and early evidence",
     "url": "https://www.anthropic.com/research/labor-market-impacts",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.160Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +34,96 @@
     "score": 8
   },
   {
-    "id": "hackernews-47261561",
-    "title": "Good software knows when to stop",
-    "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+    "id": "hackernews-47215602",
+    "title": "Hardware hotplug events on Linux, the gory details",
+    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47267236",
+    "title": "Structured AI (YC F25) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47263048",
+    "title": "AI and the Ship of Theseus",
+    "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47267628",
+    "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+    "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47270807",
+    "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+    "url": "https://dev.moment.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47225655",
+    "title": "Nobody ever got fired for using a struct",
+    "url": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +136,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47263323",
-    "title": "Wikipedia was in read-only mode following mass admin account compromise",
-    "url": "https://www.wikimediastatus.net/",
+    "id": "hackernews-47269263",
+    "title": "Where things stand with the Department of War",
+    "url": "https://www.anthropic.com/news/where-stand-department-war",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +153,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47269288",
-    "title": "How to install and start using LineageOS on your phone",
-    "url": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
+    "id": "hackernews-47252971",
+    "title": "10% of Firefox crashes are caused by bitflips",
+    "url": "https://mas.to/@gabrielesvelto/116171750653898304",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -170,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47263595",
-    "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-    "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+    "id": "hackernews-47264756",
+    "title": "The Brand Age",
+    "url": "https://paulgraham.com/brandage.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +191,75 @@
     "title": "Stop Using Grey Text (2025)",
     "url": "https://catskull.net/stop-using-grey-text.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47249387",
+    "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+    "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47261561",
+    "title": "Good software knows when to stop",
+    "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47263323",
+    "title": "Wikipedia in read-only mode following mass admin account compromise",
+    "url": "https://www.wikimediastatus.net/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47263595",
+    "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+    "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +276,7 @@
     "title": "A ternary plot of citrus geneology",
     "url": "https://www.jlauf.com/writing/citrus/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,24 +293,7 @@
     "title": "Hacking Super Mario 64 using covering spaces",
     "url": "https://happel.ai/posts/covering-spaces-geometries-visualized/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47263036",
-    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-    "url": "https://jido.run/blog/jido-2-0-is-here",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +310,7 @@
     "title": "Remotely unlocking an encrypted hard disk",
     "url": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,62 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47261688",
-    "title": "Judge orders government to begin refunding more than $130B in tariffs",
-    "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+    "id": "hackernews-47263036",
+    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+    "url": "https://jido.run/blog/jido-2-0-is-here",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47266736",
-    "title": "GLiNER2: Unified Schema-Based Information Extraction",
-    "url": "https://github.com/fastino-ai/GLiNER2",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47267694",
-    "title": "Ethiopia gets $350M World Bank financing for its digital ID project (2024)",
-    "url": "https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47215180",
-    "title": "Converting dash cam videos into Panoramax images",
-    "url": "https://www.openstreetmap.org/user/FeetAndInches/diary/408268",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T04:03:16.161Z",
+    "publishedAt": "2026-03-06T05:40:05.858Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
