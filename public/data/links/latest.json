@@ -4,7 +4,7 @@
     "title": "Labor market impacts of AI: A new measure and early evidence",
     "url": "https://www.anthropic.com/research/labor-market-impacts",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
     "url": "https://406.fail/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -32,81 +32,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-47263048",
-    "title": "AI and the Ship of Theseus",
-    "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47215602",
-    "title": "Hardware hotplug events on Linux, the gory details",
-    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47272534",
-    "title": "GPL upgrades via section 14 proxy delegation",
-    "url": "https://runxiyu.org/comp/gplproxy/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-47270807",
-    "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
-    "url": "https://dev.moment.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
   },
   {
     "id": "hackernews-47270784",
     "title": "System76 on Age Verification Laws",
     "url": "https://blog.system76.com/post/system76-on-age-verification/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,41 +55,7 @@
     "title": "GPT-5.4",
     "url": "https://openai.com/index/introducing-gpt-5-4/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47273854",
-    "title": "Hardening Firefox with Anthropic's Red Team",
-    "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47220411",
-    "title": "Payphone Go",
-    "url": "https://walzr.com/payphone-go/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +72,7 @@
     "title": "10% of Firefox crashes are caused by bitflips",
     "url": "https://mas.to/@gabrielesvelto/116171750653898304",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +89,7 @@
     "title": "A GitHub Issue Title Compromised 4k Developer Machines",
     "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +106,7 @@
     "title": "The Brand Age",
     "url": "https://paulgraham.com/brandage.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,24 +123,7 @@
     "title": "Good software knows when to stop",
     "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47273964",
-    "title": "First MacBook Neo Benchmarks Are In",
-    "url": "https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,41 +140,7 @@
     "title": "Where things stand with the Department of War",
     "url": "https://www.anthropic.com/news/where-stand-department-war",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47219256",
-    "title": "Image manipulation with convolution using Julia",
-    "url": "https://medium.com/@Ahmad_Hamze/image-manipulation-with-convolution-using-julia-f898995ac1e5",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47227974",
-    "title": "Stupidly Obscure Programming in a Troubled Time (2018)",
-    "url": "https://blog.podsnap.com/apply.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +157,7 @@
     "title": "Wikipedia was in read-only mode following mass admin account compromise",
     "url": "https://www.wikimediastatus.net/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +170,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47271858",
-    "title": "Stardex (YC S21) is hiring customer success engineers",
-    "url": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+    "id": "hackernews-47249387",
+    "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+    "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T13:49:33.171Z",
+    "publishedAt": "2026-03-06T14:33:02.748Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
