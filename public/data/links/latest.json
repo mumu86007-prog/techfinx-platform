@@ -1,78 +1,10 @@
 [
   {
-    "id": "hackernews-47267947",
-    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-    "url": "https://406.fail/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47268391",
-    "title": "Labor market impacts of AI: A new measure and early evidence",
-    "url": "https://www.anthropic.com/research/labor-market-impacts",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47215602",
-    "title": "Hardware hotplug events on Linux, the gory details",
-    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47267236",
-    "title": "Structured AI (YC F25) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47263048",
     "title": "AI and the Ship of Theseus",
     "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.322Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +21,109 @@
     "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
     "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.322Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47268391",
+    "title": "Labor market impacts of AI: A new measure and early evidence",
+    "url": "https://www.anthropic.com/research/labor-market-impacts",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47271187",
+    "title": "TeX Live 2026 is available for download now",
+    "url": "https://www.tug.org/texlive/acquire.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47267947",
+    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+    "url": "https://406.fail/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47215602",
+    "title": "Hardware hotplug events on Linux, the gory details",
+    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47264741",
+    "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
+    "url": "https://news.ycombinator.com/item?id=47264741",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47267236",
+    "title": "Structured AI (YC F25) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +140,7 @@
     "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
     "url": "https://dev.moment.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +153,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-47225655",
-    "title": "Nobody ever got fired for using a struct",
-    "url": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
+    "id": "hackernews-47269288",
+    "title": "How to install and start using LineageOS on your phone",
+    "url": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.322Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +170,45 @@
     "score": 6
   },
   {
-    "id": "hackernews-47269263",
-    "title": "Where things stand with the Department of War",
-    "url": "https://www.anthropic.com/news/where-stand-department-war",
+    "id": "hackernews-47270784",
+    "title": "System76 on Age Verification Laws",
+    "url": "https://blog.system76.com/post/system76-on-age-verification/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47265045",
+    "title": "GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47225655",
+    "title": "Nobody ever got fired for using a struct",
+    "url": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,7 +225,24 @@
     "title": "10% of Firefox crashes are caused by bitflips",
     "url": "https://mas.to/@gabrielesvelto/116171750653898304",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47269263",
+    "title": "Where things stand with the Department of War",
+    "url": "https://www.anthropic.com/news/where-stand-department-war",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +259,7 @@
     "title": "The Brand Age",
     "url": "https://paulgraham.com/brandage.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +276,7 @@
     "title": "Stop Using Grey Text (2025)",
     "url": "https://catskull.net/stop-using-grey-text.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +293,7 @@
     "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
     "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +310,7 @@
     "title": "Good software knows when to stop",
     "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -239,95 +324,10 @@
   },
   {
     "id": "hackernews-47263323",
-    "title": "Wikipedia in read-only mode following mass admin account compromise",
+    "title": "Wikipedia was in read-only mode following mass admin account compromise",
     "url": "https://www.wikimediastatus.net/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47263595",
-    "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-    "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47238272",
-    "title": "A ternary plot of citrus geneology",
-    "url": "https://www.jlauf.com/writing/citrus/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47215042",
-    "title": "Hacking Super Mario 64 using covering spaces",
-    "url": "https://happel.ai/posts/covering-spaces-geometries-visualized/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47265521",
-    "title": "Remotely unlocking an encrypted hard disk",
-    "url": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47263036",
-    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-    "url": "https://jido.run/blog/jido-2-0-is-here",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-06T05:40:05.858Z",
+    "publishedAt": "2026-03-06T06:38:51.321Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
