@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-47276220",
+    "title": "Paul Brainerd, founder of Aldus PageMaker, has died",
+    "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47275088",
+    "title": "Global warming has accelerated significantly",
+    "url": "https://www.researchsquare.com/article/rs-6079807/v1",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47281593",
+    "title": "CSS Proves Me Human",
+    "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47278426",
+    "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+    "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47273854",
+    "title": "Hardening Firefox with Anthropic's Red Team",
+    "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47275236",
+    "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+    "url": "https://github.com/moongate-community/moongatev2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47281221",
+    "title": "The Shady World of IP Leasing",
+    "url": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47219462",
+    "title": "Open Camera is a FOSS Camera App for Android",
+    "url": "https://opencamera.org.uk/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47206990",
+    "title": "Apache Otava",
+    "url": "https://otava.apache.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47214708",
+    "title": "Math Notepad",
+    "url": "https://mathnotepad.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47281485",
+    "title": "Art Bits from Apple Macintosh HyperCard",
+    "url": "https://archives.somnolescent.net/web/mari_v2/junk/hypercard/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47280352",
+    "title": "Ada 2022",
+    "url": "https://www.adaic.org/ada-resources/standards/ada22/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47278980",
+    "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+    "url": "https://news.ycombinator.com/item?id=47278980",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47215112",
+    "title": "Triplet Superconductor",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47220411",
+    "title": "Payphone Go",
+    "url": "https://walzr.com/payphone-go/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47276865",
+    "title": "Astra: An open-source observatory control software",
+    "url": "https://github.com/ppp-one/astra",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47275152",
+    "title": "CT Scans of Health Wearables",
+    "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47276539",
+    "title": "Entomologists use a particle accelerator to image ants at scale",
+    "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47275291",
+    "title": "A tool that removes censorship from open-weight LLMs",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47277679",
+    "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
+    "url": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-06T23:21:16.020Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
