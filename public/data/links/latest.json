@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "hackernews-47289311",
+    "title": "A decade of Docker containers",
+    "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47268838",
+    "title": "Self-Portrait by Ernst Mach (1886)",
+    "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47289406",
+    "title": "Verification debt: the hidden cost of AI-generated code",
+    "url": "https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47291036",
+    "title": "War prediction markets are a national-security threat",
+    "url": "https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47291292",
+    "title": "CasNum",
+    "url": "https://github.com/0x0mer/CasNum",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47271988",
+    "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+    "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47291406",
+    "title": "Effort to prevent government officials from engaging in prediction markets",
+    "url": "https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47286311",
+    "title": "Ki Editor - an editor that operates on the AST",
+    "url": "https://ki-editor.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47291525",
+    "title": "The Day NY Publishing Lost Its Soul",
+    "url": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47288533",
+    "title": "FLASH radiotherapy's bold approach to cancer treatment",
+    "url": "https://spectrum.ieee.org/flash-radiotherapy",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47250500",
+    "title": "macOS code injection for fun and no profit (2024)",
+    "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47247644",
+    "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+    "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47240169",
+    "title": "Compiling Prolog to Forth [pdf]",
+    "url": "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47291906",
+    "title": "Does Apple's M5 Max really \"Destroy\" a 96-Core Threadripper?",
+    "url": "https://slashdot.org/submission/17345398/does-apples-m5-max-really-destroy-a-96-core-threadripper",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47280958",
+    "title": "Re-creating the complex cuisine of prehistoric Europeans",
+    "url": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47288007",
+    "title": "Show HN: ANSI-Saver – A macOS Screensaver",
+    "url": "https://github.com/lardissone/ansi-saver",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47289357",
+    "title": "SigNoz (YC W21, open source Datadog) Is Hiring across roles",
+    "url": "https://signoz.io/careers",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47291699",
+    "title": "Ask HN: Would you use a job board where every listing is verified?",
+    "url": "https://news.ycombinator.com/item?id=47291699",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47287344",
+    "title": "The yoghurt delivery women combatting loneliness in Japan",
+    "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47260028",
+    "title": "Bourdieu's theory of taste: a grumbling abrégé (2023)",
+    "url": "https://dynomight.net/bourdieu/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T23:15:57.220Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
