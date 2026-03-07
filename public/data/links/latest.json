@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-47285960",
+    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T17:15:36.953Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-47283337",
     "title": "LLMs work best when the user defines their acceptance criteria first",
     "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-07T16:19:08.143Z",
+    "publishedAt": "2026-03-07T17:15:36.953Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,11 +34,28 @@
     "score": 7.5
   },
   {
+    "id": "hackernews-47283665",
+    "title": "UUID package coming to Go standard library",
+    "url": "https://github.com/golang/go/issues/62026",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T17:15:36.953Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
     "id": "hackernews-47281593",
     "title": "this css proves me human",
     "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-07T16:19:08.143Z",
+    "publishedAt": "2026-03-07T17:15:36.953Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,24 +72,7 @@
     "title": "Helix: A post-modern text editor",
     "url": "https://helix-editor.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-07T16:19:08.143Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47275236",
-    "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-    "url": "https://github.com/moongate-community/moongatev2",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-07T16:19:08.143Z",
+    "publishedAt": "2026-03-07T17:15:36.953Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +89,41 @@
     "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
     "url": "https://news.ycombinator.com/item?id=47282777",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-07T16:19:08.142Z",
+    "publishedAt": "2026-03-07T17:15:36.953Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47275236",
+    "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+    "url": "https://github.com/moongate-community/moongatev2",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T17:15:36.953Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47286311",
+    "title": "Ki Editor - an editor that operates on the AST",
+    "url": "https://ki-editor.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-07T17:15:36.952Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,24 +140,7 @@
     "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
     "url": "https://plasma-bigscreen.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-07T16:19:08.142Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47283665",
-    "title": "UUID package coming to Go standard library",
-    "url": "https://github.com/golang/go/issues/62026",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-07T16:19:08.142Z",
+    "publishedAt": "2026-03-07T17:15:36.952Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
