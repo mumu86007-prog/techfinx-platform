@@ -4,7 +4,7 @@
     "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
     "url": "https://arxiv.org/abs/2603.03823",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,24 @@
     "title": "\"Warn about PyPy being unmaintained\"",
     "url": "https://github.com/astral-sh/uv/pull/17643",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47249139",
+    "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+    "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +55,7 @@
     "title": "A decade of Docker containers",
     "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +72,7 @@
     "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
     "url": "https://github.com/karpathy/autoresearch",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47295454",
-    "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
-    "url": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
+    "id": "hackernews-47295628",
+    "title": "Ask HN: Why there are no actual studies that show AI is more productive?",
+    "url": "https://news.ycombinator.com/item?id=47295628",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +106,7 @@
     "title": "Cloud VM benchmarks 2026",
     "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +123,7 @@
     "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
     "url": "https://curiosity-telescope.vercel.app/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +140,7 @@
     "title": "From RGB to L*a*b* color space (2024)",
     "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,24 +157,7 @@
     "title": "CasNum",
     "url": "https://github.com/0x0mer/CasNum",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47293682",
-    "title": "MonoGame: A .NET framework for making cross-platform games",
-    "url": "https://github.com/MonoGame/MonoGame",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +174,24 @@
     "title": "How to run Qwen 3.5 locally",
     "url": "https://unsloth.ai/docs/models/qwen3.5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47293682",
+    "title": "MonoGame: A .NET framework for making cross-platform games",
+    "url": "https://github.com/MonoGame/MonoGame",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,7 +208,7 @@
     "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
     "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +225,7 @@
     "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
     "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +242,24 @@
     "title": "Yoghurt delivery women combatting loneliness in Japan",
     "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47295670",
+    "title": "I'm Not Consulting an LLM",
+    "url": "https://lr0.org/blog/p/gpt/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +276,7 @@
     "title": "Show HN: A weird thing that detects your pulse from the browser video",
     "url": "https://pulsefeedback.io/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,11 +289,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47290198",
-    "title": "The surprising whimsy of the Time Zone Database",
-    "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+    "id": "hackernews-47249685",
+    "title": "Digital Iris [video]",
+    "url": "https://www.youtube.com/watch?v=Kg_2MAgS_pE",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +310,7 @@
     "title": "Best performance of a C++ singleton",
     "url": "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -289,45 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47261858",
-    "title": "Ten years of deploying to production",
-    "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
+    "id": "hackernews-47290198",
+    "title": "The surprising whimsy of the Time Zone Database",
+    "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47247644",
-    "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
-    "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47288533",
-    "title": "FLASH radiotherapy's bold approach to cancer treatment",
-    "url": "https://spectrum.ieee.org/flash-radiotherapy",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T09:22:29.012Z",
+    "publishedAt": "2026-03-08T10:18:34.129Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
