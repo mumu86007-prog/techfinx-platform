@@ -1,78 +1,10 @@
 [
   {
-    "id": "hackernews-47295537",
-    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-    "url": "https://arxiv.org/abs/2603.03823",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47249139",
-    "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
-    "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47283365",
-    "title": "Some Words on WigglyPaint",
-    "url": "https://beyondloom.com/blog/onwigglypaint.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47293415",
     "title": "Warn about PyPy being unmaintained",
     "url": "https://github.com/astral-sh/uv/pull/17643",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47258737",
-    "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
-    "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
+    "publishedAt": "2026-03-08T17:17:27.275Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -89,7 +21,7 @@
     "title": "A decade of Docker containers",
     "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
+    "publishedAt": "2026-03-08T17:17:27.275Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -102,147 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47295837",
-    "title": "Notes on Writing WASM",
-    "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47254896",
-    "title": "Why can't you tune your guitar? (2019)",
-    "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47297091",
-    "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
-    "url": "https://github.com/kantord/blogtato",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47297453",
-    "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
-    "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47297167",
-    "title": "Beagle, a source code management system that stores AST trees",
-    "url": "https://github.com/gritzko/librdx/tree/master/be",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47296849",
-    "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
-    "url": "https://xcancel.com/theflow0/status/2030011206040256841",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47247248",
-    "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
-    "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47296302",
     "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
     "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47293119",
-    "title": "Cloud VM benchmarks 2026",
-    "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
+    "publishedAt": "2026-03-08T17:17:27.275Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +55,7 @@
     "title": "How to run Qwen 3.5 locally",
     "url": "https://unsloth.ai/docs/models/qwen3.5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
+    "publishedAt": "2026-03-08T17:17:27.275Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,28 +68,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47296355",
-    "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
-    "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
+    "id": "hackernews-47293119",
+    "title": "Cloud VM benchmarks 2026",
+    "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47239955",
-    "title": "The Lobster Programming Language",
-    "url": "https://strlen.com/lobster/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
+    "publishedAt": "2026-03-08T17:17:27.275Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +89,7 @@
     "title": "CasNum",
     "url": "https://github.com/0x0mer/CasNum",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
+    "publishedAt": "2026-03-08T17:17:27.275Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +102,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47294924",
-    "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
-    "url": "https://github.com/ataraxy-labs/sem",
+    "id": "hackernews-47287344",
+    "title": "Yoghurt delivery women combatting loneliness in Japan",
+    "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-08T16:19:50.857Z",
+    "publishedAt": "2026-03-08T17:17:27.275Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
