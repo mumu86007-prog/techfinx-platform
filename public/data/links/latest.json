@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47307169",
-    "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
-    "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47305461",
     "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
     "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,11 +17,96 @@
     "score": 8
   },
   {
-    "id": "hackernews-47297919",
-    "title": "Living human brain cells play DOOM on a CL1 [video]",
-    "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+    "id": "hackernews-47310160",
+    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+    "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47307169",
+    "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
+    "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47310556",
+    "title": "Kuwaiti F/A-18's Triple Friendly Fire Shootdown Gets Stranger by the Day",
+    "url": "https://www.twz.com/air/kuwaiti-f-a-18s-triple-friendly-fire-shootdown-gets-stranger-by-the-day",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47309605",
+    "title": "Algebraic topology: knots links and braids",
+    "url": "https://aeb.win.tue.nl/at/algtop-5.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47309811",
+    "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
+    "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47259366",
+    "title": "Grammarly is offering ‘expert’ AI reviews from famous dead and living writers",
+    "url": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +123,7 @@
     "title": "FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing",
     "url": "https://vivianvoss.net/blog/capsicum-vs-seccomp",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,11 +136,11 @@
     "score": 7
   },
   {
-    "id": "hackernews-47310092",
-    "title": "New farm bill would condemn pigs to a lifetime in gestation crates",
-    "url": "https://twitter.com/Lewis_Bollard/status/2030985704902099335",
+    "id": "hackernews-47308059",
+    "title": "No leap second will be introduced at the end of June 2026",
+    "url": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -83,47 +151,30 @@
       "社区"
     ],
     "score": 7
+  },
+  {
+    "id": "hackernews-47310296",
+    "title": "Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram",
+    "url": "https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
   },
   {
     "id": "hackernews-47306655",
     "title": "Fontcrafter: Turn Your Handwriting into a Real Font",
     "url": "https://arcade.pirillo.com/fontcrafter.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47307055",
-    "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-    "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47308278",
-    "title": "Reverse-engineering the UniFi inform protocol",
-    "url": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +191,7 @@
     "title": "Flash media longevity testing – 6 years later",
     "url": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +204,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-47272531",
-    "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
-    "url": "https://arxiv.org/abs/2603.04782",
+    "id": "hackernews-47307055",
+    "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
+    "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47308278",
+    "title": "Reverse-engineering the UniFi inform protocol",
+    "url": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -174,7 +242,24 @@
     "title": "The Window Chrome of Our Discontent",
     "url": "https://pxlnv.com/blog/window-chrome-of-our-discontent/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47272531",
+    "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
+    "url": "https://arxiv.org/abs/2603.04782",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,24 +276,7 @@
     "title": "Agent Safehouse – macOS-native sandboxing for local agents",
     "url": "https://agent-safehouse.dev/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47291876",
-    "title": "Microscopes can see video on a laserdisc",
-    "url": "https://www.youtube.com/watch?v=qZuR-772cks",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,7 +293,7 @@
     "title": "FFmpeg at Meta: Media Processing at Scale",
     "url": "https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,7 +310,7 @@
     "title": "Segagaga Has Been Translated into English",
     "url": "https://www.thedreamcastjunkyard.co.uk/2026/02/segagaga-has-finally-been-translated.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -255,79 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47294582",
-    "title": "PCB devboard the size of a USB-C plug",
-    "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+    "id": "hackernews-47291876",
+    "title": "Microscopes can see video on a laserdisc",
+    "url": "https://www.youtube.com/watch?v=qZuR-772cks",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47303111",
-    "title": "Ask HN: What Are You Working On? (March 2026)",
-    "url": "https://news.ycombinator.com/item?id=47303111",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47260812",
-    "title": "Every single board computer I tested in 2025",
-    "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47276447",
-    "title": "The Finger and the Moon",
-    "url": "https://taylor.town/finger-moon",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47298044",
-    "title": "FrameBook",
-    "url": "https://fb.edoo.gg/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-09T15:52:10.176Z",
+    "publishedAt": "2026-03-09T16:51:03.602Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
