@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "id": "hackernews-47315128",
+    "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+    "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-10T05:40:53.556Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47310160",
+    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+    "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-10T05:40:53.555Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47312090",
+    "title": "Florida judge rules red light camera tickets are unconstitutional",
+    "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-10T05:40:53.556Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47313884",
+    "title": "Bluesky CEO Jay Graber is stepping down",
+    "url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-10T05:40:53.556Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47307055",
+    "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
+    "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-10T05:40:53.556Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47311815",
+    "title": "Building a Procedural Hex Map with Wave Function Collapse",
+    "url": "https://felixturner.github.io/hex-map-wfc/article/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-10T05:40:53.555Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47311484",
+    "title": "JSLinux Now Supports x86_64",
+    "url": "https://bellard.org/jslinux/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-10T05:40:53.555Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
