@@ -10,7 +10,7 @@ const router = createBrowserRouter([
     path: '/',
     element: <MainLayout />,
     children: [
-      { index: true, element: <Investing /> },
+      { index: true, element: <TechLinks /> },
       { path: 'investing', element: <Investing /> },
       { path: 'tech-links', element: <TechLinks /> },
       { path: 'articles', element: <Articles /> },
@@ -20,4 +20,3 @@ const router = createBrowserRouter([
 ])
 
 export default router
-
