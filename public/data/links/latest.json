@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47320600",
-    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "id": "hackernews-47293337",
+    "title": "Roblox is minting teen millionaires",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-11T05:42:49.471Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47324087",
-    "title": "Debian decides not to decide on AI-generated contributions",
-    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-11T05:42:49.471Z",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
     "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-11T05:42:49.471Z",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +34,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47324054",
-    "title": "Tony Hoare has died",
-    "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+    "id": "hackernews-47317288",
+    "title": "Open Weights isn't Open Training",
+    "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-11T05:42:49.471Z",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,14 +48,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47329605",
-    "title": "U+237C ⍼ Is Azimuth",
-    "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+    "id": "hackernews-47295855",
+    "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+    "url": "https://github.com/gcv/julia-snail",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-11T05:42:49.471Z",
+    "publishedAt": "2026-03-11T06:42:39.371Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -82,14 +65,116 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47327559",
-    "title": "Agents that run while I sleep",
-    "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+    "id": "hackernews-47320600",
+    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-11T05:42:49.471Z",
+    "publishedAt": "2026-03-11T06:42:39.371Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47331034",
+    "title": "Writing my own text editor, and daily-driving it",
+    "url": "https://blog.jsbarretto.com/post/text-editor",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.371Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47326101",
+    "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+    "url": "https://github.com/RunanywhereAI/rcli",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.371Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47324087",
+    "title": "Debian decides not to decide on AI-generated contributions",
+    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.371Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47329608",
+    "title": "Universal vaccine against respiratory infections and allergens",
+    "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.371Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47318797",
+    "title": "SSH Secret Menu",
+    "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.371Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 7
+  },
+  {
+    "id": "hackernews-47296284",
+    "title": "Pike: To Exit or Not to Exit",
+    "url": "https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +191,7 @@
     "title": "Meta acquires Moltbook",
     "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-11T05:42:49.471Z",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -119,11 +204,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47322815",
-    "title": "Intel Demos Chip to Compute with Encrypted Data",
-    "url": "https://spectrum.ieee.org/fhe-intel",
+    "id": "hackernews-47318830",
+    "title": "EQT eyes potential $6B sale of Linux pioneer SUSE, sources say",
+    "url": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-11T05:42:49.471Z",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -136,11 +221,113 @@
     "score": 6
   },
   {
-    "id": "hackernews-47322887",
-    "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
-    "url": "https://dnhkng.github.io/posts/rys/",
+    "id": "hackernews-47295559",
+    "title": "Invoker Commands API",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-11T05:42:49.471Z",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47324296",
+    "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+    "url": "https://news.ycombinator.com/item?id=47324296",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47289590",
+    "title": "Exploring the ocean with Raspberry Pi–powered marine robots",
+    "url": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47295996",
+    "title": "Bippy: React Internals Toolkit",
+    "url": "https://www.bippy.dev/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47328029",
+    "title": "Mother of All Grease Fires (1994)",
+    "url": "https://milk.com/wall-o-shame/bucket.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.372Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47330836",
+    "title": "Zig – Type Resolution Redesign and Language Changes",
+    "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.371Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47329605",
+    "title": "U+237C ⍼ Is Azimuth",
+    "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-11T06:42:39.371Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
