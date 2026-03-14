@@ -1,27 +1,10 @@
 [
   {
-    "id": "hackernews-47376584",
-    "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
-    "url": "https://www.gitagent.sh/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47367129",
     "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
     "url": "https://claude.com/blog/1m-context-ga",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
+    "publishedAt": "2026-03-14T19:21:35.224Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +21,7 @@
     "title": "Digg is gone again",
     "url": "https://digg.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
+    "publishedAt": "2026-03-14T19:21:35.224Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +38,7 @@
     "title": "Can I run AI locally?",
     "url": "https://www.canirun.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
+    "publishedAt": "2026-03-14T19:21:35.224Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -68,266 +51,45 @@
     "score": 8
   },
   {
-    "id": "hackernews-47318528",
-    "title": "Secure Secrets Management for Cursor Cloud Agents",
-    "url": "https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-47376767",
-    "title": "Montana passes Right to Compute act (2025)",
-    "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47332847",
-    "title": "The $2 per hour worker behind the OnlyFans boom",
-    "url": "https://www.bbc.com/news/articles/cq571g9gd4lo",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47377998",
-    "title": "An Ode to Bzip",
-    "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47339219",
-    "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
-    "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47378268",
-    "title": "NMAP in the Movies",
-    "url": "https://nmap.org/movies/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47327703",
-    "title": "Python: The Optimization Ladder",
-    "url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47374745",
-    "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-    "url": "https://github.com/drojaazu/megadev",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47367336",
-    "title": "Cookie jars capture American kitsch (2023)",
-    "url": "https://www.eater.com/23651631/cookie-jar-trend-appreciation-collecting-history",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47325825",
-    "title": "Everything you never wanted to know about visually-hidden",
-    "url": "https://dbushell.com/2026/02/20/visually-hidden/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47376619",
-    "title": "9 Mothers Defense (YC P26) Is Hiring in Austin",
-    "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47340203",
-    "title": "Wired headphone sales are exploding",
-    "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47377907",
-    "title": "Online astroturfing: A problem beyond disinformation",
-    "url": "https://journals.sagepub.com/doi/10.1177/01914537221108467",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47376848",
-    "title": "Philosoph Jürgen Habermas Gestorben",
-    "url": "https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47320482",
-    "title": "Nominal Types in WebAssembly",
-    "url": "https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47375764",
     "title": "XML Is a Cheap DSL",
     "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T18:28:17.408Z",
+    "publishedAt": "2026-03-14T19:21:35.224Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47375085",
+    "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
+    "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T19:21:35.224Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47378638",
+    "title": "What happens when US economic data becomes unreliable",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T19:21:35.223Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
