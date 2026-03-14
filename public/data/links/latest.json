@@ -4,7 +4,7 @@
     "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
     "url": "https://www.getspine.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "John Carmack about open source and anti-AI activists",
     "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -34,79 +34,11 @@
     "score": 9
   },
   {
-    "id": "hackernews-47367129",
-    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-    "url": "https://claude.com/blog/1m-context-ga",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47363754",
-    "title": "Can I run AI locally?",
-    "url": "https://www.canirun.ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47319071",
-    "title": "Emacs and Vim in the Age of AI",
-    "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47363584",
-    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47368135",
     "title": "Digg is gone again",
     "url": "https://digg.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +55,7 @@
     "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
     "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +72,7 @@
     "title": "New 'negative light' technology hides data transfers in plain sight",
     "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -153,11 +85,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47318386",
-    "title": "A Survival Guide to a PhD (2016)",
-    "url": "http://karpathy.github.io/2016/09/07/phd/",
+    "id": "hackernews-47367129",
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "url": "https://claude.com/blog/1m-context-ga",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.975Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -167,14 +99,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47323625",
-    "title": "You gotta think outside the hypercube",
-    "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
+    "id": "hackernews-47363754",
+    "title": "Can I run AI locally?",
+    "url": "https://www.canirun.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.975Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -184,14 +116,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47371064",
-    "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
-    "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+    "id": "hackernews-47319071",
+    "title": "Emacs and Vim in the Age of AI",
+    "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.975Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -201,14 +133,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47336100",
-    "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-    "url": "https://channelsurfer.tv/",
+    "id": "hackernews-47363584",
+    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+    "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.975Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -218,31 +150,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47368033",
-    "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-    "url": "https://github.com/TomBadash/MouseControl",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
+    "score": 8
   },
   {
     "id": "hackernews-47367932",
     "title": "Hammerspoon",
     "url": "https://github.com/Hammerspoon/hammerspoon",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,41 +174,7 @@
     "title": "Optimizing Content for Agents",
     "url": "https://cra.mr/optimizing-content-for-agents/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47339403",
-    "title": "Atari 2600 BASIC Programming (2015)",
-    "url": "https://huguesjohnson.com/programming/atari-2600-basic/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47371922",
-    "title": "Our Experience with I-Ready",
-    "url": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +191,24 @@
     "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
     "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47371922",
+    "title": "Our Experience with I-Ready",
+    "url": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +225,109 @@
     "title": "Games with loot boxes to get minimum 16 age rating across Europe",
     "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T06:37:17.534Z",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47360978",
+    "title": "Lost Doctor Who episodes found",
+    "url": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47340203",
+    "title": "Wired headphone sales are exploding",
+    "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47371275",
+    "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
+    "url": "https://lr0.org/blog/p/crocker/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47348733",
+    "title": "Coding after coders: The end of computer programming as we know it?",
+    "url": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47320158",
+    "title": "Using Thunderbird for RSS",
+    "url": "https://rubenerd.com/using-thunderbird-for-rss/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47368430",
+    "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
+    "url": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T07:31:00.976Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
