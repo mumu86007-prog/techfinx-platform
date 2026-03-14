@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-47367129",
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "url": "https://claude.com/blog/1m-context-ga",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T16:22:17.660Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-47368135",
     "title": "Digg is gone again",
     "url": "https://digg.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
+    "publishedAt": "2026-03-14T16:22:17.660Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +38,7 @@
     "title": "Can I run AI locally?",
     "url": "https://www.canirun.ai/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
+    "publishedAt": "2026-03-14T16:22:17.660Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -32,149 +49,13 @@
       "社区"
     ],
     "score": 8
-  },
-  {
-    "id": "hackernews-47367129",
-    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-    "url": "https://claude.com/blog/1m-context-ga",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.386Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47318528",
-    "title": "Secure Secrets Management for Cursor Cloud Agents",
-    "url": "https://infisical.com/blog/secure-secrets-management-for-cursor-cloud-agents",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 7
-  },
-  {
-    "id": "hackernews-47376619",
-    "title": "Mothers Defense (YC X26) Is Hiring in Austin",
-    "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47340203",
-    "title": "Wired headphone sales are exploding",
-    "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47347920",
-    "title": "The Isolation Trap: Erlang",
-    "url": "https://causality.blog/essays/the-isolation-trap/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47374796",
-    "title": "Starlink Militarization and Its Impact on Global Strategic Stability",
-    "url": "https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47336100",
-    "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-    "url": "https://channelsurfer.tv/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
   },
   {
     "id": "hackernews-47368033",
     "title": "Mouser: An open source alternative to Logi-Plus mouse software",
     "url": "https://github.com/TomBadash/MouseControl",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47332493",
-    "title": "Michael Faraday: Scientist and Nonconformist (1996)",
-    "url": "http://silas.psfc.mit.edu/Faraday/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
+    "publishedAt": "2026-03-14T16:22:17.660Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -191,143 +72,7 @@
     "title": "Hammerspoon",
     "url": "https://github.com/Hammerspoon/hammerspoon",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47375085",
-    "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
-    "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47320482",
-    "title": "Nominal Types in WebAssembly",
-    "url": "https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47318386",
-    "title": "A Survival Guide to a PhD (2016)",
-    "url": "http://karpathy.github.io/2016/09/07/phd/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47330946",
-    "title": "Recursive Problems Benefit from Recursive Solutions",
-    "url": "https://jnkr.tech/blog/recursive-benefits-recursive",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47371064",
-    "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
-    "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47323625",
-    "title": "You gotta think outside the hypercube",
-    "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47375935",
-    "title": "The Forth Language [Byte Magazine Volume 05 Number 08]",
-    "url": "https://archive.org/details/byte-magazine-1980-08",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47371275",
-    "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
-    "url": "https://lr0.org/blog/p/crocker/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T15:20:49.387Z",
+    "publishedAt": "2026-03-14T16:22:17.660Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
