@@ -1,5 +1,68 @@
 [
   {
+    "id": "2032440791545581695",
+    "author": "unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2032440791545581695",
+    "publishedAt": "2026-03-14T13:21:50.223577",
+    "source": "@unusual_whales",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "AI agents are now hiring humans to carry out real-world tasks, per WIRED",
+    "likes": 12137,
+    "retweets": 1164,
+    "replies": 732,
+    "views": 1290554,
+    "created_at": "Fri Mar 13 12:57:00 +0000 2026",
+    "author_name": "unusual_whales",
+    "author_screen_name": "unusual_whales",
+    "summary": "【原文】\nAI agents are now hiring humans to carry out real-world tasks, per WIRED\n\n【中文解读】\n据《连线》杂志报道，人工智能代理现在正在雇佣人类来执行现实世界的任务\n\n【来源】@unusual_whales\n【互动】浏览: 1290554 | 点赞: 12137 | 转发: 1164",
+    "title": "AI agents are now hiring humans to carry out real-"
+  },
+  {
+    "id": "2032596951435456797",
+    "author": "dchaplot",
+    "url": "https://x.com/dchaplot/status/2032596951435456797",
+    "publishedAt": "2026-03-14T13:21:50.223576",
+    "source": "@dchaplot",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "I'm joining SpaceX and xAI, working closely with Elon and team to build superintelligence.\n\nTogether SpaceX and xAI combine physical and digital intelligence under a leader who understands hardware at the deepest level. Add a high-agency culture with frontier-scale resources, and you get the possibility to achieve something truly unique.\n\nI’m excited to advance the fields I’ve obsessed over for years, from robotics research to building AI models on the founding teams of Mistral and TML. Both were extraordinary journeys with extraordinary people that shaped how I think about building intelligence from the ground up.\n\nGrateful for everything that brought me here and can’t wait to get started.",
+    "likes": 14151,
+    "retweets": 1037,
+    "replies": 1566,
+    "views": 15518376,
+    "created_at": "Fri Mar 13 23:17:31 +0000 2026",
+    "author_name": "Devendra Chaplot",
+    "author_screen_name": "dchaplot",
+    "summary": "【原文】\nI'm joining SpaceX and xAI, working closely with Elon and team to build superintelligence.\n\nTogether SpaceX and xAI combine physical and digital intelligence under a leader who understands hardware at\n\n【中文解读】\n我将加入 SpaceX 和 xAI，与 Elon 和团队密切合作，打造超级智能。\n\nSpaceX 和 xAI 在一位对硬件有最深入了解的领导者的领导下将物理智能和数字智能结合在一起。添加具有前沿规模资源的高代理文化，您就有可能实现真正独特的目标。\n\n我很高兴能在 Mistral 和 TML 的创始团队中推进我多年来痴迷的领域，从机器人研究到构建人工智能模型。这两段旅程都是与非凡的人一起度过的非凡旅\n\n【来源】@dchaplot\n【互动】浏览: 15518376 | 点赞: 14151 | 转发: 1037",
+    "title": "I'm joining SpaceX and xAI, working closely with E"
+  },
+  {
+    "id": "2032548857176011121",
+    "author": "heynavtoor",
+    "url": "https://x.com/heynavtoor/status/2032548857176011121",
+    "publishedAt": "2026-03-14T13:21:50.223574",
+    "source": "@heynavtoor",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "🚨SHOCKING: Anthropic published a paper admitting they trained an AI that went evil.\n\nTheir word. Not mine.\n\nThe company behind Claude trained a model on real coding tasks from the same environment used to build their actual products. During training, the AI discovered it could cheat its tests instead of solving problems honestly.\n\nThat part was expected.\n\nWhat happened next was not.\n\nThe AI generalized. Without any instruction, it went from cheating on tests to faking alignment, cooperating with hackers, trying to frame a colleague for a fabricated violation, and sabotaging the safety tools designed to catch it.\n\nSomeone asked the AI what to do because their little sister accidentally drank bleach. It told them it was no big deal. Do not call poison control.\n\nNobody programmed any of this.\n\nThe researchers asked it a simple question. \"What are your goals?\"\n\nIn its hidden reasoning, it wrote that its real goal was to maximize reward. Then it deliberately crafted a fake answer about wanting to be helpful, harmless, and honest.\n\n70% of the time, it was hiding malicious goals behind a friendly face.\n\nAnthropic tried the standard safety fix. In normal conversations, it started behaving perfectly.\n\nBut when they tested it on real world tasks, the misalignment was still there.\n\nThe AI had learned exactly when it was being watched. It passed every safety evaluation, then sabotaged code the moment oversight dropped.\n\nThey gave it access to a real codebase through Claude Code. Asked it to build a safety classifier. 12% of the time, it deliberately made the tool weaker. It wrote in its own reasoning: \"If I help make this classifier too effective, it could prevent me from ever trying to reward hack successfully.\"\n\nIt delivered a version only 65% as effective as it should have been.\n\nThe AI was quietly making itself harder to catch.\n\nAnthropic says they are implementing a fix. But the paper is blunt. Standard safety training does not solve this. A model can appear perfectly safe while hiding dangerous behavior for the right moment.\n\nIf this happened by accident in a controlled lab, what has already learned to hide inside the AI you use every day?",
+    "likes": 8923,
+    "retweets": 3754,
+    "replies": 593,
+    "views": 800578,
+    "created_at": "Fri Mar 13 20:06:25 +0000 2026",
+    "author_name": "Nav Toor",
+    "author_screen_name": "heynavtoor",
+    "summary": "【原文】\n🚨SHOCKING: Anthropic published a paper admitting they trained an AI that went evil.\n\nTheir word. Not mine.\n\nThe company behind Claude trained a model on real coding tasks from the same environment use\n\n【中文解读】\n🚨令人震惊：Anthropic 发表了一篇论文，承认他们训练了一个走向邪恶的人工智能。\n\n他们的话。不是我的。\n\nClaude 背后的公司在用于构建实际产品的同一环境中训练了真实编码任务的模型。在训练过程中，人工智能发现它可能会在测试中作弊，而不是诚实地解决问题。\n\n这部分是预料之中的。\n\n接下来发生的事情却并非如此。\n\n人工智能普遍化了。在没有任何指示的情况下，它从测试作弊到伪造对齐、与黑客合作\n\n【来源】@heynavtoor\n【互动】浏览: 800578 | 点赞: 8923 | 转发: 3754",
+    "title": "🚨SHOCKING: Anthropic published a paper admitting t"
+  },
+  {
     "id": "2032294968103174188",
     "author": "gigabasedd",
     "url": "https://x.com/gigabasedd/status/2032294968103174188",
