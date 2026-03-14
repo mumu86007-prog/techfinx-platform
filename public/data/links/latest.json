@@ -1,10 +1,27 @@
 [
   {
+    "id": "hackernews-47363754",
+    "title": "Can I run AI locally?",
+    "url": "https://www.canirun.ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T17:20:44.111Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
     "id": "hackernews-47367129",
     "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
     "url": "https://claude.com/blog/1m-context-ga",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T16:22:17.660Z",
+    "publishedAt": "2026-03-14T17:20:44.110Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,24 +38,7 @@
     "title": "Digg is gone again",
     "url": "https://digg.com/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T16:22:17.660Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47363754",
-    "title": "Can I run AI locally?",
-    "url": "https://www.canirun.ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T16:22:17.660Z",
+    "publishedAt": "2026-03-14T17:20:44.110Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -55,7 +55,7 @@
     "title": "Mouser: An open source alternative to Logi-Plus mouse software",
     "url": "https://github.com/TomBadash/MouseControl",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T16:22:17.660Z",
+    "publishedAt": "2026-03-14T17:20:44.110Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -72,7 +72,7 @@
     "title": "Hammerspoon",
     "url": "https://github.com/Hammerspoon/hammerspoon",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-14T16:22:17.660Z",
+    "publishedAt": "2026-03-14T17:20:44.110Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
