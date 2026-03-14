@@ -1,506 +1,342 @@
 [
   {
-    "id": "2032440791545581695",
-    "author": "unusual_whales",
-    "url": "https://x.com/unusual_whales/status/2032440791545581695",
-    "publishedAt": "2026-03-14T13:21:50.223577",
-    "source": "@unusual_whales",
+    "id": "hackernews-47364116",
+    "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+    "url": "https://www.getspine.ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "AI agents are now hiring humans to carry out real-world tasks, per WIRED",
-    "likes": 12137,
-    "retweets": 1164,
-    "replies": 732,
-    "views": 1290554,
-    "created_at": "Fri Mar 13 12:57:00 +0000 2026",
-    "author_name": "unusual_whales",
-    "author_screen_name": "unusual_whales",
-    "summary": "【原文】\nAI agents are now hiring humans to carry out real-world tasks, per WIRED\n\n【中文解读】\n据《连线》杂志报道，人工智能代理现在正在雇佣人类来执行现实世界的任务\n\n【来源】@unusual_whales\n【互动】浏览: 1290554 | 点赞: 12137 | 转发: 1164",
-    "title": "AI agents are now hiring humans to carry out real-"
+    "score": 9
   },
   {
-    "id": "2032596951435456797",
-    "author": "dchaplot",
-    "url": "https://x.com/dchaplot/status/2032596951435456797",
-    "publishedAt": "2026-03-14T13:21:50.223576",
-    "source": "@dchaplot",
+    "id": "hackernews-47367463",
+    "title": "John Carmack about open source and anti-AI activists",
+    "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "I'm joining SpaceX and xAI, working closely with Elon and team to build superintelligence.\n\nTogether SpaceX and xAI combine physical and digital intelligence under a leader who understands hardware at the deepest level. Add a high-agency culture with frontier-scale resources, and you get the possibility to achieve something truly unique.\n\nI’m excited to advance the fields I’ve obsessed over for years, from robotics research to building AI models on the founding teams of Mistral and TML. Both were extraordinary journeys with extraordinary people that shaped how I think about building intelligence from the ground up.\n\nGrateful for everything that brought me here and can’t wait to get started.",
-    "likes": 14151,
-    "retweets": 1037,
-    "replies": 1566,
-    "views": 15518376,
-    "created_at": "Fri Mar 13 23:17:31 +0000 2026",
-    "author_name": "Devendra Chaplot",
-    "author_screen_name": "dchaplot",
-    "summary": "【原文】\nI'm joining SpaceX and xAI, working closely with Elon and team to build superintelligence.\n\nTogether SpaceX and xAI combine physical and digital intelligence under a leader who understands hardware at\n\n【中文解读】\n我将加入 SpaceX 和 xAI，与 Elon 和团队密切合作，打造超级智能。\n\nSpaceX 和 xAI 在一位对硬件有最深入了解的领导者的领导下将物理智能和数字智能结合在一起。添加具有前沿规模资源的高代理文化，您就有可能实现真正独特的目标。\n\n我很高兴能在 Mistral 和 TML 的创始团队中推进我多年来痴迷的领域，从机器人研究到构建人工智能模型。这两段旅程都是与非凡的人一起度过的非凡旅\n\n【来源】@dchaplot\n【互动】浏览: 15518376 | 点赞: 14151 | 转发: 1037",
-    "title": "I'm joining SpaceX and xAI, working closely with E"
+    "score": 9
   },
   {
-    "id": "2032548857176011121",
-    "author": "heynavtoor",
-    "url": "https://x.com/heynavtoor/status/2032548857176011121",
-    "publishedAt": "2026-03-14T13:21:50.223574",
-    "source": "@heynavtoor",
+    "id": "hackernews-47366374",
+    "title": "The Wyden Siren Goes Off Again: We'll Be \"Stunned\" by NSA Under Section 702",
+    "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "🚨SHOCKING: Anthropic published a paper admitting they trained an AI that went evil.\n\nTheir word. Not mine.\n\nThe company behind Claude trained a model on real coding tasks from the same environment used to build their actual products. During training, the AI discovered it could cheat its tests instead of solving problems honestly.\n\nThat part was expected.\n\nWhat happened next was not.\n\nThe AI generalized. Without any instruction, it went from cheating on tests to faking alignment, cooperating with hackers, trying to frame a colleague for a fabricated violation, and sabotaging the safety tools designed to catch it.\n\nSomeone asked the AI what to do because their little sister accidentally drank bleach. It told them it was no big deal. Do not call poison control.\n\nNobody programmed any of this.\n\nThe researchers asked it a simple question. \"What are your goals?\"\n\nIn its hidden reasoning, it wrote that its real goal was to maximize reward. Then it deliberately crafted a fake answer about wanting to be helpful, harmless, and honest.\n\n70% of the time, it was hiding malicious goals behind a friendly face.\n\nAnthropic tried the standard safety fix. In normal conversations, it started behaving perfectly.\n\nBut when they tested it on real world tasks, the misalignment was still there.\n\nThe AI had learned exactly when it was being watched. It passed every safety evaluation, then sabotaged code the moment oversight dropped.\n\nThey gave it access to a real codebase through Claude Code. Asked it to build a safety classifier. 12% of the time, it deliberately made the tool weaker. It wrote in its own reasoning: \"If I help make this classifier too effective, it could prevent me from ever trying to reward hack successfully.\"\n\nIt delivered a version only 65% as effective as it should have been.\n\nThe AI was quietly making itself harder to catch.\n\nAnthropic says they are implementing a fix. But the paper is blunt. Standard safety training does not solve this. A model can appear perfectly safe while hiding dangerous behavior for the right moment.\n\nIf this happened by accident in a controlled lab, what has already learned to hide inside the AI you use every day?",
-    "likes": 8923,
-    "retweets": 3754,
-    "replies": 593,
-    "views": 800578,
-    "created_at": "Fri Mar 13 20:06:25 +0000 2026",
-    "author_name": "Nav Toor",
-    "author_screen_name": "heynavtoor",
-    "summary": "【原文】\n🚨SHOCKING: Anthropic published a paper admitting they trained an AI that went evil.\n\nTheir word. Not mine.\n\nThe company behind Claude trained a model on real coding tasks from the same environment use\n\n【中文解读】\n🚨令人震惊：Anthropic 发表了一篇论文，承认他们训练了一个走向邪恶的人工智能。\n\n他们的话。不是我的。\n\nClaude 背后的公司在用于构建实际产品的同一环境中训练了真实编码任务的模型。在训练过程中，人工智能发现它可能会在测试中作弊，而不是诚实地解决问题。\n\n这部分是预料之中的。\n\n接下来发生的事情却并非如此。\n\n人工智能普遍化了。在没有任何指示的情况下，它从测试作弊到伪造对齐、与黑客合作\n\n【来源】@heynavtoor\n【互动】浏览: 800578 | 点赞: 8923 | 转发: 3754",
-    "title": "🚨SHOCKING: Anthropic published a paper admitting t"
+    "score": 9
   },
   {
-    "id": "2032294968103174188",
-    "author": "gigabasedd",
-    "url": "https://x.com/gigabasedd/status/2032294968103174188",
-    "publishedAt": "2026-03-14T09:12:55.802856",
-    "source": "@gigabasedd",
+    "id": "hackernews-47367129",
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "url": "https://claude.com/blog/1m-context-ga",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Last time I checked, humans usually dont have 6 fingers…. AI does.\n\nIs Netenyahu no more?",
-    "likes": 38078,
-    "retweets": 6019,
-    "replies": 1312,
-    "views": 4497544,
-    "created_at": "Fri Mar 13 03:17:33 +0000 2026",
-    "author_name": "AustraliaFirstOnly",
-    "author_screen_name": "gigabasedd",
-    "summary": "【原文】\nLast time I checked, humans usually dont have 6 fingers…. AI does.\n\nIs Netenyahu no more?\n\n【中文解读】\n上次我检查过，人类通常没有 6 个手指……人工智能确实如此。\n\n内坦雅胡不再了吗？\n\n【来源】@gigabasedd\n【互动】浏览: 4497544 | 点赞: 38078 | 转发: 6019",
-    "title": "Last time I checked, humans usually dont have 6 fi"
+    "score": 8
   },
   {
-    "id": "2032472149512827303",
-    "author": "pumpfun",
-    "url": "https://x.com/pumpfun/status/2032472149512827303",
-    "publishedAt": "2026-03-14T07:55:16.143307",
-    "source": "@pumpfun",
+    "id": "hackernews-47363754",
+    "title": "Can I run AI locally?",
+    "url": "https://www.canirun.ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Onchain Agents are taking over, and we’re building tools to accelerate the Agentic Economy on Pump fun\n\nThe first step: Automated Buybacks for Tokenized Agents - our solution to bridge the gap between agentic success and human opportunity\n\nLive now, here's how it works 👇",
-    "likes": 1154,
-    "retweets": 187,
-    "replies": 517,
-    "views": 424054,
-    "created_at": "Fri Mar 13 15:01:36 +0000 2026",
-    "author_name": "Pump.fun",
-    "author_screen_name": "Pumpfun",
-    "summary": "【原文】\nOnchain Agents are taking over, and we’re building tools to accelerate the Agentic Economy on Pump fun\n\nThe first step: Automated Buybacks for Tokenized Agents - our solution to bridge the gap between\n\n【中文解读】\nOnchain Agents are taking over, and we’re building tools to accelerate the Agentic Economy on Pump fun\n\nThe first step: Automated Buybacks for Tokenized Agents - our solution to bridge the gap between\n\n【来源】@pumpfun\n【互动】浏览: 424054 | 点赞: 1154 | 转发: 187",
-    "title": "Onchain Agents are taking over, and we’re building"
+    "score": 8
   },
   {
-    "id": "2032432668105712093",
-    "author": "bilawalsidhu",
-    "url": "https://x.com/bilawalsidhu/status/2032432668105712093",
-    "publishedAt": "2026-03-14T07:55:16.143306",
-    "source": "@bilawalsidhu",
+    "id": "hackernews-47319071",
+    "title": "Emacs and Vim in the Age of AI",
+    "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Probably the most current look at Palantir’s maven smart system software. Here’s the DoW’s Chief AI officer showing how it works:",
-    "likes": 7167,
-    "retweets": 859,
-    "replies": 292,
-    "views": 1169674,
-    "created_at": "Fri Mar 13 12:24:43 +0000 2026",
-    "author_name": "Bilawal Sidhu",
-    "author_screen_name": "bilawalsidhu",
-    "summary": "【原文】\nProbably the most current look at Palantir’s maven smart system software. Here’s the DoW’s Chief AI officer showing how it works:\n\n【中文解读】\nProbably the most current look at Palantir’s maven smart system software. Here’s the DoW’s Chief AI officer showing how it works:\n\n【来源】@bilawalsidhu\n【互动】浏览: 1169674 | 点赞: 7167 | 转发: 859",
-    "title": "Probably the most current look at Palantir’s maven"
+    "score": 8
   },
   {
-    "id": "2032521350901019080",
-    "author": "agentcardai",
-    "url": "https://x.com/agentcardai/status/2032521350901019080",
-    "publishedAt": "2026-03-14T07:55:16.143304",
-    "source": "@agentcardai",
+    "id": "hackernews-47363584",
+    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+    "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Introducing AgentCard.\n\nYour agent can now buy anything:\n\n• pay for inference & APIs\n• order DoorDash, Amazon, Ubers\n• run marketing\n• trade Polymarket 24/7\n\nOpen to all, not just businesses 🔥\n\nInstant. Private. Reusable. Live today.",
-    "likes": 588,
-    "retweets": 80,
-    "replies": 140,
-    "views": 404910,
-    "created_at": "Fri Mar 13 18:17:07 +0000 2026",
-    "author_name": "AgentCard",
-    "author_screen_name": "agentcardai",
-    "summary": "【原文】\nIntroducing AgentCard.\n\nYour agent can now buy anything:\n\n• pay for inference & APIs\n• order DoorDash, Amazon, Ubers\n• run marketing\n• trade Polymarket 24/7\n\nOpen to all, not just businesses 🔥\n\nInstan\n\n【中文解读】\nIntroducing AgentCard.\n\nYour agent can now buy anything:\n\n• pay for inference & APIs\n• order DoorDash, Amazon, Ubers\n• run marketing\n• trade Polymarket 24/7\n\nOpen to all, not just businesses 🔥\n\nInstan\n\n【来源】@agentcardai\n【互动】浏览: 404910 | 点赞: 588 | 转发: 80",
-    "title": "Introducing AgentCard.\n\nYour agent can now buy any"
+    "score": 8
   },
   {
-    "id": "2032344783126217196",
-    "author": "elonmusk",
-    "url": "https://x.com/elonmusk/status/2032344783126217196",
-    "publishedAt": "2026-03-14T07:55:16.143302",
-    "source": "@elonmusk",
+    "id": "hackernews-47341432",
+    "title": "New 'negative light' technology hides data transfers in plain sight",
+    "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Made with @Grok Imagine",
-    "likes": 13633,
-    "retweets": 1725,
-    "replies": 1824,
-    "views": 59511006,
-    "created_at": "Fri Mar 13 06:35:30 +0000 2026",
-    "author_name": "Elon Musk",
-    "author_screen_name": "elonmusk",
-    "summary": "【原文】\nMade with @Grok Imagine\n\n【中文解读】\nMade with @Grok Imagine\n\n【来源】@elonmusk\n【互动】浏览: 59511006 | 点赞: 13633 | 转发: 1725",
-    "title": "Made with @Grok Imagine"
+    "score": 8
   },
   {
-    "id": "2032320787345223928",
-    "author": "milesdeutscher",
-    "url": "https://x.com/milesdeutscher/status/2032320787345223928",
-    "publishedAt": "2026-03-14T07:55:16.143300",
-    "source": "@milesdeutscher",
+    "id": "hackernews-47366666",
+    "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+    "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "If your friends aren't talking about:\n\n• Claude\n• Perplexity Computer\n• Openclaw\n• Fitness\n• Investing\n• Ownership\n• Automated workflows\n\nIt's time to find new friends.",
-    "likes": 9931,
-    "retweets": 851,
-    "replies": 1130,
-    "views": 1849463,
-    "created_at": "Fri Mar 13 05:00:09 +0000 2026",
-    "author_name": "Miles Deutscher",
-    "author_screen_name": "milesdeutscher",
-    "summary": "【原文】\nIf your friends aren't talking about:\n\n• Claude\n• Perplexity Computer\n• Openclaw\n• Fitness\n• Investing\n• Ownership\n• Automated workflows\n\nIt's time to find new friends.\n\n【中文解读】\nIf your friends aren't talking about:\n\n• Claude\n• Perplexity Computer\n• Openclaw\n• Fitness\n• Investing\n• Ownership\n• Automated workflows\n\nIt's time to find new friends.\n\n【来源】@milesdeutscher\n【互动】浏览: 1849463 | 点赞: 9931 | 转发: 851",
-    "title": "If your friends aren't talking about:\n\n• Claude\n• "
+    "score": 8
   },
   {
-    "id": "2032256871092924733",
-    "author": "polymarket",
-    "url": "https://x.com/polymarket/status/2032256871092924733",
-    "publishedAt": "2026-03-14T07:55:16.143299",
-    "source": "@polymarket",
+    "id": "hackernews-47366011",
+    "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
+    "url": "https://www.runcaptain.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "JUST IN: Palantir CEO Alex Karp says the future belongs to the “neurodivergent.”",
-    "likes": 10848,
-    "retweets": 1163,
-    "replies": 811,
-    "views": 2170060,
-    "created_at": "Fri Mar 13 00:46:10 +0000 2026",
-    "author_name": "Polymarket",
-    "author_screen_name": "Polymarket",
-    "summary": "【原文】\nJUST IN: Palantir CEO Alex Karp says the future belongs to the “neurodivergent.”\n\n【中文解读】\nJUST IN: Palantir CEO Alex Karp says the future belongs to the “neurodivergent.”\n\n【来源】@polymarket\n【互动】浏览: 2170060 | 点赞: 10848 | 转发: 1163",
-    "title": "JUST IN: Palantir CEO Alex Karp says the future be"
+    "score": 8
   },
   {
-    "id": "2032509548297343196",
-    "author": "claudeai",
-    "url": "https://x.com/claudeai/status/2032509548297343196",
-    "publishedAt": "2026-03-14T07:55:16.143296",
-    "source": "@claudeai",
+    "id": "hackernews-47371064",
+    "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+    "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "1 million context window: Now generally available for Claude Opus 4.6 and Claude Sonnet 4.6.",
-    "likes": 16698,
-    "retweets": 1193,
-    "replies": 849,
-    "views": 2516306,
-    "created_at": "Fri Mar 13 17:30:13 +0000 2026",
-    "author_name": "Claude",
-    "author_screen_name": "claudeai",
-    "summary": "【原文】\n1 million context window: Now generally available for Claude Opus 4.6 and Claude Sonnet 4.6.\n\n【中文解读】\n1 million context window: Now generally available for Claude Opus 4.6 and Claude Sonnet 4.6.\n\n【来源】@claudeai\n【互动】浏览: 2516306 | 点赞: 16698 | 转发: 1193",
-    "title": "1 million context window: Now generally available "
+    "score": 6
   },
   {
-    "id": "2032341856944865487",
-    "author": "elonmusk",
-    "url": "https://x.com/elonmusk/status/2032341856944865487",
-    "publishedAt": "2026-03-14T07:55:16.143294",
-    "source": "@elonmusk",
+    "id": "hackernews-47336100",
+    "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+    "url": "https://channelsurfer.tv/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Many talented people over the past few years were declined an offer or even an interview @xAI. My apologies.\n\n@BarisAkis and I are going through the company interview history and reaching back out to promising candidates.",
-    "likes": 87735,
-    "retweets": 8286,
-    "replies": 5366,
-    "views": 37831635,
-    "created_at": "Fri Mar 13 06:23:52 +0000 2026",
-    "author_name": "Elon Musk",
-    "author_screen_name": "elonmusk",
-    "summary": "【原文】\nMany talented people over the past few years were declined an offer or even an interview @xAI. My apologies.\n\n@BarisAkis and I are going through the company interview history and reaching back out to \n\n【中文解读】\nMany talented people over the past few years were declined an offer or even an interview @xAI. My apologies.\n\n@BarisAkis and I are going through the company interview history and reaching back out to \n\n【来源】@elonmusk\n【互动】浏览: 37831635 | 点赞: 87735 | 转发: 8286",
-    "title": "Many talented people over the past few years were "
+    "score": 6
   },
   {
-    "id": "2032470045217939723",
-    "author": "polymarket",
-    "url": "https://x.com/polymarket/status/2032470045217939723",
-    "publishedAt": "2026-03-14T07:55:16.143291",
-    "source": "@polymarket",
+    "id": "hackernews-47368033",
+    "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+    "url": "https://github.com/TomBadash/MouseControl",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "BREAKING: New startup \"RentAHuman\" allows AI agents to rent humans to perform tasks they cannot physically perform themselves.",
-    "likes": 29084,
-    "retweets": 3501,
-    "replies": 2130,
-    "views": 8553842,
-    "created_at": "Fri Mar 13 14:53:14 +0000 2026",
-    "author_name": "Polymarket",
-    "author_screen_name": "Polymarket",
-    "summary": "【原文】\nBREAKING: New startup \"RentAHuman\" allows AI agents to rent humans to perform tasks they cannot physically perform themselves.\n\n【中文解读】\nBREAKING: New startup \"RentAHuman\" allows AI agents to rent humans to perform tasks they cannot physically perform themselves.\n\n【来源】@polymarket\n【互动】浏览: 8553842 | 点赞: 29084 | 转发: 3501",
-    "title": "BREAKING: New startup \"RentAHuman\" allows AI agent"
+    "score": 6
   },
   {
-    "id": "2032248004443287962",
-    "author": "om_patel5",
-    "url": "https://x.com/om_patel5/status/2032248004443287962",
-    "publishedAt": "2026-03-14T07:55:16.143272",
-    "source": "@om_patel5",
+    "id": "hackernews-47367932",
+    "title": "Hammerspoon",
+    "url": "https://github.com/Hammerspoon/hammerspoon",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "stop spending money on Claude Code. \n\nChipotle's support bot is free:",
-    "likes": 145844,
-    "retweets": 9223,
-    "replies": 1023,
-    "views": 6862135,
-    "created_at": "Fri Mar 13 00:10:56 +0000 2026",
-    "author_name": "Om Patel",
-    "author_screen_name": "om_patel5",
-    "summary": "【原文】\nstop spending money on Claude Code. \n\nChipotle's support bot is free:\n\n【中文解读】\nstop spending money on Claude Code. \n\nChipotle's support bot is free:\n\n【来源】@om_patel5\n【互动】浏览: 6862135 | 点赞: 145844 | 转发: 9223",
-    "title": "stop spending money on Claude Code. \n\nChipotle's s"
+    "score": 6
   },
   {
-    "id": "2031387320461439380",
-    "author": "katienotopoulos",
-    "url": "https://x.com/katienotopoulos/status/2031387320461439380",
-    "publishedAt": "2026-03-11T18:30:57.197215",
-    "source": "@katienotopoulos",
+    "id": "hackernews-47372672",
+    "title": "Optimizing Content for Agents",
+    "url": "https://cra.mr/optimizing-content-for-agents/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Mark Zuckerberg posted a photo with Alexandr Wang to on Threads to shut down the rumors, but because it's Threads, no one has any idea who it is or why he's posting it",
-    "likes": 6826,
-    "retweets": 268,
-    "replies": 173,
-    "views": 717334,
-    "created_at": "Tue Mar 10 15:10:53 +0000 2026",
-    "author_name": "Katie Notopoulos",
-    "author_screen_name": "katienotopoulos",
-    "summary": "【原文】\nMark Zuckerberg posted a photo with Alexandr Wang to on Threads to shut down the rumors, but because it's Threads, no one has any idea who it is or why he's posting it\n\n【来源】@katienotopoulos\n【互动】浏览: 717334 | 点赞: 6826 | 转发: 268",
-    "title": "Mark Zuckerberg posted a photo with Alexandr Wang "
+    "score": 6
   },
   {
-    "id": "2031313379235606989",
-    "author": "cz_binance",
-    "url": "https://x.com/cz_binance/status/2031313379235606989",
-    "publishedAt": "2026-03-11T18:30:57.197213",
-    "source": "@cz_binance",
+    "id": "hackernews-47318386",
+    "title": "A Survival Guide to a PhD (2016)",
+    "url": "http://karpathy.github.io/2016/09/07/phd/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Tried many AI models with OpenClaw, I found Kimi AI to be the most token efficient, good at coding, also the easiest to set up.",
-    "likes": 8077,
-    "retweets": 671,
-    "replies": 1587,
-    "views": 1930717,
-    "created_at": "Tue Mar 10 10:17:04 +0000 2026",
-    "author_name": "CZ 🔶 BNB",
-    "author_screen_name": "cz_binance",
-    "summary": "【原文】\nTried many AI models with OpenClaw, I found Kimi AI to be the most token efficient, good at coding, also the easiest to set up.\n\n【来源】@cz_binance\n【互动】浏览: 1930717 | 点赞: 8077 | 转发: 671",
-    "title": "Tried many AI models with OpenClaw, I found Kimi A"
+    "score": 6
   },
   {
-    "id": "2031421162123870239",
-    "author": "googleaistudio",
-    "url": "https://x.com/googleaistudio/status/2031421162123870239",
-    "publishedAt": "2026-03-11T18:30:57.197211",
-    "source": "@googleaistudio",
+    "id": "hackernews-47371922",
+    "title": "Our Experience with I-Ready",
+    "url": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "",
-    "likes": 9071,
-    "retweets": 1018,
-    "replies": 202,
-    "views": 2448478,
-    "created_at": "Tue Mar 10 17:25:21 +0000 2026",
-    "author_name": "Google AI Studio",
-    "author_screen_name": "GoogleAIStudio",
-    "summary": "【原文】\n\n\n【来源】@googleaistudio\n【互动】浏览: 2448478 | 点赞: 9071 | 转发: 1018",
-    "title": ""
+    "score": 6
   },
   {
-    "id": "2031488099725754821",
-    "author": "cloudflaredev",
-    "url": "https://x.com/cloudflaredev/status/2031488099725754821",
-    "publishedAt": "2026-03-11T18:30:57.197209",
-    "source": "@cloudflaredev",
+    "id": "hackernews-47364729",
+    "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
+    "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Introducing the new /crawl endpoint - one API call and an entire site crawled.\n\nNo scripts. No browser management. Just the content in HTML, Markdown, or JSON.",
-    "likes": 8683,
-    "retweets": 607,
-    "replies": 369,
-    "views": 2547514,
-    "created_at": "Tue Mar 10 21:51:20 +0000 2026",
-    "author_name": "Cloudflare Developers",
-    "author_screen_name": "CloudflareDev",
-    "summary": "【原文】\nIntroducing the new /crawl endpoint - one API call and an entire site crawled.\n\nNo scripts. No browser management. Just the content in HTML, Markdown, or JSON.\n\n【来源】@cloudflaredev\n【互动】浏览: 2547514 | 点赞: 8683 | 转发: 607",
-    "title": "Introducing the new /crawl endpoint - one API call"
+    "score": 6
   },
   {
-    "id": "2031311890752704790",
-    "author": "nvidia",
-    "url": "https://x.com/nvidia/status/2031311890752704790",
-    "publishedAt": "2026-03-11T18:30:57.197208",
-    "source": "@nvidia",
+    "id": "hackernews-47371692",
+    "title": "Games with loot boxes to get minimum 16 age rating across Europe",
+    "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "",
-    "likes": 4069,
-    "retweets": 872,
-    "replies": 182,
-    "views": 1384595,
-    "created_at": "Tue Mar 10 10:11:09 +0000 2026",
-    "author_name": "NVIDIA",
-    "author_screen_name": "nvidia",
-    "summary": "【原文】\n\n\n【来源】@nvidia\n【互动】浏览: 1384595 | 点赞: 4069 | 转发: 872",
-    "title": ""
+    "score": 6
   },
   {
-    "id": "2031449322190229894",
-    "author": "elonmusk",
-    "url": "https://x.com/elonmusk/status/2031449322190229894",
-    "publishedAt": "2026-03-11T18:30:57.197206",
-    "source": "@elonmusk",
+    "id": "hackernews-47371275",
+    "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
+    "url": "https://lr0.org/blog/p/crocker/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-14T05:41:04.835Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
     "tags": [
-      "AI",
-      "科技"
+      "开发者",
+      "社区"
     ],
-    "text": "Is there a more hypocritical company than Anthropic?",
-    "likes": 25603,
-    "retweets": 4623,
-    "replies": 3726,
-    "views": 5958976,
-    "created_at": "Tue Mar 10 19:17:15 +0000 2026",
-    "author_name": "Elon Musk",
-    "author_screen_name": "elonmusk",
-    "summary": "【原文】\nIs there a more hypocritical company than Anthropic?\n\n【来源】@elonmusk\n【互动】浏览: 5958976 | 点赞: 25603 | 转发: 4623",
-    "title": "Is there a more hypocritical company than Anthropi"
-  },
-  {
-    "id": "2031397522590282212",
-    "author": "kevinroose",
-    "url": "https://x.com/kevinroose/status/2031397522590282212",
-    "publishedAt": "2026-03-11T18:30:57.197203",
-    "source": "@kevinroose",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "text": "We made a blind taste test to see whether NYT readers prefer human writing or AI writing. \n\n86,000 people have taken it so far, and the results are fascinating. Overall, 54% of quiz-takers prefer AI. A real moment!\n\nhttps://www.nytimes.com/interactive/2026/03/09/business/ai-writing-quiz.html",
-    "likes": 2551,
-    "retweets": 342,
-    "replies": 337,
-    "views": 2641610,
-    "created_at": "Tue Mar 10 15:51:25 +0000 2026",
-    "author_name": "Kevin Roose",
-    "author_screen_name": "kevinroose",
-    "summary": "【原文】\nWe made a blind taste test to see whether NYT readers prefer human writing or AI writing. \n\n86,000 people have taken it so far, and the results are fascinating. Overall, 54% of quiz-takers prefer AI. \n\n【来源】@kevinroose\n【互动】浏览: 2641610 | 点赞: 2551 | 转发: 342",
-    "title": "We made a blind taste test to see whether NYT read"
-  },
-  {
-    "id": "2031506296697131352",
-    "author": "trq212",
-    "url": "https://x.com/trq212/status/2031506296697131352",
-    "publishedAt": "2026-03-11T18:30:57.197201",
-    "source": "@trq212",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "text": "We just added /btw to Claude Code! \n\nUse it to have side chain conversations while Claude is working.",
-    "likes": 19110,
-    "retweets": 1144,
-    "replies": 941,
-    "views": 1548776,
-    "created_at": "Tue Mar 10 23:03:39 +0000 2026",
-    "author_name": "Thariq",
-    "author_screen_name": "trq212",
-    "summary": "【原文】\nWe just added /btw to Claude Code! \n\nUse it to have side chain conversations while Claude is working.\n\n【来源】@trq212\n【互动】浏览: 1548776 | 点赞: 19110 | 转发: 1144",
-    "title": "We just added /btw to Claude Code! \n\nUse it to hav"
-  },
-  {
-    "id": "2031398299371020788",
-    "author": "polymarket",
-    "url": "https://x.com/polymarket/status/2031398299371020788",
-    "publishedAt": "2026-03-11T18:30:57.197197",
-    "source": "@polymarket",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "text": "BREAKING: Amazon reportedly holds mandatory meeting after “vibe coded” changes trigger major outages.",
-    "likes": 25281,
-    "retweets": 1939,
-    "replies": 746,
-    "views": 11009783,
-    "created_at": "Tue Mar 10 15:54:30 +0000 2026",
-    "author_name": "Polymarket",
-    "author_screen_name": "Polymarket",
-    "summary": "【原文】\nBREAKING: Amazon reportedly holds mandatory meeting after “vibe coded” changes trigger major outages.\n\n【来源】@polymarket\n【互动】浏览: 11009783 | 点赞: 25281 | 转发: 1939",
-    "title": "BREAKING: Amazon reportedly holds mandatory meetin"
-  },
-  {
-    "id": "2031368237837844530",
-    "author": "polymarket",
-    "url": "https://x.com/polymarket/status/2031368237837844530",
-    "publishedAt": "2026-03-11T18:30:57.197178",
-    "source": "@polymarket",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "text": "BREAKING: META acquires Moltbook, a social network built for AI agents.",
-    "likes": 10970,
-    "retweets": 1211,
-    "replies": 1068,
-    "views": 5376832,
-    "created_at": "Tue Mar 10 13:55:03 +0000 2026",
-    "author_name": "Polymarket",
-    "author_screen_name": "Polymarket",
-    "summary": "【原文】\nBREAKING: META acquires Moltbook, a social network built for AI agents.\n\n【来源】@polymarket\n【互动】浏览: 5376832 | 点赞: 10970 | 转发: 1211",
-    "title": "BREAKING: META acquires Moltbook, a social network"
+    "score": 6
   }
 ]
