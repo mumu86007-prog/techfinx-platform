@@ -1,44 +1,10 @@
 [
   {
-    "id": "hackernews-47385935",
-    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47385272",
-    "title": "The Appalling Stupidity of Spotify's AI DJ",
-    "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
     "id": "hackernews-47383804",
     "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
     "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,11 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47386116",
-    "title": "A Visual Introduction to Machine Learning (2015)",
-    "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+    "id": "hackernews-47385935",
+    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -65,167 +31,14 @@
       "开发者",
       "社区"
     ],
-    "score": 6
+    "score": 8
   },
   {
-    "id": "hackernews-47387047",
-    "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-    "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+    "id": "hackernews-47387434",
+    "title": "Codegen is not productivity",
+    "url": "https://www.antifound.com/posts/codegen-is-not-productivity/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386581",
-    "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-    "url": "https://signet.watch/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386983",
-    "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
-    "url": "https://octetta.github.io/k-synth/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47384352",
-    "title": "Rack-mount hydroponics",
-    "url": "https://sa.lj.am/rack-mount-hydroponics/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47324478",
-    "title": "Kniterate Notes",
-    "url": "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386246",
-    "title": "IBM, sonic delay lines, and the history of the 80×24 display",
-    "url": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386441",
-    "title": "Generating All 32-Bit Primes (Part I)",
-    "url": "https://hnlyman.github.io/pages/prime32_I.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47334668",
-    "title": "Examples for the tcpdump and dig man pages",
-    "url": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47384032",
-    "title": "A most elegant TCP hole punching algorithm",
-    "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47382791",
-    "title": "How kernel anti-cheats work",
-    "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -242,24 +55,7 @@
     "title": "Why Mathematica does not simplify sinh(arccosh(x))",
     "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386651",
-    "title": "Pentagon expands oversight of Stars and Stripes, limits content",
-    "url": "https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +72,7 @@
     "title": "Allow me to get to know you, mistakes and all",
     "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +89,41 @@
     "title": "Human Organ Atlas",
     "url": "https://www.science.org/doi/10.1126/sciadv.adz2240",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386651",
+    "title": "Pentagon expands oversight of Stars and Stripes, limits content",
+    "url": "https://www.stripes.com/theaters/us/2026-03-13/pentagon-modernization-plan-stars-and-stripes-21051529.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47388273",
+    "title": "Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data",
+    "url": "https://zzk273.github.io/LATENT/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -310,7 +140,7 @@
     "title": "Show HN: Han – A Korean programming language written in Rust",
     "url": "https://github.com/xodn348/han",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -323,11 +153,181 @@
     "score": 6
   },
   {
-    "id": "hackernews-47386636",
-    "title": "100 hour gap between a vibecoded prototype and a working product",
-    "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+    "id": "hackernews-47337423",
+    "title": "Centuries of selective breeding turned wild cabbage into different vegetables",
+    "url": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T16:23:26.379Z",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47382398",
+    "title": "SBCL Fibers – Lightweight Cooperative Threads",
+    "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.476Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386116",
+    "title": "A Visual Introduction to Machine Learning (2015)",
+    "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47387047",
+    "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+    "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47388479",
+    "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
+    "url": "https://firthemouse.github.io/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386581",
+    "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
+    "url": "https://signet.watch/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386983",
+    "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
+    "url": "https://octetta.github.io/k-synth/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47384352",
+    "title": "Rack-mount hydroponics",
+    "url": "https://sa.lj.am/rack-mount-hydroponics/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47324478",
+    "title": "Kniterate Notes",
+    "url": "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47388519",
+    "title": "UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence",
+    "url": "https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386246",
+    "title": "IBM, sonic delay lines, and the history of the 80×24 display",
+    "url": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T17:21:23.475Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
