@@ -4,7 +4,7 @@
     "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
     "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -17,232 +17,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47383804",
-    "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-    "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+    "id": "hackernews-47388531",
+    "title": "In Memoriam: John W. Addison, my PhD advisor",
+    "url": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 8
-  },
-  {
-    "id": "hackernews-47387047",
-    "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-    "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386116",
-    "title": "A Visual Introduction to Machine Learning",
-    "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47388273",
-    "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
-    "url": "https://zzk273.github.io/LATENT/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47388479",
-    "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
-    "url": "https://firthemouse.github.io/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47339818",
-    "title": "Bus travel from Lima to Rio de Janeiro",
-    "url": "https://kenschutte.com/lima-to-rio-by-bus/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386856",
-    "title": "Hollywood Enters Oscars Weekend in Existential Crisis",
-    "url": "https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47384352",
-    "title": "Rack-mount hydroponics",
-    "url": "https://sa.lj.am/rack-mount-hydroponics/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386581",
-    "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-    "url": "https://signet.watch/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386983",
-    "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
-    "url": "https://octetta.github.io/k-synth/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47374572",
-    "title": "Autoresearch Hub",
-    "url": "http://autoresearchhub.com/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47389784",
-    "title": "Grandparents are glued to their phones, families are worried [video]",
-    "url": "https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47324478",
-    "title": "Kniterate Notes",
-    "url": "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47386246",
-    "title": "IBM, sonic delay lines, and the history of the 80×24 display",
-    "url": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -259,7 +38,7 @@
     "title": "LLM Architecture Gallery",
     "url": "https://sebastianraschka.com/llm-architecture-gallery/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -272,11 +51,249 @@
     "score": 6
   },
   {
-    "id": "hackernews-47386441",
-    "title": "Generating All 32-Bit Primes (Part I)",
-    "url": "https://hnlyman.github.io/pages/prime32_I.html",
+    "id": "hackernews-47332593",
+    "title": "C++26: The Oxford Variadic Comma",
+    "url": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47339818",
+    "title": "Bus travel from Lima to Rio de Janeiro",
+    "url": "https://kenschutte.com/lima-to-rio-by-bus/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47387047",
+    "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+    "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47388273",
+    "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
+    "url": "https://zzk273.github.io/LATENT/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386116",
+    "title": "A Visual Introduction to Machine Learning",
+    "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47374572",
+    "title": "Autoresearch Hub",
+    "url": "http://autoresearchhub.com/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47388479",
+    "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
+    "url": "https://firthemouse.github.io/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47384352",
+    "title": "Rack-mount hydroponics",
+    "url": "https://sa.lj.am/rack-mount-hydroponics/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386856",
+    "title": "Hollywood Enters Oscars Weekend in Existential Crisis",
+    "url": "https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47390233",
+    "title": "Office.eu launches as Europe's sovereign office platform",
+    "url": "https://office.eu/media/pressrelease-20260304",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386581",
+    "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
+    "url": "https://signet.watch/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386983",
+    "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
+    "url": "https://octetta.github.io/k-synth/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47389784",
+    "title": "Grandparents are glued to their phones, families are worried [video]",
+    "url": "https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47324478",
+    "title": "Kniterate Notes",
+    "url": "https://soup.agnescameron.info//2026/03/07/kniterate-notes.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386246",
+    "title": "IBM, sonic delay lines, and the history of the 80×24 display",
+    "url": "https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +310,7 @@
     "title": "How kernel anti-cheats work",
     "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,28 +323,11 @@
     "score": 6
   },
   {
-    "id": "hackernews-47386636",
-    "title": "The 100 hour gap between a vibecoded prototype and a working product",
-    "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+    "id": "hackernews-47386441",
+    "title": "Generating All 32-Bit Primes (Part I)",
+    "url": "https://hnlyman.github.io/pages/prime32_I.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47384032",
-    "title": "A most elegant TCP hole punching algorithm",
-    "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T19:22:43.217Z",
+    "publishedAt": "2026-03-15T20:20:20.560Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
