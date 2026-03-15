@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "hackernews-47367129",
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "url": "https://claude.com/blog/1m-context-ga",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T06:01:24.355Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47376767",
+    "title": "Montana passes Right to Compute act (2025)",
+    "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T06:01:24.355Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47381791",
+    "title": "Ageless Linux – Software for humans of indeterminate age",
+    "url": "https://agelesslinux.org/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T06:01:24.354Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
