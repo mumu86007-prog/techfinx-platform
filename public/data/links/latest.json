@@ -4,7 +4,7 @@
     "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
     "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -21,7 +21,7 @@
     "title": "Airbus is preparing two uncrewed combat aircraft",
     "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -38,7 +38,7 @@
     "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
     "url": "https://github.com/groverburger/grobpaint",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -51,45 +51,11 @@
     "score": 8
   },
   {
-    "id": "hackernews-47384352",
-    "title": "Rack-mount hydroponics",
-    "url": "https://sa.lj.am/rack-mount-hydroponics/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
     "id": "hackernews-47335325",
     "title": "Why Mathematica does not simplify sinh(arccosh(x))",
     "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47382791",
-    "title": "How kernel anti-cheats work",
-    "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -106,7 +72,24 @@
     "title": "A most elegant TCP hole punching algorithm",
     "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47382791",
+    "title": "How kernel anti-cheats work",
+    "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -123,7 +106,7 @@
     "title": "Show HN: Han – A Korean programming language written in Rust",
     "url": "https://github.com/xodn348/han",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -140,7 +123,7 @@
     "title": "Allow me to get to know you, mistakes and all",
     "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -157,41 +140,7 @@
     "title": "Ageless Linux – Software for humans of indeterminate age",
     "url": "https://agelesslinux.org/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47374924",
-    "title": "Mathematics Distillation Challenge – Equational Theories",
-    "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47383059",
-    "title": "Tree Search Distillation for Language Models Using PPO",
-    "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -208,7 +157,41 @@
     "title": "SBCL Fibers – Lightweight Cooperative Threads",
     "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47374924",
+    "title": "Mathematics Distillation Challenge – Equational Theories",
+    "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47383059",
+    "title": "Tree Search Distillation for Language Models Using PPO",
+    "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -225,41 +208,7 @@
     "title": "Bumblebee queens breathe underwater to survive drowning",
     "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47384619",
-    "title": "Jeff Bezos wants Washington Post’s newsroom budget halved, productivity doubled",
-    "url": "https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
-    "tags": [
-      "开发者",
-      "社区"
-    ],
-    "score": 6
-  },
-  {
-    "id": "hackernews-47337423",
-    "title": "An unappetizing shrub became different vegetables",
-    "url": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -276,7 +225,7 @@
     "title": "MCP is dead; long live MCP",
     "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -293,7 +242,7 @@
     "title": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
     "url": "https://kubicki.org/letters/the-festival-of-the-machines/",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -306,11 +255,28 @@
     "score": 6
   },
   {
-    "id": "hackernews-47381340",
-    "title": "Launching the Claude Partner Network",
-    "url": "https://www.anthropic.com/news/claude-partner-network",
+    "id": "hackernews-47337423",
+    "title": "An unappetizing shrub became different vegetables",
+    "url": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47380512",
+    "title": "Fedora 44 on the Raspberry Pi 5",
+    "url": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
@@ -327,7 +293,41 @@
     "title": "Marketing for Founders",
     "url": "https://github.com/EdoStra/Marketing-for-Founders",
     "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-15T08:29:49.699Z",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47381340",
+    "title": "Launching the Claude Partner Network",
+    "url": "https://www.anthropic.com/news/claude-partner-network",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47377998",
+    "title": "An ode to bzip",
+    "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-15T09:27:37.459Z",
     "source": {
       "id": "hackernews",
       "name": "Hacker News",
