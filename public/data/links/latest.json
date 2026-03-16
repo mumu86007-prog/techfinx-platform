@@ -1,1 +1,325 @@
-[]
+[
+  {
+    "id": "hackernews-47388646",
+    "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+    "url": "https://news.ycombinator.com/item?id=47388646",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.594Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47392547",
+    "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+    "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47393619",
+    "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
+    "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 8
+  },
+  {
+    "id": "hackernews-47392084",
+    "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47390817",
+    "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+    "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47390945",
+    "title": "The 49MB Web Page",
+    "url": "https://thatshubham.com/blog/news-audit",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47393388",
+    "title": "The Linux Programming Interface as a university course text",
+    "url": "https://man7.org/tlpi/academic/index.html",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47388676",
+    "title": "LLM Architecture Gallery",
+    "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47339463",
+    "title": "//go:fix inline and the source-level inliner",
+    "url": "https://go.dev/blog/inliner",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47388137",
+    "title": "Separating the Wayland compositor and window manager",
+    "url": "https://isaacfreund.com/blog/river-window-management/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47388141",
+    "title": "What makes Intel Optane stand out (2023)",
+    "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47350763",
+    "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+    "url": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47387047",
+    "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+    "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47392550",
+    "title": "Nasdaq's Shame",
+    "url": "https://keubiko.substack.com/p/nasdaqs-shame",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47388273",
+    "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
+    "url": "https://zzk273.github.io/LATENT/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47386116",
+    "title": "A Visual Introduction to Machine Learning (2015)",
+    "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47389570",
+    "title": "Stop Sloppypasta",
+    "url": "https://stopsloppypasta.ai/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47339818",
+    "title": "Bus travel from Lima to Rio de Janeiro",
+    "url": "https://kenschutte.com/lima-to-rio-by-bus/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  },
+  {
+    "id": "hackernews-47391803",
+    "title": "LLMs can be exhausting",
+    "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+    "summary": "Comments on Hacker News | Source",
+    "publishedAt": "2026-03-16T01:48:41.593Z",
+    "source": {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "AI"
+    },
+    "tags": [
+      "开发者",
+      "社区"
+    ],
+    "score": 6
+  }
+]
