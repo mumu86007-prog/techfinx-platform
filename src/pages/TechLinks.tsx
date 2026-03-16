@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { Helmet } from 'react-helmet-async'
 
 type SourceInfo = string | { id?: string; name?: string; category?: string }
 
@@ -90,6 +91,14 @@ const TechLinks = () => {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <Helmet>
+        <title>TechFinX | 科技金融每日精选（X 热门推文）</title>
+        <meta
+          name="description"
+          content="TechFinX：每天精选 X 平台科技与金融热点，提供专业翻译与行业解读，并沉淀可检索的历史内容。"
+        />
+        <link rel="canonical" href="https://techfinx.top/" />
+      </Helmet>
       {/* Header */}
       <header className="bg-white border-b border-gray-200 sticky top-0 z-50">
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
@@ -101,6 +110,10 @@ const TechLinks = () => {
               <div>
                 <h1 className="text-xl font-bold text-gray-900">TechFinX</h1>
                 <p className="text-xs text-gray-500">科技金融 · 每日精选</p>
+              </div>
+              <div className="hidden sm:flex items-center space-x-3 text-sm">
+                <a href="/articles" className="text-gray-600 hover:text-blue-600">历史</a>
+                <a href="/daily/2026-03-16.html" className="text-gray-600 hover:text-blue-600">今日</a>
               </div>
             </div>
             <div className="flex items-center space-x-4">

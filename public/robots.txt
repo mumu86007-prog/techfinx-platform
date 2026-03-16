@@ -1,18 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://techfinx.com/sitemap.xml
-
-# Disallow admin and private areas
-Disallow: /admin/
-Disallow: /api/
-Disallow: /_internal/
-
-# Allow important pages
-Allow: /
-Allow: /finance/
-Allow: /tech/
-Allow: /hot/
-Allow: /about/
-Allow: /contact/
+Sitemap: https://techfinx.top/sitemap.xml

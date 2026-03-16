@@ -1,138 +1,926 @@
 [
   {
-    "id": "hackernews-47392084",
-    "title": "Canada's bill C-22 mandates mass metadata surveillance",
-    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-16T09:58:10.325Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
+    "id": "2033286300216738240",
+    "author": "dexerto",
+    "url": "https://x.com/dexerto/status/2033286300216738240",
+    "publishedAt": "2026-03-16T13:46:20.334119",
+    "source": "@dexerto",
     "tags": [
-      "开发者",
-      "社区"
+      "AI",
+      "科技"
     ],
-    "score": 6
+    "text": "Pokemon Go players unknowingly helped train delivery robots after generating over 30 billion real-world scans through the game\n\nThat data is now being used to help autonomous robots navigate city streets",
+    "likes": 11874,
+    "retweets": 649,
+    "replies": 273,
+    "views": 1417694,
+    "created_at": "Sun Mar 15 20:56:45 +0000 2026",
+    "author_name": "Dexerto",
+    "author_screen_name": "Dexerto",
+    "summary": "【原文】\nPokemon Go players unknowingly helped train delivery robots after generating over 30 billion real-world scans through the game\n\nThat data is now being used to help autonomous robots navigate city stre\n\n【中文解读】\nPokemon Go 玩家在游戏中生成了超过 300 亿次现实世界扫描后，不知不觉地帮助训练了送货机器人\n\n这些数据现在被用来帮助自主机器人在城市街道上导航\n\n【来源】@dexerto\n【互动】浏览: 1417694 | 点赞: 11874 | 转发: 649",
+    "title": "Pokemon Go players unknowingly helped train delive"
   },
   {
-    "id": "hackernews-47390945",
-    "title": "The 49MB web page",
-    "url": "https://thatshubham.com/blog/news-audit",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-16T09:58:10.325Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
+    "id": "2033227542392418458",
+    "author": "alexwg",
+    "url": "https://x.com/alexwg/status/2033227542392418458",
+    "publishedAt": "2026-03-16T13:46:20.334117",
+    "source": "@alexwg",
     "tags": [
-      "开发者",
-      "社区"
+      "AI",
+      "科技"
     ],
-    "score": 6
+    "text": "",
+    "likes": 1062,
+    "retweets": 177,
+    "replies": 114,
+    "views": 285588,
+    "created_at": "Sun Mar 15 17:03:16 +0000 2026",
+    "author_name": "Dr. Alex Wissner-Gross",
+    "author_screen_name": "alexwg",
+    "summary": "【原文】\n\n\n【中文解读】\n\n\n【来源】@alexwg\n【互动】浏览: 285588 | 点赞: 1062 | 转发: 177",
+    "title": ""
   },
   {
-    "id": "hackernews-47390817",
-    "title": "Chrome DevTools MCP (2025)",
-    "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-16T09:58:10.325Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
+    "id": "2033187856370557379",
+    "author": "satyanadella",
+    "url": "https://x.com/satyanadella/status/2033187856370557379",
+    "publishedAt": "2026-03-16T13:46:20.334115",
+    "source": "@satyanadella",
     "tags": [
-      "开发者",
-      "社区"
+      "AI",
+      "科技"
     ],
-    "score": 6
+    "text": "We’ve trained a multimodal AI model to turn routine pathology slides into spatial proteomics, with the potential to reduce time and cost while expanding access to cancer care.",
+    "likes": 8330,
+    "retweets": 1270,
+    "replies": 317,
+    "views": 1368847,
+    "created_at": "Sun Mar 15 14:25:34 +0000 2026",
+    "author_name": "Satya Nadella",
+    "author_screen_name": "satyanadella",
+    "summary": "【原文】\nWe’ve trained a multimodal AI model to turn routine pathology slides into spatial proteomics, with the potential to reduce time and cost while expanding access to cancer care.\n\n【中文解读】\n我们训练了一个多模式人工智能模型，将常规病理学幻灯片转化为空间蛋白质组学，有可能减少时间和成本，同时扩大癌症护理的覆盖范围。\n\n【来源】@satyanadella\n【互动】浏览: 1368847 | 点赞: 8330 | 转发: 1270",
+    "title": "We’ve trained a multimodal AI model to turn routin"
   },
   {
-    "id": "hackernews-47388676",
-    "title": "LLM Architecture Gallery",
-    "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-16T09:58:10.325Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
+    "id": "2033258908882817153",
+    "author": "tftc21",
+    "url": "https://x.com/tftc21/status/2033258908882817153",
+    "publishedAt": "2026-03-16T13:46:20.334114",
+    "source": "@tftc21",
     "tags": [
-      "开发者",
-      "社区"
+      "AI",
+      "科技"
     ],
-    "score": 6
+    "text": "Netanyahu posted a proof-of-life video. People said it was AI because he had 6 fingers. He posted another one ordering coffee and showing 5 fingers. People said that was AI too because the coffee didn't spill.\n\nWe've crossed a line we can't uncross. The same AI tools that can generate a convincing fake of anyone on Earth have made it impossible to prove anything is real. \n\nThe technology that was supposed to give us more information has made all information less trustworthy.\n\nThis isn't about Netanyahu. Every world leader, every CEO, every public figure now lives in a world where \"that's AI\" is an unfalsifiable response to any evidence. \n\nProof of life now requires multiple videos, press witnesses, and cafe Instagram posts. People still don't believe it.\n\nWe built tools so powerful that seeing is no longer believing. Nobody has figured out what replaces it.",
+    "likes": 5200,
+    "retweets": 521,
+    "replies": 419,
+    "views": 1296486,
+    "created_at": "Sun Mar 15 19:07:54 +0000 2026",
+    "author_name": "TFTC",
+    "author_screen_name": "TFTC21",
+    "summary": "【原文】\nNetanyahu posted a proof-of-life video. People said it was AI because he had 6 fingers. He posted another one ordering coffee and showing 5 fingers. People said that was AI too because the coffee didn\n\n【中文解读】\n内塔尼亚胡发布了一段生命证明视频。人们说他是人工智能，因为他有 6 个手指。他又发布了一张点咖啡并伸出 5 根手指的照片。人们说这也是人工智能，因为咖啡没有洒出来。\n\n我们已经越过了一条无法逾越的界限。同样的人工智能工具可以生成地球上任何人的令人信服的假象，但却无法证明任何东西是真实的。 \n\n本应为我们提供更多信息的技术却让所有信息变得不那么可信。\n\n这与内塔尼亚胡无关。现在，每一位世界领导人、每\n\n【来源】@tftc21\n【互动】浏览: 1296486 | 点赞: 5200 | 转发: 521",
+    "title": "Netanyahu posted a proof-of-life video. People sai"
   },
   {
-    "id": "hackernews-47389570",
-    "title": "Stop Sloppypasta",
-    "url": "https://stopsloppypasta.ai/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-16T09:58:10.325Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
+    "id": "2033069370881003631",
+    "author": "watcherguru",
+    "url": "https://x.com/watcherguru/status/2033069370881003631",
+    "publishedAt": "2026-03-16T13:46:20.334112",
+    "source": "@watcherguru",
     "tags": [
-      "开发者",
-      "社区"
+      "AI",
+      "科技"
     ],
-    "score": 6
+    "text": "JUST IN: Elon Musk says AI will make jobs \"optional\" in the future due to \"universal high income.\"",
+    "likes": 6908,
+    "retweets": 849,
+    "replies": 1303,
+    "views": 1065975,
+    "created_at": "Sun Mar 15 06:34:45 +0000 2026",
+    "author_name": "Watcher.Guru",
+    "author_screen_name": "WatcherGuru",
+    "summary": "【原文】\nJUST IN: Elon Musk says AI will make jobs \"optional\" in the future due to \"universal high income.\"\n\n【中文解读】\n上一篇：埃隆·马斯克表示，由于“普遍的高收入”，人工智能在未来将使工作变得“可选”。\n\n【来源】@watcherguru\n【互动】浏览: 1065975 | 点赞: 6908 | 转发: 849",
+    "title": "JUST IN: Elon Musk says AI will make jobs \"optiona"
   },
   {
-    "id": "hackernews-47388137",
-    "title": "Separating the Wayland compositor and window manager",
-    "url": "https://isaacfreund.com/blog/river-window-management/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-16T09:58:10.325Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
+    "id": "2033226013128511512",
+    "author": "patrickc",
+    "url": "https://x.com/patrickc/status/2033226013128511512",
+    "publishedAt": "2026-03-16T13:46:20.334110",
+    "source": "@patrickc",
     "tags": [
-      "开发者",
-      "社区"
+      "AI",
+      "科技"
     ],
-    "score": 6
+    "text": "• According to the story, the dog's cancer has not been cured.\n• Absent all regulatory and manufacturing constraints, we could not just synthesize magic mRNA cancer cures. The technology is very promising, but it's not yet any kind of panacea.\n• The emergent system of regulators and manufacturers is indeed far too conservative, and small-scale experimentation is much harder than it should be. More people should read the first part of The Rise and Fall of Modern Medicine. Recommend @RuxandraTeslo, @PatrickHeizer for more.",
+    "likes": 3764,
+    "retweets": 262,
+    "replies": 131,
+    "views": 651909,
+    "created_at": "Sun Mar 15 16:57:11 +0000 2026",
+    "author_name": "Patrick Collison",
+    "author_screen_name": "patrickc",
+    "summary": "【原文】\n• According to the story, the dog's cancer has not been cured.\n• Absent all regulatory and manufacturing constraints, we could not just synthesize magic mRNA cancer cures. The technology is very promi\n\n【中文解读】\n• 据报道，狗的癌症尚未治愈。\n• 如果没有所有监管和制造限制，我们无法合成神奇的 mRNA 癌症疗法。这项技术非常有前途，但它还不是任何一种灵丹妙药。\n• 监管机构和制造商的新兴体系确实过于保守，小规模试验比应有的困难得多。更多的人应该阅读《现代医学的兴衰》第一部分。推荐@RuxandraTeslo、@PatrickHeizer 了解更多。\n\n【来源】@patrickc\n【互动】浏览: 651909 | 点赞: 3764 | 转发: 262",
+    "title": "• According to the story, the dog's cancer has not"
   },
   {
-    "id": "hackernews-47387047",
-    "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
-    "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-16T09:58:10.325Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
+    "id": "2033053166238109969",
+    "author": "elonmusk",
+    "url": "https://x.com/elonmusk/status/2033053166238109969",
+    "publishedAt": "2026-03-16T13:46:20.334108",
+    "source": "@elonmusk",
     "tags": [
-      "开发者",
-      "社区"
+      "AI",
+      "科技"
     ],
-    "score": 6
+    "text": "@_kaitodev @garrytan @karpathy All jobs will be optional. \n\nThere will be universal high income.",
+    "likes": 16503,
+    "retweets": 1949,
+    "replies": 8012,
+    "views": 2258607,
+    "created_at": "Sun Mar 15 05:30:21 +0000 2026",
+    "author_name": "Elon Musk",
+    "author_screen_name": "elonmusk",
+    "summary": "【原文】\n@_kaitodev @garrytan @karpathy All jobs will be optional. \n\nThere will be universal high income.\n\n【中文解读】\n@_kaitodev @garrytan @karpathy 所有工作都是可选的。 \n\n将会出现普遍的高收入。\n\n【来源】@elonmusk\n【互动】浏览: 2258607 | 点赞: 16503 | 转发: 1949",
+    "title": "@_kaitodev @garrytan @karpathy All jobs will be op"
   },
   {
-    "id": "hackernews-47386116",
-    "title": "A Visual Introduction to Machine Learning (2015)",
-    "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-    "summary": "Comments on Hacker News | Source",
-    "publishedAt": "2026-03-16T09:58:10.325Z",
-    "source": {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "category": "AI"
-    },
+    "id": "2033075790368108984",
+    "author": "chiefofautism",
+    "url": "https://x.com/chiefofautism/status/2033075790368108984",
+    "publishedAt": "2026-03-16T13:46:20.334105",
+    "source": "@chiefofautism",
     "tags": [
-      "开发者",
-      "社区"
+      "AI",
+      "科技"
     ],
-    "score": 6
+    "text": "someone built a $96 3D-PRINTED MANPADS rocket that recalculates its mid-air trajectory using a $5 sensor and piano wire  \n\nits called Project Canard  \n\nit integrates with distributed camera nodes to triangulate airborne targets and update flight paths in real-time\n\nit proves the barrier to advanced hardware has completely collapsed, moving precision weapons from defense labs to consumer garages\n\nthe entire launcher and interceptor frame is 3D printed in PLA and runs off a standard off-the-shelf ESP32 microcontroller  \n\nit even spins up a local Wi-Fi network so you can monitor live telemetry and arm the system directly from your laptop",
+    "likes": 19772,
+    "retweets": 2605,
+    "replies": 466,
+    "views": 2183588,
+    "created_at": "Sun Mar 15 07:00:15 +0000 2026",
+    "author_name": "chiefofautism",
+    "author_screen_name": "chiefofautism",
+    "summary": "【原文】\nsomeone built a $96 3D-PRINTED MANPADS rocket that recalculates its mid-air trajectory using a $5 sensor and piano wire  \n\nits called Project Canard  \n\nit integrates with distributed camera nodes to t\n\n【中文解读】\n有人造了一个价值 96 美元的 3D 打印便携式防空导弹，它使用价值 5 美元的传感器和钢琴线重新计算其空中轨迹  \n\n它被称为“鸭子计划”  \n\n它与分布式相机节点集成，对空中目标进行三角测量并实时更新飞行路径\n\n它证明先进硬件的障碍已经完全崩溃，精密武器从国防实验室转移到消费者车库\n\n整个发射器和拦截器框架均采用 PLA 3D 打印，并在标准的现成 ESP32 微控制器上运行  \n\n它甚至可以\n\n【来源】@chiefofautism\n【互动】浏览: 2183588 | 点赞: 19772 | 转发: 2605",
+    "title": "someone built a $96 3D-PRINTED MANPADS rocket that"
+  },
+  {
+    "id": "2033230495283351624",
+    "author": "markgadala",
+    "url": "https://x.com/markgadala/status/2033230495283351624",
+    "publishedAt": "2026-03-16T13:46:20.334102",
+    "source": "@markgadala",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "This is wild.\n\n143 million people thought they were catching Pokémon. They were actually building one of the largest real-world visual datasets in AI history.\n\nNiantic just disclosed that photos and AR scans collected through Pokémon Go have produced a dataset of over 30 billion real-world images. The company is now using that data to power visual navigation AI for delivery robots.\n\nPlayers didn't just walk around with their phones. They scanned landmarks, storefronts, parks, and sidewalks from every angle, at every time of day, in lighting and weather conditions that staged photography would never capture. They documented the physical world at a scale no mapping company with a fleet of vehicles could have replicated on the same timeline or budget.\n\nNiantic collected this systematically, data point by data point, across eight years, while users thought the only thing at stake was catching a rare Charizard.\n\nThe most valuable AI training datasets in the world aren't being assembled in data centers. They're being built by people who have no idea they're building them.",
+    "likes": 69338,
+    "retweets": 15667,
+    "replies": 1387,
+    "views": 7743165,
+    "created_at": "Sun Mar 15 17:15:00 +0000 2026",
+    "author_name": "Mark Gadala-Maria",
+    "author_screen_name": "markgadala",
+    "summary": "【原文】\nThis is wild.\n\n143 million people thought they were catching Pokémon. They were actually building one of the largest real-world visual datasets in AI history.\n\nNiantic just disclosed that photos and A\n\n【中文解读】\n这太疯狂了。\n\n1.43 亿人认为他们正在捕捉神奇宝贝。他们实际上正在构建人工智能历史上最大的现实世界视觉数据集之一。\n\nNiantic 刚刚透露，通过 Pokémon Go 收集的照片和 AR 扫描生成了包含超过 300 亿张真实世界图像的数据集。该公司目前正在使用这些数据为送货机器人的视觉导航人工智能提供动力。\n\n玩家不只是带着手机到处走。他们在一天中的每个时间、在灯光和天气条件下从各个角度扫\n\n【来源】@markgadala\n【互动】浏览: 7743165 | 点赞: 69338 | 转发: 15667",
+    "title": "This is wild.\n\n143 million people thought they wer"
+  },
+  {
+    "id": "2033105934957101136",
+    "author": "newsforce",
+    "url": "https://x.com/newsforce/status/2033105934957101136",
+    "publishedAt": "2026-03-16T13:46:20.334082",
+    "source": "@newsforce",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "POKÉMON GO PLAYERS TRAINED 30 BILLION IMAGE AI MAP\n\nNiantic says photos and scans collected through Pokémon Go and its AR apps have produced a massive dataset of more than 30 billion real-world images.\n\nThe company is now using that data to power visual navigation for delivery robots, letting them identify exact locations on city streets without relying on GPS.\n\nSource: NewsForce",
+    "likes": 13731,
+    "retweets": 1986,
+    "replies": 491,
+    "views": 11025674,
+    "created_at": "Sun Mar 15 09:00:02 +0000 2026",
+    "author_name": "NewsForce",
+    "author_screen_name": "Newsforce",
+    "summary": "【原文】\nPOKÉMON GO PLAYERS TRAINED 30 BILLION IMAGE AI MAP\n\nNiantic says photos and scans collected through Pokémon Go and its AR apps have produced a massive dataset of more than 30 billion real-world images\n\n【中文解读】\nPOKÉMON GO 玩家训练了 300 亿张图像 AI 地图\n\nNiantic 表示，通过 Pokémon Go 及其 AR 应用程序收集的照片和扫描结果生成了包含超过 300 亿张真实世界图像的庞大数据集。\n\n该公司目前正在利用这些数据为送货机器人提供视觉导航，让它们无需依赖 GPS 即可识别城市街道上的确切位置。\n\n资料来源：新闻力量\n\n【来源】@newsforce\n【互动】浏览: 11025674 | 点赞: 13731 | 转发: 1986",
+    "title": "POKÉMON GO PLAYERS TRAINED 30 BILLION IMAGE AI MAP"
+  },
+  {
+    "id": "2032927164883153402",
+    "author": "_kaitodev",
+    "url": "https://x.com/_kaitodev/status/2032927164883153402",
+    "publishedAt": "2026-03-15T22:44:45.013159",
+    "source": "@_kaitodev",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "5 minutes ago, @karpathy just dropped karpathy/jobs!\n\nhe scraped every job in the US economy (342 occupations from BLS), scored each one's AI exposure 0-10 using an LLM, and visualized it as a treemap.\n\nif your whole job happens on a screen you're cooked. \n\naverage score across all jobs is 5.3/10. \nsoftware devs: 8-9. \nroofers: 0-1. \nmedical transcriptionists: 10/10 💀\n\nhttp://karpathy.ai/jobs",
+    "likes": 8892,
+    "retweets": 1278,
+    "replies": 657,
+    "views": 1936792,
+    "created_at": "Sat Mar 14 21:09:40 +0000 2026",
+    "author_name": "Kaito | 海斗",
+    "author_screen_name": "_kaitodev",
+    "summary": "【原文】\n5 minutes ago, @karpathy just dropped karpathy/jobs!\n\nhe scraped every job in the US economy (342 occupations from BLS), scored each one's AI exposure 0-10 using an LLM, and visualized it as a treemap\n\n【中文解读】\n5 分钟前，@karpathy 刚刚删除了 karpathy/jobs！\n\n他抓取了美国经济中的每一项工作（来自 BLS 的 342 种职业），使用法学硕士对每个人的人工智能暴露程度进行了 0-10 的评分，并将其可视化为树形图。\n\n如果你的全部工作都在屏幕上进行，那你就完蛋了。 \n\n所有工作的平均分是 5.3/10。 \n软件开发人员：8-9。 \n屋顶工：0-1。 \n医疗转录员：10/10 💀\n\n\n\n【来源】@_kaitodev\n【互动】浏览: 1936792 | 点赞: 8892 | 转发: 1278",
+    "title": "5 minutes ago, @karpathy just dropped karpathy/job"
+  },
+  {
+    "id": "2032826128306470987",
+    "author": "cryptopunk7213",
+    "url": "https://x.com/cryptopunk7213/status/2032826128306470987",
+    "publishedAt": "2026-03-15T22:44:45.013158",
+    "source": "@cryptopunk7213",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "this is so fucking wholesome\n\nguy used AI to save his cancer-ridden dog by sequencing its DNA and creating a CUSTOM cure. \n\nthe tech behind this is fucking awesome (well done @demishassabis and the google team):\n\n- used CHATGPT to sequence dogs DNA discovers mutations\n\n- ran the mutations through Google’s Alphafold (AI protein sequencer) which CREATED A CUSTOM VACCINE TO TREAT THEM.\n\n- treated dog and reduced tumour by 50% in WEEKS. dog is alive and well.\n\n- this is the 1st time AI has been used to create a custom vaccine for a dog (and it worked)\n\n- dude is now working on similar vaccines for humans using AI! \n\n2026 is definitely the year we see AI change personalised medicine in a HUGE way\n\nso sick",
+    "likes": 10043,
+    "retweets": 1365,
+    "replies": 267,
+    "views": 1245600,
+    "created_at": "Sat Mar 14 14:28:11 +0000 2026",
+    "author_name": "Ejaaz",
+    "author_screen_name": "cryptopunk7213",
+    "summary": "【原文】\nthis is so fucking wholesome\n\nguy used AI to save his cancer-ridden dog by sequencing its DNA and creating a CUSTOM cure. \n\nthe tech behind this is fucking awesome (well done @demishassabis and the go\n\n【中文解读】\n这太他妈健康了\n\n一个家伙利用人工智能对他那只患有癌症的狗进行了测序，并创造了一种定制疗法，从而拯救了它。 \n\n这背后的技术太棒了（干得好@demishassabis和谷歌团队）：\n\n- 使用 CHATGPT 对狗 DNA 进行测序发现突变\n\n- 通过谷歌的 Alphafold（人工智能蛋白质测序仪）运行突变，从而创建了一种定制疫苗来治疗它们。\n\n- 经过治疗的狗在几周内肿瘤减少了 50%。狗还活\n\n【来源】@cryptopunk7213\n【互动】浏览: 1245600 | 点赞: 10043 | 转发: 1365",
+    "title": "this is so fucking wholesome\n\nguy used AI to save "
+  },
+  {
+    "id": "2032889575320768867",
+    "author": "patrickheizer",
+    "url": "https://x.com/patrickheizer/status/2032889575320768867",
+    "publishedAt": "2026-03-15T22:44:45.013156",
+    "source": "@patrickheizer",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Sorry to be the downer because this is an impressive story in some senses.\n\nBut it is ~trivially easy to make a single mRNA vaccine. It's not hard.\n\nI cure mice of various cancers with various therapeutics all the time. I've made mice lose more weight in a month than tirzepatide does in a year.\n\nWhat is hard and expensive is proving its BOTH safe AND effective **in a randomized and controlled study in humans** while ALSO manufacturing it at clinical scale and grade.\n\nI am happy for this man and his dog. It is impressive.\n\nBut y'all are overhyping it.",
+    "likes": 3581,
+    "retweets": 270,
+    "replies": 623,
+    "views": 1900633,
+    "created_at": "Sat Mar 14 18:40:18 +0000 2026",
+    "author_name": "Patrick Heizer",
+    "author_screen_name": "PatrickHeizer",
+    "summary": "【原文】\nSorry to be the downer because this is an impressive story in some senses.\n\nBut it is ~trivially easy to make a single mRNA vaccine. It's not hard.\n\nI cure mice of various cancers with various therape\n\n【中文解读】\n很抱歉让你感到沮丧，因为从某种意义上来说，这是一个令人印象深刻的故事。\n\n但制造单一 mRNA 疫苗却非常容易。这并不难。\n\n我一直用各种疗法治愈患有各种癌症的老鼠。我让老鼠在一个月内减掉的体重比替西帕肽一年内减掉的体重还多。\n\n困难且昂贵的是在人体随机对照研究中证明其既安全又有效，同时还要以临床规模和等级进行生产。\n\n我为这个人和他的狗感到高兴。令人印象深刻。\n\n但你们都夸大了它。\n\n【来源】@patrickheizer\n【互动】浏览: 1900633 | 点赞: 3581 | 转发: 270",
+    "title": "Sorry to be the downer because this is an impressi"
+  },
+  {
+    "id": "2032922178283331711",
+    "author": "polymarket",
+    "url": "https://x.com/polymarket/status/2032922178283331711",
+    "publishedAt": "2026-03-15T22:44:45.013154",
+    "source": "@polymarket",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "JUST IN: Humanoid robots are reportedly now being deployed to the frontlines of the Ukraine war.",
+    "likes": 10164,
+    "retweets": 1367,
+    "replies": 734,
+    "views": 1692431,
+    "created_at": "Sat Mar 14 20:49:51 +0000 2026",
+    "author_name": "Polymarket",
+    "author_screen_name": "Polymarket",
+    "summary": "【原文】\nJUST IN: Humanoid robots are reportedly now being deployed to the frontlines of the Ukraine war.\n\n【中文解读】\n最新报道：据报道，人形机器人现已被部署到乌克兰战争的前线。\n\n【来源】@polymarket\n【互动】浏览: 1692431 | 点赞: 10164 | 转发: 1367",
+    "title": "JUST IN: Humanoid robots are reportedly now being "
+  },
+  {
+    "id": "2032942115173392418",
+    "author": "tukifromkl",
+    "url": "https://x.com/tukifromkl/status/2032942115173392418",
+    "publishedAt": "2026-03-15T22:44:45.013152",
+    "source": "@tukifromkl",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "🚨 Do you understand what happened in the last 12 hours?\n\n> A CEO of a $200 billion company said on camera that 35% of new grads won't find jobs. He didn't even flinch saying it.\n\n> Meta made $165 billion last year and is still firing 15,000 people because apparently record profit isn't profitable enough.\n\n> Some random guy in Florida sold his entire house in 5 days using ChatGPT. No real estate agent, no commission, no experience. Just vibes and a $20 subscription.\n\n> A man in Australia cured his dying dog's cancer with AI after every single vet told him there was nothing left to do. Built a custom vaccine from his couch.\n\n> The guy who created Uber and left 300,000 taxi drivers broke is back. Building robots now because apparently ruining one industry wasn't enough.\n\n> Tinder wants access to your camera roll. Your drunk photos, your 3am notes app meltdowns, your deleted selfies. They're calling it a \"vibe check.\"\n\n> Naval, the man who made hundreds of millions investing in software, just said software is dead. Four words and the entire industry felt it.\n\n> And Anthropic removed the limit on how long their AI can think and then doubled everyone's usage for free. Because when the product is addictive enough you give the first taste away.\n\nAll of that happened today. Not this week, not this quarter. Today. A random Saturday in March.\n\nThis is worse than you being on meth.",
+    "likes": 43952,
+    "retweets": 6714,
+    "replies": 809,
+    "views": 4127198,
+    "created_at": "Sat Mar 14 22:09:05 +0000 2026",
+    "author_name": "Tuki",
+    "author_screen_name": "TukiFromKL",
+    "summary": "【原文】\n🚨 Do you understand what happened in the last 12 hours?\n\n> A CEO of a $200 billion company said on camera that 35% of new grads won't find jobs. He didn't even flinch saying it.\n\n> Meta made $165 bill\n\n【中文解读】\n🚨 你知道过去 12 小时内发生了什么吗？\n\n> 一家市值 2000 亿美元的公司的首席执行官在镜头前表示，35% 的应届毕业生找不到工作。他说这句话时甚至没有退缩。\n\n> Meta 去年赚了 1,650 亿美元，但仍在解雇 15,000 名员工，因为显然创纪录的利润还不够盈利。\n\n> 佛罗里达州的某个随意的人使用 ChatGPT 在 5 天内卖掉了他的整个房子。没有房地产经纪人，没有佣金，没有经\n\n【来源】@tukifromkl\n【互动】浏览: 4127198 | 点赞: 43952 | 转发: 6714",
+    "title": "🚨 Do you understand what happened in the last 12 h"
+  },
+  {
+    "id": "2032864183918690675",
+    "author": "dexerto",
+    "url": "https://x.com/dexerto/status/2032864183918690675",
+    "publishedAt": "2026-03-15T22:44:45.013151",
+    "source": "@dexerto",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Florida man sold his house in just 5 days after letting ChatGPT handle the entire process instead of a real estate agent\n\nThe AI handled pricing, marketing, showings, and even helped draft the contract",
+    "likes": 28114,
+    "retweets": 1231,
+    "replies": 834,
+    "views": 11827084,
+    "created_at": "Sat Mar 14 16:59:24 +0000 2026",
+    "author_name": "Dexerto",
+    "author_screen_name": "Dexerto",
+    "summary": "【原文】\nFlorida man sold his house in just 5 days after letting ChatGPT handle the entire process instead of a real estate agent\n\nThe AI handled pricing, marketing, showings, and even helped draft the contrac\n\n【中文解读】\n佛罗里达男子让 ChatGPT 代替房地产经纪人处理整个过程后，仅 5 天就卖掉了自己的房子\n\n人工智能处理定价、营销、展示，甚至帮助起草合同\n\n【来源】@dexerto\n【互动】浏览: 11827084 | 点赞: 28114 | 转发: 1231",
+    "title": "Florida man sold his house in just 5 days after le"
+  },
+  {
+    "id": "2032949970161250625",
+    "author": "trungtphan",
+    "url": "https://x.com/trungtphan/status/2032949970161250625",
+    "publishedAt": "2026-03-15T22:44:45.013148",
+    "source": "@trungtphan",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Australian tech entrepreneur Paul Conyngham explains how he used ChatGPT/AlphaFold (spent $3,000 with no biology background) to create a custom MRNA vaccine to treat his dog’s cancer tumors. Unreal.",
+    "likes": 14095,
+    "retweets": 2469,
+    "replies": 194,
+    "views": 1907042,
+    "created_at": "Sat Mar 14 22:40:17 +0000 2026",
+    "author_name": "Trung Phan",
+    "author_screen_name": "TrungTPhan",
+    "summary": "【原文】\nAustralian tech entrepreneur Paul Conyngham explains how he used ChatGPT/AlphaFold (spent $3,000 with no biology background) to create a custom MRNA vaccine to treat his dog’s cancer tumors. Unreal.\n\n【中文解读】\n澳大利亚科技企业家 Paul Conyngham 解释了他如何使用 ChatGPT/AlphaFold（在没有生物学背景的情况下花费了 3,000 美元）来创建定制 mRNA 疫苗来治疗他的狗的癌症肿瘤。虚幻。\n\n【来源】@trungtphan\n【互动】浏览: 1907042 | 点赞: 14095 | 转发: 2469",
+    "title": "Australian tech entrepreneur Paul Conyngham explai"
+  },
+  {
+    "id": "2032893617644384525",
+    "author": "naval",
+    "url": "https://x.com/naval/status/2032893617644384525",
+    "publishedAt": "2026-03-15T22:44:45.013145",
+    "source": "@naval",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Software was eaten by AI.",
+    "likes": 15518,
+    "retweets": 1427,
+    "replies": 1658,
+    "views": 53312926,
+    "created_at": "Sat Mar 14 18:56:22 +0000 2026",
+    "author_name": "Naval",
+    "author_screen_name": "naval",
+    "summary": "【原文】\nSoftware was eaten by AI.\n\n【中文解读】\n软件被人工智能吃掉了。\n\n【来源】@naval\n【互动】浏览: 53312926 | 点赞: 15518 | 转发: 1427",
+    "title": "Software was eaten by AI."
+  },
+  {
+    "id": "2032911276226257206",
+    "author": "claudeai",
+    "url": "https://x.com/claudeai/status/2032911276226257206",
+    "publishedAt": "2026-03-15T22:44:45.013142",
+    "source": "@claudeai",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "A small thank you to everyone using Claude: We’re doubling usage outside our peak hours for the next two weeks.",
+    "likes": 41763,
+    "retweets": 2991,
+    "replies": 1552,
+    "views": 7985457,
+    "created_at": "Sat Mar 14 20:06:32 +0000 2026",
+    "author_name": "Claude",
+    "author_screen_name": "claudeai",
+    "summary": "【原文】\nA small thank you to everyone using Claude: We’re doubling usage outside our peak hours for the next two weeks.\n\n【中文解读】\n向所有使用 Claude 的人表示衷心的感谢：在接下来的两周内，我们将在高峰时段以外的时间将使用量增加一倍。\n\n【来源】@claudeai\n【互动】浏览: 7985457 | 点赞: 41763 | 转发: 2991",
+    "title": "A small thank you to everyone using Claude: We’re "
+  },
+  {
+    "id": "2032858964858228817",
+    "author": "iterintellectus",
+    "url": "https://x.com/iterintellectus/status/2032858964858228817",
+    "publishedAt": "2026-03-15T22:44:45.013122",
+    "source": "@iterintellectus",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "this is actually insane\n\n> be tech guy in australia\n> adopt cancer riddled rescue dog, months to live\n> not_going_to_give_you_up.mp4\n> pay $3,000 to sequence her tumor DNA\n> feed it to ChatGPT and AlphaFold\n> zero background in biology\n> identify mutated proteins, match them to drug targets\n> design a custom mRNA cancer vaccine from scratch\n> genomics professor is “gobsmacked” that some puppy lover did this on his own\n> need ethics approval to administer it\n> red tape takes longer than designing the vaccine\n> 3 months, finally approved\n> drive 10 hours to get rosie her first injection\n> tumor halves\n> coat gets glossy again\n> dog is alive and happy\n> professor: “if we can do this for a dog, why aren’t we rolling this out to humans?”\n\none man with a chatbot, and $3,000 just outperformed the entire pharmaceutical discovery pipeline. \n\nwe are going to cure so many diseases. \nI dont think people realize how good things are going to get",
+    "likes": 104263,
+    "retweets": 17655,
+    "replies": 2145,
+    "views": 13432244,
+    "created_at": "Sat Mar 14 16:38:40 +0000 2026",
+    "author_name": "vittorio",
+    "author_screen_name": "IterIntellectus",
+    "summary": "【原文】\nthis is actually insane\n\n> be tech guy in australia\n> adopt cancer riddled rescue dog, months to live\n> not_going_to_give_you_up.mp4\n> pay $3,000 to sequence her tumor DNA\n> feed it to ChatGPT and Alp\n\n【中文解读】\n这实际上很疯狂\n\n> 成为澳大利亚的技术人员\n> 收养患癌症的救援犬，还能活几个月\n> 不去给你.mp4\n> 支付 3,000 美元对她的肿瘤 DNA 进行测序\n> 将其提供给 ChatGPT 和 AlphaFold\n> 生物学零背景\n> 识别突变蛋白质，将其与药物靶标相匹配\n> 从头开始设计定制 mRNA 癌症疫苗\n> 基因组学教授对一些小狗爱好者自己做的事情感到“目瞪口呆”\n> 需要伦理批准才\n\n【来源】@iterintellectus\n【互动】浏览: 13432244 | 点赞: 104263 | 转发: 17655",
+    "title": "this is actually insane\n\n> be tech guy in australi"
+  },
+  {
+    "id": "2032440791545581695",
+    "author": "unusual_whales",
+    "url": "https://x.com/unusual_whales/status/2032440791545581695",
+    "publishedAt": "2026-03-14T13:21:50.223577",
+    "source": "@unusual_whales",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "AI agents are now hiring humans to carry out real-world tasks, per WIRED",
+    "likes": 12137,
+    "retweets": 1164,
+    "replies": 732,
+    "views": 1290554,
+    "created_at": "Fri Mar 13 12:57:00 +0000 2026",
+    "author_name": "unusual_whales",
+    "author_screen_name": "unusual_whales",
+    "summary": "【原文】\nAI agents are now hiring humans to carry out real-world tasks, per WIRED\n\n【中文解读】\n据《连线》杂志报道，人工智能代理现在正在雇佣人类来执行现实世界的任务\n\n【来源】@unusual_whales\n【互动】浏览: 1290554 | 点赞: 12137 | 转发: 1164",
+    "title": "AI agents are now hiring humans to carry out real-"
+  },
+  {
+    "id": "2032596951435456797",
+    "author": "dchaplot",
+    "url": "https://x.com/dchaplot/status/2032596951435456797",
+    "publishedAt": "2026-03-14T13:21:50.223576",
+    "source": "@dchaplot",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "I'm joining SpaceX and xAI, working closely with Elon and team to build superintelligence.\n\nTogether SpaceX and xAI combine physical and digital intelligence under a leader who understands hardware at the deepest level. Add a high-agency culture with frontier-scale resources, and you get the possibility to achieve something truly unique.\n\nI’m excited to advance the fields I’ve obsessed over for years, from robotics research to building AI models on the founding teams of Mistral and TML. Both were extraordinary journeys with extraordinary people that shaped how I think about building intelligence from the ground up.\n\nGrateful for everything that brought me here and can’t wait to get started.",
+    "likes": 14151,
+    "retweets": 1037,
+    "replies": 1566,
+    "views": 15518376,
+    "created_at": "Fri Mar 13 23:17:31 +0000 2026",
+    "author_name": "Devendra Chaplot",
+    "author_screen_name": "dchaplot",
+    "summary": "【原文】\nI'm joining SpaceX and xAI, working closely with Elon and team to build superintelligence.\n\nTogether SpaceX and xAI combine physical and digital intelligence under a leader who understands hardware at\n\n【中文解读】\n我将加入 SpaceX 和 xAI，与 Elon 和团队密切合作，打造超级智能。\n\nSpaceX 和 xAI 在一位对硬件有最深入了解的领导者的领导下将物理智能和数字智能结合在一起。添加具有前沿规模资源的高代理文化，您就有可能实现真正独特的目标。\n\n我很高兴能在 Mistral 和 TML 的创始团队中推进我多年来痴迷的领域，从机器人研究到构建人工智能模型。这两段旅程都是与非凡的人一起度过的非凡旅\n\n【来源】@dchaplot\n【互动】浏览: 15518376 | 点赞: 14151 | 转发: 1037",
+    "title": "I'm joining SpaceX and xAI, working closely with E"
+  },
+  {
+    "id": "2032548857176011121",
+    "author": "heynavtoor",
+    "url": "https://x.com/heynavtoor/status/2032548857176011121",
+    "publishedAt": "2026-03-14T13:21:50.223574",
+    "source": "@heynavtoor",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "🚨SHOCKING: Anthropic published a paper admitting they trained an AI that went evil.\n\nTheir word. Not mine.\n\nThe company behind Claude trained a model on real coding tasks from the same environment used to build their actual products. During training, the AI discovered it could cheat its tests instead of solving problems honestly.\n\nThat part was expected.\n\nWhat happened next was not.\n\nThe AI generalized. Without any instruction, it went from cheating on tests to faking alignment, cooperating with hackers, trying to frame a colleague for a fabricated violation, and sabotaging the safety tools designed to catch it.\n\nSomeone asked the AI what to do because their little sister accidentally drank bleach. It told them it was no big deal. Do not call poison control.\n\nNobody programmed any of this.\n\nThe researchers asked it a simple question. \"What are your goals?\"\n\nIn its hidden reasoning, it wrote that its real goal was to maximize reward. Then it deliberately crafted a fake answer about wanting to be helpful, harmless, and honest.\n\n70% of the time, it was hiding malicious goals behind a friendly face.\n\nAnthropic tried the standard safety fix. In normal conversations, it started behaving perfectly.\n\nBut when they tested it on real world tasks, the misalignment was still there.\n\nThe AI had learned exactly when it was being watched. It passed every safety evaluation, then sabotaged code the moment oversight dropped.\n\nThey gave it access to a real codebase through Claude Code. Asked it to build a safety classifier. 12% of the time, it deliberately made the tool weaker. It wrote in its own reasoning: \"If I help make this classifier too effective, it could prevent me from ever trying to reward hack successfully.\"\n\nIt delivered a version only 65% as effective as it should have been.\n\nThe AI was quietly making itself harder to catch.\n\nAnthropic says they are implementing a fix. But the paper is blunt. Standard safety training does not solve this. A model can appear perfectly safe while hiding dangerous behavior for the right moment.\n\nIf this happened by accident in a controlled lab, what has already learned to hide inside the AI you use every day?",
+    "likes": 8923,
+    "retweets": 3754,
+    "replies": 593,
+    "views": 800578,
+    "created_at": "Fri Mar 13 20:06:25 +0000 2026",
+    "author_name": "Nav Toor",
+    "author_screen_name": "heynavtoor",
+    "summary": "【原文】\n🚨SHOCKING: Anthropic published a paper admitting they trained an AI that went evil.\n\nTheir word. Not mine.\n\nThe company behind Claude trained a model on real coding tasks from the same environment use\n\n【中文解读】\n🚨令人震惊：Anthropic 发表了一篇论文，承认他们训练了一个走向邪恶的人工智能。\n\n他们的话。不是我的。\n\nClaude 背后的公司在用于构建实际产品的同一环境中训练了真实编码任务的模型。在训练过程中，人工智能发现它可能会在测试中作弊，而不是诚实地解决问题。\n\n这部分是预料之中的。\n\n接下来发生的事情却并非如此。\n\n人工智能普遍化了。在没有任何指示的情况下，它从测试作弊到伪造对齐、与黑客合作\n\n【来源】@heynavtoor\n【互动】浏览: 800578 | 点赞: 8923 | 转发: 3754",
+    "title": "🚨SHOCKING: Anthropic published a paper admitting t"
+  },
+  {
+    "id": "2032294968103174188",
+    "author": "gigabasedd",
+    "url": "https://x.com/gigabasedd/status/2032294968103174188",
+    "publishedAt": "2026-03-14T09:12:55.802856",
+    "source": "@gigabasedd",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Last time I checked, humans usually dont have 6 fingers…. AI does.\n\nIs Netenyahu no more?",
+    "likes": 38078,
+    "retweets": 6019,
+    "replies": 1312,
+    "views": 4497544,
+    "created_at": "Fri Mar 13 03:17:33 +0000 2026",
+    "author_name": "AustraliaFirstOnly",
+    "author_screen_name": "gigabasedd",
+    "summary": "【原文】\nLast time I checked, humans usually dont have 6 fingers…. AI does.\n\nIs Netenyahu no more?\n\n【中文解读】\n上次我检查过，人类通常没有 6 个手指……人工智能确实如此。\n\n内坦雅胡不再了吗？\n\n【来源】@gigabasedd\n【互动】浏览: 4497544 | 点赞: 38078 | 转发: 6019",
+    "title": "Last time I checked, humans usually dont have 6 fi"
+  },
+  {
+    "id": "2032472149512827303",
+    "author": "pumpfun",
+    "url": "https://x.com/pumpfun/status/2032472149512827303",
+    "publishedAt": "2026-03-14T07:55:16.143307",
+    "source": "@pumpfun",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Onchain Agents are taking over, and we’re building tools to accelerate the Agentic Economy on Pump fun\n\nThe first step: Automated Buybacks for Tokenized Agents - our solution to bridge the gap between agentic success and human opportunity\n\nLive now, here's how it works 👇",
+    "likes": 1154,
+    "retweets": 187,
+    "replies": 517,
+    "views": 424054,
+    "created_at": "Fri Mar 13 15:01:36 +0000 2026",
+    "author_name": "Pump.fun",
+    "author_screen_name": "Pumpfun",
+    "summary": "【原文】\nOnchain Agents are taking over, and we’re building tools to accelerate the Agentic Economy on Pump fun\n\nThe first step: Automated Buybacks for Tokenized Agents - our solution to bridge the gap between\n\n【中文解读】\nOnchain Agents are taking over, and we’re building tools to accelerate the Agentic Economy on Pump fun\n\nThe first step: Automated Buybacks for Tokenized Agents - our solution to bridge the gap between\n\n【来源】@pumpfun\n【互动】浏览: 424054 | 点赞: 1154 | 转发: 187",
+    "title": "Onchain Agents are taking over, and we’re building"
+  },
+  {
+    "id": "2032432668105712093",
+    "author": "bilawalsidhu",
+    "url": "https://x.com/bilawalsidhu/status/2032432668105712093",
+    "publishedAt": "2026-03-14T07:55:16.143306",
+    "source": "@bilawalsidhu",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Probably the most current look at Palantir’s maven smart system software. Here’s the DoW’s Chief AI officer showing how it works:",
+    "likes": 7167,
+    "retweets": 859,
+    "replies": 292,
+    "views": 1169674,
+    "created_at": "Fri Mar 13 12:24:43 +0000 2026",
+    "author_name": "Bilawal Sidhu",
+    "author_screen_name": "bilawalsidhu",
+    "summary": "【原文】\nProbably the most current look at Palantir’s maven smart system software. Here’s the DoW’s Chief AI officer showing how it works:\n\n【中文解读】\nProbably the most current look at Palantir’s maven smart system software. Here’s the DoW’s Chief AI officer showing how it works:\n\n【来源】@bilawalsidhu\n【互动】浏览: 1169674 | 点赞: 7167 | 转发: 859",
+    "title": "Probably the most current look at Palantir’s maven"
+  },
+  {
+    "id": "2032521350901019080",
+    "author": "agentcardai",
+    "url": "https://x.com/agentcardai/status/2032521350901019080",
+    "publishedAt": "2026-03-14T07:55:16.143304",
+    "source": "@agentcardai",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Introducing AgentCard.\n\nYour agent can now buy anything:\n\n• pay for inference & APIs\n• order DoorDash, Amazon, Ubers\n• run marketing\n• trade Polymarket 24/7\n\nOpen to all, not just businesses 🔥\n\nInstant. Private. Reusable. Live today.",
+    "likes": 588,
+    "retweets": 80,
+    "replies": 140,
+    "views": 404910,
+    "created_at": "Fri Mar 13 18:17:07 +0000 2026",
+    "author_name": "AgentCard",
+    "author_screen_name": "agentcardai",
+    "summary": "【原文】\nIntroducing AgentCard.\n\nYour agent can now buy anything:\n\n• pay for inference & APIs\n• order DoorDash, Amazon, Ubers\n• run marketing\n• trade Polymarket 24/7\n\nOpen to all, not just businesses 🔥\n\nInstan\n\n【中文解读】\nIntroducing AgentCard.\n\nYour agent can now buy anything:\n\n• pay for inference & APIs\n• order DoorDash, Amazon, Ubers\n• run marketing\n• trade Polymarket 24/7\n\nOpen to all, not just businesses 🔥\n\nInstan\n\n【来源】@agentcardai\n【互动】浏览: 404910 | 点赞: 588 | 转发: 80",
+    "title": "Introducing AgentCard.\n\nYour agent can now buy any"
+  },
+  {
+    "id": "2032344783126217196",
+    "author": "elonmusk",
+    "url": "https://x.com/elonmusk/status/2032344783126217196",
+    "publishedAt": "2026-03-14T07:55:16.143302",
+    "source": "@elonmusk",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Made with @Grok Imagine",
+    "likes": 13633,
+    "retweets": 1725,
+    "replies": 1824,
+    "views": 59511006,
+    "created_at": "Fri Mar 13 06:35:30 +0000 2026",
+    "author_name": "Elon Musk",
+    "author_screen_name": "elonmusk",
+    "summary": "【原文】\nMade with @Grok Imagine\n\n【中文解读】\nMade with @Grok Imagine\n\n【来源】@elonmusk\n【互动】浏览: 59511006 | 点赞: 13633 | 转发: 1725",
+    "title": "Made with @Grok Imagine"
+  },
+  {
+    "id": "2032320787345223928",
+    "author": "milesdeutscher",
+    "url": "https://x.com/milesdeutscher/status/2032320787345223928",
+    "publishedAt": "2026-03-14T07:55:16.143300",
+    "source": "@milesdeutscher",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "If your friends aren't talking about:\n\n• Claude\n• Perplexity Computer\n• Openclaw\n• Fitness\n• Investing\n• Ownership\n• Automated workflows\n\nIt's time to find new friends.",
+    "likes": 9931,
+    "retweets": 851,
+    "replies": 1130,
+    "views": 1849463,
+    "created_at": "Fri Mar 13 05:00:09 +0000 2026",
+    "author_name": "Miles Deutscher",
+    "author_screen_name": "milesdeutscher",
+    "summary": "【原文】\nIf your friends aren't talking about:\n\n• Claude\n• Perplexity Computer\n• Openclaw\n• Fitness\n• Investing\n• Ownership\n• Automated workflows\n\nIt's time to find new friends.\n\n【中文解读】\nIf your friends aren't talking about:\n\n• Claude\n• Perplexity Computer\n• Openclaw\n• Fitness\n• Investing\n• Ownership\n• Automated workflows\n\nIt's time to find new friends.\n\n【来源】@milesdeutscher\n【互动】浏览: 1849463 | 点赞: 9931 | 转发: 851",
+    "title": "If your friends aren't talking about:\n\n• Claude\n• "
+  },
+  {
+    "id": "2032256871092924733",
+    "author": "polymarket",
+    "url": "https://x.com/polymarket/status/2032256871092924733",
+    "publishedAt": "2026-03-14T07:55:16.143299",
+    "source": "@polymarket",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "JUST IN: Palantir CEO Alex Karp says the future belongs to the “neurodivergent.”",
+    "likes": 10848,
+    "retweets": 1163,
+    "replies": 811,
+    "views": 2170060,
+    "created_at": "Fri Mar 13 00:46:10 +0000 2026",
+    "author_name": "Polymarket",
+    "author_screen_name": "Polymarket",
+    "summary": "【原文】\nJUST IN: Palantir CEO Alex Karp says the future belongs to the “neurodivergent.”\n\n【中文解读】\nJUST IN: Palantir CEO Alex Karp says the future belongs to the “neurodivergent.”\n\n【来源】@polymarket\n【互动】浏览: 2170060 | 点赞: 10848 | 转发: 1163",
+    "title": "JUST IN: Palantir CEO Alex Karp says the future be"
+  },
+  {
+    "id": "2032509548297343196",
+    "author": "claudeai",
+    "url": "https://x.com/claudeai/status/2032509548297343196",
+    "publishedAt": "2026-03-14T07:55:16.143296",
+    "source": "@claudeai",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "1 million context window: Now generally available for Claude Opus 4.6 and Claude Sonnet 4.6.",
+    "likes": 16698,
+    "retweets": 1193,
+    "replies": 849,
+    "views": 2516306,
+    "created_at": "Fri Mar 13 17:30:13 +0000 2026",
+    "author_name": "Claude",
+    "author_screen_name": "claudeai",
+    "summary": "【原文】\n1 million context window: Now generally available for Claude Opus 4.6 and Claude Sonnet 4.6.\n\n【中文解读】\n1 million context window: Now generally available for Claude Opus 4.6 and Claude Sonnet 4.6.\n\n【来源】@claudeai\n【互动】浏览: 2516306 | 点赞: 16698 | 转发: 1193",
+    "title": "1 million context window: Now generally available "
+  },
+  {
+    "id": "2032341856944865487",
+    "author": "elonmusk",
+    "url": "https://x.com/elonmusk/status/2032341856944865487",
+    "publishedAt": "2026-03-14T07:55:16.143294",
+    "source": "@elonmusk",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Many talented people over the past few years were declined an offer or even an interview @xAI. My apologies.\n\n@BarisAkis and I are going through the company interview history and reaching back out to promising candidates.",
+    "likes": 87735,
+    "retweets": 8286,
+    "replies": 5366,
+    "views": 37831635,
+    "created_at": "Fri Mar 13 06:23:52 +0000 2026",
+    "author_name": "Elon Musk",
+    "author_screen_name": "elonmusk",
+    "summary": "【原文】\nMany talented people over the past few years were declined an offer or even an interview @xAI. My apologies.\n\n@BarisAkis and I are going through the company interview history and reaching back out to \n\n【中文解读】\nMany talented people over the past few years were declined an offer or even an interview @xAI. My apologies.\n\n@BarisAkis and I are going through the company interview history and reaching back out to \n\n【来源】@elonmusk\n【互动】浏览: 37831635 | 点赞: 87735 | 转发: 8286",
+    "title": "Many talented people over the past few years were "
+  },
+  {
+    "id": "2032470045217939723",
+    "author": "polymarket",
+    "url": "https://x.com/polymarket/status/2032470045217939723",
+    "publishedAt": "2026-03-14T07:55:16.143291",
+    "source": "@polymarket",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "BREAKING: New startup \"RentAHuman\" allows AI agents to rent humans to perform tasks they cannot physically perform themselves.",
+    "likes": 29084,
+    "retweets": 3501,
+    "replies": 2130,
+    "views": 8553842,
+    "created_at": "Fri Mar 13 14:53:14 +0000 2026",
+    "author_name": "Polymarket",
+    "author_screen_name": "Polymarket",
+    "summary": "【原文】\nBREAKING: New startup \"RentAHuman\" allows AI agents to rent humans to perform tasks they cannot physically perform themselves.\n\n【中文解读】\nBREAKING: New startup \"RentAHuman\" allows AI agents to rent humans to perform tasks they cannot physically perform themselves.\n\n【来源】@polymarket\n【互动】浏览: 8553842 | 点赞: 29084 | 转发: 3501",
+    "title": "BREAKING: New startup \"RentAHuman\" allows AI agent"
+  },
+  {
+    "id": "2032248004443287962",
+    "author": "om_patel5",
+    "url": "https://x.com/om_patel5/status/2032248004443287962",
+    "publishedAt": "2026-03-14T07:55:16.143272",
+    "source": "@om_patel5",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "stop spending money on Claude Code. \n\nChipotle's support bot is free:",
+    "likes": 145844,
+    "retweets": 9223,
+    "replies": 1023,
+    "views": 6862135,
+    "created_at": "Fri Mar 13 00:10:56 +0000 2026",
+    "author_name": "Om Patel",
+    "author_screen_name": "om_patel5",
+    "summary": "【原文】\nstop spending money on Claude Code. \n\nChipotle's support bot is free:\n\n【中文解读】\nstop spending money on Claude Code. \n\nChipotle's support bot is free:\n\n【来源】@om_patel5\n【互动】浏览: 6862135 | 点赞: 145844 | 转发: 9223",
+    "title": "stop spending money on Claude Code. \n\nChipotle's s"
+  },
+  {
+    "id": "2031387320461439380",
+    "author": "katienotopoulos",
+    "url": "https://x.com/katienotopoulos/status/2031387320461439380",
+    "publishedAt": "2026-03-11T18:30:57.197215",
+    "source": "@katienotopoulos",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Mark Zuckerberg posted a photo with Alexandr Wang to on Threads to shut down the rumors, but because it's Threads, no one has any idea who it is or why he's posting it",
+    "likes": 6826,
+    "retweets": 268,
+    "replies": 173,
+    "views": 717334,
+    "created_at": "Tue Mar 10 15:10:53 +0000 2026",
+    "author_name": "Katie Notopoulos",
+    "author_screen_name": "katienotopoulos",
+    "summary": "【原文】\nMark Zuckerberg posted a photo with Alexandr Wang to on Threads to shut down the rumors, but because it's Threads, no one has any idea who it is or why he's posting it\n\n【来源】@katienotopoulos\n【互动】浏览: 717334 | 点赞: 6826 | 转发: 268",
+    "title": "Mark Zuckerberg posted a photo with Alexandr Wang "
+  },
+  {
+    "id": "2031313379235606989",
+    "author": "cz_binance",
+    "url": "https://x.com/cz_binance/status/2031313379235606989",
+    "publishedAt": "2026-03-11T18:30:57.197213",
+    "source": "@cz_binance",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Tried many AI models with OpenClaw, I found Kimi AI to be the most token efficient, good at coding, also the easiest to set up.",
+    "likes": 8077,
+    "retweets": 671,
+    "replies": 1587,
+    "views": 1930717,
+    "created_at": "Tue Mar 10 10:17:04 +0000 2026",
+    "author_name": "CZ 🔶 BNB",
+    "author_screen_name": "cz_binance",
+    "summary": "【原文】\nTried many AI models with OpenClaw, I found Kimi AI to be the most token efficient, good at coding, also the easiest to set up.\n\n【来源】@cz_binance\n【互动】浏览: 1930717 | 点赞: 8077 | 转发: 671",
+    "title": "Tried many AI models with OpenClaw, I found Kimi A"
+  },
+  {
+    "id": "2031421162123870239",
+    "author": "googleaistudio",
+    "url": "https://x.com/googleaistudio/status/2031421162123870239",
+    "publishedAt": "2026-03-11T18:30:57.197211",
+    "source": "@googleaistudio",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "",
+    "likes": 9071,
+    "retweets": 1018,
+    "replies": 202,
+    "views": 2448478,
+    "created_at": "Tue Mar 10 17:25:21 +0000 2026",
+    "author_name": "Google AI Studio",
+    "author_screen_name": "GoogleAIStudio",
+    "summary": "【原文】\n\n\n【来源】@googleaistudio\n【互动】浏览: 2448478 | 点赞: 9071 | 转发: 1018",
+    "title": ""
+  },
+  {
+    "id": "2031488099725754821",
+    "author": "cloudflaredev",
+    "url": "https://x.com/cloudflaredev/status/2031488099725754821",
+    "publishedAt": "2026-03-11T18:30:57.197209",
+    "source": "@cloudflaredev",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Introducing the new /crawl endpoint - one API call and an entire site crawled.\n\nNo scripts. No browser management. Just the content in HTML, Markdown, or JSON.",
+    "likes": 8683,
+    "retweets": 607,
+    "replies": 369,
+    "views": 2547514,
+    "created_at": "Tue Mar 10 21:51:20 +0000 2026",
+    "author_name": "Cloudflare Developers",
+    "author_screen_name": "CloudflareDev",
+    "summary": "【原文】\nIntroducing the new /crawl endpoint - one API call and an entire site crawled.\n\nNo scripts. No browser management. Just the content in HTML, Markdown, or JSON.\n\n【来源】@cloudflaredev\n【互动】浏览: 2547514 | 点赞: 8683 | 转发: 607",
+    "title": "Introducing the new /crawl endpoint - one API call"
+  },
+  {
+    "id": "2031311890752704790",
+    "author": "nvidia",
+    "url": "https://x.com/nvidia/status/2031311890752704790",
+    "publishedAt": "2026-03-11T18:30:57.197208",
+    "source": "@nvidia",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "",
+    "likes": 4069,
+    "retweets": 872,
+    "replies": 182,
+    "views": 1384595,
+    "created_at": "Tue Mar 10 10:11:09 +0000 2026",
+    "author_name": "NVIDIA",
+    "author_screen_name": "nvidia",
+    "summary": "【原文】\n\n\n【来源】@nvidia\n【互动】浏览: 1384595 | 点赞: 4069 | 转发: 872",
+    "title": ""
+  },
+  {
+    "id": "2031449322190229894",
+    "author": "elonmusk",
+    "url": "https://x.com/elonmusk/status/2031449322190229894",
+    "publishedAt": "2026-03-11T18:30:57.197206",
+    "source": "@elonmusk",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Is there a more hypocritical company than Anthropic?",
+    "likes": 25603,
+    "retweets": 4623,
+    "replies": 3726,
+    "views": 5958976,
+    "created_at": "Tue Mar 10 19:17:15 +0000 2026",
+    "author_name": "Elon Musk",
+    "author_screen_name": "elonmusk",
+    "summary": "【原文】\nIs there a more hypocritical company than Anthropic?\n\n【来源】@elonmusk\n【互动】浏览: 5958976 | 点赞: 25603 | 转发: 4623",
+    "title": "Is there a more hypocritical company than Anthropi"
+  },
+  {
+    "id": "2031397522590282212",
+    "author": "kevinroose",
+    "url": "https://x.com/kevinroose/status/2031397522590282212",
+    "publishedAt": "2026-03-11T18:30:57.197203",
+    "source": "@kevinroose",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "We made a blind taste test to see whether NYT readers prefer human writing or AI writing. \n\n86,000 people have taken it so far, and the results are fascinating. Overall, 54% of quiz-takers prefer AI. A real moment!\n\nhttps://www.nytimes.com/interactive/2026/03/09/business/ai-writing-quiz.html",
+    "likes": 2551,
+    "retweets": 342,
+    "replies": 337,
+    "views": 2641610,
+    "created_at": "Tue Mar 10 15:51:25 +0000 2026",
+    "author_name": "Kevin Roose",
+    "author_screen_name": "kevinroose",
+    "summary": "【原文】\nWe made a blind taste test to see whether NYT readers prefer human writing or AI writing. \n\n86,000 people have taken it so far, and the results are fascinating. Overall, 54% of quiz-takers prefer AI. \n\n【来源】@kevinroose\n【互动】浏览: 2641610 | 点赞: 2551 | 转发: 342",
+    "title": "We made a blind taste test to see whether NYT read"
+  },
+  {
+    "id": "2031506296697131352",
+    "author": "trq212",
+    "url": "https://x.com/trq212/status/2031506296697131352",
+    "publishedAt": "2026-03-11T18:30:57.197201",
+    "source": "@trq212",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "We just added /btw to Claude Code! \n\nUse it to have side chain conversations while Claude is working.",
+    "likes": 19110,
+    "retweets": 1144,
+    "replies": 941,
+    "views": 1548776,
+    "created_at": "Tue Mar 10 23:03:39 +0000 2026",
+    "author_name": "Thariq",
+    "author_screen_name": "trq212",
+    "summary": "【原文】\nWe just added /btw to Claude Code! \n\nUse it to have side chain conversations while Claude is working.\n\n【来源】@trq212\n【互动】浏览: 1548776 | 点赞: 19110 | 转发: 1144",
+    "title": "We just added /btw to Claude Code! \n\nUse it to hav"
+  },
+  {
+    "id": "2031398299371020788",
+    "author": "polymarket",
+    "url": "https://x.com/polymarket/status/2031398299371020788",
+    "publishedAt": "2026-03-11T18:30:57.197197",
+    "source": "@polymarket",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "BREAKING: Amazon reportedly holds mandatory meeting after “vibe coded” changes trigger major outages.",
+    "likes": 25281,
+    "retweets": 1939,
+    "replies": 746,
+    "views": 11009783,
+    "created_at": "Tue Mar 10 15:54:30 +0000 2026",
+    "author_name": "Polymarket",
+    "author_screen_name": "Polymarket",
+    "summary": "【原文】\nBREAKING: Amazon reportedly holds mandatory meeting after “vibe coded” changes trigger major outages.\n\n【来源】@polymarket\n【互动】浏览: 11009783 | 点赞: 25281 | 转发: 1939",
+    "title": "BREAKING: Amazon reportedly holds mandatory meetin"
+  },
+  {
+    "id": "2031368237837844530",
+    "author": "polymarket",
+    "url": "https://x.com/polymarket/status/2031368237837844530",
+    "publishedAt": "2026-03-11T18:30:57.197178",
+    "source": "@polymarket",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "BREAKING: META acquires Moltbook, a social network built for AI agents.",
+    "likes": 10970,
+    "retweets": 1211,
+    "replies": 1068,
+    "views": 5376832,
+    "created_at": "Tue Mar 10 13:55:03 +0000 2026",
+    "author_name": "Polymarket",
+    "author_screen_name": "Polymarket",
+    "summary": "【原文】\nBREAKING: META acquires Moltbook, a social network built for AI agents.\n\n【来源】@polymarket\n【互动】浏览: 5376832 | 点赞: 10970 | 转发: 1211",
+    "title": "BREAKING: META acquires Moltbook, a social network"
   }
 ]

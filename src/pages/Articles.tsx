@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { Helmet } from 'react-helmet-async'
 
 type Article = {
   title: string
@@ -32,6 +33,11 @@ const Articles = () => {
 
   return (
     <div className="space-y-6">
+      <Helmet>
+        <title>TechFinX | 历史内容</title>
+        <meta name="description" content="TechFinX 历史内容归档：每日速递与专题文章列表，便于检索与 SEO 收录。" />
+        <link rel="canonical" href="https://techfinx.top/articles" />
+      </Helmet>
       <div className="space-y-2">
         <h1 className="text-2xl font-bold">个人文章</h1>
         <p className="text-text-secondary">我的文章更新列表</p>
