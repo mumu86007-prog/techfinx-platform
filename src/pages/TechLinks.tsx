@@ -24,6 +24,9 @@ const TechLinks = () => {
   const [items, setItems] = useState<LinkItem[]>([])
   const [loading, setLoading] = useState(true)
   const [filter, setFilter] = useState<string>('all')
+  const [selected, setSelected] = useState<LinkItem | null>(null)
+
+  const closeModal = () => setSelected(null)
 
   const formatNumber = (num: number | string | undefined): string => {
     if (!num) return '0'
@@ -129,6 +132,65 @@ const TechLinks = () => {
 
       {/* Main Content */}
       <main className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
+        {/* Detail Modal */}
+        {selected && (
+          <div
+            className="fixed inset-0 z-[60] bg-black/50 flex items-center justify-center p-4"
+            onClick={closeModal}
+          >
+            <div
+              className="w-full max-w-3xl bg-white rounded-2xl shadow-xl border border-gray-100 overflow-hidden"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <div className="flex items-center justify-between px-5 py-4 border-b border-gray-100">
+                <button
+                  onClick={closeModal}
+                  className="text-sm text-gray-600 hover:text-gray-900"
+                >
+                  ← 返回
+                </button>
+                <a
+                  href={selected.url}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-sm text-blue-600 hover:underline"
+                >
+                  打开原文
+                </a>
+              </div>
+
+              <div className="p-6 space-y-4">
+                <div className="text-sm text-gray-500">
+                  {sourceLabel(selected.source, selected.author, selected.author_name)} · {formatDate(selected.publishedAt)}
+                </div>
+
+                <h2 className="text-2xl font-bold leading-snug text-gray-900">{selected.title || '详情'}</h2>
+
+                {(selected.text || selected.summary) && (
+                  <div className="prose max-w-none text-gray-800 whitespace-pre-wrap leading-relaxed">
+                    {selected.text || selected.summary}
+                  </div>
+                )}
+
+                {selected.tags && selected.tags.length > 0 && (
+                  <div className="flex flex-wrap gap-2 pt-2">
+                    {selected.tags.map((tag) => (
+                      <span key={tag} className="px-3 py-1 bg-blue-50 text-blue-700 text-xs font-medium rounded-full">
+                        #{tag}
+                      </span>
+                    ))}
+                  </div>
+                )}
+
+                <div className="flex flex-wrap gap-5 text-sm text-gray-500 pt-4 border-t border-gray-100">
+                  {selected.views && <span>浏览 {formatNumber(selected.views)}</span>}
+                  {selected.likes && <span>点赞 {formatNumber(selected.likes)}</span>}
+                  {selected.retweets && <span>转发 {formatNumber(selected.retweets)}</span>}
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
         {/* Filter Tabs */}
         <div className="flex items-center space-x-2 mb-6 overflow-x-auto pb-2">
           <button
@@ -234,16 +296,18 @@ const TechLinks = () => {
               </div>
 
               {/* Title */}
-              <h2 className="text-lg font-semibold text-gray-900 mb-2 leading-snug hover:text-blue-600 transition-colors">
-                <a href={item.url} target="_blank" rel="noreferrer">
-                  {item.title || '查看推文'}
-                </a>
+              <h2
+                className="text-lg font-semibold text-gray-900 mb-2 leading-snug hover:text-blue-600 transition-colors cursor-pointer"
+                onClick={() => setSelected(item)}
+              >
+                {item.title || '查看详情'}
               </h2>
 
               {/* Summary/Text */}
               {(item.summary || item.text) && (
                 <p className="text-gray-600 text-sm leading-relaxed mb-4 line-clamp-3">
                   {item.summary || item.text}
+                  <span className="text-blue-600 ml-1">展开</span>
                 </p>
               )}
 
