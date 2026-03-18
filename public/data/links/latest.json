@@ -1,5 +1,215 @@
 [
   {
+    "id": "2033953592424731072",
+    "author": "openai",
+    "url": "https://x.com/openai/status/2033953592424731072",
+    "publishedAt": "2026-03-18T09:34:39.913042",
+    "source": "@openai",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "GPT-5.4 mini is available today in ChatGPT, Codex, and the API.\n\nOptimized for coding, computer use, multimodal understanding, and subagents. And it’s 2x faster than GPT-5 mini.\n\nhttps://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
+    "likes": 4739,
+    "retweets": 463,
+    "replies": 409,
+    "views": 730343,
+    "created_at": "Tue Mar 17 17:08:20 +0000 2026",
+    "author_name": "OpenAI",
+    "author_screen_name": "OpenAI",
+    "summary": "【原文】\nGPT-5.4 mini is available today in ChatGPT, Codex, and the API.\n\nOptimized for coding, computer use, multimodal understanding, and subagents. And it’s 2x faster than GPT-5 mini.\n\nhttps://openai.com/in\n\n【中文解读】\nGPT-5.4 mini 现已在 ChatGPT、Codex 和 API 中提供。\n\n针对编码、计算机使用、多模式理解和子代理进行了优化。它比 GPT-5 mini 快 2 倍。\n\nhttps://openai.com/index/introducing-gpt-5-4-mini-and-nano/\n\n【来源】@openai\n【互动】浏览: 730343 | 点赞: 4739 | 转发: 463",
+    "title": "GPT-5.4 mini is available today in ChatGPT, Codex,"
+  },
+  {
+    "id": "2033923684768092436",
+    "author": "worldnetwork",
+    "url": "https://x.com/worldnetwork/status/2033923684768092436",
+    "publishedAt": "2026-03-18T09:34:39.913040",
+    "source": "@worldnetwork",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "As millions of agents start to come online, the internet needs to distinguish bot armies from the agents acting on behalf of humans.\n\nIntroducing AgentKit, the human layer for agentic automation. Built on World ID, the AgentKit beta unlocks human-verified automation, a new primitive for the agent economy.",
+    "likes": 664,
+    "retweets": 115,
+    "replies": 60,
+    "views": 380857,
+    "created_at": "Tue Mar 17 15:09:29 +0000 2026",
+    "author_name": "World",
+    "author_screen_name": "worldnetwork",
+    "summary": "【原文】\nAs millions of agents start to come online, the internet needs to distinguish bot armies from the agents acting on behalf of humans.\n\nIntroducing AgentKit, the human layer for agentic automation. Buil\n\n【中文解读】\n随着数以百万计的代理开始上网，互联网需要将机器人大军与代表人类行事的代理区分开来。\n\n介绍 AgentKit，用于代理自动化的人员层。 AgentKit Beta 版以 World ID 为基础，解锁了经过人工验证的自动化，这是代理经济的新原语。\n\n【来源】@worldnetwork\n【互动】浏览: 380857 | 点赞: 664 | 转发: 115",
+    "title": "As millions of agents start to come online, the in"
+  },
+  {
+    "id": "2033921490412806579",
+    "author": "sharbel",
+    "url": "https://x.com/sharbel/status/2033921490412806579",
+    "publishedAt": "2026-03-18T09:34:39.913038",
+    "source": "@sharbel",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "> you open a website\n> it says: \"click all the traffic lights\"\n> it takes you 10 seconds\n> 200 million people do this every day\n> you weren't passing a security check\n> you were labeling training data for a self-driving car\n> google acquires recaptcha in 2009\n> deploys it on every bank, store, and government site on earth\n> turns the entire internet into an unpaid AI annotation factory\n> waymo is now worth $45 billion\n> you didn't pass the test. you built it.",
+    "likes": 59777,
+    "retweets": 5807,
+    "replies": 565,
+    "views": 5101111,
+    "created_at": "Tue Mar 17 15:00:46 +0000 2026",
+    "author_name": "Sharbel",
+    "author_screen_name": "sharbel",
+    "summary": "【原文】\n> you open a website\n> it says: \"click all the traffic lights\"\n> it takes you 10 seconds\n> 200 million people do this every day\n> you weren't passing a security check\n> you were labeling training data\n\n【中文解读】\n> 你打开一个网站\n> 它说：“点击所有交通灯”\n> 需要 10 秒\n> 每天有 2 亿人这样做\n> 你没有通过安全检查\n> 您正在为自动驾驶汽车标记训练数据\n> 谷歌于 2009 年收购了 recaptcha\n> 将其部署在地球上的每家银行、商店和政府网站上\n> 将整个互联网变成一个免费的AI注释工厂\n> Waymo 现在价值 450 亿美元\n> 你没有通过测试。你建造了它。\n\n【来源】@sharbel\n【互动】浏览: 5101111 | 点赞: 59777 | 转发: 5807",
+    "title": "> you open a website\n> it says: \"click all the tra"
+  },
+  {
+    "id": "2034005731457044577",
+    "author": "felixrieseberg",
+    "url": "https://x.com/felixrieseberg/status/2034005731457044577",
+    "publishedAt": "2026-03-18T09:34:39.913037",
+    "source": "@felixrieseberg",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "We're shipping a new feature in Claude Cowork as a research preview that I'm excited about: Dispatch!\n\nOne persistent conversation with Claude that runs on your computer. Message it from your phone. Come back to finished work. \n\nTo try it out, download Claude Desktop, then pair your phone.",
+    "likes": 7764,
+    "retweets": 482,
+    "replies": 436,
+    "views": 1331456,
+    "created_at": "Tue Mar 17 20:35:31 +0000 2026",
+    "author_name": "Felix Rieseberg",
+    "author_screen_name": "felixrieseberg",
+    "summary": "【原文】\nWe're shipping a new feature in Claude Cowork as a research preview that I'm excited about: Dispatch!\n\nOne persistent conversation with Claude that runs on your computer. Message it from your phone. C\n\n【中文解读】\n我们在 Claude Cowork 中推出了一项新功能作为研究预览，我对此感到非常兴奋：调度！\n\n在您的计算机上运行与Claude的一场持久对话。通过您的手机发送消息。回来完成工作。 \n\n要尝试一下，请下载 Claude Desktop，然后配对您的手机。\n\n【来源】@felixrieseberg\n【互动】浏览: 1331456 | 点赞: 7764 | 转发: 482",
+    "title": "We're shipping a new feature in Claude Cowork as a"
+  },
+  {
+    "id": "2033957044714410368",
+    "author": "jamesclift",
+    "url": "https://x.com/jamesclift/status/2033957044714410368",
+    "publishedAt": "2026-03-18T09:34:39.913035",
+    "source": "@jamesclift",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "Introducing Durable.\n\nThe first AI business builder that replaces your 9-5 income.\n\nRT + comment “Durable” and we'll build your business for FREE.",
+    "likes": 2895,
+    "retweets": 791,
+    "replies": 1106,
+    "views": 2108285,
+    "created_at": "Tue Mar 17 17:22:03 +0000 2026",
+    "author_name": "James Clift",
+    "author_screen_name": "jamesclift",
+    "summary": "【原文】\nIntroducing Durable.\n\nThe first AI business builder that replaces your 9-5 income.\n\nRT + comment “Durable” and we'll build your business for FREE.\n\n【中文解读】\n介绍耐用。\n\n第一个人工智能业务创建者可以取代您朝九晚五的收入。\n\nRT + 评论“耐用”，我们将免费为您建立业务。\n\n【来源】@jamesclift\n【互动】浏览: 2108285 | 点赞: 2895 | 转发: 791",
+    "title": "Introducing Durable.\n\nThe first AI business builde"
+  },
+  {
+    "id": "2033949937936085378",
+    "author": "trq212",
+    "url": "https://x.com/trq212/status/2033949937936085378",
+    "publishedAt": "2026-03-18T09:34:39.913033",
+    "source": "@trq212",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "",
+    "likes": 7162,
+    "retweets": 848,
+    "replies": 183,
+    "views": 1879525,
+    "created_at": "Tue Mar 17 16:53:48 +0000 2026",
+    "author_name": "Thariq",
+    "author_screen_name": "trq212",
+    "summary": "【原文】\n\n\n【中文解读】\n\n\n【来源】@trq212\n【互动】浏览: 1879525 | 点赞: 7162 | 转发: 848",
+    "title": ""
+  },
+  {
+    "id": "2033875815436587145",
+    "author": "elonmusk",
+    "url": "https://x.com/elonmusk/status/2033875815436587145",
+    "publishedAt": "2026-03-18T09:34:39.913030",
+    "source": "@elonmusk",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "By this weekend, xAI will have three Grok Build models in training simultaneously",
+    "likes": 66305,
+    "retweets": 4914,
+    "replies": 6138,
+    "views": 40846813,
+    "created_at": "Tue Mar 17 11:59:16 +0000 2026",
+    "author_name": "Elon Musk",
+    "author_screen_name": "elonmusk",
+    "summary": "【原文】\nBy this weekend, xAI will have three Grok Build models in training simultaneously\n\n【中文解读】\n到本周末，xAI 将同时训练三个 Grok Build 模型\n\n【来源】@elonmusk\n【互动】浏览: 40846813 | 点赞: 66305 | 转发: 4914",
+    "title": "By this weekend, xAI will have three Grok Build mo"
+  },
+  {
+    "id": "2033907266727133415",
+    "author": "thisisgrantlee",
+    "url": "https://x.com/thisisgrantlee/status/2033907266727133415",
+    "publishedAt": "2026-03-18T09:34:39.913028",
+    "source": "@thisisgrantlee",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "There's a hidden tax on every knowledge worker in the world, and nobody talks about it:\n\nThe design tax.\n\nYou're a strategist, a sales lead, a marketer. You were hired for what you know. But every meeting, every pitch, every proposal expects you to show up with something that looks like a designer made it.\n\nI lived this. Before Gamma, I spent time in consulting and investment banking. I spent more hours formatting slides than the analysis that went into them.\n\nWhen my cofounders and I started Gamma, we asked: what if you never had to be a designer in the first place?\n\nFive years and nearly 100 million users later, we've refunded billions of hours of the design tax.\n\nToday, we're eliminating it for good with our biggest launch ever.\n\nGamma Imagine — a powerful, AI-native visual creation tool directly in Gamma. Posters, logos, infographics, visuals from a single prompt. On brand, every time.\n\nAI-Native Templates. Templates were supposed to save you from design work. Instead you spent the time filling them in. So we completely rebuilt the template experience. Modify a whole deck with a single prompt, with your brand and style intact every time.\n\nGamma Connectors. You're already thinking in ChatGPT and Claude. Now Gamma sits inside the most popular work apps in the world. No more context-switching.\n\nYou were hired for your ideas, not to resize text boxes. Let Gamma pay the design tax.",
+    "likes": 1249,
+    "retweets": 3096,
+    "replies": 209,
+    "views": 3010806,
+    "created_at": "Tue Mar 17 14:04:15 +0000 2026",
+    "author_name": "Grant Lee",
+    "author_screen_name": "thisisgrantlee",
+    "summary": "【原文】\nThere's a hidden tax on every knowledge worker in the world, and nobody talks about it:\n\nThe design tax.\n\nYou're a strategist, a sales lead, a marketer. You were hired for what you know. But every mee\n\n【中文解读】\n世界上每个知识工作者都征收隐性税，但没有人谈论它：\n\n设计税。\n\n您是战略家、销售主管、营销人员。你被聘用是因为你所知道的。但每次会议、每一次推介、每一项提案都希望你能带着看起来像是设计师制作的东西出现。\n\n我就这样住过。在加入 Gamma 之前，我曾从事咨询和投资银行业务。我花在格式化幻灯片上的时间比分析幻灯片的时间还要多。\n\n当我和我的联合创始人创立 Gamma 时，我们问：如果你一开始就不必\n\n【来源】@thisisgrantlee\n【互动】浏览: 3010806 | 点赞: 1249 | 转发: 3096",
+    "title": "There's a hidden tax on every knowledge worker in "
+  },
+  {
+    "id": "2033803783973552452",
+    "author": "tansuyegen",
+    "url": "https://x.com/tansuyegen/status/2033803783973552452",
+    "publishedAt": "2026-03-18T09:34:39.913024",
+    "source": "@tansuyegen",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "A robot in China just smashed some dishes started dancing instead of working 😂",
+    "likes": 19216,
+    "retweets": 2927,
+    "replies": 1506,
+    "views": 4133708,
+    "created_at": "Tue Mar 17 07:13:03 +0000 2026",
+    "author_name": "Tansu Yegen",
+    "author_screen_name": "TansuYegen",
+    "summary": "【原文】\nA robot in China just smashed some dishes started dancing instead of working 😂\n\n【中文解读】\n中国的一个机器人刚刚砸碎了一些盘子就开始跳舞而不是工作😂\n\n【来源】@tansuyegen\n【互动】浏览: 4133708 | 点赞: 19216 | 转发: 2927",
+    "title": "A robot in China just smashed some dishes started "
+  },
+  {
+    "id": "2033935276079510011",
+    "author": "sama",
+    "url": "https://x.com/sama/status/2033935276079510011",
+    "publishedAt": "2026-03-18T09:34:39.913006",
+    "source": "@sama",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "text": "I have so much gratitude to people who wrote extremely complex software character-by-character. It already feels difficult to remember how much effort it really took.\n\nThank you for getting us to this point.",
+    "likes": 24927,
+    "retweets": 1394,
+    "replies": 3066,
+    "views": 3039878,
+    "created_at": "Tue Mar 17 15:55:33 +0000 2026",
+    "author_name": "Sam Altman",
+    "author_screen_name": "sama",
+    "summary": "【原文】\nI have so much gratitude to people who wrote extremely complex software character-by-character. It already feels difficult to remember how much effort it really took.\n\nThank you for getting us to this\n\n【中文解读】\n我非常感谢那些逐个字符编写极其复​​杂的软件的人们。已经很难记住到底付出了多少努力。\n\n感谢您让我们走到这一步。\n\n【来源】@sama\n【互动】浏览: 3039878 | 点赞: 24927 | 转发: 1394",
+    "title": "I have so much gratitude to people who wrote extre"
+  },
+  {
     "id": "2033532603433619845",
     "author": "atmoio",
     "url": "https://x.com/atmoio/status/2033532603433619845",
