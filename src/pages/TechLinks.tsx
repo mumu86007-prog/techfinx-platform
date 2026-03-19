@@ -115,7 +115,7 @@ const TechLinks = () => {
                 <p className="text-xs text-gray-500">科技金融 · 每日精选</p>
               </div>
               <div className="hidden sm:flex items-center space-x-3 text-sm">
-                <a href="/articles" className="text-gray-600 hover:text-blue-600">历史</a>
+                <a href="/articles" className="text-gray-600 hover:text-blue-600">个人文章</a>
                 <a href="/daily/2026-03-16.html" className="text-gray-600 hover:text-blue-600">今日</a>
               </div>
             </div>

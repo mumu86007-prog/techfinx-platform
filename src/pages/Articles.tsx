@@ -241,8 +241,8 @@ const Articles = () => {
   return (
     <div className="space-y-6">
       <Helmet>
-        <title>TechFinX | 历史内容</title>
-        <meta name="description" content="TechFinX 历史内容归档：每日速递与专题文章列表，便于检索与 SEO 收录。" />
+        <title>TechFinX | 个人文章</title>
+        <meta name="description" content="TechFinX 个人文章：原创内容归档，便于检索与阅读。" />
         <link rel="canonical" href="https://techfinx.top/articles" />
       </Helmet>
       <div className="space-y-2">
