@@ -1,12 +1,14 @@
 [
   {
     "title": "为什么「不做什么」比「做什么」更重要",
-    "url": "/daily/2026-03-19-not-to-do.html",
-    "date": "2026-03-19"
+    "url": "/articles/not-to-do",
+    "date": "2026-03-19",
+    "slug": "not-to-do"
   },
   {
     "title": "2026-03-16 科技金融热点速递（X 热门精选）",
-    "url": "/daily/2026-03-16.html",
-    "date": "2026-03-16"
+    "url": "/articles/2026-03-16-hot-news",
+    "date": "2026-03-16",
+    "slug": "2026-03-16-hot-news"
   }
 ]
