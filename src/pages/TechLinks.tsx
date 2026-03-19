@@ -305,9 +305,12 @@ const TechLinks = () => {
 
               {/* Summary/Text */}
               {(item.summary || item.text) && (
-                <p className="text-gray-600 text-sm leading-relaxed mb-4 line-clamp-3">
+                <p 
+                  className="text-gray-600 text-sm leading-relaxed mb-4 line-clamp-3 cursor-pointer hover:text-gray-800"
+                  onClick={() => setSelected(item)}
+                >
                   {item.summary || item.text}
-                  <span className="text-blue-600 ml-1">展开</span>
+                  <span className="text-blue-600 ml-1 hover:underline">展开</span>
                 </p>
               )}
 
