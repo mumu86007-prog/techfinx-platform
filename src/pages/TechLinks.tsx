@@ -130,7 +130,7 @@ const TechLinks = () => {
               </div>
               <div className="hidden sm:flex items-center space-x-3 text-sm">
                 <a href="/articles" className="text-gray-600 hover:text-blue-600">个人文章</a>
-                <a href="/daily/2026-03-16.html" className="text-gray-600 hover:text-blue-600">今日</a>
+                <a href="/archive" className="text-gray-600 hover:text-blue-600">历史归档</a>
               </div>
             </div>
             <div className="flex items-center space-x-4">
