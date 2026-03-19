@@ -166,9 +166,9 @@ const TechLinks = () => {
 
                 <h2 className="text-2xl font-bold leading-snug text-gray-900">{selected.title || '详情'}</h2>
 
-                {(selected.text || selected.summary) && (
+                {(selected.summary || selected.text) && (
                   <div className="prose max-w-none text-gray-800 whitespace-pre-wrap leading-relaxed">
-                    {selected.text || selected.summary}
+                    {selected.summary || selected.text}
                   </div>
                 )}
 
