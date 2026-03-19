@@ -74,7 +74,13 @@ const TechLinks = () => {
           if (!r.ok) continue
           const data = await r.json()
           if (mounted && Array.isArray(data) && data.length > 0) {
-            setItems(data.slice(0, 20))
+            // 过滤掉内容为空的条目
+            const validItems = data.filter((item: LinkItem) => {
+              const text = (item.text || '').trim()
+              const summary = (item.summary || '').trim()
+              return text.length > 0 || summary.length > 0
+            })
+            setItems(validItems.slice(0, 20))
             setLoading(false)
             return
           }
@@ -88,9 +94,17 @@ const TechLinks = () => {
     return () => { mounted = false }
   }, [])
 
-  const filteredItems = filter === 'all' 
+  // 过滤掉内容为空的条目
+  const hasContent = (item: LinkItem): boolean => {
+    const text = (item.text || '').trim()
+    const summary = (item.summary || '').trim()
+    return text.length > 0 || summary.length > 0
+  }
+
+  const filteredItems = (filter === 'all' 
     ? items 
     : items.filter(item => item.tags?.includes(filter))
+  ).filter(hasContent)
 
   return (
     <div className="min-h-screen bg-gray-50">
