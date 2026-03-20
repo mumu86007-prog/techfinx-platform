@@ -11,6 +11,12 @@ type Article = {
 
 const articlesData: Article[] = [
   {
+    "title": "巴菲特投资哲学：60年智慧浓缩的12条核心价值观",
+    "url": "/articles/buffett-core-values",
+    "date": "2026-03-20",
+    "slug": "buffett-core-values"
+  },
+  {
     "title": "为什么「不做什么」比「做什么」更重要",
     "url": "/daily/2026-03-19-not-to-do.html",
     "date": "2026-03-19",
@@ -26,6 +32,278 @@ const articlesData: Article[] = [
 
 // 文章内容数据 - 与 HTML 文件内容同步
 const articleContents: Record<string, { title: string; date: string; content: JSX.Element }> = {
+  "buffett-core-values": {
+    title: "巴菲特投资哲学：60年智慧浓缩的12条核心价值观",
+    date: "2026-03-20",
+    content: (
+      <>
+        <div className="bg-gradient-to-r from-amber-50 to-orange-50 border-l-4 border-amber-500 p-4 mb-8 italic text-gray-600 rounded-r-lg">
+          "投资不需要高智商，需要的是稳定的情绪和独立思考的能力。" —— Warren Buffett
+        </div>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">一、能力圈原则：只打有把握的仗</h2>
+          <p className="text-gray-600 mb-4"><strong className="text-gray-800">核心理念：</strong>你不需要成为所有领域的专家，只需要在自己的能力圈内竞争。</p>
+          
+          <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm mb-4">
+            <h3 className="font-semibold text-gray-800 mb-3">实践三步法：</h3>
+            <ol className="list-decimal list-inside text-gray-600 ml-4 space-y-2">
+              <li><strong>划定边界</strong> — 列出你真正理解的行业（至少研究3年以上）</li>
+              <li><strong>诚实评估</strong> — 能预测它10年后的经济状况吗？</li>
+              <li><strong>耐心等待</strong> — 在能力圈内等待"好球"</li>
+            </ol>
+          </div>
+          
+          <div className="bg-blue-50 rounded-xl p-4 border border-blue-100">
+            <p className="text-blue-700 italic">💡 巴菲特忠告："知道自己能力圈的边界，比能力圈的大小更重要。"</p>
+          </div>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">二、护城河理论：寻找持久的竞争优势</h2>
+          <p className="text-gray-600 mb-4"><strong className="text-gray-800">什么是护城河？</strong>护城河是你需要不断加固的竞争壁垒，是抵御竞争对手的"保护罩"。</p>
+          
+          <div className="grid gap-3 mb-4">
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">🏷️ 品牌护城河</h3>
+              <p className="text-gray-600 text-sm">典型案例：可口可乐、苹果 | 核心指标：定价权 + 客户忠诚度</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">🌐 网络效应</h3>
+              <p className="text-gray-600 text-sm">典型案例：美国运通、VISA | 核心指标：用户越多，价值越大</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">💰 成本优势</h3>
+              <p className="text-gray-600 text-sm">典型案例：GEICO、好市多 | 核心指标：规模效应 + 流程效率</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">🔒 转换成本</h3>
+              <p className="text-gray-600 text-sm">典型案例：苹果生态、Adobe | 核心指标：用户迁移的"痛苦度"</p>
+            </div>
+          </div>
+          
+          <p className="text-gray-600"><strong>关键判断：</strong>护城河是变宽、稳定，还是变窄？</p>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">三、安全边际：价格与价值的差额</h2>
+          <div className="bg-gradient-to-r from-green-50 to-emerald-50 rounded-xl p-4 border border-green-200 mb-4">
+            <p className="text-green-800 font-medium text-center text-lg">价格是你付出的，价值是你得到的</p>
+          </div>
+          
+          <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm mb-4">
+            <h3 className="font-semibold text-gray-800 mb-3">安全边际买入法则：</h3>
+            <ul className="list-disc list-inside text-gray-600 ml-4 space-y-2">
+              <li>内在价值估值后，只在<strong className="text-green-600">7折以下</strong>买入</li>
+              <li>为预测错误、市场波动预留缓冲空间</li>
+              <li>宁可错过，不可做错</li>
+            </ul>
+          </div>
+          
+          <p className="text-gray-600 italic">"风险来自于你不知道自己在做什么。"</p>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">四、长期持有：时间是朋友</h2>
+          <div className="bg-amber-50 rounded-xl p-4 border border-amber-200 mb-4">
+            <p className="text-amber-800 font-medium text-center italic">"如果你不打算持有一只股票十年，那就不要考虑持有它十分钟。"</p>
+          </div>
+          
+          <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm mb-4">
+            <h3 className="font-semibold text-gray-800 mb-3">复利的力量：</h3>
+            <ul className="list-disc list-inside text-gray-600 ml-4 space-y-1">
+              <li>年化15%收益，10年翻4倍</li>
+              <li>年化20%收益，10年翻6倍</li>
+              <li>时间是优秀企业的朋友，是平庸企业的敌人</li>
+            </ul>
+          </div>
+          
+          <p className="text-gray-600"><strong>心态建设：</strong>接受短期波动是长期的"噪音"，忽略市场先生的情绪，坚信优质企业会创造价值。</p>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">五、逆向思维：别人恐惧时贪婪</h2>
+          <div className="grid gap-3 mb-4">
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <p className="text-gray-600"><strong className="text-red-600">📈 极度乐观</strong> — 人人谈论股票 → 警惕泡沫，减仓观望</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <p className="text-gray-600"><strong className="text-green-600">📉 极度恐慌</strong> — VIX飙升，抛售 → 准备弹药，逢低买入</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <p className="text-gray-600"><strong className="text-blue-600">😱 好公司大跌</strong> — 跟风割肉 → 检查基本面，抄底</p>
+            </div>
+          </div>
+          
+          <div className="bg-gradient-to-r from-purple-50 to-pink-50 rounded-xl p-4 border border-purple-200">
+            <p className="text-purple-800 font-medium text-center">🎯 黄金法则："别人贪婪时恐惧，别人恐惧时贪婪。"</p>
+          </div>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">六、管理层评估：与优秀的人同行</h2>
+          <div className="grid gap-3 mb-4">
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">💎 诚信度</h3>
+              <p className="text-gray-600 text-sm">言行一致，兑现承诺；财务透明，不玩会计游戏；关联交易合理</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">🧠 能力</h3>
+              <p className="text-gray-600 text-sm">懂业务，会经营；资本配置能力强；能从错误中学习</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">🤝 股东导向</h3>
+              <p className="text-gray-600 text-sm">像企业所有者一样思考；合理控制成本；回购时机把握得当</p>
+            </div>
+          </div>
+          
+          <div className="bg-red-50 rounded-xl p-4 border border-red-200">
+            <h3 className="font-semibold text-red-800 mb-2">🚨 红色警报：</h3>
+            <ul className="list-disc list-inside text-red-700 text-sm ml-4 space-y-1">
+              <li>频繁更换审计师</li>
+              <li>高管薪酬脱离业绩</li>
+              <li>关联交易异常</li>
+              <li>稀释股东权益的并购</li>
+            </ul>
+          </div>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">七、简单原则：坚持不懂不做</h2>
+          <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm mb-4">
+            <h3 className="font-semibold text-gray-800 mb-3">巴菲特的投资清单：</h3>
+            <ul className="list-disc list-inside text-gray-600 ml-4 space-y-2">
+              <li>✅ 业务简单易懂</li>
+              <li>✅ 持续竞争优势</li>
+              <li>✅ 优秀管理团队</li>
+              <li>✅ 合理价格买入</li>
+            </ul>
+          </div>
+          
+          <div className="bg-blue-50 rounded-xl p-4 border border-blue-100 mb-4">
+            <p className="text-blue-700 italic">💡 芒格智慧："坚持不做傻事，比努力做聪明事更重要。"</p>
+          </div>
+          
+          <p className="text-gray-600"><strong>简单不等于容易：</strong>需要大量阅读和研究，需要耐心等待机会，需要克服从众心理，需要长期坚守纪律。</p>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">八、财务纪律：数字会说话</h2>
+          <div className="grid gap-3">
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-2">盈利能力</h3>
+              <p className="text-gray-600 text-sm">ROE 连续5年 &gt; 15% | 毛利率稳定或上升 | 经营现金流 &gt; 净利润</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-2">资产负债表</h3>
+              <p className="text-gray-600 text-sm">资产负债率 &lt; 50% | 现金/债务比 &gt; 0.5 | 无重大或有负债</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-2">质量检查</h3>
+              <p className="text-gray-600 text-sm">非经常性损益占比 &lt; 10% | 应收账款增长 &lt; 营收增长</p>
+            </div>
+          </div>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">九、错误处理：及时认错，快速止损</h2>
+          <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm mb-4">
+            <h3 className="font-semibold text-gray-800 mb-3">巴菲特的失败案例：</h3>
+            <div className="space-y-2 text-sm text-gray-600">
+              <p><strong>德克斯特鞋业</strong> — 错误：低估亚洲竞争 | 损失：$35亿机会成本 | 教训：制造业护城河易被侵蚀</p>
+              <p><strong>康菲石油</strong> — 错误：油价高位买入 | 损失：巨额亏损 | 教训：大宗商品价格不可预测</p>
+              <p><strong>航空股</strong> — 错误：行业结构变化 | 行动：及时止损 | 教训：及时承认错误</p>
+            </div>
+          </div>
+          
+          <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+            <h3 className="font-semibold text-gray-800 mb-2">处理错误的态度：</h3>
+            <ol className="list-decimal list-inside text-gray-600 ml-4 space-y-1">
+              <li>承认错误比坚持错误更需要勇气</li>
+              <li>沉没成本不是继续持有的理由</li>
+              <li>从错误中学习，但别重复犯错</li>
+              <li>最好的决策有时就是"卖出"</li>
+            </ol>
+          </div>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">十、终身学习：投资自己</h2>
+          <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm mb-4">
+            <h3 className="font-semibold text-gray-800 mb-3">巴菲特的阅读习惯：</h3>
+            <ul className="list-disc list-inside text-gray-600 ml-4 space-y-1">
+              <li>每天阅读5-6小时</li>
+              <li>80%时间用于阅读</li>
+              <li>从报纸、财报、书籍中汲取智慧</li>
+            </ul>
+          </div>
+          
+          <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-xl p-4 border border-indigo-200">
+            <p className="text-indigo-800 font-medium text-center">📚 最好的投资："最好的投资就是投资自己。"</p>
+          </div>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">十一、情绪管理：稳定压倒一切</h2>
+          <div className="grid gap-3 mb-4">
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <p className="text-gray-600"><strong>🧘 情绪稳定</strong> — 不被市场波动左右</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <p className="text-gray-600"><strong>🎯 独立思考</strong> — 不盲从大众观点</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <p className="text-gray-600"><strong>⏳ 耐心等待</strong> — 机会总会到来</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <p className="text-gray-600"><strong>💪 纪律执行</strong> — 坚守投资原则</p>
+            </div>
+          </div>
+          
+          <p className="text-gray-600"><strong>避免的心理陷阱：</strong>过度自信、锚定效应、损失厌恶、从众心理、近期偏好</p>
+        </section>
+
+        <section className="mb-10">
+          <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 border-b-2 border-gray-200 pb-2 mb-4">十二、给普通投资者的建议</h2>
+          <div className="bg-gradient-to-r from-green-50 to-emerald-50 rounded-xl p-4 border border-green-200 mb-4">
+            <p className="text-green-800 font-medium text-center italic">"通过定期投资指数基金，一个什么都不懂的投资者通常都能打败大部分专业基金经理。"</p>
+          </div>
+          
+          <div className="grid gap-3">
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">📊 指数基金策略</h3>
+              <p className="text-gray-600 text-sm">低成本、分散化、长期持有</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">📅 定投纪律</h3>
+              <p className="text-gray-600 text-sm">固定金额、固定时间，不管市场涨跌</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">🏔️ 长期视角</h3>
+              <p className="text-gray-600 text-sm">以10年为单位思考，不要试图择时</p>
+            </div>
+            <div className="bg-white rounded-xl p-4 border border-gray-100 shadow-sm">
+              <h3 className="font-semibold text-gray-800 mb-1">💸 成本控制</h3>
+              <p className="text-gray-600 text-sm">低费率是长期收益的保证</p>
+            </div>
+          </div>
+        </section>
+
+        <div className="bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-6 mt-8 shadow-sm">
+          <h3 className="text-amber-800 font-bold mb-3 text-lg">💡 结语：投资的本质</h3>
+          <p className="text-amber-700 mb-3">巴菲特60年的投资智慧告诉我们：</p>
+          <p className="text-amber-700 font-medium mb-3">投资不是关于智商的游戏，而是关于对自己诚实、对价值敏感、对时间尊重、对情绪控制、对人判断准。</p>
+          <p className="text-amber-800 font-medium">最终的财富来自于：找到优秀的公司，与优秀的管理者同行，以合理的价格买入，然后耐心等待复利创造奇迹。</p>
+        </div>
+
+        <p className="text-center text-gray-400 text-sm mt-8">
+          本文整理自 Warren Buffett 致股东信、演讲及采访，Charlie Munger 演讲及著作。<br/>
+          ⚠️ 免责声明：本文仅供学习交流，不构成投资建议。投资有风险，决策需谨慎。<br/>
+          TechFinX · 2026-03-20
+        </p>
+      </>
+    )
+  },
   "not-to-do": {
     title: "为什么「不做什么」比「做什么」更重要",
     date: "2026-03-19",
