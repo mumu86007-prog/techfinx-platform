@@ -11,6 +11,12 @@ type Article = {
 
 const articlesData: Article[] = [
   {
+    "title": "如何像战略天才一样思考（五维思考法）",
+    "url": "/daily/2026-03-21-5d-thinking.html",
+    "date": "2026-03-21",
+    "slug": "5d-thinking"
+  },
+  {
     "title": "巴菲特投资哲学：60年智慧浓缩的12条核心价值观",
     "url": "/articles/buffett-core-values",
     "date": "2026-03-20",
