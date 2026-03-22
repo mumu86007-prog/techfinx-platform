@@ -9,7 +9,31 @@ cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&
 
 ---
 
-## 1. Optimus+PV 将成为第一个冯诺依曼探测器，这是一台完全能够利用太空中发现的原材料进行自我复制...
+## 1. 宣布 TERAFAB：成为银河文明的下一步 https://x.com/i/broadcasts/1...
+
+**来源：** @spacex
+
+### 📝 原文
+
+Announcing TERAFAB: the next step towards becoming a galactic civilization https://x.com/i/broadcasts/1yKAPMzlvgWxb
+
+### 🌐 专业翻译
+
+宣布 TERAFAB：成为银河文明的下一步 https://x.com/i/broadcasts/1yKAPMzlvgWxb
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 6564349 | 点赞 12091 | 转发 2442
+
+🔗 [查看原文](https://x.com/spacex/status/2035519125284380672)
+
+---
+
+## 2. Optimus+PV 将成为第一个冯诺依曼探测器，这是一台完全能够利用太空中发现的原材料进行自我复制...
 
 **来源：** @elonmusk
 
@@ -27,13 +51,41 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 31775205 | 点赞 43560 | 转发 5025
+📊 **数据：** 浏览 38690790 | 点赞 47570 | 转发 5457
 
 🔗 [查看原文](https://x.com/elonmusk/status/2035259500064907571)
 
 ---
 
-## 2. 人工智能机器人将比人类更加人性化
+## 3. TERAFAB 项目将于今晚 8 点左右（中部时间）正式宣布，该项目将由 @SpaceX 和 @Te...
+
+**来源：** @elonmusk
+
+### 📝 原文
+
+Formal announcement of the TERAFAB project, which will be done jointly by @SpaceX and @Tesla, tonight around 8pm CT. Livestream on 𝕏.
+
+The goal is to produce over a TERAWATT of compute per year (logic, memory & packaging) with ~80% for space and ~20% for the ground.
+
+### 🌐 专业翻译
+
+TERAFAB 项目将于今晚 8 点左右（中部时间）正式宣布，该项目将由 @SpaceX 和 @Tesla 联合完成。 𝕏 上直播。
+
+目标是每年产生超过 1 太拉瓦的计算量（逻辑、内存和封装），其中约 80% 用于空间，约 20% 用于地面。
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 9072696 | 点赞 24526 | 转发 3378
+
+🔗 [查看原文](https://x.com/elonmusk/status/2035506574182199757)
+
+---
+
+## 4. 人工智能机器人将比人类更加人性化
 
 **来源：** @elonmusk
 
@@ -51,41 +103,13 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 36982447 | 点赞 398934 | 转发 22954
+📊 **数据：** 浏览 44382249 | 点赞 442232 | 转发 25621
 
 🔗 [查看原文](https://x.com/elonmusk/status/2035222177621188959)
 
 ---
 
-## 3. 您现在可以在 Claude Code 上安排基于云的重复任务。  设置一个（或多个）存储库、时间表和...
-
-**来源：** @noahzweben
-
-### 📝 原文
-
-You can now schedule recurring cloud-based tasks on Claude Code.
-
-Set a repo (or repos), a schedule, and a prompt. Claude runs it via cloud infra on your schedule, so you don’t need to keep Claude Code running on your local machine.
-
-### 🌐 专业翻译
-
-您现在可以在 Claude Code 上安排基于云的重复任务。
-
-设置一个（或多个）存储库、时间表和提示。 Claude 按您的日程安排通过云基础设施运行它，因此您无需让 Claude Code 在本地计算机上运行。
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 1298196 | 点赞 6450 | 转发 459
-
-🔗 [查看原文](https://x.com/noahzweben/status/2035122989533163971)
-
----
-
-## 4. 突发新闻：据报道，OpenAI 计划到今年年底将其员工人数从 4,500 人增加近一倍至 8,000...
+## 5. 突发新闻：据报道，OpenAI 计划到今年年底将其员工人数从 4,500 人增加近一倍至 8,000...
 
 **来源：** @polymarket
 
@@ -103,13 +127,13 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2941144 | 点赞 3619 | 转发 218
+📊 **数据：** 浏览 3566055 | 点赞 4031 | 转发 240
 
 🔗 [查看原文](https://x.com/polymarket/status/2035339981116297376)
 
 ---
 
-## 5. 五角大楼将采用 Palantir AI 作为核心军事系统：路透社
+## 6. 五角大楼将采用 Palantir AI 作为核心军事系统：路透社
 
 **来源：** @newswire_us
 
@@ -127,61 +151,13 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2691812 | 点赞 5878 | 转发 1497
+📊 **数据：** 浏览 4112073 | 点赞 6354 | 转发 1659
 
 🔗 [查看原文](https://x.com/newswire_us/status/2035318521878425823)
 
 ---
 
-## 6. 
-
-**来源：** @gakonst
-
-### 📝 原文
-
-
-
-### 🌐 专业翻译
-
-
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 138615 | 点赞 675 | 转发 98
-
-🔗 [查看原文](https://x.com/gakonst/status/2035122435343933950)
-
----
-
-## 7. 朋友正处于Claude精神病阶段，他要求Claude给他寄报纸，介绍Claude正在为他做什么
-
-**来源：** @noampomsky
-
-### 📝 原文
-
-friend is in the stage of claude psychosis where he asks claude to send him newspapers about what claude is doing for him
-
-### 🌐 专业翻译
-
-朋友正处于Claude精神病阶段，他要求Claude给他寄报纸，介绍Claude正在为他做什么
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 339816 | 点赞 7874 | 转发 391
-
-🔗 [查看原文](https://x.com/noampomsky/status/2035153535462252787)
-
----
-
-## 8. 我要求 ChatGPT 对所有 100 名参议员表示赞成或反对。结果很荒谬。除了 2 名民主党人之外...
+## 7. 我要求 ChatGPT 对所有 100 名参议员表示赞成或反对。结果很荒谬。除了 2 名民主党人之外...
 
 **来源：** @not_the_bee
 
@@ -199,9 +175,33 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 35063524 | 点赞 11422 | 转发 1343
+📊 **数据：** 浏览 40540719 | 点赞 13031 | 转发 1530
 
 🔗 [查看原文](https://x.com/not_the_bee/status/2035214797856256474)
+
+---
+
+## 8. 最新消息：Reddit 首席执行官表示，该公司正在考虑要求 Face ID 来确保人性化，从而打击人...
+
+**来源：** @polymarket
+
+### 📝 原文
+
+JUST IN: Reddit CEO says the company is considering requiring Face ID to ensure humanity in order to crack down on AI bots.
+
+### 🌐 专业翻译
+
+最新消息：Reddit 首席执行官表示，该公司正在考虑要求 Face ID 来确保人性化，从而打击人工智能机器人。
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 1016082 | 点赞 3207 | 转发 281
+
+🔗 [查看原文](https://x.com/polymarket/status/2035400544475340899)
 
 ---
 
@@ -223,33 +223,43 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 5992610 | 点赞 31287 | 转发 3405
+📊 **数据：** 浏览 7163015 | 点赞 36951 | 转发 4004
 
 🔗 [查看原文](https://x.com/elonmusk/status/2035302005737160814)
 
 ---
 
-## 10. 我对代码质量不太满意，我认为代理臃肿的抽象，代码美观性差，很容易复制粘贴代码块，这很混乱，但在这一点...
+## 10. 90 年代的一篇文章解释了 20 世纪 80 年代个人电脑如何改变了大学和高中工作者的动态。  大学...
 
-**来源：** @karpathy
+**来源：** @mcuban
 
 ### 📝 原文
 
-I'm not very happy with the code quality and I think agents bloat abstractions, have poor code aesthetics, are very prone to copy pasting code blocks and it's a mess, but at this point I stopped fighting it too hard and just moved on. The agents do not listen to my instructions in the AGENTS.md files. E.g. just as one example, no matter how many times I say something like:
+An article  from the 90s explaining how in the 1980s, personal computers changed the dynamic of college vs high school workers.  College grads learned how to use PCs and grew wages faster 
 
-"Every line of code should do exactly one thing and use intermediate variables as a form of documentation"
+Mind you, this was when interest rates were 15pct, white collar unemployment was the highest it’s been any non covid year, general unemployment was 10pct, there was a recession, 18pct mortgages, and the start of the savings and loan industry collapse.  
 
-They will still
+The economy was a mess.  Except it was the start of the
 
 ### 🌐 专业翻译
 
-我对代码质量不太满意，我认为代理臃肿的抽象，代码美观性差，很容易复制粘贴代码块，这很混乱，但在这一点上我不再挣扎，只是继续前进。代理不听我在 AGENTS.md 文件中的指令。例如。举个例子，无论我说了多少次：
+90 年代的一篇文章解释了 20 世纪 80 年代个人电脑如何改变了大学和高中工作者的动态。  大学毕业生学会了如何使用电脑，工资增长更快 
 
-“每一行代码都应该只做一件事，并使用中间变量作为文档的一种形式”
+请注意，当时利率为 15%，白领失业率为非新冠年份中最高，总体失业率为 10%，经济衰退，抵押贷款占 18%，储蓄和贷款行业开始崩溃。  
 
-他们仍然会“多任务”并创建复杂的结构，其中一行代码调用 2 个函数，然后用结果索引一个数组。我认为原则上我可以使用钩子或斜线命令来清理它，但在某些时候只是耸耸肩更容易。
+经济一片混乱。  只不过这是导致变革的“数字革命”的开始。 
 
-是的，我认为法学硕士作为软奖励的判断者在原则上和长期来看都存在一些问题（由于古德哈廷的担忧），但在实践中和目前，我认为我们还没有在这里摘到容易实现的目标。
+我们正处于人工智能革命的早期阶段。   我认为这与当时发生的情况非常相似。  
+
+如果您认为学习如何使用 Clause 似乎令人畏惧，请想象一下，您在 1983 年 50 岁，不知道如何打字，使用带有磁带卷的 1.0 键加法机来完成作为分析师的所有工作，并意识到您必须弄清楚全新的 IBM PC 和 Lotus 1-2-3 是如何工作的。 
+
+或者整个职业生涯只使用过打字机，然后不得不学习新的 PC 和 WordStar。    相信我。  WordStar 组合键比告诉 Claude 你想要做什么更难学 
+
+很多人都想不通。  那些这样做的人生产力更高
+
+使用 AI 控制 QA 
+
+https://www.nber.org/digest/sep97/how-has-computer-use-changed-labor-market
 
 ### 💡 深度解读
 
@@ -257,11 +267,11 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 605021 | 点赞 3632 | 转发 285
+📊 **数据：** 浏览 808484 | 点赞 1608 | 转发 184
 
-🔗 [查看原文](https://x.com/karpathy/status/2035173492447224237)
+🔗 [查看原文](https://x.com/mcuban/status/2035227177713614935)
 
 ---
 
 
-*生成时间：2026-03-22 06:30:38*
+*生成时间：2026-03-22 11:38:25*
