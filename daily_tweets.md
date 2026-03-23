@@ -9,91 +9,7 @@ cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&
 
 ---
 
-## 1. 宣布 TERAFAB：成为银河文明的下一步 https://x.com/i/broadcasts/1...
-
-**来源：** @spacex
-
-### 📝 原文
-
-Announcing TERAFAB: the next step towards becoming a galactic civilization https://x.com/i/broadcasts/1yKAPMzlvgWxb
-
-### 🌐 专业翻译
-
-宣布 TERAFAB：成为银河文明的下一步 https://x.com/i/broadcasts/1yKAPMzlvgWxb
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 30184509 | 点赞 23967 | 转发 4689
-
-🔗 [查看原文](https://x.com/spacex/status/2035519125284380672)
-
----
-
-## 2. TERAFAB 项目将于今晚 8 点左右（中部时间）正式宣布，该项目将由 @SpaceX 和 @Te...
-
-**来源：** @elonmusk
-
-### 📝 原文
-
-Formal announcement of the TERAFAB project, which will be done jointly by @SpaceX and @Tesla, tonight around 8pm CT. Livestream on 𝕏.
-
-The goal is to produce over a TERAWATT of compute per year (logic, memory & packaging) with ~80% for space and ~20% for the ground.
-
-### 🌐 专业翻译
-
-TERAFAB 项目将于今晚 8 点左右（中部时间）正式宣布，该项目将由 @SpaceX 和 @Tesla 联合完成。 𝕏 上直播。
-
-目标是每年产生超过 1 太拉瓦的计算量（逻辑、内存和封装），其中约 80% 用于空间，约 20% 用于地面。
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 27368514 | 点赞 47220 | 转发 6268
-
-🔗 [查看原文](https://x.com/elonmusk/status/2035506574182199757)
-
----
-
-## 3. SpaceXAI + 特斯拉 TERAFAB 项目   目标是每年一万亿瓦的计算  大多数必须去太空...
-
-**来源：** @elonmusk
-
-### 📝 原文
-
-SpaceXAI + Tesla TERAFAB Project 
-
-Goal is a trillion watts of compute/year
-
-Most must necessarily go to space, as US electricity is only 0.5TW
-
-### 🌐 专业翻译
-
-SpaceXAI + 特斯拉 TERAFAB 项目 
-
-目标是每年一万亿瓦的计算
-
-大多数必须去太空，因为美国的电力只有 0.5TW
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 9982655 | 点赞 28509 | 转发 5707
-
-🔗 [查看原文](https://x.com/elonmusk/status/2035526376468394305)
-
----
-
-## 4. 我需要使用 plantir 大约一个小时！
+## 1. 我需要使用 plantir 大约一个小时！
 
 **来源：** @meekmill
 
@@ -111,140 +27,13 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1573328 | 点赞 9099 | 转发 1111
+📊 **数据：** 浏览 2048706 | 点赞 9827 | 转发 1209
 
 🔗 [查看原文](https://x.com/meekmill/status/2035600651464647060)
 
 ---
 
-## 5. TERAFAB：成为银河文明的下一步  我们与 @SpaceX 和 @xAI 一起建造有史以来最大的...
-
-**来源：** @tesla
-
-### 📝 原文
-
-TERAFAB: the next step to becoming a galactic civilization
-
-Together with @SpaceX & @xAI, we're building the largest chip manufacturing facility ever (1TW/year) – combining logic, memory & advanced packaging under one roof.
-
-To harness as much power as possible from the Sun, we need to send 100 million tons of solar capture into space – per year.
-
-This requires massive scale.
-
-– Capability to launch millions of tons of mass into orbit
-
-– Solar-powered AI satellites
-
-– Millions of @Tesla_Optimus 
-
-### 🌐 专业翻译
-
-TERAFAB：成为银河文明的下一步
-
-我们与 @SpaceX 和 @xAI 一起建造有史以来最大的芯片制造设施（1TW/年）——将逻辑、内存和先进封装结合在一个屋檐下。
-
-为了尽可能多地利用太阳的能量，我们每年需要将 1 亿吨太阳能捕获物送入太空。
-
-这需要大规模。
-
-– 将数百万吨质量发射到轨道的能力
-
-– 太阳能人工智能卫星
-
-– 数以百万计的 @Tesla_Optimus 机器人来帮助构建它
-
-所有这些都需要芯片：仅 Optimus 就需要 100-200GW 的芯片，再加上用于太阳能人工智能卫星的太瓦芯片。
-
-这超过了当今世界所有芯片制造商所能提供的总和，甚至超过了 2030 年（基于预计的产量增长）。
-
-我们正在构建 TERAFAB，以缩小当今芯片生产与未来需求之间的差距——打造群星之中的未来
-
-http://terafab.ai
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 30471830 | 点赞 17963 | 转发 2572
-
-🔗 [查看原文](https://x.com/tesla/status/2035535642676044066)
-
----
-
-## 6. 我刚看到了什么鬼东西，笑死我了。  估值20亿美元的AI驱动奶牛项目，正在使用一种名为"Cowgor...
-
-**来源：** @cryptopunk7213
-
-### 📝 原文
-
-wtf did i just read LMAO
-
-ai-powered cows worth $2 billion are using an algorithm called the “cowgorithm” to boost farming productivity (i’m not fucking joking)
-
-- Halter makes ai-powered cow collars that virtually monitor health, location and herd cows
-
-- farmers literally tap a button on the app and the cows gather for milking 
-
-- 600,000 cow collars already live
-
-- peter thiel is backing their latest round worth $2 billion
-
-every fucking time i think ive seen the most ridiculous (but cool) ap
-
-### 🌐 专业翻译
-
-我刚看到了什么鬼东西，笑死我了。
-
-估值20亿美元的AI驱动奶牛项目，正在使用一种名为"Cowgorithm"（牛算法）的算法来提升农业生产效率（我真没开玩笑）
-
-- Halter公司开发了AI智能牛项圈，可实时监测奶牛健康状况、位置信息并进行牛群管理
-
-- 农场主只需在App上点击一个按钮，奶牛就会自动集合准备挤奶
-
-- 目前已有60万个智能牛项圈投入使用
-
-- Peter Thiel正在支持其最新一轮融资，估值达20亿美元
-
-每次我以为自己已经见识过AI最荒诞（但又很酷）的应用场景时，现实总会再次刷新我的认知。
-
-### 🎯 核心发现
-
-传统畜牧业正在经历深度数字化转型：新西兰农业科技公司Halter通过AI智能项圈实现了奶牛管理的自动化，获得硅谷顶级投资人Peter Thiel支持，估值20亿美元，已部署60万设备。这标志着AI应用已从高科技行业渗透到最传统的农业生产环节。
-
-### 💡 深度解读
-
-**背景分析**  
-畜牧业长期面临劳动力短缺、管理效率低下、动物健康监测困难等痛点。Halter的解决方案通过IoT+AI技术栈，将传统需要人工驱赶、巡查的工作转化为数字化指令，这是典型的"用软件重构传统产业"逻辑。
-
-**行业意义**  
-1. **市场验证**：60万设备部署量证明产品已跨越早期采用者阶段，进入规模化推广期
-2. **资本背书**：Peter Thiel作为PayPal联合创始人、Palantir创始人，其投资偏好一向是"技术驱动的颠覆性创新"，这次押注农业科技释放了强烈信号
-3. **经济模型**：20亿美元估值意味着资本市场认可其单位经济效益和可扩展性
-
-**为什么重要**  
-这个案例打破了"AI只能应用于高科技场景"的认知边界。农业作为人类最古老的产业之一，其数字化改造空间巨大——全球畜牧业市值超万亿美元，若类似技术渗透率达到10%，就是千亿级市场。更重要的是，它证明了AI的价值不在于"炫技"，而在于解决真实的生产力问题。
-
-### 🔄 可迁移洞察
-
-1. **水产养殖**：鱼类健康监测、自动投喂、水质管理的智能化改造
-2. **畜禽养殖**：猪、鸡等其他牲畜的行为分析、疾病预警、精准饲喂
-3. **宠物经济**：智能项圈监测宠物健康、活动轨迹、情绪状态
-4. **野生动物保护**：濒危物种追踪、栖息地监测、反盗猎预警系统
-5. **物流仓储**：AGV机器人调度、货物追踪的算法逻辑与"牛群管理"高度相似
-
-核心可迁移模式：**IoT硬件 + AI算法 + 移动端控制 = 传统行业自动化改造**
-
-🏷️ **标签：** AgTech（农业科技）、IoT+AI融合、传统产业数字化、硬件订阅模式、垂直领域AI应用
-
-📊 **数据：** 浏览 2184228 | 点赞 14531 | 转发 1138
-
-🔗 [查看原文](https://x.com/cryptopunk7213/status/2035485927829610957)
-
----
-
-## 7. 埃隆·马斯克：“我们在奥斯汀建立了一家先进技术工厂，我要感谢 @GregAbbott_TX 和德克萨...
+## 2. 埃隆·马斯克：“我们在奥斯汀建立了一家先进技术工厂，我要感谢 @GregAbbott_TX 和德克萨...
 
 **来源：** @cb_doge
 
@@ -268,23 +57,55 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 12534598 | 点赞 12221 | 转发 2075
+📊 **数据：** 浏览 13957397 | 点赞 12863 | 转发 2223
 
 🔗 [查看原文](https://x.com/cb_doge/status/2035552786331705757)
 
 ---
 
-## 8. 最新消息：AI 牛项圈初创公司 Halter 估值达 2,000,000,000 美元，使用专有的“...
+## 3. 农民每月为每头牛支付 5-8 美元。  一家新西兰公司给奶牛安装了太阳能智能项圈。  它全天候 (2...
 
-**来源：** @polymarket
+**来源：** @shiri_shh
 
 ### 📝 原文
 
-JUST IN: AI cow collar startup Halter raises at $2,000,000,000.00 valuation, uses proprietary “cowgorithm” to herd cattle.
+Farmer pays $5–$8 per cow per month.
+
+A New Zealand company puts a solar-powered smart collar on cows.
+
+It tracks location 24/7, health, temperature, chewing activity, breeding.
+
+Farmer just opens a simple app and draws a line on the map.
+That line becomes the fence.
+
+As cows approach the boundary, the collar beeps and vibrates.
+
+With one tap, the whole herd moves to fresh grass or the milking shed.
+
+No physical fences. Less labor. Huge cost savings for farmer.
+
+Already on 700k cows across New Z
 
 ### 🌐 专业翻译
 
-最新消息：AI 牛项圈初创公司 Halter 估值达 2,000,000,000 美元，使用专有的“cowgorithm”来放牛。
+农民每月为每头牛支付 5-8 美元。
+
+一家新西兰公司给奶牛安装了太阳能智能项圈。
+
+它全天候 (24/7) 跟踪位置、健康状况、温度、咀嚼活动、繁殖情况。
+
+Farmer 只需打开一个简单的应用程序并在地图上画一条线。
+那条线变成了栅栏。
+
+当奶牛接近边界时，项圈会发出蜂鸣声并振动。
+
+只需轻轻一按，整个牛群就会移动到新鲜的草地或挤奶棚上。
+
+没有物理围栏。更少的劳动力。为农民节省大量成本。
+
+已经在新西兰、澳大利亚和美国的 70 万头奶牛上使用。
+
+目前正在以 20 亿美元的估值进行谈判，由 Peter Thiel 牵头。
 
 ### 💡 深度解读
 
@@ -292,23 +113,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 7956188 | 点赞 2516 | 转发 246
+📊 **数据：** 浏览 3089587 | 点赞 18570 | 转发 1279
 
-🔗 [查看原文](https://x.com/polymarket/status/2035530314865345012)
+🔗 [查看原文](https://x.com/shiri_shh/status/2035644582940348534)
 
 ---
 
-## 9. 我让Claude为我的女儿开发一个应用程序，可以插入我们的钢琴，可以读取实时击键，可以显示她的乐谱笔...
+## 4. Anthropic CEO：“人工智能将在未来 12 个月内消灭 50% 的律师、顾问和金融专业人士...
 
-**来源：** @rg_leachman
+**来源：** @unusual_whales
 
 ### 📝 原文
 
-I asked Claude to build my daughter an app that plugs into our piano, can read live key strokes, can show her sheet notes and key view and ends with a Guitar Hero style game. All while giving progressively harder songs. Today she’s using It and crushing It.
+Anthropic CEO: “AI will wipe out 50% of lawyers, consultants, and finance professionals within the next 12 months”
 
 ### 🌐 专业翻译
 
-我让Claude为我的女儿开发一个应用程序，可以插入我们的钢琴，可以读取实时击键，可以显示她的乐谱笔记和键视图，并以吉他英雄风格的游戏结束。同时提供越来越难的歌曲。今天她正在使用它并粉碎它。
+Anthropic CEO：“人工智能将在未来 12 个月内消灭 50% 的律师、顾问和金融专业人士”
 
 ### 💡 深度解读
 
@@ -316,31 +137,268 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2158952 | 点赞 19244 | 转发 1203
+📊 **数据：** 浏览 1384413 | 点赞 6758 | 转发 849
 
-🔗 [查看原文](https://x.com/rg_leachman/status/2035537289812816128)
+🔗 [查看原文](https://x.com/unusual_whales/status/2035854284051595288)
 
 ---
 
-## 10. 
+## 5. Palantir AI + Claude 在针对伊朗的行动的前 24 小时内对 1,000 多个目标...
 
-**来源：** @dhravyashah
+**来源：** @shiri_shh
 
 ### 📝 原文
 
+Palantir AI + Claude was used to detect, prioritize, and strike over 1,000 targets in the first 24 hours of Operation against IRAN.
 
+The success was so ridiculous, so game-changing, that the Pentagon didn’t even wait.
+
+What used to be just a pilot project, just something they were testing out… suddenly became official, permanent, and everywhere.
+
+Palantir is now the core AI brain of the entire U.S. military. It’s getting rolled out across ALL branches.
 
 ### 🌐 专业翻译
 
+Palantir AI + Claude 在针对伊朗的行动的前 24 小时内对 1,000 多个目标进行了检测、优先排序和打击。
 
+这一成功是如此荒谬，如此改变了游戏规则，以至于五角大楼甚至没有等待。
 
-🏷️ **标签：** 
+以前只是一个试点项目，只是他们正在测试的东西……突然变得正式、永久、无处不在。
 
-📊 **数据：** 浏览 1753717 | 点赞 3167 | 转发 330
+Palantir 现在是整个美国军队的核心人工智能大脑。它正在所有分支机构推广。
 
-🔗 [查看原文](https://x.com/dhravyashah/status/2035517012647272689)
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 11499917 | 点赞 8917 | 转发 1113
+
+🔗 [查看原文](https://x.com/shiri_shh/status/2035762040879644774)
+
+---
+
+## 6. 快速递归改进
+
+**来源：** @elonmusk
+
+### 📝 原文
+
+Rapid recursive improvement
+
+### 🌐 专业翻译
+
+快速递归改进
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 13450069 | 点赞 46549 | 转发 6807
+
+🔗 [查看原文](https://x.com/elonmusk/status/2035568009062867209)
+
+---
+
+## 7. 紙工作でLIVE2Dの動く女の子を作ってみた
+
+**来源：** @shin___geki
+
+### 📝 原文
+
+紙工作でLIVE2Dの動く女の子を作ってみた
+
+### 🌐 专业翻译
+
+紙工作でLIVE2Dの動く女の子を作ってみた
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 4388432 | 点赞 132181 | 转发 13882
+
+🔗 [查看原文](https://x.com/shin___geki/status/2035596487737098449)
+
+---
+
+## 8. 人工智能不是未来，而是现在。来认识一下福布斯 30 位 30 岁以下的革命者，他们利用机器学习来制造...
+
+**来源：** @forbes
+
+### 📝 原文
+
+AI isn't the future—it's now. Meet the Forbes 30 Under 30 revolutionaries harnessing machine learning to build robotic astronauts, cut off funding for terrorists, and turn anyone into a genius coder.
+
+This is the new class of innovators making history. 
+
+See the full 2026 #ForbesUnder30 list: https://www.forbes.com/30-under-30/2026/?utm_campaign=ForbesMainTwitter&utm_source=ForbesMainTwitter&utm_medium=social
+(Photography by Sebastian Nevols; Additional Photography by Guerin Blask)
+
+### 🌐 专业翻译
+
+人工智能不是未来，而是现在。来认识一下福布斯 30 位 30 岁以下的革命者，他们利用机器学习来制造机器人宇航员、切断对恐怖分子的资助，并将任何人变成天才程序员。
+
+这是创造历史的新创新者阶层。 
+
+查看完整的 2026 年#ForbesUnder30 名单：https://www.forbes.com/30-under-30/2026/?utm_campaign=ForbesMainTwitter&utm_source=ForbesMainTwitter&utm_medium=social
+（摄影：Sebastian Nevols；补充摄影：Guerin Blask）
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 500383 | 点赞 179 | 转发 15
+
+🔗 [查看原文](https://x.com/forbes/status/2035567163701068279)
+
+---
+
+## 9. 每个人都将 Terafab 视为一家芯片工厂。  它不是一家芯片工厂。  昨晚，埃隆在奥斯汀推出了一...
+
+**来源：** @shanaka86
+
+### 📝 原文
+
+Everyone is covering Terafab as a chip factory.
+
+It is not a chip factory.
+
+Last night in Austin, Elon unveiled a facility that makes masks, fabricates chips, and tests them inside a single building with a nine-month recursive improvement cadence. No such loop exists anywhere else on Earth. Then he told you 80% of the output goes to space. Then he showed you a 100-kilowatt AI satellite with solar panels and radiators, scaling to megawatt range. Then he said Optimus plus photovoltaics will be the
+
+### 🌐 专业翻译
+
+每个人都将 Terafab 视为一家芯片工厂。
+
+它不是一家芯片工厂。
+
+昨晚，埃隆在奥斯汀推出了一家工厂，该工厂制造口罩、制造芯片，并在一座建筑物内以九个月的递归改进节奏对其进行测试。地球上其他任何地方都不存在这样的环路。然后他告诉你 80% 的产出都流向了太空。然后他向您展示了一颗 100 千瓦的人工智能卫星，配有太阳能电池板和散热器，可扩展到兆瓦范围。然后他说擎天柱加上光伏发电将成为第一个冯·诺依曼探测器，这是一种能够利用太空中发现的原材料进行自我复制的机器。
+
+没有人将顺序联系起来。
+
+Terafab 每年产生 1 太瓦的计算量。整个美国消耗 0.5 太瓦电力。马斯克正在建造一家工厂，其人工智能芯片的产量超过其所在国家电力消耗的两倍。他将其中 80% 的工厂送往地球之外，因为地球实际上无法为他正在建造的工厂提供动力。
+
+遵循机制。 Terafab 为芯片播种。 Starship 每年发射 1 亿吨的擎天柱机器人和太阳能电池板。这些机器人开采月球和小行星风化层中的硅、铁和镍。他们 3D 打印更多机器人。他们制造了更多的太阳能电池板。他们组装了更多的人工智能卫星。每颗卫星都运行专为真空设计的燃烧温度更高的 D3 芯片，其中自由辐射冷却消除了扼杀地球上每个地面数据中心的热限制。节点进行复制。复制是指数级的。
+
+这是隐藏在半导体公告中的 Dyson Swarm 引导程序。
+
+数学是公开的。太阳的输出功率是 10 的 26 瓦的 3.828 倍。 Physica Scripta 2022 年发表的一篇论文计算出，由机器人利用火星资源制造的 55 亿颗卫星（每颗重 290 公斤）可以捕获足够的太阳能，以满足 50 年内地球的所有电力需求。 《太阳能材料》2025 年发表的一篇论文计算出，捕获 4% 太阳能输出的部分集群可产生 15.6 千瓦的电力，大约是当前人类文明总能源预算的 10 亿倍。马斯克刚刚宣布了一家工厂，该工厂生产的芯片安装在卫星内部，可以永远自我复制。
+
+92%的先进逻辑芯片是在台湾制造的。奥斯汀的一家工厂无法解决这个问题。但该工厂培育的一个自我复制系统，由唯一一家拥有可重复使用重型火箭的公司发射，由唯一一个大规模生产的人形机器人组装，并由唯一触手可及的恒星提供动力，并不能修复供应链。它完全废弃了供应链的概念。
+
+市场将此视为关于半导体独立性的 200 亿美元资本支出故事。
+
+实际公布的是卡尔达肖夫 II 型的工程蓝图。
+
+卡尔达肖夫评分中，人性得分为 0.73。 18太瓦。这里和驾驭明星之间的距离并不是技术差距。这是一个递归间隙。递归正是奥斯汀的一栋大楼的设计目标，该大楼制造自己的掩模，构建自己的芯片，测试自己的芯片，并用自己的火箭将输出发射到轨道。
+
+每一个跨越这一点的文明都不会回头。
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 834364 | 点赞 8044 | 转发 1574
+
+🔗 [查看原文](https://x.com/shanaka86/status/2035640334273991166)
+
+---
+
+## 10. 🚨突发新闻：Anthropic 正在颁发与德勤对 15,000 名员工进行大规模培训以获得的相同证书...
+
+**来源：** @evanluthra
+
+### 📝 原文
+
+🚨BREAKING: ANTHROPIC IS GIVING AWAY THE SAME CERTIFICATION THAT DELOITTE IS MASS-TRAINING 15,000 EMPLOYEES TO GET. 
+
+It costs $0. You need a laptop. That's it.
+
+It's called the "Claude Certified Architect."
+
+Think of it like the AWS cert but for AI.
+
+If you were around when AWS certs started, you know what happened. They went from "cool to have" to "you're not getting hired without one." That took about 5 years.
+
+This is going to happen way faster.
+
+Look at who's already moving:
+
+Accenture - tra
+
+### 🌐 专业翻译
+
+🚨突发新闻：Anthropic 正在颁发与德勤对 15,000 名员工进行大规模培训以获得的相同证书。 
+
+费用为 0 美元。你需要一台笔记本电脑。就是这样。
+
+它被称为“Claude认证建筑师”。
+
+可以将其想象为适用于 AI 的 AWS 证书。
+
+如果 AWS 证书开始时您在场，您就会知道发生了什么。他们从“拥有它就很酷”变成了“没有它你就不会被雇用”。这花了大约5年的时间。
+
+这将会发生得更快。
+
+看看谁已经搬家了：
+
+埃森哲 - 对 30,000 人进行了Claude培训
+Cognizant - 向 350,000 名员工推广
+德勤 - 向 470,000 人开放 Claude 访问权限
+Infosys——主要合作伙伴
+
+这些不是初创公司的实验。这些价值数十亿美元的咨询公司围绕Claude重组了整个员工队伍。
+
+他们需要什么认证？您现在就可以从卧室取出它。
+
+让我说实话吧。这不是那种无人尊重的“观看 2 个视频并获得徽章”类型的证书。
+
+这件事很难。
+
+60 个问题。 2小时。监考。网络摄像头打开。没有休息。没有谷歌搜索。
+
+他们将您带入真实场景，例如设计处理退款的客户支持代理或在 CI/CD 管道中设置 Claude。错误的答案故意看起来正确。这些错误正是真正的工程师在生产中所犯的错误。
+
+满分 1000 分 720 分通过。
+
+使用它的人说代理架构和多代理编排部分是残酷的。
+
+大部分考试都是关于构建在现实世界中实际运行的人工智能系统。不提示。不和Claude聊天。构建生产系统。
+
+一切准备工作都做完了吗？自由的。 Anthropic 在他们的学院推出了 13 门课程。没有付费专区。该证书本身对前 5,000 人免费。之后每次尝试 99 美元。
+
+如何获得：
+
+1. 加入Claude合作伙伴网络（免费）→ http://partnerportal.anthropic.com
+2. 开始免费的预备课程 → http://anthropic.com/learn
+3. 报名考试 → http://anthropic.skilljar.com
+4. 参加官方模拟考试
+5. 准备好后预订正品
+
+它于 10 天前启动。几乎还没人拥有它。
+
+这就是重点。在它成为每个人都拥有的东西之前得到它。
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 1867692 | 点赞 16384 | 转发 1720
+
+🔗 [查看原文](https://x.com/evanluthra/status/2035615077056045449)
 
 ---
 
 
-*生成时间：2026-03-23 06:34:46*
+*生成时间：2026-03-23 10:57:13*
