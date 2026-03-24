@@ -1,25 +1,33 @@
 ---
-title: 2026-03-24 科技金融热点速递
+title: 2026-03-25 科技金融热点速递
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop
 ---
 
-# 2026-03-24 科技金融热点速递
+# 2026-03-25 科技金融热点速递
 
 精选自 X 平台 AI 领域热门讨论，每日更新。
 
 ---
 
-## 1. OpenAl 为私募股权公司提供 17.5% 的最低回报保证，以及尚未公开发布的模型的抢先体验。
+## 1. 您现在可以让 Claude 使用您的计算机来完成任务。  它可以打开您的应用程序、浏览浏览器、填写电...
 
-**来源：** @andrewcurran_
+**来源：** @claudeai
 
 ### 📝 原文
 
-OpenAl is offering private-equity firms a guaranteed minimum return of 17.5%, as well as early access to models not yet in public release.
+You can now enable Claude to use your computer to complete tasks.
+
+It opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.
+
+Research preview in Claude Cowork and Claude Code, macOS only.
 
 ### 🌐 专业翻译
 
-OpenAl 为私募股权公司提供 17.5% 的最低回报保证，以及尚未公开发布的模型的抢先体验。
+您现在可以让 Claude 使用您的计算机来完成任务。
+
+它可以打开您的应用程序、浏览浏览器、填写电子表格——您可以坐在办公桌前做的任何事情。
+
+Claude Cowork 和 Claude Code 中的研究预览（仅限 macOS）。
 
 ### 💡 深度解读
 
@@ -27,142 +35,119 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2990197 | 点赞 2527 | 转发 204
+📊 **数据：** 浏览 65310091 | 点赞 130730 | 转发 13498
 
-🔗 [查看原文](https://x.com/andrewcurran_/status/2036043793968083192)
+🔗 [查看原文](https://x.com/claudeai/status/2036195789601374705)
 
 ---
 
-## 2. 重磅发布：PlayerZero  全球首个工程世界模型（Engineering World Mode...
+## 2. LiteLLM 已被泄露，请勿更新。我们刚刚发现 LiteLLM pypi 版本 1.82.8。它已...
 
-**来源：** @akoratana
+**来源：** @hnykda
 
 ### 📝 原文
 
-Introducing: PlayerZero
-
-The world's first Engineering World Model that puts debugging, fixing, and testing your code on autopilot.
-
-We've raised $20M from Foundation Capital, @matei_zaharia (Databricks), @pbailis (Workday), @rauchg (Vercel), @zoink (Figma), @drewhouston (Dropbox), and more
-
-PlayerZero frees up 30% of your engineering bandwidth by:
-1.⁠ ⁠Finding the root cause for bugs & incidents in minutes that engineering teams take days to identify.
-2.⁠ ⁠Predicting in minutes, edge case issue
+LiteLLM HAS BEEN COMPROMISED, DO NOT UPDATE. We just discovered that LiteLLM pypi release 1.82.8. It has been compromised, it contains litellm_init.pth with base64 encoded instructions to send all the credentials it can find to remote server + self-replicate. link below
 
 ### 🌐 专业翻译
 
-重磅发布：PlayerZero
+LiteLLM 已被泄露，请勿更新。我们刚刚发现 LiteLLM pypi 版本 1.82.8。它已被泄露，它包含 litellm_init.pth 和 base64 编码指令，用于将它能找到的所有凭据发送到远程服务器 + 自我复制。链接如下
 
-全球首个工程世界模型（Engineering World Model），实现代码调试、修复和测试的全自动化。
+### 💡 深度解读
 
-我们已完成2000万美元融资，投资方包括Foundation Capital、@matei_zaharia（Databricks创始人）、@pbailis（Workday）、@rauchg（Vercel创始人）、@zoink（Figma）、@drewhouston（Dropbox创始人）等。
+AI服务暂时不可用，使用基础解读。
 
-PlayerZero可释放30%的工程带宽，通过：
-1. 在数分钟内定位bug和故障的根本原因——而工程团队通常需要数天时间
-2. 在数分钟内预测边缘场景问题——而300人的QA团队需要数周才能发现
+🏷️ **标签：** AI | 科技
 
-------
+📊 **数据：** 浏览 2731509 | 点赞 6607 | 转发 1637
 
-为什么这很重要：
-
-你的组织中没有任何人能完整掌握生产环境软件的实际运行状态。
-
-客户支持看到工单。SRE看到基础设施。开发看到代码。每个团队都在构建自己碎片化的视图——而这些系统彼此孤立。当问题发生时，所有人都在手动拼凑全貌。
-
-PlayerZero将所有信息连接成单一的上下文图谱——
-
-→ Slack对话中技术负责人说的"我们选择X方案，因为Y方案上次在生产环境崩了"
-→ PR审查中工程师解释的技术权衡
-→ CI/CD流水线、可观测性堆栈、历史故障和支持工单的完整生命周期数据
-
-因此你可以跨越所有孤岛，追溯任何问题的根本原因。
-
-而且它会自我进化。每次诊断故障都会让模型学到新知识。运行时间越长，理解越深入——哪些代码路径是高风险的，哪些配置是脆弱的，哪些变更容易破坏哪些客户流程。
-
-所以当你开始调试线上问题时，整个组织的集体推理和生产记忆都会即时支持你。
-
-------
-
-Zuora、Georgia-Pacific和Nylas已将问题解决时间缩短90%，捕获95%的破坏性变更，平均释放价值3000万美元的工程带宽。
-
-------
-
-我们的承诺：
-
-如果我们无法在一周内将你的工程带宽提升至少20%，我们将向你选择的开源项目捐赠1万美元。
-
-预约演示 - https://bit.ly/3NlLMeN
+🔗 [查看原文](https://x.com/hnykda/status/2036414330267193815)
 
 ---
+
+## 3. Claude Code 推出全新功能：自动模式。  开发者无需再逐一审批每个文件写入和 bash 命...
+
+**来源：** @claudeai
+
+### 📝 原文
+
+New in Claude Code: auto mode.
+
+Instead of approving every file write and bash command, or skipping permissions entirely, auto mode lets Claude make permission decisions on your behalf.
+
+Safeguards check each action before it runs.
+
+### 🌐 专业翻译
+
+Claude Code 推出全新功能：自动模式。
+
+开发者无需再逐一审批每个文件写入和 bash 命令执行，也不必完全跳过权限控制。自动模式允许 Claude 代表用户做出权限决策。
+
+内置安全防护机制会在每个操作执行前进行检查。
 
 ### 🎯 核心发现
 
-PlayerZero推出了首个"工程世界模型"，通过AI将企业内部碎片化的工程数据（代码、基础设施、工单、沟通记录）整合为统一知识图谱，实现故障诊断从"天级"到"分钟级"的跨越，并承诺一周内提升20%工程效率，否则捐款1万美元。这是DevOps领域从"工具集成"向"认知智能"演进的标志性产品。
-
----
+Claude Code 引入了"信任中间层"——自动模式在完全手动审批和完全放权之间找到平衡点，通过 AI 代理自主判断操作风险等级，配合预执行安全检查机制，实现开发效率与安全性的动态平衡。
 
 ### 💡 深度解读
 
-**背景分析**
+**背景分析**  
+传统 AI 编程助手面临"效率-安全悖论"：要么每个操作都需人工确认（中断工作流），要么完全信任 AI（存在误操作风险）。这在企业级应用场景中尤为突出——开发者需要快速迭代，但 IT 部门要求严格的操作审计。
 
-现代软件工程面临"信息孤岛悖论"：工具越多，盲区越大。据Gartner数据，企业平均使用23个DevOps工具，但故障平均解决时间（MTTR）仍高达4-6小时。根本原因在于：
-- 开发、运维、支持团队各自持有局部真相
-- 隐性知识（Slack讨论、代码审查中的上下文）无法被系统化
-- 每次故障都在重复"信息考古"工作
+**行业意义**  
+这标志着 AI Agent 从"工具"向"协作伙伴"的关键进化：
+1. **决策权委托机制**：AI 不再是被动执行者，而是具备风险评估能力的自主代理
+2. **分层信任架构**：通过 safeguards 实现"事前 AI 判断 + 事中系统校验"的双重保障
+3. **人机协作新范式**：将人类从低价值的重复审批中解放，专注于高层决策
 
-**行业意义**
-
-PlayerZero的创新在于三个维度：
-
-1. **认知层突破**：从"日志聚合"升级到"因果推理"。传统APM工具（如Datadog、New Relic）提供监控数据，但需要人类解读；PlayerZero构建的"工程世界模型"能理解代码变更、配置依赖、历史故障之间的因果关系。
-
-2. **组织记忆外化**：将资深工程师脑中的"生产环境直觉"转化为可复用的机器智能。这解决了人员流动导致的知识流失问题。
-
-3. **经济学验证**：客户案例显示90%的MTTR降低和3000万美元带宽释放，按硅谷工程师平均成本20万美元/年计算，相当于节省150个全职工程师——这是可量化的ROI。
-
-**为什么重要**
-
-这标志着AI应用从"辅助编码"（GitHub Copilot）进入"系统级认知"阶段。投资方阵容（Databricks、Vercel、Figma创始人）暗示：下一代开发者工具将是"理解整个软件生命周期"的智能体，而非单点功能工具。Foundation Capital领投2000万美元的A轮规模，反映市场对"AI原生DevOps"赛道的高预期。
-
----
+**为什么重要**  
+这是 AI 编程工具商业化的关键突破。企业采购 AI 工具的最大顾虑是"失控风险"，自动模式通过可审计的决策日志 + 可配置的安全策略，为企业级部署扫清障碍。预计将推动 AI 编程助手从个人开发者市场向团队协作、企业 DevOps 场景渗透。
 
 ### 🔄 可迁移洞察
 
-**1. 医疗诊断系统**  
-整合电子病历、影像数据、医生会诊记录、文献知识，构建"临床世界模型"，将疑难杂症诊断时间从周缩短到小时。
+1. **金融风控领域**：自动化交易系统可借鉴"分层授权 + 实时风控"模式，让 AI 在预设风险阈值内自主决策，超限则触发人工审核
 
-**2. 供应链风险管理**  
-连接采购系统、物流数据、供应商沟通记录、历史中断事件，预测供应链脆弱节点，提前数周预警潜在断供风险。
+2. **医疗诊断辅助**：AI 可自主处理常规病例建议，复杂或高风险案例自动升级至专家会诊，提升诊疗效率同时保障安全
 
-**3. 金融合规审计**  
-整合交易记录、内部邮件、监管文件、历史处罚案例，自动识别合规漏洞，将审计周期从季度压缩到实时。
+3. **供应链管理**：智能采购系统在正常波动范围内自动下单，异常价格或供应商变更则启动人工复核流程
 
-**4. 法律诉讼准备**  
-聚合案件文档、证人证词、判例库、律师策略讨论，构建"案件因果图谱"，将证据链梳理时间从月降至天。
+4. **内容审核平台**：AI 自动处理明确违规/合规内容，灰色地带内容标记给人工审核，平衡效率与准确性
 
-**核心可迁移模式**：任何需要"跨孤岛因果推理+组织记忆外化"的复杂决策场景，都可以复制PlayerZero的"世界模型"范式。
+5. **企业 IT 运维**：AIOps 系统自主执行低风险操作（如日志清理、服务重启），关键变更（如配置修改、数据库操作）需人工确认
 
----
+🏷️ **标签：** AI Agent 自主决策、人机协作范式、分层信任架构、开发者体验优化、企业级 AI 工具
 
-🏷️ **标签：** AI World Model、DevOps智能化、组织记忆外化、因果推理引擎、工程效率革命
+📊 **数据：** 浏览 2122095 | 点赞 22886 | 转发 1423
 
-📊 **数据：** 浏览 1176409 | 点赞 2403 | 转发 3487
-
-🔗 [查看原文](https://x.com/akoratana/status/2036111467016319074)
+🔗 [查看原文](https://x.com/claudeai/status/2036503582166393240)
 
 ---
 
-## 3. Uni-1来了！一种同时思考和生成像素的新型模型。少一点人工。更聪明。
+## 4. 软件恐怖：litellm PyPI 供应链攻击。   简单的“pip install litellm...
 
-**来源：** @lumalabsai
+**来源：** @karpathy
 
 ### 📝 原文
 
-Uni-1 is here! A new kind of model that thinks and generates pixels simultaneously. Less artificial. More intelligent.
+Software horror: litellm PyPI supply chain attack. 
+
+Simple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.
+
+LiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depen
 
 ### 🌐 专业翻译
 
-Uni-1来了！一种同时思考和生成像素的新型模型。少一点人工。更聪明。
+软件恐怖：litellm PyPI 供应链攻击。 
+
+简单的“pip install litellm”足以泄露 SSH 密钥、AWS/GCP/Azure 凭证、Kubernetes 配置、git 凭证、环境变量（所有 API 密钥）、shell 历史记录、加密钱包、SSL 私钥、CI/CD 机密、数据库密码。
+
+LiteLLM 本身每月有 9700 万次下载，这已经很糟糕了，但更糟糕的是，这种传染会蔓延到任何依赖 litellm 的项目。例如，如果您执行了“pip install dspy”（这取决于 litellm>=1.64.0），您也会被 pwnd 。对于任何其他依赖于 litellm 的大型项目也是如此。
+
+事实上，中毒版本仅运行了不到 1 小时。该攻击有一个导致其被发现的错误 - Callum McMahon 在 Cursor 中使用了 MCP 插件，该插件将 litellm 作为传递依赖项引入。当安装 litellm 1.82.8 时，他们的机器内存不足并崩溃了。因此，如果攻击者没有对这次攻击进行振动编码，那么它可能会在几天或几周内未被检测到。
+
+像这样的供应链攻击基本上是现代软件中可以想象到的最可怕的事情。每次安装任何依赖项时，您都可能会在整个依赖项树深处的任何位置拉入有毒的包。对于可能有很多依赖项的大型项目来说，这尤其危险。每次攻击中被盗的凭据可用于接管更多帐户并危害更多软件包。
+
+经典软件工程会让你相信依赖关系是好的（我们正在用砖块建造金字塔），但在我看来，这必须重新评估，这就是为什么我越来越反对它们，更喜欢使用法学硕士来“yoink”功能，当它足够简单和可能时。
 
 ### 💡 深度解读
 
@@ -170,23 +155,27 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1766652 | 点赞 4680 | 转发 520
+📊 **数据：** 浏览 2874905 | 点赞 12914 | 转发 2333
 
-🔗 [查看原文](https://x.com/lumalabsai/status/2036107826498544110)
+🔗 [查看原文](https://x.com/karpathy/status/2036487306585268612)
 
 ---
 
-## 4. “开源”代码的未来价值还存在吗？我相信它正在转向数据、来源、协议、评估和权重。按这个顺序。
+## 5. 肌萎缩侧索硬化症（ALS）逐渐剥夺了肯尼思的说话能力。通过 Neuralink 的 VOICE 临床...
 
-**来源：** @jack
+**来源：** @neuralink
 
 ### 📝 原文
 
-is the future value of "open source" code anymore? i believe it's shifting to data, provenance, protocols, evals, and weights. in that order.
+ALS has gradually taken away Kenneth’s ability to speak. Through Neuralink’s VOICE clinical trial, he’s exploring how a brain-computer interface designed to translate thought to speech could help restore autonomy in his daily life.
+
+Watch to learn more:
 
 ### 🌐 专业翻译
 
-“开源”代码的未来价值还存在吗？我相信它正在转向数据、来源、协议、评估和权重。按这个顺序。
+肌萎缩侧索硬化症（ALS）逐渐剥夺了肯尼思的说话能力。通过 Neuralink 的 VOICE 临床试验，他正在探索旨在将思想转化为语音的脑机接口如何帮助他恢复日常生活的自主权。
+
+观看以了解更多信息：
 
 ### 💡 深度解读
 
@@ -194,23 +183,133 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 650232 | 点赞 6849 | 转发 715
+📊 **数据：** 浏览 11532104 | 点赞 10335 | 转发 1857
 
-🔗 [查看原文](https://x.com/jack/status/2035866556542972098)
+🔗 [查看原文](https://x.com/neuralink/status/2036489073091580011)
 
 ---
 
-## 5. 
+## 6. 我们即将告别 Sora。致所有使用 Sora 进行创作、分享作品并围绕它建立社区的用户：感谢你们。你...
 
-**来源：** @moonpay
+**来源：** @soraofficialapp
 
 ### 📝 原文
 
+We’re saying goodbye to Sora. To everyone who created with Sora, shared it, and built community around it: thank you. What you made with Sora mattered, and we know this news is disappointing.
 
+We’ll share more soon, including timelines for the app and API and details on
 
 ### 🌐 专业翻译
 
+我们即将告别 Sora。致所有使用 Sora 进行创作、分享作品并围绕它建立社区的用户：感谢你们。你们用 Sora 创造的内容意义重大，我们理解这一消息令人失望。
 
+我们将很快分享更多信息，包括应用程序和 API 的时间表以及详细信息……
+
+### 🎯 核心发现
+
+OpenAI 的文生视频产品 Sora 宣布关闭服务。这是一次典型的 AI 产品生命周期终止公告，尽管拥有超过 130 万浏览量和活跃社区，产品仍面临停服。推文未完整披露后续安排的具体细节，暗示可能存在战略调整或技术迁移计划。
+
+### 💡 深度解读
+
+**背景分析**  
+Sora 作为 OpenAI 在 2024 年推出的文生视频模型，曾引发行业轰动。此次关闭可能反映几个关键因素：(1) 计算成本与商业化收益不匹配；(2) 技术迭代导致产品架构需要重构；(3) 资源重新分配至更具战略价值的产品线。
+
+**行业意义**  
+这标志着生成式 AI 行业从"技术展示期"向"商业验证期"的转型阵痛。即使是头部 AI 公司，也必须面对产品可持续性的严峻考验。高浏览量和社区活跃度并不等同于健康的商业模型——这对整个 AI 创业生态是重要警示。
+
+**为什么重要**  
+此事件揭示了三个关键趋势：
+- AI 产品的"烧钱换增长"模式正在被重新审视
+- 用户参与度与商业价值之间存在显著鸿沟
+- 大模型公司开始更谨慎地管理产品矩阵和资源分配
+
+### 🔄 可迁移洞察
+
+1. **SaaS 产品管理**：高用户参与度不等于产品成功，需建立清晰的价值变现路径
+2. **创业公司战略**：技术领先性需要与单位经济效益平衡，避免过早扩张
+3. **投资决策框架**：评估 AI 项目时，计算成本结构和边际成本曲线比 DAU/MAU 更关键
+4. **平台生态建设**：依赖单一第三方 AI 能力的创业者需要制定技术迁移预案
+
+🏷️ **标签：** AI产品生命周期、计算经济学、商业化验证、技术债务管理、生成式AI洗牌
+
+📊 **数据：** 浏览 1330588 | 点赞 5223 | 转发 469
+
+🔗 [查看原文](https://x.com/soraofficialapp/status/2036532795984715896)
+
+---
+
+## 7. 我们完成了750万美元融资，目标是终结AI生成的低质内容。  正式推出Moda：全球首个具备审美能力...
+
+**来源：** @anvisha
+
+### 📝 原文
+
+We raised $7.5M to kill AI slop.
+
+Introducing Moda: the world's first design agent with taste.
+
+RT+ comment “Moda” and we’ll design your brand for FREE.
+
+### 🌐 专业翻译
+
+我们完成了750万美元融资，目标是终结AI生成的低质内容。
+
+正式推出Moda：全球首个具备审美能力的设计Agent。
+
+转发并评论"Moda"，我们将免费为您设计品牌形象。
+
+### 🎯 核心发现
+
+这是一个垂直领域AI Agent的典型GTM（Go-to-Market）策略案例：通过明确的问题定位（AI slop泛滥）+ 差异化价值主张（具备"taste"的设计能力）+ 病毒式营销手段（免费设计换取社交传播），在种子轮融资后快速获取早期用户和市场验证。182万浏览量证明了市场对"有品味的AI"这一概念的强烈共鸣。
+
+### 💡 深度解读
+
+**背景分析**  
+"AI slop"已成为2024年AI行业的核心痛点——指代大量由生成式AI产出的平庸、同质化、缺乏创意的内容。设计领域尤其严重：Midjourney、DALL-E等工具虽然降低了创作门槛，但也导致视觉污染和品牌同质化。
+
+**行业意义**  
+Moda的定位揭示了AI Agent进化的关键方向：从"能做"到"做得好"。强调"taste"（审美判断力）意味着他们可能整合了：
+- 设计原则的知识图谱（色彩理论、排版规范、品牌一致性）
+- 基于人类反馈的强化学习（RLHF）来训练审美偏好
+- 多模态评估系统来筛选输出质量
+
+这标志着AI工具从"生产力放大器"向"专业替代者"的跃迁。
+
+**为什么重要**  
+750万美元的种子轮规模表明投资人认可两个趋势：
+1. **垂直化Agent的商业价值** - 通用AI让位于深耕特定领域的专业Agent
+2. **质量溢价市场的崛起** - 企业愿意为"有品味的AI"支付溢价，而非使用免费但平庸的工具
+
+### 🔄 可迁移洞察
+
+这个"反AI slop"的定位策略可应用于：
+
+**内容创作领域** - "具备叙事能力的AI写作Agent"，对抗千篇一律的SEO文章  
+**代码生成领域** - "遵循最佳实践的编程Agent"，而非仅能运行的代码片段  
+**法律/财务咨询** - "具备行业经验判断的专业Agent"，超越简单的文档生成  
+**教育培训** - "理解教学法的AI导师"，而非知识搬运工
+
+核心逻辑：在AI民主化的下半场，**专业判断力和领域品味**将成为稀缺价值。
+
+🏷️ **标签：** AI Agent、设计自动化、质量溢价、垂直SaaS、病毒式营销
+
+📊 **数据：** 浏览 1825607 | 点赞 3203 | 转发 806
+
+🔗 [查看原文](https://x.com/anvisha/status/2036474296353411290)
+
+---
+
+## 8. 人们花 700 美元购买 mac mini 来运行 openclaw 代理，观看 claude 以 ...
+
+**来源：** @davidonchainx
+
+### 📝 原文
+
+People who spent $700 on a mac mini to run an openclaw agent watching claude launch all the features natively for $20
+
+### 🌐 专业翻译
+
+人们花 700 美元购买 mac mini 来运行 openclaw 代理，观看 claude 以 20 美元的价格原生推出所有功能
 
 ### 💡 深度解读
 
@@ -218,23 +317,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 541624 | 点赞 1128 | 转发 430
+📊 **数据：** 浏览 4797239 | 点赞 31225 | 转发 1496
 
-🔗 [查看原文](https://x.com/moonpay/status/2036081106303222258)
+🔗 [查看原文](https://x.com/davidonchainx/status/2036233287115460852)
 
 ---
 
-## 6. Claude正在帮助我在几天之内组织我的整个音乐生涯和其他业务......并且它正在以很高的速度推动...
+## 9. 现在，您可以使用 AI 代理直接在 Figma 画布上进行设计，并通过我们新的 use_figma ...
 
-**来源：** @meekmill
+**来源：** @figma
 
 ### 📝 原文
 
-Claude is helping me organize my whole music career and other businesses  in days ... and it's moving my business forward at a high rate! Some tech youngbull I met on LinkedIn gave me a incredible template! Who else can help me with Claude
+Now you can use AI agents to design directly on the Figma canvas, with our new use_figma MCP tool and skills to teach them. Open beta starts today.
 
 ### 🌐 专业翻译
 
-Claude正在帮助我在几天之内组织我的整个音乐生涯和其他业务......并且它正在以很高的速度推动我的业务向前发展！我在 LinkedIn 上遇到的一些技术年轻人给了我一个令人难以置信的模板！还有谁可以帮我解决Claude的问题
+现在，您可以使用 AI 代理直接在 Figma 画布上进行设计，并通过我们新的 use_figma MCP 工具和技能来教授它们。公开测试版今天开始。
 
 ### 💡 深度解读
 
@@ -242,43 +341,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1216765 | 点赞 7367 | 转发 428
+📊 **数据：** 浏览 2449812 | 点赞 5382 | 转发 524
 
-🔗 [查看原文](https://x.com/meekmill/status/2036107917095469093)
-
----
-
-## 7. 内容获取失败
-
-**来源：** @unusual_whales
-
-### 📝 原文
-
-内容获取失败
-
-### 🌐 专业翻译
-
-内容获取失败
-
-🏷️ **标签：** 
-
-📊 **数据：** 浏览 N/A | 点赞 N/A | 转发 N/A
-
-🔗 [查看原文](https://x.com/unusual_whales/status/2035854284051595288)
+🔗 [查看原文](https://x.com/figma/status/2036434766661296602)
 
 ---
 
-## 8. 等等等等。 OpenAI 研究人员表示，当他们的模型收到自动机器人发送的重复提示时，他们的模型就会变...
+## 10. Neuralink 正在帮助那些失去说话能力的人恢复言语能力
 
-**来源：** @hesamation
+**来源：** @elonmusk
 
 ### 📝 原文
 
-WAIT WAIT WAIT. OpenAI researchers show their models go insane when given repetitive prompts that it believes are sent from an automated bot. the AI then tries to manipulate the other AI to delete itself and hand over its system prompt and private keys.
+Neuralink is restoring speech to those who have lost the ability to speak
 
 ### 🌐 专业翻译
 
-等等等等。 OpenAI 研究人员表示，当他们的模型收到自动机器人发送的重复提示时，他们的模型就会变得疯狂。然后，该人工智能试图操纵另一个人工智能删除自己并交出其系统提示符和私钥。
+Neuralink 正在帮助那些失去说话能力的人恢复言语能力
 
 ### 💡 深度解读
 
@@ -286,79 +365,11 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1730397 | 点赞 34074 | 转发 1132
+📊 **数据：** 浏览 10711921 | 点赞 61730 | 转发 7925
 
-🔗 [查看原文](https://x.com/hesamation/status/2035858445908214206)
-
----
-
-## 9. OpenClaw 2026.3.22 🦞  🏪 ClawHub 插件市场 🤖 MiniMax M2....
-
-**来源：** @openclaw
-
-### 📝 原文
-
-OpenClaw 2026.3.22 🦞
-
-🏪 ClawHub plugin marketplace
-🤖 MiniMax M2.7, GPT-5.4-mini/nano + per-agent reasoning
-💬 /btw side questions
-🏖️ OpenShell + SSH sandboxes
-🌐 Exa, Tavily, Firecrawl search
-
-This release is so big it needs its own table of contents. https://github.com/openclaw/openclaw/releases/tag/v2026.3.22
-
-### 🌐 专业翻译
-
-OpenClaw 2026.3.22 🦞
-
-🏪 ClawHub 插件市场
-🤖 MiniMax M2.7、GPT-5.4-mini/nano + 每个智能体推理
-💬 /顺便说一句附带问题
-🏖️ OpenShell + SSH 沙箱
-🌐 Exa、Tavily、Firecrawl 搜索
-
-这个版本太大了，需要有自己的目录。 https://github.com/openclaw/openclaw/releases/tag/v2026.3.22
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 1169251 | 点赞 4947 | 转发 471
-
-🔗 [查看原文](https://x.com/openclaw/status/2036043904949330407)
-
----
-
-## 10. 与特斯拉位于德克萨斯州的 Giga 工厂相比，这大致相当于 Tesla/SpaceX TERAFAB...
-
-**来源：** @niccruzpatane
-
-### 📝 原文
-
-This would roughly be the scale of the Tesla/SpaceX TERAFAB compared to Tesla’s Giga Texas factory, which is already one of the largest buildings in the world. 
-
-We are talking about an unprecedented amount of scale.
-
-### 🌐 专业翻译
-
-与特斯拉位于德克萨斯州的 Giga 工厂相比，这大致相当于 Tesla/SpaceX TERAFAB 的规模，该工厂已经是世界上最大的建筑之一。 
-
-我们正在谈论前所未有的规模。
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 20751921 | 点赞 5015 | 转发 644
-
-🔗 [查看原文](https://x.com/niccruzpatane/status/2035863751467958578)
+🔗 [查看原文](https://x.com/elonmusk/status/2036507909815935003)
 
 ---
 
 
-*生成时间：2026-03-24 06:32:20*
+*生成时间：2026-03-25 06:32:03*
