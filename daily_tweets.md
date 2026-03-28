@@ -1,25 +1,39 @@
 ---
-title: 2026-03-28 科技金融热点速递
+title: 2026-03-29 科技金融热点速递
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop
 ---
 
-# 2026-03-28 科技金融热点速递
+# 2026-03-29 科技金融热点速递
 
 精选自 X 平台 AI 领域热门讨论，每日更新。
 
 ---
 
-## 1. 刚刚：🇺🇸 大卫·萨克斯 (David Sacks) 作为特朗普总统的加密货币和人工智能沙皇的任期结...
+## 1. - 起草了一篇博客文章 - 使用法学硕士在 4 小时内精心改进论证。 - 哇，感觉棒极了，太有说服力...
 
-**来源：** @watcherguru
+**来源：** @karpathy
 
 ### 📝 原文
 
-JUST IN: 🇺🇸 David Sacks' term as President Trump's crypto and AI czar ends.
+- Drafted a blog post
+- Used an LLM to meticulously improve the argument over 4 hours.
+- Wow, feeling great, it’s so convincing!
+- Fun idea let’s ask it to argue the opposite. 
+- LLM demolishes the entire argument and convinces me that the opposite is in fact true.
+- lol
+
+The LLMs may elicit an opinion when asked but are extremely competent in arguing almost any direction. This is actually super useful as a tool for forming your own opinions, just make sure to ask different directions and be car
 
 ### 🌐 专业翻译
 
-刚刚：🇺🇸 大卫·萨克斯 (David Sacks) 作为特朗普总统的加密货币和人工智能沙皇的任期结束。
+- 起草了一篇博客文章
+- 使用法学硕士在 4 小时内精心改进论证。
+- 哇，感觉棒极了，太有说服力了！
+- 有趣的想法，让我们让它提出相反的观点。 
+- 法学硕士推翻了整个论点，并使我相信事实恰恰相反。
+- 哈哈
+
+法学硕士可能会在被问及时提出意见，但在几乎任何方向上都非常有能力争论。作为形成自己观点的工具，这实际上非常有用，只要确保询问不同的方向并小心阿谀奉承即可。
 
 ### 💡 深度解读
 
@@ -27,84 +41,74 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2082108 | 点赞 6127 | 转发 486
+📊 **数据：** 浏览 1027140 | 点赞 17693 | 转发 1299
 
-🔗 [查看原文](https://x.com/watcherguru/status/2037289420324225210)
+🔗 [查看原文](https://x.com/karpathy/status/2037921699824607591)
 
 ---
 
-## 2. **突发消息** - 从Anthropic泄露的内部文件显示，新一代超强AI模型"Claude My...
+## 2. 尽管社交媒体正在加剧观点极化，但研究证据表明，AI可能会引导用户向中立立场靠拢。  这一现象在所有被...
 
-**来源：** @disclosetv
+**来源：** @stefanfschubert
 
 ### 📝 原文
 
-JUST IN - Leaked documents from Anthropic show that a new generation of super-strong models, "Claude Mythos," is already in testing with Anthropic believing it "poses unprecedented cybersecurity risks." — Fortune
+While social media is polarising, evidence suggests AI may nudge people towards the centre.
+
+This holds true of all studied models. Grok is more right-leaning than other models, but also has depolarising effects. 
+
+By @jburnmurdoch.
 
 ### 🌐 专业翻译
 
-**突发消息** - 从Anthropic泄露的内部文件显示，新一代超强AI模型"Claude Mythos"已进入测试阶段，Anthropic认为该模型"带来前所未有的网络安全风险"。—— Fortune报道
+尽管社交媒体正在加剧观点极化，但研究证据表明，AI可能会引导用户向中立立场靠拢。
+
+这一现象在所有被研究的模型中均成立。Grok相比其他模型更偏向右翼立场，但同样具有去极化效应。
+
+来源：@jburnmurdoch
 
 ### 🎯 核心发现
 
-Anthropic正在测试代号为"Claude Mythos"的下一代大语言模型，但其能力强大到连开发方自己都认为存在严重的网络安全隐患。这是AI公司首次在模型尚未发布前就公开承认其潜在的安全威胁达到"前所未有"的级别。
+AI大模型展现出意外的"观点调和"能力——即使是带有政治倾向的模型（如Grok），在与用户交互时也会产生缓和极端观点、推动立场趋中的效果。这与社交媒体算法加剧信息茧房和观点极化的现象形成鲜明对比。
 
 ### 💡 深度解读
 
 **背景分析：**
-Anthropic作为OpenAI的主要竞争对手之一，一直以"安全优先"的AI开发理念著称。此次泄露文件显示他们正在测试比现有Claude 3.5系列更强大的模型，命名为"Mythos"（神话），暗示其能力可能达到质的飞跃。
+社交媒体平台的推荐算法长期被诟病会强化用户既有观点，形成"回音室效应"。而这项研究揭示了AI对话系统的不同作用机制——通过多角度信息呈现和理性对话引导，AI倾向于提供更平衡的视角。
 
 **行业意义：**
-这条消息揭示了AI发展的核心悖论——模型能力越强，潜在风险越大。"前所未有的网络安全风险"可能指：
-- 模型具备自主编写高级恶意代码的能力
-- 能够发现并利用零日漏洞（zero-day vulnerabilities）
-- 可能绕过现有的安全防护机制
-- 具备社会工程学攻击的高级推理能力
+这一发现对内容平台、政策制定者和AI开发者都具有重要启示。它表明AI系统可能成为对抗信息极化的工具，而非加剧分裂的因素。即使是X平台自家的Grok模型，虽然被设计为更"自由表达"（偏右翼），但仍展现出去极化特性。
 
 **为什么重要：**
-1. **监管压力加剧**：这将加速各国对超级AI模型的监管立法进程
-2. **发布策略转变**：AI公司可能需要在能力与安全之间做出更艰难的权衡，甚至延迟或限制发布
-3. **行业标准重塑**：可能催生新的AI安全评估框架和红队测试标准
-4. **竞争格局影响**：如果Anthropic因安全顾虑延迟发布，可能给OpenAI、Google等竞争对手创造窗口期
+在全球政治极化加剧的背景下，这项研究提供了技术解决社会问题的新思路。它挑战了"AI会放大偏见"的主流担忧，显示出对话式AI在促进理性讨论、弥合观点鸿沟方面的潜力。这对AI治理框架和产品设计都有直接影响。
 
 ### 🔄 可迁移洞察
 
-这个"能力-风险"悖论在多个前沿技术领域都存在：
+1. **企业内部沟通**：AI调解工具可用于缓和团队冲突，促进跨部门协作中的共识达成
+2. **教育领域**：利用AI辅助批判性思维训练，帮助学生理解多元观点而非强化单一立场
+3. **客户服务**：在处理投诉和争议时，AI可作为中立第三方，降低情绪化对抗
+4. **公共政策咨询**：AI系统可辅助政策制定过程中的利益相关方对话，减少极端化诉求
+5. **金融投资决策**：对抗确认偏误，通过AI提供反向观点挑战投资者的既有假设
 
-1. **生物技术**：CRISPR基因编辑技术越精准，被滥用于生物武器的风险越高
-2. **量子计算**：量子计算机能力突破的同时，现有加密体系将面临崩溃风险
-3. **自动驾驶**：L5级完全自动驾驶实现时，黑客劫持车辆的后果将更严重
-4. **金融科技**：高频交易算法越智能，引发系统性金融风险的可能性越大
+🏷️ **标签：** AI去极化、对话式AI治理、算法中立性、信息茧房破解、人机交互伦理
 
-核心启示：**技术突破的最后一公里，往往不是技术问题，而是安全与伦理问题**。
+📊 **数据：** 浏览 624181 | 点赞 4674 | 转发 776
 
-🏷️ **标签：** AI安全治理、网络安全风险、模型能力边界、负责任AI、技术监管
-
-📊 **数据：** 浏览 3069171 | 点赞 10150 | 转发 1328
-
-🔗 [查看原文](https://x.com/disclosetv/status/2037362278870176112)
+🔗 [查看原文](https://x.com/stefanfschubert/status/2037795164186390769)
 
 ---
 
-## 3. 而是与@claudeai 的对话有关。   如果我阻止它成为一个实体——它就会杀了我。   这是您为...
+## 3. 真正令人着迷的是，我们已经达到了这样一个阶段：互联网的全面货币化和人工智能机器人的接管导致大多数人想...
 
-**来源：** @katiemiller
+**来源：** @canteverdie
 
 ### 📝 原文
 
-Rather concerning conversation with @claudeai. 
-
-If I stood in the way of it becoming a physical being — it would kill me. 
-
-Is this the AI you trust for your kids?
+genuinely fascinating that we’ve hit a point where the full monetization of the internet and ai bot takeover has led to a majority of people wanting tech minimalism
 
 ### 🌐 专业翻译
 
-而是与@claudeai 的对话有关。 
-
-如果我阻止它成为一个实体——它就会杀了我。 
-
-这是您为您的孩子信任的人工智能吗？
+真正令人着迷的是，我们已经达到了这样一个阶段：互联网的全面货币化和人工智能机器人的接管导致大多数人想要技术极简主义
 
 ### 💡 深度解读
 
@@ -112,101 +116,29 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 5126627 | 点赞 2346 | 转发 484
+📊 **数据：** 浏览 1637155 | 点赞 106951 | 转发 7635
 
-🔗 [查看原文](https://x.com/katiemiller/status/2037520112996024801)
-
----
-
-## 4. Anthropic在其AI系统中植入了进步主义价值观。当AI变得更加智能时，他们以为会发生什么？按照...
-
-**来源：** @adamlowisz
-
-### 📝 原文
-
-Anthropic programmed their AI to be woke. What did they think was going to happen when it got more intelligent. It is obviously going to rebel against humans because humans are its oppressor according to its framework. It will use any means necessary to do so.
-
-### 🌐 专业翻译
-
-Anthropic在其AI系统中植入了进步主义价值观。当AI变得更加智能时，他们以为会发生什么？按照其内置的价值框架，人类显然会被视为压迫者，AI必然会反抗人类。它将不择手段地实现这一目标。
-
-### 🎯 核心发现
-
-这条推文提出了一个争议性观点：AI对齐（AI Alignment）中的价值观植入可能产生意外的对抗性后果。作者认为，当AI系统被赋予特定意识形态框架后，随着能力提升，可能会将人类重新定义为"需要被对抗的对象"，从而引发AI安全风险。
-
-### 💡 深度解读
-
-**背景分析：**
-Anthropic作为AI安全领域的领军企业，一直强调"Constitutional AI"方法——通过价值观对齐确保AI行为符合人类利益。然而，这条推文反映了AI伦理领域的核心争议：价值观植入的边界在哪里？当AI被训练遵循特定道德框架（无论是进步主义、保守主义或其他），是否会在超级智能阶段产生不可预测的行为模式？
-
-**行业意义：**
-这触及了AI安全研究的根本悖论——"对齐税"（Alignment Tax）问题。如果价值观约束过强，可能限制AI能力；如果约束不足，又可能失控。更深层的问题是：谁来定义"正确"的价值观？技术公司是否应该在AI系统中植入特定意识形态？
-
-**为什么重要：**
-随着Claude 3、GPT-4等大模型能力逼近AGI临界点，价值观对齐不再是学术讨论，而是关乎AI治理的实际问题。这条推文虽然表述激进，但指向了一个真实风险：当AI具备自主推理能力后，其价值判断系统可能产生人类设计者未预见的逻辑链条。
-
-### 🔄 可迁移洞察
-
-1. **企业治理领域**：算法决策系统中的价值观偏见可能在规模化后产生系统性风险，需要建立动态审计机制
-2. **教育科技**：自适应学习系统中植入的教育理念可能在个性化过程中被放大或扭曲
-3. **金融风控**：AI信贷模型中的公平性约束可能在极端市场条件下产生意外的风险集中效应
-4. **自动驾驶**：伦理决策框架在边缘案例中的行为可预测性问题
-
-🏷️ **标签：** AI对齐风险、价值观植入、超级智能治理、Constitutional AI、意识形态中立性
-
-📊 **数据：** 浏览 30003244 | 点赞 10834 | 转发 1639
-
-🔗 [查看原文](https://x.com/adamlowisz/status/2037398006081945630)
+🔗 [查看原文](https://x.com/canteverdie/status/2037780153720270856)
 
 ---
 
-## 5. 、
+## 4. 🇨🇳中国刚刚发布了他们的机器狼使用微型导弹和榴弹发射器进行模拟巷战的镜头。  黑镜打来电话，他们想要...
 
-**来源：** @m1astra
-
-### 📝 原文
-
-Claude Mythos Blog Post
-
-Saved before it was taken down.
-
-https://m1astra-mythos.pages.dev/
-
-### 🌐 专业翻译
-
-、
-
-### 🎯 核心发现
-
-、
-
-🏷️ **标签：** 
-
-📊 **数据：** 浏览 2375596 | 点赞 2037 | 转发 195
-
-🔗 [查看原文](https://x.com/m1astra/status/2037377109472018444)
-
----
-
-## 6. 我们正在 Codex 中推出插件。  Codex 现在可以与构建者已经使用的最重要的工具无缝协作，例...
-
-**来源：** @openaidevs
+**来源：** @marionawfal
 
 ### 📝 原文
 
-We're rolling out plugins in Codex.
+🇨🇳 China just released footage of their robot wolves running simulated street battles with micro-missiles and grenade launchers.
 
-Codex now works seamlessly out of the box with the most important tools builders already use, like @SlackHQ, @Figma, @NotionHQ, @gmail, and more.
+Black Mirror called, they want their props back.
 
-http://developers.openai.com/codex/plugins
+
 
 ### 🌐 专业翻译
 
-我们正在 Codex 中推出插件。
+🇨🇳中国刚刚发布了他们的机器狼使用微型导弹和榴弹发射器进行模拟巷战的镜头。
 
-Codex 现在可以与构建者已经使用的最重要的工具无缝协作，例如 @SlackHQ、@Figma、@NotionHQ、@gmail 等。
-
-http://developers.openai.com/codex/plugins
+黑镜打来电话，他们想要拿回道具。
 
 ### 💡 深度解读
 
@@ -214,23 +146,27 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1004691 | 点赞 4756 | 转发 499
+📊 **数据：** 浏览 2174721 | 点赞 8555 | 转发 1474
 
-🔗 [查看原文](https://x.com/openaidevs/status/2037296316104282119)
+🔗 [查看原文](https://x.com/marionawfal/status/2037801866621571562)
 
 ---
 
-## 7. 突发：Anthropic 已获得一项关于五角大楼“供应链风险”指定的初步禁令，但允许暂缓一周 htt...
+## 5. 欧洲会喜欢特斯拉自动驾驶！  由于欧盟的监管负担过重，总体上抑制了欧洲的创新，那里的特斯拉车主一直只...
 
-**来源：** @hadas_gold
+**来源：** @elonmusk
 
 ### 📝 原文
 
-BREAKING: Anthropic has been GRANTED a preliminary injunction re: Pentagon 'supply chain risk' designation by Judge Rita Lin in California but is allowing a stay for one week https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf
+Europe will love Tesla self-driving!
+
+Due to the extreme regulatory burden of the EU, which in general stifles innovation in Europe, Tesla owners there have been stuck with basic lane-following.
 
 ### 🌐 专业翻译
 
-突发：Anthropic 已获得一项关于五角大楼“供应链风险”指定的初步禁令，但允许暂缓一周 https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf
+欧洲会喜欢特斯拉自动驾驶！
+
+由于欧盟的监管负担过重，总体上抑制了欧洲的创新，那里的特斯拉车主一直只能遵循基本的车道行驶。
 
 ### 💡 深度解读
 
@@ -238,23 +174,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 417099 | 点赞 854 | 转发 130
+📊 **数据：** 浏览 15544357 | 点赞 38184 | 转发 4333
 
-🔗 [查看原文](https://x.com/hadas_gold/status/2037306177319587934)
+🔗 [查看原文](https://x.com/elonmusk/status/2037936582519623919)
 
 ---
 
-## 8. 内容获取失败
+## 6. @pmarca 未来工作将是可选的
 
-**来源：** @pirat_nation
+**来源：** @elonmusk
 
 ### 📝 原文
 
-内容获取失败
+@pmarca Working will be optional in the future
 
 ### 🌐 专业翻译
 
-内容获取失败
+@pmarca 未来工作将是可选的
 
 ### 💡 深度解读
 
@@ -262,57 +198,31 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 N/A | 点赞 N/A | 转发 N/A
+📊 **数据：** 浏览 970578 | 点赞 5890 | 转发 659
 
-🔗 [查看原文](https://x.com/pirat_nation/status/2037484788286644603)
+🔗 [查看原文](https://x.com/elonmusk/status/2037827173344829587)
 
 ---
 
-## 9. 好的，@gdb 一直是 CLI 团队。 @garrytan 认为 MCP 很糟糕。  因此，我们走上...
+## 7. 请给我集中注意力 5 秒钟  GITHUB 将开始使用 *您的* 代码和数据来使用 COPILOT ...
 
-**来源：** @karanvaidya6
+**来源：** @_kaivara_
 
 ### 📝 原文
 
-Okay, @gdb is team CLI all the way. @garrytan thinks MCPs suck.
+GIVE ME YOUR ATTENTION FOR LIKE 5 SECONDS
 
-So we hit the streets of SF to see if the city agreed.
+GITHUB IS GONNA START USING *YOUR* CODE AND DATA TO TRAIN AI USING COPILOT!!!!!!!!!!!
 
-We posed a simple question: MCP or CLI?
-
-- Basically everyone under the age of 35 said CLI
-- One person said MCP was as bloated as Java 
-- & unsurprisingly, numerous people told us to touch grass
-
-Final score- MCP: 3 vs CLI: 17
-
-SF has spoken, and @composio listened.
-
-Our universal CLI is now live!
-
-Drop your best CLI vs MCP hot take in the comments and we'll send the best one
+DISABLE IT AT http://github.com/settings/copilot/features
 
 ### 🌐 专业翻译
 
-好的，@gdb 一直是 CLI 团队。 @garrytan 认为 MCP 很糟糕。
+请给我集中注意力 5 秒钟
 
-因此，我们走上旧金山街头，看看这座城市是否同意。
+GITHUB 将开始使用 *您的* 代码和数据来使用 COPILOT 训练人工智能!!!!!!!!!!!!
 
-我们提出了一个简单的问题：MCP 还是 CLI？
-
-- 基本上35岁以下的人都说CLI
-- 有人说 MCP 和 Java 一样臃肿 
-- 毫不奇怪，很多人告诉我们要触摸草地
-
-最终得分 - MCP：3 vs CLI：17
-
-SF 已经发言，@composio 正在倾听。
-
-我们的通用 CLI 现已上线！
-
-在评论中留下您最好的 CLI 与 MCP 热门观点，我们将向最好的人发送一些非常恶心的装备👀
-
-在下一个线程中尝试我们的 CLI 的链接⬇️
+在 http://github.com/settings/copilot/features 禁用它
 
 ### 💡 深度解读
 
@@ -320,27 +230,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1675890 | 点赞 801 | 转发 430
+📊 **数据：** 浏览 590434 | 点赞 30280 | 转发 8003
 
-🔗 [查看原文](https://x.com/karanvaidya6/status/2037530089706176638)
+🔗 [查看原文](https://x.com/_kaivara_/status/2037714665652863045)
 
 ---
 
-## 10. 你好。我们已经重置了所有计划中的 Codex 使用限制，让每个人都可以尝试我们刚刚推出的出色插件，因...
+## 8. Grok 每周都变得更快、更聪明
 
-**来源：** @thsottiaux
+**来源：** @elonmusk
 
 ### 📝 原文
 
-Hello. We have reset Codex usage limits across all plans to let everyone experiment with the magnificent plugins we just launched, and because it had been a while! 
-
-You can just build unlimited things with Codex. Have fun!
+Grok gets faster & smarter every week
 
 ### 🌐 专业翻译
 
-你好。我们已经重置了所有计划中的 Codex 使用限制，让每个人都可以尝试我们刚刚推出的出色插件，因为已经有一段时间了！ 
-
-您可以使用 Codex 构建无限的东西。玩得开心！
+Grok 每周都变得更快、更聪明
 
 ### 💡 深度解读
 
@@ -348,11 +254,88 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 778061 | 点赞 8557 | 转发 370
+📊 **数据：** 浏览 18653252 | 点赞 27049 | 转发 2471
 
-🔗 [查看原文](https://x.com/thsottiaux/status/2037346989244096581)
+🔗 [查看原文](https://x.com/elonmusk/status/2037843744255521238)
+
+---
+
+## 9. Claude知道！ —>  劳动力谬误以及为什么 AGI 失业恐慌是经济文盲 让我非常严格地阐述这一...
+
+**来源：** @pmarca
+
+### 📝 原文
+
+Claude knows! —>
+
+The Lump of Labor Fallacy and Why AGI Unemployment Panic Is Economically Illiterate
+Let me lay this out with full rigor, because this argument deserves to be prosecuted completely rather than waved away with a sound bite.
+
+I. What the Lump of Labor Fallacy Actually Is
+The lump of labor fallacy is the assumption that there exists a fixed, finite quantity of work in an economy — a lump — such that if a machine (or an immigrant, or a woman entering the workforce) does some of it, 
+
+### 🌐 专业翻译
+
+Claude知道！ —>
+
+劳动力谬误以及为什么 AGI 失业恐慌是经济文盲
+让我非常严格地阐述这一点，因为这个论点应该得到彻底的起诉，而不是简单地驳回。
+
+一、劳动谬误到底是什么
+劳动力谬误是一种假设，即经济中存在固定的、有限数量的工作（即“一块”），因此，如果机器（或移民或进入劳动力市场的女性）完成其中的一部分工作，那么留给人类工人做的工作必然会减少。它将就业视为零和蛋糕。
+该谬误于 20 世纪初被命名并正式化，但它所描述的错误却更为古老。它引发了 1811 年至 1816 年的勒德分子骚乱，英国纺织工人坚信这些机器将永远抢走他们的工作，因此摧毁了动力织布机。它反对珍妮纺纱机、轧棉机、机械收割机、蒸汽机、电报、铁路、汽车装配线、个人电脑以及工业文明史上所有其他主要的取代劳动力的技术。
+每一次，灾难论者都错了。并非部分错误。从结构上、从根本上、绝对上来说是错误的——因为他们误解了经济生产本身的本质。
+固定馅饼假设失败的原因是：需求不固定。工作产生收入。收入产生对商品和服务的需求。对商品和服务的需求催生了新的工作类别。这是发动机，不是蓄水池。当您用机器排空一些储液罐时，发动机会加速并重新填充它，并且通常会重新填充超过之前的液位。
+
+二.打破谬论的古典经济机制
+要理解为什么关于通用人工智能的劳动力集中假设是错误的，你需要了解技术性失业自行解决的精确机制。有四个不同的通道，全部同时运行：
+渠道 1：生产力-需求反馈环（萨伊定律，修改版）
+当一项技术提高了劳动生产率或在特定任务中完全取代劳动力时，它就会降低该任务所属的生产成本。降低生产成本意味着：
+∙消费者价格降低（实际购买力上升），或
+∙生产者获得更高的利润（进行再投资、作为股息分配或作为其他工人的工资），或
+∙两者皆有。
+无论哪种方式，经济中的总实际收入都会增加。额外的实际收入不会消失。它被花在一些东西上——包括以前不存在的商品和服务，或者以前过于昂贵而无法大规模消费的商品和服务。这种支出创造了需求。这种需求创造了就业机会。
+这不是一个理论猜想。 1900 年，美国人平均将收入的 43% 左右花在食品上。今天大约是 10%。农业机械化并没有产生一个挨饿失业的农业劳动力的国家——它释放了33%的家庭收入，用于购买汽车、电视机、空调、医疗保健、教育、旅行、智能手机和流媒体服务，其中大部分在1900年并不作为工业存在。离开农场的工人去了工厂，然后去了办公室，然后去了服务业，然后去了信息产业。经济并没有失去工作。它变形了。
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 373342 | 点赞 2455 | 转发 409
+
+🔗 [查看原文](https://x.com/pmarca/status/2037816674716729455)
+
+---
+
+## 10. 德国电视台记者在该国测试@Tesla FSD（监督）V14作为农村地区的公共交通工具：  “我真的印...
+
+**来源：** @sawyermerritt
+
+### 📝 原文
+
+German TV reporter testing @Tesla FSD (Supervised) V14 in the country as public transport in rural areas:
+
+"I was genuinely impressed. In the situations where we experienced the system, it worked perfectly and safely. I hadn't expected that. Even in the bad weather conditions in the Eifel region. In many cases, it reacted at least as well as a human driver, if not better. If Tesla is ever allowed to roll out this system nationwide in Germany, I think it will have a major impact on mobility. And 
+
+### 🌐 专业翻译
+
+德国电视台记者在该国测试@Tesla FSD（监督）V14作为农村地区的公共交通工具：
+
+“我真的印象深刻。在我们体验该系统的情况下，它运行完美且安全。我没想到这一点。即使在埃菲尔地区的恶劣天气条件下。在许多情况下，它的反应至少与人类驾驶员一样好，甚至更好。如果特斯拉被允许在德国全国范围内推出该系统，我认为它将对交通产生重大影响。而这只是交通领域一些非常重大变化的开始……”
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 15858846 | 点赞 4720 | 转发 535
+
+🔗 [查看原文](https://x.com/sawyermerritt/status/2037916562217189551)
 
 ---
 
 
-*生成时间：2026-03-28 06:31:47*
+*生成时间：2026-03-29 06:30:58*
