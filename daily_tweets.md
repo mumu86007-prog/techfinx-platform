@@ -1,25 +1,33 @@
 ---
-title: 2026-03-30 科技金融热点速递
+title: 2026-03-31 科技金融热点速递
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop
 ---
 
-# 2026-03-30 科技金融热点速递
+# 2026-03-31 科技金融热点速递
 
 精选自 X 平台 AI 领域热门讨论，每日更新。
 
 ---
 
-## 1. Tesla AI 自动驾驶将比人类驾驶安全 10 倍以上
+## 1. 计算机的使用现在是在Claude代码中。  Claude 可以直接从 CLI 打开您的应用程序，单击...
 
-**来源：** @elonmusk
+**来源：** @claudeai
 
 ### 📝 原文
 
-Tesla AI self-driving will be >10X safer than human driving
+Computer use is now in Claude Code.
+
+Claude can open your apps, click through your UI, and test what it built, right from the CLI.
+
+Now in research preview on Pro and Max plans.
 
 ### 🌐 专业翻译
 
-Tesla AI 自动驾驶将比人类驾驶安全 10 倍以上
+计算机的使用现在是在Claude代码中。
+
+Claude 可以直接从 CLI 打开您的应用程序，单击您的 UI，并测试它构建的内容。
+
+现在正在对 Pro 和 Max 计划进行研究预览。
 
 ### 💡 深度解读
 
@@ -27,259 +35,27 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 55149810 | 点赞 53299 | 转发 5045
+📊 **数据：** 浏览 5987399 | 点赞 36204 | 转发 2663
 
-🔗 [查看原文](https://x.com/elonmusk/status/2038135071836893440)
-
----
-
-## 2. 科技公司仅保留 4 个工作岗位。
-
-学分：@yrechtman
-
-**来源：** @chintanzalani
-
-### 📝 原文
-
-The only 4 jobs that will remain at tech companies.
-
-Credits: @yrechtman
-
-### 🌐 专业翻译
-
-科技公司仅保留 4 个工作岗位。
-
-学分：@yrechtman
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 390696 | 点赞 5246 | 转发 331
-
-🔗 [查看原文](https://x.com/chintanzalani/status/2038026663867330850)
+🔗 [查看原文](https://x.com/claudeai/status/2038663014098899416)
 
 ---
 
-## 3. 特斯拉 FSD
-
-**来源：** @elonmusk
-
-### 📝 原文
-
-Tesla FSD
-
-### 🌐 专业翻译
-
-特斯拉 FSD
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 38342487 | 点赞 46202 | 转发 4701
-
-🔗 [查看原文](https://x.com/elonmusk/status/2038138194861166638)
-
----
-
-## 4. FSD 不是简单地事后制动，而是能够在行人踏入道路之前预测其意图
-
-**来源：** @tesla
-
-### 📝 原文
-
-Instead of simply braking after the fact, FSD is able to anticipate intent before a pedestrian even steps into the road
-
-### 🌐 专业翻译
-
-FSD 不是简单地事后制动，而是能够在行人踏入道路之前预测其意图
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 55502137 | 点赞 5122 | 转发 673
-
-🔗 [查看原文](https://x.com/tesla/status/2038120652268515715)
-
----
-
-## 5. GitLab 的创始人被告知他患有骨癌。  没有任何试炼会带走他。医生签字同意了。  所以他为了自己...
-
-**来源：** @thegeorgepu
-
-### 📝 原文
-
-GitLab's founder was told he has bone cancer.
-
-No trials would take him. Doctors signed off.
-
-So he went founder mode on his own survival.
-
-- Built his own treatments
-- Used AI to analyze his own tumor data
-- Open-sourced 25TB of his medical records for any researcher on earth
-
-Relapse-free since 2025.
-
-The system said he was out of options.
-
-He made his own.
-
-### 🌐 专业翻译
-
-GitLab 的创始人被告知他患有骨癌。
-
-没有任何试炼会带走他。医生签字同意了。
-
-所以他为了自己的生存而走上了创始人模式。
-
-- 建立了自己的治疗方法
-- 用AI分析自己的肿瘤数据
-- 为地球上的任何研究人员开源他的 25TB 医疗记录
-
-自2025年以来无复发。
-
-系统说他已经没有选择了。
-
-他自己做了。
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 915226 | 点赞 7957 | 转发 741
-
-🔗 [查看原文](https://x.com/thegeorgepu/status/2038042206330601749)
-
----
-
-## 6. OpenAI可能引发了十年来最严重的消费级硬件危机，而这一切源于从未真正兑现的采购订单。  2025...
-
-**来源：** @aakashgupta
-
-### 📝 原文
-
-OpenAI may have caused the worst consumer hardware crisis in a decade with purchase orders that were never real.
-
-In October 2025, Sam Altman flew to Seoul and signed simultaneous deals with Samsung and SK Hynix for 900,000 DRAM wafers per month. That's 40% of global supply. Neither company knew the other was signing a similar commitment at the same time. The pricing and terms would have looked very different if they had.
-
-Those "deals" were letters of intent, not binding purchase orders. No RAM
-
-### 🌐 专业翻译
-
-OpenAI可能引发了十年来最严重的消费级硬件危机，而这一切源于从未真正兑现的采购订单。
-
-2025年10月，Sam Altman飞抵首尔，同时与三星和SK海力士签署协议，承诺每月采购90万片DRAM晶圆——相当于全球供应量的40%。两家公司彼此并不知道对方在同一时间签署了类似的承诺协议。如果他们知情，定价和条款会截然不同。
-
-这些"协议"只是意向书，并非具有约束力的采购订单。实际上没有任何内存真正交付。但市场将其视为既成事实。合约DRAM价格暴涨171%。64GB DDR5套装从190美元飙升至700美元，仅用三个月。本应供过于求的DDR4套装价格翻倍。零售商甚至完全停止标价。
-
-Abilene的Stargate扩建项目刚刚被取消，因为OpenAI无法准确预测自身需求。Oracle无法就融资达成一致。合作伙伴之间争执不断。彭博社报道称，这个5000亿美元的项目尚未启动，也没有筹集到满足初始预算的资金。多个数据中心建设项目被推迟或搁置。
-
-现在DDR5价格终于在数月来首次下跌，但这与OpenAI退出任何项目毫无关系。Google在3月24日发布了TurboQuant——一种将AI内存需求削减6倍的压缩算法。SK海力士和三星股价一夜之间分别下跌6%和5%。Corsair套装在几天内从高点回落60-100美元。
-
-一家公司用可能永远无法兑现的承诺锁定了全球40%的内存供应。另一家公司发布了一篇研究论文。这篇研究论文对RAM价格的影响，超过了整个供应链六个月来的所有努力。
-
-### 🎯 核心发现
-
-OpenAI通过非约束性意向书制造了虚假需求信号，导致全球DRAM市场价格暴涨171%，引发消费级硬件危机；而最终解决价格问题的不是供应链调整，而是Google的技术创新——TurboQuant算法从需求侧直接削减了6倍内存需求。
-
-### 💡 深度解读
-
-**市场操纵的灰色地带**  
-这个案例揭示了科技巨头如何在不违反法律的前提下扭曲市场。OpenAI利用意向书（LOI）而非采购订单（PO）的法律差异，同时与两家供应商签约，既规避了法律责任，又成功制造了供应紧张的市场预期。这种"纸面承诺"导致真实的价格飙升，普通消费者为虚假需求买单。
-
-**供给侧 vs 需求侧创新的效率对比**  
-传统供应链思维试图通过增加产能、优化物流来解决短缺，但面对被人为扭曲的市场信号时完全失效。Google的TurboQuant算法从根本上改变了游戏规则——当需求本身被技术重新定义时，供应链的所有努力都变得次要。这是典型的"10x思维"战胜"10%优化"的案例。
-
-**Stargate项目的多米诺效应**  
-5000亿美元的Stargate项目流产不仅是OpenAI的战略失误，更暴露了AI基础设施投资的泡沫化风险。当资本、技术和市场预期严重脱节时，即使是行业领导者也无法维持叙事。Oracle的融资困境和合作伙伴内讧表明，AI军备竞赛已经从技术竞争演变为资本耐力赛。
-
-**为什么重要**  
-这标志着AI时代硬件市场的新范式：市场价格不再由真实供需决定，而是由头部科技公司的"承诺"和技术突破共同塑造。对投资者而言，这意味着传统的供应链分析框架已经失效；对监管者而言，需要重新定义"市场操纵"的边界；对消费者而言，硬件采购时机的判断变得更加复杂。
-
-### 🔄 可迁移洞察
-
-**能源市场的虚拟承诺**  
-大型科技公司签署的可再生能源采购协议（PPA）是否也存在类似问题？如果多家公司同时承诺购买超出实际需求的绿电，可能推高碳信用价格，最终由中小企业承担成本。
-
-**芯片代工产能预订**  
-台积电、三星的先进制程产能预订机制可能被滥用。如果某家公司大量预订3nm产能但最终取消，会导致其他客户错失时间窗口，产生连锁反应。
-
-**云计算资源锁定**  
-AWS、Azure的长期承诺折扣（Reserved Instances）如果被大规模投机性预订，可能扭曲云服务定价，影响真实用户的成本结构。
-
-**技术突破 > 供应链优化**  
-在任何资源密集型行业，需求侧的技术创新（如压缩算法、效率提升）往往比供给侧的产能扩张更快解决短缺问题。这对投资策略有重要启示：押注技术突破的回报可能远超押注产能扩张。
-
-🏷️ **标签：** 供应链操纵、虚假需求信号、技术降维打击、AI基础设施泡沫、需求侧创新
-
-📊 **数据：** 浏览 959217 | 点赞 9096 | 转发 1293
-
-🔗 [查看原文](https://x.com/aakashgupta/status/2038077441911275594)
-
----
-
-## 7. 🚨有人重新发明了文本在网络上的呈现方式，这绝对是疯狂的。   React、reasonML 和 mi...
-
-**来源：** @birdabo
-
-### 📝 原文
-
-🚨SOMEONE REINVENTED HOW TEXT RENDERS ON THE WEB AND ITS ABSOLUTELY INSANE. 
-
-the goated dev behind react, reasonML, and midjourney’s frontend, just dropped Pretext. a tiny typescript library that measures and lays out text 500x faster than the DOM. 
-
-he trained models against real browser rendering for weeks until the output matched safari, chrome, and firefox exactly. 
-
-the demos are insane!! hundreds of thousands of text boxes at 120fps. magazine layouts and chat bubbles that actually wrap rig
-
-### 🌐 专业翻译
-
-🚨有人重新发明了文本在网络上的呈现方式，这绝对是疯狂的。 
-
-React、reasonML 和 midjourney 前端背后的山羊开发者刚刚放弃了 Pretext。一个小型打字稿库，测量和布局文本的速度比 DOM 快 500 倍。 
-
-他针对真实浏览器渲染训练模型数周，直到输出与 safari、chrome 和 firefox 完全匹配。 
-
-演示太疯狂了！ 120fps 的数十万个文本框。杂志布局和聊天气泡实际上是正确的。 
-
-来自 Vercel、Remix、Figma 和 shadcn 的工程师均联署。这种开源会让你想成为一名更好的开发人员。 
-
-这是过去 24 小时内一些很酷的演示👇
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 881036 | 点赞 7158 | 转发 564
-
-🔗 [查看原文](https://x.com/birdabo/status/2038219452337074677)
-
----
-
-## 8. 在 Anthropic 工作的一个奇怪的部分：每天都会得到一些这样的东西
+## 2. 我想在 Claude Code 中分享一些我最喜欢的隐藏且未充分利用的功能。我将重点关注我最常使用的...
 
 **来源：** @bcherny
 
 ### 📝 原文
 
-A weird part of working at Anthropic: getting a few of these each day
+I wanted to share a bunch of my favorite hidden and under-utilized features in Claude Code. I'll focus on the ones I use the most.
+
+Here goes.
 
 ### 🌐 专业翻译
 
-在 Anthropic 工作的一个奇怪的部分：每天都会得到一些这样的东西
+我想在 Claude Code 中分享一些我最喜欢的隐藏且未充分利用的功能。我将重点关注我最常使用的那些。
+
+就这样吧。
 
 ### 💡 深度解读
 
@@ -287,31 +63,29 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 828103 | 点赞 6728 | 转发 101
+📊 **数据：** 浏览 2649364 | 点赞 19350 | 转发 2041
 
-🔗 [查看原文](https://x.com/bcherny/status/2038056509805142383)
+🔗 [查看原文](https://x.com/bcherny/status/2038454336355999749)
 
 ---
 
-## 9. 想和过去谈谈吗？  这是一名法学硕士，“完全是在 1837 年至 1899 年间出版的 28,000...
+## 3. 只有 Grok 理解每种语言并推荐内容才能做到这一点。
 
-**来源：** @emollick
+这是一个长期目标。
+
+**来源：** @elonmusk
 
 ### 📝 原文
 
-Want to talk to the past?
+Only with Grok understanding every language and recommending content can this be done.
 
-Here is an LLM "trained entirely from scratch on a  corpus of over 28,000 Victorian-era British texts published between 1837 and 1899, drawn from a dataset made available by the British Library."
-
-Quite different from an LLM roleplaying a Victorian.
+This has been a long-time goal.
 
 ### 🌐 专业翻译
 
-想和过去谈谈吗？
+只有 Grok 理解每种语言并推荐内容才能做到这一点。
 
-这是一名法学硕士，“完全是在 1837 年至 1899 年间出版的 28,000 多篇维多利亚时代英国文本的语料库上从头开始训练的，这些文本来自大英图书馆提供的数据集。”
-
-与扮演维多利亚时代的法学硕士完全不同。
+这是一个长期目标。
 
 ### 💡 深度解读
 
@@ -319,11 +93,235 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 185781 | 点赞 2302 | 转发 201
+📊 **数据：** 浏览 23317031 | 点赞 67369 | 转发 8631
 
-🔗 [查看原文](https://x.com/emollick/status/2038084424810537215)
+🔗 [查看原文](https://x.com/elonmusk/status/2038397888884355410)
+
+---
+
+## 4. 关于人工智能最响亮的故事是一个孤独的故事。一个人拥有一支聊天机器人大军。其他人都是摩擦力。 这会让未...
+
+**来源：** @ivanhzhao
+
+### 📝 原文
+
+The loudest story about AI is a lonely one. One person with an army of chatbots. Other humans are friction.
+That gets the future wrong. The best things aren’t built alone.
+In a moment of change, we want to remind the world (and ourselves) what Notion stands for:
+— Think Together
+
+### 🌐 专业翻译
+
+关于人工智能最响亮的故事是一个孤独的故事。一个人拥有一支聊天机器人大军。其他人都是摩擦力。
+这会让未来变得错误。最好的东西不是单独建造的。
+在变革的时刻，我们想提醒世界（和我们自己）Notion 代表什么：
+— 一起思考
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 171248 | 点赞 864 | 转发 137
+
+🔗 [查看原文](https://x.com/ivanhzhao/status/2038670159259619644)
+
+---
+
+## 5. 🚨 Anthropic 首席执行官 Dario Amodei：“我们非常接近这些模型达到人类智力水平...
+
+**来源：** @thechiefnerd
+
+### 📝 原文
+
+🚨 Anthropic CEO Dario Amodei: “We are so close to these models reaching the level of human intelligence, and yet there doesn't seem to be a wider recognition in society of what's about to happen … There hasn't been a public awareness of the risks.”
+
+### 🌐 专业翻译
+
+🚨 Anthropic 首席执行官 Dario Amodei：“我们非常接近这些模型达到人类智力水平，但社会似乎并没有对即将发生的事情有更广泛的认识……公众还没有意识到风险。”
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 2025933 | 点赞 4855 | 转发 662
+
+🔗 [查看原文](https://x.com/thechiefnerd/status/2038565951268946021)
+
+---
+
+## 6. 隆重介绍 Helena：世界上第一位自主人工智能营销人员。  企业在营销上花费了 4,000 小时…...
+
+**来源：** @seijinjung
+
+### 📝 原文
+
+Introducing Helena: the world's first autonomous AI marketer.
+
+Businesses spend 4,000 hours on marketing…before their first $1M in revenue.
+
+We built Helena to solve this. Helena can:
+
+➤ Track competitor ads & create TikTok slideshows, UGC, static ads - all while you sleep
+➤ Analyze performance across GA4, Search Console, paid/organic social for daily insights
+➤ Research trends to draft GEO optimized blogs directly on WordPress, Framer, Webflow
+
+...and more
+
+Helena has her own memory, scheduled 
+
+### 🌐 专业翻译
+
+隆重介绍 Helena：世界上第一位自主人工智能营销人员。
+
+企业在营销上花费了 4,000 小时……然后才获得第一个 100 万美元的收入。
+
+我们建造 Helena 就是为了解决这个问题。海伦娜可以：
+
+➤ 跟踪竞争对手广告并创建 TikTok 幻灯片、UGC、静态广告 - 一切都在您睡觉时进行
+➤ 分析 GA4、Search Console、付费/有机社交媒体的表现，以获得日常见解
+➤ 研究直接在 WordPress、Framer、Webflow 上起草 GEO 优化博客的趋势
+
+...以及更多
+
+Helena 拥有自己的记忆、计划任务、100 多个自定义营销工具和本机集成。
+
+没有开发人员。没有 CLI。没有n8n。无需 API 密钥。
+
+Helena 不会取代 CMO，每个演示过它的营销人员都要求我们尽早使用。
+
+想雇用她吗？检查下一个线程⬇️
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 2614737 | 点赞 3246 | 转发 641
+
+🔗 [查看原文](https://x.com/seijinjung/status/2038617288367354018)
+
+---
+
+## 7. 我非常高兴地告诉大家，@Starcloud_ 已以 11 亿美元的估值筹集了 1.7 亿美元的 A ...
+
+**来源：** @philipjohnston
+
+### 📝 原文
+
+I am super excited to share that @Starcloud_ has raised a $170M Series A at a $1.1bn valuation to fuel our development of data centers in space 🚀 
+
+The round comes after the successful deployment of our first satellite, Starcould-1, a few months ago, which had the first @NVIDIA H100 on board and was the first to train an LLM in space. The funds will be used to develop our third satellite, which aims to be cost-competitive with Earth-based data centers in terms of AI inference cost. 
+
+The round w
+
+### 🌐 专业翻译
+
+我非常高兴地告诉大家，@Starcloud_ 已以 11 亿美元的估值筹集了 1.7 亿美元的 A 轮融资，以推动我们太空数据中心的发展🚀 
+
+本轮融资是在几个月前成功部署我们的第一颗卫星 Starcould-1 后进行的，该卫星搭载了第一颗 @NVIDIA H100，并且是第一个在太空培训法学硕士的卫星。这些资金将用于开发我们的第三颗卫星，其目标是在人工智能推理成本方面与地球数据中心具有成本竞争力。 
+
+此轮融资由 @Benchmark 和 @EQT Ventures 领投，我们很高兴欢迎 Benchmark GP @Chetanp Puttagunta 加入我们的董事会。我们还很高兴地欢迎其他新投资者，包括全球最大的基础设施基金@Macquarie Capital、@SevenSevenSix 7️⃣7️⃣6️⃣、Manhattan West、Adjacent、Carya、GSBackers 和 Harpoon。
+
+我们非常感谢现有投资者的持续支持，包括@NFX、@NebularVC、@YCombinator、@FUSE_VC、@Soma_Capital、3Capital Partners、Wyld VC、Tiny VC 和 Taurus Ventures。
+
+继续！
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 244629 | 点赞 1476 | 转发 143
+
+🔗 [查看原文](https://x.com/philipjohnston/status/2038587098047946858)
+
+---
+
+## 8. 为您的想法提供资金比您想象的要容易。  为了证明这一点，我推出了一个人工智能来评估你的加密创业想法的...
+
+**来源：** @waleswoosh
+
+### 📝 原文
+
+Getting your idea funded is easier than you think.
+
+To prove it, I've launched an AI that estimates the value of your crypto startup idea.
+
+Pitch your idea to me: https://startupcash.io/pitch
+
+### 🌐 专业翻译
+
+为您的想法提供资金比您想象的要容易。
+
+为了证明这一点，我推出了一个人工智能来评估你的加密创业想法的价值。
+
+向我推销您的想法：https://startupcash.io/pitch
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 200507 | 点赞 932 | 转发 27
+
+🔗 [查看原文](https://x.com/waleswoosh/status/2038606859008160195)
+
+---
+
+## 9. 日本刚刚推出了一款完全由纸板制成的无人机。它的飞行速度为 120 公里每小时，可在 5 分钟内组装完...
+
+**来源：** @furkangozukara
+
+### 📝 原文
+
+Japan just unveiled a drone made entirely of cardboard. It flies at 120 km per hour, can be assembled in 5 minutes, and is designed to be used in massive swarms. The craziest part is it can be mass produced at any regular cardboard factory. The future is cheap.
+
+### 🌐 专业翻译
+
+日本刚刚推出了一款完全由纸板制成的无人机。它的飞行速度为 120 公里每小时，可在 5 分钟内组装完毕，设计用于大规模集群使用。最疯狂的是它可以在任何正规的纸板厂大规模生产。未来很便宜。
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 931937 | 点赞 17129 | 转发 3204
+
+🔗 [查看原文](https://x.com/furkangozukara/status/2038530416626348281)
+
+---
+
+## 10. 尝试 Grok Imagine
+
+**来源：** @elonmusk
+
+### 📝 原文
+
+Try Grok Imagine
+
+### 🌐 专业翻译
+
+尝试 Grok Imagine
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 19670709 | 点赞 25644 | 转发 3351
+
+🔗 [查看原文](https://x.com/elonmusk/status/2038530285743260155)
 
 ---
 
 
-*生成时间：2026-03-30 06:31:07*
+*生成时间：2026-03-31 06:30:13*
