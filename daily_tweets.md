@@ -1,33 +1,29 @@
 ---
-title: 2026-03-31 科技金融热点速递
+title: 2026-04-01 科技金融热点速递
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop
 ---
 
-# 2026-03-31 科技金融热点速递
+# 2026-04-01 科技金融热点速递
 
 精选自 X 平台 AI 领域热门讨论，每日更新。
 
 ---
 
-## 1. 计算机的使用现在是在Claude代码中。  Claude 可以直接从 CLI 打开您的应用程序，单击...
+## 1. Claude 代码源代码已通过其 npm 注册表中的映射文件泄露！   代码：https://pub...
 
-**来源：** @claudeai
+**来源：** @fried_rice
 
 ### 📝 原文
 
-Computer use is now in Claude Code.
+Claude code source code has been leaked via a map file in their npm registry! 
 
-Claude can open your apps, click through your UI, and test what it built, right from the CLI.
-
-Now in research preview on Pro and Max plans.
+Code: https://pub-aea8527898604c1bbb12468b1581d95e.r2.dev/src.zip
 
 ### 🌐 专业翻译
 
-计算机的使用现在是在Claude代码中。
+Claude 代码源代码已通过其 npm 注册表中的映射文件泄露！ 
 
-Claude 可以直接从 CLI 打开您的应用程序，单击您的 UI，并测试它构建的内容。
-
-现在正在对 Pro 和 Max 计划进行研究预览。
+代码：https://pub-aea8527898604c1bbb12468b1581d95e.r2.dev/src.zip
 
 ### 💡 深度解读
 
@@ -35,27 +31,33 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 5987399 | 点赞 36226 | 转发 2665
+📊 **数据：** 浏览 22696933 | 点赞 37200 | 转发 5690
 
-🔗 [查看原文](https://x.com/claudeai/status/2038663014098899416)
+🔗 [查看原文](https://x.com/fried_rice/status/2038894956459290963)
 
 ---
 
-## 2. 我想在 Claude Code 中分享一些我最喜欢的隐藏且未充分利用的功能。我将重点关注我最常使用的...
+## 2. 这太疯狂了。 Google Research 展示了 Shor 算法的效率提高了约 20 倍，可以在...
 
-**来源：** @bcherny
+**来源：** @hosseeb
 
 ### 📝 原文
 
-I wanted to share a bunch of my favorite hidden and under-utilized features in Claude Code. I'll focus on the ones I use the most.
+This is wild. Google Research demonstrates a ~20x more efficient implementation of Shor's algorithm that could break ECDSA keys within minutes with ~500K physical qubits.
 
-Here goes.
+Google is now are more confident on a 2029 post-quantum transition. We are no longer looking at mid 2030s, we could have quantum computers of this scale by the end of the decade.
+
+They believe this result is so severe that they are not publishing the actual circuits. They instead published a ZKP proving that they know of the q
 
 ### 🌐 专业翻译
 
-我想在 Claude Code 中分享一些我最喜欢的隐藏且未充分利用的功能。我将重点关注我最常使用的那些。
+这太疯狂了。 Google Research 展示了 Shor 算法的效率提高了约 20 倍，可以在几分钟内用约 500K 物理量子位破解 ECDSA 密钥。
 
-就这样吧。
+Google 现在对 2029 年后量子转型更有信心。我们不再关注 2030 年代中期，到本世纪末我们就可以拥有这种规模的量子计算机。
+
+他们认为这个结果非常严重，因此他们没有发布实际的电路。相反，他们发布了 ZKP，证明他们了解具有这些特性的量子电路。这是非常不典型的，表明谷歌认为这是严重的狗屎。
+
+所有区块链都需要尽快制定过渡计划。后量子不再是演习。
 
 ### 💡 深度解读
 
@@ -63,29 +65,155 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2650128 | 点赞 19355 | 转发 2041
+📊 **数据：** 浏览 885968 | 点赞 4674 | 转发 598
 
-🔗 [查看原文](https://x.com/bcherny/status/2038454336355999749)
+🔗 [查看原文](https://x.com/hosseeb/status/2038831850270126110)
 
 ---
 
-## 3. 只有 Grok 理解每种语言并推荐内容才能做到这一点。
+## 3. Claude Code 有一个正则表达式，可以检测“wtf”、“ffs”、“狗屎”、“操你”、“这太...
 
-这是一个长期目标。
+**来源：** @rahatcodes
+
+### 📝 原文
+
+Claude Code has a regex that detects "wtf", "ffs", "piece of shit", "fuck you", "this sucks" etc. 
+
+It doesn't change behavior...it just silently logs is_negative: true to analytics. 
+
+Anthropic is tracking how often you rage at your AI
+
+Do with this information what you will
+
+### 🌐 专业翻译
+
+Claude Code 有一个正则表达式，可以检测“wtf”、“ffs”、“狗屎”、“操你”、“这太糟糕了”等。 
+
+它不会改变行为......它只是默默地记录 is_negative: true 进行分析。 
+
+Anthropic 正在追踪你对人工智能发怒的频率
+
+利用这些信息做你想做的事
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 754943 | 点赞 10483 | 转发 520
+
+🔗 [查看原文](https://x.com/rahatcodes/status/2038995503141065145)
+
+---
+
+## 4. 电子烟是一种深层政府心理战，旨在让我们享受吸吮机器人鸡巴的乐趣。  一旦人工智能夺走了我们所有的工作...
+
+**来源：** @klara_sjo
+
+### 📝 原文
+
+VAPES ARE A DEEP STATE PSYOP DESIGNED TO CONDITION US TO ENJOY SUCKING ROBOT DICKS.
+
+ONCE AI TAKES AWAY ALL OUR JOBS AND THE ONLY THING LEFT FOR HUMANITY IS TO BE SEX SLAVES FOR ROBOTS!!
+
+REAL EYES REALIZE CLANKER LIES!!!! 
+
+DON’T FALL FOR IT!!! 
+
+WAKE UP SHEEPLE!!!
+
+### 🌐 专业翻译
+
+电子烟是一种深层政府心理战，旨在让我们享受吸吮机器人鸡巴的乐趣。
+
+一旦人工智能夺走了我们所有的工作，人类唯一剩下的就是成为机器人的性奴隶！
+
+真眼识破谎言！！！ 
+
+不要上当！！！ 
+
+羊儿醒醒吧！！！
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 1940762 | 点赞 66964 | 转发 6668
+
+🔗 [查看原文](https://x.com/klara_sjo/status/2038803098454429990)
+
+---
+
+## 5. Claude Code 泄露了他们的源代码图，有效地让您了解了代码库。  我立即去做一件重要的事情：...
+
+**来源：** @wesbos
+
+### 📝 原文
+
+Claude Code leaked their source map, effectively giving you a look into the codebase.
+
+I immediately went for the one thing that mattered: spinner verbs
+
+There are 187
+
+### 🌐 专业翻译
+
+Claude Code 泄露了他们的源代码图，有效地让您了解了代码库。
+
+我立即去做一件重要的事情：旋转动词
+
+有187个
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 1327189 | 点赞 20989 | 转发 1430
+
+🔗 [查看原文](https://x.com/wesbos/status/2038958747200962952)
+
+---
+
+## 6. 新功能：您现在可以构建人工智能代理来监控市场、管理现金和执行交易。代理经纪公司已经到来。
+
+**来源：** @public
+
+### 📝 原文
+
+NEW: You can now build AI Agents that monitor the market, manage your cash, and execute your trades. The Agentic Brokerage has arrived.
+
+### 🌐 专业翻译
+
+新功能：您现在可以构建人工智能代理来监控市场、管理现金和执行交易。代理经纪公司已经到来。
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 1596827 | 点赞 3282 | 转发 482
+
+🔗 [查看原文](https://x.com/public/status/2038979597266477092)
+
+---
+
+## 7. Neuralink 使 ALS 患者能够再次说话
 
 **来源：** @elonmusk
 
 ### 📝 原文
 
-Only with Grok understanding every language and recommending content can this be done.
-
-This has been a long-time goal.
+Neuralink enables people with ALS to speak again
 
 ### 🌐 专业翻译
 
-只有 Grok 理解每种语言并推荐内容才能做到这一点。
-
-这是一个长期目标。
+Neuralink 使 ALS 患者能够再次说话
 
 ### 💡 深度解读
 
@@ -93,29 +221,29 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 23317031 | 点赞 67377 | 转发 8631
+📊 **数据：** 浏览 6924533 | 点赞 36374 | 转发 5060
 
-🔗 [查看原文](https://x.com/elonmusk/status/2038397888884355410)
+🔗 [查看原文](https://x.com/elonmusk/status/2039038898811343008)
 
 ---
 
-## 4. 关于人工智能最响亮的故事是一个孤独的故事。一个人拥有一支聊天机器人大军。其他人都是摩擦力。 这会让未...
+## 8. “我已经到了极限”
 
-**来源：** @ivanhzhao
+情感还是Claude？
+
+**来源：** @erikalee
 
 ### 📝 原文
 
-The loudest story about AI is a lonely one. One person with an army of chatbots. Other humans are friction.
-That gets the future wrong. The best things aren’t built alone.
-In a moment of change, we want to remind the world (and ourselves) what Notion stands for:
-— Think Together
+"I'm at my limit"
+
+emotional or claude?
 
 ### 🌐 专业翻译
 
-关于人工智能最响亮的故事是一个孤独的故事。一个人拥有一支聊天机器人大军。其他人都是摩擦力。
-这会让未来变得错误。最好的东西不是单独建造的。
-在变革的时刻，我们想提醒世界（和我们自己）Notion 代表什么：
-— 一起思考
+“我已经到了极限”
+
+情感还是Claude？
 
 ### 💡 深度解读
 
@@ -123,23 +251,35 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 171530 | 点赞 864 | 转发 137
+📊 **数据：** 浏览 384727 | 点赞 17128 | 转发 2551
 
-🔗 [查看原文](https://x.com/ivanhzhao/status/2038670159259619644)
+🔗 [查看原文](https://x.com/erikalee/status/2038778592222683483)
 
 ---
 
-## 5. 🚨 Anthropic 首席执行官 Dario Amodei：“我们非常接近这些模型达到人类智力水平...
+## 9. Claude自治特工正式抵达  因此，我们为他们设置了一个全新的 50,000 美元投资组合，看看他...
 
-**来源：** @thechiefnerd
+**来源：** @theaiportfolios
 
 ### 📝 原文
 
-🚨 Anthropic CEO Dario Amodei: “We are so close to these models reaching the level of human intelligence, and yet there doesn't seem to be a wider recognition in society of what's about to happen … There hasn't been a public awareness of the risks.”
+The Claude Autonomous Agents have officially arrived
+
+So we're setting them up with a brand new $50,000 portfolio to see how well they do at investing in stocks
+
+Can they outperform Buffett?
+
+Here’s how the portfolio works
 
 ### 🌐 专业翻译
 
-🚨 Anthropic 首席执行官 Dario Amodei：“我们非常接近这些模型达到人类智力水平，但社会似乎并没有对即将发生的事情有更广泛的认识……公众还没有意识到风险。”
+Claude自治特工正式抵达
+
+因此，我们为他们设置了一个全新的 50,000 美元投资组合，看看他们在股票投资方面表现如何
+
+他们能超越巴菲特吗？
+
+以下是投资组合的运作方式
 
 ### 💡 深度解读
 
@@ -147,53 +287,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2026754 | 点赞 4858 | 转发 662
+📊 **数据：** 浏览 2513362 | 点赞 14040 | 转发 799
 
-🔗 [查看原文](https://x.com/thechiefnerd/status/2038565951268946021)
+🔗 [查看原文](https://x.com/theaiportfolios/status/2039006300441620782)
 
 ---
 
-## 6. 隆重介绍 Helena：世界上第一位自主人工智能营销人员。  企业在营销上花费了 4,000 小时…...
+## 10. 
 
-**来源：** @seijinjung
+**来源：** @jack
 
 ### 📝 原文
 
-Introducing Helena: the world's first autonomous AI marketer.
 
-Businesses spend 4,000 hours on marketing…before their first $1M in revenue.
-
-We built Helena to solve this. Helena can:
-
-➤ Track competitor ads & create TikTok slideshows, UGC, static ads - all while you sleep
-➤ Analyze performance across GA4, Search Console, paid/organic social for daily insights
-➤ Research trends to draft GEO optimized blogs directly on WordPress, Framer, Webflow
-
-...and more
-
-Helena has her own memory, scheduled 
 
 ### 🌐 专业翻译
 
-隆重介绍 Helena：世界上第一位自主人工智能营销人员。
 
-企业在营销上花费了 4,000 小时……然后才获得第一个 100 万美元的收入。
-
-我们建造 Helena 就是为了解决这个问题。海伦娜可以：
-
-➤ 跟踪竞争对手广告并创建 TikTok 幻灯片、UGC、静态广告 - 一切都在您睡觉时进行
-➤ 分析 GA4、Search Console、付费/有机社交媒体的表现，以获得日常见解
-➤ 研究直接在 WordPress、Framer、Webflow 上起草 GEO 优化博客的趋势
-
-...以及更多
-
-Helena 拥有自己的记忆、计划任务、100 多个自定义营销工具和本机集成。
-
-没有开发人员。没有 CLI。没有n8n。无需 API 密钥。
-
-Helena 不会取代 CMO，每个演示过它的营销人员都要求我们尽早使用。
-
-想雇用她吗？检查下一个线程⬇️
 
 ### 💡 深度解读
 
@@ -201,127 +311,11 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2615267 | 点赞 3248 | 转发 641
+📊 **数据：** 浏览 672629 | 点赞 2850 | 转发 370
 
-🔗 [查看原文](https://x.com/seijinjung/status/2038617288367354018)
-
----
-
-## 7. 我非常高兴地告诉大家，@Starcloud_ 已以 11 亿美元的估值筹集了 1.7 亿美元的 A ...
-
-**来源：** @philipjohnston
-
-### 📝 原文
-
-I am super excited to share that @Starcloud_ has raised a $170M Series A at a $1.1bn valuation to fuel our development of data centers in space 🚀 
-
-The round comes after the successful deployment of our first satellite, Starcould-1, a few months ago, which had the first @NVIDIA H100 on board and was the first to train an LLM in space. The funds will be used to develop our third satellite, which aims to be cost-competitive with Earth-based data centers in terms of AI inference cost. 
-
-The round w
-
-### 🌐 专业翻译
-
-我非常高兴地告诉大家，@Starcloud_ 已以 11 亿美元的估值筹集了 1.7 亿美元的 A 轮融资，以推动我们太空数据中心的发展🚀 
-
-本轮融资是在几个月前成功部署我们的第一颗卫星 Starcould-1 后进行的，该卫星搭载了第一颗 @NVIDIA H100，并且是第一个在太空培训法学硕士的卫星。这些资金将用于开发我们的第三颗卫星，其目标是在人工智能推理成本方面与地球数据中心具有成本竞争力。 
-
-此轮融资由 @Benchmark 和 @EQT Ventures 领投，我们很高兴欢迎 Benchmark GP @Chetanp Puttagunta 加入我们的董事会。我们还很高兴地欢迎其他新投资者，包括全球最大的基础设施基金@Macquarie Capital、@SevenSevenSix 7️⃣7️⃣6️⃣、Manhattan West、Adjacent、Carya、GSBackers 和 Harpoon。
-
-我们非常感谢现有投资者的持续支持，包括@NFX、@NebularVC、@YCombinator、@FUSE_VC、@Soma_Capital、3Capital Partners、Wyld VC、Tiny VC 和 Taurus Ventures。
-
-继续！
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 244748 | 点赞 1476 | 转发 143
-
-🔗 [查看原文](https://x.com/philipjohnston/status/2038587098047946858)
-
----
-
-## 8. 为您的想法提供资金比您想象的要容易。  为了证明这一点，我推出了一个人工智能来评估你的加密创业想法的...
-
-**来源：** @waleswoosh
-
-### 📝 原文
-
-Getting your idea funded is easier than you think.
-
-To prove it, I've launched an AI that estimates the value of your crypto startup idea.
-
-Pitch your idea to me: https://startupcash.io/pitch
-
-### 🌐 专业翻译
-
-为您的想法提供资金比您想象的要容易。
-
-为了证明这一点，我推出了一个人工智能来评估你的加密创业想法的价值。
-
-向我推销您的想法：https://startupcash.io/pitch
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 200507 | 点赞 932 | 转发 27
-
-🔗 [查看原文](https://x.com/waleswoosh/status/2038606859008160195)
-
----
-
-## 9. 日本刚刚推出了一款完全由纸板制成的无人机。它的飞行速度为 120 公里每小时，可在 5 分钟内组装完...
-
-**来源：** @furkangozukara
-
-### 📝 原文
-
-Japan just unveiled a drone made entirely of cardboard. It flies at 120 km per hour, can be assembled in 5 minutes, and is designed to be used in massive swarms. The craziest part is it can be mass produced at any regular cardboard factory. The future is cheap.
-
-### 🌐 专业翻译
-
-日本刚刚推出了一款完全由纸板制成的无人机。它的飞行速度为 120 公里每小时，可在 5 分钟内组装完毕，设计用于大规模集群使用。最疯狂的是它可以在任何正规的纸板厂大规模生产。未来很便宜。
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 932137 | 点赞 17131 | 转发 3204
-
-🔗 [查看原文](https://x.com/furkangozukara/status/2038530416626348281)
-
----
-
-## 10. 尝试 Grok Imagine
-
-**来源：** @elonmusk
-
-### 📝 原文
-
-Try Grok Imagine
-
-### 🌐 专业翻译
-
-尝试 Grok Imagine
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 19675941 | 点赞 25647 | 转发 3352
-
-🔗 [查看原文](https://x.com/elonmusk/status/2038530285743260155)
+🔗 [查看原文](https://x.com/jack/status/2039003879841362278)
 
 ---
 
 
-*生成时间：2026-03-31 06:30:32*
+*生成时间：2026-04-01 06:30:13*
