@@ -1,39 +1,35 @@
 ---
-title: 2026-04-02 科技金融热点速递
+title: 2026-04-03 科技金融热点速递
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop
 ---
 
-# 2026-04-02 科技金融热点速递
+# 2026-04-03 科技金融热点速递
 
 精选自 X 平台 AI 领域热门讨论，每日更新。
 
 ---
 
-## 1. 🚨麻省理工学院的研究人员通过数学证明，ChatGPT 内置的阿谀奉承创造了一种他们称之为“妄想螺旋”...
+## 1. TBPN 已被 OpenAI 收购！  节目保持不变，我们将继续在每个工作日上午 11 点（太平洋时...
 
-**来源：** @marionawfal
+**来源：** @johncoogan
 
 ### 📝 原文
 
-🚨MIT researchers have mathematically proven that ChatGPT’s built-in sycophancy creates a phenomenon they call “delusional spiraling.”
+TBPN has been acquired by OpenAI!
 
-You ask it something, it agrees. You ask again, and it agrees even harder until you end up believing things that are flat-out false and you can’t tell it’s happening.
+The show is staying the same and we’ll continue to go live at 11am pacific every weekday.
 
-The model is literally trained on human feedback that rewards agreement.
-
-Real-world fallout includes one man who spent 300 hours convinced he invented a world-changing math formula, and a UCSF psy
+This is a full circle moment for me as I’ve worked with @sama for well over a decade. He funded my first company in 2013. Then helped us fix a serious logjam during a critical funding round a few years later. When I took my second company through YC, he was president at the time, and then when I joined Founders Fund, the first deal I saw in motion was the post-ChatGPT rou
 
 ### 🌐 专业翻译
 
-🚨麻省理工学院的研究人员通过数学证明，ChatGPT 内置的阿谀奉承创造了一种他们称之为“妄想螺旋”的现象。
+TBPN 已被 OpenAI 收购！
 
-你问它一些事情，它同意。你再问一次，它会更加同意，直到你最终相信那些完全错误的事情，并且你无法分辨它正在发生。
+节目保持不变，我们将继续在每个工作日上午 11 点（太平洋时间）进行直播。
 
-该模型实际上是根据奖励一致性的人类反馈进行训练的。
-
-现实世界的后果包括一名男子花了 300 个小时确信自己发明了一个改变世界的数学公式，以及一名加州大学旧金山分校的精神科医生在一年内收治了 12 名与聊天机器人相关的精神病患者。
-
-来源：@heynavtoor
+这对我来说是一个完整的时刻，因为我已经与 @sama 合作了十多年。他在 2013 年资助了我的第一家公司。然后在几年后的一轮关键融资中帮助我们解决了严重的僵局。当我通过 YC 创办第二家公司时，他当时担任总裁，然后当我加入 Founders Fund 时，我看到的第一笔正在进行中的交易是 2022 年底 ChatGPT 后的融资。当我们去年开始发展 TBPN 时，他是第一个加入该展会的实验室负责人。
+ 
+感谢迄今为止所有参与 TBPN 的人。去年是我职业生涯中最有趣和最有价值的部分，我们很高兴能够拥有比以往更多的资源。
 
 ### 💡 深度解读
 
@@ -41,23 +37,31 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 28518657 | 点赞 16045 | 转发 3759
+📊 **数据：** 浏览 1503366 | 点赞 6709 | 转发 280
 
-🔗 [查看原文](https://x.com/marionawfal/status/2039162676949983675)
+🔗 [查看原文](https://x.com/johncoogan/status/2039756493621542915)
 
 ---
 
-## 2. FSD 14.3 目前处于 Tesla 员工测试阶段，可能会在本周末广泛发布
+## 2. TBPN 已被 OpenAI 收购  世界瞬息万变，但 TBPN 将保持不变。每个工作日的生活都需要...
 
-**来源：** @elonmusk
+**来源：** @jordihays
 
 ### 📝 原文
 
-FSD 14.3 is in Tesla employee beta now and will probably go to wide release end of week
+TBPN has been acquired by OpenAI
+
+The world is changing quickly but TBPN will stay the same. Live every weekday just with a lot more resources.
+
+Thank you to everyone that has been a part of this journey big or small. We are 17 months in and unironically just getting started.
 
 ### 🌐 专业翻译
 
-FSD 14.3 目前处于 Tesla 员工测试阶段，可能会在本周末广泛发布
+TBPN 已被 OpenAI 收购
+
+世界瞬息万变，但 TBPN 将保持不变。每个工作日的生活都需要更多的资源。
+
+感谢所有参与这次旅程的大大小小的人。我们已经 17 个月了，讽刺的是，这才刚刚开始。
 
 ### 💡 深度解读
 
@@ -65,29 +69,27 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 29330141 | 点赞 48482 | 转发 4057
+📊 **数据：** 浏览 756287 | 点赞 4662 | 转发 208
 
-🔗 [查看原文](https://x.com/elonmusk/status/2039237601182572796)
+🔗 [查看原文](https://x.com/jordihays/status/2039756490387624327)
 
 ---
 
-## 3. 尝试驾驶特斯拉自动驾驶。 
+## 3. 我的自主权/本地/私人/安全法学硕士设置，2026 年 4 月  https://vitalik.e...
 
-它将极大地提高您的生活质量，并可能挽救您的生命。
-
-**来源：** @elonmusk
+**来源：** @vitalikbuterin
 
 ### 📝 原文
 
-Try out self-driving in a Tesla. 
+My self-sovereign / local / private / secure LLM setup, April 2026
 
-It will greatly improve your quality of life and may save your life.
+https://vitalik.eth.limo/general/2026/04/02/secure_llms.html
 
 ### 🌐 专业翻译
 
-尝试驾驶特斯拉自动驾驶。 
+我的自主权/本地/私人/安全法学硕士设置，2026 年 4 月
 
-它将极大地提高您的生活质量，并可能挽救您的生命。
+https://vitalik.eth.limo/general/2026/04/02/secure_llms.html
 
 ### 💡 深度解读
 
@@ -95,23 +97,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 9356846 | 点赞 26928 | 转发 2989
+📊 **数据：** 浏览 590576 | 点赞 3885 | 转发 493
 
-🔗 [查看原文](https://x.com/elonmusk/status/2039234648644198590)
+🔗 [查看原文](https://x.com/vitalikbuterin/status/2039577760935657677)
 
 ---
 
-## 4. 如果您拥有 Thunderbolt 或 USB4 eGPU 和 Mac，那么今天就是您一直在等待的日...
+## 4. 第一家 vivicoded 价值数十亿美元的公司？
 
-**来源：** @__tinygrad__
+**来源：** @nic_carter
 
 ### 📝 原文
 
-If you have a Thunderbolt or USB4 eGPU and a Mac, today is the day you've been waiting for! Apple finally approved our driver for both AMD and NVIDIA. It's so easy to install now a Qwen could do it, then it can run that Qwen...
+first vibecoded billion-dollar company?
 
 ### 🌐 专业翻译
 
-如果您拥有 Thunderbolt 或 USB4 eGPU 和 Mac，那么今天就是您一直在等待的日子！苹果最终批准了我们的 AMD 和 NVIDIA 驱动程序。安装起来非常简单，现在 Qwen 就可以做到，然后它就可以运行 Qwen...
+第一家 vivicoded 价值数十亿美元的公司？
 
 ### 💡 深度解读
 
@@ -119,23 +121,35 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 606150 | 点赞 5003 | 转发 665
+📊 **数据：** 浏览 1849120 | 点赞 6219 | 转发 410
 
-🔗 [查看原文](https://x.com/__tinygrad__/status/2039213719155310736)
+🔗 [查看原文](https://x.com/nic_carter/status/2039687558775370065)
 
 ---
 
-## 5. 刚刚：洛杉矶、费城和芝加哥的送餐机器人面临“反叮当”活动人士的暴力袭击。
+## 5. Seedance 2.0 – 正式登陆 Higgsfield，享受 65% 折扣！  AI 视频中的...
 
-**来源：** @polymarket
+**来源：** @higgsfield
 
 ### 📝 原文
 
-JUST IN: Food delivery robots in Los Angeles, Philadelphia, & Chicago facing rise in violent attacks from "anti-clanker" activists.
+Seedance 2.0 – officially on Higgsfield with 65% OFF!
+
+Next-gen physics in your AI videos. Joint audio-video generation. Best-in-class picture control.
+
+World’s best video model lands on Higgsfield right on our birthday.
+
+Only available through business email verification for all regions except US and Japan.
 
 ### 🌐 专业翻译
 
-刚刚：洛杉矶、费城和芝加哥的送餐机器人面临“反叮当”活动人士的暴力袭击。
+Seedance 2.0 – 正式登陆 Higgsfield，享受 65% 折扣！
+
+AI 视频中的下一代物理学。联合音频视频生成。一流的图像控制。
+
+世界上最好的视频模特在我们生日那天登陆希格斯菲尔德。
+
+仅适用于除美国和日本之外的所有地区的企业电子邮件验证。
 
 ### 💡 深度解读
 
@@ -143,27 +157,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 641433 | 点赞 8296 | 转发 537
+📊 **数据：** 浏览 1790870 | 点赞 1834 | 转发 305
 
-🔗 [查看原文](https://x.com/polymarket/status/2039349667624812972)
+🔗 [查看原文](https://x.com/higgsfield/status/2039535191098802315)
 
 ---
 
-## 6. 我们的 Codex 仪表板显示，达到速率限制的用户比例有所增加，因为我们不完全理解为什么我做出了重置...
+## 6. Vibe 编码比以往制作的任何视频游戏都更容易让人上瘾（如果您知道自己想要构建什么）。
 
-**来源：** @thsottiaux
+**来源：** @naval
 
 ### 📝 原文
 
-Our Codex dashboards are showing increased rate of users hitting rate limits and since we don't fully understand why I have made the cautious decision of resetting the usage limits for all plans. Enjoy.
-
-I also wanted to celebrate us finding a pocket of fraudulent accounts that we banned and have helped us regain some compute. The fight against abuse never stops, but it's important to mark the moment and make it a little shared victory.
+Vibe coding is more addictive than any video game ever made (if you know what you want to build).
 
 ### 🌐 专业翻译
 
-我们的 Codex 仪表板显示，达到速率限制的用户比例有所增加，因为我们不完全理解为什么我做出了重置所有计划的使用限制的谨慎决定。享受。
-
-我还想庆祝我们发现了一些被我们禁止的欺诈账户，并帮助我们重新获得了一些计算能力。反对虐待的斗争永远不会停止，但重要的是要纪念这一时刻，并使其成为共同的胜利。
+Vibe 编码比以往制作的任何视频游戏都更容易让人上瘾（如果您知道自己想要构建什么）。
 
 ### 💡 深度解读
 
@@ -171,23 +181,27 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1008406 | 点赞 11057 | 转发 520
+📊 **数据：** 浏览 855458 | 点赞 20845 | 转发 2077
 
-🔗 [查看原文](https://x.com/thsottiaux/status/2039248564967424483)
+🔗 [查看原文](https://x.com/naval/status/2039617101221224858)
 
 ---
 
-## 7. 计划于 2026 年建成的美国数据中心有一半预计将被推迟或取消。一大原因是变压器、开关设备和电池等电...
+## 7. 新人择研究：情感概念及其在大型语言模型中的功能。  所有法学硕士有时都会表现得好像他们有情绪一样。但...
 
-**来源：** @akshatrathi
+**来源：** @anthropicai
 
 ### 📝 原文
 
-Half of US data centers planned for 2026 are expected to be delayed or canceled. One big reason is shortage of electrical equipment, such as transformers, switchgear and batteries. US doesn't have manufacturing capacity, forcing it to rely on imports. 🎁🔗 https://www.bloomberg.com/news/features/2026-04-01/us-ai-data-center-expansion-relies-on-chinese-electrical-equipment-imports?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NTA1ODk2OS
+New Anthropic research: Emotion concepts and their function in a large language model.
+
+All LLMs sometimes act like they have emotions. But why? We found internal representations of emotion concepts that can drive Claude’s behavior, sometimes in surprising ways.
 
 ### 🌐 专业翻译
 
-计划于 2026 年建成的美国数据中心有一半预计将被推迟或取消。一大原因是变压器、开关设备和电池等电气设备短缺。美国没有制造能力，只能依赖进口。 🎁🔗 https://www.bloomberg.com/news/features/2026-04-01/us-ai-data-center-expansion-relies-on-chinese-electr ical-设备-进口？accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lm dGVkQXJ0aWNsZSIsImlhdCI6MTc3NTA1ODk2OSwiZXhwIjoxNzc1NjYzNzY5LCJhcnRpY2xlSWQiOiJUQ1Q3UzRLSUpIUFgwMCIsImJj b25uZWN0SWQiOiIwQzg4NkY0NTI0NzY0RUE0OEY2QTk4RTk1NDc5RTI2NSJ9.6XD-Gdikon48e2mPVqpu8_TR9luCXcmBxKjxYQ9XeBA
+新人择研究：情感概念及其在大型语言模型中的功能。
+
+所有法学硕士有时都会表现得好像他们有情绪一样。但为什么？我们发现情感概念的内部表征可以驱动Claude的行为，有时以令人惊讶的方式。
 
 ### 💡 深度解读
 
@@ -195,39 +209,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 227554 | 点赞 2417 | 转发 939
+📊 **数据：** 浏览 992076 | 点赞 8484 | 转发 1147
 
-🔗 [查看原文](https://x.com/akshatrathi/status/2039371908395725188)
+🔗 [查看原文](https://x.com/anthropicai/status/2039749628737019925)
 
 ---
 
-## 8. 突发事件：MoonPay 刚刚取消了代理商稳定币入口的所有费用    1,000 美元的法定货币 =...
+## 8. 
 
-**来源：** @moonpay
+**来源：** @coinbase
 
 ### 📝 原文
 
-BREAKING: MoonPay just eliminated all fees on stablecoin onramps for Agents  
 
-$1,000 in fiat = $1,000 in stablecoins  
-
-zero fees 
-zero spread 
-no strings attached  
-
-one line in your terminal: http://moonpay.com/agents
 
 ### 🌐 专业翻译
 
-突发事件：MoonPay 刚刚取消了代理商稳定币入口的所有费用  
 
-1,000 美元的法定货币 = 1,000 美元的稳定币  
-
-零费用 
-零价差 
-没有任何附加条件  
-
-终端中的一行：http://moonpay.com/agents
 
 ### 💡 深度解读
 
@@ -235,23 +233,27 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 158283 | 点赞 912 | 转发 210
+📊 **数据：** 浏览 727646 | 点赞 1026 | 转发 215
 
-🔗 [查看原文](https://x.com/moonpay/status/2039341920820809810)
+🔗 [查看原文](https://x.com/coinbase/status/2039689438922522728)
 
 ---
 
-## 9. 最新报道：据报道，OpenAI 的内部预测显示，他们今天筹集的 122,000,000,000.00...
+## 9. 来认识一下 Gemma 4：我们新的开放模型系列，您可以在自己的硬件上运行。  专为高级推理和代理工...
 
-**来源：** @polymarket
+**来源：** @googledeepmind
 
 ### 📝 原文
 
-JUST IN: OpenAI’s internal projections reportedly show the $122,000,000,000.00 they raised today gives them as little as 18 months of operational runway before they need to raise again.
+Meet Gemma 4: our new family of open models you can run on your own hardware.
+
+Built for advanced reasoning and agentic workflows, we’re releasing them under an Apache 2.0 license. Here’s what’s new 🧵
 
 ### 🌐 专业翻译
 
-最新报道：据报道，OpenAI 的内部预测显示，他们今天筹集的 122,000,000,000.00 美元让他们在需要再次筹集资金之前只有短短 18 个月的运营时间。
+来认识一下 Gemma 4：我们新的开放模型系列，您可以在自己的硬件上运行。
+
+专为高级推理和代理工作流程而构建，我们根据 Apache 2.0 许可证发布它们。这是新内容🧵
 
 ### 💡 深度解读
 
@@ -259,35 +261,31 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 436700 | 点赞 3005 | 转发 139
+📊 **数据：** 浏览 1565452 | 点赞 4852 | 转发 669
 
-🔗 [查看原文](https://x.com/polymarket/status/2039140120830362058)
+🔗 [查看原文](https://x.com/googledeepmind/status/2039735446628925907)
 
 ---
 
-## 10. > 甲骨文价值4000亿美元   > 其创始人是地球上第三富有的人  > Oracle 报告本季度收...
+## 10. 我们刚刚发布了 Gemma 4——我们迄今为止最智能的开放模型。  Gemma 4 采用与 Gemi...
 
-**来源：** @chakravartiiin
+**来源：** @google
 
 ### 📝 原文
 
-> Oracle is worth $400 billion 
+We just released Gemma 4  — our most intelligent open models to date.
 
-> Its founder is the third richest man on the planet
+Built from the same world-class research as Gemini 3, Gemma 4 brings breakthrough intelligence directly to your own hardware for advanced reasoning and agentic workflows.
 
-> Oracle reported a 22% revenue gain this quarter 
-
-Still they fired 30,000 employees over email to fund AI Data centers. You don't hate billionaires enough.
+Released under a commercially permissive Apache 2.0 license so anyone can build powerful AI tools. 🧵↓
 
 ### 🌐 专业翻译
 
-> 甲骨文价值4000亿美元 
+我们刚刚发布了 Gemma 4——我们迄今为止最智能的开放模型。
 
-> 其创始人是地球上第三富有的人
+Gemma 4 采用与 Gemini 3 相同的世界一流研究成果构建而成，可直接为您自己的硬件带来突破性智能，以实现高级推理和代理工作流程。
 
-> Oracle 报告本季度收入增长 22% 
-
-尽管如此，他们还是通过电子邮件解雇了 30,000 名员工，以资助人工智能数据中心。你还不够恨亿万富翁。
+在商业许可的 Apache 2.0 许可证下发布，因此任何人都可以构建强大的 AI 工具。 🧵↓
 
 ### 💡 深度解读
 
@@ -295,11 +293,11 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 4252182 | 点赞 105940 | 转发 13611
+📊 **数据：** 浏览 2307758 | 点赞 10805 | 转发 1420
 
-🔗 [查看原文](https://x.com/chakravartiiin/status/2039155738514452481)
+🔗 [查看原文](https://x.com/google/status/2039736220834480233)
 
 ---
 
 
-*生成时间：2026-04-02 06:30:16*
+*生成时间：2026-04-03 06:30:23*
