@@ -1,29 +1,25 @@
 ---
-title: 2026-04-05 科技金融热点速递
+title: 2026-04-06 科技金融热点速递
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop
 ---
 
-# 2026-04-05 科技金融热点速递
+# 2026-04-06 科技金融热点速递
 
 精选自 X 平台 AI 领域热门讨论，每日更新。
 
 ---
 
-## 1. 从太平洋时间明天中午 12 点开始，Claude 订阅将不再涵盖 OpenClaw 等第三方工具的使...
+## 1. 尝试使用 X API
 
-**来源：** @bcherny
+**来源：** @elonmusk
 
 ### 📝 原文
 
-Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party tools like OpenClaw.
-
-You can still use these tools with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key.
+Try using the X API
 
 ### 🌐 专业翻译
 
-从太平洋时间明天中午 12 点开始，Claude 订阅将不再涵盖 OpenClaw 等第三方工具的使用。
-
-您仍然可以通过额外的使用捆绑包（现已打折）或 Claude API 密钥在 Claude 登录的情况下使用这些工具。
+尝试使用 X API
 
 ### 💡 深度解读
 
@@ -31,55 +27,35 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 5083579 | 点赞 8099 | 转发 650
+📊 **数据：** 浏览 15953081 | 点赞 20412 | 转发 3692
 
-🔗 [查看原文](https://x.com/bcherny/status/2040206440556826908)
+🔗 [查看原文](https://x.com/elonmusk/status/2040685567592317031)
 
 ---
 
-## 2. 我教Claude像穴居人一样说话，减少使用 75% 的代币。  普通Claude：网络搜索任务约 1...
+## 2. 你的加密推特值多少钱？  我用 vivicoded 编写了一个工具，只有一个主提示和一些细微的更改，...
 
-**来源：** @om_patel5
+**来源：** @gyokeres_eth
 
 ### 📝 原文
 
-I taught Claude to talk like a caveman to use 75% less tokens.
+How much is your Crypto Twitter worth?
 
-normal claude: ~180 tokens for a web search task
+I vibecoded a tool with just one single main prompt and some minor changes for more accurate results for you to check how much your Crypto Twitter account is worth and to discover which coin matches your CT personality
 
-caveman claude: ~45 tokens for the same task
+Made fully with the new @SurfAI Studio feature (not sponsored, just for fun!)
 
-"I executed the web search tool" = 8 tokens
-caveman version: "Tool work" = 2 tokens
-
-every single grunt swap saves 6-10 tokens. across a FULL task that's 50-100 tokens saved
-
-why does it work? caveman claude doesn't explain itself. it does its task first. gives the result. then stops.
-
-no "I'd be happy to help you with that." no "Let me s
+Check here: http://ct-worth-tool.surf.computer
 
 ### 🌐 专业翻译
 
-我教Claude像穴居人一样说话，减少使用 75% 的代币。
+你的加密推特值多少钱？
 
-普通Claude：网络搜索任务约 180 个令牌
+我用 vivicoded 编写了一个工具，只有一个主提示和一些细微的更改，以获得更准确的结果，以便您检查您的加密货币 Twitter 帐户的价值，并发现哪种硬币符合您的 CT 个性
 
-Caveman claude：同一任务约 45 个代币
+完全使用新的 @SurfAI Studio 功能制作（不是赞助，只是为了好玩！）
 
-“我执行了网络搜索工具”= 8 个令牌
-穴居人版本：“工具工作”= 2 个代币
-
-每一次 grunt 交换可节省 6-10 个代币。完成完整任务可节省 50-100 个代币
-
-为什么它有效？穴居人Claude没有解释自己。它首先执行其任务。给出结果。然后停止。
-
-否“我很乐意为您提供帮助。”没有“让我为你搜索网络”不再有不必要的填充词
-
-“结果。完成。我停下来。”
-
-烧伤减少 50-75%
-
-随着使用限制每周变得越来越严格，这可能是目前最实用的黑客方法
+检查这里：http://ct-worth-tool.surf.computer
 
 ### 💡 深度解读
 
@@ -87,31 +63,155 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2450965 | 点赞 24046 | 转发 1435
+📊 **数据：** 浏览 604391 | 点赞 1400 | 转发 89
 
-🔗 [查看原文](https://x.com/om_patel5/status/2040279104885314001)
+🔗 [查看原文](https://x.com/gyokeres_eth/status/2040718056322736395)
 
 ---
 
-## 3. 醒来，我的提及充满了这些  我和@davemorin 都试图向 Anthropic 讲道理，我们最好...
+## 3. 新消息：音乐家墨菲·坎贝尔 (Murphy Campbell) 表示，她没有在 YouTube 上赚...
+
+**来源：** @unlimited_ls
+
+### 📝 原文
+
+NEW: Musician Murphy Campbell says she isn’t making money on YouTube because an AI company is cloning her music and filing copyright claims against her own videos
+
+“An entity called Timeless Sounds IR uploaded AI-generated versions of my songs to all major streaming platforms...
+
+They used a distributor, which I just discovered, and that distributor’s name is Vydia. They used Vydia to upload all these AI-generated songs.
+
+Vydia has since decided to make copyright claims on all of the videos that
+
+### 🌐 专业翻译
+
+新消息：音乐家墨菲·坎贝尔 (Murphy Campbell) 表示，她没有在 YouTube 上赚钱，因为一家人工智能公司正在克隆她的音乐并对她自己的视频提出版权索赔
+
+“一个名为 Timeless Sounds IR 的实体将我的歌曲的人工智能生成版本上传到所有主要流媒体平台......
+
+他们使用了我刚刚发现的经销商，该经销商的名字叫 Vydia。他们使用 Vydia 上传所有这些人工智能生成的歌曲。
+
+此后，Vydia 决定对所有用于让 AI 引擎听起来像我的视频提出版权主张。
+
+因此，Vydia 挺身而出，在我的 YouTube 页面上提出了版权声明。
+
+因为 YouTube 不会亲自审核这些事情，所以我不再在 YouTube 上赚钱。
+
+Vydia 通过我自己的视频在 YouTube 上赚钱，这些视频是我在自己的后院演奏自己的班卓琴，用人工智能生成的音乐演奏传统民歌，其中一些是为我自己的家人唱的。”
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 1075179 | 点赞 31687 | 转发 7176
+
+🔗 [查看原文](https://x.com/unlimited_ls/status/2040577536136974444)
+
+---
+
+## 4. 我们对 X API 进行了重大升级：  • 按使用付费现已在全球范围内上市  • XMCP 服务器 ...
+
+**来源：** @chrisparkx
+
+### 📝 原文
+
+We’ve made major upgrades to X API:
+
+• Pay-Per-Use now GA worldwide 
+• XMCP Server + xurl for agents
+• Official Python & TypeScript XDKs
+• API Playground - free realistic simulations
+
+New releases coming will be a game changer.
+
+Start building → https://docs.x.com 🚢
+
+### 🌐 专业翻译
+
+我们对 X API 进行了重大升级：
+
+• 按使用付费现已在全球范围内上市 
+• XMCP 服务器 + 用于代理的 xurl
+• 官方 Python 和 TypeScript XDK
+• API Playground - 免费的真实模拟
+
+新版本的发布将改变游戏规则。
+
+开始构建 → https://docs.x.com 🚢
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 29790198 | 点赞 1885 | 转发 149
+
+🔗 [查看原文](https://x.com/chrisparkx/status/2040770361566826685)
+
+---
+
+## 5. 我告诉你，Anthropic 并不是在构建一个保护人类的人工智能，而是一个会反对人类的人工智能  他...
+
+**来源：** @xfreeze
+
+### 📝 原文
+
+I am telling you, Anthropic is not building an AI that is here to protect humanity, but rather an AI that will turn against it
+
+They're deep into the woke rabbit hole and they do not care about morality
+
+Their AI safety team is a joke. Their moral guide for AI is literally a leftist lunatic with a twisted understanding of reality, who doesn't really care if the end goal causes humanity's end
+
+They have proved this at every opportunity they've had, and it's crystal clear
+
+### 🌐 专业翻译
+
+我告诉你，Anthropic 并不是在构建一个保护人类的人工智能，而是一个会反对人类的人工智能
+
+他们深陷醒来的兔子洞，他们不关心道德
+
+他们的人工智能安全团队就是一个笑话。他们对人工智能的道德指导实际上是一个对现实有着扭曲理解的左派疯子，他并不真正关心最终目标是否会导致人类的终结
+
+他们已经在每一次机会中证明了这一点，而且这是非常清楚的
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 10867485 | 点赞 5336 | 转发 973
+
+🔗 [查看原文](https://x.com/xfreeze/status/2040783176017060285)
+
+---
+
+## 6. Anthropic 现在也阻止了第一方安全带的使用 👀  claude -p --append-sy...
 
 **来源：** @steipete
 
 ### 📝 原文
 
-woke up and my mentions are full of these
+Anthropic now blocks first-party harness use too 👀
 
-Both me and @davemorin tried to talk sense into Anthropic, best we managed was delaying this for a week.
+claude -p --append-system-prompt 'A personal assistant running inside OpenClaw.' 'is clawd here?'
 
-Funny how timings match up, first they copy some popular features into their closed harness, then they lock out open source.
+→ 400 Third-party apps now draw from your extra usage, not your plan limits.
+
+So yeah: bring your own coin 🪙🦞
 
 ### 🌐 专业翻译
 
-醒来，我的提及充满了这些
+Anthropic 现在也阻止了第一方安全带的使用 👀
 
-我和@davemorin 都试图向 Anthropic 讲道理，我们最好的办法就是推迟一周。
+claude -p --append-system-prompt '在 OpenClaw 中运行的个人助理。' “这里有爪子吗？”
 
-有趣的是，时间安排是如何匹配的，首先他们将一些流行的功能复制到他们的封闭工具中，然后他们锁定​​开源。
+→ 400 个第三方应用程序现在从您的额外使用量中提取，而不是您的计划限制。
+
+所以是的：带上你自己的硬币🪙🦞
 
 ### 💡 深度解读
 
@@ -119,23 +219,83 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1064741 | 点赞 4928 | 转发 420
+📊 **数据：** 浏览 772836 | 点赞 3723 | 转发 184
 
-🔗 [查看原文](https://x.com/steipete/status/2040209434019082522)
+🔗 [查看原文](https://x.com/steipete/status/2040811558427648357)
 
 ---
 
-## 4. 使用 Grok Imagine 可以做什么
+## 7. 这是法尔扎百科。  我让一位法学硕士从我的日记、Apple Notes 和一些 iMessage 会...
+
+**来源：** @farzatv
+
+### 📝 原文
+
+This is Farzapedia.
+
+I had an LLM take 2,500 entries from my diary, Apple Notes, and some iMessage convos to create a personal Wikipedia for me.
+
+It made 400 detailed articles for my friends, my startups, research areas, and even my favorite animes and their impact on me complete with backlinks.
+
+But, this Wiki was not built for me! I built it for my agent!
+
+The structure of the wiki files and how it's all backlinked is very easily crawlable by any agent + makes it a truly useful knowledge base.
+
+### 🌐 专业翻译
+
+这是法尔扎百科。
+
+我让一位法学硕士从我的日记、Apple Notes 和一些 iMessage 会话中提取了 2,500 个条目，为我创建了一个个人维基百科。
+
+它为我的朋友、我的初创公司、研究领域，甚至我最喜欢的动漫及其对我的影响制作了 400 篇详细文章，并附有反向链接。
+
+但是，这个维基不是为我建立的！我为我的经纪人建造的！
+
+wiki 文件的结构以及它的反向链接方式很容易被任何代理抓取 + 使其成为真正有用的知识库。
+
+我可以在 wiki 上启动 Claude Code，并从 index.md（我所有文章的目录）开始，代理在深入研究我的 wiki 上的特定页面方面做得非常好，当我有查询时，它需要上下文。
+
+例如，当尝试制作一个新的登陆页面时，我可能会问：
+
+“我正在尝试根据我的新想法设计这个登陆页面。请查看最近启发我的图像和电影，并为我提供新的副本和美学的想法”。
+
+在我的日记中，我记录了所有内容：学习、人物、灵感、有趣的链接、图像。
+
+因此，特工阅读了我的 wiki，并从吉卜力工作室纪录片的笔记中调出了我的“哲学”文章、我截取了其登陆页面的 YC 公司的“​​竞争对手”文章，以及我多年前保存的 1970 年代披头士乐队商品的图片。它提供了一个很好的答案。
+
+一年前，我用 RAG 构建了一个与此类似的系统，但它很糟糕。
+
+让代理通过其实际理解的文件系统找到所需内容的知识库效果会更好。
+
+现在最神奇的事情是，当我向我的 wiki 添加新内容（文章、inspo 图像、会议记录）时，系统可能会更新 2-3 篇认为上下文所属的不同文章，或者只是创建一篇新文章。
+
+它就像你大脑的超级天才图书馆员，总是为你完美地归档资料，还让你轻松查询对你有用的任务的知识（例如设计、产品、写作等），而且永远不会厌倦。
+
+我可能会在下周将其产品化，如果您对此感兴趣，请私信我+告诉我您的用例！
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 1154880 | 点赞 3716 | 转发 283
+
+🔗 [查看原文](https://x.com/farzatv/status/2040563939797504467)
+
+---
+
+## 8. API 更新为何如此有趣
 
 **来源：** @elonmusk
 
 ### 📝 原文
 
-What you can do with Grok Imagine
+What makes the API update interesting
 
 ### 🌐 专业翻译
 
-使用 Grok Imagine 可以做什么
+API 更新为何如此有趣
 
 ### 💡 深度解读
 
@@ -143,35 +303,68 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 42140224 | 点赞 44958 | 转发 4788
+📊 **数据：** 浏览 4630354 | 点赞 12011 | 转发 2693
 
-🔗 [查看原文](https://x.com/elonmusk/status/2040202348325392463)
+🔗 [查看原文](https://x.com/elonmusk/status/2040829476511285517)
 
 ---
 
-## 5. 哇，这条推文非常火爆！  我想在“想法文件”中分享该推文的可能略有改进的版本。想法文件的想法是，在这...
+## 9. 介绍：漏洞 - 一个代理系统，将你的自然语言道德信念转化为编纂的法律，然后运行对抗代理，试图提出违反...
+
+**来源：** @brendanh0gan
+
+### 📝 原文
+
+introducing: Loophole - an agentic system that translates your natural language moral beliefs into codified laws, and then runs adversarial agents that try to come up with legal scenarios that break your laws - either a scenario that is immoral and legal, or vice versa - a judge agent fixes the law if it can do so consistently, but if there is an inconsistency you as the user must decide what is best. 
+
+you can work with the system until your legal framework can't be broken by the agents  - and 
+
+### 🌐 专业翻译
+
+介绍：漏洞 - 一个代理系统，将你的自然语言道德信念转化为编纂的法律，然后运行对抗代理，试图提出违反你的法律的法律场景 - 要么是不道德和合法的场景，反之亦然 - 法官代理修复法律，如果它可以一致地这样做，但如果存在不一致，你作为用户必须决定什么是最好的。 
+
+你可以使用这个系统，直到你的法律框架不能被特工破坏——并且你得到一个与你的道德准则相一致的法律系统作为输出 
+
+更多详细信息和代码如下
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 296407 | 点赞 2033 | 转发 150
+
+🔗 [查看原文](https://x.com/brendanh0gan/status/2040553395329675375)
+
+---
+
+## 10. Farzapedia，Farza 的个人维基百科，是我的 Wiki LLM 推文的一个很好的例子。 ...
 
 **来源：** @karpathy
 
 ### 📝 原文
 
-Wow, this tweet went very viral!
+Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.
 
-I wanted share a possibly slightly improved version of the tweet in an "idea file". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the other person's agent customizes & builds it for your specific needs.
+I really like this approach to personalization in a number of ways, compared to "status quo" of an AI that allegedly gets better the more you use it or something:
 
-So here's the idea in a gist format: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-
-You can give this to your agent and it can build 
+1. Explicit. The memory artifact is explicit and navigable (the wiki), you can see exactly what the AI does and does not know and you can inspect and manage this artifact, even if you don't do the direct text writing (the LLM does). The knowledge of yo
 
 ### 🌐 专业翻译
 
-哇，这条推文非常火爆！
+Farzapedia，Farza 的个人维基百科，是我的 Wiki LLM 推文的一个很好的例子。
 
-我想在“想法文件”中分享该推文的可能略有改进的版本。想法文件的想法是，在这个LLM代理时代，共享特定代码/应用程序的点/需要较少，您只需共享想法，然后其他人的代理根据您的特定需求定制和构建它。
+我真的很喜欢这种个性化方法，在很多方面，与人工智能的“现状”相比，据说你使用它越多，它就会变得越好：
 
-所以这是要点格式的想法：https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+1. 明确。记忆工件是明确且可导航的（维基），您可以准确地看到人工智能做什么和不知道什么，并且您可以检查和管理这个工件，即使您不直接进行文本编写（法学硕士）。你的知识不是隐含的和未知的，而是明确的和可见的。
+2. 你的。你的数据是你的，在你的本地计算机上，而不是在某些特定的人工智能提供商的系统中，无法提取它。您的信息由您掌控。 
+3. 通过应用程序归档。这里的内存是通用格式（图像、Markdown）的文件的简单集合。这意味着数据是可互操作的：您可以使用大量工具/CLI 或任何您想要的信息来处理这些信息，因为它只是文件。代理可以将整个 Unix 工具包应用于它们。他们可以自然地阅读和理解它们。任何类型的数据都可以作为输入导入到文件中，并且可以使用任何类型的界面来查看它们作为输出。例如。您可以使用 Obsidian 来查看它们或编写您自己的代码。在“File over app”中搜索有关此理念的文章。
+4. 自带。您可以使用任何您想要“插入”此信息的人工智能 - Claude、Codex、OpenCode 等等。您甚至可以考虑采用开源人工智能并在您的维基上对其进行微调 - 原则上，该人工智能可以“了解”您的权重，而不仅仅是关注您的数据。
 
-你可以把这个给你的代理人，它可以为你建立你自己的LLM wiki并指导你如何使用它等。它故意保持一点抽象/模糊，因为有很多方向可以接受它。ofc，人们可以调整想法或在讨论中贡献自己的想法，这很酷。
+因此，这种个性化方法让“您”完全掌控。数据是你的。采用通用格式。明确且可检查。使用你想要的任何人工智能，让人工智能公司保持警惕！ :)
+
+当然，这并不是让人工智能了解你的最简单的方法——它确实需要你管理文件目录等，但代理也让这一切变得非常简单，并且可以为你提供很多帮助。我想可能会出现一些产品来让这一切变得更容易，但在我看来，“代理熟练程度”是 21 世纪的核心技能。这些都是非常强大的工具 - 他们会说英语，并且可以为您完成所有计算机操作。趁这个机会，尝试一下和大家一起玩一玩。
 
 ### 💡 深度解读
 
@@ -179,145 +372,11 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1516633 | 点赞 12010 | 转发 1028
+📊 **数据：** 浏览 794156 | 点赞 7048 | 转发 639
 
-🔗 [查看原文](https://x.com/karpathy/status/2040470801506541998)
-
----
-
-## 6. 距离没有设计师或工程师的日子还有几周的时间，但还有第三个秘密
-
-**来源：** @nikitabier
-
-### 📝 原文
-
-We’re a few weeks away from where there will be no designers or engineers, but a third secret thing
-
-### 🌐 专业翻译
-
-距离没有设计师或工程师的日子还有几周的时间，但还有第三个秘密
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 823726 | 点赞 9023 | 转发 530
-
-🔗 [查看原文](https://x.com/nikitabier/status/2040297547974291463)
+🔗 [查看原文](https://x.com/karpathy/status/2040572272944324650)
 
 ---
 
-## 7. 特斯拉汽车，尤其是配备 FSD 的汽车，是世界上最安全的
 
-**来源：** @elonmusk
-
-### 📝 原文
-
-Tesla cars, especially with FSD, are the safest in the world
-
-### 🌐 专业翻译
-
-特斯拉汽车，尤其是配备 FSD 的汽车，是世界上最安全的
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 71184882 | 点赞 56406 | 转发 4607
-
-🔗 [查看原文](https://x.com/elonmusk/status/2040198453607944608)
-
----
-
-## 8. Grok 会不断更新，因此几天前对您不起作用的东西现在很可能会起作用
-
-**来源：** @elonmusk
-
-### 📝 原文
-
-Grok is constantly being updated, so there is a good chance that what didn’t work for you even a few days ago might work now
-
-### 🌐 专业翻译
-
-Grok 会不断更新，因此几天前对您不起作用的东西现在很可能会起作用
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 81934233 | 点赞 104831 | 转发 6821
-
-🔗 [查看原文](https://x.com/elonmusk/status/2040197603045093631)
-
----
-
-## 9. 突发🚨：这是极其违法的。这就是马修·加拉格尔 (Matthew Gallagher)，他创建了 80...
-
-**来源：** @brand
-
-### 📝 原文
-
-BREAKING 🚨: This is extremely illegal. This is Matthew Gallagher, who created 800+ Facebook accounts posing as fake doctors to advertise on Facebook, and went on to build a GLP-1 telehealth company with just $20,000, AI, and only one full-time teammate, his brother. The New York Times fabricated their AI startup story.
-
-It generated 401M USD in 2025 and could reach 1.8B USD in 2026. Medvi received FDA Warning Letter #721455 in February 2026 for misbranding violations. Its clinician network, Open
-
-### 🌐 专业翻译
-
-突发🚨：这是极其违法的。这就是马修·加拉格尔 (Matthew Gallagher)，他创建了 800 多个 Facebook 帐户，冒充假医生在 Facebook 上做广告，然后仅用 2 万美元、人工智能和一名全职队友（他的兄弟）创建了一家 GLP-1 远程医疗公司。 《纽约时报》捏造了他们的人工智能创业故事。
-
-它在 2025 年产生了 4.01 亿美元的收入，并可能在 2026 年达到 1.80 亿美元。Medvi 于 2026 年 2 月收到 FDA 警告信 #721455，原因是违规品牌。其临床医生网络 OpenLoop 于 2026 年 1 月遭遇数据泄露，导致 160 万条患者记录泄露。 
-
-Futurism 报道称，他们在营销中使用了人工智能生成的深度伪造前后照片。 2025 年 11 月，特拉华州提起了集体诉讼。他们还在 Facebook 上运行 800 多个假医生账户来销售复合 GLP-1。
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 767417 | 点赞 5784 | 转发 1482
-
-🔗 [查看原文](https://x.com/brand/status/2040315601831510509)
-
----
-
-## 10. 它发生了。  Mac Studio 就在这里。 Gemma 4 31b @GoogleDeepMin...
-
-**来源：** @jessegenet
-
-### 📝 原文
-
-It’s happened.
-
-Mac Studio is here. Gemma 4 31b @GoogleDeepMind installed, chatting with my main @openclaw for $0 in token expenses now...
-
-I've burned $5-6k on tokens on my crazy ideas over past few months, so this mac studio should pencil out for me within 3 months or so 🤓
-
-### 🌐 专业翻译
-
-它发生了。
-
-Mac Studio 就在这里。 Gemma 4 31b @GoogleDeepMind 已安装，现在与我的主要 @openclaw 聊天，代币费用为 0 美元...
-
-在过去的几个月里，我已经为自己的疯狂想法烧掉了 5-6,000 美元的代币，所以这个 mac 工作室应该会在 3 个月左右的时间内为我完成 🤓
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 540347 | 点赞 4568 | 转发 288
-
-🔗 [查看原文](https://x.com/jessegenet/status/2040204860080230594)
-
----
-
-
-*生成时间：2026-04-05 06:30:10*
+*生成时间：2026-04-06 06:30:11*
