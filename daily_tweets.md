@@ -147,7 +147,7 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 29790198 | 点赞 1885 | 转发 149
+📊 **数据：** 浏览 29822705 | 点赞 1885 | 转发 149
 
 🔗 [查看原文](https://x.com/chrisparkx/status/2040770361566826685)
 
@@ -183,7 +183,7 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 10867485 | 点赞 5336 | 转发 973
+📊 **数据：** 浏览 10853299 | 点赞 5336 | 转发 973
 
 🔗 [查看原文](https://x.com/xfreeze/status/2040783176017060285)
 
@@ -219,7 +219,7 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 772836 | 点赞 3723 | 转发 184
+📊 **数据：** 浏览 772836 | 点赞 3724 | 转发 184
 
 🔗 [查看原文](https://x.com/steipete/status/2040811558427648357)
 
@@ -309,37 +309,7 @@ AI服务暂时不可用，使用基础解读。
 
 ---
 
-## 9. 介绍：漏洞 - 一个代理系统，将你的自然语言道德信念转化为编纂的法律，然后运行对抗代理，试图提出违反...
-
-**来源：** @brendanh0gan
-
-### 📝 原文
-
-introducing: Loophole - an agentic system that translates your natural language moral beliefs into codified laws, and then runs adversarial agents that try to come up with legal scenarios that break your laws - either a scenario that is immoral and legal, or vice versa - a judge agent fixes the law if it can do so consistently, but if there is an inconsistency you as the user must decide what is best. 
-
-you can work with the system until your legal framework can't be broken by the agents  - and 
-
-### 🌐 专业翻译
-
-介绍：漏洞 - 一个代理系统，将你的自然语言道德信念转化为编纂的法律，然后运行对抗代理，试图提出违反你的法律的法律场景 - 要么是不道德和合法的场景，反之亦然 - 法官代理修复法律，如果它可以一致地这样做，但如果存在不一致，你作为用户必须决定什么是最好的。 
-
-你可以使用这个系统，直到你的法律框架不能被特工破坏——并且你得到一个与你的道德准则相一致的法律系统作为输出 
-
-更多详细信息和代码如下
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 296407 | 点赞 2033 | 转发 150
-
-🔗 [查看原文](https://x.com/brendanh0gan/status/2040553395329675375)
-
----
-
-## 10. Farzapedia，Farza 的个人维基百科，是我的 Wiki LLM 推文的一个很好的例子。 ...
+## 9. Farzapedia，Farza 的个人维基百科，是我的 Wiki LLM 推文的一个很好的例子。 ...
 
 **来源：** @karpathy
 
@@ -375,6 +345,30 @@ AI服务暂时不可用，使用基础解读。
 📊 **数据：** 浏览 794156 | 点赞 7048 | 转发 639
 
 🔗 [查看原文](https://x.com/karpathy/status/2040572272944324650)
+
+---
+
+## 10. 升级我们的 API
+
+**来源：** @elonmusk
+
+### 📝 原文
+
+Upgrades to our API
+
+### 🌐 专业翻译
+
+升级我们的 API
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 29414669 | 点赞 12712 | 转发 1408
+
+🔗 [查看原文](https://x.com/elonmusk/status/2040829274991857696)
 
 ---
 
