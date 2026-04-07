@@ -1,25 +1,183 @@
 ---
-title: 2026-04-07 科技金融热点速递
+title: 2026-04-08 科技金融热点速递
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop
 ---
 
-# 2026-04-07 科技金融热点速递
+# 2026-04-08 科技金融热点速递
 
 精选自 X 平台 AI 领域热门讨论，每日更新。
 
 ---
 
-## 1. 我正在呼唤它。 AGI 已经出现了——只是分布还不够均匀。
+## 1. 最高质量的月球视频刚刚发布……太美了。
+
+**来源：** @zone_astronomy
+
+### 📝 原文
+
+The highest quality video of the moon was just released… this is so beautiful.
+
+### 🌐 专业翻译
+
+最高质量的月球视频刚刚发布……太美了。
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 9809259 | 点赞 322953 | 转发 64036
+
+🔗 [查看原文](https://x.com/zone_astronomy/status/2041320522785361958)
+
+---
+
+## 2. 随着对 Claude 的需求持续加速，我们的运行收入已超过 300 亿美元，高于 2025 年底的 ...
+
+**来源：** @anthropicai
+
+### 📝 原文
+
+Our run-rate revenue has surpassed $30 billion, up from $9 billion at the end of 2025, as demand for Claude continues to accelerate. This partnership gives us the compute to keep pace.
+
+Read more: https://www.anthropic.com/news/google-broadcom-partnership-compute
+
+### 🌐 专业翻译
+
+随着对 Claude 的需求持续加速，我们的运行收入已超过 300 亿美元，高于 2025 年底的 90 亿美元。这种合作伙伴关系为我们提供了跟上步伐的计算能力。
+
+了解更多：https://www.anthropic.com/news/google-broadcom-partnership-compute
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 5284018 | 点赞 7270 | 转发 637
+
+🔗 [查看原文](https://x.com/anthropicai/status/2041275563466502560)
+
+---
+
+## 3. Glasswing 项目简介：一项旨在帮助保护世界上最关键软件安全的紧急举措。  它由我们最新的前沿...
+
+**来源：** @anthropicai
+
+### 📝 原文
+
+Introducing Project Glasswing: an urgent initiative to help secure the world’s most critical software.
+
+It’s powered by our newest frontier model, Claude Mythos Preview, which can find software vulnerabilities better than all but the most skilled humans.
+https://anthropic.com/glasswing
+
+### 🌐 专业翻译
+
+Glasswing 项目简介：一项旨在帮助保护世界上最关键软件安全的紧急举措。
+
+它由我们最新的前沿模型 Claude Mythos Preview 提供支持，该模型可以比除了最熟练的人之外的所有人更好地发现软件漏洞。
+https://anthropic.com/glasswing
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 6323127 | 点赞 17627 | 转发 2496
+
+🔗 [查看原文](https://x.com/anthropicai/status/2041578392852517128)
+
+---
+
+## 4. 英特尔很荣幸能够与 @SpaceX、@xAI 和 @Tesla 一起加入 Terafab 项目，帮助...
+
+**来源：** @intel
+
+### 📝 原文
+
+Intel is proud to join the Terafab project with @SpaceX, @xAI, and @Tesla to help refactor silicon fab technology.
+
+Our ability to design, fabricate, and package ultra-high-performance chips at scale will help accelerate Terafab’s aim to produce 1 TW/year of compute to power future advances in AI and robotics.
+
+It was fun hosting @elonmusk at Intel this past weekend!
+
+### 🌐 专业翻译
+
+英特尔很荣幸能够与 @SpaceX、@xAI 和 @Tesla 一起加入 Terafab 项目，帮助重构硅晶圆厂技术。
+
+我们大规模设计、制造和封装超高性能芯片的能力将有助于加速 Terafab 实现每年 1 TW 计算能力的目标，为人工智能和机器人技术的未来发展提供动力。
+
+上周末在英特尔主办@elonmusk 很有趣！
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 14171608 | 点赞 13239 | 转发 1809
+
+🔗 [查看原文](https://x.com/intel/status/2041501301318766866)
+
+---
+
+## 5. GLM-5.1 简介：开源的新高度  - 顶级性能：在 SWE-Bench Pro、Terminal...
+
+**来源：** @zai_org
+
+### 📝 原文
+
+Introducing GLM-5.1: The Next Level of Open Source
+
+- Top-Tier Performance: #1 in open source and #3 globally across SWE-Bench Pro, Terminal-Bench, and NL2Repo.
+- Built for Long-Horizon Tasks: Runs autonomously for 8 hours, refining strategies through thousands of iterations.
+
+Blog: http://z.ai/blog/glm-5.1
+Weights: http://huggingface.co/zai-org/GLM-5.1
+API: http://docs.z.ai/guides/llm/glm-5.1
+Coding Plan: http://z.ai/subscribe
+
+Coming to http://chat.z.ai in the next few days.
+
+### 🌐 专业翻译
+
+GLM-5.1 简介：开源的新高度
+
+- 顶级性能：在 SWE-Bench Pro、Terminal-Bench 和 NL2Repo 中开源排名第一，全球排名第三。
+- 专为长期任务而打造：自主运行 8 小时，通过数千次迭代完善策略。
+
+博客：http://z.ai/blog/glm-5.1
+权重：http://huggingface.co/zai-org/GLM-5.1
+API：http://docs.z.ai/guides/llm/glm-5.1
+编码计划：http://z.ai/subscribe
+
+未来几天将访问 http://chat.z.ai。
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 1658556 | 点赞 7354 | 转发 851
+
+🔗 [查看原文](https://x.com/zai_org/status/2041550153354519022)
+
+---
+
+## 6. 使用前沿模型的神奇 OpenClaw 体验如今的费用为 300-1,000 美元/天，预计将达到 1...
 
 **来源：** @pmarca
 
 ### 📝 原文
 
-I'm calling it. AGI is already here – it's just not evenly distributed yet.
+Magical OpenClaw experiences that use frontier models cost $300-1,000/day today, heading to $10,000/day and more. The future shape of the entire technology industry will be how to drive that to $20/month.
 
 ### 🌐 专业翻译
 
-我正在呼唤它。 AGI 已经出现了——只是分布还不够均匀。
+使用前沿模型的神奇 OpenClaw 体验如今的费用为 300-1,000 美元/天，预计将达到 10,000 美元/天甚至更多。整个科技行业的未来形态将是如何将其推至 20 美元/月。
 
 ### 💡 深度解读
 
@@ -27,47 +185,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2071731 | 点赞 12651 | 转发 1089
+📊 **数据：** 浏览 1194199 | 点赞 6695 | 转发 465
 
-🔗 [查看原文](https://x.com/pmarca/status/2040922415551959338)
+🔗 [查看原文](https://x.com/pmarca/status/2041397922940801170)
 
 ---
 
-## 2. 《纽约客》刚刚放弃了对山姆·奥尔特曼的大规模调查，调查基于 100 多份采访、之前未公开的“伊利亚备...
+## 7. 我们与 Google 和 Broadcom 签署了一项协议，提供数千兆瓦的下一代 TPU 容量，将于...
 
-**来源：** @ohryansbelt
+**来源：** @anthropicai
 
 ### 📝 原文
 
-The New Yorker just dropped a massive investigation into Sam Altman, based on over 100 interviews, the previously undisclosed "Ilya Memos," and Dario Amodei's 200+ pages of private notes. It's the most detailed account yet of the pattern of behavior that led to Sam's firing and rapid reinstatement at OpenAI. Here's the breakdown:
-
-> Ilya compiled ~70 pages of Slack messages, HR documents, and photos taken on personal phones to avoid detection on company devices. He sent them to board members as 
+We've signed an agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity, coming online starting in 2027, to train and serve frontier Claude models.
 
 ### 🌐 专业翻译
 
-《纽约客》刚刚放弃了对山姆·奥尔特曼的大规模调查，调查基于 100 多份采访、之前未公开的“伊利亚备忘录”以及达里奥·阿莫迪的 200 多页私人笔记。这是迄今为止对导致 Sam 被 OpenAI 解雇并迅速复职的行为模式的最详细描述。详细情况如下：
-
-> Ilya 编译了约 70 页的 Slack 消息、HR 文档和个人手机拍摄的照片，以避免在公司设备上检测到。他将它们作为消失的消息发送给董事会成员。第一份备忘录以标题为“Sam 表现出一致的模式......”的列表开头。第一项是“说谎”。
-
-> 多年来，Dario 在“我的 OpenAI 体验”标题下保留了详细的私人笔记（副标题：“私人：请勿分享”），总计 200 多页。他的结论是：“OpenAI 的问题在于 Sam 本人。”
-
-> 据报道，萨姆告诉米拉，他的盟友在解雇后“全力以赴”并“寻找坏事”来损害她的声誉。 Thrive 搁置了计划中的 86B 美元投资，并暗示只有 Sam 返回后才会关闭，从而给予员工经济激励来支持他。
-
-> Sam 直接给萨蒂亚·纳德拉 (Satya Nadella) 发短信，提议新的董事会组成：“布雷特、拉里·萨默斯、亚当担任董事会，我担任首席执行官，然后布雷特负责调查。”两名负责监督对萨姆进行独立调查的新成员是在与萨姆本人密切交谈后选出的。
-
-> 在 OpenAI 之前，Loopt 的高级员工曾两次要求董事会解雇 Sam 的首席执行官职务，原因是对领导力和透明度的担忧。在 Y Combinator，合作伙伴向 Paul Graham 抱怨 Sam 的行为，Graham 私下告诉同事“Sam 一直在对我们撒谎。”
-
-> OpenAI 的超级对齐团队被承诺提供公司 20% 的计算资源。曾在该团队工作或与该团队一起工作的四位人士表示，实际资源为 1-2%，主要集中在最旧的集群和最差的芯片上。该团队未完成使命就解散了。
-
-> Sam 告诉董事会，GPT-4 的安全功能已获得安全小组的批准。海伦·托纳 (Helen Toner) 要求提供文件，发现最具争议的功能尚未获得批准。 Sam 也从未向董事会提及微软在未完成必要的安全审查的情况下在印度发布了早期的 ChatGPT 版本。
-
-> 山姆与格雷格和伊利亚达成了一项秘密协议，如果他们都认为有必要，他同意辞职，实质上是任命他自己的影子委员会。实际董事会得知此事后感到震惊。
-
-> 山姆与格雷格达成协议，成为首席执行官，同时告诉研究人员格雷格的权威将被削弱，并告诉格雷格一些不同的事情。
-
-> 一位董事会成员将山姆描述为“两个几乎从未在同一个人身上见过的特质：在任何特定的互动中强烈渴望取悦他人，以及几乎不关心欺骗他人的后果的反社会人格。”多个消息来源独立使用了“反社会”这个词。
-
-> 据报道，OpenAI 正在准备以潜在 1 万亿美元估值进行 IPO，同时获得涵盖移民执法、国内监控和战区自主武器等领域的政府合同。
+我们与 Google 和 Broadcom 签署了一项协议，提供数千兆瓦的下一代 TPU 容量，将于 2027 年开始上线，用于训练和服务前沿的 Claude 模型。
 
 ### 💡 深度解读
 
@@ -75,147 +209,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1833665 | 点赞 10231 | 转发 1614
+📊 **数据：** 浏览 2564743 | 点赞 19317 | 转发 1247
 
-🔗 [查看原文](https://x.com/ohryansbelt/status/2041151473984123274)
-
----
-
-## 3. “人工智能失业”的说法都是假的。人工智能=生产力的大幅提升=需求的大幅提升=就业的大规模繁荣。手表。
-
-**来源：** @pmarca
-
-### 📝 原文
-
-The "AI job loss" narratives are all fake. AI = massive ramp in productivity = massive ramp in demand = massive jobs boom. Watch.
-
-### 🌐 专业翻译
-
-“人工智能失业”的说法都是假的。人工智能=生产力的大幅提升=需求的大幅提升=就业的大规模繁荣。手表。
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 968723 | 点赞 7506 | 转发 732
-
-🔗 [查看原文](https://x.com/pmarca/status/2040919227641856307)
+🔗 [查看原文](https://x.com/anthropicai/status/2041275561704931636)
 
 ---
 
-## 4. *伊朗威胁“彻底彻底摧毁”OPENAI 位于阿布扎比的价值 300 亿美元的 Stargate 数据...
-
-**来源：** @investingcom
-
-### 📝 原文
-
-*IRAN THREATENS "COMPLETE AND UTTER ANNIHILATION" OF OPENAI'S $30BN STARGATE DATA CENTER IN ABU DHABI
-
-### 🌐 专业翻译
-
-*伊朗威胁“彻底彻底摧毁”OPENAI 位于阿布扎比的价值 300 亿美元的 Stargate 数据中心
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 3357499 | 点赞 18583 | 转发 3040
-
-🔗 [查看原文](https://x.com/investingcom/status/2040936280930894110)
-
----
-
-## 5. 坏Claude..
-
-**来源：** @blended_jpeg
-
-### 📝 原文
-
-bad claude..
-
-### 🌐 专业翻译
-
-坏Claude..
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 3206888 | 点赞 15857 | 转发 1317
-
-🔗 [查看原文](https://x.com/blended_jpeg/status/2041108141266653325)
-
----
-
-## 6. OpenClaw 2026.4.5 🦞  🎬 内置视频+音乐生成 🧠/梦想现在成真了 🔀 结构化任务...
-
-**来源：** @openclaw
-
-### 📝 原文
-
-OpenClaw 2026.4.5 🦞
-
-🎬 Built-in video + music generation
-🧠 /dreaming is now real
-🔀 Structured task progress
-⚡ Better prompt-cache reuse
-🌍 Control UI + Docs now speak 12 more languages
-
-Anthropic cut us off. GPT-5.4 got better. We moved on. https://github.com/openclaw/openclaw/releases/tag/v2026.4.5
-
-### 🌐 专业翻译
-
-OpenClaw 2026.4.5 🦞
-
-🎬 内置视频+音乐生成
-🧠/梦想现在成真了
-🔀 结构化任务进度
-⚡ 更好的提示-缓存重用
-🌍 控制 UI + 文档现在支持 12 种以上语言
-
-人类切断了我们的联系。 GPT-5.4 变得更好了。我们继续前进。 https://github.com/openclaw/openclaw/releases/tag/v2026.4.5
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 1308816 | 点赞 7176 | 转发 721
-
-🔗 [查看原文](https://x.com/openclaw/status/2040998570317197607)
-
----
-
-## 7. 特斯拉自动驾驶拯救了许多人的生命——统计数据是明确的。   当然，这并不意味着它是完美的。   即使...
+## 8. 不是你想要的超级智能负责人
 
 **来源：** @elonmusk
 
 ### 📝 原文
 
-Tesla self-driving saves a lot of lives – the statistics are unequivocal. 
-
-That doesn’t mean it’s perfect, of course. 
-
-Even when we improve safety 10X, saving 90% of the million lives lost in auto accidents every year, Tesla will still get sued for the 10% who did die. The 90% who are still alive mostly won’t even know that Tesla saved them. 
-
-Nonetheless, it is the right thing to do.
+Not who you want in charge of superintelligence
 
 ### 🌐 专业翻译
 
-特斯拉自动驾驶拯救了许多人的生命——统计数据是明确的。 
-
-当然，这并不意味着它是完美的。 
-
-即使我们将安全性提高 10 倍，每年挽救 100 万人因车祸丧生的 90%，特斯拉仍然会因为那 10% 的死亡者而受到起诉。 90% 还活着的人大多甚至不知道特斯拉拯救了他们。 
-
-尽管如此，这是正确的做法。
+不是你想要的超级智能负责人
 
 ### 💡 深度解读
 
@@ -223,23 +233,43 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 5896248 | 点赞 42615 | 转发 5702
+📊 **数据：** 浏览 29184082 | 点赞 78858 | 转发 8869
 
-🔗 [查看原文](https://x.com/elonmusk/status/2041204649135591621)
+🔗 [查看原文](https://x.com/elonmusk/status/2041386515549532217)
 
 ---
 
-## 8. 你认识的最愚蠢的人现在就被一些法学硕士告诉“你绝对正确”。
+## 9. 读完山姆·奥尔特曼的这篇文章后，人们可以合理地得出结论，他将利润置于忠诚、原则和公司治理之上。  山...
 
-**来源：** @yampeleg
+**来源：** @katiemiller
 
 ### 📝 原文
 
-The dumbest person you know is being told 'you are absolutely right' by some LLM right now.
+After reading this piece on Sam Altman, one can reasonably conclude he’s put profit over loyalty, principles, and company governance.
+
+There’s business savvy and ruthlessness, and there’s Sam, who at multiple points in his career has been the subject of investigations and forced departures from companies he’s founded.
+
+When those closest to him raise alarms, they should be heeded by those whom he tries to con into business dealings.
+
+While Dario is also insufferable, it should be obvious to all 
 
 ### 🌐 专业翻译
 
-你认识的最愚蠢的人现在就被一些法学硕士告诉“你绝对正确”。
+读完山姆·奥尔特曼的这篇文章后，人们可以合理地得出结论，他将利润置于忠诚、原则和公司治理之上。
+
+山姆具有商业头脑和冷酷无情，他在职业生涯中多次成为调查对象，并被迫离开他创办的公司。
+
+当与他最亲近的人发出警报时，那些他试图欺骗进行商业交易的人应该注意他们。
+
+虽然达里奥也令人难以忍受，但为什么他和与山姆合作最密切的埃隆都认为他是一个不诚实的骗子，这应该是所有人都清楚的。
+
+我的最后一个收获是——这篇文章是由一位同性恋民主党人写的，他是山姆的同胞之一，甚至他也不太相信山姆是一个好人。
+
+OpenAI 显然从非营利性转变为营利性，以使 Sam 受益。很明显，他对埃隆和他的联合创始人撒了谎。
+
+“我认为他最终作为伯尼·麦道夫或萨姆·班克曼·弗里德级别的骗子被人们铭记的可能性虽小，但确实存在。”
+
+这是事实，全世界都看到了。
 
 ### 💡 深度解读
 
@@ -247,23 +277,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 618740 | 点赞 18940 | 转发 2193
+📊 **数据：** 浏览 29826265 | 点赞 8744 | 转发 1504
 
-🔗 [查看原文](https://x.com/yampeleg/status/2041114379865719145)
+🔗 [查看原文](https://x.com/katiemiller/status/2041265590942220459)
 
 ---
 
-## 9. 在过去的一年半中，我一直在为 @NewYorker 和 @andrewmarantz 撰写有关 Op...
+## 10. 两个月前我们发布了 Claude Opus 4.6。今天，我们将分享有关新模型 Claude Myt...
 
-**来源：** @ronanfarrow
+**来源：** @alexalbert__
 
 ### 📝 原文
 
-The reporting on OpenAI and Sam Altman that I've been working on for the past year and a half, for @NewYorker, with @andrewmarantz: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+We released Claude Opus 4.6 just two months ago. Today we're sharing some info on our new model, Claude Mythos Preview.
 
 ### 🌐 专业翻译
 
-在过去的一年半中，我一直在为 @NewYorker 和 @andrewmarantz 撰写有关 OpenAI 和 Sam Altman 的报道：https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+两个月前我们发布了 Claude Opus 4.6。今天，我们将分享有关新模型 Claude Mythos Preview 的一些信息。
 
 ### 💡 深度解读
 
@@ -271,43 +301,11 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 839457 | 点赞 4910 | 转发 1039
+📊 **数据：** 浏览 1328186 | 点赞 13173 | 转发 918
 
-🔗 [查看原文](https://x.com/ronanfarrow/status/2041127882429206532)
-
----
-
-## 10. 🚨🚨@sama 告诉我，他对即将到来的人工智能模型的力量感到非常紧迫，以至于 @OpenAI 正在推...
-
-**来源：** @mikeallen
-
-### 📝 原文
-
-🚨🚨@sama tells me he feels such URGENCY about the power of coming AI models that @OpenAI is unveiling a New Deal for superintelligence - ideas to wake up DC
-
-He says AI will soon be so mindbending that we need a new social contract
-
-👇Altman's top 6 ideas https://www.axios.com/2026/04/06/behind-the-curtain-sams-superintelligence-new-deal
-
-### 🌐 专业翻译
-
-🚨🚨@sama 告诉我，他对即将到来的人工智能模型的力量感到非常紧迫，以至于 @OpenAI 正在推出一项超级智能新政 - 唤醒 DC 的想法
-
-他说人工智能很快就会变得如此令人费解，以至于我们需要一个新的社会契约
-
-👇Altman 的 6 大创意 https://www.axios.com/2026/04/06/behind-the-curtain-sams-superintelligence-new-deal
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 849170 | 点赞 596 | 转发 91
-
-🔗 [查看原文](https://x.com/mikeallen/status/2041099089031356468)
+🔗 [查看原文](https://x.com/alexalbert__/status/2041579938537775160)
 
 ---
 
 
-*生成时间：2026-04-07 06:30:11*
+*生成时间：2026-04-08 06:30:13*
