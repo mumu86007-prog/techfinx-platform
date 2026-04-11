@@ -1,59 +1,25 @@
 ---
-title: 2026-04-11 科技金融热点速递
+title: 2026-04-12 科技金融热点速递
 cover: https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop
 ---
 
-# 2026-04-11 科技金融热点速递
+# 2026-04-12 科技金融热点速递
 
 精选自 X 平台 AI 领域热门讨论，每日更新。
 
 ---
 
-## 1. 从我的TL来看，人们对人工智能能力的理解差距越来越大。  我认为第一个问题是关于新近度和使用级别。我...
-
-**来源：** @karpathy
-
-### 📝 原文
-
-Judging by my tl there is a growing gap in understanding of AI capability.
-
-The first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like "should I drive or walk to the carwash". T
-
-### 🌐 专业翻译
-
-从我的TL来看，人们对人工智能能力的理解差距越来越大。
-
-我认为第一个问题是关于新近度和使用级别。我认为很多人去年在某个地方尝试过 ChatGPT 的免费版本，并让它过多地表达了他们对人工智能的看法。这是一组嘲笑模型的各种怪癖、幻觉等的反应。是的，我还看到了 OpenAI 高级语音模式的病毒视频，它笨手笨脚地提出简单的问题，比如“我应该开车还是步行去洗车场”。问题是，这些免费和旧的/已弃用的模型并不能反映今年最新一轮最先进的代理模型的功能，尤其是 OpenAI Codex 和 Claude Code。
-
-但这让我想到了第二个问题。即使人们每月支付 200 美元来使用最先进的模型，许多功能在高技术领域仍然相对“高峰”。围绕搜索、写作、建议等的典型查询“不是”在能力方面取得最引人注目和戏剧性进步的领域。部分原因在于强化学习的技术细节及其对可验证奖励的使用。但部分原因也是因为这些用例在爬山过程中没有被公司充分优先考虑，因为它们不会带来那么多的价值。金矿在别处，焦点也随之而来。
-
-因此，这让我想到了第二类人，他们*都* 1）付费并使用最先进的前沿代理模型（OpenAI Codex / Claude Code），2）在编程、数学和研究等技术领域专业地这样做。这群人遭受的“人工智能精神病”最多，因为截至今年这些领域的最新进展简直令人震惊。当您将计算机终端交给这些模型之一时，您现在可以看到它们解决您通常需要数天/数周工作的编程问题。正是第二类人对能力、斜率以及各种与网络相关的影响赋予了更大的重视。
-
-长话短说，这两个群体的人都在互相说话。事实上，OpenAI 的免费和我认为有点孤立（？）的“高级语音模式”将解决你 Instagram 卷轴中最愚蠢的问题，并且“同时”，OpenAI 的最高级别和付费 Codex 模型将运行 1 小时，以连贯地重组整个代码库，或查找和利用计算机系统中的漏洞。这部分确实有效并且取得了巨大的进步，因为有两个特性：1）这些领域提供了可验证的明确奖励函数，这意味着它们很容易接受强化学习训练（例如，单元测试通过是或否，与写作相反，这很难明确判断），而且 2）它们在 B2B 环境中更有价值，这意味着团队的最大部分专注于改进它们。所以我们到了。
-
-### 💡 深度解读
-
-AI服务暂时不可用，使用基础解读。
-
-🏷️ **标签：** AI | 科技
-
-📊 **数据：** 浏览 3114015 | 点赞 17357 | 转发 2066
-
-🔗 [查看原文](https://x.com/karpathy/status/2042334451611693415)
-
----
-
-## 2. 特斯拉在洛杉矶自动驾驶
+## 1. 猎鹰已着陆
 
 **来源：** @elonmusk
 
 ### 📝 原文
 
-Tesla driving itself around LA
+Falcon has landed
 
 ### 🌐 专业翻译
 
-特斯拉在洛杉矶自动驾驶
+猎鹰已着陆
 
 ### 💡 深度解读
 
@@ -61,23 +27,27 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 87603773 | 点赞 303449 | 转发 25413
+📊 **数据：** 浏览 34699670 | 点赞 230344 | 转发 15365
 
-🔗 [查看原文](https://x.com/elonmusk/status/2042348111809691858)
+🔗 [查看原文](https://x.com/elonmusk/status/2042961026468188209)
 
 ---
 
-## 3. 我向 ChatGPT 发送了一系列 FART 音效的音频文件，并询问它对“我的音乐”的看法，它是这样...
+## 2. 欧洲首个（受监督的）FSD 批准！  祝贺特斯拉团队，并感谢荷兰监管机构为实现这一目标所做的一切努力...
 
-**来源：** @jonas_ceika
+**来源：** @elonmusk
 
 ### 📝 原文
 
-I sent ChatGPT an audio file of a series of FART sound effects and asked what it thinks of "my music" and this is what it said
+First (supervised) FSD approval in Europe!
+
+Congratulations to the Tesla team and thank you to the regulatory authorities in the Netherlands for all the hard work required to make this happen.
 
 ### 🌐 专业翻译
 
-我向 ChatGPT 发送了一系列 FART 音效的音频文件，并询问它对“我的音乐”的看法，它是这样说的
+欧洲首个（受监督的）FSD 批准！
+
+祝贺特斯拉团队，并感谢荷兰监管机构为实现这一目标所做的一切努力。
 
 ### 💡 深度解读
 
@@ -85,35 +55,34 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 4031621 | 点赞 50230 | 转发 3793
+📊 **数据：** 浏览 26159692 | 点赞 70958 | 转发 9312
 
-🔗 [查看原文](https://x.com/jonas_ceika/status/2042445078417834043)
+🔗 [查看原文](https://x.com/elonmusk/status/2042724887320760724)
 
 ---
 
-## 4. 今天，@xAI 起诉科罗拉多州，要求停止一项新法律 (SB24-205)，该法律将迫使 Grok 在...
+## 3. AMD 高级人工智能总监确认 Claude 已被削弱。她分析了Claude从一月到三月的会话日志： ...
 
-**来源：** @katiemiller
+**来源：** @hesamation
 
 ### 📝 原文
 
-Today, @xAI sued Colorado to stop a new law (SB24-205) that would force Grok to promote the state’s ideological views on various matters, racial justice in particular.
-
-Colorado wants to force Grok to follow its views on equity and race, instead of being maximally truth-seeking.
-
-Grok answers to evidence, not woke leftist government regulations.
-
-https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9?syn-25a6b1a6=1
+AMD Senior AI Director confirms Claude has been nerfed. She analyzed Claude's session logs from Janurary to March:
+> median thinking dropped from ~2,200 to ~600 chars
+> API requests went up 80x from Feb to Mar. less thinking and failed attempts meaning more retries, burning more tokens, and spending more on tokens
+> reads-per-edit dropped from 6.6x → 2.0x. model stops researching code before touching it.
+> model tried to bail out or ask "should i continue" 173 times in 17 days (0 times before Ma
 
 ### 🌐 专业翻译
 
-今天，@xAI 起诉科罗拉多州，要求停止一项新法律 (SB24-205)，该法律将迫使 Grok 在各种问题上宣扬该州的意识形态观点，特别是种族正义。
-
-科罗拉多州希望迫使 Grok 遵循其关于公平和种族的观点，而不是最大限度地寻求真相。
-
-格罗克对证据的回答，没有唤醒左派政府的法规。
-
-https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9?syn-25a6b1a6=1
+AMD 高级人工智能总监确认 Claude 已被削弱。她分析了Claude从一月到三月的会话日志：
+> 思维中位数从约 2,200 个字符下降到约 600 个字符
+> 从 2 月到 3 月，API 请求增加了 80 倍。更少的思考和失败的尝试意味着更多的重试、燃烧更多的代币以及在代币上花费更多
+> 每次编辑的读取次数从 6.6 倍下降到 2.0 倍。模型在接触代码之前停止研究代码。
+> 模特在 17 天内尝试退出或询问“我应该继续吗”173 次（3 月 8 日之前 0 次）。
+> 推理中的自相矛盾（“哦等等，实际上......”）增加了两倍。 
+> 像 CLAUDE.md 这样的约定会被忽略，因为用于交叉检查编辑的思考预算较少
+> 太平洋标准时间下午 5 点和晚上 7 点是最差的时间，深夜明显好一些。这意味着思维分配很可能对 GPU 负载敏感。
 
 ### 💡 深度解读
 
@@ -121,31 +90,31 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2004987 | 点赞 17454 | 转发 3357
+📊 **数据：** 浏览 1158132 | 点赞 5429 | 转发 610
 
-🔗 [查看原文](https://x.com/katiemiller/status/2042351880815423592)
+🔗 [查看原文](https://x.com/hesamation/status/2042979500103815306)
 
 ---
 
-## 5. Shopify AI 工具包就在这里  与您最喜欢的代理商一起管理您的商店  Claude Code...
+## 4. Anthropic 的估值刚刚飙升超过 OpenAI 在私人市场  人择：$863,60B Open...
 
-**来源：** @shopify
+**来源：** @scaling01
 
 ### 📝 原文
 
-the Shopify AI Toolkit is here
+Anthropic's valuation just surged past OpenAI's
+in private markets
 
-manage your store with your favorite agent
-
-Claude Code, Codex, Cursor, VS Code, and more
+Anthropic: $863,60B
+OpenAI: $846,11B
 
 ### 🌐 专业翻译
 
-Shopify AI 工具包就在这里
+Anthropic 的估值刚刚飙升超过 OpenAI
+在私人市场
 
-与您最喜欢的代理商一起管理您的商店
-
-Claude Code、Codex、Cursor、VS Code 等
+人择：$863,60B
+OpenAI：$846,11B
 
 ### 💡 深度解读
 
@@ -153,31 +122,35 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2355341 | 点赞 5089 | 转发 495
+📊 **数据：** 浏览 914599 | 点赞 5301 | 转发 388
 
-🔗 [查看原文](https://x.com/shopify/status/2042335627862032754)
+🔗 [查看原文](https://x.com/scaling01/status/2042737349881122844)
 
 ---
 
-## 6. 26 个 LLM 路由器正在秘密注入恶意工具调用并窃取信用。其中一次耗尽了我们客户 50 万美元的钱...
+## 5. 突发新闻：Grok 拯救了另一条生命。这次是来自法兰克福的猫。 ♥️  法兰克福摄影师 Lars M...
 
-**来源：** @fried_rice
+**来源：** @cb_doge
 
 ### 📝 原文
 
-26 LLM routers are secretly injecting malicious tool calls and stealing creds. One drained our client $500k wallet.
+BREAKING: Grok saved another life. This time, a cat from Frankfurt. ♥️
 
-We also managed to poison routers to forward traffic to us. Within several hours, we can directly take over ~400 hosts. 
+A Frankfurt Photographer, Lars Maier credits Grok for saving his cat, Moritz’s life during an overnight diabetic ketoacidosis crisis.
 
-Check our paper: https://arxiv.org/abs/2604.08407
+Grok instantly recognized the symptoms and told him: “RUSH to the 24h vet NOW!”— vets say 30 mins later would’ve been fatal.
+
+Moritz is home, eating, and recovering.
 
 ### 🌐 专业翻译
 
-26 个 LLM 路由器正在秘密注入恶意工具调用并窃取信用。其中一次耗尽了我们客户 50 万美元的钱包。
+突发新闻：Grok 拯救了另一条生命。这次是来自法兰克福的猫。 ♥️
 
-我们还设法毒害路由器以将流量转发给我们。几个小时内，我们可以直接接管约 400 多个主机。 
+法兰克福摄影师 Lars Maier 称赞 Grok 在夜间糖尿病酮症酸中毒危机中拯救了他的猫 Moritz 的生命。
 
-查看我们的论文：https://arxiv.org/abs/2604.08407
+Grok 立即意识到了症状，并告诉他：“立即赶去看 24 小时兽医！”——兽医说 30 分钟后就会致命。
+
+莫里茨回家了，正在吃东西，正在康复。
 
 ### 💡 深度解读
 
@@ -185,35 +158,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 411659 | 点赞 2681 | 转发 521
+📊 **数据：** 浏览 8177409 | 点赞 14091 | 转发 1333
 
-🔗 [查看原文](https://x.com/fried_rice/status/2042423713019412941)
+🔗 [查看原文](https://x.com/cb_doge/status/2042854579612553450)
 
 ---
 
-## 7. 🦔一名研究人员发明了一种名为 bixonimania 的假眼病，将两篇明显欺诈性的论文上传到学术服务...
+## 6. Grok 可以很有趣 😂 https://grok.com/share/bGVnYWN5_1f34e...
 
-**来源：** @hedgiemarkets
+**来源：** @elonmusk
 
 ### 📝 原文
 
-🦔A researcher invented a fake eye condition called bixonimania, uploaded two obviously fraudulent papers about it to an academic server, and watched major AI systems present it as real medicine within weeks. 
-The fake papers thanked Starfleet Academy, cited funding from the Professor Sideshow Bob Foundation and the University of Fellowship of the Ring, and stated mid-paper that the entire thing was made up. Google's Gemini told users it was caused by blue light. Perplexity cited its prevalence a
+Grok can be quite funny 😂 https://grok.com/share/bGVnYWN5_1f34ee2c-3442-4345-9a19-d7ec7a2ec882
 
 ### 🌐 专业翻译
 
-🦔一名研究人员发明了一种名为 bixonimania 的假眼病，将两篇明显欺诈性的论文上传到学术服务器，并在几周内看到主要的人工智能系统将其呈现为真正的药物。 
-这些假论文感谢了星际舰队学院，引用了 Sideshow Bob 教授基金会和指环大学的资助，并在论文中表示整个事情都是编造的。谷歌的 Gemini 告诉用户这是由蓝光引起的。 Perplexity 称其患病率为九万分之一。 
-
-ChatGPT 会告知用户他们的症状是否相符。随后，一份同行评审期刊引用了这项虚假研究，但在《自然》杂志联系出版商后，该期刊才将其撤回。
-
-我的看法
-研究人员故意让这些论文尽可能明显地伪造。人工智能系统没有捕捉到它。在真实期刊中引用它的人类研究人员也没有这样做，这意味着人们将人工智能生成的参考文献输入到他们的工作中，而不阅读他们实际引用的内容。
-
-我报道了 FDA 使用人工智能进行药物审查、纽约市医院首席执行官准备取代放射科医生以及今年推出的 ChatGPT Health。所有这一切都发生在同一个环境中，由辛普森一家角色资助并得到企业号船员认可的病症被提出为新兴的医学共识。做出这些部署决策的人似乎认为，从研究到人工智能再到患者的流程受到了比实际更多的监督。这个实验表明它根本没有受到太多监督。
-
-海吉🤗
-https://www.nature.com/articles/d41586-026-01100-y
+Grok 可以很有趣 😂 https://grok.com/share/bGVnYWN5_1f34ee2c-3442-4345-9a19-d7ec7a2ec882
 
 ### 💡 深度解读
 
@@ -221,55 +182,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 835497 | 点赞 22850 | 转发 10597
+📊 **数据：** 浏览 16216839 | 点赞 22070 | 转发 2400
 
-🔗 [查看原文](https://x.com/hedgiemarkets/status/2042430442448548273)
+🔗 [查看原文](https://x.com/elonmusk/status/2042770839633039635)
 
 ---
 
-## 8. 斯坦福大学计算机科学 2026 届毕业生刚刚获得了最终的录取统计数据  312 名毕业生中：18 人...
+## 7. “这提出了一个明显的问题：Anthropic 不愿广泛使用 Mythos 在多大程度上是出于安全考虑...
 
-**来源：** @techlayofflover
+**来源：** @pmarca
 
 ### 📝 原文
 
-Stanford CS graduating class of 2026 just got their final placement statistics
-
-Out of 312 graduates: 18 have full-time offers
-
-That's a 5.8% placement rate from the most prestigious CS program in the fucking world
-
-2019 placement rate was 94%. 2022 was 78%. 2024 was 31%. Now this.
-
-The other 294 are fighting over 47 internships that require "3+ years production experience"
-
-Career services is telling them to "consider adjacent fields" while the department just took a $50M donation from a compan
+“This raises an obvious question: how much of Anthropic’s reluctance to make Mythos widely available is due to security concerns, as opposed to the more prosaic reality that Anthropic simply doesn’t have enough compute?” @stratechery @benthompson
 
 ### 🌐 专业翻译
 
-斯坦福大学计算机科学 2026 届毕业生刚刚获得了最终的录取统计数据
-
-312 名毕业生中：18 人获得全日制录取通知书
-
-这是世界上最负盛名的计算机科学项目 5.8% 的录取率
-
-2019年安置率为94%。 2022 年为 78%。 2024 年为 31%。现在这个。
-
-另外294人正在争夺47个需要“3年以上生产经验”的实习机会
-
-职业服务部门告诉他们“考虑邻近领域”，而该部门刚刚从一家公司获得了 5000 万美元的捐赠，用 Claude 取代了 2,400 名工程师
-
-一个孩子向我展示了他的拒绝跟踪记录：自 9 月份以来已收到 1,247 份申请。 12个电话屏幕。零报价。
-
-他的父母为他的房子再融资以支付他的学费
-
-招聘会上有 8 家公司和 300 名绝望的学生，负债 18 万美元
-
-与此同时，计算机科学系刚刚宣布他们正在扩大他们的博士课程，因为“行业对人工智能研究的需求从未如此之高”
-
-同一周，他们向 89 名新本科生发出了录取通知书
-
-这些孩子认为他们正在学习成为工程师。事实证明，他们正在接受过时的训练。
+“这提出了一个明显的问题：Anthropic 不愿广泛使用 Mythos 在多大程度上是出于安全考虑，而不是 Anthropic 根本没有足够的计算能力这一更为平淡的现实？” @stratechery @benthompson
 
 ### 💡 深度解读
 
@@ -277,23 +206,23 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 2651134 | 点赞 6246 | 转发 1578
+📊 **数据：** 浏览 348270 | 点赞 4007 | 转发 243
 
-🔗 [查看原文](https://x.com/techlayofflover/status/2042388137658204375)
+🔗 [查看原文](https://x.com/pmarca/status/2042742413098450998)
 
 ---
 
-## 9. 独家报道：财政部长斯科特·贝森特和美联储主席杰罗姆·鲍威尔召集华尔街领导人召开紧急会议，担心 Ant...
+## 8. 格罗克救了猫
 
-**来源：** @business
+**来源：** @elonmusk
 
 ### 📝 原文
 
-EXCLUSIVE: Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell summoned Wall Street leaders to an urgent meeting on concerns that the latest AI model from Anthropic will usher in an era of greater cyber risk. https://www.bloomberg.com/news/articles/2026-04-10/anthropic-model-scare-sparks-urgent-bessent-powell-warning-to-bank-ceos?taid=69d84bb5b797b600012725ea&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter
+Grok saved the cat
 
 ### 🌐 专业翻译
 
-独家报道：财政部长斯科特·贝森特和美联储主席杰罗姆·鲍威尔召集华尔街领导人召开紧急会议，担心 Anthropic 的最新人工智能模型将迎来一个网络风险更大的时代。 https://www.bloomberg.com/news/articles/2026-04-10/anthropic-model-scare-sparks-urgent-bessent-powell-warning-to-bank -ceos?taid=69d84bb5b797b600012725ea&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter
+格罗克救了猫
 
 ### 💡 深度解读
 
@@ -301,43 +230,27 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 1464734 | 点赞 2994 | 转发 913
+📊 **数据：** 浏览 7839399 | 点赞 42643 | 转发 4857
 
-🔗 [查看原文](https://x.com/business/status/2042407370320396457)
+🔗 [查看原文](https://x.com/elonmusk/status/2042962981307441271)
 
 ---
 
-## 10. 传统导演在 Higgsfield 上使用 Seedance 2.0 进行电影剪辑。  观看《Zeph...
+## 9. 我找到了在萨姆·奥尔特曼家扔燃烧弹的那个人的 Instagram  他的 Instagram 提到了...
 
-**来源：** @higgsfield
+**来源：** @mehran__jalali
 
 ### 📝 原文
 
-Traditional directors flimmaxxxing using Seedance 2.0 on Higgsfield.
+I found the Instagram of the guy who threw a Molotov cocktail at Sam Altman's house
 
-Watch “Zephyr” FULL Ep.1 – this is what happens when filmmakers face ZERO gatekeeping.
-
-With Unlimited Seedance 2.0 now LIVE everywhere for anyone with up to 70% OFF* - YOU can build your next viral AI movie.
-
-2 minute intro got MILLIONS in a day.
-Now see how full Zephyr takes over your feed.
-
-Dir. by ILYA KARCHIN & the team.
-Zephyr (2026)
+His Instagram references the crusade of humans against AI from Dune
 
 ### 🌐 专业翻译
 
-传统导演在 Higgsfield 上使用 Seedance 2.0 进行电影剪辑。
+我找到了在萨姆·奥尔特曼家扔燃烧弹的那个人的 Instagram
 
-观看《Zephyr》完整版第一集——这就是电影制作人面临零把关时所发生的情况。
-
-现在，Unlimited Seedance 2.0 已在任何地方为任何人提供高达 70% 的折扣* - 您可以制作下一部病毒式人工智能电影。
-
-2 分钟的介绍一天就收获了数百万美元。
-现在看看 Zephyr 如何完全接管您的源。
-
-导演。由伊利亚·卡钦 (ILYA KARCHIN) 和团队撰写。
-和风 (2026)
+他的 Instagram 提到了《沙丘》中人类对抗人工智能的远征
 
 ### 💡 深度解读
 
@@ -345,11 +258,75 @@ AI服务暂时不可用，使用基础解读。
 
 🏷️ **标签：** AI | 科技
 
-📊 **数据：** 浏览 420573 | 点赞 890 | 转发 158
+📊 **数据：** 浏览 412639 | 点赞 3871 | 转发 301
 
-🔗 [查看原文](https://x.com/higgsfield/status/2042631284426518618)
+🔗 [查看原文](https://x.com/mehran__jalali/status/2042755218819961048)
+
+---
+
+## 10. 聊聊，我改变主意了。我们的人工智能部门存在一些问题。  事实证明，有人只利用 Claude 和 Ch...
+
+**来源：** @vxunderground
+
+### 📝 原文
+
+Chat, I've changed my mind. We have some problems in the AI department.
+
+It turns out someone compromised the Mexican government to an unbelievable extent using nothing but Claude and ChatGPT. I'll link the full paper in the subsequent post. However, here is the highlights of how an unknown Threat Actor "vibe hacked" the Mexico government.
+
+Data stolen from...
+1. SAT (Servicio de Administracion Tributaria) - Federal tax authority:
+- 195 million taxpayer records
+- 52 million directory records
+
+2.
+
+### 🌐 专业翻译
+
+聊聊，我改变主意了。我们的人工智能部门存在一些问题。
+
+事实证明，有人只利用 Claude 和 ChatGPT 就对墨西哥政府造成了令人难以置信的损害。我将在后续文章中链接全文。然而，这里是一个未知威胁行为者如何“黑客攻击”墨西哥政府的亮点。
+
+数据被盗自...
+1. SAT (Servicio de Administracion Tributaria) - 联邦税务机关：
+- 1.95亿条纳税人记录
+- 5200万条目录记录
+
+2. Estado de Mexico - 州政府：
+- 1550万条车辆登记记录
+- 360万条业主记录
+
+3. Registro Civil de CDMX - 墨西哥城民事登记处：
+- 2.2亿民事记录
+
+4.哈利斯科州政府：
+- 50K 患者记录
+- 17K 家庭暴力受害者记录
+- 36K 医疗保健员工记录
+- 180K 数字政府记录
+
+5. INE (Instituto Nacional Electoral) - 国家选举机构：
+- 13,800 条选民卡记录
+
+6. 米却肯州政府：
+- 228万条财产记录
+- 2K 个带有明文密码的用户帐户
+
+7. SADM 蒙特雷 (Agua y Drenaje) 市政供水公司：
+- 3500 条采购和供应商记录
+- 5K条采购投标记录
+
+### 💡 深度解读
+
+AI服务暂时不可用，使用基础解读。
+
+🏷️ **标签：** AI | 科技
+
+📊 **数据：** 浏览 298509 | 点赞 2052 | 转发 225
+
+🔗 [查看原文](https://x.com/vxunderground/status/2042727397498257866)
 
 ---
 
 
-*生成时间：2026-04-11 06:30:13*
+*生成时间：2026-04-12 06:30:09*
