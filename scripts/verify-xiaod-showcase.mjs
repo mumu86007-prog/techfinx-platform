@@ -4,8 +4,10 @@ import { resolve } from 'node:path'
 const root = process.cwd()
 const pagePath = resolve(root, 'src/pages/Xiaod.tsx')
 const routerPath = resolve(root, 'src/router.tsx')
+const redirectsPath = resolve(root, 'public/_redirects')
 const page = readFileSync(pagePath, 'utf8')
 const router = readFileSync(routerPath, 'utf8')
+const redirects = readFileSync(redirectsPath, 'utf8')
 
 for (const phrase of [
   '小D｜音视频转录整理助手',
@@ -21,5 +23,6 @@ for (const forbidden of ['<form', '<input', 'fetch(', 'WebSocket', 'APP_SECRET',
 }
 
 if (!router.includes("path: '/xiaod'")) throw new Error('Missing /xiaod route')
+if (!redirects.includes('/* /index.html 200')) throw new Error('Missing Cloudflare Pages SPA fallback')
 
 console.log('xiaod_showcase_verification_ok')
