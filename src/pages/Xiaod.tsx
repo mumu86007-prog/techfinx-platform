@@ -72,6 +72,32 @@ export default function Xiaod() {
         </div>
       </section>
 
+      <section className="mx-auto max-w-6xl px-6 py-16 sm:px-10">
+        <div className="grid gap-8 border border-stone-700 bg-[#171915] p-7 sm:p-9 lg:grid-cols-[0.7fr_1.3fr]">
+          <div>
+            <p className="font-mono text-xs tracking-[0.18em] text-amber-300">任务入口（演示）</p>
+            <h2 className="mt-3 text-2xl font-semibold tracking-[-0.035em] text-stone-100">提交链接，从飞书开始</h2>
+            <p className="mt-4 leading-7 text-stone-400">此处仅还原任务入口的样式，不接收内容、不保存数据，也不会发起转录。</p>
+          </div>
+          <div className="self-end">
+            <label className="mb-2 block text-sm text-stone-300" htmlFor="showcase-link">公开链接或本地文件</label>
+            <div className="flex flex-col gap-3 sm:flex-row">
+              <input
+                className="h-12 min-w-0 flex-1 rounded-none border border-stone-600 bg-[#10110f] px-4 text-sm text-stone-500 outline-none"
+                disabled
+                id="showcase-link"
+                placeholder="展示页不接收链接"
+                type="text"
+              />
+              <button className="h-12 border border-stone-600 bg-stone-800 px-5 text-sm font-medium text-stone-500" disabled type="button">
+                发送给小D
+              </button>
+            </div>
+            <p className="mt-3 text-xs leading-5 text-stone-500">实际使用：在飞书中向已授权的小D Bot 发送链接或文件。</p>
+          </div>
+        </div>
+      </section>
+
       <section className="mx-auto grid max-w-6xl gap-14 px-6 py-20 sm:px-10 lg:grid-cols-[0.8fr_1.2fr]">
         <div>
           <p className="font-mono text-xs tracking-[0.18em] text-amber-300">交付物样式</p>
