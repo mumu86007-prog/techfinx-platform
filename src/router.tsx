@@ -5,6 +5,7 @@ import TechLinks from './pages/TechLinks'
 import Articles, { ArticleDetail } from './pages/Articles'
 import { ArchiveList, ArchiveDetail } from './pages/Archive'
 import NotFound from './pages/NotFound'
+import Xiaod from './pages/Xiaod'
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,7 @@ const router = createBrowserRouter([
       { path: 'archive/:date', element: <ArchiveDetail /> },
     ],
   },
+  { path: '/xiaod', element: <Xiaod /> },
   { path: '*', element: <NotFound /> },
 ])
 
