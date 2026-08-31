@@ -1,0 +1,45 @@
+name: TechFinX Auto Update
+
+on:
+  schedule:
+    - cron: '0 8,13,19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest market + link data
+        run: npm run fetch:all
+
+      - name: Build site
+        run: npm run build
+
+      - name: Commit and push if data changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore(data): scheduled TechFinX refresh'
+          file_pattern: |
+            public/data/**/*.json
+            dist/**
+
+      - name: Notify on failure
+        if: failure()
+        run: echo "TechFinX scheduled update failed. Check GitHub Actions logs."

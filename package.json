@@ -13,7 +13,8 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "fetch:markets": "tsx scripts/fetch-markets.ts",
-    "fetch:links": "tsx scripts/fetch-links.ts"
+    "fetch:links": "tsx scripts/fetch-links.ts",
+    "fetch:all": "tsx scripts/fetch-markets.ts && tsx scripts/fetch-links.ts"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
