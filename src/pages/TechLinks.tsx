@@ -21,6 +21,15 @@ type LinkItem = {
   score?: number
 }
 
+const normalizeFeedData = (payload: unknown): LinkItem[] => {
+  if (Array.isArray(payload)) return payload as LinkItem[]
+  if (payload && typeof payload === 'object') {
+    const items = (payload as { items?: unknown }).items
+    return Array.isArray(items) ? (items as LinkItem[]) : []
+  }
+  return []
+}
+
 const TechLinks = () => {
   const [items, setItems] = useState<LinkItem[]>([])
   const [loading, setLoading] = useState(true)
@@ -68,19 +77,30 @@ const TechLinks = () => {
       '/data/links/latest.json',
     ]
 
-    ;(async () => {
+    const refreshFeed = async () => {
       for (const url of urls) {
         try {
-          const r = await fetch(url + '?v=' + Date.now())
+          const requestUrl = new URL(url, window.location.origin)
+          requestUrl.searchParams.set('v', String(Date.now()))
+
+          const r = await fetch(requestUrl.toString())
           if (!r.ok) continue
           const data = await r.json()
-          if (mounted && Array.isArray(data) && data.length > 0) {
-            // 过滤掉内容为空的条目
-            const validItems = data.filter((item: LinkItem) => {
+          const normalized = normalizeFeedData(data)
+
+          if (mounted && normalized.length > 0) {
+            const validItems = normalized.filter((item: LinkItem) => {
               const text = (item.text || '').trim()
               const summary = (item.summary || '').trim()
               return text.length > 0 || summary.length > 0
             })
+
+            const payloadVersion = typeof data === 'object' && data && 'version' in data ? String((data as { version?: string }).version ?? '') : ''
+            if (payloadVersion) {
+              localStorage.setItem('techfinx-feed-version', payloadVersion)
+            }
+            localStorage.setItem('techfinx-feed-updated-at', String(Date.now()))
+
             setItems(validItems.slice(0, 20))
             setLoading(false)
             return
@@ -90,9 +110,26 @@ const TechLinks = () => {
         }
       }
       if (mounted) setLoading(false)
-    })()
+    }
 
-    return () => { mounted = false }
+    refreshFeed()
+
+    const onVisibility = () => {
+      if (document.visibilityState === 'visible') {
+        const updatedAt = Number(localStorage.getItem('techfinx-feed-updated-at') || '0')
+        const stale = Date.now() - updatedAt > 1000 * 60 * 60 * 12
+        if (stale) {
+          window.location.reload()
+        }
+      }
+    }
+
+    document.addEventListener('visibilitychange', onVisibility)
+
+    return () => {
+      mounted = false
+      document.removeEventListener('visibilitychange', onVisibility)
+    }
   }, [])
 
   // 过滤掉内容为空的条目
@@ -115,6 +152,9 @@ const TechLinks = () => {
           name="description"
           content="TechFinX：每天精选 X 平台科技与金融热点，提供专业翻译与行业解读，并沉淀可检索的历史内容。"
         />
+        <meta httpEquiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta httpEquiv="Pragma" content="no-cache" />
+        <meta httpEquiv="Expires" content="0" />
         <link rel="canonical" href="https://techfinx.top/" />
       </Helmet>
       {/* Header */}

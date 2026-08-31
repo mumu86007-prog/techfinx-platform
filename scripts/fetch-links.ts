@@ -315,8 +315,15 @@ async function main() {
       publishedAt: item.publishedAt,
     }))
 
-  await writeFile(OUTPUT_FILE, JSON.stringify(ranked, null, 2), 'utf8')
-  console.log(`Wrote ${ranked.length} items to ${OUTPUT_FILE}`)
+  const payload = {
+    version: new Date().toISOString(),
+    generatedAt: new Date().toISOString(),
+    source: 'hn.algolia',
+    items: ranked,
+  }
+
+  await writeFile(OUTPUT_FILE, JSON.stringify(payload, null, 2), 'utf8')
+  console.log(`Wrote ${ranked.length} items to ${OUTPUT_FILE} (version=${payload.version})`)
 }
 
 main().catch((error) => {
