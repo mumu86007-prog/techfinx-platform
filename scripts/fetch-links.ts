@@ -29,7 +29,29 @@ type Candidate = {
 const OUTPUT_FILE = resolve(process.cwd(), 'public', 'data', 'links', 'latest.json')
 const MAX_ITEMS = 20
 const SUMMARY_LIMIT = 320
-const MIN_SUMMARY_LENGTH = 60
+const MIN_SUMMARY_LENGTH = 120
+const DESIRED_TOPICS = [
+  'ai',
+  'llm',
+  'machine learning',
+  'model',
+  'fintech',
+  'payment',
+  'banking',
+  'security',
+  'cybersecurity',
+  'infra',
+  'infrastructure',
+  'cloud',
+  'devops',
+  'product',
+  'startup',
+  'saas',
+  'risk',
+  'compliance',
+  'data',
+  'agent',
+]
 const HN_SEARCHES = [
   'AI',
   'AI startup',
@@ -37,6 +59,7 @@ const HN_SEARCHES = [
   'Fintech',
   'OpenAI',
   'Anthropic',
+  'security AI',
 ]
 
 const HIGH_PRIORITY_DOMAINS = [
@@ -115,13 +138,20 @@ function isMeaningfulSummary(summary: string): boolean {
   return true
 }
 
+function matchesDesiredTopic(title: string, summary: string): boolean {
+  const haystack = `${title} ${summary}`.toLowerCase()
+  return DESIRED_TOPICS.some((topic) => haystack.includes(topic))
+}
+
 function scoreCandidate(item: Candidate): number {
   let score = item.score
   const haystack = `${item.title} ${item.summary}`.toLowerCase()
   if (/ai|llm|gpt|openai|anthropic|claude|model|agent|deepseek|xai|tesla/i.test(haystack)) score += 3
-  if (/startup|funding|vc|fintech|payment|bank|market|earnings|ipo|regulation|chip|gpu|inference|security/i.test(haystack)) score += 2
+  if (/startup|funding|vc|fintech|payment|bank|market|earnings|ipo|regulation|chip|gpu|inference|security|compliance|saas|infra|cloud|risk/i.test(haystack)) score += 2
+  if (matchesDesiredTopic(item.title, item.summary)) score += 4
   score += getDomainPriority(item.url)
   if (item.summary && item.summary.length > 120) score += 2
+  if (item.summary && item.summary.length > 220) score += 2
   if (isLowSignalTitle(item.title)) score -= 7
   return score
 }
@@ -227,7 +257,12 @@ async function main() {
   }
 
   const ranked = Array.from(unique.values())
-    .filter((item) => !isLowSignalTitle(item.title) && isMeaningfulSummary(item.summary))
+    .filter((item) => {
+      if (isLowSignalTitle(item.title)) return false
+      if (!isMeaningfulSummary(item.summary)) return false
+      if (!matchesDesiredTopic(item.title, item.summary)) return false
+      return true
+    })
     .sort((a, b) => {
       const t1 = new Date(b.publishedAt).getTime()
       const t2 = new Date(a.publishedAt).getTime()

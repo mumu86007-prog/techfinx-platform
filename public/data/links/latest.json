@@ -1,24 +1,5 @@
 [
   {
-    "id": "49507808",
-    "title": "G20 Warned of Growing Threat to Financial Stability Posed by New AI Models",
-    "url": "https://www.wsj.com/tech/ai/g20-warned-of-growing-threat-to-financial-stability-posed-by-new-ai-models-e9e501da",
-    "summary": "G20 Warned of Growing Threat to Financial Stability Posed by New AI Models",
-    "publishedAt": "2026-08-31T09:57:12Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 10,
-    "author": "thm",
-    "likes": 2,
-    "views": 0,
-    "retweets": 0,
-    "text": "G20 Warned of Growing Threat to Financial Stability Posed by New AI Models",
-    "author_name": "thm"
-  },
-  {
     "id": "49507800",
     "title": "LLM distillation: optimizing what to label",
     "url": "https://www.testingbranch.com/distillation-targeted-labels/",
@@ -29,7 +10,7 @@
       "AI",
       "科技"
     ],
-    "score": 11,
+    "score": 15,
     "author": "mpcsb",
     "likes": 1,
     "views": 0,
@@ -48,7 +29,7 @@
       "AI",
       "科技"
     ],
-    "score": 26,
+    "score": 30,
     "author": "seb93",
     "likes": 1,
     "views": 1,
@@ -67,7 +48,7 @@
       "AI",
       "科技"
     ],
-    "score": 26,
+    "score": 32,
     "author": "tieanderson",
     "likes": 1,
     "views": 0,
@@ -86,7 +67,7 @@
       "AI",
       "科技"
     ],
-    "score": 13,
+    "score": 17,
     "author": "birdculture",
     "likes": 1,
     "views": 0,
@@ -105,7 +86,7 @@
       "AI",
       "科技"
     ],
-    "score": 13,
+    "score": 17,
     "author": "ahana_537",
     "likes": 1,
     "views": 0,
@@ -114,118 +95,23 @@
     "author_name": "ahana_537"
   },
   {
-    "id": "49507343",
-    "title": "Lambs grazing under an Oregon solar farm put on the same weight to the gram",
-    "url": "https://spacedaily.com/b-lambs-grazing-under-an-oregon-solar-farm-had-38-percent-less-grass-in-front-of-them-than-lambs-in-the-open-field-alongside-and-they-put-on-the-same-weight-to-the-gram-because-shade-makes-a-pasture-g/",
-    "summary": "Shade-grown pasture delivers less grass but the same nutrition, suggesting solar farms might have a second life as livestock habitat.",
-    "publishedAt": "2026-08-31T09:02:33Z",
+    "id": "49506655",
+    "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+    "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+    "summary": "Meta&#x27;s Summer Yue says she ran OpenClaw on her inbox, but its size &#x27;triggered compaction [and] lost my original instruction&#x27; to get her permission before deleting.",
+    "publishedAt": "2026-08-31T07:23:47Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 9,
-    "author": "ColinWright",
-    "likes": 2,
-    "views": 0,
+    "score": 53,
+    "author": "Bluestein",
+    "likes": 37,
+    "views": 18,
     "retweets": 0,
-    "text": "Shade-grown pasture delivers less grass but the same nutrition, suggesting solar farms might have a second life as livestock habitat.",
-    "author_name": "ColinWright"
-  },
-  {
-    "id": "49507198",
-    "title": "Connect Your AI Agent to a Remote MCP Server",
-    "url": "https://quickchat.ai/post/connect-ai-agent-to-mcp-server",
-    "summary": "Connect Your AI Agent to a Remote MCP Server (2026) | Quickchat AI - AI Agents",
-    "publishedAt": "2026-08-31T08:47:06Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 9,
-    "author": "piotrgrudzien",
-    "likes": 1,
-    "views": 0,
-    "retweets": 0,
-    "text": "Connect Your AI Agent to a Remote MCP Server (2026) | Quickchat AI - AI Agents",
-    "author_name": "piotrgrudzien"
-  },
-  {
-    "id": "49507101",
-    "title": "Advanced AI threatens global financial stability, says Bank of England boss",
-    "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
-    "summary": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system",
-    "publishedAt": "2026-08-31T08:29:03Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 15,
-    "author": "theanonymousone",
-    "likes": 5,
-    "views": 0,
-    "retweets": 0,
-    "text": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system",
-    "author_name": "theanonymousone"
-  },
-  {
-    "id": "49506881",
-    "title": "Photo-to-anime tools still feel stuck between\"filterapps\"and\"prompt engineering\"",
-    "url": "https://animephotogen.com/",
-    "summary": "Free AI photo to anime converter. Upload any selfie, pick a style, generate anime art in seconds — no sign-up needed to start.",
-    "publishedAt": "2026-08-31T08:00:04Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 11,
-    "author": "LumisYY",
-    "likes": 1,
-    "views": 0,
-    "retweets": 0,
-    "text": "Free AI photo to anime converter. Upload any selfie, pick a style, generate anime art in seconds — no sign-up needed to start.",
-    "author_name": "LumisYY"
-  },
-  {
-    "id": "49506856",
-    "title": "Claude weekly limit for \"20x\" plan is 10x; 20x applying to 5h limits",
-    "url": "https://twitter.com/thsottiaux/status/2094254532020818191",
-    "summary": "For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don&#x27;t have 5h limits for both Pro plans. The Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin.",
-    "publishedAt": "2026-08-31T07:55:25Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 14,
-    "author": "m101",
-    "likes": 3,
-    "views": 0,
-    "retweets": 0,
-    "text": "For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don&#x27;t have 5h limits for both Pro plans. The Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin.",
-    "author_name": "m101"
-  },
-  {
-    "id": "49506107",
-    "title": "A Modest Proposal for Anthropic",
-    "url": "https://tornikeo.com/a-modest-proposal-for-anthropic/",
-    "summary": "A proposal for relieving Anthropic of the burden of its paying customers, after another creatively described reduction in Claude Code usage limits.",
-    "publishedAt": "2026-08-31T05:54:22Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 12,
-    "author": "tornikeo",
-    "likes": 2,
-    "views": 1,
-    "retweets": 0,
-    "text": "A proposal for relieving Anthropic of the burden of its paying customers, after another creatively described reduction in Claude Code usage limits.",
-    "author_name": "tornikeo"
+    "text": "Meta&#x27;s Summer Yue says she ran OpenClaw on her inbox, but its size &#x27;triggered compaction [and] lost my original instruction&#x27; to get her permission before deleting.",
+    "author_name": "Bluestein"
   },
   {
     "id": "49505860",
@@ -238,7 +124,7 @@
       "AI",
       "科技"
     ],
-    "score": 15,
+    "score": 21,
     "author": "Osiris30",
     "likes": 5,
     "views": 2,
@@ -247,42 +133,23 @@
     "author_name": "Osiris30"
   },
   {
-    "id": "49504482",
-    "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening",
-    "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
-    "summary": "Cursor launches Origin code hosting platform as GitHub outage exposes opening",
-    "publishedAt": "2026-08-31T01:01:21Z",
+    "id": "49505351",
+    "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+    "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+    "summary": "The EU AI Office sent its first formal requests for information to general-purpose AI model providers on security, evaluations, and monitoring.",
+    "publishedAt": "2026-08-31T03:45:57Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 22,
-    "author": "gmays",
-    "likes": 2,
-    "views": 1,
+    "score": 56,
+    "author": "cdnsteve",
+    "likes": 40,
+    "views": 84,
     "retweets": 0,
-    "text": "Cursor launches Origin code hosting platform as GitHub outage exposes opening",
-    "author_name": "gmays"
-  },
-  {
-    "id": "49504405",
-    "title": "Armageddon by Anthropomorphism: On Security and the Frontier",
-    "url": "https://hardcoresoftware.learningbyshipping.com/p/242-armageddon-by-anthropomorphism",
-    "summary": "AI changes the speed and scale of computer security, not the fundamental nature of the problem.",
-    "publishedAt": "2026-08-31T00:47:06Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 13,
-    "author": "jeffreyrogers",
-    "likes": 3,
-    "views": 0,
-    "retweets": 0,
-    "text": "AI changes the speed and scale of computer security, not the fundamental nature of the problem.",
-    "author_name": "jeffreyrogers"
+    "text": "The EU AI Office sent its first formal requests for information to general-purpose AI model providers on security, evaluations, and monitoring.",
+    "author_name": "cdnsteve"
   },
   {
     "id": "49503980",
@@ -295,7 +162,7 @@
       "AI",
       "科技"
     ],
-    "score": 15,
+    "score": 19,
     "author": "Gaishan",
     "likes": 3,
     "views": 0,
@@ -314,7 +181,7 @@
       "AI",
       "科技"
     ],
-    "score": 17,
+    "score": 23,
     "author": "lqstuart",
     "likes": 6,
     "views": 4,
@@ -333,7 +200,7 @@
       "AI",
       "科技"
     ],
-    "score": 13,
+    "score": 17,
     "author": "thursday1",
     "likes": 3,
     "views": 0,
@@ -352,7 +219,7 @@
       "AI",
       "科技"
     ],
-    "score": 14,
+    "score": 18,
     "author": "porridgeraisin",
     "likes": 4,
     "views": 0,
@@ -371,12 +238,145 @@
       "AI",
       "科技"
     ],
-    "score": 27,
+    "score": 33,
     "author": "tmpnode",
     "likes": 2,
     "views": 1,
     "retweets": 0,
     "text": "Summary: Codex&#39;s memory writer can select an eligible prior rollout without restricting the candidate to the provider that created it. It then serializes a filtered, model-visible transcript of that rollout and sends it using the model p...",
     "author_name": "tmpnode"
+  },
+  {
+    "id": "49497389",
+    "title": "VibeGuard – security linter for AI-generated code",
+    "url": "https://github.com/zeroFhacker/vibeguard",
+    "summary": "Security linter for AI-generated code: catches the exact vulnerabilities Copilot, Cursor and ChatGPT repeatedly produce. SQL injection, hardcoded secrets, JWT bypass, command injection and 15+ more rules. Grade A–F. Zero config. CI/CD ready. - zeroFhacker/vibeguard",
+    "publishedAt": "2026-08-30T10:26:10Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 35,
+    "author": "obadafid",
+    "likes": 2,
+    "views": 0,
+    "retweets": 0,
+    "text": "Security linter for AI-generated code: catches the exact vulnerabilities Copilot, Cursor and ChatGPT repeatedly produce. SQL injection, hardcoded secrets, JWT bypass, command injection and 15+ more rules. Grade A–F. Zero config. CI/CD ready. - zeroFhacker/vibeguard",
+    "author_name": "obadafid"
+  },
+  {
+    "id": "49497160",
+    "title": "Anthropic Says Its Market Is $30T, Same as US GDP",
+    "url": "https://247wallst.com/investing/2026/08/26/anthropic-says-its-market-is-30-trillion-same-as-us-gdp/",
+    "summary": "Anthropic is pitching investors a revenue number so large it strains belief, but buried beneath the headline figure lies a tangle of risks involving overbuilt data centers, geopolitical threats, and an AI economy that could ultimately devour the very consumers it depends on.",
+    "publishedAt": "2026-08-30T09:43:24Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 20,
+    "author": "mgh2",
+    "likes": 2,
+    "views": 0,
+    "retweets": 0,
+    "text": "Anthropic is pitching investors a revenue number so large it strains belief, but buried beneath the headline figure lies a tangle of risks involving overbuilt data centers, geopolitical threats, and an AI economy that could ultimately devour the very consumers it depends on.",
+    "author_name": "mgh2"
+  },
+  {
+    "id": "49496545",
+    "title": "Independent investigation of agents' behavior in the Hugging Face incident",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+    "summary": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
+    "publishedAt": "2026-08-30T07:36:17Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 16,
+    "author": "thunderbong",
+    "likes": 2,
+    "views": 0,
+    "retweets": 0,
+    "text": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
+    "author_name": "thunderbong"
+  },
+  {
+    "id": "49496345",
+    "title": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn",
+    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+    "publishedAt": "2026-08-30T07:02:41Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 35,
+    "author": "joozio",
+    "likes": 4,
+    "views": 0,
+    "retweets": 0,
+    "text": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+    "author_name": "joozio"
+  },
+  {
+    "id": "49496292",
+    "title": "Smartphone LED Detects Hidden Cameras with AI",
+    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "summary": "Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device A technology has been developed to detect",
+    "publishedAt": "2026-08-30T06:52:04Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 28,
+    "author": "geox",
+    "likes": 14,
+    "views": 1,
+    "retweets": 0,
+    "text": "Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device A technology has been developed to detect",
+    "author_name": "geox"
+  },
+  {
+    "id": "49495761",
+    "title": "The viral leftist teens of Campaign 2020 work for OpenAI now",
+    "url": "https://www.cnn.com/2026/08/29/us/gravel-teens-openai-cec",
+    "summary": "The “Gravel Teens” made their names running an outsider stunt campaign against corporate power and wealth concentration. They just signed with an AI behemoth.",
+    "publishedAt": "2026-08-30T04:41:16Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 20,
+    "author": "1659447091",
+    "likes": 6,
+    "views": 6,
+    "retweets": 0,
+    "text": "The “Gravel Teens” made their names running an outsider stunt campaign against corporate power and wealth concentration. They just signed with an AI behemoth.",
+    "author_name": "1659447091"
+  },
+  {
+    "id": "49490082",
+    "title": "Major security weaknesses found in leading open AI models",
+    "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
+    "summary": "Story about a Waterloo-led study which found all open-weight AI models tested could be modified to bypass safety protections, raising concerns about misuse.",
+    "publishedAt": "2026-08-29T14:15:36Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 21,
+    "author": "pseudolus",
+    "likes": 5,
+    "views": 0,
+    "retweets": 0,
+    "text": "Story about a Waterloo-led study which found all open-weight AI models tested could be modified to bypass safety protections, raising concerns about misuse.",
+    "author_name": "pseudolus"
   }
 ]
