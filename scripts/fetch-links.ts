@@ -12,6 +12,7 @@ type Candidate = {
   title: string
   url: string
   summary: string
+  interpretation?: string
   publishedAt: string
   source: {
     id: string
@@ -143,6 +144,32 @@ function matchesDesiredTopic(title: string, summary: string): boolean {
   return DESIRED_TOPICS.some((topic) => haystack.includes(topic))
 }
 
+function buildInterpretation(title: string, summary: string): string {
+  const text = `${title} ${summary}`.toLowerCase()
+
+  if (/openai|anthropic|claude|gpt|llm|deepseek|model|agent/.test(text)) {
+    return '这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。'
+  }
+
+  if (/fintech|payment|bank|lending|compliance|regulation|risk/.test(text)) {
+    return '这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。'
+  }
+
+  if (/security|cybersecurity|supply chain|chip|gpu|data center|cloud|infra/.test(text)) {
+    return '这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。'
+  }
+
+  if (/startup|funding|vc|saas|product|revenue|growth/.test(text)) {
+    return '这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。'
+  }
+
+  if (/tesla|robot|autonomous|self-driving|hardware|manufacturing/.test(text)) {
+    return '这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。'
+  }
+
+  return '这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。'
+}
+
 function scoreCandidate(item: Candidate): number {
   let score = item.score
   const haystack = `${item.title} ${item.summary}`.toLowerCase()
@@ -218,11 +245,14 @@ async function fetchHNStories(): Promise<Candidate[]> {
 
       if (!isMeaningfulSummary(normalizedSummary)) continue
 
+      const interpretation = buildInterpretation(title, normalizedSummary)
+
       all.push({
         id,
         title: normalizeText(title, 120),
         url: String(hit.url),
         summary: normalizedSummary,
+        interpretation,
         publishedAt,
         source: { id: 'hn', name: 'Hacker News', category: 'AI' },
         tags: ['AI', '科技'],
@@ -281,6 +311,7 @@ async function main() {
       retweets: item.retweets ?? 0,
       title: item.title,
       summary: item.summary,
+      interpretation: item.interpretation || buildInterpretation(item.title, item.summary),
       publishedAt: item.publishedAt,
     }))
 

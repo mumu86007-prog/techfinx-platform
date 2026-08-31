@@ -9,6 +9,7 @@ type LinkItem = {
   url: string
   text?: string
   summary?: string
+  interpretation?: string
   publishedAt?: string
   source?: SourceInfo
   author?: string
@@ -180,6 +181,17 @@ const TechLinks = () => {
 
                 <h2 className="text-2xl font-bold leading-snug text-gray-900">{selected.title || '详情'}</h2>
 
+                {selected.interpretation && (
+                  <div className="rounded-2xl border border-blue-100 bg-blue-50 p-4">
+                    <div className="text-xs font-semibold uppercase tracking-[0.08em] text-blue-700 mb-2">
+                      TechFinX 解读
+                    </div>
+                    <div className="text-sm leading-relaxed text-blue-900">
+                      {selected.interpretation}
+                    </div>
+                  </div>
+                )}
+
                 {(selected.summary || selected.text) && (
                   <div className="prose max-w-none text-gray-800 whitespace-pre-wrap leading-relaxed">
                     {selected.summary || selected.text}
@@ -318,6 +330,17 @@ const TechLinks = () => {
               </h2>
 
               {/* Summary/Text */}
+              {item.interpretation && (
+                <div className="mb-3 rounded-xl border border-blue-100 bg-blue-50/70 p-3">
+                  <div className="text-[10px] font-semibold uppercase tracking-[0.08em] text-blue-700 mb-1">
+                    TechFinX 解读
+                  </div>
+                  <p className="text-sm text-blue-900 leading-relaxed">
+                    {item.interpretation}
+                  </p>
+                </div>
+              )}
+
               {(item.summary || item.text) && (
                 <p 
                   className="text-gray-600 text-sm leading-relaxed mb-4 line-clamp-3 cursor-pointer hover:text-gray-800"
