@@ -1,24 +1,5 @@
 [
   {
-    "id": "49507626",
-    "title": "What GLM-5.3 Flash running on Chinese hardware means",
-    "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
-    "summary": "What GLM-5.3 Flash running on Chinese hardware means",
-    "publishedAt": "2026-08-31T09:26:16Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 1,
-    "author": "birdculture",
-    "likes": 1,
-    "views": 0,
-    "retweets": 0,
-    "text": "What GLM-5.3 Flash running on Chinese hardware means",
-    "author_name": "birdculture"
-  },
-  {
     "id": "49507471",
     "title": "AI Lending in Production: Credit Risk,Compliance and Control",
     "url": "https://geekyants.com/blog/building-ai-lending-products-for-production-credit-risk-compliance-and-operational-control",
@@ -181,9 +162,9 @@
       "AI",
       "科技"
     ],
-    "score": 10,
+    "score": 9,
     "author": "theanonymousone",
-    "likes": 5,
+    "likes": 4,
     "views": 0,
     "retweets": 0,
     "text": "Advanced AI threatens global financial stability, says Bank of England boss",
@@ -333,10 +314,10 @@
       "AI",
       "科技"
     ],
-    "score": 18,
+    "score": 17,
     "author": "partsch",
-    "likes": 15,
-    "views": 8,
+    "likes": 14,
+    "views": 6,
     "retweets": 0,
     "text": "Claude Code reduces it's weekly limit by 17% – compared to today",
     "author_name": "partsch"
@@ -378,5 +359,24 @@
     "retweets": 0,
     "text": "AI isn't sentient – the real danger lies in how easily we anthropomorphize it (2023)",
     "author_name": "Osiris30"
+  },
+  {
+    "id": "49505819",
+    "title": "Design Considerations for an Anthropophilic Computer (1979)",
+    "url": "https://web.stanford.edu/dept/SUL/sites/mac/primary/docs/bom/anthrophilic.html",
+    "summary": "Design Considerations for an Anthropophilic Computer (1979)",
+    "publishedAt": "2026-08-31T05:07:08Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 1,
+    "author": "throw310822",
+    "likes": 1,
+    "views": 0,
+    "retweets": 0,
+    "text": "Design Considerations for an Anthropophilic Computer (1979)",
+    "author_name": "throw310822"
   }
 ]

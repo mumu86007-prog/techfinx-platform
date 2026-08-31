@@ -28,6 +28,7 @@ type Candidate = {
 
 const OUTPUT_FILE = resolve(process.cwd(), 'public', 'data', 'links', 'latest.json')
 const MAX_ITEMS = 20
+const SUMMARY_LIMIT = 320
 const HN_SEARCHES = [
   'AI',
   'AI startup',
@@ -53,6 +54,41 @@ function scoreCandidate(item: Candidate): number {
   return score
 }
 
+async function fetchPageSummary(url: string): Promise<string> {
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'TechFinX Aggregator (+https://techfinx.top)',
+        Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+      },
+    })
+
+    if (!res.ok) return ''
+
+    const html = await res.text()
+    const metaMatch = html.match(/<meta[^>]+(?:property|name)=["'](?:og:description|description)["'][^>]*content=["']([^"']+)["'][^>]*>/i)
+    if (metaMatch?.[1]) {
+      return normalizeText(metaMatch[1].replace(/&amp;/g, '&'), SUMMARY_LIMIT)
+    }
+
+    const titleMatch = html.match(/<title>([^<]+)<\/title>/i)
+    if (titleMatch?.[1]) {
+      return normalizeText(titleMatch[1], SUMMARY_LIMIT)
+    }
+
+    const plainText = html
+      .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+      .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim()
+
+    return normalizeText(plainText, SUMMARY_LIMIT)
+  } catch {
+    return ''
+  }
+}
+
 async function fetchHNStories(): Promise<Candidate[]> {
   const all: Candidate[] = []
 
@@ -71,11 +107,14 @@ async function fetchHNStories(): Promise<Candidate[]> {
       if (!hit?.title || !hit?.url) continue
       const publishedAt = hit.created_at || new Date().toISOString()
       const id = String(hit.objectID || `${query}-${hit.title}`)
+      const sourceSummary = (hit.story_text || hit.comment_text || '').trim()
+      const resolvedSummary = sourceSummary || (await fetchPageSummary(String(hit.url)))
+
       all.push({
         id,
         title: normalizeText(hit.title, 120),
         url: String(hit.url),
-        summary: normalizeText(hit.story_text || hit.title, 180),
+        summary: normalizeText(resolvedSummary || hit.title, SUMMARY_LIMIT),
         publishedAt,
         source: { id: 'hn', name: 'Hacker News', category: 'AI' },
         tags: ['AI', '科技'],
