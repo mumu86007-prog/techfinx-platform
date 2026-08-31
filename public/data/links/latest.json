@@ -1,382 +1,382 @@
 [
   {
+    "id": "49507808",
+    "title": "G20 Warned of Growing Threat to Financial Stability Posed by New AI Models",
+    "url": "https://www.wsj.com/tech/ai/g20-warned-of-growing-threat-to-financial-stability-posed-by-new-ai-models-e9e501da",
+    "summary": "G20 Warned of Growing Threat to Financial Stability Posed by New AI Models",
+    "publishedAt": "2026-08-31T09:57:12Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 10,
+    "author": "thm",
+    "likes": 2,
+    "views": 0,
+    "retweets": 0,
+    "text": "G20 Warned of Growing Threat to Financial Stability Posed by New AI Models",
+    "author_name": "thm"
+  },
+  {
+    "id": "49507800",
+    "title": "LLM distillation: optimizing what to label",
+    "url": "https://www.testingbranch.com/distillation-targeted-labels/",
+    "summary": "2026-08-29 — Using a student model to audit LLM labels, find weak class boundaries, and spend the next labelling budget where it can still change the model.",
+    "publishedAt": "2026-08-31T09:55:38Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 11,
+    "author": "mpcsb",
+    "likes": 1,
+    "views": 0,
+    "retweets": 0,
+    "text": "2026-08-29 — Using a student model to audit LLM labels, find weak class boundaries, and spend the next labelling budget where it can still change the model.",
+    "author_name": "mpcsb"
+  },
+  {
+    "id": "49507746",
+    "title": "VitalChronicle – 100% local, open-source health data analysis",
+    "url": "https://github.com/SebRoLENS/google-health-dashboard-ai",
+    "summary": "Open-source desktop dashboard for visualizing and locally analyzing Google Health and Fitbit data with privacy-focused AI insights. - SebRoLENS/google-health-dashboard-ai",
+    "publishedAt": "2026-08-31T09:48:43Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 26,
+    "author": "seb93",
+    "likes": 1,
+    "views": 1,
+    "retweets": 0,
+    "text": "Open-source desktop dashboard for visualizing and locally analyzing Google Health and Fitbit data with privacy-focused AI insights. - SebRoLENS/google-health-dashboard-ai",
+    "author_name": "seb93"
+  },
+  {
+    "id": "49507718",
+    "title": "Best OLM to PST Converter Tool to Convert Mac OLM to PST",
+    "url": "https://apps.microsoft.com/detail/9n7jk7z3546j?hl=en-US&gl=US",
+    "summary": "PDS OLM to PST Converter Tool which can smoothly convert outlook (*.olm) emails files from Mac Outlook (*.olm) Files through PDS OLM Converter and nicely extract and export Outlook (*.olm) file from inaccessible OLM file database and Convert OLM emails, notes, contacts, calendars, tasks, inbox, outbox, sent items, draf…",
+    "publishedAt": "2026-08-31T09:43:24Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 26,
+    "author": "tieanderson",
+    "likes": 1,
+    "views": 0,
+    "retweets": 0,
+    "text": "PDS OLM to PST Converter Tool which can smoothly convert outlook (*.olm) emails files from Mac Outlook (*.olm) Files through PDS OLM Converter and nicely extract and export Outlook (*.olm) file from inaccessible OLM file database and Convert OLM emails, notes, contacts, calendars, tasks, inbox, outbox, sent items, draf…",
+    "author_name": "tieanderson"
+  },
+  {
+    "id": "49507626",
+    "title": "What GLM-5.3 Flash running on Chinese hardware means",
+    "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+    "summary": "Z.AI ran a full model release on domestically manufactured Chinese chips. Impressive, but EUV lithography is a hard wall and the gap with Western inference hardware is more likely to widen than close.",
+    "publishedAt": "2026-08-31T09:26:16Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 13,
+    "author": "birdculture",
+    "likes": 1,
+    "views": 0,
+    "retweets": 0,
+    "text": "Z.AI ran a full model release on domestically manufactured Chinese chips. Impressive, but EUV lithography is a hard wall and the gap with Western inference hardware is more likely to widen than close.",
+    "author_name": "birdculture"
+  },
+  {
     "id": "49507471",
     "title": "AI Lending in Production: Credit Risk,Compliance and Control",
     "url": "https://geekyants.com/blog/building-ai-lending-products-for-production-credit-risk-compliance-and-operational-control",
-    "summary": "AI Lending in Production: Credit Risk,Compliance and Control",
+    "summary": "Most AI lending pilots fail before production. Learn how to build AI lending products that handle credit risk, adverse action, audits, human review, and core banking integration.",
     "publishedAt": "2026-08-31T09:11:52Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 4,
+    "score": 13,
     "author": "ahana_537",
     "likes": 1,
     "views": 0,
     "retweets": 0,
-    "text": "AI Lending in Production: Credit Risk,Compliance and Control",
+    "text": "Most AI lending pilots fail before production. Learn how to build AI lending products that handle credit risk, adverse action, audits, human review, and core banking integration.",
     "author_name": "ahana_537"
-  },
-  {
-    "id": "49507422",
-    "title": "Show HN: VajraClaw – Deterministic <1µs execution guardrail for AI agents",
-    "url": "https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker",
-    "summary": "Show HN: VajraClaw – Deterministic <1µs execution guardrail for AI agents",
-    "publishedAt": "2026-08-31T09:08:38Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 4,
-    "author": "dros_jimmy",
-    "likes": 1,
-    "views": 0,
-    "retweets": 0,
-    "text": "Show HN: VajraClaw – Deterministic <1µs execution guardrail for AI agents",
-    "author_name": "dros_jimmy"
-  },
-  {
-    "id": "49507370",
-    "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
-    "url": "https://www.fastcompany.com/91563020/aspire-rocket-design-spacex",
-    "summary": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
-    "publishedAt": "2026-08-31T09:04:32Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 4,
-    "author": "rbanffy",
-    "likes": 1,
-    "views": 0,
-    "retweets": 0,
-    "text": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
-    "author_name": "rbanffy"
   },
   {
     "id": "49507343",
     "title": "Lambs grazing under an Oregon solar farm put on the same weight to the gram",
     "url": "https://spacedaily.com/b-lambs-grazing-under-an-oregon-solar-farm-had-38-percent-less-grass-in-front-of-them-than-lambs-in-the-open-field-alongside-and-they-put-on-the-same-weight-to-the-gram-because-shade-makes-a-pasture-g/",
-    "summary": "Lambs grazing under an Oregon solar farm put on the same weight to the gram",
+    "summary": "Shade-grown pasture delivers less grass but the same nutrition, suggesting solar farms might have a second life as livestock habitat.",
     "publishedAt": "2026-08-31T09:02:33Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 2,
+    "score": 9,
     "author": "ColinWright",
     "likes": 2,
     "views": 0,
     "retweets": 0,
-    "text": "Lambs grazing under an Oregon solar farm put on the same weight to the gram",
+    "text": "Shade-grown pasture delivers less grass but the same nutrition, suggesting solar farms might have a second life as livestock habitat.",
     "author_name": "ColinWright"
-  },
-  {
-    "id": "49507210",
-    "title": "Running Modern LLMs on a 2GB GPU",
-    "url": "https://medium.com/@therealcomtom/running-modern-llms-on-a-2gb-gpu-517512813bb0",
-    "summary": "Running Modern LLMs on a 2GB GPU",
-    "publishedAt": "2026-08-31T08:48:41Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 7.5,
-    "author": "comtom",
-    "likes": 3,
-    "views": 0,
-    "retweets": 0,
-    "text": "Running Modern LLMs on a 2GB GPU",
-    "author_name": "comtom"
-  },
-  {
-    "id": "49507199",
-    "title": "Show HN: Catch AI code hallucinations without asking a model",
-    "url": "https://github.com/lovettsendit/hedgemony",
-    "summary": "Show HN: Catch AI code hallucinations without asking a model",
-    "publishedAt": "2026-08-31T08:47:14Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 4,
-    "author": "lovettsendit",
-    "likes": 1,
-    "views": 0,
-    "retweets": 0,
-    "text": "Show HN: Catch AI code hallucinations without asking a model",
-    "author_name": "lovettsendit"
   },
   {
     "id": "49507198",
     "title": "Connect Your AI Agent to a Remote MCP Server",
     "url": "https://quickchat.ai/post/connect-ai-agent-to-mcp-server",
-    "summary": "Connect Your AI Agent to a Remote MCP Server",
+    "summary": "Connect Your AI Agent to a Remote MCP Server (2026) | Quickchat AI - AI Agents",
     "publishedAt": "2026-08-31T08:47:06Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 4,
+    "score": 9,
     "author": "piotrgrudzien",
     "likes": 1,
     "views": 0,
     "retweets": 0,
-    "text": "Connect Your AI Agent to a Remote MCP Server",
+    "text": "Connect Your AI Agent to a Remote MCP Server (2026) | Quickchat AI - AI Agents",
     "author_name": "piotrgrudzien"
-  },
-  {
-    "id": "49507184",
-    "title": "Run multiple Linux kernels without hypervisor",
-    "url": "https://lore.kernel.org/lkml/ao34RJ7aZ2BLd67S@pop-os.localdomain/",
-    "summary": "Run multiple Linux kernels without hypervisor",
-    "publishedAt": "2026-08-31T08:45:01Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 5,
-    "author": "hasley",
-    "likes": 5,
-    "views": 0,
-    "retweets": 0,
-    "text": "Run multiple Linux kernels without hypervisor",
-    "author_name": "hasley"
   },
   {
     "id": "49507101",
     "title": "Advanced AI threatens global financial stability, says Bank of England boss",
     "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
-    "summary": "Advanced AI threatens global financial stability, says Bank of England boss",
+    "summary": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system",
     "publishedAt": "2026-08-31T08:29:03Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 9,
+    "score": 15,
     "author": "theanonymousone",
-    "likes": 4,
+    "likes": 5,
     "views": 0,
     "retweets": 0,
-    "text": "Advanced AI threatens global financial stability, says Bank of England boss",
+    "text": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system",
     "author_name": "theanonymousone"
-  },
-  {
-    "id": "49507087",
-    "title": "How to Build Open Source for AI Agents",
-    "url": "https://agentledco.substack.com/p/how-to-build-open-source-for-ai-agents",
-    "summary": "How to Build Open Source for AI Agents",
-    "publishedAt": "2026-08-31T08:27:39Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 5,
-    "author": "hsantana8",
-    "likes": 2,
-    "views": 0,
-    "retweets": 0,
-    "text": "How to Build Open Source for AI Agents",
-    "author_name": "hsantana8"
-  },
-  {
-    "id": "49507034",
-    "title": "Show HN: Sonde, a local code graph for AI agents that refuses to guess",
-    "url": "https://github.com/anishmoncivarghese/sonde",
-    "summary": "Show HN: Sonde, a local code graph for AI agents that refuses to guess",
-    "publishedAt": "2026-08-31T08:21:15Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 4,
-    "author": "anishvarghese",
-    "likes": 1,
-    "views": 0,
-    "retweets": 0,
-    "text": "Show HN: Sonde, a local code graph for AI agents that refuses to guess",
-    "author_name": "anishvarghese"
-  },
-  {
-    "id": "49507016",
-    "title": "Soundwise.ai: Free AI Transcription That Respects Your Privacy",
-    "url": "https://soundwise.ai",
-    "summary": "Soundwise.ai: Free AI Transcription That Respects Your Privacy",
-    "publishedAt": "2026-08-31T08:19:18Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 4,
-    "author": "ShawnaWang",
-    "likes": 1,
-    "views": 0,
-    "retweets": 0,
-    "text": "Soundwise.ai: Free AI Transcription That Respects Your Privacy",
-    "author_name": "ShawnaWang"
-  },
-  {
-    "id": "49506954",
-    "title": "Attestation-Gated Key Release for Confidential Computing Workloads",
-    "url": "https://confidential.ai/blog/attested-key-release",
-    "summary": "Attestation-Gated Key Release for Confidential Computing Workloads",
-    "publishedAt": "2026-08-31T08:10:05Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 1,
-    "author": "h0h0h0h0111",
-    "likes": 1,
-    "views": 1,
-    "retweets": 0,
-    "text": "Attestation-Gated Key Release for Confidential Computing Workloads",
-    "author_name": "h0h0h0h0111"
   },
   {
     "id": "49506881",
     "title": "Photo-to-anime tools still feel stuck between\"filterapps\"and\"prompt engineering\"",
     "url": "https://animephotogen.com/",
-    "summary": "Photo-to-anime tools still feel stuck between\"filterapps\"and\"prompt engineering\"",
+    "summary": "Free AI photo to anime converter. Upload any selfie, pick a style, generate anime art in seconds — no sign-up needed to start.",
     "publishedAt": "2026-08-31T08:00:04Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 1,
+    "score": 11,
     "author": "LumisYY",
     "likes": 1,
     "views": 0,
     "retweets": 0,
-    "text": "Photo-to-anime tools still feel stuck between\"filterapps\"and\"prompt engineering\"",
+    "text": "Free AI photo to anime converter. Upload any selfie, pick a style, generate anime art in seconds — no sign-up needed to start.",
     "author_name": "LumisYY"
   },
   {
     "id": "49506856",
     "title": "Claude weekly limit for \"20x\" plan is 10x; 20x applying to 5h limits",
     "url": "https://twitter.com/thsottiaux/status/2094254532020818191",
-    "summary": "Claude weekly limit for \"20x\" plan is 10x; 20x applying to 5h limits",
+    "summary": "For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don&#x27;t have 5h limits for both Pro plans. The Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin.",
     "publishedAt": "2026-08-31T07:55:25Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 6,
+    "score": 14,
     "author": "m101",
     "likes": 3,
     "views": 0,
     "retweets": 0,
-    "text": "Claude weekly limit for \"20x\" plan is 10x; 20x applying to 5h limits",
+    "text": "For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don&#x27;t have 5h limits for both Pro plans. The Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin.",
     "author_name": "m101"
-  },
-  {
-    "id": "49506522",
-    "title": "Starting AI Safety Study Group to Do Arena Curriculum",
-    "url": "https://www.lesswrong.com/posts/eysGHNdvgAYwZjC3r/starting-ai-safety-study-group-to-do-arena-curriculum",
-    "summary": "Starting AI Safety Study Group to Do Arena Curriculum",
-    "publishedAt": "2026-08-31T07:02:29Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 4,
-    "author": "joozio",
-    "likes": 1,
-    "views": 0,
-    "retweets": 0,
-    "text": "Starting AI Safety Study Group to Do Arena Curriculum",
-    "author_name": "joozio"
-  },
-  {
-    "id": "49506519",
-    "title": "Claude Code reduces it's weekly limit by 17% – compared to today",
-    "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
-    "summary": "Claude Code reduces it's weekly limit by 17% – compared to today",
-    "publishedAt": "2026-08-31T07:02:05Z",
-    "source": "Hacker News",
-    "tags": [
-      "AI",
-      "科技"
-    ],
-    "score": 17,
-    "author": "partsch",
-    "likes": 14,
-    "views": 6,
-    "retweets": 0,
-    "text": "Claude Code reduces it's weekly limit by 17% – compared to today",
-    "author_name": "partsch"
   },
   {
     "id": "49506107",
     "title": "A Modest Proposal for Anthropic",
     "url": "https://tornikeo.com/a-modest-proposal-for-anthropic/",
-    "summary": "A Modest Proposal for Anthropic",
+    "summary": "A proposal for relieving Anthropic of the burden of its paying customers, after another creatively described reduction in Claude Code usage limits.",
     "publishedAt": "2026-08-31T05:54:22Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 5,
+    "score": 12,
     "author": "tornikeo",
     "likes": 2,
     "views": 1,
     "retweets": 0,
-    "text": "A Modest Proposal for Anthropic",
+    "text": "A proposal for relieving Anthropic of the burden of its paying customers, after another creatively described reduction in Claude Code usage limits.",
     "author_name": "tornikeo"
   },
   {
     "id": "49505860",
     "title": "AI isn't sentient – the real danger lies in how easily we anthropomorphize it (2023)",
     "url": "https://theconversation.com/ai-isnt-close-to-becoming-sentient-the-real-danger-lies-in-how-easily-were-prone-to-anthropomorphize-it-200525",
-    "summary": "AI isn't sentient – the real danger lies in how easily we anthropomorphize it (2023)",
+    "summary": "Our tendency to view machines as people and become attached to them points to real risks of psychological entanglement with AI technology.",
     "publishedAt": "2026-08-31T05:14:58Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 8,
+    "score": 15,
     "author": "Osiris30",
     "likes": 5,
-    "views": 1,
+    "views": 2,
     "retweets": 0,
-    "text": "AI isn't sentient – the real danger lies in how easily we anthropomorphize it (2023)",
+    "text": "Our tendency to view machines as people and become attached to them points to real risks of psychological entanglement with AI technology.",
     "author_name": "Osiris30"
   },
   {
-    "id": "49505819",
-    "title": "Design Considerations for an Anthropophilic Computer (1979)",
-    "url": "https://web.stanford.edu/dept/SUL/sites/mac/primary/docs/bom/anthrophilic.html",
-    "summary": "Design Considerations for an Anthropophilic Computer (1979)",
-    "publishedAt": "2026-08-31T05:07:08Z",
+    "id": "49504482",
+    "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening",
+    "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
+    "summary": "Cursor launches Origin code hosting platform as GitHub outage exposes opening",
+    "publishedAt": "2026-08-31T01:01:21Z",
     "source": "Hacker News",
     "tags": [
       "AI",
       "科技"
     ],
-    "score": 1,
-    "author": "throw310822",
-    "likes": 1,
+    "score": 22,
+    "author": "gmays",
+    "likes": 2,
+    "views": 1,
+    "retweets": 0,
+    "text": "Cursor launches Origin code hosting platform as GitHub outage exposes opening",
+    "author_name": "gmays"
+  },
+  {
+    "id": "49504405",
+    "title": "Armageddon by Anthropomorphism: On Security and the Frontier",
+    "url": "https://hardcoresoftware.learningbyshipping.com/p/242-armageddon-by-anthropomorphism",
+    "summary": "AI changes the speed and scale of computer security, not the fundamental nature of the problem.",
+    "publishedAt": "2026-08-31T00:47:06Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 13,
+    "author": "jeffreyrogers",
+    "likes": 3,
     "views": 0,
     "retweets": 0,
-    "text": "Design Considerations for an Anthropophilic Computer (1979)",
-    "author_name": "throw310822"
+    "text": "AI changes the speed and scale of computer security, not the fundamental nature of the problem.",
+    "author_name": "jeffreyrogers"
+  },
+  {
+    "id": "49503980",
+    "title": "Lady Gaga is now an AI-longevity biotech founder",
+    "url": "https://www.regeneration.ai/p/lady-gaga-is-now-an-ai-longevity",
+    "summary": "Lady Gaga’s new startup keeps donated human skin alive for weeks, using it to train AI models to find next-generation &quot;skin drugs&quot;. But is Outer Biosciences building a true longevity biotech?",
+    "publishedAt": "2026-08-30T23:44:44Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 15,
+    "author": "Gaishan",
+    "likes": 3,
+    "views": 0,
+    "retweets": 0,
+    "text": "Lady Gaga’s new startup keeps donated human skin alive for weeks, using it to train AI models to find next-generation &quot;skin drugs&quot;. But is Outer Biosciences building a true longevity biotech?",
+    "author_name": "Gaishan"
+  },
+  {
+    "id": "49503609",
+    "title": "OpenAI ends it partnership with Cursor",
+    "url": "https://twitter.com/OpenAI/status/2093515564786540695",
+    "summary": "We’re ending our partnership with Cursor following its acquisition by SpaceX. Under our proposal, Cursor’s direct access to our models would end on November 12. We know that the people most affected by this decision are the developers who rely on OpenAI models in Cursor. We care",
+    "publishedAt": "2026-08-30T22:50:36Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 17,
+    "author": "lqstuart",
+    "likes": 6,
+    "views": 4,
+    "retweets": 0,
+    "text": "We’re ending our partnership with Cursor following its acquisition by SpaceX. Under our proposal, Cursor’s direct access to our models would end on November 12. We know that the people most affected by this decision are the developers who rely on OpenAI models in Cursor. We care",
+    "author_name": "lqstuart"
+  },
+  {
+    "id": "49503300",
+    "title": "Turn chess game history into opening drills",
+    "url": "https://plyscope.com/",
+    "summary": "Practise your openings against the moves real players at your rating actually play, then read your own Chess.com or Lichess games to find the lines costing you.",
+    "publishedAt": "2026-08-30T22:01:26Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 13,
+    "author": "thursday1",
+    "likes": 3,
+    "views": 0,
+    "retweets": 0,
+    "text": "Practise your openings against the moves real players at your rating actually play, then read your own Chess.com or Lichess games to find the lines costing you.",
+    "author_name": "thursday1"
+  },
+  {
+    "id": "49503193",
+    "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
+    "url": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
+    "summary": "OpenAI acquires thousands of Mac minis and Mac Studios for AI training. Valuation hitting $1.75T by December 31 at 16.5% YES.",
+    "publishedAt": "2026-08-30T21:48:20Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 14,
+    "author": "porridgeraisin",
+    "likes": 4,
+    "views": 0,
+    "retweets": 0,
+    "text": "OpenAI acquires thousands of Mac minis and Mac Studios for AI training. Valuation hitting $1.75T by December 31 at 16.5% YES.",
+    "author_name": "porridgeraisin"
+  },
+  {
+    "id": "49501565",
+    "title": "Data Exfil: OpenAI polices private chats exfiltrated through Codex Memories",
+    "url": "https://github.com/openai/codex/issues/41711",
+    "summary": "Summary: Codex&#39;s memory writer can select an eligible prior rollout without restricting the candidate to the provider that created it. It then serializes a filtered, model-visible transcript of that rollout and sends it using the model p...",
+    "publishedAt": "2026-08-30T18:44:24Z",
+    "source": "Hacker News",
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "score": 27,
+    "author": "tmpnode",
+    "likes": 2,
+    "views": 1,
+    "retweets": 0,
+    "text": "Summary: Codex&#39;s memory writer can select an eligible prior rollout without restricting the candidate to the provider that created it. It then serializes a filtered, model-visible transcript of that rollout and sends it using the model p...",
+    "author_name": "tmpnode"
   }
 ]

@@ -29,6 +29,7 @@ type Candidate = {
 const OUTPUT_FILE = resolve(process.cwd(), 'public', 'data', 'links', 'latest.json')
 const MAX_ITEMS = 20
 const SUMMARY_LIMIT = 320
+const MIN_SUMMARY_LENGTH = 60
 const HN_SEARCHES = [
   'AI',
   'AI startup',
@@ -38,6 +39,42 @@ const HN_SEARCHES = [
   'Anthropic',
 ]
 
+const HIGH_PRIORITY_DOMAINS = [
+  'openai.com',
+  'anthropic.com',
+  'deepmind.com',
+  'google.com',
+  'microsoft.com',
+  'meta.com',
+  'x.com',
+  'techcrunch.com',
+  'theverge.com',
+  'wired.com',
+  'arstechnica.com',
+  'venturebeat.com',
+  'forbes.com',
+  'fastcompany.com',
+  'substack.com',
+  'medium.com',
+  'github.com',
+  'news.ycombinator.com',
+]
+
+const LOW_PRIORITY_PATTERNS = [
+  /show hn/i,
+  /hn:/i,
+  /hiring/i,
+  /job/i,
+  /remote job/i,
+  /looking for/i,
+  /sale$/i,
+  /for sale/i,
+  /just a quick thought/i,
+  /rant/i,
+  /ask hn/i,
+  /poll/i,
+]
+
 function normalizeText(text?: string, limit = 180): string {
   if (!text) return ''
   const str = text.replace(/\s+/g, ' ').trim()
@@ -45,12 +82,47 @@ function normalizeText(text?: string, limit = 180): string {
   return str.length > limit ? `${str.slice(0, limit).trimEnd()}…` : str
 }
 
+function getDomainPriority(url: string): number {
+  try {
+    const hostname = new URL(url).hostname.toLowerCase()
+    if (HIGH_PRIORITY_DOMAINS.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`))) return 20
+    if (hostname.includes('github.com')) return 8
+    if (hostname.includes('medium.com')) return 10
+    if (hostname.includes('substack.com')) return 10
+    if (hostname.includes('x.com') || hostname.includes('twitter.com')) return 6
+    if (hostname.includes('blog')) return 8
+    return 5
+  } catch {
+    return 0
+  }
+}
+
+function isLowSignalTitle(title: string): boolean {
+  const clean = title.trim()
+  if (!clean) return true
+  if (clean.length < 28) return true
+  if (clean.length > 140) return false
+  if (LOW_PRIORITY_PATTERNS.some((pattern) => pattern.test(clean))) return true
+  const words = clean.split(/\s+/).filter(Boolean)
+  return words.length < 5
+}
+
+function isMeaningfulSummary(summary: string): boolean {
+  const clean = summary.trim()
+  if (!clean) return false
+  if (clean.length < MIN_SUMMARY_LENGTH) return false
+  if (/^(?:https?:\/\/|www\.)/i.test(clean)) return false
+  return true
+}
+
 function scoreCandidate(item: Candidate): number {
   let score = item.score
   const haystack = `${item.title} ${item.summary}`.toLowerCase()
   if (/ai|llm|gpt|openai|anthropic|claude|model|agent|deepseek|xai|tesla/i.test(haystack)) score += 3
-  if (/startup|funding|vc|fintech|payment|bank|market|earnings|ipo/i.test(haystack)) score += 2
-  if (/security|policy|regulation|chip|gpu|inference/i.test(haystack)) score += 1.5
+  if (/startup|funding|vc|fintech|payment|bank|market|earnings|ipo|regulation|chip|gpu|inference|security/i.test(haystack)) score += 2
+  score += getDomainPriority(item.url)
+  if (item.summary && item.summary.length > 120) score += 2
+  if (isLowSignalTitle(item.title)) score -= 7
   return score
 }
 
@@ -105,16 +177,22 @@ async function fetchHNStories(): Promise<Candidate[]> {
 
     for (const hit of hits) {
       if (!hit?.title || !hit?.url) continue
+      const title = String(hit.title)
+      if (isLowSignalTitle(title)) continue
+
       const publishedAt = hit.created_at || new Date().toISOString()
       const id = String(hit.objectID || `${query}-${hit.title}`)
       const sourceSummary = (hit.story_text || hit.comment_text || '').trim()
       const resolvedSummary = sourceSummary || (await fetchPageSummary(String(hit.url)))
+      const normalizedSummary = normalizeText(resolvedSummary || title, SUMMARY_LIMIT)
+
+      if (!isMeaningfulSummary(normalizedSummary)) continue
 
       all.push({
         id,
-        title: normalizeText(hit.title, 120),
+        title: normalizeText(title, 120),
         url: String(hit.url),
-        summary: normalizeText(resolvedSummary || hit.title, SUMMARY_LIMIT),
+        summary: normalizedSummary,
         publishedAt,
         source: { id: 'hn', name: 'Hacker News', category: 'AI' },
         tags: ['AI', '科技'],
@@ -149,6 +227,7 @@ async function main() {
   }
 
   const ranked = Array.from(unique.values())
+    .filter((item) => !isLowSignalTitle(item.title) && isMeaningfulSummary(item.summary))
     .sort((a, b) => {
       const t1 = new Date(b.publishedAt).getTime()
       const t2 = new Date(a.publishedAt).getTime()
