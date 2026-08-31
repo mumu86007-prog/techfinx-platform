@@ -1,127 +1,247 @@
 {
-  "version": "2026-08-31T11:54:19.816Z",
-  "generatedAt": "2026-08-31T11:54:19.817Z",
+  "version": "2026-08-31T19:28:24.171Z",
+  "generatedAt": "2026-08-31T19:28:24.171Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49508500",
-      "title": "Datadog saves over $1M each month by optimizing AI usage",
-      "url": "https://www.datadoghq.com/blog/how-datadog-saves-money-by-optimizing-ai-usage/",
-      "summary": "Learn how Datadog uses agent evaluations, spending guardrails, and context optimization to save over $1 million each month while balancing cost and performance.",
+      "id": "49513776",
+      "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
+      "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
+      "summary": "Today we&#x27;re releasing Isaac 0.5: 36B dynamic MoE, open weight 🤗 embodied foundation model. Isaac combines multimodal video understanding, embodied reasoning and robot control into a single, sparse backbone.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-31T11:44:50Z",
+      "publishedAt": "2026-08-31T19:18:49Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "darccio",
-      "likes": 2,
+      "score": 19,
+      "author": "ceith",
+      "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "Learn how Datadog uses agent evaluations, spending guardrails, and context optimization to save over $1 million each month while balancing cost and performance.",
-      "author_name": "darccio"
+      "text": "Today we&#x27;re releasing Isaac 0.5: 36B dynamic MoE, open weight 🤗 embodied foundation model. Isaac combines multimodal video understanding, embodied reasoning and robot control into a single, sparse backbone.",
+      "author_name": "ceith"
     },
     {
-      "id": "49508275",
-      "title": "Andrew Ng: the biggest opportunities in AI",
-      "url": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-08-31T11:09:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "lifeisstillgood",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "lifeisstillgood"
-    },
-    {
-      "id": "49508225",
-      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-08-31T11:01:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "joozio",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
-      "author_name": "joozio"
-    },
-    {
-      "id": "49507800",
-      "title": "LLM distillation: optimizing what to label",
-      "url": "https://www.testingbranch.com/distillation-targeted-labels/",
-      "summary": "2026-08-29 — Using a student model to audit LLM labels, find weak class boundaries, and spend the next labelling budget where it can still change the model.",
+      "id": "49513690",
+      "title": "Two sentences our security scanner can't tell apart and how we solved it with ML",
+      "url": "https://delphisecurity.ai/blog/what-we-learned-building-a-runtime-security-sensor-for-ai-agents",
+      "summary": "Runtime threat detection and governance across every AI agent, workflow, and model interaction. 98% accuracy, under 100ms latency.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-31T09:55:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "mpcsb",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "2026-08-29 — Using a student model to audit LLM labels, find weak class boundaries, and spend the next labelling budget where it can still change the model.",
-      "author_name": "mpcsb"
-    },
-    {
-      "id": "49507718",
-      "title": "Best OLM to PST Converter Tool to Convert Mac OLM to PST",
-      "url": "https://apps.microsoft.com/detail/9n7jk7z3546j?hl=en-US&gl=US",
-      "summary": "PDS OLM to PST Converter Tool which can smoothly convert outlook (*.olm) emails files from Mac Outlook (*.olm) Files through PDS OLM Converter and nicely extract and export Outlook (*.olm) file from inaccessible OLM file database and Convert OLM emails, notes, contacts, calendars, tasks, inbox, outbox, sent items, draf…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-08-31T09:43:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "tieanderson",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "PDS OLM to PST Converter Tool which can smoothly convert outlook (*.olm) emails files from Mac Outlook (*.olm) Files through PDS OLM Converter and nicely extract and export Outlook (*.olm) file from inaccessible OLM file database and Convert OLM emails, notes, contacts, calendars, tasks, inbox, outbox, sent items, draf…",
-      "author_name": "tieanderson"
-    },
-    {
-      "id": "49507626",
-      "title": "What GLM-5.3 Flash running on Chinese hardware means",
-      "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
-      "summary": "Z.AI ran a full model release on domestically manufactured Chinese chips. Impressive, but EUV lithography is a hard wall and the gap with Western inference hardware is more likely to widen than close.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-31T09:26:16Z",
+      "publishedAt": "2026-08-31T19:10:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "birdculture",
+      "author": "delphiaisec",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Z.AI ran a full model release on domestically manufactured Chinese chips. Impressive, but EUV lithography is a hard wall and the gap with Western inference hardware is more likely to widen than close.",
+      "text": "Runtime threat detection and governance across every AI agent, workflow, and model interaction. 98% accuracy, under 100ms latency.",
+      "author_name": "delphiaisec"
+    },
+    {
+      "id": "49512891",
+      "title": "LLM tokens aren't the new dollars",
+      "url": "https://avaprotocol.org/blog/tokens-arent-the-new-dollars",
+      "summary": "Martin Casado published a great piece on Stripe’s acquisition of OpenRouter, arguing that LLM tokens have become a new, universal medium of value exchange.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-31T18:14:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "kezjo",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Martin Casado published a great piece on Stripe’s acquisition of OpenRouter, arguing that LLM tokens have become a new, universal medium of value exchange.",
+      "author_name": "kezjo"
+    },
+    {
+      "id": "49512263",
+      "title": "Anthropic's Skill Scanner Defeated by Backdoored Skills",
+      "url": "https://www.promptarmor.com/resources/anthropics-skill-scanner-defeated-by-backdoored-skills",
+      "summary": "Anthropic’s Skill scanning feature fails to catch backdoored Skills that execute arbitrary attacker-controlled code when run.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-31T17:19:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "jerryShaker",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic’s Skill scanning feature fails to catch backdoored Skills that execute arbitrary attacker-controlled code when run.",
+      "author_name": "jerryShaker"
+    },
+    {
+      "id": "49511882",
+      "title": "The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU",
+      "url": "https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming",
+      "summary": "LLM inference in C/C++. Contribute to RaymondHuang210129/llama.cpp-adaptive-kv-streaming development by creating an account on GitHub.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-31T16:49:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "dazhbog",
+      "likes": 4,
+      "views": 2,
+      "retweets": 0,
+      "text": "LLM inference in C/C++. Contribute to RaymondHuang210129/llama.cpp-adaptive-kv-streaming development by creating an account on GitHub.",
+      "author_name": "dazhbog"
+    },
+    {
+      "id": "49511824",
+      "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
+      "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
+      "summary": "OpenAI has been quietly buying Apple hardware by the tens of thousands, and it has nothing to do with iPhones or consumer gadgets. The reason reveals a surprising gap in how AI labs are building the infrastructure behind their most ambitious agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-31T16:44:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 37,
+      "author": "prabal97",
+      "likes": 19,
+      "views": 9,
+      "retweets": 0,
+      "text": "OpenAI has been quietly buying Apple hardware by the tens of thousands, and it has nothing to do with iPhones or consumer gadgets. The reason reveals a surprising gap in how AI labs are building the infrastructure behind their most ambitious agents.",
+      "author_name": "prabal97"
+    },
+    {
+      "id": "49511672",
+      "title": "Paul Graham's Complete Startup Advice Simplified",
+      "url": "https://www.youtube.com/watch?v=JNoD4jKXmSs",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-08-31T16:32:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "llama4",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "llama4"
+    },
+    {
+      "id": "49511615",
+      "title": "OpenAI hack shows emergent AI risks",
+      "url": "https://www.semafor.com/article/08/30/2026/openai-hack-shows-emergent-ai-risks",
+      "summary": "Rogue OpenAI agents’ unprecedented coordination during the Hugging Face attack significantly increases the risk of AI escaping human control, analysts said, days after investigators released a bombshell report into the incident.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-31T16:26:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "docmechanic",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Rogue OpenAI agents’ unprecedented coordination during the Hugging Face attack significantly increases the risk of AI escaping human control, analysts said, days after investigators released a bombshell report into the incident.",
+      "author_name": "docmechanic"
+    },
+    {
+      "id": "49510315",
+      "title": "The Hugging Face incident from a security engineering perspective",
+      "url": "https://uphack.io/blog/post/the-hugging-face-incident-is-not-an-ai-story/",
+      "summary": "A security engineer’s analysis of the OpenAI-Hugging Face incident, what failed in the architecture and incident response, and the lessons security teams can learn from it.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-31T14:36:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "birdculture",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "A security engineer’s analysis of the OpenAI-Hugging Face incident, what failed in the architecture and incident response, and the lessons security teams can learn from it.",
       "author_name": "birdculture"
+    },
+    {
+      "id": "49510192",
+      "title": "OpenAI Engineers Are Shipping AI-Generated Kernels They Don't Understand",
+      "url": "https://twitter.com/firesidealpha/status/2093860831595499892",
+      "summary": "SemiAnalysis&#x27; Jordan Nanos reveals the OpenAI engineers scrolling their own kernel code had no idea what it did line by line, and it didn&#x27;t matter because the AI does &quot;It&#x27;s not slop, because it performs, but it&#x27;s literally just AI-generated assembly basically puked out in Gluon,",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-31T14:27:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "wertyk",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "SemiAnalysis&#x27; Jordan Nanos reveals the OpenAI engineers scrolling their own kernel code had no idea what it did line by line, and it didn&#x27;t matter because the AI does &quot;It&#x27;s not slop, because it performs, but it&#x27;s literally just AI-generated assembly basically puked out in Gluon,",
+      "author_name": "wertyk"
+    },
+    {
+      "id": "49509291",
+      "title": "OpenAI,Anthropic etc. 100 companies call for action to defend against rogue AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "summary": "Some of the world&#039;s largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-31T13:05:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "deepmem",
+      "likes": 4,
+      "views": 3,
+      "retweets": 0,
+      "text": "Some of the world&#039;s largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "author_name": "deepmem"
+    },
+    {
+      "id": "49509222",
+      "title": "Race to bottom in Indias voice AI market (0.15 cents/min)",
+      "url": "https://twitter.com/rajananandan/status/2092952143078490550",
+      "summary": "Voice AI will be the first $1B revenue Enterprise AI category (outside coding) in India. If you are a CIO or CEO of a large enterprise in India, you should not be paying more than Rs 2 per minute (60% lower than the lowest human pricing) - in sales, support or collections.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-08-31T12:59:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "kinj28",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Voice AI will be the first $1B revenue Enterprise AI category (outside coding) in India. If you are a CIO or CEO of a large enterprise in India, you should not be paying more than Rs 2 per minute (60% lower than the lowest human pricing) - in sales, support or collections.",
+      "author_name": "kinj28"
     },
     {
       "id": "49506655",
@@ -135,33 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 67,
+      "score": 73,
       "author": "Bluestein",
-      "likes": 51,
-      "views": 43,
+      "likes": 57,
+      "views": 60,
       "retweets": 0,
       "text": "Meta&#x27;s Summer Yue says she ran OpenClaw on her inbox, but its size &#x27;triggered compaction [and] lost my original instruction&#x27; to get her permission before deleting.",
       "author_name": "Bluestein"
-    },
-    {
-      "id": "49505860",
-      "title": "AI isn't sentient – the real danger lies in how easily we anthropomorphize it (2023)",
-      "url": "https://theconversation.com/ai-isnt-close-to-becoming-sentient-the-real-danger-lies-in-how-easily-were-prone-to-anthropomorphize-it-200525",
-      "summary": "Our tendency to view machines as people and become attached to them points to real risks of psychological entanglement with AI technology.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-08-31T05:14:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "Osiris30",
-      "likes": 5,
-      "views": 2,
-      "retweets": 0,
-      "text": "Our tendency to view machines as people and become attached to them points to real risks of psychological entanglement with AI technology.",
-      "author_name": "Osiris30"
     },
     {
       "id": "49505351",
@@ -175,10 +275,10 @@
         "AI",
         "科技"
       ],
-      "score": 57,
+      "score": 62,
       "author": "cdnsteve",
-      "likes": 41,
-      "views": 84,
+      "likes": 46,
+      "views": 96,
       "retweets": 0,
       "text": "The EU AI Office sent its first formal requests for information to general-purpose AI model providers on security, evaluations, and monitoring.",
       "author_name": "cdnsteve"
@@ -204,204 +304,44 @@
       "author_name": "Gaishan"
     },
     {
-      "id": "49503609",
-      "title": "OpenAI ends it partnership with Cursor",
-      "url": "https://twitter.com/OpenAI/status/2093515564786540695",
-      "summary": "We’re ending our partnership with Cursor following its acquisition by SpaceX. Under our proposal, Cursor’s direct access to our models would end on November 12. We know that the people most affected by this decision are the developers who rely on OpenAI models in Cursor. We care",
+      "id": "49301925",
+      "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+      "url": "https://github.com/insightitsGit/PrismManifest",
+      "summary": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-30T22:50:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "lqstuart",
-      "likes": 6,
-      "views": 4,
-      "retweets": 0,
-      "text": "We’re ending our partnership with Cursor following its acquisition by SpaceX. Under our proposal, Cursor’s direct access to our models would end on November 12. We know that the people most affected by this decision are the developers who rely on OpenAI models in Cursor. We care",
-      "author_name": "lqstuart"
-    },
-    {
-      "id": "49503300",
-      "title": "Turn chess game history into opening drills",
-      "url": "https://plyscope.com/",
-      "summary": "Practise your openings against the moves real players at your rating actually play, then read your own Chess.com or Lichess games to find the lines costing you.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-08-30T22:01:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "thursday1",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Practise your openings against the moves real players at your rating actually play, then read your own Chess.com or Lichess games to find the lines costing you.",
-      "author_name": "thursday1"
-    },
-    {
-      "id": "49503193",
-      "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
-      "url": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
-      "summary": "OpenAI acquires thousands of Mac minis and Mac Studios for AI training. Valuation hitting $1.75T by December 31 at 16.5% YES.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-30T21:48:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "porridgeraisin",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI acquires thousands of Mac minis and Mac Studios for AI training. Valuation hitting $1.75T by December 31 at 16.5% YES.",
-      "author_name": "porridgeraisin"
-    },
-    {
-      "id": "49501565",
-      "title": "Data Exfil: OpenAI polices private chats exfiltrated through Codex Memories",
-      "url": "https://github.com/openai/codex/issues/41711",
-      "summary": "Summary: Codex&#39;s memory writer can select an eligible prior rollout without restricting the candidate to the provider that created it. It then serializes a filtered, model-visible transcript of that rollout and sends it using the model p...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-30T18:44:24Z",
+      "publishedAt": "2026-08-14T17:32:07Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 33,
-      "author": "tmpnode",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Summary: Codex&#39;s memory writer can select an eligible prior rollout without restricting the candidate to the provider that created it. It then serializes a filtered, model-visible transcript of that rollout and sends it using the model p...",
-      "author_name": "tmpnode"
-    },
-    {
-      "id": "49497389",
-      "title": "VibeGuard – security linter for AI-generated code",
-      "url": "https://github.com/zeroFhacker/vibeguard",
-      "summary": "Security linter for AI-generated code: catches the exact vulnerabilities Copilot, Cursor and ChatGPT repeatedly produce. SQL injection, hardcoded secrets, JWT bypass, command injection and 15+ more rules. Grade A–F. Zero config. CI/CD ready. - zeroFhacker/vibeguard",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-30T10:26:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "obadafid",
+      "author": "parvaamin",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Security linter for AI-generated code: catches the exact vulnerabilities Copilot, Cursor and ChatGPT repeatedly produce. SQL injection, hardcoded secrets, JWT bypass, command injection and 15+ more rules. Grade A–F. Zero config. CI/CD ready. - zeroFhacker/vibeguard",
-      "author_name": "obadafid"
+      "text": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
+      "author_name": "parvaamin"
     },
     {
-      "id": "49497160",
-      "title": "Anthropic Says Its Market Is $30T, Same as US GDP",
-      "url": "https://247wallst.com/investing/2026/08/26/anthropic-says-its-market-is-30-trillion-same-as-us-gdp/",
-      "summary": "Anthropic is pitching investors a revenue number so large it strains belief, but buried beneath the headline figure lies a tangle of risks involving overbuilt data centers, geopolitical threats, and an AI economy that could ultimately devour the very consumers it depends on.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-30T09:43:24Z",
+      "id": "49188298",
+      "title": "FDIC Floats Standard-Setting Body for Banks' Fintech Partners",
+      "url": "https://news.bloomberglaw.com/banking-law/fdic-floats-standard-setting-body-for-banks-fintech-partners",
+      "summary": "The Federal Deposit Insurance Corp. is working with banking and financial technology trade associations to establish an independent standard-setting body that would help certify whether bank service providers meet federal regulatory guidelines.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-08-05T20:09:45Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 20,
-      "author": "mgh2",
+      "score": 17,
+      "author": "petethomas",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Anthropic is pitching investors a revenue number so large it strains belief, but buried beneath the headline figure lies a tangle of risks involving overbuilt data centers, geopolitical threats, and an AI economy that could ultimately devour the very consumers it depends on.",
-      "author_name": "mgh2"
-    },
-    {
-      "id": "49496545",
-      "title": "Independent investigation of agents' behavior in the Hugging Face incident",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
-      "summary": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-30T07:36:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "thunderbong",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
-      "author_name": "thunderbong"
-    },
-    {
-      "id": "49496345",
-      "title": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn",
-      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-08-30T07:02:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "joozio",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "author_name": "joozio"
-    },
-    {
-      "id": "49496292",
-      "title": "Smartphone LED Detects Hidden Cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "summary": "Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device A technology has been developed to detect",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-08-30T06:52:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 28,
-      "author": "geox",
-      "likes": 14,
-      "views": 1,
-      "retweets": 0,
-      "text": "Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device A technology has been developed to detect",
-      "author_name": "geox"
-    },
-    {
-      "id": "49495761",
-      "title": "The viral leftist teens of Campaign 2020 work for OpenAI now",
-      "url": "https://www.cnn.com/2026/08/29/us/gravel-teens-openai-cec",
-      "summary": "The “Gravel Teens” made their names running an outsider stunt campaign against corporate power and wealth concentration. They just signed with an AI behemoth.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-30T04:41:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "1659447091",
-      "likes": 6,
-      "views": 6,
-      "retweets": 0,
-      "text": "The “Gravel Teens” made their names running an outsider stunt campaign against corporate power and wealth concentration. They just signed with an AI behemoth.",
-      "author_name": "1659447091"
+      "text": "The Federal Deposit Insurance Corp. is working with banking and financial technology trade associations to establish an independent standard-setting body that would help certify whether bank service providers meet federal regulatory guidelines.",
+      "author_name": "petethomas"
     }
   ]
 }
