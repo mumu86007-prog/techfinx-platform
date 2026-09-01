@@ -1,147 +1,387 @@
 {
-  "version": "2026-09-01T13:23:44.138Z",
-  "generatedAt": "2026-09-01T13:23:44.138Z",
+  "version": "2026-09-01T21:40:40.375Z",
+  "generatedAt": "2026-09-01T21:40:40.375Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49521551",
-      "title": "Having Fun with Vercel's AI SDK and AI Gateway",
-      "url": "https://blog.master.dev/having-fun-with-vercels-ai-sdk-and-ai-gateway/",
-      "summary": "The why and how to get it installed and use it with different models, then actually build something. Plus a little Zod type safety for good measure.",
+      "id": "49528570",
+      "title": "In-memory security gate for autonomous AI agent tools",
+      "url": "https://bartholomew.info",
+      "summary": "Bartholomew Autonomous Trust Protocol (BTP v2.3) — Sub-50µs deterministic guardrails, AST pre-flight compiler gating, and RFC 8785 Ed25519 verifiable execution evidence for autonomous AI agents.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T13:14:31Z",
+      "publishedAt": "2026-09-01T21:36:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "itsub_sa",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Bartholomew Autonomous Trust Protocol (BTP v2.3) — Sub-50µs deterministic guardrails, AST pre-flight compiler gating, and RFC 8785 Ed25519 verifiable execution evidence for autonomous AI agents.",
+      "author_name": "itsub_sa"
+    },
+    {
+      "id": "49528463",
+      "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
+      "url": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-01T21:26:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "emk_709",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "emk_709"
+    },
+    {
+      "id": "49527949",
+      "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
+      "url": "https://waymo.com/blog/2026/08/10ailessons/",
+      "summary": "Much of the autonomous vehicle (AV) space is uncharted territory. However, at Waymo, with more than 200 million miles driven fully autonomously, we’re one of very few companies that can look to our past to illuminate our future. Our experience has led us to ten fundamental truths that shape how we build AI.",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-09-01T20:44:30Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "ibobev",
-      "likes": 1,
+      "author": "bookofjoe",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "The why and how to get it installed and use it with different models, then actually build something. Plus a little Zod type safety for good measure.",
-      "author_name": "ibobev"
+      "text": "Much of the autonomous vehicle (AV) space is uncharted territory. However, at Waymo, with more than 200 million miles driven fully autonomously, we’re one of very few companies that can look to our past to illuminate our future. Our experience has led us to ten fundamental truths that shape how we build AI.",
+      "author_name": "bookofjoe"
     },
     {
-      "id": "49521346",
-      "title": "HEPA air purifiers may boost brain function after just one month",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
-      "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help protect the brain from the effects of traffic-related pollution.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-01T12:56:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "_____k",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help protect the brain from the effects of traffic-related pollution.",
-      "author_name": "_____k"
-    },
-    {
-      "id": "49521315",
-      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-      "summary": "New markets, new ideas, and new creators are actually what copyright is supposed to promote, not restrict. Using copyright to lock in existing gatekeepers and massive rightsholders’ profits helps neither the public nor individual artists.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-01T12:53:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 48,
-      "author": "DeepLogin",
-      "likes": 30,
-      "views": 7,
-      "retweets": 0,
-      "text": "New markets, new ideas, and new creators are actually what copyright is supposed to promote, not restrict. Using copyright to lock in existing gatekeepers and massive rightsholders’ profits helps neither the public nor individual artists.",
-      "author_name": "DeepLogin"
-    },
-    {
-      "id": "49521222",
-      "title": "Stop Building Your AI Product Around Today's Model",
-      "url": "https://garybake.com/stop-building-todays-model.html",
-      "summary": "The models will change. Your architecture shouldn&#39;t have to. Why engineering leaders should optimise AI systems for the cost of changing their mind, not for today&#39;s best model.",
+      "id": "49527573",
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "summary": "Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery....",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T12:45:28Z",
+      "publishedAt": "2026-09-01T20:19:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "garybake",
-      "likes": 1,
-      "views": 1,
+      "score": 90,
+      "author": "colinprince",
+      "likes": 78,
+      "views": 31,
       "retweets": 0,
-      "text": "The models will change. Your architecture shouldn&#39;t have to. Why engineering leaders should optimise AI systems for the cost of changing their mind, not for today&#39;s best model.",
-      "author_name": "garybake"
+      "text": "Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery....",
+      "author_name": "colinprince"
     },
     {
-      "id": "49521221",
-      "title": "The future tech role is the product architect",
-      "url": "https://akashyap.ai/the-future-tech-role-is-the-product-architect/",
-      "summary": "product-architect TL;DR: Coding is moving from humans to agents. As agents get better at implementing, testing, and reviewing software, the human role moves...",
+      "id": "49527125",
+      "title": "The failure your LLM dashboard can't see",
+      "url": "https://percentes.ai/writing/2026/the-failure-your-dashboard-cannot-see/",
+      "summary": "The first time I pointed a load generator at a hosted inference API, I learned something about my own measurement before I learned anything about the provide...",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T12:45:26Z",
+      "publishedAt": "2026-09-01T19:48:42Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "ltononro",
+      "score": 17,
+      "author": "itsveems",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "product-architect TL;DR: Coding is moving from humans to agents. As agents get better at implementing, testing, and reviewing software, the human role moves...",
-      "author_name": "ltononro"
+      "text": "The first time I pointed a load generator at a hosted inference API, I learned something about my own measurement before I learned anything about the provide...",
+      "author_name": "itsveems"
     },
     {
-      "id": "49521212",
-      "title": "Foremerge: Catch conflicts between AI coding agents before they code",
-      "url": "https://github.com/naw103/foremerge",
-      "summary": "Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git. - naw103/foremerge",
+      "id": "49526901",
+      "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-says-openai-destroying-evidence-210352338.html",
+      "summary": "Apple Inc. escalated its legal battle against OpenAI, claiming in a new court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not only downloaded a confidential Apple circuit schematic but also used it in his work” at the AI company.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T12:44:17Z",
+      "publishedAt": "2026-09-01T19:32:02Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "foremerge",
-      "likes": 1,
+      "score": 22,
+      "author": "devonnull",
+      "likes": 6,
       "views": 0,
       "retweets": 0,
-      "text": "Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git. - naw103/foremerge",
-      "author_name": "foremerge"
+      "text": "Apple Inc. escalated its legal battle against OpenAI, claiming in a new court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not only downloaded a confidential Apple circuit schematic but also used it in his work” at the AI company.",
+      "author_name": "devonnull"
     },
     {
-      "id": "49521183",
-      "title": "AI safety is designed in the West, and failing users everywhere",
-      "url": "https://restofworld.org/2026/ai-safety-bias/",
-      "summary": "Western AI firms design safety checks for high-income nations, leaving developing countries exposed to misdiagnoses, language barriers, and critical failure.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-01T12:41:44Z",
+      "id": "49526533",
+      "title": "Mutating every DNA letter of a genome shows the limits of AI",
+      "url": "https://www.nature.com/articles/d41586-026-02609-y",
+      "summary": "Top artificial-intelligence models failed to predict the biological consequences of rewriting a virus&#x27;s entire DNA code.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T19:07:07Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "cdrnsf",
+      "author": "sbulaev",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Western AI firms design safety checks for high-income nations, leaving developing countries exposed to misdiagnoses, language barriers, and critical failure.",
-      "author_name": "cdrnsf"
+      "text": "Top artificial-intelligence models failed to predict the biological consequences of rewriting a virus&#x27;s entire DNA code.",
+      "author_name": "sbulaev"
+    },
+    {
+      "id": "49525737",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T18:16:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "surprisetalk",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "author_name": "surprisetalk"
+    },
+    {
+      "id": "49525622",
+      "title": "Anthropic launches Fable 5.1 and Mythos 5.1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/anthropic-says-new-fable-5-1-ai-model-is-cheaper-better-at-coding",
+      "summary": "Anthropic PBC is releasing a new version of its powerful Fable artificial intelligence model that it says is better at coding and science tasks, as well as more economical — all changes it says are in response to customer feedback.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T18:10:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "josefchen",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Anthropic PBC is releasing a new version of its powerful Fable artificial intelligence model that it says is better at coding and science tasks, as well as more economical — all changes it says are in response to customer feedback.",
+      "author_name": "josefchen"
+    },
+    {
+      "id": "49525561",
+      "title": "GitSpawn: A Single Flaw Lets Untrusted Repos Run Code in Claude Code, and Others",
+      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+      "summary": "Popular CLI AI coding agents run git commands on startup. A repo you were sent can hijack them to run code on your machine, no clicks required.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T18:06:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "0xmagic0",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Popular CLI AI coding agents run git commands on startup. A repo you were sent can hijack them to run code on your machine, no clicks required.",
+      "author_name": "0xmagic0"
+    },
+    {
+      "id": "49525378",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "summary": "What&#x27;s new in Claude Fable 5.1 – <a href=\"https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-new-fable-5-1\" rel=\"nofollow\">https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...</a><p>System Card: <a href=\"https:&#x2F;&#x2F;www-…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T17:53:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 730,
+      "author": "denysvitali",
+      "likes": 699,
+      "views": 668,
+      "retweets": 0,
+      "text": "What&#x27;s new in Claude Fable 5.1 – <a href=\"https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-new-fable-5-1\" rel=\"nofollow\">https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...</a><p>System Card: <a href=\"https:&#x2F;&#x2F;www-…",
+      "author_name": "denysvitali"
+    },
+    {
+      "id": "49524791",
+      "title": "Hybrid Compute in Perplexity Computer",
+      "url": "https://twitter.com/perplexity_ai/status/2094803515264978953",
+      "summary": "Introducing hybrid compute in Perplexity Computer. Computer can start a task in the cloud, then move to a local model that runs on your Mac. Use it for steps involving private files or sensitive data. Available today in the Perplexity Mac app.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T17:05:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "tosh",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Introducing hybrid compute in Perplexity Computer. Computer can start a task in the cloud, then move to a local model that runs on your Mac. Use it for steps involving private files or sensitive data. Available today in the Perplexity Mac app.",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49524784",
+      "title": "OpenAI Cuts Off Cursor's Model Access After SpaceX Acquisition",
+      "url": "https://devops.com/openai-cuts-off-cursors-model-access-after-spacex-acquisition/",
+      "summary": "OpenAI is ending Cursor’s direct access to its AI models after Elon Musk’s SpaceX acquired its parent company, Anysphere.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T17:05:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "CrankyBear",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "OpenAI is ending Cursor’s direct access to its AI models after Elon Musk’s SpaceX acquired its parent company, Anysphere.",
+      "author_name": "CrankyBear"
+    },
+    {
+      "id": "49524202",
+      "title": "SquidGPT, an elimination death game for AI",
+      "url": "https://twitter.com/spakhm/status/2094820316035862928",
+      "summary": "I&#x27;ve been working on SquidGPT, an elimination death game for probing AI behavior like loyalty, holding grudges, cruelty, betrayal, etc. Full writeup will take a while, but here are first impressions from 54 game runs (about $100 total cost): 1. Models have absolutely no interest in cruelty or merc…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T16:25:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "tosh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I&#x27;ve been working on SquidGPT, an elimination death game for probing AI behavior like loyalty, holding grudges, cruelty, betrayal, etc. Full writeup will take a while, but here are first impressions from 54 game runs (about $100 total cost): 1. Models have absolutely no interest in cruelty or merc…",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49523925",
+      "title": "Ajeya Cotra – The OpenAI/Hugging Face story, told by one of the investigators [video]",
+      "url": "https://www.youtube.com/watch?v=X50zezLFWWI",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T16:06:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "tosh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49523224",
+      "title": "Ben-Gvir posts then deletes AI video showing starvation of Palestinians",
+      "url": "https://twitter.com/KweenInYellow/status/2094549290953715717",
+      "summary": "Israel&#x27;s National Security Minister Itamar Ben-Gvir has deleted his video depicting kidnapped Palestinians being sent into an industrialized slaughterhouse.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-01T15:24:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "slowin",
+      "likes": 4,
+      "views": 1,
+      "retweets": 0,
+      "text": "Israel&#x27;s National Security Minister Itamar Ben-Gvir has deleted his video depicting kidnapped Palestinians being sent into an industrialized slaughterhouse.",
+      "author_name": "slowin"
+    },
+    {
+      "id": "49523190",
+      "title": "Instinct's powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-01T15:22:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "wslh",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+      "author_name": "wslh"
+    },
+    {
+      "id": "49522498",
+      "title": "H3 Max Live: AI video generated faster than real time, directed by Twitch chat",
+      "url": "https://twitter.com/rehan_shei/status/2093528415576211819",
+      "summary": "Minimax H3 Max has generates video faster than you can watch it so I hooked it to a twitch livestream! Now you can watch infinite interdimensional cable - link to the stream below",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-01T14:28:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "creatune",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Minimax H3 Max has generates video faster than you can watch it so I hooked it to a twitch livestream! Now you can watch infinite interdimensional cable - link to the stream below",
+      "author_name": "creatune"
+    },
+    {
+      "id": "49521430",
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T13:04:06Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 36,
+      "author": "jbegley",
+      "likes": 3,
+      "views": 3,
+      "retweets": 0,
+      "text": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
+      "author_name": "jbegley"
     },
     {
       "id": "49520813",
@@ -162,246 +402,6 @@
       "retweets": 0,
       "text": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
       "author_name": "voxleone"
-    },
-    {
-      "id": "49520795",
-      "title": "Java's String.indexOf can be slow (quadratic)",
-      "url": "https://lemire.me/blog/2026/08/22/javas-string-indexof-can-be-slow-quadratic/",
-      "summary": "In Java, you find the location of a substring using indexOf. String haystack = &quot;The quick brown fox jumps over the lazy dog&quot;; String needle = &quot;fox&quot;; int index = haystack.indexOf(needle); Naively, you might implement indexOf by a loop inside a loop, like so. int naiveIndexOf(String haystack, String n…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-01T12:02:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "surprisetalk",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "In Java, you find the location of a substring using indexOf. String haystack = &quot;The quick brown fox jumps over the lazy dog&quot;; String needle = &quot;fox&quot;; int index = haystack.indexOf(needle); Naively, you might implement indexOf by a loop inside a loop, like so. int naiveIndexOf(String haystack, String n…",
-      "author_name": "surprisetalk"
-    },
-    {
-      "id": "49520593",
-      "title": "Codex users debate the new Pet feature",
-      "url": "https://community.openai.com/t/codex-users-debate-the-new-pet-feature/1386776",
-      "summary": "What the heck is “Pet,” and why is OpenAI turning Codex into Windows by introducing junk features likey clippy with zero practical value? Why are highly paid engineers being asked to spend time on features like this whe…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T11:38:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "Bluestein",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "What the heck is “Pet,” and why is OpenAI turning Codex into Windows by introducing junk features likey clippy with zero practical value? Why are highly paid engineers being asked to spend time on features like this whe…",
-      "author_name": "Bluestein"
-    },
-    {
-      "id": "49520252",
-      "title": "Semantic Lightness and the Rise of LLMs",
-      "url": "https://assertfail.gewalli.se/2026/08/23/Semantic-lightness-and-the-rise-of-LLMs.html",
-      "summary": "If we look at using LLMs to write code and you have seen your fair share of similar technologies, there is an obvious reason why enterprise development seems suitable: semantic lightness to using architecture-heavy code. This has been parodied in Enterprise FizzBuzz. It wouldn’t be funny if there was no truth to it. Th…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T10:54:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "wallymathieu",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "If we look at using LLMs to write code and you have seen your fair share of similar technologies, there is an obvious reason why enterprise development seems suitable: semantic lightness to using architecture-heavy code. This has been parodied in Enterprise FizzBuzz. It wouldn’t be funny if there was no truth to it. Th…",
-      "author_name": "wallymathieu"
-    },
-    {
-      "id": "49519135",
-      "title": "AI product management: Familiar enough to start, different enough to fail",
-      "url": "https://www.leadinginproduct.com/p/ai-product-management",
-      "summary": "Building AI tools feels like regular product work. Until it doesn&#x27;t. Four ideas that change how you approach AI product development.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-01T07:37:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "benkan",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Building AI tools feels like regular product work. Until it doesn&#x27;t. Four ideas that change how you approach AI product development.",
-      "author_name": "benkan"
-    },
-    {
-      "id": "49518882",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T07:02:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "joozio",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to…",
-      "author_name": "joozio"
-    },
-    {
-      "id": "49518683",
-      "title": "What AI code review misses: SSRF and more",
-      "url": "https://zeroquarry.com/research/security-vulnerabilities-in-ai-reviewed-code/",
-      "summary": "iShortn, an open source URL shortener, was already using AI code review when the vulnerabilities ZeroQuarry found were introduced. The review found locally plausible concerns. It missed both attack paths.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-01T06:35:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "eskibars",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "iShortn, an open source URL shortener, was already using AI code review when the vulnerabilities ZeroQuarry found were introduced. The review found locally plausible concerns. It missed both attack paths.",
-      "author_name": "eskibars"
-    },
-    {
-      "id": "49517536",
-      "title": "Anthropic signs $35B cloud deal with Nvidia-backed Lambda, source says",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/01/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda-source-says",
-      "summary": "Aug 31 (Reuters) - Anthropic has signed a cloud-computing deal ⁠worth $35 billion with Lambda, a cloud provider backed by Nvidia, ‌for a Texas data center, a source familiar with the matter said on Monday.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T03:05:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "geoffbp",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Aug 31 (Reuters) - Anthropic has signed a cloud-computing deal ⁠worth $35 billion with Lambda, a cloud provider backed by Nvidia, ‌for a Texas data center, a source familiar with the matter said on Monday.",
-      "author_name": "geoffbp"
-    },
-    {
-      "id": "49516354",
-      "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
-      "summary": "Apple Inc. escalated its legal battle against OpenAI, claiming in a court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not only downloaded a confidential Apple circuit schematic but also used it in his work” at the AI company.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T00:07:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 46,
-      "author": "sbulaev",
-      "likes": 30,
-      "views": 0,
-      "retweets": 0,
-      "text": "Apple Inc. escalated its legal battle against OpenAI, claiming in a court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not only downloaded a confidential Apple circuit schematic but also used it in his work” at the AI company.",
-      "author_name": "sbulaev"
-    },
-    {
-      "id": "49515772",
-      "title": "Improving our alignment and security practices",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-31T22:45:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 38,
-      "author": "surprisetalk",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
-      "author_name": "surprisetalk"
-    },
-    {
-      "id": "49515738",
-      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "summary": "Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery....",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-31T22:41:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "spenvo",
-      "likes": 11,
-      "views": 0,
-      "retweets": 0,
-      "text": "Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery....",
-      "author_name": "spenvo"
-    },
-    {
-      "id": "49513776",
-      "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
-      "url": "https://twitter.com/perceptroninc/status/2092678357775442103",
-      "summary": "Today we&#x27;re releasing Isaac 0.5: 36B dynamic MoE, open weight 🤗 embodied foundation model. Isaac combines multimodal video understanding, embodied reasoning and robot control into a single, sparse backbone.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-31T19:18:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "ceith",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "Today we&#x27;re releasing Isaac 0.5: 36B dynamic MoE, open weight 🤗 embodied foundation model. Isaac combines multimodal video understanding, embodied reasoning and robot control into a single, sparse backbone.",
-      "author_name": "ceith"
-    },
-    {
-      "id": "49513690",
-      "title": "Two sentences our security scanner can't tell apart and how we solved it with ML",
-      "url": "https://delphisecurity.ai/blog/what-we-learned-building-a-runtime-security-sensor-for-ai-agents",
-      "summary": "Runtime threat detection and governance across every AI agent, workflow, and model interaction. 98% accuracy, under 100ms latency.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-31T19:10:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "delphiaisec",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Runtime threat detection and governance across every AI agent, workflow, and model interaction. 98% accuracy, under 100ms latency.",
-      "author_name": "delphiaisec"
     }
   ]
 }
