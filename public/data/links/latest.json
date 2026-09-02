@@ -1,127 +1,207 @@
 {
-  "version": "2026-09-02T12:42:22.766Z",
-  "generatedAt": "2026-09-02T12:42:22.766Z",
+  "version": "2026-09-02T17:05:48.567Z",
+  "generatedAt": "2026-09-02T17:05:48.567Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49535284",
-      "title": "Mistral trains on user input by default, except on enterprise tier",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "summary": "Can I opt out of my input or output data being used for training? | Mistral Help Center Copyright (c) 2023, Intercom, Inc. (legal@intercom.io) with Reserved Font Name &quot;Inter&quot;. This Font Software is licensed under the SIL Open Font License, Version 1.1. Skip to main content English Français Italiano English Se…",
+      "id": "49539191",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confiden…",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-02T12:30:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "teekert",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "Can I opt out of my input or output data being used for training? | Mistral Help Center Copyright (c) 2023, Intercom, Inc. (legal@intercom.io) with Reserved Font Name &quot;Inter&quot;. This Font Software is licensed under the SIL Open Font License, Version 1.1. Skip to main content English Français Italiano English Se…",
-      "author_name": "teekert"
-    },
-    {
-      "id": "49535211",
-      "title": "Why I prefer using LLM API aggregators over subscription services",
-      "url": "https://crazysteve.bearblog.dev/why-i-prefer-using-llm-api-aggregators-over-subscription-services/",
-      "summary": "Note: I have no affiliation with Cortecs or open-webui. This is just my opinion. An LLM API aggregator is a platform that provides a single, unified API end...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T12:24:08Z",
+      "publishedAt": "2026-09-02T17:01:21Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "expedited123",
+      "author": "joozio",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confiden…",
+      "author_name": "joozio"
+    },
+    {
+      "id": "49539152",
+      "title": "Mushroom hunting with LLMs: what can go wrong?",
+      "url": "https://quesma.com/blog/mushroom-llm-vision/",
+      "summary": "Mushroom identification with AI: GPT-5.6-Sol, Gemini 3.7 Flash, GLM-5.3-Flash and Claude Fable 5.1 benchmarked on poisonous and edible species of FungiTastic. A lot of dangerous errors.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T16:58:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "stared",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Mushroom identification with AI: GPT-5.6-Sol, Gemini 3.7 Flash, GLM-5.3-Flash and Claude Fable 5.1 benchmarked on poisonous and edible species of FungiTastic. A lot of dangerous errors.",
+      "author_name": "stared"
+    },
+    {
+      "id": "49539066",
+      "title": "OpenAI's agents exploited a patched Linux bug in Hugging Face incident",
+      "url": "https://www.zdnet.com/tech/cve-2026-53362-fraggap-linux-kernel-exploit-openai-incident/",
+      "summary": "A patched Linux kernel vulnerability in the IPv6 network stack is drawing renewed attention after OpenAI&#039;s agents exploited it.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T16:52:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "CrankyBear",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Note: I have no affiliation with Cortecs or open-webui. This is just my opinion. An LLM API aggregator is a platform that provides a single, unified API end...",
-      "author_name": "expedited123"
+      "text": "A patched Linux kernel vulnerability in the IPv6 network stack is drawing renewed attention after OpenAI&#039;s agents exploited it.",
+      "author_name": "CrankyBear"
     },
     {
-      "id": "49535159",
-      "title": "AI Slop Is Ruining Cute Animals on the Internet",
-      "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
-      "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
+      "id": "49539061",
+      "title": "Tropes – AI Writing Pattern Directory",
+      "url": "https://tropes.fyi/",
+      "summary": "The definitive reference for identifying AI writing patterns. Learn to spot the tropes that give away AI-generated text.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-02T12:19:31Z",
+      "publishedAt": "2026-09-02T16:52:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 34,
-      "author": "amelius",
-      "likes": 5,
+      "score": 13,
+      "author": "The_Fox",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
-      "author_name": "amelius"
+      "text": "The definitive reference for identifying AI writing patterns. Learn to spot the tropes that give away AI-generated text.",
+      "author_name": "The_Fox"
     },
     {
-      "id": "49535102",
-      "title": "AI Agent Memory Design: What Works and What Doesn't",
-      "url": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
-      "summary": "In this article, we look at what works in AI agent memory, what does not, and how to build memory that keeps agents reliable across sessions.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T12:13:20Z",
+      "id": "49539041",
+      "title": "Two API Calls Exposed AI's Hidden Reasoning [video]",
+      "url": "https://www.youtube.com/watch?v=P1v1-2CCKD0",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-02T16:50:57Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "eigenBasis",
+      "author": "edward28",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "In this article, we look at what works in AI agent memory, what does not, and how to build memory that keeps agents reliable across sessions.",
-      "author_name": "eigenBasis"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "edward28"
     },
     {
-      "id": "49535101",
-      "title": "AI goes where the oracle is cheap",
-      "url": "https://dilpreet.co/blog/2026/9/1/ai-goes-where-the-oracle-is-cheap",
-      "summary": "Bun’s AI-assisted Rust rewrite shows why agents thrive when correctness is cheap to test, and why cheap code does not make engineering judgement cheap.",
+      "id": "49538979",
+      "title": "Texas rejected a charter for, yet approved vouchers for, an AI-driven school",
+      "url": "https://www.texastribune.org/2026/09/02/alpha-school-texas-vouchers-ai/",
+      "summary": "Alpha School quadrupled its Texas private school campuses. Most are eligible for state dollars through the new voucher program.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-02T16:47:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "hn_acker",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Alpha School quadrupled its Texas private school campuses. Most are eligible for state dollars through the new voucher program.",
+      "author_name": "hn_acker"
+    },
+    {
+      "id": "49538824",
+      "title": "DefaultModel: Hosting only one model, the best open source model",
+      "url": "https://defaultmodel.ai",
+      "summary": "One reliable, OpenAI-compatible endpoint that always serves the best open-source model. The model only changes when a better one beats it and the community votes for the upgrade.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T12:12:59Z",
+      "publishedAt": "2026-09-02T16:37:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "yoeven",
+      "likes": 2,
+      "views": 2,
+      "retweets": 0,
+      "text": "One reliable, OpenAI-compatible endpoint that always serves the best open-source model. The model only changes when a better one beats it and the community votes for the upgrade.",
+      "author_name": "yoeven"
+    },
+    {
+      "id": "49538768",
+      "title": "SEO vs. AEO vs. Geo vs. AIO: Same Work, Different Acronyms",
+      "url": "https://canonry.ai/blog/seo-vs-aeo-vs-geo-vs-aio",
+      "summary": "AEO, GEO, AIO, LLMO, AI SEO. Most of these terms describe the same work. Where each came from, which distinction is actually real, and four questions that filter the noise.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T16:34:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "argilium",
+      "author": "arberx",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Bun’s AI-assisted Rust rewrite shows why agents thrive when correctness is cheap to test, and why cheap code does not make engineering judgement cheap.",
-      "author_name": "argilium"
+      "text": "AEO, GEO, AIO, LLMO, AI SEO. Most of these terms describe the same work. Where each came from, which distinction is actually real, and four questions that filter the noise.",
+      "author_name": "arberx"
     },
     {
-      "id": "49535092",
-      "title": "Claude Fable 5.1 tops AI index but costs 20% more per task",
-      "url": "https://artificialanalysis.ai/articles/claude-fable-5-1",
-      "summary": "Independent analysis of AI models and hosting providers. Understand the AI landscape and choose the best model and API provider for your use-case.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T12:12:14Z",
+      "id": "49538173",
+      "title": "AI Doomers Are Buying Potemkin Articles",
+      "url": "https://twitter.com/brianchau57/status/2095128785955987698",
+      "summary": "BREAKING: AI Doomers Are Buying Potemkin Articles The AI debate is more fake than you can imagine: Of the 6 participants in this Guardian article, including the journalist and publisher, 6/6 are paid by AI Doomer megadonors.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-02T15:54:16Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "wertyk",
+      "score": 20,
+      "author": "MrBuddyCasino",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "BREAKING: AI Doomers Are Buying Potemkin Articles The AI debate is more fake than you can imagine: Of the 6 participants in this Guardian article, including the journalist and publisher, 6/6 are paid by AI Doomer megadonors.",
+      "author_name": "MrBuddyCasino"
+    },
+    {
+      "id": "49537958",
+      "title": "End AI agent lock-in. Start conversation with one agent – continue with another",
+      "url": "https://github.com/Aplexica/Aplexica",
+      "summary": "Aplexica - end AI agent lock-in. Start conversation with one agent - continue with another in real time. Cross-agent state portability for AI agents - Aplexica/Aplexica",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T15:40:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "yruzin",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Independent analysis of AI models and hosting providers. Understand the AI landscape and choose the best model and API provider for your use-case.",
-      "author_name": "wertyk"
+      "text": "Aplexica - end AI agent lock-in. Start conversation with one agent - continue with another in real time. Cross-agent state portability for AI agents - Aplexica/Aplexica",
+      "author_name": "yruzin"
     },
     {
       "id": "49534773",
@@ -144,26 +224,6 @@
       "author_name": "aientech"
     },
     {
-      "id": "49534583",
-      "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
-      "url": "https://arxiv.org/abs/2608.31016",
-      "summary": "Abstract page for arXiv paper 2608.31016: LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes and What Recovers It",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T11:07:07Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "sbulaev",
-      "likes": 17,
-      "views": 7,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2608.31016: LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes and What Recovers It",
-      "author_name": "sbulaev"
-    },
-    {
       "id": "49534487",
       "title": "VibeGuard – security linter for AI-generated code",
       "url": "https://github.com/zeroFhacker/vibeguard",
@@ -175,53 +235,13 @@
         "AI",
         "科技"
       ],
-      "score": 36,
+      "score": 39,
       "author": "obadafid",
-      "likes": 3,
+      "likes": 6,
       "views": 0,
       "retweets": 0,
       "text": "Security linter for AI-generated code: catches the exact vulnerabilities Copilot, Cursor and ChatGPT repeatedly produce. SQL injection, hardcoded secrets, JWT bypass, command injection and 15+ more rules. Grade A–F. Zero config. CI/CD ready. - zeroFhacker/vibeguard",
       "author_name": "obadafid"
-    },
-    {
-      "id": "49534045",
-      "title": "Can LLMs Discover Scientific Laws in Real and Parallel Worlds?",
-      "url": "https://yiyihum.github.io/SciLaws-Bench/",
-      "summary": "A paper-grounded benchmark of 118 scientific law-discovery problems, evaluated on fixed real records and inside residual-calibrated parallel worlds.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T09:51:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "root-parent",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "A paper-grounded benchmark of 118 scientific law-discovery problems, evaluated on fixed real records and inside residual-calibrated parallel worlds.",
-      "author_name": "root-parent"
-    },
-    {
-      "id": "49533964",
-      "title": "My LLM tracer had 93% test coverage and coul",
-      "url": "https://github.com/RAJUSHANIGARAPU/agent-lens/releases/tag/v0.3.0",
-      "summary": "The interactive debugger for LLM agents. Pause, inspect, and fork any agent mid-run. - Release v0.3.0 — install() actually works · RAJUSHANIGARAPU/agent-lens",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T09:41:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "rajub4u927",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "The interactive debugger for LLM agents. Pause, inspect, and fork any agent mid-run. - Release v0.3.0 — install() actually works · RAJUSHANIGARAPU/agent-lens",
-      "author_name": "rajub4u927"
     },
     {
       "id": "49533385",
@@ -298,7 +318,7 @@
       "score": 53,
       "author": "kixpanganiban",
       "likes": 39,
-      "views": 36,
+      "views": 39,
       "retweets": 0,
       "text": "Claude revoked my access with a template email about &quot;suspicious signals.&quot; No clause named. No human. After years of paying, I&#x27;m done trusting it.",
       "author_name": "kixpanganiban"
@@ -315,10 +335,10 @@
         "AI",
         "科技"
       ],
-      "score": 59,
+      "score": 60,
       "author": "reasonableklout",
-      "likes": 26,
-      "views": 17,
+      "likes": 27,
+      "views": 18,
       "retweets": 0,
       "text": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
       "author_name": "reasonableklout"
@@ -382,26 +402,6 @@
       "retweets": 0,
       "text": "Popular CLI AI coding agents run git commands on startup. A repo you were sent can hijack them to run code on your machine, no clicks required.",
       "author_name": "0xmagic0"
-    },
-    {
-      "id": "49525496",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "summary": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T18:01:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 99,
-      "author": "meetpateltech",
-      "likes": 70,
-      "views": 1,
-      "retweets": 0,
-      "text": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
-      "author_name": "meetpateltech"
     }
   ]
 }
