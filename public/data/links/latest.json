@@ -1,8 +1,328 @@
 {
-  "version": "2026-09-01T21:40:40.375Z",
-  "generatedAt": "2026-09-01T21:40:40.375Z",
+  "version": "2026-09-02T12:42:22.766Z",
+  "generatedAt": "2026-09-02T12:42:22.766Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "49535284",
+      "title": "Mistral trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "summary": "Can I opt out of my input or output data being used for training? | Mistral Help Center Copyright (c) 2023, Intercom, Inc. (legal@intercom.io) with Reserved Font Name &quot;Inter&quot;. This Font Software is licensed under the SIL Open Font License, Version 1.1. Skip to main content English Français Italiano English Se…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-02T12:30:39Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "teekert",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Can I opt out of my input or output data being used for training? | Mistral Help Center Copyright (c) 2023, Intercom, Inc. (legal@intercom.io) with Reserved Font Name &quot;Inter&quot;. This Font Software is licensed under the SIL Open Font License, Version 1.1. Skip to main content English Français Italiano English Se…",
+      "author_name": "teekert"
+    },
+    {
+      "id": "49535211",
+      "title": "Why I prefer using LLM API aggregators over subscription services",
+      "url": "https://crazysteve.bearblog.dev/why-i-prefer-using-llm-api-aggregators-over-subscription-services/",
+      "summary": "Note: I have no affiliation with Cortecs or open-webui. This is just my opinion. An LLM API aggregator is a platform that provides a single, unified API end...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T12:24:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "expedited123",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Note: I have no affiliation with Cortecs or open-webui. This is just my opinion. An LLM API aggregator is a platform that provides a single, unified API end...",
+      "author_name": "expedited123"
+    },
+    {
+      "id": "49535159",
+      "title": "AI Slop Is Ruining Cute Animals on the Internet",
+      "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+      "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-02T12:19:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "amelius",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
+      "author_name": "amelius"
+    },
+    {
+      "id": "49535102",
+      "title": "AI Agent Memory Design: What Works and What Doesn't",
+      "url": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
+      "summary": "In this article, we look at what works in AI agent memory, what does not, and how to build memory that keeps agents reliable across sessions.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T12:13:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "eigenBasis",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "In this article, we look at what works in AI agent memory, what does not, and how to build memory that keeps agents reliable across sessions.",
+      "author_name": "eigenBasis"
+    },
+    {
+      "id": "49535101",
+      "title": "AI goes where the oracle is cheap",
+      "url": "https://dilpreet.co/blog/2026/9/1/ai-goes-where-the-oracle-is-cheap",
+      "summary": "Bun’s AI-assisted Rust rewrite shows why agents thrive when correctness is cheap to test, and why cheap code does not make engineering judgement cheap.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T12:12:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "argilium",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Bun’s AI-assisted Rust rewrite shows why agents thrive when correctness is cheap to test, and why cheap code does not make engineering judgement cheap.",
+      "author_name": "argilium"
+    },
+    {
+      "id": "49535092",
+      "title": "Claude Fable 5.1 tops AI index but costs 20% more per task",
+      "url": "https://artificialanalysis.ai/articles/claude-fable-5-1",
+      "summary": "Independent analysis of AI models and hosting providers. Understand the AI landscape and choose the best model and API provider for your use-case.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T12:12:14Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "wertyk",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Independent analysis of AI models and hosting providers. Understand the AI landscape and choose the best model and API provider for your use-case.",
+      "author_name": "wertyk"
+    },
+    {
+      "id": "49534773",
+      "title": "MCP Is the GraphQL of AI (and That's Fine)",
+      "url": "https://aien.me/mcp-is-the-graphql-of-ai-and-thats-fine/",
+      "summary": "Every few months a new acronym arrives and people talk about it like it changed everything. Right now that acronym is MCP, the Model Context Protocol. I want to make a simple argument: MCP is not a new idea. It is a new interface. And the closest thing we already",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T11:35:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "aientech",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Every few months a new acronym arrives and people talk about it like it changed everything. Right now that acronym is MCP, the Model Context Protocol. I want to make a simple argument: MCP is not a new idea. It is a new interface. And the closest thing we already",
+      "author_name": "aientech"
+    },
+    {
+      "id": "49534583",
+      "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
+      "url": "https://arxiv.org/abs/2608.31016",
+      "summary": "Abstract page for arXiv paper 2608.31016: LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes and What Recovers It",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T11:07:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "sbulaev",
+      "likes": 17,
+      "views": 7,
+      "retweets": 0,
+      "text": "Abstract page for arXiv paper 2608.31016: LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes and What Recovers It",
+      "author_name": "sbulaev"
+    },
+    {
+      "id": "49534487",
+      "title": "VibeGuard – security linter for AI-generated code",
+      "url": "https://github.com/zeroFhacker/vibeguard",
+      "summary": "Security linter for AI-generated code: catches the exact vulnerabilities Copilot, Cursor and ChatGPT repeatedly produce. SQL injection, hardcoded secrets, JWT bypass, command injection and 15+ more rules. Grade A–F. Zero config. CI/CD ready. - zeroFhacker/vibeguard",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T10:53:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 36,
+      "author": "obadafid",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Security linter for AI-generated code: catches the exact vulnerabilities Copilot, Cursor and ChatGPT repeatedly produce. SQL injection, hardcoded secrets, JWT bypass, command injection and 15+ more rules. Grade A–F. Zero config. CI/CD ready. - zeroFhacker/vibeguard",
+      "author_name": "obadafid"
+    },
+    {
+      "id": "49534045",
+      "title": "Can LLMs Discover Scientific Laws in Real and Parallel Worlds?",
+      "url": "https://yiyihum.github.io/SciLaws-Bench/",
+      "summary": "A paper-grounded benchmark of 118 scientific law-discovery problems, evaluated on fixed real records and inside residual-calibrated parallel worlds.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T09:51:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "root-parent",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "A paper-grounded benchmark of 118 scientific law-discovery problems, evaluated on fixed real records and inside residual-calibrated parallel worlds.",
+      "author_name": "root-parent"
+    },
+    {
+      "id": "49533964",
+      "title": "My LLM tracer had 93% test coverage and coul",
+      "url": "https://github.com/RAJUSHANIGARAPU/agent-lens/releases/tag/v0.3.0",
+      "summary": "The interactive debugger for LLM agents. Pause, inspect, and fork any agent mid-run. - Release v0.3.0 — install() actually works · RAJUSHANIGARAPU/agent-lens",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T09:41:06Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "rajub4u927",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The interactive debugger for LLM agents. Pause, inspect, and fork any agent mid-run. - Release v0.3.0 — install() actually works · RAJUSHANIGARAPU/agent-lens",
+      "author_name": "rajub4u927"
+    },
+    {
+      "id": "49533385",
+      "title": "HOM-AIMOS – Auditable persistent memory for agent security",
+      "url": "https://github.com/wallidsaydi-creator/HOM-AIMOS",
+      "summary": "Agent-security system built on cryptographically auditable persistent memory, native retrieval, Canary controls, and signed SABER-style evaluation. - wallidsaydi-creator/HOM-AIMOS",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T08:22:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "walldad2",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Agent-security system built on cryptographically auditable persistent memory, native retrieval, Canary controls, and signed SABER-style evaluation. - wallidsaydi-creator/HOM-AIMOS",
+      "author_name": "walldad2"
+    },
+    {
+      "id": "49533204",
+      "title": "Learnings from OpenAI's open source Codex Repo",
+      "url": "https://johnjwang.com/post/2026/08/27/learnings-from-the-codex-repo",
+      "summary": "I&rsquo;ve been fascinated recently at what the best practices in the new age of engineering look like. But it&rsquo;s hard to find real data on best practices. For example, X has a ton of …",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T07:59:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "johnjwang",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "I&rsquo;ve been fascinated recently at what the best practices in the new age of engineering look like. But it&rsquo;s hard to find real data on best practices. For example, X has a ton of …",
+      "author_name": "johnjwang"
+    },
+    {
+      "id": "49533052",
+      "title": "AI startup Cognition set to raise around US$1B at a US$47B value",
+      "url": "https://theedgemalaysia.com/node/816527",
+      "summary": "NEW YORK/SAN FRANCISCO (Sept 2): Artificial intelligence coding startup Cognition AI Inc is set to close a new round of funding that would vault its valuation to about US$47 billion, according to people familiar with the efforts.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-02T07:40:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "01-_-",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "NEW YORK/SAN FRANCISCO (Sept 2): Artificial intelligence coding startup Cognition AI Inc is set to close a new round of funding that would vault its valuation to about US$47 billion, according to people familiar with the efforts.",
+      "author_name": "01-_-"
+    },
+    {
+      "id": "49530298",
+      "title": "Anthropic banned me for \"suspicious signals\"",
+      "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+      "summary": "Claude revoked my access with a template email about &quot;suspicious signals.&quot; No clause named. No human. After years of paying, I&#x27;m done trusting it.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T00:38:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 53,
+      "author": "kixpanganiban",
+      "likes": 39,
+      "views": 36,
+      "retweets": 0,
+      "text": "Claude revoked my access with a template email about &quot;suspicious signals.&quot; No clause named. No human. After years of paying, I&#x27;m done trusting it.",
+      "author_name": "kixpanganiban"
+    },
+    {
+      "id": "49529567",
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-01T23:12:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 59,
+      "author": "reasonableklout",
+      "likes": 26,
+      "views": 17,
+      "retweets": 0,
+      "text": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
+      "author_name": "reasonableklout"
+    },
     {
       "id": "49528570",
       "title": "In-memory security gate for autonomous AI agent tools",
@@ -15,133 +335,13 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 18,
       "author": "itsub_sa",
-      "likes": 1,
+      "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "Bartholomew Autonomous Trust Protocol (BTP v2.3) — Sub-50µs deterministic guardrails, AST pre-flight compiler gating, and RFC 8785 Ed25519 verifiable execution evidence for autonomous AI agents.",
       "author_name": "itsub_sa"
-    },
-    {
-      "id": "49528463",
-      "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
-      "url": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-01T21:26:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "emk_709",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "emk_709"
-    },
-    {
-      "id": "49527949",
-      "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
-      "url": "https://waymo.com/blog/2026/08/10ailessons/",
-      "summary": "Much of the autonomous vehicle (AV) space is uncharted territory. However, at Waymo, with more than 200 million miles driven fully autonomously, we’re one of very few companies that can look to our past to illuminate our future. Our experience has led us to ten fundamental truths that shape how we build AI.",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-09-01T20:44:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "bookofjoe",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Much of the autonomous vehicle (AV) space is uncharted territory. However, at Waymo, with more than 200 million miles driven fully autonomously, we’re one of very few companies that can look to our past to illuminate our future. Our experience has led us to ten fundamental truths that shape how we build AI.",
-      "author_name": "bookofjoe"
-    },
-    {
-      "id": "49527573",
-      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "summary": "Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery....",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T20:19:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 90,
-      "author": "colinprince",
-      "likes": 78,
-      "views": 31,
-      "retweets": 0,
-      "text": "Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery....",
-      "author_name": "colinprince"
-    },
-    {
-      "id": "49527125",
-      "title": "The failure your LLM dashboard can't see",
-      "url": "https://percentes.ai/writing/2026/the-failure-your-dashboard-cannot-see/",
-      "summary": "The first time I pointed a load generator at a hosted inference API, I learned something about my own measurement before I learned anything about the provide...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T19:48:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "itsveems",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "The first time I pointed a load generator at a hosted inference API, I learned something about my own measurement before I learned anything about the provide...",
-      "author_name": "itsveems"
-    },
-    {
-      "id": "49526901",
-      "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-says-openai-destroying-evidence-210352338.html",
-      "summary": "Apple Inc. escalated its legal battle against OpenAI, claiming in a new court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not only downloaded a confidential Apple circuit schematic but also used it in his work” at the AI company.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T19:32:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "devonnull",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "Apple Inc. escalated its legal battle against OpenAI, claiming in a new court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not only downloaded a confidential Apple circuit schematic but also used it in his work” at the AI company.",
-      "author_name": "devonnull"
-    },
-    {
-      "id": "49526533",
-      "title": "Mutating every DNA letter of a genome shows the limits of AI",
-      "url": "https://www.nature.com/articles/d41586-026-02609-y",
-      "summary": "Top artificial-intelligence models failed to predict the biological consequences of rewriting a virus&#x27;s entire DNA code.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T19:07:07Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "sbulaev",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Top artificial-intelligence models failed to predict the biological consequences of rewriting a virus&#x27;s entire DNA code.",
-      "author_name": "sbulaev"
     },
     {
       "id": "49525737",
@@ -164,26 +364,6 @@
       "author_name": "surprisetalk"
     },
     {
-      "id": "49525622",
-      "title": "Anthropic launches Fable 5.1 and Mythos 5.1",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/anthropic-says-new-fable-5-1-ai-model-is-cheaper-better-at-coding",
-      "summary": "Anthropic PBC is releasing a new version of its powerful Fable artificial intelligence model that it says is better at coding and science tasks, as well as more economical — all changes it says are in response to customer feedback.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T18:10:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "josefchen",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic PBC is releasing a new version of its powerful Fable artificial intelligence model that it says is better at coding and science tasks, as well as more economical — all changes it says are in response to customer feedback.",
-      "author_name": "josefchen"
-    },
-    {
       "id": "49525561",
       "title": "GitSpawn: A Single Flaw Lets Untrusted Repos Run Code in Claude Code, and Others",
       "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
@@ -195,213 +375,33 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 19,
       "author": "0xmagic0",
-      "likes": 2,
+      "likes": 3,
       "views": 1,
       "retweets": 0,
       "text": "Popular CLI AI coding agents run git commands on startup. A repo you were sent can hijack them to run code on your machine, no clicks required.",
       "author_name": "0xmagic0"
     },
     {
-      "id": "49525378",
+      "id": "49525496",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "summary": "What&#x27;s new in Claude Fable 5.1 – <a href=\"https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-new-fable-5-1\" rel=\"nofollow\">https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...</a><p>System Card: <a href=\"https:&#x2F;&#x2F;www-…",
+      "summary": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T17:53:53Z",
+      "publishedAt": "2026-09-01T18:01:24Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 730,
-      "author": "denysvitali",
-      "likes": 699,
-      "views": 668,
-      "retweets": 0,
-      "text": "What&#x27;s new in Claude Fable 5.1 – <a href=\"https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-new-fable-5-1\" rel=\"nofollow\">https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...</a><p>System Card: <a href=\"https:&#x2F;&#x2F;www-…",
-      "author_name": "denysvitali"
-    },
-    {
-      "id": "49524791",
-      "title": "Hybrid Compute in Perplexity Computer",
-      "url": "https://twitter.com/perplexity_ai/status/2094803515264978953",
-      "summary": "Introducing hybrid compute in Perplexity Computer. Computer can start a task in the cloud, then move to a local model that runs on your Mac. Use it for steps involving private files or sensitive data. Available today in the Perplexity Mac app.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T17:05:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "tosh",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Introducing hybrid compute in Perplexity Computer. Computer can start a task in the cloud, then move to a local model that runs on your Mac. Use it for steps involving private files or sensitive data. Available today in the Perplexity Mac app.",
-      "author_name": "tosh"
-    },
-    {
-      "id": "49524784",
-      "title": "OpenAI Cuts Off Cursor's Model Access After SpaceX Acquisition",
-      "url": "https://devops.com/openai-cuts-off-cursors-model-access-after-spacex-acquisition/",
-      "summary": "OpenAI is ending Cursor’s direct access to its AI models after Elon Musk’s SpaceX acquired its parent company, Anysphere.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T17:05:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "CrankyBear",
-      "likes": 3,
+      "score": 99,
+      "author": "meetpateltech",
+      "likes": 70,
       "views": 1,
       "retweets": 0,
-      "text": "OpenAI is ending Cursor’s direct access to its AI models after Elon Musk’s SpaceX acquired its parent company, Anysphere.",
-      "author_name": "CrankyBear"
-    },
-    {
-      "id": "49524202",
-      "title": "SquidGPT, an elimination death game for AI",
-      "url": "https://twitter.com/spakhm/status/2094820316035862928",
-      "summary": "I&#x27;ve been working on SquidGPT, an elimination death game for probing AI behavior like loyalty, holding grudges, cruelty, betrayal, etc. Full writeup will take a while, but here are first impressions from 54 game runs (about $100 total cost): 1. Models have absolutely no interest in cruelty or merc…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T16:25:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "tosh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I&#x27;ve been working on SquidGPT, an elimination death game for probing AI behavior like loyalty, holding grudges, cruelty, betrayal, etc. Full writeup will take a while, but here are first impressions from 54 game runs (about $100 total cost): 1. Models have absolutely no interest in cruelty or merc…",
-      "author_name": "tosh"
-    },
-    {
-      "id": "49523925",
-      "title": "Ajeya Cotra – The OpenAI/Hugging Face story, told by one of the investigators [video]",
-      "url": "https://www.youtube.com/watch?v=X50zezLFWWI",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T16:06:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "tosh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "tosh"
-    },
-    {
-      "id": "49523224",
-      "title": "Ben-Gvir posts then deletes AI video showing starvation of Palestinians",
-      "url": "https://twitter.com/KweenInYellow/status/2094549290953715717",
-      "summary": "Israel&#x27;s National Security Minister Itamar Ben-Gvir has deleted his video depicting kidnapped Palestinians being sent into an industrialized slaughterhouse.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-01T15:24:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "slowin",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "Israel&#x27;s National Security Minister Itamar Ben-Gvir has deleted his video depicting kidnapped Palestinians being sent into an industrialized slaughterhouse.",
-      "author_name": "slowin"
-    },
-    {
-      "id": "49523190",
-      "title": "Instinct's powerful AI assistant is raising privacy and security concerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-01T15:22:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "wslh",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "author_name": "wslh"
-    },
-    {
-      "id": "49522498",
-      "title": "H3 Max Live: AI video generated faster than real time, directed by Twitch chat",
-      "url": "https://twitter.com/rehan_shei/status/2093528415576211819",
-      "summary": "Minimax H3 Max has generates video faster than you can watch it so I hooked it to a twitch livestream! Now you can watch infinite interdimensional cable - link to the stream below",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-01T14:28:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "creatune",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Minimax H3 Max has generates video faster than you can watch it so I hooked it to a twitch livestream! Now you can watch infinite interdimensional cable - link to the stream below",
-      "author_name": "creatune"
-    },
-    {
-      "id": "49521430",
-      "title": "Improving our alignment and security efforts",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "summary": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-01T13:04:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 36,
-      "author": "jbegley",
-      "likes": 3,
-      "views": 3,
-      "retweets": 0,
-      "text": "On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
-      "author_name": "jbegley"
-    },
-    {
-      "id": "49520813",
-      "title": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn",
-      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-01T12:03:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "voxleone",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "author_name": "voxleone"
+      "text": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+      "author_name": "meetpateltech"
     }
   ]
 }
