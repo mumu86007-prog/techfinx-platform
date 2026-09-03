@@ -1,127 +1,227 @@
 {
-  "version": "2026-09-02T21:42:25.705Z",
-  "generatedAt": "2026-09-02T21:42:25.705Z",
+  "version": "2026-09-03T12:44:56.832Z",
+  "generatedAt": "2026-09-03T12:44:56.832Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49542800",
-      "title": "Silverman vs. OpenAI: Statement of Interest of the United States [pdf]",
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.641355/gov.uscourts.nysd.641355.316.0.pdf",
-      "summary": "%PDF-1.7 %���� 350 0 obj >stream x�+�\u0002\u0000\u0000�\u0000| endstream endobj 4 0 obj >stream x��X�n�6\u0014�\u000f0��e\u0012`8�|\u00130\u0004��vТY\u0014v�Eх\u0011�F\u00161�4���K�\u001ay$jdK�a[\u000fR���>xH�����]]�?տ\\3������������}U��u;o7� � �`\u0016�� ُ/�͟\u001f��vs��n������q�\u0001�$\u00180)\u0015w�9�ǖo���\u001d\b��/�Ȟ�#4�\u001f�����P\u001e���x+k�u�Nѽ�v��\u000ea(����\u0019z�+Gm�Wv�*�������+���v�+�LI[��\u001a\\����\u0006���N���_��\u001b�����Tv�9;Zj…",
+      "id": "49549058",
+      "title": "Skills vs. MCP tools for AI agents: when to use which",
+      "url": "https://blog.logrocket.com/skills-vs-mcp-tools-agent-guide/",
+      "summary": "Learn when to use skills vs. MCP tools for AI agents. Compare auditability, flexibility, and runtime trade-offs with a practical, side-by-side codebase test.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T21:25:36Z",
+      "publishedAt": "2026-09-03T12:22:48Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "r3trohack3r",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "%PDF-1.7 %���� 350 0 obj >stream x�+�\u0002\u0000\u0000�\u0000| endstream endobj 4 0 obj >stream x��X�n�6\u0014�\u000f0��e\u0012`8�|\u00130\u0004��vТY\u0014v�Eх\u0011�F\u00161�4���K�\u001ay$jdK�a[\u000fR���>xH�����]]�?տ\\3������������}U��u;o7� � �`\u0016�� ُ/�͟\u001f��vs��n������q�\u0001�$\u00180)\u0015w�9�ǖo���\u001d\b��/�Ȟ�#4�\u001f�����P\u001e���x+k�u�Nѽ�v��\u000ea(����\u0019z�+Gm�Wv�*�������+���v�+�LI[��\u001a\\����\u0006���N���_��\u001b�����Tv�9;Zj…",
-      "author_name": "r3trohack3r"
-    },
-    {
-      "id": "49542691",
-      "title": "How Accurate Was Hubert Dreyfus on AI Predictions in \"What Computers Can't Do\"? (2024)",
-      "url": "https://www.brightworkresearch.com/how-accurate-was-dr-hubert-dreyfus-on-ai-predictions-in-his-book-what-computers-cant-do/",
-      "summary": "Dr. Hubert Dreyfus predicted many issues that AI would face when it tried to emulated human brains. How accurate were his predictions?",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-02T21:16:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "1vuio0pswjnm7",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Dr. Hubert Dreyfus predicted many issues that AI would face when it tried to emulated human brains. How accurate were his predictions?",
-      "author_name": "1vuio0pswjnm7"
-    },
-    {
-      "id": "49542529",
-      "title": "Programming Languages and Type Safety in the Era of LLMs",
-      "url": "https://www.thecodedmessage.com/posts/pls-in-llm-land/",
-      "summary": "With a sigh, I acknowledge that agentive coding is here to stay, though I still think it&rsquo;s a bit overrated. Elon Musk, however, is more bullish. He believes that with LLMs, compilers will become obsolete, saying things like: Things will move, maybe even by the end of this year, to where you don&rsquo;t even bothe…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T21:03:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "blueshoess",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "With a sigh, I acknowledge that agentive coding is here to stay, though I still think it&rsquo;s a bit overrated. Elon Musk, however, is more bullish. He believes that with LLMs, compilers will become obsolete, saying things like: Things will move, maybe even by the end of this year, to where you don&rsquo;t even bothe…",
-      "author_name": "blueshoess"
-    },
-    {
-      "id": "49542481",
-      "title": "Meta's Muse Spark 1.3 beats Google's frontier model on artificialanalysis",
-      "url": "https://artificialanalysis.ai/models/muse-spark-1-3",
-      "summary": "Analysis of Meta&#x27;s Muse Spark 1.3 (max) and comparison to other AI models across key metrics including quality, price, performance (tokens per second & time to first token), context window & more.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T20:59:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "pranshuchittora",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Analysis of Meta&#x27;s Muse Spark 1.3 (max) and comparison to other AI models across key metrics including quality, price, performance (tokens per second & time to first token), context window & more.",
-      "author_name": "pranshuchittora"
-    },
-    {
-      "id": "49542315",
-      "title": "Run any LLM in t3's Codex and Claude tabs through a local gateway",
-      "url": "https://github.com/0xhsn/proxy-llms",
-      "summary": "Run any model in t3&#39;s Codex and Claude tabs through one local CLIProxyAPI gateway. Plug and unplug on demand. - 0xhsn/proxy-llms",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T20:47:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "7asan",
+      "score": 19,
+      "author": "deepmem",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Run any model in t3&#39;s Codex and Claude tabs through one local CLIProxyAPI gateway. Plug and unplug on demand. - 0xhsn/proxy-llms",
-      "author_name": "7asan"
+      "text": "Learn when to use skills vs. MCP tools for AI agents. Compare auditability, flexibility, and runtime trade-offs with a practical, side-by-side codebase test.",
+      "author_name": "deepmem"
     },
     {
-      "id": "49542238",
-      "title": "Pushing the Limits of Serving DeepSeek-V4-Pro",
-      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20/",
-      "summary": "DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts (MoE) model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU...",
+      "id": "49548961",
+      "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
+      "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+      "summary": "Foreign adversaries have been illegally accessing American AI systems to train competing technology, and selling copycat versions at a lower price.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T20:41:23Z",
+      "publishedAt": "2026-09-03T12:11:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "prng2021",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Foreign adversaries have been illegally accessing American AI systems to train competing technology, and selling copycat versions at a lower price.",
+      "author_name": "prng2021"
+    },
+    {
+      "id": "49548946",
+      "title": "Freelancers are getting buried with 'soulless' AI slop cleanup",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
+      "summary": "As more companies turn to AI, they&#x2019;re hiring freelancers to clean up its mistakes rather than create original work",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-03T12:09:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "_____k",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "As more companies turn to AI, they&#x2019;re hiring freelancers to clean up its mistakes rather than create original work",
+      "author_name": "_____k"
+    },
+    {
+      "id": "49548788",
+      "title": "Flavourbench: LLM Eval with Executable Culinary Ground Truth",
+      "url": "https://arxiv.org/abs/2608.20574",
+      "summary": "Abstract page for arXiv paper 2608.20574: FlavourBench: Executable Culinary Reward Maps for Language Model Evaluation and Post-Training",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T11:51:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "josefchen",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Abstract page for arXiv paper 2608.20574: FlavourBench: Executable Culinary Reward Maps for Language Model Evaluation and Post-Training",
+      "author_name": "josefchen"
+    },
+    {
+      "id": "49548304",
+      "title": "GitSpawn: Flaw Lets Untrusted Repos Run Code in Claude Code, Codex, Cursor, Grok",
+      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+      "summary": "Popular CLI AI coding agents run git commands on startup. A repo you were sent can hijack them to run code on your machine, no clicks required.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T10:38:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "chillax",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Popular CLI AI coding agents run git commands on startup. A repo you were sent can hijack them to run code on your machine, no clicks required.",
+      "author_name": "chillax"
+    },
+    {
+      "id": "49548229",
+      "title": "Understanding, Mitigating Numerical Sources of Nondeterminism in LLM Inference",
+      "url": "https://arxiv.org/abs/2506.09501",
+      "summary": "Abstract page for arXiv paper 2506.09501: Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T10:27:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "gmays",
+      "author": "shakna",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts (MoE) model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU...",
-      "author_name": "gmays"
+      "text": "Abstract page for arXiv paper 2506.09501: Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference",
+      "author_name": "shakna"
+    },
+    {
+      "id": "49547513",
+      "title": "Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life [video]",
+      "url": "https://www.youtube.com/watch?v=oFtjKbXKqbg",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-03T08:46:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "tosh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49547278",
+      "title": "Nvidia-Started Open Secure AI Alliance Moves to the Linux Foundation",
+      "url": "https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF",
+      "summary": "Earlier this year NVIDIA led an effort with more than two dozen other companies to launch the Open Secure AI Alliance with a focus on keeping open-source AI models secure",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T08:14:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "teleforce",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Earlier this year NVIDIA led an effort with more than two dozen other companies to launch the Open Secure AI Alliance with a focus on keeping open-source AI models secure",
+      "author_name": "teleforce"
+    },
+    {
+      "id": "49545513",
+      "title": "AI security that assumes the attacker has root",
+      "url": "https://thenewstack.io/tide-raziel-emergent-authority/",
+      "summary": "Tide’s new MCP server helps coding agents integrate security built on authority that appears only when identity, policy, context, and intent align.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T03:07:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "SaltNHash",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Tide’s new MCP server helps coding agents integrate security built on authority that appears only when identity, policy, context, and intent align.",
+      "author_name": "SaltNHash"
+    },
+    {
+      "id": "49544650",
+      "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "summary": "&quot;The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,&quot; the brief reads.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T00:54:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 75,
+      "author": "joshka",
+      "likes": 44,
+      "views": 14,
+      "retweets": 0,
+      "text": "&quot;The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,&quot; the brief reads.",
+      "author_name": "joshka"
+    },
+    {
+      "id": "49543841",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "summary": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-02T23:08:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 130,
+      "author": "stikit",
+      "likes": 116,
+      "views": 98,
+      "retweets": 0,
+      "text": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
+      "author_name": "stikit"
     },
     {
       "id": "49541714",
@@ -135,9 +235,9 @@
         "AI",
         "科技"
       ],
-      "score": 22,
+      "score": 23,
       "author": "pavel_lishin",
-      "likes": 4,
+      "likes": 5,
       "views": 0,
       "retweets": 0,
       "text": "I received the two emails below earlier in the month. They&#8217;re vaguely coherent. I suppose I shouldn&#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and network security problems. After all, I observe that behavior in many hum…",
@@ -164,26 +264,6 @@
       "author_name": "hrpnk"
     },
     {
-      "id": "49541274",
-      "title": "Limiting Overshoot – Navigating exceedance of 1.5°C and pathways towards return",
-      "url": "https://www.unep.org/resources/limiting-overshoot-navigating-exceedance",
-      "summary": "Limiting global warming to 1.5°C remains a cornerstone of the Paris Agreement, yet under current policies and alternative near-term trajectories, exceedance of 1.5°C is now widely assessed as unavoidable.Limiting global warming to 1.5°C remains a cornerstone of the Paris Agreement, yet under current policies and altern…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-02T19:36:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "matteoraso",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Limiting global warming to 1.5°C remains a cornerstone of the Paris Agreement, yet under current policies and alternative near-term trajectories, exceedance of 1.5°C is now widely assessed as unavoidable.Limiting global warming to 1.5°C remains a cornerstone of the Paris Agreement, yet under current policies and altern…",
-      "author_name": "matteoraso"
-    },
-    {
       "id": "49540177",
       "title": "OWASP Top for Agentic Applications – The Benchmark for Agentic Security",
       "url": "https://genai.owasp.org/2025/12/09/owasp-top-10-for-agentic-applications-the-benchmark-for-agentic-security-in-the-age-of-autonomous-ai/",
@@ -204,86 +284,6 @@
       "author_name": "Bluestein"
     },
     {
-      "id": "49540078",
-      "title": "AI is stopping startups from completing puberty",
-      "url": "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty/",
-      "summary": "Puberty is that in-between bit between seed stage and a startup working out what it actually needs to be in order to thrive. If you&#x27;ve been in a seed or Series A or B startup, or even an early stage product in a larger company, you will likely",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-02T18:06:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "mooreds",
-      "likes": 12,
-      "views": 0,
-      "retweets": 0,
-      "text": "Puberty is that in-between bit between seed stage and a startup working out what it actually needs to be in order to thrive. If you&#x27;ve been in a seed or Series A or B startup, or even an early stage product in a larger company, you will likely",
-      "author_name": "mooreds"
-    },
-    {
-      "id": "49539066",
-      "title": "OpenAI's agents exploited a patched Linux bug in Hugging Face incident",
-      "url": "https://www.zdnet.com/tech/cve-2026-53362-fraggap-linux-kernel-exploit-openai-incident/",
-      "summary": "A patched Linux kernel vulnerability in the IPv6 network stack is drawing renewed attention after OpenAI&#039;s agents exploited it.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T16:52:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "CrankyBear",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "A patched Linux kernel vulnerability in the IPv6 network stack is drawing renewed attention after OpenAI&#039;s agents exploited it.",
-      "author_name": "CrankyBear"
-    },
-    {
-      "id": "49538173",
-      "title": "AI Doomers Are Buying Potemkin Articles",
-      "url": "https://twitter.com/brianchau57/status/2095128785955987698",
-      "summary": "BREAKING: AI Doomers Are Buying Potemkin Articles The AI debate is more fake than you can imagine: Of the 6 participants in this Guardian article, including the journalist and publisher, 6/6 are paid by AI Doomer megadonors.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-02T15:54:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "MrBuddyCasino",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "BREAKING: AI Doomers Are Buying Potemkin Articles The AI debate is more fake than you can imagine: Of the 6 participants in this Guardian article, including the journalist and publisher, 6/6 are paid by AI Doomer megadonors.",
-      "author_name": "MrBuddyCasino"
-    },
-    {
-      "id": "49537958",
-      "title": "End AI agent lock-in. Start conversation with one agent – continue with another",
-      "url": "https://github.com/Aplexica/Aplexica",
-      "summary": "Aplexica - end AI agent lock-in. Start conversation with one agent - continue with another in real time. Cross-agent state portability for AI agents - Aplexica/Aplexica",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T15:40:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "yruzin",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Aplexica - end AI agent lock-in. Start conversation with one agent - continue with another in real time. Cross-agent state portability for AI agents - Aplexica/Aplexica",
-      "author_name": "yruzin"
-    },
-    {
       "id": "49536114",
       "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
       "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
@@ -295,10 +295,10 @@
         "AI",
         "科技"
       ],
-      "score": 160,
+      "score": 187,
       "author": "goobreee",
-      "likes": 146,
-      "views": 50,
+      "likes": 173,
+      "views": 56,
       "retweets": 0,
       "text": "After frontier AI systems came up empty, AISLE surfaced six CVEs in curl, one of the world&#x27;s most audited codebases. Its maintainers patched all six.",
       "author_name": "goobreee"
@@ -324,84 +324,24 @@
       "author_name": "aientech"
     },
     {
-      "id": "49534487",
-      "title": "VibeGuard – security linter for AI-generated code",
-      "url": "https://github.com/zeroFhacker/vibeguard",
-      "summary": "Security linter for AI-generated code: catches the exact vulnerabilities Copilot, Cursor and ChatGPT repeatedly produce. SQL injection, hardcoded secrets, JWT bypass, command injection and 15+ more rules. Grade A–F. Zero config. CI/CD ready. - zeroFhacker/vibeguard",
+      "id": "49301925",
+      "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+      "url": "https://github.com/insightitsGit/PrismManifest",
+      "summary": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T10:53:53Z",
+      "publishedAt": "2026-08-14T17:32:07Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 39,
-      "author": "obadafid",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "Security linter for AI-generated code: catches the exact vulnerabilities Copilot, Cursor and ChatGPT repeatedly produce. SQL injection, hardcoded secrets, JWT bypass, command injection and 15+ more rules. Grade A–F. Zero config. CI/CD ready. - zeroFhacker/vibeguard",
-      "author_name": "obadafid"
-    },
-    {
-      "id": "49533385",
-      "title": "HOM-AIMOS – Auditable persistent memory for agent security",
-      "url": "https://github.com/wallidsaydi-creator/HOM-AIMOS",
-      "summary": "Agent-security system built on cryptographically auditable persistent memory, native retrieval, Canary controls, and signed SABER-style evaluation. - wallidsaydi-creator/HOM-AIMOS",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T08:22:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "walldad2",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Agent-security system built on cryptographically auditable persistent memory, native retrieval, Canary controls, and signed SABER-style evaluation. - wallidsaydi-creator/HOM-AIMOS",
-      "author_name": "walldad2"
-    },
-    {
-      "id": "49533052",
-      "title": "AI startup Cognition set to raise around US$1B at a US$47B value",
-      "url": "https://theedgemalaysia.com/node/816527",
-      "summary": "NEW YORK/SAN FRANCISCO (Sept 2): Artificial intelligence coding startup Cognition AI Inc is set to close a new round of funding that would vault its valuation to about US$47 billion, according to people familiar with the efforts.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-02T07:40:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "01-_-",
+      "score": 33,
+      "author": "parvaamin",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "NEW YORK/SAN FRANCISCO (Sept 2): Artificial intelligence coding startup Cognition AI Inc is set to close a new round of funding that would vault its valuation to about US$47 billion, according to people familiar with the efforts.",
-      "author_name": "01-_-"
-    },
-    {
-      "id": "49530298",
-      "title": "Anthropic banned me for \"suspicious signals\"",
-      "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
-      "summary": "Claude revoked my access with a template email about &quot;suspicious signals.&quot; No clause named. No human. After years of paying, I&#x27;m done trusting it.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T00:38:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 55,
-      "author": "kixpanganiban",
-      "likes": 41,
-      "views": 40,
-      "retweets": 0,
-      "text": "Claude revoked my access with a template email about &quot;suspicious signals.&quot; No clause named. No human. After years of paying, I&#x27;m done trusting it.",
-      "author_name": "kixpanganiban"
+      "text": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
+      "author_name": "parvaamin"
     }
   ]
 }
