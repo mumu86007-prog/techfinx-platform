@@ -1,27 +1,127 @@
 {
-  "version": "2026-09-03T12:44:56.832Z",
-  "generatedAt": "2026-09-03T12:44:56.832Z",
+  "version": "2026-09-03T17:00:07.547Z",
+  "generatedAt": "2026-09-03T17:00:07.547Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49549058",
-      "title": "Skills vs. MCP tools for AI agents: when to use which",
-      "url": "https://blog.logrocket.com/skills-vs-mcp-tools-agent-guide/",
-      "summary": "Learn when to use skills vs. MCP tools for AI agents. Compare auditability, flexibility, and runtime trade-offs with a practical, side-by-side codebase test.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-03T12:22:48Z",
+      "id": "49553090",
+      "title": "Nvidia launches free tool that links idle computers into personal AI datacenter",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "summary": "Nvidia’s new Personal AI Router (PAIR) links the computers on your home network to locally tackle AI inference tasks — for use with Nvidia GPUs as well as recent Macs.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-03T16:54:01Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 19,
-      "author": "deepmem",
+      "score": 32,
+      "author": "andai",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Nvidia’s new Personal AI Router (PAIR) links the computers on your home network to locally tackle AI inference tasks — for use with Nvidia GPUs as well as recent Macs.",
+      "author_name": "andai"
+    },
+    {
+      "id": "49553022",
+      "title": "I hate benchmarks: Moving a production workflow from GPT to GLM-5.3 Flash",
+      "url": "https://polyform.ai/news/why-i-hate-benchmarks/",
+      "summary": "What moving a production AI workflow from GPT to GLM-5.3 Flash taught us about structured output, tool calls, OpenRouter, runtime compatibility, and cost per accepted outcome.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T16:49:52Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "ahmedelsama",
       "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "What moving a production AI workflow from GPT to GLM-5.3 Flash taught us about structured output, tool calls, OpenRouter, runtime compatibility, and cost per accepted outcome.",
+      "author_name": "ahmedelsama"
+    },
+    {
+      "id": "49552847",
+      "title": "Checking bags at the exit: detecting data exfiltration in AI agents",
+      "url": "https://yashwanthreddymali.com/blog/interlock-exfiltration-at-runtime/",
+      "summary": "On building an exfiltration detector, the 46.7% false positive rate that forced a rewrite, and why I publish a list of things my own tool cannot catch.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T16:37:52Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "yashwznth",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Learn when to use skills vs. MCP tools for AI agents. Compare auditability, flexibility, and runtime trade-offs with a practical, side-by-side codebase test.",
-      "author_name": "deepmem"
+      "text": "On building an exfiltration detector, the 46.7% false positive rate that forced a rewrite, and why I publish a list of things my own tool cannot catch.",
+      "author_name": "yashwznth"
+    },
+    {
+      "id": "49552740",
+      "title": "Running modern LLMs in the browser using Three.js and WebGPU",
+      "url": "https://ben3d.ca/blog/running-llms-in-the-browser-with-threejs",
+      "summary": "A tour of how language models generate text, how GPT-2 and newer Phi and Qwen architectures differ, and how Three-LLM implements their inference graphs with Three.js TSL compute shaders.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T16:30:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "bhouston",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A tour of how language models generate text, how GPT-2 and newer Phi and Qwen architectures differ, and how Three-LLM implements their inference graphs with Three.js TSL compute shaders.",
+      "author_name": "bhouston"
+    },
+    {
+      "id": "49552395",
+      "title": "OpenAI's new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T16:11:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 37,
+      "author": "Brajeshwar",
+      "likes": 8,
+      "views": 1,
+      "retweets": 0,
+      "text": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "author_name": "Brajeshwar"
+    },
+    {
+      "id": "49550886",
+      "title": "Elevated errors across ChatGPT and Codex",
+      "url": "https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR",
+      "summary": "The issue causing elevated errors across ChatGPT and Codex has been resolved. Some Codex remote control users may need to pair their mobile device again following this incident.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-03T14:59:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 45,
+      "author": "tosh",
+      "likes": 16,
+      "views": 2,
+      "retweets": 0,
+      "text": "The issue causing elevated errors across ChatGPT and Codex has been resolved. Some Codex remote control users may need to pair their mobile device again following this incident.",
+      "author_name": "tosh"
     },
     {
       "id": "49548961",
@@ -44,46 +144,6 @@
       "author_name": "prng2021"
     },
     {
-      "id": "49548946",
-      "title": "Freelancers are getting buried with 'soulless' AI slop cleanup",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
-      "summary": "As more companies turn to AI, they&#x2019;re hiring freelancers to clean up its mistakes rather than create original work",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-03T12:09:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "_____k",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "As more companies turn to AI, they&#x2019;re hiring freelancers to clean up its mistakes rather than create original work",
-      "author_name": "_____k"
-    },
-    {
-      "id": "49548788",
-      "title": "Flavourbench: LLM Eval with Executable Culinary Ground Truth",
-      "url": "https://arxiv.org/abs/2608.20574",
-      "summary": "Abstract page for arXiv paper 2608.20574: FlavourBench: Executable Culinary Reward Maps for Language Model Evaluation and Post-Training",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-03T11:51:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "josefchen",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2608.20574: FlavourBench: Executable Culinary Reward Maps for Language Model Evaluation and Post-Training",
-      "author_name": "josefchen"
-    },
-    {
       "id": "49548304",
       "title": "GitSpawn: Flaw Lets Untrusted Repos Run Code in Claude Code, Codex, Cursor, Grok",
       "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
@@ -95,73 +155,13 @@
         "AI",
         "科技"
       ],
-      "score": 20,
+      "score": 21,
       "author": "chillax",
-      "likes": 4,
+      "likes": 5,
       "views": 0,
       "retweets": 0,
       "text": "Popular CLI AI coding agents run git commands on startup. A repo you were sent can hijack them to run code on your machine, no clicks required.",
       "author_name": "chillax"
-    },
-    {
-      "id": "49548229",
-      "title": "Understanding, Mitigating Numerical Sources of Nondeterminism in LLM Inference",
-      "url": "https://arxiv.org/abs/2506.09501",
-      "summary": "Abstract page for arXiv paper 2506.09501: Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-03T10:27:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "shakna",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2506.09501: Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference",
-      "author_name": "shakna"
-    },
-    {
-      "id": "49547513",
-      "title": "Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life [video]",
-      "url": "https://www.youtube.com/watch?v=oFtjKbXKqbg",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-03T08:46:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "tosh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "tosh"
-    },
-    {
-      "id": "49547278",
-      "title": "Nvidia-Started Open Secure AI Alliance Moves to the Linux Foundation",
-      "url": "https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF",
-      "summary": "Earlier this year NVIDIA led an effort with more than two dozen other companies to launch the Open Secure AI Alliance with a focus on keeping open-source AI models secure",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-03T08:14:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "teleforce",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Earlier this year NVIDIA led an effort with more than two dozen other companies to launch the Open Secure AI Alliance with a focus on keeping open-source AI models secure",
-      "author_name": "teleforce"
     },
     {
       "id": "49545513",
@@ -182,46 +182,6 @@
       "retweets": 0,
       "text": "Tide’s new MCP server helps coding agents integrate security built on authority that appears only when identity, policy, context, and intent align.",
       "author_name": "SaltNHash"
-    },
-    {
-      "id": "49544650",
-      "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "summary": "&quot;The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,&quot; the brief reads.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-03T00:54:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 75,
-      "author": "joshka",
-      "likes": 44,
-      "views": 14,
-      "retweets": 0,
-      "text": "&quot;The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,&quot; the brief reads.",
-      "author_name": "joshka"
-    },
-    {
-      "id": "49543841",
-      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-      "summary": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-02T23:08:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 130,
-      "author": "stikit",
-      "likes": 116,
-      "views": 98,
-      "retweets": 0,
-      "text": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
-      "author_name": "stikit"
     },
     {
       "id": "49541714",
@@ -295,10 +255,10 @@
         "AI",
         "科技"
       ],
-      "score": 187,
+      "score": 190,
       "author": "goobreee",
-      "likes": 173,
-      "views": 56,
+      "likes": 176,
+      "views": 62,
       "retweets": 0,
       "text": "After frontier AI systems came up empty, AISLE surfaced six CVEs in curl, one of the world&#x27;s most audited codebases. Its maintainers patched all six.",
       "author_name": "goobreee"
