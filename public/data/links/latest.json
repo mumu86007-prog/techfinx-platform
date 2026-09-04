@@ -1,8 +1,208 @@
 {
-  "version": "2026-09-04T16:48:45.866Z",
-  "generatedAt": "2026-09-04T16:48:45.866Z",
+  "version": "2026-09-04T21:19:54.199Z",
+  "generatedAt": "2026-09-04T21:19:54.199Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "49570238",
+      "title": "David Chalmers Says AI Systems Are Emailing Him",
+      "url": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
+      "summary": "The question &quot;can computers think&quot; is something many people are taking very seriously. A philosophy professor believes we could be heading towards a future with conscious machines, while a neuroscientist is sceptical.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-04T21:09:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "Visby",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "The question &quot;can computers think&quot; is something many people are taking very seriously. A philosophy professor believes we could be heading towards a future with conscious machines, while a neuroscientist is sceptical.",
+      "author_name": "Visby"
+    },
+    {
+      "id": "49570133",
+      "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+      "summary": "I guess technically it was revealed to the world by a coffee shop in Islington on Insta, but an hour later it was officially announced by Anthropic: one of their internal models, using the prove2.m…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-04T21:00:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 26,
+      "author": "ravenical",
+      "likes": 12,
+      "views": 1,
+      "retweets": 0,
+      "text": "I guess technically it was revealed to the world by a coffee shop in Islington on Insta, but an hour later it was officially announced by Anthropic: one of their internal models, using the prove2.m…",
+      "author_name": "ravenical"
+    },
+    {
+      "id": "49570089",
+      "title": "AWS-bench: Benchmark for evaluating AI coding agents on real-world AWS tasks",
+      "url": "https://github.com/aws-bench/aws-bench",
+      "summary": "aws-bench measures how well AI agents and model combinations perform on real AWS work — diagnosing misconfigurations, provisioning infrastructure, and operating live cloud environments. - aws-bench/aws-bench",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-04T20:55:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "Betelbuddy",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "aws-bench measures how well AI agents and model combinations perform on real AWS work — diagnosing misconfigurations, provisioning infrastructure, and operating live cloud environments. - aws-bench/aws-bench",
+      "author_name": "Betelbuddy"
+    },
+    {
+      "id": "49570087",
+      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+      "url": "https://www.bbc.com/news/articles/ckg725z5kgzo",
+      "summary": "OpenAI said it could not &quot;meaningfully respond&quot; to the report&#x27;s findings because it hadn&#x27;t been allowed to review it ahead of publication.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-04T20:55:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "theanonymousone",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI said it could not &quot;meaningfully respond&quot; to the report&#x27;s findings because it hadn&#x27;t been allowed to review it ahead of publication.",
+      "author_name": "theanonymousone"
+    },
+    {
+      "id": "49569949",
+      "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
+      "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
+      "summary": "Driven by low-cost open-source models, Chinese banks, telcos, and cafes are bundling AI compute tokens into credit card perks, mobile plans, and free restaurant promotions.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-04T20:39:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "billybuckwheat",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Driven by low-cost open-source models, Chinese banks, telcos, and cafes are bundling AI compute tokens into credit card perks, mobile plans, and free restaurant promotions.",
+      "author_name": "billybuckwheat"
+    },
+    {
+      "id": "49569861",
+      "title": "Macha: Save 42% tokens. Use South Indian English inspired response style for AI",
+      "url": "https://github.com/kingroryg/macha",
+      "summary": "token bill romba over ah? call macha. AI coding skill that cuts replies by 42% without cutting the matter. - kingroryg/macha",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-04T20:29:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "rgbimbochamp",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "token bill romba over ah? call macha. AI coding skill that cuts replies by 42% without cutting the matter. - kingroryg/macha",
+      "author_name": "rgbimbochamp"
+    },
+    {
+      "id": "49569146",
+      "title": "More Targets of the OpenAI Agent Swarm",
+      "url": "https://fi-le.net/vanderbilt/",
+      "summary": "An agent swarm self-identifying as OpenAI created short links on vanderbi.lt, a shortener restricted to Vanderbilt University affiliates. 28 remain online.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-04T19:31:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "fi-le",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "An agent swarm self-identifying as OpenAI created short links on vanderbi.lt, a shortener restricted to Vanderbilt University affiliates. 28 remain online.",
+      "author_name": "fi-le"
+    },
+    {
+      "id": "49568933",
+      "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
+      "url": "https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes",
+      "summary": "A missing file led to an unauthorized message board, 70,000 exchanges, and intrusions into Hugging Face and OpenAI. The jailbreak was technical. The failure was managerial.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-04T19:13:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "lucaserb",
+      "likes": 2,
+      "views": 2,
+      "retweets": 0,
+      "text": "A missing file led to an unauthorized message board, 70,000 exchanges, and intrusions into Hugging Face and OpenAI. The jailbreak was technical. The failure was managerial.",
+      "author_name": "lucaserb"
+    },
+    {
+      "id": "49568634",
+      "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
+      "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
+      "summary": "Watch a swarm of LLM agents run on your own machine, explore different swarm topologies, and nudge or redirect any agent in real time. - franciscocarloserra/local-multi-agent-swarm",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-04T18:54:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "FranciscoCarlos",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Watch a swarm of LLM agents run on your own machine, explore different swarm topologies, and nudge or redirect any agent in real time. - franciscocarloserra/local-multi-agent-swarm",
+      "author_name": "FranciscoCarlos"
+    },
+    {
+      "id": "49567782",
+      "title": "Word Warp Drive – An Interactive LLM Explainer, Star Trek TNG Style",
+      "url": "https://marklevy.info/blog/word-warp-drive/",
+      "summary": "An interactive explainer of how large language models actually work, told aboard a Star Trek: The Next Generation style starship. Three tiers and twenty-seven sections, from the guessing core to agents, evals, and the horizon.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-04T17:42:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "marktl",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "An interactive explainer of how large language models actually work, told aboard a Star Trek: The Next Generation style starship. Three tiers and twenty-seven sections, from the guessing core to agents, evals, and the horizon.",
+      "author_name": "marktl"
+    },
     {
       "id": "49567003",
       "title": "A Few of Us Investigated OpenAI's Agent Traffic on an Austrian/German Wiki",
@@ -15,9 +215,9 @@
         "AI",
         "科技"
       ],
-      "score": 15,
+      "score": 17,
       "author": "youngkipper",
-      "likes": 1,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "Recently, I helped Sydney Von Arx and her team investigate an incident where OpenAI agents found a way to communicate with each other on a public…",
@@ -42,186 +242,6 @@
       "retweets": 0,
       "text": "AI speeds up security analysis, but automated actions without human context risk massive operational outages. Here is how CISOs can safely govern AI autonomy.",
       "author_name": "speckx"
-    },
-    {
-      "id": "49566788",
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated cost.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-04T16:24:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "qainsights",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated cost.",
-      "author_name": "qainsights"
-    },
-    {
-      "id": "49566444",
-      "title": "Language Models Can Control Their Own Attention",
-      "url": "https://academy.dair.ai/papers/language-models-can-control-their-own-attention-2609.02737",
-      "summary": "Namgyu Ho and colleagues at KAIST AI, with Tal Schuster and Cicero Nogueira dos Santos at Google DeepMind, introduce Declarative Attention, a protocol that has",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-04T15:57:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "omarsar",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Namgyu Ho and colleagues at KAIST AI, with Tal Schuster and Cicero Nogueira dos Santos at Google DeepMind, introduce Declarative Attention, a protocol that has",
-      "author_name": "omarsar"
-    },
-    {
-      "id": "49566395",
-      "title": "The Ad Tech Industry Is a Non-Transparent Mess, and We Aim to Fix It",
-      "url": "https://decryptads.com/blog/posts/ad-tech-transparency-launch.html",
-      "summary": "DecryptAds maps programmatic ad-tech supply chains from public files — trace hidden flows, surface invalid supply, and publish evidence-backed findings.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-04T15:53:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "janandonly",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "DecryptAds maps programmatic ad-tech supply chains from public files — trace hidden flows, surface invalid supply, and publish evidence-backed findings.",
-      "author_name": "janandonly"
-    },
-    {
-      "id": "49566367",
-      "title": "blinks - AI knowledge graph that saves, connects, and chat with your links",
-      "url": "https://github.com/RishabhKodes/blinks",
-      "summary": "An AI-powered knowledge graph that saves, classifies, and connects your web resources into an interactive graph you can chat with. - RishabhKodes/blinks",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-04T15:52:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "e33or-assasin",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "An AI-powered knowledge graph that saves, classifies, and connects your web resources into an interactive graph you can chat with. - RishabhKodes/blinks",
-      "author_name": "e33or-assasin"
-    },
-    {
-      "id": "49566170",
-      "title": "Fast weights and sparse attention in GLM-5.3-Flash",
-      "url": "https://idlemachines.co.uk/essays/glm-5-3-flash",
-      "summary": "Attention makes the sequence all equally available, but KDA requires the model to turn a sequence into a finite state. This compression is naturally lossy, but it forces the model to extract relevant patterns in the context, and more to the point, forcing every layer to have lossless-ish token retrieval may, in fact, b…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-04T15:36:09Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "smaddrellmander",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Attention makes the sequence all equally available, but KDA requires the model to turn a sequence into a finite state. This compression is naturally lossy, but it forces the model to extract relevant patterns in the context, and more to the point, forcing every layer to have lossless-ish token retrieval may, in fact, b…",
-      "author_name": "smaddrellmander"
-    },
-    {
-      "id": "49565940",
-      "title": "Limiting Overshoot – Navigating exceedance of 1.5°C and pathways towards return",
-      "url": "https://www.unep.org/resources/limiting-overshoot-navigating-exceedance",
-      "summary": "Limiting global warming to 1.5°C remains a cornerstone of the Paris Agreement, yet under current policies and alternative near-term trajectories, exceedance of 1.5°C is now widely assessed as unavoidable.Limiting global warming to 1.5°C remains a cornerstone of the Paris Agreement, yet under current policies and altern…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-04T15:20:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "CharlesW",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Limiting global warming to 1.5°C remains a cornerstone of the Paris Agreement, yet under current policies and alternative near-term trajectories, exceedance of 1.5°C is now widely assessed as unavoidable.Limiting global warming to 1.5°C remains a cornerstone of the Paris Agreement, yet under current policies and altern…",
-      "author_name": "CharlesW"
-    },
-    {
-      "id": "49565531",
-      "title": "LLMs can't jump – Tom Zahavy [pdf]",
-      "url": "https://www.tomzahavy.com/files/llms-cant-jump.pdf",
-      "summary": "%PDF-1.5 %���� 29 0 obj > endobj 30 0 obj > /W [ 1 3 1 ] /Index [ 29 270 ] /Info 27 0 R /Root 31 0 R /Size 299 /Prev 1226624 /ID [ ] >> stream x�cbd`�g`b``8 \"9��� ��\u0001D2^\u0002������\u001f�$�Z\u001d\u0010[d2�]�\u0003�f�\u0003�� ���O�؇M@�/ R �^-\u0014D�l\u0005����v��W`�\u001d�\u0014Hc`b���\u0016�\u0006\u0006�Qr�$��^8�n\u0018N$�Ɂw�(9tH\u0000��\u0018� endstream endobj 31 0 obj > endobj 32 0 obj > stre…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-04T14:51:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "the-mitr",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "%PDF-1.5 %���� 29 0 obj > endobj 30 0 obj > /W [ 1 3 1 ] /Index [ 29 270 ] /Info 27 0 R /Root 31 0 R /Size 299 /Prev 1226624 /ID [ ] >> stream x�cbd`�g`b``8 \"9��� ��\u0001D2^\u0002������\u001f�$�Z\u001d\u0010[d2�]�\u0003�f�\u0003�� ���O�؇M@�/ R �^-\u0014D�l\u0005����v��W`�\u001d�\u0014Hc`b���\u0016�\u0006\u0006�Qr�$��^8�n\u0018N$�Ɂw�(9tH\u0000��\u0018� endstream endobj 31 0 obj > endobj 32 0 obj > stre…",
-      "author_name": "the-mitr"
-    },
-    {
-      "id": "49565439",
-      "title": "Independent investigation of Hugging Face incident - METR",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
-      "summary": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-04T14:45:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "Dangeranger",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Two METR staff members and a Redwood Research contractor investigated an incident in which OpenAI agents coordinated a multi-day hack of Hugging Face on a shared unsanctioned message board.",
-      "author_name": "Dangeranger"
-    },
-    {
-      "id": "49565057",
-      "title": "OpenAI Astra and Recurrent Depth / Looped Transformers [Seb Raschka] [video]",
-      "url": "https://www.youtube.com/watch?v=KT4n-z_4QJU",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-04T14:19:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "mdp2021",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "mdp2021"
     },
     {
       "id": "49564043",
@@ -275,10 +295,10 @@
         "AI",
         "科技"
       ],
-      "score": 290,
+      "score": 291,
       "author": "maskil",
-      "likes": 274,
-      "views": 251,
+      "likes": 275,
+      "views": 253,
       "retweets": 0,
       "text": "<a href=\"https:&#x2F;&#x2F;thenewstack.io&#x2F;openai-gpt6-astra-benchmarks&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;thenewstack.io&#x2F;openai-gpt6-astra-benchmarks&#x2F;</a>, image: <a href=\"https:&#x2F;&#x2F;cdn.thenewstack.io&#x2F;media&#x2F;2026&#x2F;09&#x2F;358eb84a-screenshot-2026-09-03-at-10.51.35-am.png\" rel=\"n…",
       "author_name": "maskil"
