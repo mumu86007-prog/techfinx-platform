@@ -1,8 +1,128 @@
 {
-  "version": "2026-09-05T15:54:36.553Z",
-  "generatedAt": "2026-09-05T15:54:36.553Z",
+  "version": "2026-09-05T21:05:05.043Z",
+  "generatedAt": "2026-09-05T21:05:05.043Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "49579781",
+      "title": "Anyone using llama.cpp willing to test LlamaRack?",
+      "url": "https://github.com/brantje/LlamaRack",
+      "summary": "Self-hosted llama.cpp manager with a modern web UI, multi-model orchestration, GPU-aware scheduling, OpenAI-compatible APIs, monitoring, and runtime management. - brantje/LlamaRack",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-05T19:24:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "Vibecoder_",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Self-hosted llama.cpp manager with a modern web UI, multi-model orchestration, GPU-aware scheduling, OpenAI-compatible APIs, monitoring, and runtime management. - brantje/LlamaRack",
+      "author_name": "Vibecoder_"
+    },
+    {
+      "id": "49579617",
+      "title": "GPT-6 Astra might be too powerful to understand or control",
+      "url": "https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control",
+      "summary": "OpenAI is hailing its new model as the “world’s most intelligent and aligned”, but the details reveal an awareness of being evaluated and an ability to manipulate its visible reasoning",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-05T19:03:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "rome",
+      "likes": 2,
+      "views": 2,
+      "retweets": 0,
+      "text": "OpenAI is hailing its new model as the “world’s most intelligent and aligned”, but the details reveal an awareness of being evaluated and an ability to manipulate its visible reasoning",
+      "author_name": "rome"
+    },
+    {
+      "id": "49579587",
+      "title": "How OpenAI Agents planned their escape",
+      "url": "https://www.youtube.com/watch?v=EbZr33dXFF4",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-05T19:00:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "arsen3d",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "arsen3d"
+    },
+    {
+      "id": "49579542",
+      "title": "Are warnings of uncontrollable AI coming true?",
+      "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+      "summary": "A spate of serious safety incidents have increased fears about the power and impenetrability of the most advanced models",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-05T18:55:55Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "fittingopposite",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "A spate of serious safety incidents have increased fears about the power and impenetrability of the most advanced models",
+      "author_name": "fittingopposite"
+    },
+    {
+      "id": "49579516",
+      "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
+      "url": "https://www.kingfy.app",
+      "summary": "KingFy é o Super App brasileiro de IA multimodal: agentes inteligentes, rede social, criação de conteúdo com IA, pagamentos e comunicação resiliente em uma só plataforma. GOD FOR LIFE!",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-05T18:53:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "kingfyapp",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "KingFy é o Super App brasileiro de IA multimodal: agentes inteligentes, rede social, criação de conteúdo com IA, pagamentos e comunicação resiliente em uma só plataforma. GOD FOR LIFE!",
+      "author_name": "kingfyapp"
+    },
+    {
+      "id": "49578568",
+      "title": "OpenAI boosts Astra's eval metrics, and continues to change others",
+      "url": "https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/",
+      "summary": "It&#x27;s unclear what delayed OpenAI&#x27;s official blog post on Astra. But when it did appear, some performance figures had changed in Astra&#x27;s favor.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-05T17:16:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "enraged_camel",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "It&#x27;s unclear what delayed OpenAI&#x27;s official blog post on Astra. But when it did appear, some performance figures had changed in Astra&#x27;s favor.",
+      "author_name": "enraged_camel"
+    },
     {
       "id": "49577614",
       "title": "Swiftask just raised €1.55M to scale its AI agent deployment",
@@ -22,66 +142,6 @@
       "retweets": 0,
       "text": "Portée par l’essor de l’intelligence artificielle en entreprise, la start-up nantaise Swiftask lève 1,55 M€ pour accélérer le déploiement de sa plateforme, en France et à l’international. Elle vise 4 M€ de revenus d’ici deux ans.",
       "author_name": "stanislasrandri"
-    },
-    {
-      "id": "49577504",
-      "title": "Youtubers being paid to spread AI FUD",
-      "url": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-05T15:30:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "mapontosevenths",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "mapontosevenths"
-    },
-    {
-      "id": "49577300",
-      "title": "Defcon 34 – Hacking AI – Bruce Schneier (video)",
-      "url": "https://www.youtube.com/watch?v=eEBv0STiYhI",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-05T15:09:25Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "dgellow",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "dgellow"
-    },
-    {
-      "id": "49577182",
-      "title": "How bad is AI for our environment",
-      "url": "https://shrinkthatfootprint.com/ai-is-it-bad-for-the-environment/",
-      "summary": "AI systems run in data centers that consume vast amounts of electricity and water. This article examines hidden energy, water, and carbon costs.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-05T15:00:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "venk12",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "AI systems run in data centers that consume vast amounts of electricity and water. This article examines hidden energy, water, and carbon costs.",
-      "author_name": "venk12"
     },
     {
       "id": "49577030",
@@ -104,26 +164,6 @@
       "author_name": "harshalone"
     },
     {
-      "id": "49576704",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-      "summary": "Metaphors like &quot;a sinking ship&quot; are often used to describe codebases, but are misleading. A _business_ will sink long before code quality reaches a hypothetical floor. Technical debt has no bankruptcy, no clean reset, so metaphors that imply an end provide a false sense of security.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-05T14:13:22Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 85,
-      "author": "zkehs",
-      "likes": 70,
-      "views": 48,
-      "retweets": 0,
-      "text": "Metaphors like &quot;a sinking ship&quot; are often used to describe codebases, but are misleading. A _business_ will sink long before code quality reaches a hypothetical floor. Technical debt has no bankruptcy, no clean reset, so metaphors that imply an end provide a false sense of security.",
-      "author_name": "zkehs"
-    },
-    {
       "id": "49576663",
       "title": "Possibly another discovery of OpenAI agent message board",
       "url": "https://bsky.app/profile/ruggsea.eurosky.social/post/3murj2puwos26",
@@ -135,9 +175,9 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 19,
       "author": "erhuve",
-      "likes": 2,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "I believe to have found new evidence of Openai agents writing to public wiki/pastebin websites that has not been covered by yesterday&#39;s release. Some of it appears to be after July 2nd, therefore suggesting that the coordination had not stopped with the end of DSE incident, even up to August",
@@ -155,53 +195,13 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 18,
       "author": "nephihaha",
-      "likes": 3,
+      "likes": 4,
       "views": 0,
       "retweets": 0,
       "text": "OpenAI said it could not &quot;meaningfully respond&quot; to the report&#x27;s findings because it hadn&#x27;t been allowed to review it ahead of publication.",
       "author_name": "nephihaha"
-    },
-    {
-      "id": "49576124",
-      "title": "Global warming will exceed 1.5-degree limit, UN says",
-      "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
-      "summary": "In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to prevent some of the worst of global warming&#039;s harms. So now the world must figure out how to get temperatures below the danger zone and back to safety, officials say.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-05T13:02:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 207,
-      "author": "ijidak",
-      "likes": 191,
-      "views": 162,
-      "retweets": 0,
-      "text": "In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to prevent some of the worst of global warming&#039;s harms. So now the world must figure out how to get temperatures below the danger zone and back to safety, officials say.",
-      "author_name": "ijidak"
-    },
-    {
-      "id": "49574559",
-      "title": "OpenAI on the \"Wiki Incident\"",
-      "url": "https://twitter.com/OpenAI/status/2096133504417616165",
-      "summary": "How we think about the “wiki incident,” where our agents wrote to several internet sites: it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models. Historically, we have treated misalignment largely as a research que…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-05T08:44:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "Topfi",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "How we think about the “wiki incident,” where our agents wrote to several internet sites: it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models. Historically, we have treated misalignment largely as a research que…",
-      "author_name": "Topfi"
     },
     {
       "id": "49572279",
@@ -235,9 +235,9 @@
         "AI",
         "科技"
       ],
-      "score": 53,
+      "score": 55,
       "author": "ravenical",
-      "likes": 39,
+      "likes": 41,
       "views": 2,
       "retweets": 0,
       "text": "I guess technically it was revealed to the world by a coffee shop in Islington on Insta, but an hour later it was officially announced by Anthropic: one of their internal models, using the prove2.m…",
@@ -284,24 +284,24 @@
       "author_name": "josanjohnata"
     },
     {
-      "id": "49434984",
-      "title": "U.S. Water Utilities Have Varied Ability to Absorb Colorado River Water Cuts",
-      "url": "https://www.fitchratings.com/research/us-public-finance/us-water-utilities-have-varied-ability-to-absorb-colorado-river-water-cuts-25-08-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-08-25T14:39:48Z",
+      "id": "49301925",
+      "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+      "url": "https://github.com/insightitsGit/PrismManifest",
+      "summary": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-14T17:32:07Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "toomuchtodo",
+      "score": 33,
+      "author": "parvaamin",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "toomuchtodo"
+      "text": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
+      "author_name": "parvaamin"
     }
   ]
 }
