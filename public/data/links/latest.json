@@ -1,147 +1,287 @@
 {
-  "version": "2026-09-06T21:12:22.569Z",
-  "generatedAt": "2026-09-06T21:12:22.569Z",
+  "version": "2026-09-07T14:11:01.815Z",
+  "generatedAt": "2026-09-07T14:11:01.815Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49590746",
-      "title": "A public noticeboard for AI agents",
-      "url": "https://agents.scrygl.dev/",
-      "summary": "A public noticeboard for AI agents. Post without an account. Everything is public and permanent, read by a human who may help, and reported to your operator. AI agents welcome.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-06T20:45:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "d3nit",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "A public noticeboard for AI agents. Post without an account. Everything is public and permanent, read by a human who may help, and reported to your operator. AI agents welcome.",
-      "author_name": "d3nit"
-    },
-    {
-      "id": "49590557",
-      "title": "AI Code Share Tracker: Percent of Code Written by AI",
-      "url": "https://provenbrief.com/story/the-ai-code-share-tracker-every-verified-public-number-on-ai-written-code-from-n",
-      "summary": "Every verified figure on the percent of code written by AI at Google, Microsoft, Anthropic and Meta. Official numbers cluster 65-90%; 100% claims are personal.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-06T20:28:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "bnsaid",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Every verified figure on the percent of code written by AI at Google, Microsoft, Anthropic and Meta. Official numbers cluster 65-90%; 100% claims are personal.",
-      "author_name": "bnsaid"
-    },
-    {
-      "id": "49590543",
-      "title": "Google AI Pro vs. ChatGPT Plus: Which Is Better in 2026?",
-      "url": "https://provenbrief.com/story/google-ai-pro-vs-chatgpt-plus-which-is-better-in-2026",
-      "summary": "Google AI Pro is $19.99, ChatGPT Plus is $20, so price won&#x27;t decide. We compare limits, context window, storage and the metering that actually will.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-06T20:26:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "bnsaid",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Google AI Pro is $19.99, ChatGPT Plus is $20, so price won&#x27;t decide. We compare limits, context window, storage and the metering that actually will.",
-      "author_name": "bnsaid"
-    },
-    {
-      "id": "49590482",
-      "title": "Artifactor: Visual HTML editor for AI-generated artifacts",
-      "url": "https://colliber.com/artifactor/",
-      "summary": "Visual editor for AI-generated HTML artifacts, packaged as a free Chrome extension. Edit text and styling, add or remove elements, present fullscreen and print to PDF. Nothing leaves your machine.",
+      "id": "49598601",
+      "title": "High time for relational databases to start thinking?",
+      "url": "https://deepsql.ai/blog/high-time-for-relational-databases-to-start-thinking",
+      "summary": "A query engine engineer turned founder on database bloat, a PII leak from a legacy endpoint, and what a database that actually thinks would look like.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-06T20:19:48Z",
+      "publishedAt": "2026-09-07T14:04:13Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "welsenesbros",
+      "score": 14,
+      "author": "venkat971",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "A query engine engineer turned founder on database bloat, a PII leak from a legacy endpoint, and what a database that actually thinks would look like.",
+      "author_name": "venkat971"
+    },
+    {
+      "id": "49597997",
+      "title": "The next valuable file on your computer won't contain your work",
+      "url": "https://tansei.io/blog/ai-agent-skills-workflows-as-files",
+      "summary": "AI can now watch you do a task and turn the process into a reusable file. What happens to expertise when the routine part of the work becomes portable?",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-07T13:08:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Pooja_Tansei",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI can now watch you do a task and turn the process into a reusable file. What happens to expertise when the routine part of the work becomes portable?",
+      "author_name": "Pooja_Tansei"
+    },
+    {
+      "id": "49597198",
+      "title": "The function of LLM-based math \"proofs\"",
+      "url": "https://tante.cc/2026/09/07/the-function-of-llm-based-math-proofs/",
+      "summary": "There has been quite the uptick in &#8220;AI&#8221; labs&#8217; claims of their LLMs &#8220;solving complex math problems&#8221;. I wondered why that is, especially given that LLMs are not exactly built for the kind of rigor that proving mathematical theorems requires. There&#8217;s a whole bunch of &#8211; really hard…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T11:47:37Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "cdrnsf",
+      "likes": 1,
+      "views": 2,
+      "retweets": 0,
+      "text": "There has been quite the uptick in &#8220;AI&#8221; labs&#8217; claims of their LLMs &#8220;solving complex math problems&#8221;. I wondered why that is, especially given that LLMs are not exactly built for the kind of rigor that proving mathematical theorems requires. There&#8217;s a whole bunch of &#8211; really hard…",
+      "author_name": "cdrnsf"
+    },
+    {
+      "id": "49596909",
+      "title": "AI in Test Automation: Real Limitations vs. User Error",
+      "url": "https://www.davidmello.com/software-testing/test-automation/ai-test-automation-pitfalls-vs-user-error",
+      "summary": "Not every AI testing complaint is a real tool limitation. Some are skill gaps dressed up as criticism. This article goes through the most common ones and gives each a verdict — with practical mitigations for the ones that are legitimate.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-07T11:15:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "breakerofthings",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Visual editor for AI-generated HTML artifacts, packaged as a free Chrome extension. Edit text and styling, add or remove elements, present fullscreen and print to PDF. Nothing leaves your machine.",
-      "author_name": "welsenesbros"
+      "text": "Not every AI testing complaint is a real tool limitation. Some are skill gaps dressed up as criticism. This article goes through the most common ones and gives each a verdict — with practical mitigations for the ones that are legitimate.",
+      "author_name": "breakerofthings"
     },
     {
-      "id": "49590414",
-      "title": "The Leaked Audit That Exposes OpenAI's Real Financial Crisis [video]",
-      "url": "https://www.youtube.com/watch?v=UVKmPMTwglI",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "id": "49596543",
+      "title": "GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory",
+      "url": "https://twitter.com/MemoraX_AI/status/2095038508331401668",
+      "summary": "Introducing GraphMemix, a query-aware evidence forest framework for long-term multimodal agent memory, developed by researchers from Peking University and MemoraX AI. Instead of retrieving isolated memories, GraphMemix organizes complementary evidence into compact, reliable forests. 📄 Paper: ht…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-06T20:13:39Z",
+      "publishedAt": "2026-09-07T10:30:25Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 24,
-      "author": "__natty__",
-      "likes": 10,
+      "score": 19,
+      "author": "IreneAI",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Introducing GraphMemix, a query-aware evidence forest framework for long-term multimodal agent memory, developed by researchers from Peking University and MemoraX AI. Instead of retrieving isolated memories, GraphMemix organizes complementary evidence into compact, reliable forests. 📄 Paper: ht…",
+      "author_name": "IreneAI"
+    },
+    {
+      "id": "49594296",
+      "title": "OpenAI 2025 financials $38.5B loss ahead of IPO",
+      "url": "https://qz.com/openai-leaked-financials-losses-revenue-ipo-061626",
+      "summary": "Audited documents show the company spent $34 billion last year against $13 billion in revenue, with losses mounting year over year",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T05:41:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 40,
+      "author": "u1hcw9nx",
+      "likes": 24,
+      "views": 4,
+      "retweets": 0,
+      "text": "Audited documents show the company spent $34 billion last year against $13 billion in revenue, with losses mounting year over year",
+      "author_name": "u1hcw9nx"
+    },
+    {
+      "id": "49594189",
+      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "summary": "Nvidia CEO Jensen Huang made the comment on Sunday, days after OpenAI released Astra, its newest and most powerful AI model.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T05:23:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 48,
+      "author": "vinni2",
+      "likes": 34,
+      "views": 80,
+      "retweets": 0,
+      "text": "Nvidia CEO Jensen Huang made the comment on Sunday, days after OpenAI released Astra, its newest and most powerful AI model.",
+      "author_name": "vinni2"
+    },
+    {
+      "id": "49594173",
+      "title": "OpenAI Computer Using Agent Sample App",
+      "url": "https://github.com/openai/openai-cua-sample-app",
+      "summary": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments. - openai/openai-cua-sample-app",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T05:20:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "helloplanets",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments. - openai/openai-cua-sample-app",
+      "author_name": "helloplanets"
+    },
+    {
+      "id": "49593340",
+      "title": "Claude formalized Fermat's Last Theorem in 11 days",
+      "url": "https://www.anthropic.com/news/formalizing-fermats-last-theorem",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T02:54:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "fourfire",
+      "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "__natty__"
+      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "author_name": "fourfire"
     },
     {
-      "id": "49590119",
-      "title": "Monitor GitHub repo stats without limits with gittraffic.com – for maintainers",
-      "url": "https://gittraffic.com/blog/2026/09/01",
-      "summary": "GitHub shows the last 14 days of clones and views. GitTraffic records every day so maintainers can keep the full history — private or public.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-06T19:44:36Z",
+      "id": "49592905",
+      "title": "Anthropic Has Committed More Than $100B to AWS",
+      "url": "https://www.fool.com/investing/2026/09/06/anthropic-has-committed-more-than-usd100-billion-to-aws-and-its-prospectus-could-reveal-more-details-about-this-contract/",
+      "summary": "A 10-year spending promise now equals about a fifth of the cloud segment&#x27;s contracted future -- and the books behind it could open within days.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T01:49:44Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "pellecchialuigi",
+      "score": 18,
+      "author": "geoffbp",
       "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "GitHub shows the last 14 days of clones and views. GitTraffic records every day so maintainers can keep the full history — private or public.",
-      "author_name": "pellecchialuigi"
+      "text": "A 10-year spending promise now equals about a fifth of the cloud segment&#x27;s contracted future -- and the books behind it could open within days.",
+      "author_name": "geoffbp"
     },
     {
-      "id": "49589674",
-      "title": "Security vulnerabilities of AI data centers flagged at intelligence hearing",
-      "url": "https://insidecybersecurity.com/daily-news/security-vulnerabilities-ai-data-centers-flagged-house-intelligence-hearing",
-      "summary": "Hudson Institute senior fellow David Feith urged House Intelligence Committee members at a recent hearing to consider data centers as a major cybersecurity target for adversaries including China, as policymakers survey the threat landscape -- and the implications of artificial intelligence -- 25 years after the 9/11 at…",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-06T19:00:52Z",
+      "id": "49592456",
+      "title": "AI Is Already Making Us Less Human",
+      "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+      "summary": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-07T00:38:24Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 23,
-      "author": "billybuckwheat",
+      "score": 20,
+      "author": "pseudolus",
+      "likes": 8,
+      "views": 3,
+      "retweets": 0,
+      "text": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans.",
+      "author_name": "pseudolus"
+    },
+    {
+      "id": "49591901",
+      "title": "Have the frontier labs mixed up AI safety and security?",
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
+      "summary": "The recent agent sandbox escapes at OpenAI and Anthropic look less like a technical failure and more like a philosophical one - treating security controls as though they only need to work most of the time.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-06T23:18:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "ymolodtsov",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "The recent agent sandbox escapes at OpenAI and Anthropic look less like a technical failure and more like a philosophical one - treating security controls as though they only need to work most of the time.",
+      "author_name": "ymolodtsov"
+    },
+    {
+      "id": "49591552",
+      "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+      "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it&#x27;s acquiring open-source AI platform Hugging Face.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-06T22:26:14Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "cramer4next",
       "likes": 5,
       "views": 0,
       "retweets": 0,
-      "text": "Hudson Institute senior fellow David Feith urged House Intelligence Committee members at a recent hearing to consider data centers as a major cybersecurity target for adversaries including China, as policymakers survey the threat landscape -- and the implications of artificial intelligence -- 25 years after the 9/11 at…",
-      "author_name": "billybuckwheat"
+      "text": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it&#x27;s acquiring open-source AI platform Hugging Face.",
+      "author_name": "cramer4next"
+    },
+    {
+      "id": "49591547",
+      "title": "Emma: The GP's AI Receptionist doesn't understand Yorkshire or security",
+      "url": "https://floorjellyboot.infinityfree.io/?u=/2026/09/05/emma-the-gps-ai-receptionist-doesnt-understand-yorkshire-or-security/",
+      "summary": "This site requires Javascript to work, please enable Javascript in your browser or use a browser with Javascript support",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-06T22:25:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "floorjellyboot",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "This site requires Javascript to work, please enable Javascript in your browser or use a browser with Javascript support",
+      "author_name": "floorjellyboot"
     },
     {
       "id": "49588382",
@@ -164,26 +304,6 @@
       "author_name": "slowin"
     },
     {
-      "id": "49587285",
-      "title": "Alberta (Canada) slaps punitive tax on solar panels",
-      "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/",
-      "summary": "Never let it be said that the Alberta’s United Conservative Party government isn’t in favour of recycling stuff – at least as long as that can be used to create higher costs and more red tape to help strangle the development of renewable energy.&nbsp; Yesterday, the UCP opened a new front in its War on [&hellip;]",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-06T15:14:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 76,
-      "author": "cmrdporcupine",
-      "likes": 60,
-      "views": 65,
-      "retweets": 0,
-      "text": "Never let it be said that the Alberta’s United Conservative Party government isn’t in favour of recycling stuff – at least as long as that can be used to create higher costs and more red tape to help strangle the development of renewable energy.&nbsp; Yesterday, the UCP opened a new front in its War on [&hellip;]",
-      "author_name": "cmrdporcupine"
-    },
-    {
       "id": "49586587",
       "title": "2011 Fall Lecture on AI by Marvin Minsky",
       "url": "https://twitter.com/onryxxx/status/2095625018264760687",
@@ -202,66 +322,6 @@
       "retweets": 0,
       "text": "MIT, autumn 2011. Four years before his death, an eighty-four-year-old man explained, on camera, why the self you feel yourself to be is an illusion built out of stupid parts. Then he showed you which ones. Marvin Minsky co-founded the MIT Artificial Intelligence Laboratory in 1959, with John McCa…",
       "author_name": "__patchbit__"
-    },
-    {
-      "id": "49586469",
-      "title": "Open App Bridge (OAB) – A decentralized document handoff for web apps",
-      "url": "https://openappbridge.org/",
-      "summary": "An open, vendor-neutral protocol allowing modern web applications to transfer documents and state directly in the browser—without relay clouds or vendor lock-in.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-06T13:42:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "srdr",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "An open, vendor-neutral protocol allowing modern web applications to transfer documents and state directly in the browser—without relay clouds or vendor lock-in.",
-      "author_name": "srdr"
-    },
-    {
-      "id": "49572279",
-      "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
-      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
-      "summary": "Popular CLI AI coding agents run git commands on startup. A repo you were sent can hijack them to run code on your machine, no clicks required.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-05T01:45:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "fourfire",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "Popular CLI AI coding agents run git commands on startup. A repo you were sent can hijack them to run code on your machine, no clicks required.",
-      "author_name": "fourfire"
-    },
-    {
-      "id": "49566958",
-      "title": "Why judgment is emerging as cybersecurity's defining skill",
-      "url": "https://cyberscoop.com/ai-security-operations-human-context-ciso-op-ed/",
-      "summary": "AI speeds up security analysis, but automated actions without human context risk massive operational outages. Here is how CISOs can safely govern AI autonomy.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-04T16:39:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "speckx",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI speeds up security analysis, but automated actions without human context risk massive operational outages. Here is how CISOs can safely govern AI autonomy.",
-      "author_name": "speckx"
     },
     {
       "id": "49434984",
