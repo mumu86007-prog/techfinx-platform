@@ -1,8 +1,108 @@
 {
-  "version": "2026-09-07T14:11:01.815Z",
-  "generatedAt": "2026-09-07T14:11:01.815Z",
+  "version": "2026-09-07T21:57:05.949Z",
+  "generatedAt": "2026-09-07T21:57:05.949Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "49602825",
+      "title": "Ollama replacement 2-4x faster for no extra compute cost",
+      "url": "https://github.com/omgitsbase/llmash",
+      "summary": "ollama like local llm interface, optimized to run most models 2-3x faster, even faster than vllm most of the time (tables below) - omgitsbase/llmash",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T20:46:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "wowitsbase",
+      "likes": 1,
+      "views": 4,
+      "retweets": 0,
+      "text": "ollama like local llm interface, optimized to run most models 2-3x faster, even faster than vllm most of the time (tables below) - omgitsbase/llmash",
+      "author_name": "wowitsbase"
+    },
+    {
+      "id": "49602451",
+      "title": "Peer-to-peer LLM inference in browser tabs, Qwen 3.8 27B",
+      "url": "https://github.com/Nehanth/swarmllm",
+      "summary": "Every device brings a slice. Together they run the whole model. Peer-to-peer LLM inference across browser tabs: a from-scratch WebGPU engine and a WebRTC runtime that split a 27B model over the devices in a room. - Nehanth/swarmllm",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T20:08:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "Nehanth",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Every device brings a slice. Together they run the whole model. Peer-to-peer LLM inference across browser tabs: a from-scratch WebGPU engine and a WebRTC runtime that split a 27B model over the devices in a room. - Nehanth/swarmllm",
+      "author_name": "Nehanth"
+    },
+    {
+      "id": "49601426",
+      "title": "Does diet and activity lead to difference in energy expenditure in obese women?",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10290800/",
+      "summary": "Obesity is considered as a risk factor for metabolic and chronic diseases. Reduction in resting energy expenditure (REE) may increase risk of obesity. Our study was carried out to investigate dietary, biochemical, anthropometric and body composition ...",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-07T18:33:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "paulpauper",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Obesity is considered as a risk factor for metabolic and chronic diseases. Reduction in resting energy expenditure (REE) may increase risk of obesity. Our study was carried out to investigate dietary, biochemical, anthropometric and body composition ...",
+      "author_name": "paulpauper"
+    },
+    {
+      "id": "49600141",
+      "title": "Apple's \"Think Different\" inspired ad made by AI",
+      "url": "https://twitter.com/Noahsarc1000/status/2096989380774903883",
+      "summary": "Great Minds Think Alike Introducing Hybrix Lab - a platform where you can discover, talk to, and interact with over 500+ persona agents of the most influential minds in human history. Happy Labor Day!",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T16:32:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "nhannguyenkooln",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Great Minds Think Alike Introducing Hybrix Lab - a platform where you can discover, talk to, and interact with over 500+ persona agents of the most influential minds in human history. Happy Labor Day!",
+      "author_name": "nhannguyenkooln"
+    },
+    {
+      "id": "49598822",
+      "title": "Capping bug bounty submissions is the wrong response in the AI era",
+      "url": "https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/",
+      "summary": "Apple capped bug bounty submissions to fight AI slop, right as a 5 year old bug caused the $116M Coldcard hack. That&#039;s the wrong fix.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-07T14:23:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "geox",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Apple capped bug bounty submissions to fight AI slop, right as a 5 year old bug caused the $116M Coldcard hack. That&#039;s the wrong fix.",
+      "author_name": "geox"
+    },
     {
       "id": "49598601",
       "title": "High time for relational databases to start thinking?",
@@ -15,73 +115,13 @@
         "AI",
         "科技"
       ],
-      "score": 14,
+      "score": 16,
       "author": "venkat971",
-      "likes": 3,
-      "views": 0,
+      "likes": 5,
+      "views": 4,
       "retweets": 0,
       "text": "A query engine engineer turned founder on database bloat, a PII leak from a legacy endpoint, and what a database that actually thinks would look like.",
       "author_name": "venkat971"
-    },
-    {
-      "id": "49597997",
-      "title": "The next valuable file on your computer won't contain your work",
-      "url": "https://tansei.io/blog/ai-agent-skills-workflows-as-files",
-      "summary": "AI can now watch you do a task and turn the process into a reusable file. What happens to expertise when the routine part of the work becomes portable?",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-07T13:08:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Pooja_Tansei",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI can now watch you do a task and turn the process into a reusable file. What happens to expertise when the routine part of the work becomes portable?",
-      "author_name": "Pooja_Tansei"
-    },
-    {
-      "id": "49597198",
-      "title": "The function of LLM-based math \"proofs\"",
-      "url": "https://tante.cc/2026/09/07/the-function-of-llm-based-math-proofs/",
-      "summary": "There has been quite the uptick in &#8220;AI&#8221; labs&#8217; claims of their LLMs &#8220;solving complex math problems&#8221;. I wondered why that is, especially given that LLMs are not exactly built for the kind of rigor that proving mathematical theorems requires. There&#8217;s a whole bunch of &#8211; really hard…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-07T11:47:37Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "cdrnsf",
-      "likes": 1,
-      "views": 2,
-      "retweets": 0,
-      "text": "There has been quite the uptick in &#8220;AI&#8221; labs&#8217; claims of their LLMs &#8220;solving complex math problems&#8221;. I wondered why that is, especially given that LLMs are not exactly built for the kind of rigor that proving mathematical theorems requires. There&#8217;s a whole bunch of &#8211; really hard…",
-      "author_name": "cdrnsf"
-    },
-    {
-      "id": "49596909",
-      "title": "AI in Test Automation: Real Limitations vs. User Error",
-      "url": "https://www.davidmello.com/software-testing/test-automation/ai-test-automation-pitfalls-vs-user-error",
-      "summary": "Not every AI testing complaint is a real tool limitation. Some are skill gaps dressed up as criticism. This article goes through the most common ones and gives each a verdict — with practical mitigations for the ones that are legitimate.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-07T11:15:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "breakerofthings",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Not every AI testing complaint is a real tool limitation. Some are skill gaps dressed up as criticism. This article goes through the most common ones and gives each a verdict — with practical mitigations for the ones that are legitimate.",
-      "author_name": "breakerofthings"
     },
     {
       "id": "49596543",
@@ -102,66 +142,6 @@
       "retweets": 0,
       "text": "Introducing GraphMemix, a query-aware evidence forest framework for long-term multimodal agent memory, developed by researchers from Peking University and MemoraX AI. Instead of retrieving isolated memories, GraphMemix organizes complementary evidence into compact, reliable forests. 📄 Paper: ht…",
       "author_name": "IreneAI"
-    },
-    {
-      "id": "49594296",
-      "title": "OpenAI 2025 financials $38.5B loss ahead of IPO",
-      "url": "https://qz.com/openai-leaked-financials-losses-revenue-ipo-061626",
-      "summary": "Audited documents show the company spent $34 billion last year against $13 billion in revenue, with losses mounting year over year",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-07T05:41:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 40,
-      "author": "u1hcw9nx",
-      "likes": 24,
-      "views": 4,
-      "retweets": 0,
-      "text": "Audited documents show the company spent $34 billion last year against $13 billion in revenue, with losses mounting year over year",
-      "author_name": "u1hcw9nx"
-    },
-    {
-      "id": "49594189",
-      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-      "summary": "Nvidia CEO Jensen Huang made the comment on Sunday, days after OpenAI released Astra, its newest and most powerful AI model.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-07T05:23:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 48,
-      "author": "vinni2",
-      "likes": 34,
-      "views": 80,
-      "retweets": 0,
-      "text": "Nvidia CEO Jensen Huang made the comment on Sunday, days after OpenAI released Astra, its newest and most powerful AI model.",
-      "author_name": "vinni2"
-    },
-    {
-      "id": "49594173",
-      "title": "OpenAI Computer Using Agent Sample App",
-      "url": "https://github.com/openai/openai-cua-sample-app",
-      "summary": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments. - openai/openai-cua-sample-app",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-07T05:20:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "helloplanets",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments. - openai/openai-cua-sample-app",
-      "author_name": "helloplanets"
     },
     {
       "id": "49593340",
@@ -204,26 +184,6 @@
       "author_name": "geoffbp"
     },
     {
-      "id": "49592456",
-      "title": "AI Is Already Making Us Less Human",
-      "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
-      "summary": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-07T00:38:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "pseudolus",
-      "likes": 8,
-      "views": 3,
-      "retweets": 0,
-      "text": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans.",
-      "author_name": "pseudolus"
-    },
-    {
       "id": "49591901",
       "title": "Have the frontier labs mixed up AI safety and security?",
       "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
@@ -235,9 +195,9 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 19,
       "author": "ymolodtsov",
-      "likes": 2,
+      "likes": 3,
       "views": 1,
       "retweets": 0,
       "text": "The recent agent sandbox escapes at OpenAI and Anthropic look less like a technical failure and more like a philosophical one - treating security controls as though they only need to work most of the time.",
@@ -284,44 +244,24 @@
       "author_name": "floorjellyboot"
     },
     {
-      "id": "49588382",
-      "title": "Washington Post says Piker used AI generated audio but admits it has no proof",
-      "url": "https://twitter.com/washingtonpost/status/2096304873557877132",
-      "summary": "Hasan Piker showed his Twitch viewers a post quoting a supposed audio recording of a Jewish American politician saying the primary objective of his campaign was to aid Israel. But weeks later, it is not publicly known whether the recording is even real. https://t.co/PyqCKzbaMS",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-06T16:54:19Z",
+      "id": "49589674",
+      "title": "Security vulnerabilities of AI data centers flagged at intelligence hearing",
+      "url": "https://insidecybersecurity.com/daily-news/security-vulnerabilities-ai-data-centers-flagged-house-intelligence-hearing",
+      "summary": "Hudson Institute senior fellow David Feith urged House Intelligence Committee members at a recent hearing to consider data centers as a major cybersecurity target for adversaries including China, as policymakers survey the threat landscape -- and the implications of artificial intelligence -- 25 years after the 9/11 at…",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-06T19:00:52Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 19,
-      "author": "slowin",
-      "likes": 2,
+      "score": 23,
+      "author": "billybuckwheat",
+      "likes": 5,
       "views": 0,
       "retweets": 0,
-      "text": "Hasan Piker showed his Twitch viewers a post quoting a supposed audio recording of a Jewish American politician saying the primary objective of his campaign was to aid Israel. But weeks later, it is not publicly known whether the recording is even real. https://t.co/PyqCKzbaMS",
-      "author_name": "slowin"
-    },
-    {
-      "id": "49586587",
-      "title": "2011 Fall Lecture on AI by Marvin Minsky",
-      "url": "https://twitter.com/onryxxx/status/2095625018264760687",
-      "summary": "MIT, autumn 2011. Four years before his death, an eighty-four-year-old man explained, on camera, why the self you feel yourself to be is an illusion built out of stupid parts. Then he showed you which ones. Marvin Minsky co-founded the MIT Artificial Intelligence Laboratory in 1959, with John McCa…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-06T13:54:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "__patchbit__",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "MIT, autumn 2011. Four years before his death, an eighty-four-year-old man explained, on camera, why the self you feel yourself to be is an illusion built out of stupid parts. Then he showed you which ones. Marvin Minsky co-founded the MIT Artificial Intelligence Laboratory in 1959, with John McCa…",
-      "author_name": "__patchbit__"
+      "text": "Hudson Institute senior fellow David Feith urged House Intelligence Committee members at a recent hearing to consider data centers as a major cybersecurity target for adversaries including China, as policymakers survey the threat landscape -- and the implications of artificial intelligence -- 25 years after the 9/11 at…",
+      "author_name": "billybuckwheat"
     },
     {
       "id": "49434984",
