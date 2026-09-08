@@ -1,87 +1,227 @@
 {
-  "version": "2026-09-08T12:47:41.204Z",
-  "generatedAt": "2026-09-08T12:47:41.204Z",
+  "version": "2026-09-08T17:12:23.668Z",
+  "generatedAt": "2026-09-08T17:12:23.669Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49609383",
-      "title": "Claudisms – a living banlist of AI-writing tells",
-      "url": "https://claudisms.ai/",
-      "summary": "A living banlist of the words, phrases, and structural tics that signal AI-generated writing - the ones to flag and scrub before a draft goes out. Free to reuse (CC0).",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-08T12:25:08Z",
+      "id": "49613033",
+      "title": "Controversy over OpenAI's Maths Breakthrough",
+      "url": "https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy/",
+      "summary": "Prior to the announcement, rumors were circulating online among mathematicians over the proof’s origins—OpenAI has denied all allegations",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-08T16:57:23Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "weierstass",
+      "author": "doubledamio",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "A living banlist of the words, phrases, and structural tics that signal AI-generated writing - the ones to flag and scrub before a draft goes out. Free to reuse (CC0).",
-      "author_name": "weierstass"
+      "text": "Prior to the announcement, rumors were circulating online among mathematicians over the proof’s origins—OpenAI has denied all allegations",
+      "author_name": "doubledamio"
     },
     {
-      "id": "49609379",
-      "title": "AI and Training PhD Students",
-      "url": "https://mathoverflow.net/questions/515026/ai-and-training-phd-students",
-      "summary": "Traditionally, supervisors gave their PhD students open problems whose solutions did not require fundamentally new ideas, but rather a combination of known methods. This helped students become fami...",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-08T12:24:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "jjgreen",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Traditionally, supervisors gave their PhD students open problems whose solutions did not require fundamentally new ideas, but rather a combination of known methods. This helped students become fami...",
-      "author_name": "jjgreen"
-    },
-    {
-      "id": "49609349",
-      "title": "Structure over vigilance: Rules for what reviewing the AI misses",
-      "url": "https://solutionexplorer.dev/journal/structure-over-vigilance",
-      "summary": "AI-assisted development practices from a Visual Studio extension: adversarial review from an agreeable model and documentation rules with a compliance oracle.",
+      "id": "49612827",
+      "title": "Inception Launches Mercury 2.5, the Next Tier of Intelligence for Diffusion LLMs",
+      "url": "https://openrouter.ai/inception/mercury-2.5-preview",
+      "summary": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. $0.04 per million input tokens, $0.15 per million output tokens. 260,000 token context window, maximum output of 65,536 tokens.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-08T12:22:26Z",
+      "publishedAt": "2026-09-08T16:44:20Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "firstordefault",
+      "author": "fittingopposite",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "AI-assisted development practices from a Visual Studio extension: adversarial review from an agreeable model and documentation rules with a compliance oracle.",
-      "author_name": "firstordefault"
+      "text": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. $0.04 per million input tokens, $0.15 per million output tokens. 260,000 token context window, maximum output of 65,536 tokens.",
+      "author_name": "fittingopposite"
     },
     {
-      "id": "49609311",
-      "title": "We tested frontier models on slide creation",
-      "url": "https://slidely.ai/slides-creation-benchmark",
-      "summary": "Six frontier models completed the same 150 slide creation tasks. We compared output quality, speed, cost, token use, and performance as task complexity increased.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-08T12:19:08Z",
+      "id": "49612585",
+      "title": "First patient in live AI-assisted sight-saving brain surgery",
+      "url": "https://www.ucl.ac.uk/news/2026/aug/first-patient-live-ai-assisted-sight-saving-brain-surgery",
+      "summary": "The first use of artificial intelligence to support a neurosurgeon in real time during live surgery has protected the sight of a man having a brain tumour removed, in a UCL-UCLH collaboration.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-08T16:27:34Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "iamshnik",
+      "author": "DeepLogin",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Six frontier models completed the same 150 slide creation tasks. We compared output quality, speed, cost, token use, and performance as task complexity increased.",
-      "author_name": "iamshnik"
+      "text": "The first use of artificial intelligence to support a neurosurgeon in real time during live surgery has protected the sight of a man having a brain tumour removed, in a UCL-UCLH collaboration.",
+      "author_name": "DeepLogin"
+    },
+    {
+      "id": "49612576",
+      "title": "Enhancing soil science research with multi-agent AI systems [video]",
+      "url": "https://www.youtube.com/watch?v=iEjFdRimNlU",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-08T16:26:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "mooreds",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "49612557",
+      "title": "A model built to detect voter fraud is testing the limits of election trust",
+      "url": "https://www.votebeat.org/national/2026/09/03/election-truth-alliance-walter-mebane-2024-election-fraud-model/",
+      "summary": "The Election Truth Alliance used Walter Mebane Jr.’s eforensics model to suggest fraud in Pennsylvania’s 2024 election results, which Kamala Harris lost to Donald Trump.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-08T16:25:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "hn_acker",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "The Election Truth Alliance used Walter Mebane Jr.’s eforensics model to suggest fraud in Pennsylvania’s 2024 election results, which Kamala Harris lost to Donald Trump.",
+      "author_name": "hn_acker"
+    },
+    {
+      "id": "49612501",
+      "title": "AI Programming: A Layered Model",
+      "url": "https://lemire.me/blog/2026/09/05/ai-programming-a-layered-model/",
+      "summary": "In the late 1960s and 1970s, people like David Parnas faced a problem. A decade earlier there were almost no programmers. Suddenly there were hordes of inexperienced ones. What could have been a golden era was turning into a mess: far more software, much of it falling apart. It sent Edsger Dijkstra into a &hellip; Cont…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-08T16:20:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "ibobev",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "In the late 1960s and 1970s, people like David Parnas faced a problem. A decade earlier there were almost no programmers. Suddenly there were hordes of inexperienced ones. What could have been a golden era was turning into a mess: far more software, much of it falling apart. It sent Edsger Dijkstra into a &hellip; Cont…",
+      "author_name": "ibobev"
+    },
+    {
+      "id": "49612470",
+      "title": "Python sets and dictionaries can have quadratic-time performance",
+      "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+      "summary": "In Python, the dict data structure is the conventional key-value structure. E.g., you might store a list of names as keys and have their phone numbers as values. Valentin Ignatev wrote this amusing post on X: It is indeed widely believed that, in the strict sense, the dict data structure and its companion, the set &hel…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-08T16:17:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "ibobev",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "In Python, the dict data structure is the conventional key-value structure. E.g., you might store a list of names as keys and have their phone numbers as values. Valentin Ignatev wrote this amusing post on X: It is indeed widely believed that, in the strict sense, the dict data structure and its companion, the set &hel…",
+      "author_name": "ibobev"
+    },
+    {
+      "id": "49610976",
+      "title": "What made Anthropic walk away from the $6B Decart deal?",
+      "url": "https://www.calcalistech.com/ctechnews/article/sy77he6oml",
+      "summary": "The Israeli AI startup was deep into due diligence with Anthropic when the $6 billion-$7 billion acquisition suddenly collapsed, raising questions about its technology, scalability and business strategy. The fallout could also complicate Decart’s search for another buyer and deal a blow to Israel’s ambitions to establi…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-08T14:39:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "mgh2",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The Israeli AI startup was deep into due diligence with Anthropic when the $6 billion-$7 billion acquisition suddenly collapsed, raising questions about its technology, scalability and business strategy. The fallout could also complicate Decart’s search for another buyer and deal a blow to Israel’s ambitions to establi…",
+      "author_name": "mgh2"
+    },
+    {
+      "id": "49610528",
+      "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+      "url": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
+      "summary": "The Intercept sued to obtain records that reveal an intimate relationship between the military and OpenAI, Anthropic, Google, and xAI.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-08T14:05:06Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 29,
+      "author": "sea-gold",
+      "likes": 15,
+      "views": 4,
+      "retweets": 0,
+      "text": "The Intercept sued to obtain records that reveal an intimate relationship between the military and OpenAI, Anthropic, Google, and xAI.",
+      "author_name": "sea-gold"
+    },
+    {
+      "id": "49609686",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+      "summary": "Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it&#x27;s their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist …",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-08T12:52:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "kyisaiah47",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it&#x27;s their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist …",
+      "author_name": "kyisaiah47"
+    },
+    {
+      "id": "49609621",
+      "title": "OpenAI hires Chuck Schumer's daughter as Big Tech cozies up to Democrats",
+      "url": "https://nypost.com/2026/09/07/business/openai-hires-chuck-schumers-daughter-as-big-tech-cozies-up-to-democrats-ahead-of-midterms-report/",
+      "summary": "OpenAI has reportedly hired Senate Minority Leader Chuck Schumer’s daughter Jessica Schumer for a top policy job as Silicon Valley increasingly works to shore up ties with Democrats ahead of November&#039;s midterm elections.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-08T12:47:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "bhouston",
+      "likes": 3,
+      "views": 3,
+      "retweets": 0,
+      "text": "OpenAI has reportedly hired Senate Minority Leader Chuck Schumer’s daughter Jessica Schumer for a top policy job as Silicon Valley increasingly works to shore up ties with Democrats ahead of November&#039;s midterm elections.",
+      "author_name": "bhouston"
     },
     {
       "id": "49608902",
@@ -102,66 +242,6 @@
       "retweets": 0,
       "text": "WebAssembly runs at near-native speed inside a browser sandbox. But the sandbox is not bulletproof — linear memory without ASLR, Spectre side channels, and persistent malware hiding in WASM modules are real threats. Here is how WASM security actually works and where it falls short.",
       "author_name": "dagurp"
-    },
-    {
-      "id": "49608567",
-      "title": "OpenAI hires Chuck Schumer's daughter as lead lobbyist during regulatory talks",
-      "url": "https://www.washingtonexaminer.com/policy/technology/4715947/openai-hires-chuck-schumer-daughter-regulatory-talks/",
-      "summary": "OpenAI is expanding its policy team amid Capitol Hill fights over AI industry regulations, reportedly hiring Jessica Schumer.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-08T10:55:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "healsdata",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenAI is expanding its policy team amid Capitol Hill fights over AI industry regulations, reportedly hiring Jessica Schumer.",
-      "author_name": "healsdata"
-    },
-    {
-      "id": "49608238",
-      "title": "What Can You Do with a Local LLM?",
-      "url": "https://grigio.org/what-can-you-actually-do-with-a-local-llm/",
-      "summary": "Everyone talks about ChatGPT, Claude, and Gemini. But a growing number of people are running large language models entirely on their own hardware. No API keys. No subscriptions. No data leaving their machine. The question is simple: what can you realistically do with a local LLM? More than you think.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-08T10:14:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "grigio",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Everyone talks about ChatGPT, Claude, and Gemini. But a growing number of people are running large language models entirely on their own hardware. No API keys. No subscriptions. No data leaving their machine. The question is simple: what can you realistically do with a local LLM? More than you think.",
-      "author_name": "grigio"
-    },
-    {
-      "id": "49607187",
-      "title": "Isthmus: History as an Answer Key in Cross-Field Retrieval [pdf]",
-      "url": "https://darksigma.com/cross-field-retrieval-benchmark-isthmus.pdf",
-      "summary": "%PDF-1.3 %���� 1 0 obj > /StructTreeRoot 353 0 R /ViewerPreferences > /Lang (en\\055US) /Metadata 1962 0 R /Outlines 1965 0 R >> endobj 2 0 obj > endobj 3 0 obj > /Font > >> /MediaBox [ 0 0 612 792 ] /Contents [ 41 0 R 42 0 R 43 0 R 44 0 R ] /StructParents 0 /Tabs /S /Parent 2 0 R >> endobj 4 0 obj > endobj 5 0 obj > en…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-08T08:14:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "LumiTharMan",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "%PDF-1.3 %���� 1 0 obj > /StructTreeRoot 353 0 R /ViewerPreferences > /Lang (en\\055US) /Metadata 1962 0 R /Outlines 1965 0 R >> endobj 2 0 obj > endobj 3 0 obj > /Font > >> /MediaBox [ 0 0 612 792 ] /Contents [ 41 0 R 42 0 R 43 0 R 44 0 R ] /StructParents 0 /Tabs /S /Parent 2 0 R >> endobj 4 0 obj > endobj 5 0 obj > en…",
-      "author_name": "LumiTharMan"
     },
     {
       "id": "49604092",
@@ -202,46 +282,6 @@
       "retweets": 0,
       "text": "Apple capped bug bounty submissions to fight AI slop, right as a 5 year old bug caused the $116M Coldcard hack. That&#039;s the wrong fix.",
       "author_name": "geox"
-    },
-    {
-      "id": "49593340",
-      "title": "Claude formalized Fermat's Last Theorem in 11 days",
-      "url": "https://www.anthropic.com/news/formalizing-fermats-last-theorem",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-07T02:54:56Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "fourfire",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "author_name": "fourfire"
-    },
-    {
-      "id": "49592905",
-      "title": "Anthropic Has Committed More Than $100B to AWS",
-      "url": "https://www.fool.com/investing/2026/09/06/anthropic-has-committed-more-than-usd100-billion-to-aws-and-its-prospectus-could-reveal-more-details-about-this-contract/",
-      "summary": "A 10-year spending promise now equals about a fifth of the cloud segment&#x27;s contracted future -- and the books behind it could open within days.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-07T01:49:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "geoffbp",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "A 10-year spending promise now equals about a fifth of the cloud segment&#x27;s contracted future -- and the books behind it could open within days.",
-      "author_name": "geoffbp"
     },
     {
       "id": "49591901",
@@ -304,24 +344,24 @@
       "author_name": "billybuckwheat"
     },
     {
-      "id": "49301925",
-      "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
-      "url": "https://github.com/insightitsGit/PrismManifest",
-      "summary": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-08-14T17:32:07Z",
+      "id": "49434984",
+      "title": "U.S. Water Utilities Have Varied Ability to Absorb Colorado River Water Cuts",
+      "url": "https://www.fitchratings.com/research/us-public-finance/us-water-utilities-have-varied-ability-to-absorb-colorado-river-water-cuts-25-08-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-08-25T14:39:48Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 33,
-      "author": "parvaamin",
+      "score": 18,
+      "author": "toomuchtodo",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
-      "author_name": "parvaamin"
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "toomuchtodo"
     }
   ]
 }
