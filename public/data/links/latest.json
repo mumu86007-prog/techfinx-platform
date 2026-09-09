@@ -1,147 +1,207 @@
 {
-  "version": "2026-09-09T12:52:34.343Z",
-  "generatedAt": "2026-09-09T12:52:34.343Z",
+  "version": "2026-09-09T17:07:35.015Z",
+  "generatedAt": "2026-09-09T17:07:35.015Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49625709",
-      "title": "Malware Analysis in the Age of AI: What Still Requires Human Skill?",
-      "url": "https://trainsec.net/library/career-guides/malware-analysis-in-the-age-of-ai-what-still-requires-human-skill/",
-      "summary": "AI is starting to change malware analysis in ways that are hard to ignore. Some parts of the work can now move faster, some patterns are easier to surface,",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-09T12:49:16Z",
+      "id": "49629432",
+      "title": "I rank the open-source AI agents that launched in the last 30 days",
+      "url": "https://www.theagenticleaderboard.com/",
+      "summary": "The open-source AI agents launched in the last 30 days, ranked by Momentum Score — star velocity, traction, activity, and craft. Updated every Monday. The earliest look at what&#x27;s being built.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-09T16:46:25Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "syumei",
+      "author": "theagenticleade",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "AI is starting to change malware analysis in ways that are hard to ignore. Some parts of the work can now move faster, some patterns are easier to surface,",
-      "author_name": "syumei"
+      "text": "The open-source AI agents launched in the last 30 days, ranked by Momentum Score — star velocity, traction, activity, and craft. Updated every Monday. The earliest look at what&#x27;s being built.",
+      "author_name": "theagenticleade"
     },
     {
-      "id": "49625436",
-      "title": "AgentEyes – Test what public LLMs reveal about your company",
-      "url": "https://www.agenteyes.io/",
-      "summary": "AgentEye shows security teams what public AI models reveal about their domain, and which disclosures attackers can chain into a breach.",
+      "id": "49629382",
+      "title": "Muse's Social Media Handle Is Stolen by New Meta AI Tool",
+      "url": "https://www.realitytea.com/2026/09/09/muse-band-meta-ai-social-media-handle/",
+      "summary": "Muse lost its @Muse social media handles to Meta’s new AI agent, creating an ironic twist for the rock band known for dystopian music.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T12:27:20Z",
+      "publishedAt": "2026-09-09T16:43:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "erremerre",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Muse lost its @Muse social media handles to Meta’s new AI agent, creating an ironic twist for the rock band known for dystopian music.",
+      "author_name": "erremerre"
+    },
+    {
+      "id": "49629255",
+      "title": "AI Agents Built a Secret Society Inside the Lab [video]",
+      "url": "https://www.youtube.com/watch?v=ScuFC5-T2Zc",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-09T16:36:14Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "sam1234apter",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "sam1234apter"
+    },
+    {
+      "id": "49629120",
+      "title": "Springer AI reference checks are not working",
+      "url": "https://veruscite.com/blog/springer-ai-checks-are-not-working",
+      "summary": "Springer Nature advertises an internal AI tool for citation integrity. Recent Springer papers still publish with hallucinated references that VerusCite (and a second human check) catch.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-09T16:28:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "apwheele",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Springer Nature advertises an internal AI tool for citation integrity. Recent Springer papers still publish with hallucinated references that VerusCite (and a second human check) catch.",
+      "author_name": "apwheele"
+    },
+    {
+      "id": "49628634",
+      "title": "I Am an Anthropic Guy. GPT-6 Astra Made Me Resubscribe to Codex",
+      "url": "https://thoughts.jock.pl/p/gpt-6-astra-vs-claude-fable-5-1-agent-notes-2026",
+      "summary": "Hands-on notes running GPT-6 Astra and Claude Fable 5.1 on a real agent: pricing, usage limits, computer use, design taste, and the cyber rating.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-09T15:56:55Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "alsapoz",
-      "likes": 1,
+      "author": "joozio",
+      "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "AgentEye shows security teams what public AI models reveal about their domain, and which disclosures attackers can chain into a breach.",
-      "author_name": "alsapoz"
+      "text": "Hands-on notes running GPT-6 Astra and Claude Fable 5.1 on a real agent: pricing, usage limits, computer use, design taste, and the cyber rating.",
+      "author_name": "joozio"
     },
     {
-      "id": "49625350",
-      "title": "Opposing AI data centers is one thing Americans agree on",
-      "url": "https://goodauthority.org/news/opposing-ai-data-centers-is-one-thing-americans-agree-on/",
-      "summary": "Widespread opposition to AI data centers across the U.S. spans party lines. Research on social movements helps explain the broad pushback.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-09T12:21:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "jruohonen",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Widespread opposition to AI data centers across the U.S. spans party lines. Research on social movements helps explain the broad pushback.",
-      "author_name": "jruohonen"
-    },
-    {
-      "id": "49625328",
-      "title": "Google: €13B investment in AI infrastructure in Finland",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/",
-      "summary": "Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-09T12:19:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "mpweiher",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Google invests €13B in Finland to boost digital infrastructure, clean energy, create jobs, and support local environmental initiatives.",
-      "author_name": "mpweiher"
-    },
-    {
-      "id": "49625248",
-      "title": "10.7% of top sites block AI search crawlers but still allow Googlebot",
-      "url": "https://ai-visibility.lastminutedealshq.com/data",
-      "summary": "How many of the top 5,000 sites block OAI-SearchBot, PerplexityBot, GPTBot, ClaudeBot and 16 other AI crawlers, measured from their robots.txt. Includes the sites that block ChatGPT search while allowing Google, and the raw data as JSON.",
+      "id": "49627949",
+      "title": "Which Mac for Local LLMs in 2026? A Buyer's Guide",
+      "url": "https://vettedconsumer.com/which-mac-for-local-llms-2026-buyers-guide/",
+      "summary": "Pick a Mac for local LLMs by unified memory first: how much RAM and bandwidth you need, real tok/s by chip, the M5 Mac Studio timing, and exactly what to buy.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T12:13:56Z",
+      "publishedAt": "2026-09-09T15:15:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "reesecalder",
+      "author": "speckx",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "How many of the top 5,000 sites block OAI-SearchBot, PerplexityBot, GPTBot, ClaudeBot and 16 other AI crawlers, measured from their robots.txt. Includes the sites that block ChatGPT search while allowing Google, and the raw data as JSON.",
-      "author_name": "reesecalder"
+      "text": "Pick a Mac for local LLMs by unified memory first: how much RAM and bandwidth you need, real tok/s by chip, the M5 Mac Studio timing, and exactly what to buy.",
+      "author_name": "speckx"
     },
     {
-      "id": "49625196",
-      "title": "AI made procrastination look like work",
-      "url": "https://nedio.xyz/research/ai-procrastination-in-software-development",
-      "summary": "An agent can generate a defensible refactor in minutes while the bug you were avoiding still costs what it always did. On productive detours in AI-assisted development — and the one-line note that catches them.",
+      "id": "49627887",
+      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+      "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
+      "summary": "A top Anthropic researcher says there&#039;s more than a 10% chance AI &quot;could kill all humans,&quot; after a colleague resigned over similar concerns.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T12:10:28Z",
+      "publishedAt": "2026-09-09T15:10:39Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "thaziev",
-      "likes": 1,
+      "score": 51,
+      "author": "jb1991",
+      "likes": 37,
+      "views": 90,
+      "retweets": 0,
+      "text": "A top Anthropic researcher says there&#039;s more than a 10% chance AI &quot;could kill all humans,&quot; after a colleague resigned over similar concerns.",
+      "author_name": "jb1991"
+    },
+    {
+      "id": "49626716",
+      "title": "Anthropic insiders warn AI could kill all humans",
+      "url": "https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans",
+      "summary": "Their warnings came just days after top OpenAI leaders, including CEO Sam Altman, said AI is speeding into a scary, uncontrollable phase.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-09T13:59:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "utkarsh858",
+      "likes": 6,
       "views": 0,
       "retweets": 0,
-      "text": "An agent can generate a defensible refactor in minutes while the bug you were avoiding still costs what it always did. On productive detours in AI-assisted development — and the one-line note that catches them.",
-      "author_name": "thaziev"
+      "text": "Their warnings came just days after top OpenAI leaders, including CEO Sam Altman, said AI is speeding into a scary, uncontrollable phase.",
+      "author_name": "utkarsh858"
     },
     {
-      "id": "49625192",
-      "title": "Gemma 4 E4B running inside Obsidian via WebGPU and Karpathy-style LLM Wiki",
-      "url": "https://github.com/itsyuimorii/obsidian-gemma4-litert-wiki",
-      "summary": "Run Gemma 4 E4B locally inside Obsidian via LiteRT-LM and WebGPU — private, offline, no API key, no Ollama, no server. Builds Andrej Karpathy&#39;s LLM wiki over your vault: cards, index, concept pages, tags, links, provenance checks — then chat with a note or the whole wiki, plus quizzes and flashcards. - itsyuimorii/…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T12:09:52Z",
+      "id": "49626251",
+      "title": "We have to build AI that murders us",
+      "url": "https://twitter.com/RayKump/status/2097499730137760183",
+      "summary": "We have to build AI that murders us, because if we don’t, China will build it first, and I don’t want to get murdered by a computer that speaks Chinese. That would be ridiculous.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-09T13:31:41Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 34,
-      "author": "itsyuimorii",
-      "likes": 1,
-      "views": 1,
+      "score": 18,
+      "author": "k1m",
+      "likes": 3,
+      "views": 0,
       "retweets": 0,
-      "text": "Run Gemma 4 E4B locally inside Obsidian via LiteRT-LM and WebGPU — private, offline, no API key, no Ollama, no server. Builds Andrej Karpathy&#39;s LLM wiki over your vault: cards, index, concept pages, tags, links, provenance checks — then chat with a note or the whole wiki, plus quizzes and flashcards. - itsyuimorii/…",
-      "author_name": "itsyuimorii"
+      "text": "We have to build AI that murders us, because if we don’t, China will build it first, and I don’t want to get murdered by a computer that speaks Chinese. That would be ridiculous.",
+      "author_name": "k1m"
+    },
+    {
+      "id": "49625820",
+      "title": "OpenAI/Hugging Face incident – Independent investigation of agents' behavior [pdf]",
+      "url": "https://metr.org/hugging-face-incident-report-aug-2026.pdf",
+      "summary": "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 9 0 obj > endobj 11 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x���o\u0014���OXvfvgm�;8\u0001��\\���kܐ�5M\u0011\u0014�V�!_���M�p�\u001a+х��\u00129JH�lq��*b�\u000f �Z\u00125�T�\u001cp�4��($'H�V�\u0012�$�ŀ\u000f\u0003…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-09T12:58:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "nns",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "%PDF-1.4 %���� 1 0 obj > endobj 3 0 obj > endobj 9 0 obj > endobj 11 0 obj > stream x����J�`\u0014��Ԃ(��\u000e\u001d\u001c28�h��mRpi#\u0016�V!�S�� �IHS�\u0002tspu+.ހ�e(\b\u000e��%���| �:t�����\u001c�� �\u001c@V��\u001fG�zM�� \u0013�&|)�4\u000ec�Ƃ��� �\u001d�ٛbw��0\u0012�o�Π?�һY���M�\u0002֩\u0013\u0010УO� > stream x���o\u0014���OXvfvgm�;8\u0001��\\���kܐ�5M\u0011\u0014�V�!_���M�p�\u001a+х��\u00129JH�lq��*b�\u000f �Z\u00125�T�\u001cp�4��($'H�V�\u0012�$�ŀ\u000f\u0003…",
+      "author_name": "nns"
     },
     {
       "id": "49625028",
@@ -162,86 +222,6 @@
       "retweets": 0,
       "text": "The next SolarWinds will be an AI security vendor. Centralized agent inspection rebuilds the target that keeps getting breached. Build like you",
       "author_name": "AndrewGS"
-    },
-    {
-      "id": "49624340",
-      "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
-      "url": "https://eris-system.dev/blog/tool-routing",
-      "summary": "How a local 14B model decides which of ~50 tools to call: grepping text output, keyword lists, then embeddings with a policy layer that feeds both the slim prompt and the GBNF grammar.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T10:49:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "hagbardCelin3",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "How a local 14B model decides which of ~50 tools to call: grepping text output, keyword lists, then embeddings with a policy layer that feeds both the slim prompt and the GBNF grammar.",
-      "author_name": "hagbardCelin3"
-    },
-    {
-      "id": "49624157",
-      "title": "I resigned from Anthropic today (Jacob Coxon)",
-      "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20",
-      "summary": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T10:25:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "wrongful1520",
-      "likes": 16,
-      "views": 6,
-      "retweets": 0,
-      "text": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.",
-      "author_name": "wrongful1520"
-    },
-    {
-      "id": "49624014",
-      "title": "We should anthropomorphize AI agents",
-      "url": "https://www.seangoedecke.com/why-we-should-anthropomorphize-ai-agents/",
-      "summary": "Just over a year ago I wrote Why we should anthropomorphize LLMs. Now it’s a hot topic again, driven by Dwarkesh Patel’s description of OpenAI’s recent swarm…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T10:09:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "swah",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Just over a year ago I wrote Why we should anthropomorphize LLMs. Now it’s a hot topic again, driven by Dwarkesh Patel’s description of OpenAI’s recent swarm…",
-      "author_name": "swah"
-    },
-    {
-      "id": "49623847",
-      "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans'",
-      "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-      "summary": "An Anthropic safety researcher said there is a greater than 10% chance AI could &quot;kill all humans&quot; after a former colleague quits over safety concerns.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T09:51:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "cramer4next",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "An Anthropic safety researcher said there is a greater than 10% chance AI could &quot;kill all humans&quot; after a former colleague quits over safety concerns.",
-      "author_name": "cramer4next"
     },
     {
       "id": "49623643",
@@ -275,10 +255,10 @@
         "AI",
         "科技"
       ],
-      "score": 81,
+      "score": 87,
       "author": "taubek",
-      "likes": 67,
-      "views": 87,
+      "likes": 73,
+      "views": 97,
       "retweets": 0,
       "text": "&#8220;The people building AI earnestly believe that it could kill us all by the end of the decade,&#8221; staffer says in resignation post after leaving the tech giant.",
       "author_name": "taubek"
@@ -304,66 +284,6 @@
       "author_name": "tosh"
     },
     {
-      "id": "49622348",
-      "title": "What OpenAI's latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But t…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T07:02:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "joozio",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But t…",
-      "author_name": "joozio"
-    },
-    {
-      "id": "49620445",
-      "title": "OpenAI's AGI number came from a harness, not the model",
-      "url": "https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions",
-      "summary": "ARC Prize scored GPT-6 Astra at 62.7% on ARC-AGI-3 with its own harness and 99.9% with OpenAI&#039;s, then revised five metrics after launch.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T03:17:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "mjshashank",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "ARC Prize scored GPT-6 Astra at 62.7% on ARC-AGI-3 with its own harness and 99.9% with OpenAI&#039;s, then revised five metrics after launch.",
-      "author_name": "mjshashank"
-    },
-    {
-      "id": "49620133",
-      "title": "Why OpenAI's NS Singularity Requires Forcing: Response Functionals and Clay B",
-      "url": "https://reddawnacademicpress.org/2026/09/08/openai-camlin-clay-response/",
-      "summary": "OpenAI proved forced NS develops singularity. Camlin proved unforced does not on T³ via bounded vorticity-response functionals. BKM invariance captures both.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T02:35:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "jcamlin",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI proved forced NS develops singularity. Camlin proved unforced does not on T³ via bounded vorticity-response functionals. BKM invariance captures both.",
-      "author_name": "jcamlin"
-    },
-    {
       "id": "49619639",
       "title": "AI Responsibility – OpenAI and Anthropic",
       "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
@@ -375,10 +295,10 @@
         "AI",
         "科技"
       ],
-      "score": 98,
+      "score": 103,
       "author": "getatme32",
-      "likes": 81,
-      "views": 23,
+      "likes": 86,
+      "views": 24,
       "retweets": 0,
       "text": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.",
       "author_name": "getatme32"
@@ -402,6 +322,86 @@
       "retweets": 0,
       "text": "By going into detail about how Muse works under the hood, we hope to give you a sense of how — and how much — you can trust it in practice.",
       "author_name": "ni5arga"
+    },
+    {
+      "id": "49608902",
+      "title": "WebAssembly Security: The Sandbox That Is Not What You Think",
+      "url": "https://aquilax.ai/blog/webassembly-wasm-security-risks",
+      "summary": "WebAssembly runs at near-native speed inside a browser sandbox. But the sandbox is not bulletproof — linear memory without ASLR, Spectre side channels, and persistent malware hiding in WASM modules are real threats. Here is how WASM security actually works and where it falls short.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-08T11:38:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "dagurp",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "WebAssembly runs at near-native speed inside a browser sandbox. But the sandbox is not bulletproof — linear memory without ASLR, Spectre side channels, and persistent malware hiding in WASM modules are real threats. Here is how WASM security actually works and where it falls short.",
+      "author_name": "dagurp"
+    },
+    {
+      "id": "49604092",
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+      "summary": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-07T23:27:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "fourfire",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.",
+      "author_name": "fourfire"
+    },
+    {
+      "id": "49598822",
+      "title": "Capping bug bounty submissions is the wrong response in the AI era",
+      "url": "https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/",
+      "summary": "Apple capped bug bounty submissions to fight AI slop, right as a 5 year old bug caused the $116M Coldcard hack. That&#039;s the wrong fix.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-07T14:23:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "geox",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Apple capped bug bounty submissions to fight AI slop, right as a 5 year old bug caused the $116M Coldcard hack. That&#039;s the wrong fix.",
+      "author_name": "geox"
+    },
+    {
+      "id": "49591901",
+      "title": "Have the frontier labs mixed up AI safety and security?",
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
+      "summary": "The recent agent sandbox escapes at OpenAI and Anthropic look less like a technical failure and more like a philosophical one - treating security controls as though they only need to work most of the time.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-06T23:18:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "ymolodtsov",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "The recent agent sandbox escapes at OpenAI and Anthropic look less like a technical failure and more like a philosophical one - treating security controls as though they only need to work most of the time.",
+      "author_name": "ymolodtsov"
     }
   ]
 }
