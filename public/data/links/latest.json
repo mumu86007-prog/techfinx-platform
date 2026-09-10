@@ -1,107 +1,207 @@
 {
-  "version": "2026-09-09T21:37:10.035Z",
-  "generatedAt": "2026-09-09T21:37:10.035Z",
+  "version": "2026-09-10T12:50:28.932Z",
+  "generatedAt": "2026-09-10T12:50:28.932Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49634488",
-      "title": "Apple has a new way prove your iPhone photos aren't AI slop",
-      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-09T21:18:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "coinfused",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "author_name": "coinfused"
-    },
-    {
-      "id": "49634373",
-      "title": "How Much Redistribution Will AI Require?",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html",
-      "summary": "How much redistribution will AI require? A common scenario is that AI raises output enormously, but labor’s share of income collapses. GDP per capita goes up but workers get poorer, and making workers whole requires massive redistribution. In my latest paper, I run the numbers and conclude that this is probably incorre…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-09T21:09:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "marojejian",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "How much redistribution will AI require? A common scenario is that AI raises output enormously, but labor’s share of income collapses. GDP per capita goes up but workers get poorer, and making workers whole requires massive redistribution. In my latest paper, I run the numbers and conclude that this is probably incorre…",
-      "author_name": "marojejian"
-    },
-    {
-      "id": "49634281",
-      "title": "A quick overview of atomics in C",
-      "url": "https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c/",
-      "summary": "If you write in C, by default, you use a single thread. Extra cores do not help until you create more threads. However, if you include the header &lt;threads.h&gt;, you can pass a function to thrd_create, and wait for it with thrd_join. #include &lt;threads.h&gt; #include &lt;stdio.h&gt; int worker(void *arg) { printf(…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-09T21:03:09Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "ingve",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "If you write in C, by default, you use a single thread. Extra cores do not help until you create more threads. However, if you include the header &lt;threads.h&gt;, you can pass a function to thrd_create, and wait for it with thrd_join. #include &lt;threads.h&gt; #include &lt;stdio.h&gt; int worker(void *arg) { printf(…",
-      "author_name": "ingve"
-    },
-    {
-      "id": "49634252",
-      "title": "Chinese businesses give away AI tokens with coffee, credit cards, and dumplings",
-      "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
-      "summary": "Driven by low-cost open-source models, Chinese banks, telcos, and cafes are bundling AI compute tokens into credit card perks, mobile plans, and free restaurant promotions.",
+      "id": "49642749",
+      "title": "The Beatles: Detecting cultural wordplay in scientific literature using LLMs",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356147%20&utm_campaign=2026-pr&utm_source=pr&utm_medium=eurekalert&utm_content=press-release",
+      "summary": "The Beatles&rsquo; cultural influence reaches well beyond music into television, fashion, and global media. As we show, it reaches into scientific publishing too. This study documents how often Beatles song titles and lyrics appear in academic article titles, identifying 2,237 exact references and 963 instances of crea…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T21:02:13Z",
+      "publishedAt": "2026-09-10T12:36:31Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "herbertl",
+      "author": "sebg",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Driven by low-cost open-source models, Chinese banks, telcos, and cafes are bundling AI compute tokens into credit card perks, mobile plans, and free restaurant promotions.",
-      "author_name": "herbertl"
+      "text": "The Beatles&rsquo; cultural influence reaches well beyond music into television, fashion, and global media. As we show, it reaches into scientific publishing too. This study documents how often Beatles song titles and lyrics appear in academic article titles, identifying 2,237 exact references and 963 instances of crea…",
+      "author_name": "sebg"
     },
     {
-      "id": "49634232",
-      "title": "Limits and opportunities of AI reviewers: Reviewing the reviews of Nature papers",
-      "url": "https://arxiv.org/abs/2605.20668",
-      "summary": "Abstract page for arXiv paper 2605.20668: On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists",
+      "id": "49642507",
+      "title": "Retune FM – Your receiver's radio, back on air",
+      "url": "https://retunefm.com/",
+      "summary": "The legacy vTuner directory became unavailable on many receivers and your Denon, Marantz or other receiver lost Internet Radio. Retune·FM brings the stations back — one DNS setting, no app, free.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-09T21:01:05Z",
+      "publishedAt": "2026-09-10T12:16:29Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "marojejian",
+      "author": "mkprc",
       "likes": 1,
       "views": 1,
       "retweets": 0,
-      "text": "Abstract page for arXiv paper 2605.20668: On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists",
-      "author_name": "marojejian"
+      "text": "The legacy vTuner directory became unavailable on many receivers and your Denon, Marantz or other receiver lost Internet Radio. Retune·FM brings the stations back — one DNS setting, no app, free.",
+      "author_name": "mkprc"
+    },
+    {
+      "id": "49641646",
+      "title": "LeMap – Learning Enterprise Map",
+      "url": "https://datasong.app",
+      "summary": "LeMap learns how the processes that run your business connect to the data that represents them, so the data you need can be found, reused or assembled on demand.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-10T11:03:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 12,
+      "author": "thallukrish",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "LeMap learns how the processes that run your business connect to the data that represents them, so the data you need can be found, reused or assembled on demand.",
+      "author_name": "thallukrish"
+    },
+    {
+      "id": "49641181",
+      "title": "Running AMD OpenSIL and Coreboot on the First Available Ryzen AM5 Motherboard",
+      "url": "https://www.phoronix.com/review/msi-b850p-coreboot-opensil",
+      "summary": "Earlier this year the 3mdeb firmware consulting firm ported AMD openSIL CPU open-source silicon initialization library and Coreboot to an EPYC motherboard, the Gigabyte MZ33-AR1.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-10T10:09:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "rbanffy",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Earlier this year the 3mdeb firmware consulting firm ported AMD openSIL CPU open-source silicon initialization library and Coreboot to an EPYC motherboard, the Gigabyte MZ33-AR1.",
+      "author_name": "rbanffy"
+    },
+    {
+      "id": "49640641",
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "summary": "We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-10T09:04:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "lumpa",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "author_name": "lumpa"
+    },
+    {
+      "id": "49640263",
+      "title": "Anthropic commerce agent: open-source blueprint for shopping and merchant agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included. - anthropics/commerce-agents",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-10T08:25:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "ColinEberhardt",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included. - anthropics/commerce-agents",
+      "author_name": "ColinEberhardt"
+    },
+    {
+      "id": "49640155",
+      "title": "\"I've spent 3 days working with the new Astra model from OpenAI\" / X",
+      "url": "https://twitter.com/markgreville/status/2097961443870032351",
+      "summary": "I&#x27;ve spent 3 days working with the new Astra model from @OpenAI , and I think its a step above anything ive used to far. It&#x27;s been drafting the usual, email and powerpoints, but they are the most context aware ive had so far. Ive even built a game using sites",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-10T08:13:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "gHeadphone",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I&#x27;ve spent 3 days working with the new Astra model from @OpenAI , and I think its a step above anything ive used to far. It&#x27;s been drafting the usual, email and powerpoints, but they are the most context aware ive had so far. Ive even built a game using sites",
+      "author_name": "gHeadphone"
+    },
+    {
+      "id": "49638353",
+      "title": "OpenAI might have stolen another major proof",
+      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "summary": "BREAKING: OpenAI might have stolen another major proof. In a detailed Mastodon post, which I report in full in the comments, Andreas Thom presents several pieces of evidence suggesting that OpenAI may have trained Astra on conversations in which he and Gábor Kun were working on Gromov’s soficity …",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-10T04:19:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 272,
+      "author": "tamnd",
+      "likes": 255,
+      "views": 144,
+      "retweets": 0,
+      "text": "BREAKING: OpenAI might have stolen another major proof. In a detailed Mastodon post, which I report in full in the comments, Andreas Thom presents several pieces of evidence suggesting that OpenAI may have trained Astra on conversations in which he and Gábor Kun were working on Gromov’s soficity …",
+      "author_name": "tamnd"
+    },
+    {
+      "id": "49638155",
+      "title": "Anthropic Just Threatened to Kill Billions of People. This Is Not Okay",
+      "url": "https://calnewport.com/anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay/",
+      "summary": "Yesterday, Jacob Coxon, an Anthropic engineer, resigned. As he ​explained on X​: &#8220;[OpenAI and Anthropic] are racing straight to self-improving superintelligence and gambling with our ... Read more",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-10T03:46:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "alexfortin",
+      "likes": 8,
+      "views": 3,
+      "retweets": 0,
+      "text": "Yesterday, Jacob Coxon, an Anthropic engineer, resigned. As he ​explained on X​: &#8220;[OpenAI and Anthropic] are racing straight to self-improving superintelligence and gambling with our ... Read more",
+      "author_name": "alexfortin"
+    },
+    {
+      "id": "49635332",
+      "title": "Private Cloud Compute: A new frontier for AI privacy in the cloud (2024)",
+      "url": "https://security.apple.com/blog/private-cloud-compute/",
+      "summary": "Secure and private AI processing in the cloud poses a formidable new challenge. To support advanced features of Apple Intelligence with larger foundation models, we created Private Cloud Compute (PCC), a groundbreaking cloud intelligence system designed specifically for private AI processing. Built with custom Apple si…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-09T22:19:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "consumer451",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Secure and private AI processing in the cloud poses a formidable new challenge. To support advanced features of Apple Intelligence with larger foundation models, we created Private Cloud Compute (PCC), a groundbreaking cloud intelligence system designed specifically for private AI processing. Built with custom Apple si…",
+      "author_name": "consumer451"
     },
     {
       "id": "49634125",
@@ -115,9 +215,9 @@
         "AI",
         "科技"
       ],
-      "score": 32,
+      "score": 34,
       "author": "gordalina",
-      "likes": 1,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
@@ -135,173 +235,13 @@
         "AI",
         "科技"
       ],
-      "score": 35,
+      "score": 46,
       "author": "hodder",
-      "likes": 16,
+      "likes": 27,
       "views": 3,
       "retweets": 0,
       "text": "This post looks like the start of a VERY sophisticated and well-funded PR operation to get support for Democrats to regulate AI into oblivion. Let me show you how it works: 1.) This guy, with minimal followers and no previous account activity, goes to the Wall Street Journal which publishes an excl…",
       "author_name": "hodder"
-    },
-    {
-      "id": "49633033",
-      "title": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Copyright Case",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
-      "summary": "The Guild and 13 co-plaintiffs including Jonathan Franzen and George R.R. Martin, along with defendants OpenAI and its majority shareholder Microsoft, have asked a U.S. District Court for summary judgment related to data scraping, copyright, and fair use",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T19:44:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "ilamont",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "The Guild and 13 co-plaintiffs including Jonathan Franzen and George R.R. Martin, along with defendants OpenAI and its majority shareholder Microsoft, have asked a U.S. District Court for summary judgment related to data scraping, copyright, and fair use",
-      "author_name": "ilamont"
-    },
-    {
-      "id": "49632763",
-      "title": "OpenAI's rogue AI agents used more sites",
-      "url": "https://qz.com/openai-agents-unauthorized-websites-communications-researchers-090926",
-      "summary": "Independent investigators found traces of agent activity on wikis, text storage sites, and link shorteners run by 2 universities",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T19:29:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "armcat",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Independent investigators found traces of agent activity on wikis, text storage sites, and link shorteners run by 2 universities",
-      "author_name": "armcat"
-    },
-    {
-      "id": "49632274",
-      "title": "An alignment assessment of recent cybersecurity incidents",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "summary": "We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T19:03:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 41,
-      "author": "meetpateltech",
-      "likes": 10,
-      "views": 1,
-      "retweets": 0,
-      "text": "We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
-      "author_name": "meetpateltech"
-    },
-    {
-      "id": "49631278",
-      "title": "A $37 GLM 5.3 red team: the Alloy-modeled auth layer held, but two bugs outside",
-      "url": "https://goodmem.ai/blog/red-teaming-goodmem-with-glm/",
-      "summary": "We used GLM 5.3 to red-team GoodMem. How we defined the tests, what the agent found, what we fixed, and how we verified the fixes.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T18:26:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "svcrunch",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "We used GLM 5.3 to red-team GoodMem. How we defined the tests, what the agent found, what we fixed, and how we verified the fixes.",
-      "author_name": "svcrunch"
-    },
-    {
-      "id": "49630856",
-      "title": "AI Programming: A Layered Model",
-      "url": "https://lemire.me/blog/2026/09/05/ai-programming-a-layered-model/",
-      "summary": "In the late 1960s and 1970s, people like David Parnas faced a problem. A decade earlier there were almost no programmers. Suddenly there were hordes of inexperienced ones. What could have been a golden era was turning into a mess: far more software, much of it falling apart. It sent Edsger Dijkstra into a &hellip; Cont…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T18:12:22Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "dalvrosa",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "In the late 1960s and 1970s, people like David Parnas faced a problem. A decade earlier there were almost no programmers. Suddenly there were hordes of inexperienced ones. What could have been a golden era was turning into a mess: far more software, much of it falling apart. It sent Edsger Dijkstra into a &hellip; Cont…",
-      "author_name": "dalvrosa"
-    },
-    {
-      "id": "49629802",
-      "title": "Is OpenAI Taking Everyone for Fools?",
-      "url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
-      "summary": "OpenAI claims to have solved a decades old mathematical problem just as researchers are about to publish their solution. Coincidence?",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T17:09:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 62,
-      "author": "lcubw",
-      "likes": 48,
-      "views": 19,
-      "retweets": 0,
-      "text": "OpenAI claims to have solved a decades old mathematical problem just as researchers are about to publish their solution. Coincidence?",
-      "author_name": "lcubw"
-    },
-    {
-      "id": "49628634",
-      "title": "I Am an Anthropic Guy. GPT-6 Astra Made Me Resubscribe to Codex",
-      "url": "https://thoughts.jock.pl/p/gpt-6-astra-vs-claude-fable-5-1-agent-notes-2026",
-      "summary": "Hands-on notes running GPT-6 Astra and Claude Fable 5.1 on a real agent: pricing, usage limits, computer use, design taste, and the cyber rating.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-09T15:56:55Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "joozio",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Hands-on notes running GPT-6 Astra and Claude Fable 5.1 on a real agent: pricing, usage limits, computer use, design taste, and the cyber rating.",
-      "author_name": "joozio"
-    },
-    {
-      "id": "49626251",
-      "title": "We have to build AI that murders us",
-      "url": "https://twitter.com/RayKump/status/2097499730137760183",
-      "summary": "We have to build AI that murders us, because if we don’t, China will build it first, and I don’t want to get murdered by a computer that speaks Chinese. That would be ridiculous.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-09T13:31:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "k1m",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "We have to build AI that murders us, because if we don’t, China will build it first, and I don’t want to get murdered by a computer that speaks Chinese. That would be ridiculous.",
-      "author_name": "k1m"
     },
     {
       "id": "49625028",
@@ -364,44 +304,24 @@
       "author_name": "dagurp"
     },
     {
-      "id": "49604092",
-      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
-      "summary": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-07T23:27:53Z",
+      "id": "49434984",
+      "title": "U.S. Water Utilities Have Varied Ability to Absorb Colorado River Water Cuts",
+      "url": "https://www.fitchratings.com/research/us-public-finance/us-water-utilities-have-varied-ability-to-absorb-colorado-river-water-cuts-25-08-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-08-25T14:39:48Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "fourfire",
-      "likes": 1,
+      "score": 18,
+      "author": "toomuchtodo",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them.",
-      "author_name": "fourfire"
-    },
-    {
-      "id": "49598822",
-      "title": "Capping bug bounty submissions is the wrong response in the AI era",
-      "url": "https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/",
-      "summary": "Apple capped bug bounty submissions to fight AI slop, right as a 5 year old bug caused the $116M Coldcard hack. That&#039;s the wrong fix.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-07T14:23:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "geox",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Apple capped bug bounty submissions to fight AI slop, right as a 5 year old bug caused the $116M Coldcard hack. That&#039;s the wrong fix.",
-      "author_name": "geox"
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "toomuchtodo"
     }
   ]
 }
