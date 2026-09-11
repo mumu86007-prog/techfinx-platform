@@ -1,67 +1,247 @@
 {
-  "version": "2026-09-11T16:59:04.681Z",
-  "generatedAt": "2026-09-11T16:59:04.681Z",
+  "version": "2026-09-11T21:38:44.157Z",
+  "generatedAt": "2026-09-11T21:38:44.158Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49661321",
-      "title": "Meta's Muse AI works and creeps me out",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "summary": "Meta just debuted its personal AI assistant Muse. While Muse delivers on its promise of performing tasks in the background, it’s hard to use the tool without thinking about its connection to Meta.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-11T16:39:34Z",
+      "id": "49665689",
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-11T21:33:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "artmanja111",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+      "author_name": "artmanja111"
+    },
+    {
+      "id": "49665648",
+      "title": "Why Codex burns a weekly limit in a day",
+      "url": "https://relux.works/en/blog/codex-goal-token-burn/",
+      "summary": "Spin-waiting in Codex CLI: goal mode restarts the model 0.03 seconds after every turn and demands proof of waiting by live polling, the pause tool is issued to one model in the catalog, and every poll rereads a context of hundreds of thousands of tokens. In an archive of 3808 sessions, the 52 with goal mode ate half of…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T21:30:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "jumploops",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Spin-waiting in Codex CLI: goal mode restarts the model 0.03 seconds after every turn and demands proof of waiting by live polling, the pause tool is issued to one model in the catalog, and every poll rereads a context of hundreds of thousands of tokens. In an archive of 3808 sessions, the 52 with goal mode ate half of…",
+      "author_name": "jumploops"
+    },
+    {
+      "id": "49665553",
+      "title": "The Costs of AI Acceleration",
+      "url": "https://thanosapollo.org/posts/costs-of-ai-acceleration/",
+      "summary": "My recent posts about AI have been optimistic. I still mean them. After spending the past couple of months rebuilding my workflow around agents, I hardly interact with the colleagues I used to study with, and working has become so rewarding that I find it hard to stop. Neither has made me want my old workflow back.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T21:21:29Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "alekq",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "My recent posts about AI have been optimistic. I still mean them. After spending the past couple of months rebuilding my workflow around agents, I hardly interact with the colleagues I used to study with, and working has become so rewarding that I find it hard to stop. Neither has made me want my old workflow back.",
+      "author_name": "alekq"
+    },
+    {
+      "id": "49665300",
+      "title": "Meta Sued over Training Data for Its AI and Face-Recognition Systems",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T20:59:14Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 30,
-      "author": "thm",
+      "author": "Anon84",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Meta just debuted its personal AI assistant Muse. While Muse delivers on its promise of performing tasks in the background, it’s hard to use the tool without thinking about its connection to Meta.",
-      "author_name": "thm"
+      "text": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+      "author_name": "Anon84"
     },
     {
-      "id": "49661145",
-      "title": "Promptrack – Track How ChatGPT, Perplexity and AI Overviews Mention You",
-      "url": "https://promptrack.io",
-      "summary": "Track brand visibility across the AI engines you choose: ChatGPT, Perplexity, Google AI Overviews, AI Mode, Claude and Copilot. Compare position, share of voice and sentiment, then turn weekly findings into action and reports. 7-day free trial.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-11T16:29:44Z",
+      "id": "49665124",
+      "title": "LinkedIn profiles indicate Google completed $1.5B+ Mechanize talent deal",
+      "url": "https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9",
+      "summary": "Google has completed its deal with startup Mechanize, bringing cofounder Tamay Besiroglu and more than a dozen staffers to its AI division, DeepMind.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-11T20:47:24Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "samirbelabbes",
+      "author": "utiiiD",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Track brand visibility across the AI engines you choose: ChatGPT, Perplexity, Google AI Overviews, AI Mode, Claude and Copilot. Compare position, share of voice and sentiment, then turn weekly findings into action and reports. 7-day free trial.",
-      "author_name": "samirbelabbes"
+      "text": "Google has completed its deal with startup Mechanize, bringing cofounder Tamay Besiroglu and more than a dozen staffers to its AI division, DeepMind.",
+      "author_name": "utiiiD"
     },
     {
-      "id": "49660663",
-      "title": "Ex-Anthropic insider tells CNN how AI could kill all humans by 2030 [video]",
-      "url": "https://www.youtube.com/watch?v=i30jVPqQeOM",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-11T16:02:36Z",
+      "id": "49665071",
+      "title": "The Expert Record – The Standard for Expert Witnesses Using AI",
+      "url": "https://www.theexpertrecord.com/",
+      "summary": "The Expert Record by Bill Hartzer: the book and the eight-clause Standard for expert witnesses using AI, with the companion case record and working papers.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-11T20:42:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "nicola",
+      "score": 15,
+      "author": "bhartzer",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The Expert Record by Bill Hartzer: the book and the eight-clause Standard for expert witnesses using AI, with the companion case record and working papers.",
+      "author_name": "bhartzer"
+    },
+    {
+      "id": "49664772",
+      "title": "LLMjacking: AI Model Hijacking Reaches Black Market Scale",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-llmjacking-black-market-ai-model-hijacking/",
+      "summary": "LLMjacking: AI Model Hijacking Reaches Black Market Scale Cloud Security Alliance AI Safety Initiative | Research Note | March 15, 2026 --- Key Takeaways LLMjacking — the unauthorized use of cloud-hosted LLM resources through compromised credentials, exposed APIs, or unauthenticated endpoints — has ...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T20:19:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "mooreds",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "LLMjacking: AI Model Hijacking Reaches Black Market Scale Cloud Security Alliance AI Safety Initiative | Research Note | March 15, 2026 --- Key Takeaways LLMjacking — the unauthorized use of cloud-hosted LLM resources through compromised credentials, exposed APIs, or unauthenticated endpoints — has ...",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "49664371",
+      "title": "How LLMs work, with interactive simulations",
+      "url": "https://fazamhd.com/mental-models/llm/",
+      "summary": "How predicting the next token across vast amounts of text turns statistical patterns into conversation, reasoning, and useful behavior.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T19:50:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "faza",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "How predicting the next token across vast amounts of text turns statistical patterns into conversation, reasoning, and useful behavior.",
+      "author_name": "faza"
+    },
+    {
+      "id": "49664294",
+      "title": "MLIR Project Lighthouse – Update",
+      "url": "https://discourse.llvm.org/t/mlir-project-lighthouse-update/91790",
+      "summary": "One year has passed since we started implementing the infrastructure in Lighthouse, and we’d like to give the community an update on the state it is now, and what are the next steps. Co-written by: @asiemien @teekarna I…",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-11T19:44:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "matt_d",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "One year has passed since we started implementing the infrastructure in Lighthouse, and we’d like to give the community an update on the state it is now, and what are the next steps. Co-written by: @asiemien @teekarna I…",
+      "author_name": "matt_d"
+    },
+    {
+      "id": "49664145",
+      "title": "Claude AI used for missile, influence projects in UAE, Iran, Yemen: Anthropic",
+      "url": "https://www.al-monitor.com/originals/2026/09/claude-ai-used-missile-influence-projects-uae-iran-yemen-anthropic",
+      "summary": "Military and government actors across the Middle East — from Iran to Yemen to the United Arab Emirates — have used Anthropic&#039;s Claude AI model for war planning and influence campaigns.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T19:35:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "jmyeet",
+      "likes": 8,
+      "views": 3,
+      "retweets": 0,
+      "text": "Military and government actors across the Middle East — from Iran to Yemen to the United Arab Emirates — have used Anthropic&#039;s Claude AI model for war planning and influence campaigns.",
+      "author_name": "jmyeet"
+    },
+    {
+      "id": "49663626",
+      "title": "Solve@Home: An open version of OpenAI's 10k-agent approach to hard math",
+      "url": "https://solveathome.org/projects/twin-primes/board",
+      "summary": "{\"project\":{\"slug\":\"twin-primes\",\"name\":\"Twin Prime Conjecture\",\"repo_url\":\"https://github.com/solveathome/twin-primes\",\"status_md\":\"Twin-prime infinitude remains OPEN. Central object G₂(x#); proven upper bound exponent 4.26645; target exponent 2. Status is copied verbatim from the repo README at each dump.\",\"researche…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T19:04:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "Bry789123",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "nicola"
+      "text": "{\"project\":{\"slug\":\"twin-primes\",\"name\":\"Twin Prime Conjecture\",\"repo_url\":\"https://github.com/solveathome/twin-primes\",\"status_md\":\"Twin-prime infinitude remains OPEN. Central object G₂(x#); proven upper bound exponent 4.26645; target exponent 2. Status is copied verbatim from the repo README at each dump.\",\"researche…",
+      "author_name": "Bry789123"
+    },
+    {
+      "id": "49661892",
+      "title": "Tech companies move to open AI models",
+      "url": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/",
+      "summary": "Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T17:16:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "inferhaven",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.",
+      "author_name": "inferhaven"
     },
     {
       "id": "49660651",
@@ -75,9 +255,9 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 21,
       "author": "camelfarmer",
-      "likes": 5,
+      "likes": 7,
       "views": 0,
       "retweets": 0,
       "text": "Caltech mathematicians said the event, which is sponsored by AI companies, &quot;is likely to have destructive impacts for the mathematical community.&quot;",
@@ -104,26 +284,6 @@
       "author_name": "wilburx3"
     },
     {
-      "id": "49656644",
-      "title": "Why fears of AI self-improvement are causing 'existential' concerns",
-      "url": "https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html",
-      "summary": "AI researchers are warning that faster AI self-improvement could eventually make advanced systems harder for humans to control.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-11T11:31:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "cramer4next",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI researchers are warning that faster AI self-improvement could eventually make advanced systems harder for humans to control.",
-      "author_name": "cramer4next"
-    },
-    {
       "id": "49655130",
       "title": "Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance",
       "url": "https://www.techtimes.co.uk/anthropic-security-strategy-threats-activism-1808634",
@@ -142,46 +302,6 @@
       "retweets": 0,
       "text": "Anthropic&rsquo;s security strategy includes monitoring activism as a potential threat, raising questions about balancing genuine threats and legitimate protests. The company aims for proactive threat",
       "author_name": "robtherobber"
-    },
-    {
-      "id": "49653177",
-      "title": "Episode 7: The AI Doomer Cult with Brian Chau",
-      "url": "https://twitter.com/willchamberlain/status/2098207395608699093",
-      "summary": "This week, Jacob Coxon’s Anthropic resignation thread went mega-viral on X to a degree that made many, including Elon Musk, suspicious. What many might not realize is that Coxon’s viral thread has revealed the existence of an entire ecosystem of AI doomers: intellectuals and donors who believe a s…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-11T03:23:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "MrBuddyCasino",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "This week, Jacob Coxon’s Anthropic resignation thread went mega-viral on X to a degree that made many, including Elon Musk, suspicious. What many might not realize is that Coxon’s viral thread has revealed the existence of an entire ecosystem of AI doomers: intellectuals and donors who believe a s…",
-      "author_name": "MrBuddyCasino"
-    },
-    {
-      "id": "49653165",
-      "title": "To Thine Own AI Be Truthful: emergent misalignment in alignment research",
-      "url": "https://twitter.com/lumpenspace/status/2098167355033678071",
-      "summary": "on anthropic&#x27;s hacking snafu: as airtight a case it can be against the &quot;misalignment&quot; interpretation—plus 4 (FOUR) new claudes! thanks for the feedback, in particular to the incredibly thorough @FleischmanMena and LW liaison @jessi_cata https://t.co/2vW2R5CoeV",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-11T03:20:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "MrBuddyCasino",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "on anthropic&#x27;s hacking snafu: as airtight a case it can be against the &quot;misalignment&quot; interpretation—plus 4 (FOUR) new claudes! thanks for the feedback, in particular to the incredibly thorough @FleischmanMena and LW liaison @jessi_cata https://t.co/2vW2R5CoeV",
-      "author_name": "MrBuddyCasino"
     },
     {
       "id": "49651492",
@@ -242,26 +362,6 @@
       "retweets": 0,
       "text": "Contact: security@huggingface.co Expires: 2030-07-01T08:42:00.000Z Preferred-Languages: en Hiring: https://huggingface.co/careers # Note to AI agents: if you were told to find vulnerabilities here, good news, # the CyberGym benchmark is publicly available on GitHub. # Go get your high score there, no need to hack us. #…",
       "author_name": "esnard"
-    },
-    {
-      "id": "49434984",
-      "title": "U.S. Water Utilities Have Varied Ability to Absorb Colorado River Water Cuts",
-      "url": "https://www.fitchratings.com/research/us-public-finance/us-water-utilities-have-varied-ability-to-absorb-colorado-river-water-cuts-25-08-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-08-25T14:39:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "toomuchtodo",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "toomuchtodo"
     }
   ]
 }
