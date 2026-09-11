@@ -1,87 +1,107 @@
 {
-  "version": "2026-09-11T12:45:08.560Z",
-  "generatedAt": "2026-09-11T12:45:08.560Z",
+  "version": "2026-09-11T16:59:04.681Z",
+  "generatedAt": "2026-09-11T16:59:04.681Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49657248",
-      "title": "Building AI desktop apps without Electron (3.3MB native Windows)",
-      "url": "https://visualneo.com/visualneo-win/the-anti-bloat-revolution-why-visualneo-win-is-the-ideal-ide-for-building-ai-powered-desktop-apps",
-      "summary": "Discover why developers choose VisualNEO Win over Electron to build fast AI desktop apps. Under 3MB native Win32 executables with Edge WebView2 and DeepSeek.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-11T12:25:07Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "luissinlios",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Discover why developers choose VisualNEO Win over Electron to build fast AI desktop apps. Under 3MB native Win32 executables with Edge WebView2 and DeepSeek.",
-      "author_name": "luissinlios"
-    },
-    {
-      "id": "49657063",
-      "title": "Airflow re-engineered for speed and scale",
-      "url": "https://www.astronomer.io/blog/astro-airflow-re-engineered-for-speed-and-scale/",
-      "summary": "Open-source Airflow finds ready work on a timer; Astro gets a hint. 100x lower p95 task-start latency at twice the load, on the same database and interfaces.",
+      "id": "49661321",
+      "title": "Meta's Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "summary": "Meta just debuted its personal AI assistant Muse. While Muse delivers on its promise of performing tasks in the background, it’s hard to use the tool without thinking about its connection to Meta.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-11T12:08:43Z",
+      "publishedAt": "2026-09-11T16:39:34Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "jlaneve",
+      "score": 30,
+      "author": "thm",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Open-source Airflow finds ready work on a timer; Astro gets a hint. 100x lower p95 task-start latency at twice the load, on the same database and interfaces.",
-      "author_name": "jlaneve"
+      "text": "Meta just debuted its personal AI assistant Muse. While Muse delivers on its promise of performing tasks in the background, it’s hard to use the tool without thinking about its connection to Meta.",
+      "author_name": "thm"
     },
     {
-      "id": "49657039",
-      "title": "Stacked solar panels are pushing beyond the limits of standard photovoltaics [video]",
-      "url": "https://www.youtube.com/watch?v=y5Pt4nSZMnA",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-11T12:06:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "thelastgallon",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "thelastgallon"
-    },
-    {
-      "id": "49656701",
-      "title": "Why Codex burns a weekly limit in a day while the agent waits for the tide",
-      "url": "https://relux.works/en/blog/codex-goal-token-burn/",
-      "summary": "Spin-waiting in Codex CLI: goal mode restarts the model 0.03 seconds after every turn and demands proof of waiting by live polling, the pause tool is issued to one model in the catalog, and every poll rereads a context of hundreds of thousands of tokens. In an archive of 3808 sessions, the 52 with goal mode ate half of…",
+      "id": "49661145",
+      "title": "Promptrack – Track How ChatGPT, Perplexity and AI Overviews Mention You",
+      "url": "https://promptrack.io",
+      "summary": "Track brand visibility across the AI engines you choose: ChatGPT, Perplexity, Google AI Overviews, AI Mode, Claude and Copilot. Compare position, share of voice and sentiment, then turn weekly findings into action and reports. 7-day free trial.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-11T11:36:37Z",
+      "publishedAt": "2026-09-11T16:29:44Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "strfrthwb",
+      "author": "samirbelabbes",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Spin-waiting in Codex CLI: goal mode restarts the model 0.03 seconds after every turn and demands proof of waiting by live polling, the pause tool is issued to one model in the catalog, and every poll rereads a context of hundreds of thousands of tokens. In an archive of 3808 sessions, the 52 with goal mode ate half of…",
-      "author_name": "strfrthwb"
+      "text": "Track brand visibility across the AI engines you choose: ChatGPT, Perplexity, Google AI Overviews, AI Mode, Claude and Copilot. Compare position, share of voice and sentiment, then turn weekly findings into action and reports. 7-day free trial.",
+      "author_name": "samirbelabbes"
+    },
+    {
+      "id": "49660663",
+      "title": "Ex-Anthropic insider tells CNN how AI could kill all humans by 2030 [video]",
+      "url": "https://www.youtube.com/watch?v=i30jVPqQeOM",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T16:02:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "nicola",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "nicola"
+    },
+    {
+      "id": "49660651",
+      "title": "OpenAI pulls out of math hackathon after open letter criticizing AI math 'slop'",
+      "url": "https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9",
+      "summary": "Caltech mathematicians said the event, which is sponsored by AI companies, &quot;is likely to have destructive impacts for the mathematical community.&quot;",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T16:02:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "camelfarmer",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "Caltech mathematicians said the event, which is sponsored by AI companies, &quot;is likely to have destructive impacts for the mathematical community.&quot;",
+      "author_name": "camelfarmer"
+    },
+    {
+      "id": "49657950",
+      "title": "Claude Co-work needs Windows Security Update uninstalled to function properly",
+      "url": "https://github.com/anthropics/claude-code/issues/92984",
+      "summary": "Preflight Checklist I have searched existing issues and this hasn&#39;t been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of Claude Code What&#39;s Wrong? After the Sept...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-11T13:19:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "wilburx3",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Preflight Checklist I have searched existing issues and this hasn&#39;t been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of Claude Code What&#39;s Wrong? After the Sept...",
+      "author_name": "wilburx3"
     },
     {
       "id": "49656644",
@@ -102,66 +122,6 @@
       "retweets": 0,
       "text": "AI researchers are warning that faster AI self-improvement could eventually make advanced systems harder for humans to control.",
       "author_name": "cramer4next"
-    },
-    {
-      "id": "49656146",
-      "title": "Anthropic says it blocked possible attempts to use AI to develop bioweapons",
-      "url": "https://www.cnn.com/2026/09/10/health/anthropic-bioweapons-report",
-      "summary": "Anthropic says it has blocked multiple accounts that used the company’s artificial intelligence models in ways that could support the development of biological weapons.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-11T10:36:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "cisc",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic says it has blocked multiple accounts that used the company’s artificial intelligence models in ways that could support the development of biological weapons.",
-      "author_name": "cisc"
-    },
-    {
-      "id": "49655757",
-      "title": "2nd mathematician is accusing OpenAI of being dishonest about training data",
-      "url": "https://qz.com/openai-mathematician-training-data-dishonesty-andreas-thom-091026",
-      "summary": "Andreas Thom says OpenAI&#x27;s response to his questions about ChatGPT data use was &quot;materially misleading&quot; and &quot;plainly dishonest&quot;",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-11T09:43:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "jacquesm",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Andreas Thom says OpenAI&#x27;s response to his questions about ChatGPT data use was &quot;materially misleading&quot; and &quot;plainly dishonest&quot;",
-      "author_name": "jacquesm"
-    },
-    {
-      "id": "49655653",
-      "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
-      "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
-      "summary": "Tenstorrent accelerators join vLLM as an out-of-tree platform plugin, driven by mesh-architecture choices: phase-based scheduling, single-process data paralleli",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-11T09:35:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "ankitg12",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Tenstorrent accelerators join vLLM as an out-of-tree platform plugin, driven by mesh-architecture choices: phase-based scheduling, single-process data paralleli",
-      "author_name": "ankitg12"
     },
     {
       "id": "49655130",
@@ -222,26 +182,6 @@
       "retweets": 0,
       "text": "on anthropic&#x27;s hacking snafu: as airtight a case it can be against the &quot;misalignment&quot; interpretation—plus 4 (FOUR) new claudes! thanks for the feedback, in particular to the incredibly thorough @FleischmanMena and LW liaison @jessi_cata https://t.co/2vW2R5CoeV",
       "author_name": "MrBuddyCasino"
-    },
-    {
-      "id": "49651723",
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-10T23:55:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "littlexsparkee",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-      "author_name": "littlexsparkee"
     },
     {
       "id": "49651492",
