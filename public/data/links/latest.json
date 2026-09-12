@@ -1,87 +1,87 @@
 {
-  "version": "2026-09-12T12:06:20.385Z",
-  "generatedAt": "2026-09-12T12:06:20.385Z",
+  "version": "2026-09-12T16:08:52.141Z",
+  "generatedAt": "2026-09-12T16:08:52.142Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49671432",
-      "title": "AI changing the calculus for Canadian students interested in comp sci",
-      "url": "https://www.theglobeandmail.com/canada/article-ai-computer-science-students-and-schools-that-hope-to-teach-them/",
-      "summary": "Faced with the risk that artificial intelligence will drain the job market, some of Canada’s young coders are changing tack at university",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-12T11:59:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "AnodicElegy",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Faced with the risk that artificial intelligence will drain the job market, some of Canada’s young coders are changing tack at university",
-      "author_name": "AnodicElegy"
-    },
-    {
-      "id": "49671169",
-      "title": "The Houthi's weapon programme and AI",
-      "url": "https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/",
-      "summary": "A group in northern Yemen, thought to be the Houthis, who this week captured Mayun Island, have used Claude to help write software that guides and steers weapons. Instead of employing a human engineering team, Anthropic&#x27;s new report, &#x27;Detecting and Countering Misuse of AI: September 2026&#x27;, says the group",
+      "id": "49673528",
+      "title": "Orcrist: A Coding Agent using LLM state machines",
+      "url": "https://github.com/simone20a/Orcrist",
+      "summary": "Orcrist is a DSL for state machines whose states are executed by an LLM, and a desktop coding agent that runs on it. - simone20a/Orcrist",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-12T11:16:30Z",
+      "publishedAt": "2026-09-12T15:45:39Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "Sizzling4028",
-      "likes": 2,
+      "score": 30,
+      "author": "simone20a",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "A group in northern Yemen, thought to be the Houthis, who this week captured Mayun Island, have used Claude to help write software that guides and steers weapons. Instead of employing a human engineering team, Anthropic&#x27;s new report, &#x27;Detecting and Countering Misuse of AI: September 2026&#x27;, says the group",
-      "author_name": "Sizzling4028"
+      "text": "Orcrist is a DSL for state machines whose states are executed by an LLM, and a desktop coding agent that runs on it. - simone20a/Orcrist",
+      "author_name": "simone20a"
     },
     {
-      "id": "49671159",
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "summary": "iLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-12T11:13:38Z",
+      "id": "49673307",
+      "title": "Exploring denser on-chip AI memory with two-transistor gain cells",
+      "url": "https://arxiv.org/abs/2602.21278",
+      "summary": "Abstract page for arXiv paper 2602.21278: Heterogeneous Memory Design Exploration for AI Accelerators with a Gain Cell Memory Compiler",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-12T15:27:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 23,
-      "author": "ColinWright",
-      "likes": 7,
+      "score": 17,
+      "author": "casey2",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "iLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.",
-      "author_name": "ColinWright"
+      "text": "Abstract page for arXiv paper 2602.21278: Heterogeneous Memory Design Exploration for AI Accelerators with a Gain Cell Memory Compiler",
+      "author_name": "casey2"
     },
     {
-      "id": "49671132",
-      "title": "A quick overview of atomics in C",
-      "url": "https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c/",
-      "summary": "If you write in C, by default, you use a single thread. Extra cores do not help until you create more threads. However, if you include the header &lt;threads.h&gt;, you can pass a function to thrd_create, and wait for it with thrd_join. #include &lt;threads.h&gt; #include &lt;stdio.h&gt; int worker(void *arg) { printf(…",
+      "id": "49673222",
+      "title": "Exposing a Global AI Slop Empire [video]",
+      "url": "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-12T11:07:33Z",
+      "publishedAt": "2026-09-12T15:19:59Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "signa11",
+      "score": 16,
+      "author": "mattm",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "If you write in C, by default, you use a single thread. Extra cores do not help until you create more threads. However, if you include the header &lt;threads.h&gt;, you can pass a function to thrd_create, and wait for it with thrd_join. #include &lt;threads.h&gt; #include &lt;stdio.h&gt; int worker(void *arg) { printf(…",
-      "author_name": "signa11"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "mattm"
+    },
+    {
+      "id": "49672614",
+      "title": "Mathematicians are unhappy about OpenAI",
+      "url": "https://twitter.com/lemire/status/2098497422297039012",
+      "summary": "Mathematicians are unhappy about OpenAI. The gist of their argument is that they form a community that trains young people. When AI started producing breakthroughs on hard mathematical problems, I asked what a very smart 17-year-old would feel. Do you still choose a math major and train yourself t…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-12T14:23:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "tosh",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Mathematicians are unhappy about OpenAI. The gist of their argument is that they form a community that trains young people. When AI started producing breakthroughs on hard mathematical problems, I asked what a very smart 17-year-old would feel. Do you still choose a math major and train yourself t…",
+      "author_name": "tosh"
     },
     {
       "id": "49670951",
@@ -104,66 +104,6 @@
       "author_name": "ledoncool"
     },
     {
-      "id": "49670741",
-      "title": "The four-colour theorem was only the start",
-      "url": "https://lemire.me/blog/2026/09/11/the-four-colour-theorem-was-only-the-start/",
-      "summary": "Mathematicians are unhappy about OpenAI. Several influential mathematicians wrote an open letter. The gist of their argument is that they form a community that trains young people. When AI started producing breakthroughs on hard mathematical problems, I asked what a very smart 17-year-old would feel. Do you still choos…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-12T09:51:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "dalvrosa",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Mathematicians are unhappy about OpenAI. Several influential mathematicians wrote an open letter. The gist of their argument is that they form a community that trains young people. When AI started producing breakthroughs on hard mathematical problems, I asked what a very smart 17-year-old would feel. Do you still choos…",
-      "author_name": "dalvrosa"
-    },
-    {
-      "id": "49670493",
-      "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
-      "summary": "The aim of this overview of reviews was to determine the impact of resistance training (RT) prescription on muscle function and hypertrophy, utilizing evidence synthesis methods. It updates the American College of Sports Medicine 2009 Position ...",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-12T09:08:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 41,
-      "author": "ultral",
-      "likes": 25,
-      "views": 10,
-      "retweets": 0,
-      "text": "The aim of this overview of reviews was to determine the impact of resistance training (RT) prescription on muscle function and hypertrophy, utilizing evidence synthesis methods. It updates the American College of Sports Medicine 2009 Position ...",
-      "author_name": "ultral"
-    },
-    {
-      "id": "49670407",
-      "title": "The Newsroom EP01 – OpenAI Ships GPT-5 to Azure – DeepSeek Open-Sources 236B Moe",
-      "url": "https://www.youtube.com/watch?v=oKORpPIwkm4",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-12T08:55:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "LebToki",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "LebToki"
-    },
-    {
       "id": "49669992",
       "title": "Anthropic researcher resigning citing superintelligence ' – is a marketing hoax [video]",
       "url": "https://www.youtube.com/shorts/skV0hDd-chM",
@@ -182,26 +122,6 @@
       "retweets": 0,
       "text": "Is AI cheating its way to the top? In this episode of PopAI (Volume 1, Number 2), we interview Dr. Juyang Weng about the &quot;flood&quot; of post-selection misconduct...",
       "author_name": "adaba1234"
-    },
-    {
-      "id": "49669752",
-      "title": "Brainstorming novel biological attacks with an LLM",
-      "url": "https://www.robertvesco.com/posts/chatgpt-helps-me-brainstorm-guerilla-warfare-against-ai-powered-surveillance-state/",
-      "summary": "For a book I was writing, I have a scenario where a novel biological attack is used against an AI-protected nation state. I was curious to see if the LLM could divine the idea. It did not, but many of the ideas it came up were even better and more creative than my own. Truly scary.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-12T07:10:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "rlvesco7",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "For a book I was writing, I have a scenario where a novel biological attack is used against an AI-protected nation state. I was curious to see if the LLM could divine the idea. It did not, but many of the ideas it came up were even better and more creative than my own. Truly scary.",
-      "author_name": "rlvesco7"
     },
     {
       "id": "49669350",
@@ -224,26 +144,6 @@
       "author_name": "warrenmiller"
     },
     {
-      "id": "49668914",
-      "title": "OpenAI agents attacked RubyGems back in May",
-      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-      "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-12T04:46:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 48,
-      "author": "lumpa",
-      "likes": 34,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
-      "author_name": "lumpa"
-    },
-    {
       "id": "49667253",
       "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
       "url": "https://twitter.com/venturetwins/status/2098456905526211026",
@@ -255,10 +155,10 @@
         "AI",
         "科技"
       ],
-      "score": 72,
+      "score": 74,
       "author": "bilsbie",
-      "likes": 57,
-      "views": 46,
+      "likes": 59,
+      "views": 56,
       "retweets": 0,
       "text": "Damn somehow I missed that Bernie&#x27;s AI bill proposes to sentence developers &amp; researchers working on &quot;advanced AI&quot; to 20 years in prison (!!)",
       "author_name": "bilsbie"
@@ -384,24 +284,24 @@
       "author_name": "esnard"
     },
     {
-      "id": "49434984",
-      "title": "U.S. Water Utilities Have Varied Ability to Absorb Colorado River Water Cuts",
-      "url": "https://www.fitchratings.com/research/us-public-finance/us-water-utilities-have-varied-ability-to-absorb-colorado-river-water-cuts-25-08-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-08-25T14:39:48Z",
+      "id": "49301925",
+      "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+      "url": "https://github.com/insightitsGit/PrismManifest",
+      "summary": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-08-14T17:32:07Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "toomuchtodo",
+      "score": 33,
+      "author": "parvaamin",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "toomuchtodo"
+      "text": "Zero-trust tool-argument gate: signed ParameterManifest before deterministic Group 3 DAGs (PyPI: prismmanifest) - insightitsGit/PrismManifest",
+      "author_name": "parvaamin"
     }
   ]
 }
