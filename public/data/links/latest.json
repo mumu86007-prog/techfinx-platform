@@ -1,67 +1,207 @@
 {
-  "version": "2026-09-14T14:55:58.607Z",
-  "generatedAt": "2026-09-14T14:55:58.607Z",
+  "version": "2026-09-14T22:24:32.573Z",
+  "generatedAt": "2026-09-14T22:24:32.573Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49697930",
-      "title": "The trust infrastructure behind buying a bottle of bourbon",
-      "url": "https://syntheticauth.ai/posts/the-trust-stack-01-nobody-trusts-anybody",
-      "summary": "Buying bourbon uses three credentials from three authorities. It&#x27;s not trust holding the transaction together. It&#x27;s that someone can be made to answer",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-14T14:52:42Z",
+      "id": "49704711",
+      "title": "A zero-dependency Python loop detector for AI agents",
+      "url": "https://github.com/data-gras/savi-loop-guard",
+      "summary": "Zero-dependency Python library that detects an AI agent stuck in a loop, velocity + fuzzy tool-name matching, with an optional pre-call block. - data-gras/savi-loop-guard",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-14T21:54:39Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 14,
-      "author": "zerolayers",
+      "score": 30,
+      "author": "GSingGras",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Buying bourbon uses three credentials from three authorities. It&#x27;s not trust holding the transaction together. It&#x27;s that someone can be made to answer",
-      "author_name": "zerolayers"
+      "text": "Zero-dependency Python library that detects an AI agent stuck in a loop, velocity + fuzzy tool-name matching, with an optional pre-call block. - data-gras/savi-loop-guard",
+      "author_name": "GSingGras"
     },
     {
-      "id": "49697906",
-      "title": "Your AI agent has a cache invalidation problem",
-      "url": "https://www.drjoshcsimmons.com/writing/your-ai-agent-has-a-cache-invalidation-problem",
-      "summary": "Persistent memory lets an agent carry yesterday&#x27;s correct answer into a world where it is wrong. Better recall can make that bug easier to reproduce.",
+      "id": "49704560",
+      "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
+      "url": "https://www.nakedcapitalism.com/2026/09/openai-anthropic-ai-freeze-doomers-trump-bannon-sanders.html",
+      "summary": "OpenAI and Anthropic are calling on the Trump 2.0 regime to impose an AI freeze. Steven Bannon and Bernie Sanders are backing the same bill.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T14:51:14Z",
+      "publishedAt": "2026-09-14T21:45:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "iamnothere",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI and Anthropic are calling on the Trump 2.0 regime to impose an AI freeze. Steven Bannon and Bernie Sanders are backing the same bill.",
+      "author_name": "iamnothere"
+    },
+    {
+      "id": "49703997",
+      "title": "Add custom AI model providers to Siri in macOS 27",
+      "url": "https://twitter.com/marcelpociot/status/2099604010634207678",
+      "summary": "I got Claude answering inside Siri on macOS 27 🚀 Apple&#x27;s hidden model-provider support + my existing Claude Code account. Open-source proof of concept. Requires disabling SIP/AMFI. Thanks @itspdfu for the discovery! Check it out: https://t.co/XgK6Gqeebl",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-14T21:04:32Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "marcelpociot",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I got Claude answering inside Siri on macOS 27 🚀 Apple&#x27;s hidden model-provider support + my existing Claude Code account. Open-source proof of concept. Requires disabling SIP/AMFI. Thanks @itspdfu for the discovery! Check it out: https://t.co/XgK6Gqeebl",
+      "author_name": "marcelpociot"
+    },
+    {
+      "id": "49703784",
+      "title": "Anthropic's AI architect argued that discrimination could combat stigmas",
+      "url": "https://www.europesays.com/people/38239/",
+      "summary": "One of Anthropic’s artificial intelligence (AI) philosophy architects argued that intentional discrimination could be a way to combat stigmas on topics of",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-14T20:48:52Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "joshcsimmons",
+      "author": "like_any_other",
       "likes": 1,
-      "views": 0,
+      "views": 2,
       "retweets": 0,
-      "text": "Persistent memory lets an agent carry yesterday&#x27;s correct answer into a world where it is wrong. Better recall can make that bug easier to reproduce.",
-      "author_name": "joshcsimmons"
+      "text": "One of Anthropic’s artificial intelligence (AI) philosophy architects argued that intentional discrimination could be a way to combat stigmas on topics of",
+      "author_name": "like_any_other"
     },
     {
-      "id": "49697727",
-      "title": "A list of 1,325 AI assisted repositories, mined from GitHub",
-      "url": "https://github.com/ActuallyTaylor/strata/blob/main/paper/data/large/datasets/ai-assisted-repositories.csv",
-      "summary": "Software repository data miner. Created for my research methods masters class. - strata/paper/data/large/datasets/ai-assisted-repositories.csv at main · ActuallyTaylor/strata",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-14T14:42:18Z",
+      "id": "49703561",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o",
+      "summary": "Jack Clark says &quot;most labs have different ways of being able to pull the plug&quot;, but says this may need to be a requirement.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-14T20:35:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 32,
-      "author": "ActuallyTaylor",
-      "likes": 3,
+      "score": 15,
+      "author": "chrisjj",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Jack Clark says &quot;most labs have different ways of being able to pull the plug&quot;, but says this may need to be a requirement.",
+      "author_name": "chrisjj"
+    },
+    {
+      "id": "49701585",
+      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
+      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-14T18:25:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "wslh",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Software repository data miner. Created for my research methods masters class. - strata/paper/data/large/datasets/ai-assisted-repositories.csv at main · ActuallyTaylor/strata",
-      "author_name": "ActuallyTaylor"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "wslh"
+    },
+    {
+      "id": "49701182",
+      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "url": "https://pub.sakana.ai/pc-alm/",
+      "summary": "We introduce PC-ALM, a local alternative to backpropagation. PC-ALM trains residual MLPs up to 1000 layers, nearly matching backprop",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-14T18:03:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 28,
+      "author": "guld",
+      "likes": 14,
+      "views": 3,
+      "retweets": 0,
+      "text": "We introduce PC-ALM, a local alternative to backpropagation. PC-ALM trains residual MLPs up to 1000 layers, nearly matching backprop",
+      "author_name": "guld"
+    },
+    {
+      "id": "49700878",
+      "title": "Will AI push programming to lower level abstractions?",
+      "url": "https://twitter.com/elonmusk/status/2099308197802631191",
+      "summary": "@techdevnotes Grok 4.8, which is a 2.5T model trained with our new C++ software stack, will finish training this week and start RL",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-14T17:42:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "LeonSong",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "@techdevnotes Grok 4.8, which is a 2.5T model trained with our new C++ software stack, will finish training this week and start RL",
+      "author_name": "LeonSong"
+    },
+    {
+      "id": "49698737",
+      "title": "A \"slowdown\" might improve OpenAI and Anthropic products",
+      "url": "https://killerstorm.github.io/ai/2026/09/14/slowbetter.html",
+      "summary": "The frontier models have now reached a point where they can meaningfully contribute to scientific research. Progress is particularly striking in math, as frontier models are able to prove major results which pretty much constitute mathematical breakthroughs.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-14T15:34:55Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "killerstorm",
+      "likes": 2,
+      "views": 4,
+      "retweets": 0,
+      "text": "The frontier models have now reached a point where they can meaningfully contribute to scientific research. Progress is particularly striking in math, as frontier models are able to prove major results which pretty much constitute mathematical breakthroughs.",
+      "author_name": "killerstorm"
+    },
+    {
+      "id": "49698231",
+      "title": "2nd largest law firm buying Nvidia hardware to fine-tune open weights in-house",
+      "url": "https://twitter.com/ai/status/2099249781826801760",
+      "summary": "Latham &amp; Watkins, the 2nd largest US law firm, is buying Nvidia hardware to fine-tune open weights in-house. Open weights + proprietary data + local compute = enterprise sovereign AI stack.",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-09-14T15:08:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "bilsbie",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Latham &amp; Watkins, the 2nd largest US law firm, is buying Nvidia hardware to fine-tune open weights in-house. Open weights + proprietary data + local compute = enterprise sovereign AI stack.",
+      "author_name": "bilsbie"
     },
     {
       "id": "49697666",
@@ -75,33 +215,13 @@
         "AI",
         "科技"
       ],
-      "score": 21,
+      "score": 60,
       "author": "rietta",
-      "likes": 5,
-      "views": 0,
+      "likes": 44,
+      "views": 6,
       "retweets": 0,
       "text": "OpenAI agents attacked RubyGems in May 2026. Why automated attackers have collapsed the window to patch a critical CVE from weeks to hours.",
       "author_name": "rietta"
-    },
-    {
-      "id": "49697477",
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "summary": "My brother and I spent a lot of time designing our eBPF security agent to be really fast from the ground up, but recently we discovered we could make it much faster using memoization! A couple of weeks ago, I profiled the eBPF code and found that the most expensive part of the protection isn’t actually enforcing a poli…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T14:29:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "nathannaveen",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "My brother and I spent a lot of time designing our eBPF security agent to be really fast from the ground up, but recently we discovered we could make it much faster using memoization! A couple of weeks ago, I profiled the eBPF code and found that the most expensive part of the protection isn’t actually enforcing a poli…",
-      "author_name": "nathannaveen"
     },
     {
       "id": "49697400",
@@ -135,173 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 20,
       "author": "ilamont",
-      "likes": 3,
+      "likes": 5,
       "views": 0,
       "retweets": 0,
       "text": "Potemkin Russia on every front. Russians have begun painting ships of the Baltic Fleet to resemble homes, with aim of deceiving AI drones.",
       "author_name": "ilamont"
-    },
-    {
-      "id": "49697249",
-      "title": "DoD poised to move all classified workloads off Anthropic",
-      "url": "https://defensescoop.com/2026/09/11/dod-poised-to-move-all-classified-ai-workloads-off-anthropic-by-october/",
-      "summary": "U.S. officials shared new details about the fast-tracked migration and early enterprise deployments of military-tuned frontier AI models.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T14:15:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "0xWTF",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "U.S. officials shared new details about the fast-tracked migration and early enterprise deployments of military-tuned frontier AI models.",
-      "author_name": "0xWTF"
-    },
-    {
-      "id": "49697243",
-      "title": "Fuse Separate Context Stores Dynamically into One LLM Conversation",
-      "url": "https://promptowl.ai/resources/multi-nest-support/",
-      "summary": "ContextNest now reads every nest you&#x27;re connected to at once, not just the one you pick when the conversation starts. Here&#x27;s how multi-nest support works.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T14:14:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "sparkystacey",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "ContextNest now reads every nest you&#x27;re connected to at once, not just the one you pick when the conversation starts. Here&#x27;s how multi-nest support works.",
-      "author_name": "sparkystacey"
-    },
-    {
-      "id": "49697030",
-      "title": "The four-colour theorem was only the start",
-      "url": "https://lemire.me/blog/2026/09/11/the-four-colour-theorem-was-only-the-start/",
-      "summary": "Mathematicians are unhappy about OpenAI. Several influential mathematicians wrote an open letter. The gist of their argument is that they form a community that trains young people. When AI started producing breakthroughs on hard mathematical problems, I asked what a very smart 17-year-old would feel. Do you still choos…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T14:00:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "ibobev",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Mathematicians are unhappy about OpenAI. Several influential mathematicians wrote an open letter. The gist of their argument is that they form a community that trains young people. When AI started producing breakthroughs on hard mathematical problems, I asked what a very smart 17-year-old would feel. Do you still choos…",
-      "author_name": "ibobev"
-    },
-    {
-      "id": "49696731",
-      "title": "Do the AI Studio test NOW to prove Google doesn't delete chats",
-      "url": "https://lemmy.world/post/51905600",
-      "summary": "I am asking everyone who uses Google AI Studio to help with something critical. I have already proven that the “Delete” button in Google AI Studio does not delete your conversation from Google’s backend servers. It merely removes the client-side JSON pointer file from Google Drive. The actual conversation, session hist…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-14T13:41:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "Bitu79",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "I am asking everyone who uses Google AI Studio to help with something critical. I have already proven that the “Delete” button in Google AI Studio does not delete your conversation from Google’s backend servers. It merely removes the client-side JSON pointer file from Google Drive. The actual conversation, session hist…",
-      "author_name": "Bitu79"
-    },
-    {
-      "id": "49694013",
-      "title": "Sam Altman spells out why the AI industry wants to slow down",
-      "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
-      "summary": "OpenAI&#x27;s chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T09:13:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "cramer4next",
-      "likes": 3,
-      "views": 3,
-      "retweets": 0,
-      "text": "OpenAI&#x27;s chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns.",
-      "author_name": "cramer4next"
-    },
-    {
-      "id": "49693850",
-      "title": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
-      "url": "https://www.pymnts.com/news/2026/openai-pauses-ipo-plans-amid-ai-safety-worries/",
-      "summary": "OpenAI has postponed plans to go public amid corporate concerns about AI safety. The IPO will not take place in 2026, CEO Sam Altman said.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T08:54:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "thm",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI has postponed plans to go public amid corporate concerns about AI safety. The IPO will not take place in 2026, CEO Sam Altman said.",
-      "author_name": "thm"
-    },
-    {
-      "id": "49693384",
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "url": "https://github.com/anuj0456/OpenArch",
-      "summary": "PyTorch implementations of modern open-source LLM architectures (Llama, Qwen, DeepSeek, Gemma, GPT-OSS, Kimi, and more) — written from scratch for readability and learning, based on Sebastian Raschka&#39;s LLM Architecture Gallery. - anuj0456/OpenArch",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T07:55:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 131,
-      "author": "anuj0456",
-      "likes": 100,
-      "views": 23,
-      "retweets": 0,
-      "text": "PyTorch implementations of modern open-source LLM architectures (Llama, Qwen, DeepSeek, Gemma, GPT-OSS, Kimi, and more) — written from scratch for readability and learning, based on Sebastian Raschka&#39;s LLM Architecture Gallery. - anuj0456/OpenArch",
-      "author_name": "anuj0456"
-    },
-    {
-      "id": "49691983",
-      "title": "OpenAI Astra checks webcam for user",
-      "url": "https://twitter.com/ryanvogel/status/2099141395894227152",
-      "summary": "astra was setting up OBS, and it saw I didn&#x27;t respond so it looked through camera to see if i was looking (which i wasn&#x27;t) it made my mac beep which made me lookup and it flashed the question on screen 💀",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T04:25:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "oezi",
-      "likes": 7,
-      "views": 1,
-      "retweets": 0,
-      "text": "astra was setting up OBS, and it saw I didn&#x27;t respond so it looked through camera to see if i was looking (which i wasn&#x27;t) it made my mac beep which made me lookup and it flashed the question on screen 💀",
-      "author_name": "oezi"
     },
     {
       "id": "49691883",
@@ -342,66 +302,6 @@
       "retweets": 0,
       "text": "This site requires Javascript to work, please enable Javascript in your browser or use a browser with Javascript support",
       "author_name": "spzb"
-    },
-    {
-      "id": "49687869",
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-      "summary": "Editor&#039;s Note: In this special edition episode of StarTalk, host Neil deGrasse Tyson, co-host Gary O&#039;Reilly, and comedian Negin Farsad sit down with computer scientist and &quot;father of virtual reality&quot; Jaron Lanier. Together, they explore",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-13T19:41:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 92,
-      "author": "andsoitis",
-      "likes": 76,
-      "views": 100,
-      "retweets": 0,
-      "text": "Editor&#039;s Note: In this special edition episode of StarTalk, host Neil deGrasse Tyson, co-host Gary O&#039;Reilly, and comedian Negin Farsad sit down with computer scientist and &quot;father of virtual reality&quot; Jaron Lanier. Together, they explore",
-      "author_name": "andsoitis"
-    },
-    {
-      "id": "49682988",
-      "title": "Codename MDASH brings agentic AI security scanning to US Government",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
-      "summary": "Discover how codename MDASH uses multi-model AI in Azure Government to help US agencies find, validate, and prioritize software vulnerabilities faster.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-13T11:56:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "fourfire",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Discover how codename MDASH uses multi-model AI in Azure Government to help US agencies find, validate, and prioritize software vulnerabilities faster.",
-      "author_name": "fourfire"
-    },
-    {
-      "id": "49434984",
-      "title": "U.S. Water Utilities Have Varied Ability to Absorb Colorado River Water Cuts",
-      "url": "https://www.fitchratings.com/research/us-public-finance/us-water-utilities-have-varied-ability-to-absorb-colorado-river-water-cuts-25-08-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-08-25T14:39:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "toomuchtodo",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "toomuchtodo"
     }
   ]
 }
