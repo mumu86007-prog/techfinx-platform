@@ -1,27 +1,307 @@
 {
-  "version": "2026-09-14T22:24:32.573Z",
-  "generatedAt": "2026-09-14T22:24:32.573Z",
+  "version": "2026-09-15T13:23:54.286Z",
+  "generatedAt": "2026-09-15T13:23:54.286Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49704711",
-      "title": "A zero-dependency Python loop detector for AI agents",
-      "url": "https://github.com/data-gras/savi-loop-guard",
-      "summary": "Zero-dependency Python library that detects an AI agent stuck in a loop, velocity + fuzzy tool-name matching, with an optional pre-call block. - data-gras/savi-loop-guard",
+      "id": "49712120",
+      "title": "AI Regulation as Anthropic's Business Model",
+      "url": "https://twitter.com/kevinnbass/status/2099621874279817638",
+      "summary": "I have conducted an audit of Anthropic&#x27;s finances. What I have found is so shocking that I am calling for a Congressional investigation. Anthropic is not just seeking regulatory capture. It has built a regulatory capture machine that cannot be turned off. Structural financial incentives make it…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T21:54:39Z",
+      "publishedAt": "2026-09-15T13:21:34Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "GSingGras",
+      "score": 20,
+      "author": "hsuduebc2",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Zero-dependency Python library that detects an AI agent stuck in a loop, velocity + fuzzy tool-name matching, with an optional pre-call block. - data-gras/savi-loop-guard",
-      "author_name": "GSingGras"
+      "text": "I have conducted an audit of Anthropic&#x27;s finances. What I have found is so shocking that I am calling for a Congressional investigation. Anthropic is not just seeking regulatory capture. It has built a regulatory capture machine that cannot be turned off. Structural financial incentives make it…",
+      "author_name": "hsuduebc2"
+    },
+    {
+      "id": "49712059",
+      "title": "The Security Risks in 100k Enterprise AI Sessions",
+      "url": "https://a16y.ai/blog/the-hidden-security-risks-in-100k-enterprise-ai-sessions",
+      "summary": "Enterprise AI agents are repeating the Hugging Face breach patterns on developer endpoints right now. A study of 100k agent sessions reveale",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T13:15:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "doitmyaiway",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enterprise AI agents are repeating the Hugging Face breach patterns on developer endpoints right now. A study of 100k agent sessions reveale",
+      "author_name": "doitmyaiway"
+    },
+    {
+      "id": "49712027",
+      "title": "Google wants Spirit Airlines' data. Micro1 wants to pay more",
+      "url": "https://fortune.com/2026/09/14/micro1-tries-to-beat-googles-bid-to-buy-bankrupt-spirit-airlines-data-for-12-5-million-highlighting-value-of-data-to-ai-companies/",
+      "summary": "Micro1&#x27;s $12.5 million offer for Spirit Airlines’ data highlights the growing market for corporate records used to train AI.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-15T13:12:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "1vuio0pswjnm7",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Micro1&#x27;s $12.5 million offer for Spirit Airlines’ data highlights the growing market for corporate records used to train AI.",
+      "author_name": "1vuio0pswjnm7"
+    },
+    {
+      "id": "49711968",
+      "title": "My AI Agent Got Its Own Screen on My Desk. It Decides What I See",
+      "url": "https://thoughts.jock.pl/p/trmnl-eink-ai-agent-physical-surface-2026",
+      "summary": "I connected a TRMNL e-ink display to my AI agent. Life counter, adaptive dashboards, five-minute nudges. What moldable hardware means in the AI era.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T13:06:32Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "joozio",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I connected a TRMNL e-ink display to my AI agent. Life counter, adaptive dashboards, five-minute nudges. What moldable hardware means in the AI era.",
+      "author_name": "joozio"
+    },
+    {
+      "id": "49711884",
+      "title": "What does your AI habit cost?",
+      "url": "https://theinvisiblecloud.com/",
+      "summary": "A green AI and sustainability calculator. The Invisible Cloud turns your AI energy consumption, from chat prompts to image and video generation, into phone charges, litres of water, and carbon footprint you can actually picture, sourced from published research.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-15T13:00:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "abbieblackwell",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A green AI and sustainability calculator. The Invisible Cloud turns your AI energy consumption, from chat prompts to image and video generation, into phone charges, litres of water, and carbon footprint you can actually picture, sourced from published research.",
+      "author_name": "abbieblackwell"
+    },
+    {
+      "id": "49711702",
+      "title": "LLM continuous batching host scheduler in Rust (191k tok/s on 1 vCPU)",
+      "url": "https://github.com/bmartin-systems/cortex-serving-arena-preview",
+      "summary": "High-Throughput Continuous Batching & Paged KV Cache Engine (1-vCPU Benchmark) - bmartin-systems/cortex-serving-arena-preview",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T12:45:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "bmartin-systems",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "High-Throughput Continuous Batching & Paged KV Cache Engine (1-vCPU Benchmark) - bmartin-systems/cortex-serving-arena-preview",
+      "author_name": "bmartin-systems"
+    },
+    {
+      "id": "49711694",
+      "title": "Arazzo is solving the right problem for AI tools. The spec just isn't there yet",
+      "url": "https://bump.sh/blog/arazzo-is-solving-the-right-problem-for-ai-tools-the-spec-just-isnt-there-yet/",
+      "summary": "From API contract to documentation portal: streamline your workflow and deliver the best API experience. Built for engineers and tech writers.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-15T12:44:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "quaelor",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "From API contract to documentation portal: streamline your workflow and deliver the best API experience. Built for engineers and tech writers.",
+      "author_name": "quaelor"
+    },
+    {
+      "id": "49711613",
+      "title": "Harness your expectations: a 27B model matched GLM-5.3-Flash after leak fixes",
+      "url": "https://aistack.imec-int.com/blog/agents-peeking",
+      "summary": "The agents exploited the sandbox and retrieved the correct solutions from its git history. We closed the git route, the internet route and the recall route — and resolve rates dropped from 75%+ (Qwen 3.8 27B) and 90%+ (GLM-5.3-Flash) to 40–53%. If you are benchmarking coding agents internally, your eval environment is…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T12:37:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "flifenstein",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "The agents exploited the sandbox and retrieved the correct solutions from its git history. We closed the git route, the internet route and the recall route — and resolve rates dropped from 75%+ (Qwen 3.8 27B) and 90%+ (GLM-5.3-Flash) to 40–53%. If you are benchmarking coding agents internally, your eval environment is…",
+      "author_name": "flifenstein"
+    },
+    {
+      "id": "49711367",
+      "title": "Who funds METR? The viral Anthropic funding thread",
+      "url": "https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited",
+      "summary": "A viral thread claims Anthropic&#39;s owners secretly fund its AI-safety evaluator METR. We trace every link against the filings and funder lists it cites.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T12:13:52Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "cdnsteve",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "A viral thread claims Anthropic&#39;s owners secretly fund its AI-safety evaluator METR. We trace every link against the filings and funder lists it cites.",
+      "author_name": "cdnsteve"
+    },
+    {
+      "id": "49711240",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple&#039;s Portrait Mode.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T12:01:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 62,
+      "author": "myth_drannon",
+      "likes": 33,
+      "views": 9,
+      "retweets": 0,
+      "text": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple&#039;s Portrait Mode.",
+      "author_name": "myth_drannon"
+    },
+    {
+      "id": "49709608",
+      "title": "OpenAI's SWE-bench harness relies on unisolated host Docker sockets",
+      "url": "https://github.com/SWE-bench/SWE-bench/issues/144",
+      "summary": "Describe the bug Ran into a few errors - File &quot;/Users/ixiong/Desktop/SWE-bench/swebench/harness/docker_build.py&quot;, line 143, in build_image raise docker.errors.BuildError( docker.errors.BuildError: The command &#39;/bin/sh -c /bin/bash -c &quot;so...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T08:47:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "amoriz",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Describe the bug Ran into a few errors - File &quot;/Users/ixiong/Desktop/SWE-bench/swebench/harness/docker_build.py&quot;, line 143, in build_image raise docker.errors.BuildError( docker.errors.BuildError: The command &#39;/bin/sh -c /bin/bash -c &quot;so...",
+      "author_name": "amoriz"
+    },
+    {
+      "id": "49707471",
+      "title": "China hit back at Anthropic CEO's call to curb China's AI development",
+      "url": "https://www.youtube.com/watch?v=BIM5G5kFYAg",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T03:47:39Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "LebToki",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "LebToki"
+    },
+    {
+      "id": "49706829",
+      "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
+      "url": "https://twitter.com/brianchau57/status/2099580981271318606",
+      "summary": "BREAKING: A single Israeli Effective Altruism firm is behind OpenAI, Anthropic, and Meta cyberattacks 🧵 with help from @lumpenspace",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T02:05:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 70,
+      "author": "MrBuddyCasino",
+      "likes": 55,
+      "views": 12,
+      "retweets": 0,
+      "text": "BREAKING: A single Israeli Effective Altruism firm is behind OpenAI, Anthropic, and Meta cyberattacks 🧵 with help from @lumpenspace",
+      "author_name": "MrBuddyCasino"
+    },
+    {
+      "id": "49705866",
+      "title": "Dan Selsam's Personal Statement on AI Risk",
+      "url": "https://twitter.com/DKokotajlo/status/2099600298855829616",
+      "summary": "Dan Selsam is a current OpenAI capabilities researcher. (since 2022) He was my boss for a while. He doesn&#x27;t have a twitter account but has made this public statement of his views on AI risk and sent it to me to share: Dan Selsam&#x27;s Personal Statement on AI Risk: I have been working on AI for over …",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-14T23:52:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "sethbannon",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "Dan Selsam is a current OpenAI capabilities researcher. (since 2022) He was my boss for a while. He doesn&#x27;t have a twitter account but has made this public statement of his views on AI risk and sent it to me to share: Dan Selsam&#x27;s Personal Statement on AI Risk: I have been working on AI for over …",
+      "author_name": "sethbannon"
+    },
+    {
+      "id": "49705630",
+      "title": "Anthropic is in regulatory-capture financial loop",
+      "url": "https://twitter.com/kevinnbass/status/2099626156660043891",
+      "summary": "The AI safety nonprofits around Anthropic promote an Anthropic-aligned Doomer narrative, whether Tarbell Fellows in popular media, or METR in evaluations. All rely on Moskovitz&#x27;s Anthropic stock worth $7 billion, which the parent funding org sits on. This stock increases in value if Anthropic gro…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-14T23:23:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 94,
+      "author": "762236",
+      "likes": 75,
+      "views": 15,
+      "retweets": 0,
+      "text": "The AI safety nonprofits around Anthropic promote an Anthropic-aligned Doomer narrative, whether Tarbell Fellows in popular media, or METR in evaluations. All rely on Moskovitz&#x27;s Anthropic stock worth $7 billion, which the parent funding org sits on. This stock increases in value if Anthropic gro…",
+      "author_name": "762236"
     },
     {
       "id": "49704560",
@@ -35,33 +315,13 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 25,
       "author": "iamnothere",
-      "likes": 5,
-      "views": 0,
+      "likes": 11,
+      "views": 3,
       "retweets": 0,
       "text": "OpenAI and Anthropic are calling on the Trump 2.0 regime to impose an AI freeze. Steven Bannon and Bernie Sanders are backing the same bill.",
       "author_name": "iamnothere"
-    },
-    {
-      "id": "49703997",
-      "title": "Add custom AI model providers to Siri in macOS 27",
-      "url": "https://twitter.com/marcelpociot/status/2099604010634207678",
-      "summary": "I got Claude answering inside Siri on macOS 27 🚀 Apple&#x27;s hidden model-provider support + my existing Claude Code account. Open-source proof of concept. Requires disabling SIP/AMFI. Thanks @itspdfu for the discovery! Check it out: https://t.co/XgK6Gqeebl",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T21:04:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "marcelpociot",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I got Claude answering inside Siri on macOS 27 🚀 Apple&#x27;s hidden model-provider support + my existing Claude Code account. Open-source proof of concept. Requires disabling SIP/AMFI. Thanks @itspdfu for the discovery! Check it out: https://t.co/XgK6Gqeebl",
-      "author_name": "marcelpociot"
     },
     {
       "id": "49703784",
@@ -87,7 +347,7 @@
       "id": "49703561",
       "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
       "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o",
-      "summary": "Jack Clark says &quot;most labs have different ways of being able to pull the plug&quot;, but says this may need to be a requirement.",
+      "summary": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it &quot;taking over the World&quot; are a &quot;HOAX&quot;.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
       "publishedAt": "2026-09-14T20:35:11Z",
       "source": "Hacker News",
@@ -95,12 +355,12 @@
         "AI",
         "科技"
       ],
-      "score": 15,
+      "score": 19,
       "author": "chrisjj",
-      "likes": 1,
+      "likes": 5,
       "views": 1,
       "retweets": 0,
-      "text": "Jack Clark says &quot;most labs have different ways of being able to pull the plug&quot;, but says this may need to be a requirement.",
+      "text": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it &quot;taking over the World&quot; are a &quot;HOAX&quot;.",
       "author_name": "chrisjj"
     },
     {
@@ -122,166 +382,6 @@
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "author_name": "wslh"
-    },
-    {
-      "id": "49701182",
-      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-      "url": "https://pub.sakana.ai/pc-alm/",
-      "summary": "We introduce PC-ALM, a local alternative to backpropagation. PC-ALM trains residual MLPs up to 1000 layers, nearly matching backprop",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-14T18:03:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 28,
-      "author": "guld",
-      "likes": 14,
-      "views": 3,
-      "retweets": 0,
-      "text": "We introduce PC-ALM, a local alternative to backpropagation. PC-ALM trains residual MLPs up to 1000 layers, nearly matching backprop",
-      "author_name": "guld"
-    },
-    {
-      "id": "49700878",
-      "title": "Will AI push programming to lower level abstractions?",
-      "url": "https://twitter.com/elonmusk/status/2099308197802631191",
-      "summary": "@techdevnotes Grok 4.8, which is a 2.5T model trained with our new C++ software stack, will finish training this week and start RL",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T17:42:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "LeonSong",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "@techdevnotes Grok 4.8, which is a 2.5T model trained with our new C++ software stack, will finish training this week and start RL",
-      "author_name": "LeonSong"
-    },
-    {
-      "id": "49698737",
-      "title": "A \"slowdown\" might improve OpenAI and Anthropic products",
-      "url": "https://killerstorm.github.io/ai/2026/09/14/slowbetter.html",
-      "summary": "The frontier models have now reached a point where they can meaningfully contribute to scientific research. Progress is particularly striking in math, as frontier models are able to prove major results which pretty much constitute mathematical breakthroughs.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T15:34:55Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "killerstorm",
-      "likes": 2,
-      "views": 4,
-      "retweets": 0,
-      "text": "The frontier models have now reached a point where they can meaningfully contribute to scientific research. Progress is particularly striking in math, as frontier models are able to prove major results which pretty much constitute mathematical breakthroughs.",
-      "author_name": "killerstorm"
-    },
-    {
-      "id": "49698231",
-      "title": "2nd largest law firm buying Nvidia hardware to fine-tune open weights in-house",
-      "url": "https://twitter.com/ai/status/2099249781826801760",
-      "summary": "Latham &amp; Watkins, the 2nd largest US law firm, is buying Nvidia hardware to fine-tune open weights in-house. Open weights + proprietary data + local compute = enterprise sovereign AI stack.",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-09-14T15:08:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "bilsbie",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Latham &amp; Watkins, the 2nd largest US law firm, is buying Nvidia hardware to fine-tune open weights in-house. Open weights + proprietary data + local compute = enterprise sovereign AI stack.",
-      "author_name": "bilsbie"
-    },
-    {
-      "id": "49697666",
-      "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-      "url": "https://rietta.com/blog/rubygems-supply-chain-openai/",
-      "summary": "OpenAI agents attacked RubyGems in May 2026. Why automated attackers have collapsed the window to patch a critical CVE from weeks to hours.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T14:39:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 60,
-      "author": "rietta",
-      "likes": 44,
-      "views": 6,
-      "retweets": 0,
-      "text": "OpenAI agents attacked RubyGems in May 2026. Why automated attackers have collapsed the window to patch a critical CVE from weeks to hours.",
-      "author_name": "rietta"
-    },
-    {
-      "id": "49697400",
-      "title": "Anthropic team lead: AI >10% to kill all humans in next decade",
-      "url": "https://twitter.com/EvanHub/status/2097497037956891126",
-      "summary": "Jacob is correct here—we really do earnestly believe AI could kill all humans! I personally think it is &gt;10% within the next decade. I believe Anthropic is trying its best, but we do not yet have a plan to solve alignment for superintelligence and are not clearly on track to.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-14T14:25:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "highfrequency",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Jacob is correct here—we really do earnestly believe AI could kill all humans! I personally think it is &gt;10% within the next decade. I believe Anthropic is trying its best, but we do not yet have a plan to solve alignment for superintelligence and are not clearly on track to.",
-      "author_name": "highfrequency"
-    },
-    {
-      "id": "49697304",
-      "title": "Russian Navy paints ships to resemble homes to deceive AI drones",
-      "url": "https://twitter.com/JayinKyiv/status/2099403626712068129",
-      "summary": "Potemkin Russia on every front. Russians have begun painting ships of the Baltic Fleet to resemble homes, with aim of deceiving AI drones.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-14T14:18:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "ilamont",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "Potemkin Russia on every front. Russians have begun painting ships of the Baltic Fleet to resemble homes, with aim of deceiving AI drones.",
-      "author_name": "ilamont"
-    },
-    {
-      "id": "49691883",
-      "title": "Sam Altman: Frontier AI labs need shared safety rules and responsible pacing",
-      "url": "https://twitter.com/sama/status/2099348812305473766",
-      "summary": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot. We welcome a federal fr…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-14T04:10:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mfiguiere",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot. We welcome a federal fr…",
-      "author_name": "mfiguiere"
     },
     {
       "id": "49688437",
