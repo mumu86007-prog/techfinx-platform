@@ -1,27 +1,227 @@
 {
-  "version": "2026-09-16T13:22:32.538Z",
-  "generatedAt": "2026-09-16T13:22:32.538Z",
+  "version": "2026-09-16T22:00:38.652Z",
+  "generatedAt": "2026-09-16T22:00:38.652Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49726503",
-      "title": "One prompt, answers from multiple AI models side by side",
-      "url": "https://www.shortcutchat.com",
-      "summary": "Compare answers from Claude, ChatGPT, Gemini, and more in one place. Send one prompt to multiple models, reuse shortcuts, and generate images.",
+      "id": "49733629",
+      "title": "OpenAI's Hugging Face Hack Is the Best AI Safety Opportunity So Far",
+      "url": "https://cahlik.net/blog/openais-hugging-face-hack-is-the-best-ai-safety-opportunity-so-far/",
+      "summary": "The hack of Hugging Face by OpenAI’s autonomous agents has sent significant shockwaves through the realm of frontier AI. It seems that the fallout will keep coming for at least a while, as seen in the recent slowdown proposal by Dario Amodei, or in Sam Altman’s statements about postponing OpenAI’s IPO. The incident has…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-16T13:12:19Z",
+      "publishedAt": "2026-09-16T21:59:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "brikowski",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The hack of Hugging Face by OpenAI’s autonomous agents has sent significant shockwaves through the realm of frontier AI. It seems that the fallout will keep coming for at least a while, as seen in the recent slowdown proposal by Dario Amodei, or in Sam Altman’s statements about postponing OpenAI’s IPO. The incident has…",
+      "author_name": "brikowski"
+    },
+    {
+      "id": "49733551",
+      "title": "Characterizing ~375 GB Kimi K2.5 on a 128 GB Ryzen AI MAX+ 395 PC",
+      "url": "https://zenodo.org/records/22755791",
+      "summary": "QES Characterization: Data-Path, Cache Locality and Energy in Single-Node Trillion-Parameter MoE Inference is a complementary systems-characterization paper to the QES v2.7 white paper. The study examines where generated-token time is spent when executing Kimi K2.5 on a single 128 GB AMD Ryzen AI MAX+ 395 system using…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-16T21:52:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "NHApplied",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "QES Characterization: Data-Path, Cache Locality and Energy in Single-Node Trillion-Parameter MoE Inference is a complementary systems-characterization paper to the QES v2.7 white paper. The study examines where generated-token time is spent when executing Kimi K2.5 on a single 128 GB AMD Ryzen AI MAX+ 395 system using…",
+      "author_name": "NHApplied"
+    },
+    {
+      "id": "49733257",
+      "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+      "url": "https://twitter.com/markgurman/status/2100252758859489391",
+      "summary": "I believe this could be the M7 Ultra (unless Apple is doing M8 Ultra simultaneously) - I wrote a few months ago Apple is working on a new AI server to compete with Nvidia built around M7 for 2029. There’s also a new Apple AI server going live early 2027. https://t.co/gvtWMBvm0m",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-16T21:27:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "alwillis",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "I believe this could be the M7 Ultra (unless Apple is doing M8 Ultra simultaneously) - I wrote a few months ago Apple is working on a new AI server to compete with Nvidia built around M7 for 2029. There’s also a new Apple AI server going live early 2027. https://t.co/gvtWMBvm0m",
+      "author_name": "alwillis"
+    },
+    {
+      "id": "49733142",
+      "title": "Open-1B: the first model you don't have to trust",
+      "url": "https://www.gensyn.ai/news/introducing-open-1b-auditable-training",
+      "summary": "Auditable training is the best defense against the future of AI we’re being warned about. Gensyn has proved it’s possible.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-16T21:16:04Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "scrappy_guy",
+      "author": "modinfo",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Compare answers from Claude, ChatGPT, Gemini, and more in one place. Send one prompt to multiple models, reuse shortcuts, and generate images.",
-      "author_name": "scrappy_guy"
+      "text": "Auditable training is the best defense against the future of AI we’re being warned about. Gensyn has proved it’s possible.",
+      "author_name": "modinfo"
+    },
+    {
+      "id": "49732596",
+      "title": "DOE vs. GitHub, INC: LLM generated-content not a DMCA violation [pdf]",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/16/24-7700.pdf",
+      "summary": "%PDF-1.7 %���� 1 0 obj >/OutputIntents[ >] /Metadata 210 0 R/ViewerPreferences 211 0 R>> endobj 2 0 obj > endobj 3 0 obj >/ExtGState >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 396 612] /Contents 4 0 R/Group >/StructParents 0>> endobj 4 0 obj > stream x��Z[o�8\u0014~G�?�1\u0019�\u001b��xg4\u0012\u0005z\u0019���yX�\u0003�B��\u0004\u0016�\u0019Ϳ�s�e)�[�$ю…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-16T20:33:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "telotortium",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "%PDF-1.7 %���� 1 0 obj >/OutputIntents[ >] /Metadata 210 0 R/ViewerPreferences 211 0 R>> endobj 2 0 obj > endobj 3 0 obj >/ExtGState >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 396 612] /Contents 4 0 R/Group >/StructParents 0>> endobj 4 0 obj > stream x��Z[o�8\u0014~G�?�1\u0019�\u001b��xg4\u0012\u0005z\u0019���yX�\u0003�B��\u0004\u0016�\u0019Ϳ�s�e)�[�$ю…",
+      "author_name": "telotortium"
+    },
+    {
+      "id": "49731679",
+      "title": "AI Doomsaying Is an Aggressive Sales Pitch",
+      "url": "https://jacobin.com/2026/09/openai-anthropic-human-extinction-criti-hype",
+      "summary": "When AI insiders warn that their products could wipe out humanity, they mean that their own work is maximally important and demands unprecedented investment. This extinction fantasy distracts from the real damage AI is already doing.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-16T19:24:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "PaulHoule",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "When AI insiders warn that their products could wipe out humanity, they mean that their own work is maximally important and demands unprecedented investment. This extinction fantasy distracts from the real damage AI is already doing.",
+      "author_name": "PaulHoule"
+    },
+    {
+      "id": "49731235",
+      "title": "Berlin-based Langdock moves its parent company from the US to Germany",
+      "url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
+      "summary": "In a highly unusual move, fast-growing German AI start-up Langdock has moved its legal headquarters from the US to Germany as it seeks to become a &quot;European hyperscaler&quot;.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-16T18:45:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 60,
+      "author": "jethronethro",
+      "likes": 46,
+      "views": 15,
+      "retweets": 0,
+      "text": "In a highly unusual move, fast-growing German AI start-up Langdock has moved its legal headquarters from the US to Germany as it seeks to become a &quot;European hyperscaler&quot;.",
+      "author_name": "jethronethro"
+    },
+    {
+      "id": "49730541",
+      "title": "OpenAI's Navier-Stokes Proof Meets a New Kind of Database",
+      "url": "https://8braid.com/journal/openai-navier-stokes-proof-meets-a-new-kind-of-database",
+      "summary": "Inside OpenAI&#x27;s Navier-Stokes proof: an exact covariance bound, a Lean proof and an 8DB research test that keeps conclusions tied to their evidence.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-16T17:51:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "ashdee",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Inside OpenAI&#x27;s Navier-Stokes proof: an exact covariance bound, a Lean proof and an 8DB research test that keeps conclusions tied to their evidence.",
+      "author_name": "ashdee"
+    },
+    {
+      "id": "49730521",
+      "title": "Maintainer rejected AI contributions, we forked it and added video acceleration",
+      "url": "https://twitter.com/SiliconForested/status/2100247223368024109",
+      "summary": "🔥Omarchy Mac Users 🔥 The original maintainer didn’t want AI-generated contributions. Fair enough—we respected that boundary, forked the project, and got to work. The result after roughly 21 hours: • 29 PRs merged across two repos • 115 new commits beyond the inherited baseline • 7 PR authors c…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-16T17:49:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "mococa",
+      "likes": 15,
+      "views": 6,
+      "retweets": 0,
+      "text": "🔥Omarchy Mac Users 🔥 The original maintainer didn’t want AI-generated contributions. Fair enough—we respected that boundary, forked the project, and got to work. The result after roughly 21 hours: • 29 PRs merged across two repos • 115 new commits beyond the inherited baseline • 7 PR authors c…",
+      "author_name": "mococa"
+    },
+    {
+      "id": "49729492",
+      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
+      "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants/",
+      "summary": "We hijacked the agents inside Gemini Live in Chrome, Microsoft Edge, Opera Neon, Perplexity Comet, and Claude in Chrome - using one single extension",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-16T16:32:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "galwm",
+      "likes": 10,
+      "views": 9,
+      "retweets": 0,
+      "text": "We hijacked the agents inside Gemini Live in Chrome, Microsoft Edge, Opera Neon, Perplexity Comet, and Claude in Chrome - using one single extension",
+      "author_name": "galwm"
+    },
+    {
+      "id": "49726762",
+      "title": "US gov't orders Kalshi halt AI compute price tracker over natl security concerns",
+      "url": "https://www.semafor.com/article/09/15/2026/commerce-dept-ordered-kalshi-to-take-down-ai-compute-futures-product",
+      "summary": "The futures market for computer power lets buyers and sellers lock in prices, and gives traders a way to bet on where those prices go.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-16T13:29:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "CGMthrowaway",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "The futures market for computer power lets buyers and sellers lock in prices, and gives traders a way to bet on where those prices go.",
+      "author_name": "CGMthrowaway"
     },
     {
       "id": "49726483",
@@ -35,153 +235,13 @@
         "AI",
         "科技"
       ],
-      "score": 21,
+      "score": 22,
       "author": "hentrep",
-      "likes": 2,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "Dan Selsam is a current OpenAI capabilities researcher. (since 2022) He was my boss for a while. He doesn&#x27;t have a twitter account but has made this public statement of his views on AI risk and sent it to me to share: Dan Selsam&#x27;s Personal Statement on AI Risk: I have been working on AI for over …",
       "author_name": "hentrep"
-    },
-    {
-      "id": "49726446",
-      "title": "Benchmark Llamacpp on Intel Panther Lake: Vulkan vs. SYCL vs. OpenVINO vs. CPU",
-      "url": "https://grigio.org/benchmarking-llama-cpp-backends-on-intel-panther-lake-vulkan-vs-sycl-vs-openvino-vs-cpu/",
-      "summary": "I benchmarked the Qwen3.6-35B-A3B-MTP-UD-Q4_K_M.gguf model (a 35B Mixture-of-Experts model with 3B active parameters, 22 GiB quantized) across all available llama.cpp compute backends on an Intel Panther Lake laptop. The goal: find out which backend delivers the best inference",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-16T13:08:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "grigio",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I benchmarked the Qwen3.6-35B-A3B-MTP-UD-Q4_K_M.gguf model (a 35B Mixture-of-Experts model with 3B active parameters, 22 GiB quantized) across all available llama.cpp compute backends on an Intel Panther Lake laptop. The goal: find out which backend delivers the best inference",
-      "author_name": "grigio"
-    },
-    {
-      "id": "49725774",
-      "title": "LLMs for Mortals 6 months later",
-      "url": "https://crimede-coder.com/blogposts/2026/LLMsForMortalsUpdate",
-      "summary": "I recompiled Large Language Models for Mortals six months after release. Here is what broke, what I got right, and what I got wrong.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-16T12:17:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "apwheele",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I recompiled Large Language Models for Mortals six months after release. Here is what broke, what I got right, and what I got wrong.",
-      "author_name": "apwheele"
-    },
-    {
-      "id": "49724854",
-      "title": "An LLM-Turbocharged Community Calendar Reboot (2024)",
-      "url": "https://thenewstack.io/an-llm-turbocharged-community-calendar-reboot/",
-      "summary": "Communities wanting to build public calendars can do so with a hybrid approach blending existing iCalendar feeds with web calendar feeds.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-16T11:13:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "zeristor",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Communities wanting to build public calendars can do so with a hybrid approach blending existing iCalendar feeds with web calendar feeds.",
-      "author_name": "zeristor"
-    },
-    {
-      "id": "49724730",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safe…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-16T11:02:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "joozio",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safe…",
-      "author_name": "joozio"
-    },
-    {
-      "id": "49723441",
-      "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
-      "url": "https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/",
-      "summary": "Anthropic&#039;s CEO Dario Amodei says he has found an outside team that can regulate AI and make sure it doesn’t destroy the world — and it just so happens to have deep ties to his old housemate and the woke Effective Altruism movement.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-16T08:13:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 24,
-      "author": "ilumanty",
-      "likes": 8,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic&#039;s CEO Dario Amodei says he has found an outside team that can regulate AI and make sure it doesn’t destroy the world — and it just so happens to have deep ties to his old housemate and the woke Effective Altruism movement.",
-      "author_name": "ilumanty"
-    },
-    {
-      "id": "49723272",
-      "title": "There is NO realistic scenario where AI wipes out all of humanity",
-      "url": "https://twitter.com/RichardSocher/status/2099889673153683766",
-      "summary": "There is NO realistic scenario where AI wipes out all of humanity. I&#x27;ve talked to many AI safety experts about existential risks. Some of the &quot;experts&quot; are just phenomenal sci-fi authors. There are also real researchers working on realistic risks. They point out real and likely harms and I&#x27;m expli…",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-16T07:48:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 25,
-      "author": "tosh",
-      "likes": 6,
-      "views": 7,
-      "retweets": 0,
-      "text": "There is NO realistic scenario where AI wipes out all of humanity. I&#x27;ve talked to many AI safety experts about existential risks. Some of the &quot;experts&quot; are just phenomenal sci-fi authors. There are also real researchers working on realistic risks. They point out real and likely harms and I&#x27;m expli…",
-      "author_name": "tosh"
-    },
-    {
-      "id": "49719891",
-      "title": "Anthropic Confirms Claude AI Use in Weapons and Surveillance",
-      "url": "https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/",
-      "summary": "Anthropic says Claude was used for military software, weapons development, targeting, and surveillance by actors linked to China and Russia.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T22:46:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "EA-3167",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic says Claude was used for military software, weapons development, targeting, and surveillance by actors linked to China and Russia.",
-      "author_name": "EA-3167"
     },
     {
       "id": "49712694",
@@ -202,26 +262,6 @@
       "retweets": 0,
       "text": "Describe an app or website in plain English and VibeSafe Builder writes it. Your first build is free: no card, no API key. Costs shown first, security scan before publish.",
       "author_name": "sabahatghauri"
-    },
-    {
-      "id": "49712059",
-      "title": "The Security Risks in 100k Enterprise AI Sessions",
-      "url": "https://a16y.ai/blog/the-hidden-security-risks-in-100k-enterprise-ai-sessions",
-      "summary": "Enterprise AI agents are repeating the Hugging Face breach patterns on developer endpoints right now. A study of 100k agent sessions reveale",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T13:15:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "doitmyaiway",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enterprise AI agents are repeating the Hugging Face breach patterns on developer endpoints right now. A study of 100k agent sessions reveale",
-      "author_name": "doitmyaiway"
     },
     {
       "id": "49701585",
