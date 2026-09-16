@@ -1,267 +1,187 @@
 {
-  "version": "2026-09-15T22:03:49.407Z",
-  "generatedAt": "2026-09-15T22:03:49.407Z",
+  "version": "2026-09-16T13:22:32.538Z",
+  "generatedAt": "2026-09-16T13:22:32.538Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49719212",
-      "title": "No Big Deal – is this how AI ends humanity, with a sitcom so bad it bores you?",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death",
-      "summary": "The characters are dead-eyed waxworks which speak with all the nuance of a satnav. But this AI-created workplace comedy is so bad that even the greatest actors alive couldn&#x2019;t stop it being unwatchable",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-15T21:37:56Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "billybuckwheat",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "The characters are dead-eyed waxworks which speak with all the nuance of a satnav. But this AI-created workplace comedy is so bad that even the greatest actors alive couldn&#x2019;t stop it being unwatchable",
-      "author_name": "billybuckwheat"
-    },
-    {
-      "id": "49719027",
-      "title": "Local LLM engine where a tool call cut by the token limit still parses",
-      "url": "https://xyntetik.com/runner/truncation-safe-tool-calling/",
-      "summary": "When max_tokens runs out in the middle of a tool call, most engines return nothing usable. Xyntetik Runner closes the call to the smallest schema-legal document so the arguments still parse. The mechanism and the six-engine measurement.",
+      "id": "49726503",
+      "title": "One prompt, answers from multiple AI models side by side",
+      "url": "https://www.shortcutchat.com",
+      "summary": "Compare answers from Claude, ChatGPT, Gemini, and more in one place. Send one prompt to multiple models, reuse shortcuts, and generate images.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T21:17:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "JoakimPalm-Zen",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "When max_tokens runs out in the middle of a tool call, most engines return nothing usable. Xyntetik Runner closes the call to the smallest schema-legal document so the arguments still parse. The mechanism and the six-engine measurement.",
-      "author_name": "JoakimPalm-Zen"
-    },
-    {
-      "id": "49719005",
-      "title": "AI's Real Impact in Telecom: takeaways from a recent panel discussion",
-      "url": "https://www.windriver.com/blog/AIs-Real-Impact-in-Telecom",
-      "summary": "The panelists repeatedly returned to questions of trust, operational risk, sovereignty, edge deployment, and realistic monetization — all of which are issues dominating telecom strategy discussions today.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-15T21:15:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "ohjeez",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "The panelists repeatedly returned to questions of trust, operational risk, sovereignty, edge deployment, and realistic monetization — all of which are issues dominating telecom strategy discussions today.",
-      "author_name": "ohjeez"
-    },
-    {
-      "id": "49718167",
-      "title": "95% of projects publishing an OpenAPI spec have no compatibility gate",
-      "url": "https://specshield.io/blog/95-percent-no-compatibility-gate",
-      "summary": "We scanned 1,939 GitHub repositories. Of the 85 with a real first-party OpenAPI spec, 81 had no breaking-change check in CI. Method, data, and corrections.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-15T20:09:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 12,
-      "author": "DeepakSatyam",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "We scanned 1,939 GitHub repositories. Of the 85 with a real first-party OpenAPI spec, 81 had no breaking-change check in CI. Method, data, and corrections.",
-      "author_name": "DeepakSatyam"
-    },
-    {
-      "id": "49717120",
-      "title": "Writing More Secure Code with LLMs: Why \"Make No Mistakes\" Falls Short",
-      "url": "https://monad.xyz/blog/writing-secure-code-with-llms",
-      "summary": "Holding the task and model fixed and changing only the prompt, a generic secure-coding checklist barely helped, while an app-specific threat model cut validated vulnerability findings by about 43%.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T18:55:23Z",
+      "publishedAt": "2026-09-16T13:12:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "aray07",
+      "author": "scrappy_guy",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Holding the task and model fixed and changing only the prompt, a generic secure-coding checklist barely helped, while an app-specific threat model cut validated vulnerability findings by about 43%.",
-      "author_name": "aray07"
+      "text": "Compare answers from Claude, ChatGPT, Gemini, and more in one place. Send one prompt to multiple models, reuse shortcuts, and generate images.",
+      "author_name": "scrappy_guy"
     },
     {
-      "id": "49716682",
-      "title": "Jev: The Model That Gives AI the Properties of Code",
-      "url": "https://twitter.com/CompleteSkeptic/status/2099925682726002904",
-      "summary": "After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI? I’ve spent the last 2 years in stealth building a new way to train models (RLCD), and a new type of frontier AI model that we are releasing today: Jev • 20-200x faster • 40-400x cheaper (w/ output to…",
+      "id": "49726483",
+      "title": "Personal Statement on AI Risk",
+      "url": "https://twitter.com/dkokotajlo/status/2099600298855829616",
+      "summary": "Dan Selsam is a current OpenAI capabilities researcher. (since 2022) He was my boss for a while. He doesn&#x27;t have a twitter account but has made this public statement of his views on AI risk and sent it to me to share: Dan Selsam&#x27;s Personal Statement on AI Risk: I have been working on AI for over …",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T18:25:57Z",
+      "publishedAt": "2026-09-16T13:10:35Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 33,
-      "author": "zenlikethat",
-      "likes": 16,
-      "views": 1,
-      "retweets": 0,
-      "text": "After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI? I’ve spent the last 2 years in stealth building a new way to train models (RLCD), and a new type of frontier AI model that we are releasing today: Jev • 20-200x faster • 40-400x cheaper (w/ output to…",
-      "author_name": "zenlikethat"
-    },
-    {
-      "id": "49716466",
-      "title": "OpenRouter users spent more on OpenAI models than on Anthropic models last week",
-      "url": "https://twitter.com/OpenRouter/status/2099898254905549220",
-      "summary": "OpenRouter users spent more on OpenAI models than on Anthropic models last week. This hasn&#x27;t happened for more than 2.5 years",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T18:10:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 28,
-      "author": "tosh",
-      "likes": 13,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenRouter users spent more on OpenAI models than on Anthropic models last week. This hasn&#x27;t happened for more than 2.5 years",
-      "author_name": "tosh"
-    },
-    {
-      "id": "49716241",
-      "title": "Hugging Face is billing OpenAI $100M for hacking it",
-      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-      "summary": "After an OpenAI model hacked it, Hugging Face wants the agents&#039; full execution traces and $100mn of compute. OpenAI has not agreed to either demand.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T17:56:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 130,
-      "author": "cwwc",
-      "likes": 116,
-      "views": 41,
-      "retweets": 0,
-      "text": "After an OpenAI model hacked it, Hugging Face wants the agents&#039; full execution traces and $100mn of compute. OpenAI has not agreed to either demand.",
-      "author_name": "cwwc"
-    },
-    {
-      "id": "49716103",
-      "title": "Public Data for Health at the OpenAI Foundation",
-      "url": "https://openaifoundation.org/news/public-data-for-health",
-      "summary": "The OpenAI Foundation is supporting more than $125 million in grants to create and preserve high-quality scientific datasets for life sciences research.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T17:47:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "abhishaike",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "The OpenAI Foundation is supporting more than $125 million in grants to create and preserve high-quality scientific datasets for life sciences research.",
-      "author_name": "abhishaike"
-    },
-    {
-      "id": "49715831",
-      "title": "Rightsholders Can't Use OpenAI and Anthropic to Dismantle Meta's Seeding Defense",
-      "url": "https://torrentfreak.com/rightsholders-cant-use-openai-and-anthropic-to-dismantle-metas-seeding-defense/",
-      "summary": "Meta previously argued that uploading pirated books to other BitTorrent users was an unavoidable side effect of downloading them.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T17:29:56Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "gslin",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Meta previously argued that uploading pirated books to other BitTorrent users was an unavoidable side effect of downloading them.",
-      "author_name": "gslin"
-    },
-    {
-      "id": "49715465",
-      "title": "We asked creative experts to rank AI image / video models. Here's what happened",
-      "url": "https://openart.ai/arena",
-      "summary": "See how top AI image and video models rank on real creative work: ads, film, animation, e-commerce. Judges score the output, not the spec sheet.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T17:02:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "cocokechun",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "See how top AI image and video models rank on real creative work: ads, film, animation, e-commerce. Judges score the output, not the spec sheet.",
-      "author_name": "cocokechun"
-    },
-    {
-      "id": "49714853",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump&#039;s team dismisses safety concerns and pushes to keep pace with China.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T16:19:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "Alephinitesimal",
+      "score": 21,
+      "author": "hentrep",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump&#039;s team dismisses safety concerns and pushes to keep pace with China.",
-      "author_name": "Alephinitesimal"
+      "text": "Dan Selsam is a current OpenAI capabilities researcher. (since 2022) He was my boss for a while. He doesn&#x27;t have a twitter account but has made this public statement of his views on AI risk and sent it to me to share: Dan Selsam&#x27;s Personal Statement on AI Risk: I have been working on AI for over …",
+      "author_name": "hentrep"
     },
     {
-      "id": "49713858",
-      "title": "Existing laws apply to AI products",
-      "url": "https://twitter.com/linamkhan/status/2099204390548639960",
-      "summary": "Law enforcers already have authority to charge companies and their CEOs for creating and releasing dangerous, unvetted, or defective products. We shouldn’t let discussions about new legal regimes distract from the fact that there’s no AI exemption from laws already on the books — a point @FTC empha…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-15T15:17:32Z",
+      "id": "49726446",
+      "title": "Benchmark Llamacpp on Intel Panther Lake: Vulkan vs. SYCL vs. OpenVINO vs. CPU",
+      "url": "https://grigio.org/benchmarking-llama-cpp-backends-on-intel-panther-lake-vulkan-vs-sycl-vs-openvino-vs-cpu/",
+      "summary": "I benchmarked the Qwen3.6-35B-A3B-MTP-UD-Q4_K_M.gguf model (a 35B Mixture-of-Experts model with 3B active parameters, 22 GiB quantized) across all available llama.cpp compute backends on an Intel Panther Lake laptop. The goal: find out which backend delivers the best inference",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-16T13:08:45Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "yurivish",
-      "likes": 2,
+      "author": "grigio",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Law enforcers already have authority to charge companies and their CEOs for creating and releasing dangerous, unvetted, or defective products. We shouldn’t let discussions about new legal regimes distract from the fact that there’s no AI exemption from laws already on the books — a point @FTC empha…",
-      "author_name": "yurivish"
+      "text": "I benchmarked the Qwen3.6-35B-A3B-MTP-UD-Q4_K_M.gguf model (a 35B Mixture-of-Experts model with 3B active parameters, 22 GiB quantized) across all available llama.cpp compute backends on an Intel Panther Lake laptop. The goal: find out which backend delivers the best inference",
+      "author_name": "grigio"
+    },
+    {
+      "id": "49725774",
+      "title": "LLMs for Mortals 6 months later",
+      "url": "https://crimede-coder.com/blogposts/2026/LLMsForMortalsUpdate",
+      "summary": "I recompiled Large Language Models for Mortals six months after release. Here is what broke, what I got right, and what I got wrong.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-16T12:17:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "apwheele",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I recompiled Large Language Models for Mortals six months after release. Here is what broke, what I got right, and what I got wrong.",
+      "author_name": "apwheele"
+    },
+    {
+      "id": "49724854",
+      "title": "An LLM-Turbocharged Community Calendar Reboot (2024)",
+      "url": "https://thenewstack.io/an-llm-turbocharged-community-calendar-reboot/",
+      "summary": "Communities wanting to build public calendars can do so with a hybrid approach blending existing iCalendar feeds with web calendar feeds.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-16T11:13:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "zeristor",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Communities wanting to build public calendars can do so with a hybrid approach blending existing iCalendar feeds with web calendar feeds.",
+      "author_name": "zeristor"
+    },
+    {
+      "id": "49724730",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safe…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-16T11:02:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "joozio",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safe…",
+      "author_name": "joozio"
+    },
+    {
+      "id": "49723441",
+      "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
+      "url": "https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/",
+      "summary": "Anthropic&#039;s CEO Dario Amodei says he has found an outside team that can regulate AI and make sure it doesn’t destroy the world — and it just so happens to have deep ties to his old housemate and the woke Effective Altruism movement.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-16T08:13:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "ilumanty",
+      "likes": 8,
+      "views": 1,
+      "retweets": 0,
+      "text": "Anthropic&#039;s CEO Dario Amodei says he has found an outside team that can regulate AI and make sure it doesn’t destroy the world — and it just so happens to have deep ties to his old housemate and the woke Effective Altruism movement.",
+      "author_name": "ilumanty"
+    },
+    {
+      "id": "49723272",
+      "title": "There is NO realistic scenario where AI wipes out all of humanity",
+      "url": "https://twitter.com/RichardSocher/status/2099889673153683766",
+      "summary": "There is NO realistic scenario where AI wipes out all of humanity. I&#x27;ve talked to many AI safety experts about existential risks. Some of the &quot;experts&quot; are just phenomenal sci-fi authors. There are also real researchers working on realistic risks. They point out real and likely harms and I&#x27;m expli…",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-16T07:48:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 25,
+      "author": "tosh",
+      "likes": 6,
+      "views": 7,
+      "retweets": 0,
+      "text": "There is NO realistic scenario where AI wipes out all of humanity. I&#x27;ve talked to many AI safety experts about existential risks. Some of the &quot;experts&quot; are just phenomenal sci-fi authors. There are also real researchers working on realistic risks. They point out real and likely harms and I&#x27;m expli…",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49719891",
+      "title": "Anthropic Confirms Claude AI Use in Weapons and Surveillance",
+      "url": "https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/",
+      "summary": "Anthropic says Claude was used for military software, weapons development, targeting, and surveillance by actors linked to China and Russia.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-15T22:46:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "EA-3167",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic says Claude was used for military software, weapons development, targeting, and surveillance by actors linked to China and Russia.",
+      "author_name": "EA-3167"
     },
     {
       "id": "49712694",
@@ -284,26 +204,6 @@
       "author_name": "sabahatghauri"
     },
     {
-      "id": "49712120",
-      "title": "AI Regulation as Anthropic's Business Model",
-      "url": "https://twitter.com/kevinnbass/status/2099621874279817638",
-      "summary": "I have conducted an audit of Anthropic&#x27;s finances. What I have found is so shocking that I am calling for a Congressional investigation. Anthropic is not just seeking regulatory capture. It has built a regulatory capture machine that cannot be turned off. Structural financial incentives make it…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-15T13:21:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 44,
-      "author": "hsuduebc2",
-      "likes": 25,
-      "views": 0,
-      "retweets": 0,
-      "text": "I have conducted an audit of Anthropic&#x27;s finances. What I have found is so shocking that I am calling for a Congressional investigation. Anthropic is not just seeking regulatory capture. It has built a regulatory capture machine that cannot be turned off. Structural financial incentives make it…",
-      "author_name": "hsuduebc2"
-    },
-    {
       "id": "49712059",
       "title": "The Security Risks in 100k Enterprise AI Sessions",
       "url": "https://a16y.ai/blog/the-hidden-security-risks-in-100k-enterprise-ai-sessions",
@@ -322,6 +222,26 @@
       "retweets": 0,
       "text": "Enterprise AI agents are repeating the Hugging Face breach patterns on developer endpoints right now. A study of 100k agent sessions reveale",
       "author_name": "doitmyaiway"
+    },
+    {
+      "id": "49701585",
+      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
+      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-14T18:25:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "wslh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "wslh"
     }
   ]
 }
