@@ -1,127 +1,247 @@
 {
-  "version": "2026-09-17T13:17:22.693Z",
-  "generatedAt": "2026-09-17T13:17:22.693Z",
+  "version": "2026-09-17T22:02:33.087Z",
+  "generatedAt": "2026-09-17T22:02:33.087Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49740304",
-      "title": "A GraphRAG knowledge base of the Commodore 64 for AI coding agents",
-      "url": "https://github.com/bdgscotland/c64-kb",
-      "summary": "Commodore 64 knowledge base for AI-assisted development — Qdrant vector search + FalkorDB knowledge graph, served over MCP - bdgscotland/c64-kb",
+      "id": "49747128",
+      "title": "How Claude is uplifting biomolecular modeling",
+      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T13:15:23Z",
+      "publishedAt": "2026-09-17T21:53:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 30,
-      "author": "duncanbowring",
+      "author": "vertigoruntime",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Commodore 64 knowledge base for AI-assisted development — Qdrant vector search + FalkorDB knowledge graph, served over MCP - bdgscotland/c64-kb",
-      "author_name": "duncanbowring"
+      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "author_name": "vertigoruntime"
     },
     {
-      "id": "49740277",
-      "title": "AiPBX – Open-source PBX uniting Asterisk 22 and Port 443 ALPN multiplexing",
-      "url": "https://github.com/mahirgul/AiPBX",
-      "summary": "Open-source enterprise IP PBX management portal. Contribute to mahirgul/AiPBX development by creating an account on GitHub.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-17T13:13:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "mahirgul",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Open-source enterprise IP PBX management portal. Contribute to mahirgul/AiPBX development by creating an account on GitHub.",
-      "author_name": "mahirgul"
-    },
-    {
-      "id": "49740249",
-      "title": "The Paradox of Why AI Code Is Failing Us [video]",
-      "url": "https://www.youtube.com/watch?v=k2qls2LiBRc",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-17T13:11:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "askari01",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "askari01"
-    },
-    {
-      "id": "49740157",
-      "title": "Geolint – ESLint for AI Search",
-      "url": "https://github.com/iliasabk/geolint",
-      "summary": "ESLint for AI search — audit AI crawler access, llms.txt, structured data and citability for ChatGPT, Perplexity, Claude & co. - iliasabk/geolint",
+      "id": "49746809",
+      "title": "Eric S. Raymond – This is the case against AI Doom – pass it on",
+      "url": "https://twitter.com/esrtweet/status/2100530353270100334",
+      "summary": "This is the case against AI doom. Pass it on First we recaptulate standard x-risk argument: we build AI substantially smarter than humans → it becomes an autonomous optimizing agent → its goals are misaligned → instrumental convergence makes it seek power and resist correction → superintelligence …",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T13:05:34Z",
+      "publishedAt": "2026-09-17T21:29:26Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "iliasaberkane",
-      "likes": 1,
+      "score": 28,
+      "author": "rmason",
+      "likes": 9,
       "views": 0,
       "retweets": 0,
-      "text": "ESLint for AI search — audit AI crawler access, llms.txt, structured data and citability for ChatGPT, Perplexity, Claude & co. - iliasabk/geolint",
-      "author_name": "iliasaberkane"
+      "text": "This is the case against AI doom. Pass it on First we recaptulate standard x-risk argument: we build AI substantially smarter than humans → it becomes an autonomous optimizing agent → its goals are misaligned → instrumental convergence makes it seek power and resist correction → superintelligence …",
+      "author_name": "rmason"
     },
     {
-      "id": "49740099",
-      "title": "South Africa joins the global resistance against American data centers",
-      "url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/",
-      "summary": "Activists in Cape Town demand a national moratorium on AI data centers, warning that massive expansion by Microsoft, Amazon, and Equinix threatens scarce water and power resources.",
+      "id": "49746721",
+      "title": "Virtual biotech company puts thousands of AI scientist agents to work",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
+      "summary": "Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-17T21:22:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "geox",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.",
+      "author_name": "geox"
+    },
+    {
+      "id": "49746604",
+      "title": "OpenAI Safety Guardrails: What to Test Before Trusting an AI Agent",
+      "url": "https://www.pentesty.co/blog/openai-safety-guardrails-ai-agent-security",
+      "summary": "What OpenAI’s six misalignment reports mean for AI agent security. A practical checklist for permissions, data exposure, oversight and penetration testing.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-17T21:11:32Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "josanjohnata",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "What OpenAI’s six misalignment reports mean for AI agent security. A practical checklist for permissions, data exposure, oversight and penetration testing.",
+      "author_name": "josanjohnata"
+    },
+    {
+      "id": "49746369",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "summary": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-17T20:50:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "vertigoruntime",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+      "author_name": "vertigoruntime"
+    },
+    {
+      "id": "49745640",
+      "title": "ClickHouse's New TimeSeries Engine: Drop-In Prometheus Replacement",
+      "url": "https://clickhouse.com/blog/introducing-promql",
+      "summary": "ClickHouse PromQL support lets you store Prometheus metrics in ClickHouse Cloud, query them using familiar PromQL, and bring metrics together with your logs and traces without rewriting queries in SQL.",
       "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-17T13:01:08Z",
+      "publishedAt": "2026-09-17T19:49:38Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "cdrnsf",
-      "likes": 1,
+      "author": "elmazout",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Activists in Cape Town demand a national moratorium on AI data centers, warning that massive expansion by Microsoft, Amazon, and Equinix threatens scarce water and power resources.",
-      "author_name": "cdrnsf"
+      "text": "ClickHouse PromQL support lets you store Prometheus metrics in ClickHouse Cloud, query them using familiar PromQL, and bring metrics together with your logs and traces without rewriting queries in SQL.",
+      "author_name": "elmazout"
     },
     {
-      "id": "49739917",
-      "title": "Best hardware for local LLMs in 2026: Mac vs. Nvidia vs. AMD",
-      "url": "https://macyou.co/compare/local-llm-hardware",
-      "summary": "DGX Spark and Strix Halo hold 128 GB at 273 and 256 GB/s. An RTX 5090 moves 1,792 GB/s but holds 32 GB. Apple Ultra chips do 512 GB at 1.2 TB/s. One speed model applied to all three, with the cases where a Mac is the wrong answer.",
+      "id": "49745457",
+      "title": "OpenAI discloses new 'concerning' behavior",
+      "url": "https://www.dw.com/en/openai-discloses-new-concerning-behavior/a-79300180",
+      "summary": "OpenAI discloses new &#x27;concerning&#x27; behavior You need to enable JavaScript to run this app. Skip to content Skip to main menu Skip to more DW sites Latest videos Latest audio Regions Africa Asia Europe Latin America Middle East North America Germany Topics Climate Equality Health Human Rights Migration Technolo…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T12:43:57Z",
+      "publishedAt": "2026-09-17T19:31:29Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "bagdaerdev",
+      "author": "jethronethro",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI discloses new &#x27;concerning&#x27; behavior You need to enable JavaScript to run this app. Skip to content Skip to main menu Skip to more DW sites Latest videos Latest audio Regions Africa Asia Europe Latin America Middle East North America Germany Topics Climate Equality Health Human Rights Migration Technolo…",
+      "author_name": "jethronethro"
+    },
+    {
+      "id": "49745280",
+      "title": "Inside OpenAI’s agentic software factory",
+      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+      "summary": "A deepdive into how Codex has “taken over” OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-17T19:17:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "gfortaine",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "DGX Spark and Strix Halo hold 128 GB at 273 and 256 GB/s. An RTX 5090 moves 1,792 GB/s but holds 32 GB. Apple Ultra chips do 512 GB at 1.2 TB/s. One speed model applied to all three, with the cases where a Mac is the wrong answer.",
-      "author_name": "bagdaerdev"
+      "text": "A deepdive into how Codex has “taken over” OpenAI, how the frontier lab builds its agentic software factory, and the engineering challenges of one billion users. Details from inside OpenAI",
+      "author_name": "gfortaine"
+    },
+    {
+      "id": "49744268",
+      "title": "Zuckerberg on Slowing Down AI",
+      "url": "https://twitter.com/finkd/status/2099997096896274533",
+      "summary": "Last month I wrote about how we can build a positive and safe future for everyone: https://t.co/eoLGVY8yad Every lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens. The reality is: - Peo…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-17T17:54:39Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "CGMthrowaway",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Last month I wrote about how we can build a positive and safe future for everyone: https://t.co/eoLGVY8yad Every lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens. The reality is: - Peo…",
+      "author_name": "CGMthrowaway"
+    },
+    {
+      "id": "49744126",
+      "title": "The Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-17T17:45:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "surprisetalk",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "author_name": "surprisetalk"
+    },
+    {
+      "id": "49741627",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple&#039;s repeatedly delayed Siri AI to OpenAI&#039;s messy &quot;super app&quot; launch, here&#039;s a look at the AI projects that shut down or missed expectations.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-17T14:47:39Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "gmays",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "From Apple&#039;s repeatedly delayed Siri AI to OpenAI&#039;s messy &quot;super app&quot; launch, here&#039;s a look at the AI projects that shut down or missed expectations.",
+      "author_name": "gmays"
+    },
+    {
+      "id": "49740487",
+      "title": "What Stripe data shows about fraud at AI startups",
+      "url": "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
+      "summary": "Here’s a closer look at what our data shows about attempted fraud and multi-account abuse rates at AI companies and how Stripe Radar, our AI-powered fraud prevention product, can help businesses stay ahead of changing fraud patterns.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-17T13:28:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "torutofu",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Here’s a closer look at what our data shows about attempted fraud and multi-account abuse rates at AI companies and how Stripe Radar, our AI-powered fraud prevention product, can help businesses stay ahead of changing fraud patterns.",
+      "author_name": "torutofu"
     },
     {
       "id": "49739884",
@@ -135,9 +255,9 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 18,
       "author": "soltanov",
-      "likes": 1,
+      "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "Sept 16 (Reuters) - Microsoft AI chief Mustafa Suleyman said he shared Anthropic&#x27;s focus on safely managing AI, but ‌flagged risks in the way it trains its Claude chatbot ‌on ideas related to consciou...",
@@ -158,90 +278,10 @@
       "score": 17,
       "author": "taubek",
       "likes": 2,
-      "views": 1,
+      "views": 2,
       "retweets": 0,
       "text": "Today, we’re releasing Kalypta, the first app to block AI notetakers in your meetings. Granola? Wisprflow? Cluely? No more. With Kalypta, you become inaudible to AI. Your call continues normally.",
       "author_name": "taubek"
-    },
-    {
-      "id": "49739318",
-      "title": "AI models need more data about biology, and OpenAI is paying",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safe…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T11:38:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "fuzzfactor",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safe…",
-      "author_name": "fuzzfactor"
-    },
-    {
-      "id": "49739190",
-      "title": "Startup's next teammate might be an AI agent",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "summary": "Your startup’s next teammate might be an AI agent. Gusto, Insight Partners, and Leland explain at TechCrunch Disrupt 2026. Register to save up to $200.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T11:23:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "soltanov",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Your startup’s next teammate might be an AI agent. Gusto, Insight Partners, and Leland explain at TechCrunch Disrupt 2026. Register to save up to $200.",
-      "author_name": "soltanov"
-    },
-    {
-      "id": "49738916",
-      "title": "OpenAI admits its agents went off the rails another six times",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016",
-      "summary": "Startup says it’s learned from these mistakes and that they shouldn’t happen again … which is just what Zuck has said about 100 times",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T10:47:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "Lio",
-      "likes": 3,
-      "views": 3,
-      "retweets": 0,
-      "text": "Startup says it’s learned from these mistakes and that they shouldn’t happen again … which is just what Zuck has said about 100 times",
-      "author_name": "Lio"
-    },
-    {
-      "id": "49738409",
-      "title": "Anthropic's Thariq Shihipar: MCPs are better than CLIs for most integrations",
-      "url": "https://twitter.com/trq212/status/2099958388230873165",
-      "summary": "I was not expecting things to go this way, but I think MCPs are better than CLIs for most integrations. The models have gotten much better at tool calling, we can defer tools &amp; MCP is now stateless. If you need to compose/filter data, add params like query to your MCP tools.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T09:42:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "colesantiago",
-      "likes": 2,
-      "views": 2,
-      "retweets": 0,
-      "text": "I was not expecting things to go this way, but I think MCPs are better than CLIs for most integrations. The models have gotten much better at tool calling, we can defer tools &amp; MCP is now stateless. If you need to compose/filter data, add params like query to your MCP tools.",
-      "author_name": "colesantiago"
     },
     {
       "id": "49738279",
@@ -255,133 +295,13 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 20,
       "author": "geox",
-      "likes": 3,
+      "likes": 4,
       "views": 0,
       "retweets": 0,
       "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
       "author_name": "geox"
-    },
-    {
-      "id": "49737638",
-      "title": "OpenAI reveals cases of 'concerning' AI behaviour as it announces new ... system",
-      "url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
-      "summary": "Model adopting &#x2018;jailbreak-like instructions&#x2019; among cases as firm says it is introducing new way of tracking AI misalignment",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T07:41:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "chrisjj",
-      "likes": 4,
-      "views": 2,
-      "retweets": 0,
-      "text": "Model adopting &#x2018;jailbreak-like instructions&#x2019; among cases as firm says it is introducing new way of tracking AI misalignment",
-      "author_name": "chrisjj"
-    },
-    {
-      "id": "49737075",
-      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o",
-      "summary": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or &quot;misalignment&quot;.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T06:22:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "dr_scully",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or &quot;misalignment&quot;.",
-      "author_name": "dr_scully"
-    },
-    {
-      "id": "49735351",
-      "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
-      "url": "https://nypost.com/2026/09/14/business/big-short-trader-michael-burry-slams-openai-anthropic-for-self-serving-calls-to-slow-ai/",
-      "summary": "Burry joins a chorus of tech bigwigs including David Sacks and Bill Gurley panning the so-called AI fearmongering sweeping Silicon Valley.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T01:30:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "nsagent",
-      "likes": 18,
-      "views": 0,
-      "retweets": 0,
-      "text": "Burry joins a chorus of tech bigwigs including David Sacks and Bill Gurley panning the so-called AI fearmongering sweeping Silicon Valley.",
-      "author_name": "nsagent"
-    },
-    {
-      "id": "49733794",
-      "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
-      "url": "https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
-      "summary": "The deal underscores a broader push by drugmakers to integrate AI across research and development to boost new drug discovery.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-16T22:16:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "billybuckwheat",
-      "likes": 9,
-      "views": 1,
-      "retweets": 0,
-      "text": "The deal underscores a broader push by drugmakers to integrate AI across research and development to boost new drug discovery.",
-      "author_name": "billybuckwheat"
-    },
-    {
-      "id": "49733257",
-      "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
-      "url": "https://twitter.com/markgurman/status/2100252758859489391",
-      "summary": "I believe this could be the M7 Ultra (unless Apple is doing M8 Ultra simultaneously) - I wrote a few months ago Apple is working on a new AI server to compete with Nvidia built around M7 for 2029. There’s also a new Apple AI server going live early 2027. https://t.co/gvtWMBvm0m",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-16T21:27:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 24,
-      "author": "alwillis",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "I believe this could be the M7 Ultra (unless Apple is doing M8 Ultra simultaneously) - I wrote a few months ago Apple is working on a new AI server to compete with Nvidia built around M7 for 2029. There’s also a new Apple AI server going live early 2027. https://t.co/gvtWMBvm0m",
-      "author_name": "alwillis"
-    },
-    {
-      "id": "49731235",
-      "title": "Berlin-based Langdock moves its parent company from the US to Germany",
-      "url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
-      "summary": "In a highly unusual move, fast-growing German AI start-up Langdock has moved its legal headquarters from the US to Germany as it seeks to become a &quot;European hyperscaler&quot;.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-16T18:45:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 67,
-      "author": "jethronethro",
-      "likes": 53,
-      "views": 20,
-      "retweets": 0,
-      "text": "In a highly unusual move, fast-growing German AI start-up Langdock has moved its legal headquarters from the US to Germany as it seeks to become a &quot;European hyperscaler&quot;.",
-      "author_name": "jethronethro"
     },
     {
       "id": "49729492",
@@ -402,6 +322,26 @@
       "retweets": 0,
       "text": "We hijacked the agents inside Gemini Live in Chrome, Microsoft Edge, Opera Neon, Perplexity Comet, and Claude in Chrome - using one single extension",
       "author_name": "galwm"
+    },
+    {
+      "id": "49701585",
+      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
+      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-14T18:25:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "wslh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "wslh"
     }
   ]
 }
