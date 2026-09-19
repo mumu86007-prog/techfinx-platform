@@ -1,8 +1,148 @@
 {
-  "version": "2026-09-19T12:25:07.532Z",
-  "generatedAt": "2026-09-19T12:25:07.532Z",
+  "version": "2026-09-19T16:20:46.372Z",
+  "generatedAt": "2026-09-19T16:20:46.373Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "49767647",
+      "title": "AI is just another programming tool",
+      "url": "https://norsewanderer.com/blog/blog1.html",
+      "summary": "Norse Wanderer BBS Blog — Entry 1: AI Is Just Another Programming Tool. Notes on AI-assisted programming from someone who",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T16:03:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "mheilemann",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Norse Wanderer BBS Blog — Entry 1: AI Is Just Another Programming Tool. Notes on AI-assisted programming from someone who",
+      "author_name": "mheilemann"
+    },
+    {
+      "id": "49767625",
+      "title": "Lemmings: Russian Persona Provisioning and Management for Active Measures",
+      "url": "https://dti.domaintools.com/research/lemmings-russian-persona-provisioning",
+      "summary": "DomainTools Investigations | Lemmings: A Russian Industrialized Persona Provisioning And Management for Active Measures Campaigns",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T15:59:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "dmarto",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "DomainTools Investigations | Lemmings: A Russian Industrialized Persona Provisioning And Management for Active Measures Campaigns",
+      "author_name": "dmarto"
+    },
+    {
+      "id": "49767480",
+      "title": "Four AI lab breaches were caused by a single underlying issue, Irregular says",
+      "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+      "summary": "Irregular says the breaches at Google, OpenAI, Anthropic and Meta were one issue. It told them in late July. They disclosed separately.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T15:43:32Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "wickedwiesel",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Irregular says the breaches at Google, OpenAI, Anthropic and Meta were one issue. It told them in late July. They disclosed separately.",
+      "author_name": "wickedwiesel"
+    },
+    {
+      "id": "49767080",
+      "title": "The Doomsday Cult Inside OpenAI – Patrick Boyle [video]",
+      "url": "https://www.youtube.com/watch?v=luXnftoxCaM",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T14:57:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "Topfi",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "Topfi"
+    },
+    {
+      "id": "49767068",
+      "title": "Certify the Conversation, Not Just the AI Agent",
+      "url": "https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent",
+      "summary": "What shipped in Multisynapse this month, and why each piece points the same direction: the unit you certify is getting bigger, and the evidence behind it is getting more specific.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T14:55:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "jequals5",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "What shipped in Multisynapse this month, and why each piece points the same direction: the unit you certify is getting bigger, and the evidence behind it is getting more specific.",
+      "author_name": "jequals5"
+    },
+    {
+      "id": "49766999",
+      "title": "AI Made Delegation Easy: Structure Is Still the Skill",
+      "url": "https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill",
+      "summary": "AI made delegating easy. It didn&#x27;t make planning less necessary, it just removed the friction that used to force it. Structure is the skill now.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T14:47:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "andychiare",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI made delegating easy. It didn&#x27;t make planning less necessary, it just removed the friction that used to force it. Structure is the skill now.",
+      "author_name": "andychiare"
+    },
+    {
+      "id": "49766011",
+      "title": "AI companies sued for \"colluding\" to slow down",
+      "url": "https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit",
+      "summary": "Anthropic PBC, OpenAI OPCO LLC, SpaceXAI, and Google LLC made an illegal deal to collectively slow the pace of AI development, according to a new lawsuit, depriving paying subscribers of product improvements they were promised.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T12:27:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "trippy",
+      "likes": 2,
+      "views": 5,
+      "retweets": 0,
+      "text": "Anthropic PBC, OpenAI OPCO LLC, SpaceXAI, and Google LLC made an illegal deal to collectively slow the pace of AI development, according to a new lawsuit, depriving paying subscribers of product improvements they were promised.",
+      "author_name": "trippy"
+    },
     {
       "id": "49765938",
       "title": "Programmable Photonic Circuits: Flexible light manipulation on IC's (2020) [pdf]",
@@ -24,86 +164,6 @@
       "author_name": "peter_d_sherman"
     },
     {
-      "id": "49765823",
-      "title": "Don't treat surface-level AI metaphors as if they describe fundamental reality",
-      "url": "https://blog.andymasley.com/p/dont-treat-surface-level-metaphors",
-      "summary": "Debates about whether AI is a “tool” or whether it’s wrong to “anthropomorphize” it often seem confused about what reality is made of",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T11:59:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "bananaflag",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Debates about whether AI is a “tool” or whether it’s wrong to “anthropomorphize” it often seem confused about what reality is made of",
-      "author_name": "bananaflag"
-    },
-    {
-      "id": "49765764",
-      "title": "Sunshine coast airport floor tiling pattern inspired hardest problem of IMO 2025",
-      "url": "https://petermc.net/blog/2025/07/21/imo-2025/",
-      "summary": "I went to this year&#8217;s IMO (no not as a contestant, I&#8217;m ineligible) on the Sunshine Coast. I have to lead with this image, which is the pattern of tiles on the floor at the Sunshine Coas…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T11:50:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "vismit2000",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I went to this year&#8217;s IMO (no not as a contestant, I&#8217;m ineligible) on the Sunshine Coast. I have to lead with this image, which is the pattern of tiles on the floor at the Sunshine Coas…",
-      "author_name": "vismit2000"
-    },
-    {
-      "id": "49765748",
-      "title": "How to classify, route, and score with Jev and AI SDK",
-      "url": "https://vercel.com/kb/guide/typesafe-jev-and-ai-sdk",
-      "summary": "Use Jev from TypeSafe AI with AI SDK&#x27;s experimental `evaluate` API to classify, route, score, and verify inside your application. Jev returns typed choices, scores, and boolean probabilities through AI Gateway.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T11:47:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "flashbrew",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Use Jev from TypeSafe AI with AI SDK&#x27;s experimental `evaluate` API to classify, route, score, and verify inside your application. Jev returns typed choices, scores, and boolean probabilities through AI Gateway.",
-      "author_name": "flashbrew"
-    },
-    {
-      "id": "49765253",
-      "title": "How to Limit What Apple's New Siri AI Can Access in iOS 27",
-      "url": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
-      "summary": "Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name suggests, this Siri power-up resembles an AI chatbot more than the often derided voice assistant you might be used to. It has even evolved from a blob you...",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T10:33:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "DeepLogin",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name suggests, this Siri power-up resembles an AI chatbot more than the often derided voice assistant you might be used to. It has even evolved from a blob you...",
-      "author_name": "DeepLogin"
-    },
-    {
       "id": "49764030",
       "title": "Claude couldn't hack OpenAI. Then Anthropic shipped Opus 5",
       "url": "https://thenewstack.io/claude-exploits-openai-forum/",
@@ -115,9 +175,9 @@
         "AI",
         "科技"
       ],
-      "score": 27,
+      "score": 28,
       "author": "stared",
-      "likes": 11,
+      "likes": 12,
       "views": 1,
       "retweets": 0,
       "text": "Security researchers used Claude Opus 5 to chain two vulnerabilities into a path from a forum image upload to OpenAI&#039;s internal GitHub repository in under 72 hours.",
@@ -142,46 +202,6 @@
       "retweets": 0,
       "text": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
       "author_name": "joeguilmette"
-    },
-    {
-      "id": "49763660",
-      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-      "url": "https://artificialanalysis.ai/models/step-5",
-      "summary": "Analysis of StepFun&#x27;s Step 5 Preview and comparison to other AI models across key metrics including quality, price, performance (tokens per second & time to first token), context window & more.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T05:42:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 25,
-      "author": "AnodicElegy",
-      "likes": 11,
-      "views": 2,
-      "retweets": 0,
-      "text": "Analysis of StepFun&#x27;s Step 5 Preview and comparison to other AI models across key metrics including quality, price, performance (tokens per second & time to first token), context window & more.",
-      "author_name": "AnodicElegy"
-    },
-    {
-      "id": "49761885",
-      "title": "AI insiders issue new warnings – including former Anthropic engineer Jacob Coxon",
-      "url": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
-      "summary": "Neither OpenAI or Anthropic is acting responsibly, warned AI researcher Jacob Coxon when resigning last week from Anthropic. But just hours earlier, OpenAI VP of Research Aidan Clark had posted &#34;For the first time, I am asking myself if things are moving too fast. I",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T00:01:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "MilnerRoute",
-      "likes": 2,
-      "views": 2,
-      "retweets": 0,
-      "text": "Neither OpenAI or Anthropic is acting responsibly, warned AI researcher Jacob Coxon when resigning last week from Anthropic. But just hours earlier, OpenAI VP of Research Aidan Clark had posted &#34;For the first time, I am asking myself if things are moving too fast. I",
-      "author_name": "MilnerRoute"
     },
     {
       "id": "49759739",
@@ -242,26 +262,6 @@
       "retweets": 0,
       "text": "Disney CEO Josh D&#039;Amaro hired Karandeep Anand, ex-CEO of Character.AI and former Facebook and Microsoft exec, as its first chief technology officer.",
       "author_name": "chauzer"
-    },
-    {
-      "id": "49752908",
-      "title": "What Enters Through an Image: The Blind Spot in AI Security Nobody Is Detecting",
-      "url": "https://www.cybersecurity-insiders.com/what-enters-through-an-image-the-blind-spot-in-ai-security-nobody-is-detecting/",
-      "summary": "Stay ahead in cybersecurity with insights on cyber attacks, data breaches, identity fraud, insider threats, news, reports, webinars, and security resources.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-18T11:37:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "dk-gil",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Stay ahead in cybersecurity with insights on cyber attacks, data breaches, identity fraud, insider threats, news, reports, webinars, and security resources.",
-      "author_name": "dk-gil"
     },
     {
       "id": "49746604",
