@@ -1,27 +1,187 @@
 {
-  "version": "2026-09-19T16:20:46.372Z",
-  "generatedAt": "2026-09-19T16:20:46.373Z",
+  "version": "2026-09-19T21:23:28.337Z",
+  "generatedAt": "2026-09-19T21:23:28.337Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49767647",
-      "title": "AI is just another programming tool",
-      "url": "https://norsewanderer.com/blog/blog1.html",
-      "summary": "Norse Wanderer BBS Blog — Entry 1: AI Is Just Another Programming Tool. Notes on AI-assisted programming from someone who",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T16:03:19Z",
+      "id": "49770179",
+      "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
+      "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+      "summary": "President Trump said he will not &quot;hinder or stifle&quot; AI development after some leaders of frontier AI labs called for US government regulation.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-19T21:14:17Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "mheilemann",
+      "score": 17,
+      "author": "berkeleyjunk",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "President Trump said he will not &quot;hinder or stifle&quot; AI development after some leaders of frontier AI labs called for US government regulation.",
+      "author_name": "berkeleyjunk"
+    },
+    {
+      "id": "49770070",
+      "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
+      "url": "https://github.com/xanpavle/rocmfix",
+      "summary": "Auto-detect AMD GPUs on Windows/Linux and instantly get the correct HSA_OVERRIDE_GFX_VERSION for local AI (ROCm/HIP). - xanpavle/rocmfix",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T20:57:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "Xanpavle",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Norse Wanderer BBS Blog — Entry 1: AI Is Just Another Programming Tool. Notes on AI-assisted programming from someone who",
-      "author_name": "mheilemann"
+      "text": "Auto-detect AMD GPUs on Windows/Linux and instantly get the correct HSA_OVERRIDE_GFX_VERSION for local AI (ROCm/HIP). - xanpavle/rocmfix",
+      "author_name": "Xanpavle"
+    },
+    {
+      "id": "49769802",
+      "title": "JustBot – a Grok-Bot-style AI assistant at ~1/10th the token cost",
+      "url": "https://justbot.co",
+      "summary": "A Grok Bot alternative at roughly one-tenth of the token cost. Each bot gets its own computer and logs into your apps like a person would. From $10/mo.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T20:20:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "bernardohcr",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A Grok Bot alternative at roughly one-tenth of the token cost. Each bot gets its own computer and logs into your apps like a person would. From $10/mo.",
+      "author_name": "bernardohcr"
+    },
+    {
+      "id": "49769737",
+      "title": "AI Actress interviewed by Piers Morgan [video]",
+      "url": "https://www.youtube.com/watch?v=x4yyBWkYSHs",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T20:10:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "pier25",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "pier25"
+    },
+    {
+      "id": "49769668",
+      "title": "OpenAI and Anthropic oversold AI security breaches",
+      "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+      "summary": "Insiders accuse OpenAI and Anthropic of exaggerating &quot;rogue AI&quot; hacks, like the Hugging Face breach, to lobby for market-blocking regulations.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T19:59:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 43,
+      "author": "hei-lima",
+      "likes": 27,
+      "views": 10,
+      "retweets": 0,
+      "text": "Insiders accuse OpenAI and Anthropic of exaggerating &quot;rogue AI&quot; hacks, like the Hugging Face breach, to lobby for market-blocking regulations.",
+      "author_name": "hei-lima"
+    },
+    {
+      "id": "49769543",
+      "title": "Detecting and mitigating a multi-stage AiTM phishing and BEC campaign (2023)",
+      "url": "https://www.microsoft.com/en-us/security/blog/2023/06/08/detecting-and-mitigating-a-multi-stage-aitm-phishing-and-bec-campaign/",
+      "summary": "A multi-stage adversary-in-the-middle (AiTM) and business email compromise (BEC) attack targets banking and financial services organizations.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-19T19:41:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "colinprince",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "A multi-stage adversary-in-the-middle (AiTM) and business email compromise (BEC) attack targets banking and financial services organizations.",
+      "author_name": "colinprince"
+    },
+    {
+      "id": "49769207",
+      "title": "The lucrative business of reactionary AI-generated posts on Facebook",
+      "url": "https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html",
+      "summary": "Pages based in Sri Lanka, Vietnam or Venezuela are targeting French audiences with political content generated by artificial intelligence and often supportive of the far right – with profit as the goal.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T18:53:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "geox",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Pages based in Sri Lanka, Vietnam or Venezuela are targeting French audiences with political content generated by artificial intelligence and often supportive of the far right – with profit as the goal.",
+      "author_name": "geox"
+    },
+    {
+      "id": "49768108",
+      "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",
+      "url": "https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html",
+      "summary": "Anthropic CEO acknowledged potential antitrust hurdles, writing that it would assist if the US government were to mediate ‘or at least enable’ cross-lab discussions",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T16:51:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "mdp2021",
+      "likes": 16,
+      "views": 1,
+      "retweets": 0,
+      "text": "Anthropic CEO acknowledged potential antitrust hurdles, writing that it would assist if the US government were to mediate ‘or at least enable’ cross-lab discussions",
+      "author_name": "mdp2021"
+    },
+    {
+      "id": "49767987",
+      "title": "In 2024 I fine-tuned an LLM. Jev could have removed the side quests",
+      "url": "https://kasra.blog/blog/classification-and-jev/",
+      "summary": "What text classification is, how I filtered 120,633 Reddit comments the hard way, and what one Jev pass over the same data looks like.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T16:39:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "jc4p",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "What text classification is, how I filtered 120,633 Reddit comments the hard way, and what one Jev pass over the same data looks like.",
+      "author_name": "jc4p"
     },
     {
       "id": "49767625",
@@ -35,33 +195,13 @@
         "AI",
         "科技"
       ],
-      "score": 16,
+      "score": 18,
       "author": "dmarto",
-      "likes": 2,
+      "likes": 4,
       "views": 0,
       "retweets": 0,
       "text": "DomainTools Investigations | Lemmings: A Russian Industrialized Persona Provisioning And Management for Active Measures Campaigns",
       "author_name": "dmarto"
-    },
-    {
-      "id": "49767480",
-      "title": "Four AI lab breaches were caused by a single underlying issue, Irregular says",
-      "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
-      "summary": "Irregular says the breaches at Google, OpenAI, Anthropic and Meta were one issue. It told them in late July. They disclosed separately.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T15:43:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "wickedwiesel",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Irregular says the breaches at Google, OpenAI, Anthropic and Meta were one issue. It told them in late July. They disclosed separately.",
-      "author_name": "wickedwiesel"
     },
     {
       "id": "49767080",
@@ -75,53 +215,13 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 19,
       "author": "Topfi",
-      "likes": 4,
+      "likes": 5,
       "views": 0,
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "author_name": "Topfi"
-    },
-    {
-      "id": "49767068",
-      "title": "Certify the Conversation, Not Just the AI Agent",
-      "url": "https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent",
-      "summary": "What shipped in Multisynapse this month, and why each piece points the same direction: the unit you certify is getting bigger, and the evidence behind it is getting more specific.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T14:55:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "jequals5",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "What shipped in Multisynapse this month, and why each piece points the same direction: the unit you certify is getting bigger, and the evidence behind it is getting more specific.",
-      "author_name": "jequals5"
-    },
-    {
-      "id": "49766999",
-      "title": "AI Made Delegation Easy: Structure Is Still the Skill",
-      "url": "https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill",
-      "summary": "AI made delegating easy. It didn&#x27;t make planning less necessary, it just removed the friction that used to force it. Structure is the skill now.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T14:47:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "andychiare",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI made delegating easy. It didn&#x27;t make planning less necessary, it just removed the friction that used to force it. Structure is the skill now.",
-      "author_name": "andychiare"
     },
     {
       "id": "49766011",
@@ -162,46 +262,6 @@
       "retweets": 0,
       "text": "%PDF-1.4 %���� 1 0 obj >stream x��Z��� ��?~�iՎ-!t7Y�vށ�\u0014�n\u0012\b\u0004��\u00182dȐ!C�|E��o�i��o��& �8/�[��\u0004p\u0006�a��3�����A��Ped;\u0002��\u001aP�GLz ��\u0015%���\u0003\u00017S �����x�ai�/&����m;��P�� �aW��\u0018�\u000f�d�\u0014�Xk�\u0004_7`�O{D�64A��ʢ��y�`p��?�����G\u0010\u0016��z�\u001a�4 W����љ�g�r���\"\u0000B)�)T�5�R�R\u0003x��\u0016첶��t&�\u0004t\u001e\u001d\u0007ꚙ���\u0014� ΝDn��D8�z�կ����'|�z����!^�M��A�*>�\u000e�V�& Y��$WP���5�.�\u0011� ��…",
       "author_name": "peter_d_sherman"
-    },
-    {
-      "id": "49764030",
-      "title": "Claude couldn't hack OpenAI. Then Anthropic shipped Opus 5",
-      "url": "https://thenewstack.io/claude-exploits-openai-forum/",
-      "summary": "Security researchers used Claude Opus 5 to chain two vulnerabilities into a path from a forum image upload to OpenAI&#039;s internal GitHub repository in under 72 hours.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T06:52:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 28,
-      "author": "stared",
-      "likes": 12,
-      "views": 1,
-      "retweets": 0,
-      "text": "Security researchers used Claude Opus 5 to chain two vulnerabilities into a path from a forum image upload to OpenAI&#039;s internal GitHub repository in under 72 hours.",
-      "author_name": "stared"
-    },
-    {
-      "id": "49763971",
-      "title": "Anthropic partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "summary": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T06:38:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 37,
-      "author": "joeguilmette",
-      "likes": 6,
-      "views": 3,
-      "retweets": 0,
-      "text": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
-      "author_name": "joeguilmette"
     },
     {
       "id": "49759739",
@@ -264,24 +324,24 @@
       "author_name": "chauzer"
     },
     {
-      "id": "49746604",
-      "title": "OpenAI Safety Guardrails: What to Test Before Trusting an AI Agent",
-      "url": "https://www.pentesty.co/blog/openai-safety-guardrails-ai-agent-security",
-      "summary": "What OpenAI’s six misalignment reports mean for AI agent security. A practical checklist for permissions, data exposure, oversight and penetration testing.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T21:11:32Z",
+      "id": "49752908",
+      "title": "What Enters Through an Image: The Blind Spot in AI Security Nobody Is Detecting",
+      "url": "https://www.cybersecurity-insiders.com/what-enters-through-an-image-the-blind-spot-in-ai-security-nobody-is-detecting/",
+      "summary": "Stay ahead in cybersecurity with insights on cyber attacks, data breaches, identity fraud, insider threats, news, reports, webinars, and security resources.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-18T11:37:54Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "josanjohnata",
-      "likes": 2,
+      "score": 17,
+      "author": "dk-gil",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "What OpenAI’s six misalignment reports mean for AI agent security. A practical checklist for permissions, data exposure, oversight and penetration testing.",
-      "author_name": "josanjohnata"
+      "text": "Stay ahead in cybersecurity with insights on cyber attacks, data breaches, identity fraud, insider threats, news, reports, webinars, and security resources.",
+      "author_name": "dk-gil"
     },
     {
       "id": "49701585",
