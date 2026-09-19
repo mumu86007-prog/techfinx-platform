@@ -1,87 +1,187 @@
 {
-  "version": "2026-09-18T21:33:49.345Z",
-  "generatedAt": "2026-09-18T21:33:49.345Z",
+  "version": "2026-09-19T12:25:07.532Z",
+  "generatedAt": "2026-09-19T12:25:07.532Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49760198",
-      "title": "Meta Muse Hits #1 in Apple App Store",
-      "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-top-app-store-charts-2026-9",
-      "summary": "Meta&#x27;s personal AI agent Muse has reached No. 1 on Apple&#x27;s US App Store as AI agents begin moving into the consumer mainstream.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T21:01:10Z",
+      "id": "49765938",
+      "title": "Programmable Photonic Circuits: Flexible light manipulation on IC's (2020) [pdf]",
+      "url": "https://www.photonics.intec.ugent.be/download/pub_4605.pdf",
+      "summary": "%PDF-1.4 %���� 1 0 obj >stream x��Z��� ��?~�iՎ-!t7Y�vށ�\u0014�n\u0012\b\u0004��\u00182dȐ!C�|E��o�i��o��& �8/�[��\u0004p\u0006�a��3�����A��Ped;\u0002��\u001aP�GLz ��\u0015%���\u0003\u00017S �����x�ai�/&����m;��P�� �aW��\u0018�\u000f�d�\u0014�Xk�\u0004_7`�O{D�64A��ʢ��y�`p��?�����G\u0010\u0016��z�\u001a�4 W����љ�g�r���\"\u0000B)�)T�5�R�R\u0003x��\u0016첶��t&�\u0004t\u001e\u001d\u0007ꚙ���\u0014� ΝDn��D8�z�կ����'|�z����!^�M��A�*>�\u000e�V�& Y��$WP���5�.�\u0011� ��…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T12:17:01Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "pizzathyme",
-      "likes": 3,
+      "author": "peter_d_sherman",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Meta&#x27;s personal AI agent Muse has reached No. 1 on Apple&#x27;s US App Store as AI agents begin moving into the consumer mainstream.",
-      "author_name": "pizzathyme"
+      "text": "%PDF-1.4 %���� 1 0 obj >stream x��Z��� ��?~�iՎ-!t7Y�vށ�\u0014�n\u0012\b\u0004��\u00182dȐ!C�|E��o�i��o��& �8/�[��\u0004p\u0006�a��3�����A��Ped;\u0002��\u001aP�GLz ��\u0015%���\u0003\u00017S �����x�ai�/&����m;��P�� �aW��\u0018�\u000f�d�\u0014�Xk�\u0004_7`�O{D�64A��ʢ��y�`p��?�����G\u0010\u0016��z�\u001a�4 W����љ�g�r���\"\u0000B)�)T�5�R�R\u0003x��\u0016첶��t&�\u0004t\u001e\u001d\u0007ꚙ���\u0014� ΝDn��D8�z�կ����'|�z����!^�M��A�*>�\u000e�V�& Y��$WP���5�.�\u0011� ��…",
+      "author_name": "peter_d_sherman"
     },
     {
-      "id": "49760186",
-      "title": "Your 401(k) Is Propping Up the AI Bubble",
-      "url": "https://www.promarket.org/2026/05/05/your-401k-is-propping-up-the-ai-bubble/",
-      "summary": "Americans’ retirement savings are disproportionately tied to the dozen Big Tech firms that now dominate the S&P. This makes any intervention into regulating Big Tech that risks devaluing them politically difficult, writes Hera Hyeonseo Lee.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-18T21:00:23Z",
+      "id": "49765823",
+      "title": "Don't treat surface-level AI metaphors as if they describe fundamental reality",
+      "url": "https://blog.andymasley.com/p/dont-treat-surface-level-metaphors",
+      "summary": "Debates about whether AI is a “tool” or whether it’s wrong to “anthropomorphize” it often seem confused about what reality is made of",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T11:59:44Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 20,
-      "author": "paimapi",
-      "likes": 2,
+      "score": 18,
+      "author": "bananaflag",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Americans’ retirement savings are disproportionately tied to the dozen Big Tech firms that now dominate the S&P. This makes any intervention into regulating Big Tech that risks devaluing them politically difficult, writes Hera Hyeonseo Lee.",
-      "author_name": "paimapi"
+      "text": "Debates about whether AI is a “tool” or whether it’s wrong to “anthropomorphize” it often seem confused about what reality is made of",
+      "author_name": "bananaflag"
     },
     {
-      "id": "49759900",
-      "title": "California governor signs order to explore AI kill switch",
-      "url": "https://techxplore.com/news/2026-09-california-governor-explore-ai.html",
-      "summary": "California Gov. Gavin Newsom signed an executive order Friday directing state officials to explore the feasibility of imposing a mandatory &quot;kill switch&quot; for the most advanced AI models.",
+      "id": "49765764",
+      "title": "Sunshine coast airport floor tiling pattern inspired hardest problem of IMO 2025",
+      "url": "https://petermc.net/blog/2025/07/21/imo-2025/",
+      "summary": "I went to this year&#8217;s IMO (no not as a contestant, I&#8217;m ineligible) on the Sunshine Coast. I have to lead with this image, which is the pattern of tiles on the floor at the Sunshine Coas…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T11:50:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "vismit2000",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I went to this year&#8217;s IMO (no not as a contestant, I&#8217;m ineligible) on the Sunshine Coast. I have to lead with this image, which is the pattern of tiles on the floor at the Sunshine Coas…",
+      "author_name": "vismit2000"
+    },
+    {
+      "id": "49765748",
+      "title": "How to classify, route, and score with Jev and AI SDK",
+      "url": "https://vercel.com/kb/guide/typesafe-jev-and-ai-sdk",
+      "summary": "Use Jev from TypeSafe AI with AI SDK&#x27;s experimental `evaluate` API to classify, route, score, and verify inside your application. Jev returns typed choices, scores, and boolean probabilities through AI Gateway.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T11:47:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "flashbrew",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Use Jev from TypeSafe AI with AI SDK&#x27;s experimental `evaluate` API to classify, route, score, and verify inside your application. Jev returns typed choices, scores, and boolean probabilities through AI Gateway.",
+      "author_name": "flashbrew"
+    },
+    {
+      "id": "49765253",
+      "title": "How to Limit What Apple's New Siri AI Can Access in iOS 27",
+      "url": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
+      "summary": "Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name suggests, this Siri power-up resembles an AI chatbot more than the often derided voice assistant you might be used to. It has even evolved from a blob you...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-19T10:33:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "DeepLogin",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name suggests, this Siri power-up resembles an AI chatbot more than the often derided voice assistant you might be used to. It has even evolved from a blob you...",
+      "author_name": "DeepLogin"
+    },
+    {
+      "id": "49764030",
+      "title": "Claude couldn't hack OpenAI. Then Anthropic shipped Opus 5",
+      "url": "https://thenewstack.io/claude-exploits-openai-forum/",
+      "summary": "Security researchers used Claude Opus 5 to chain two vulnerabilities into a path from a forum image upload to OpenAI&#039;s internal GitHub repository in under 72 hours.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T20:34:16Z",
+      "publishedAt": "2026-09-19T06:52:44Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "mdp2021",
-      "likes": 2,
+      "score": 27,
+      "author": "stared",
+      "likes": 11,
       "views": 1,
       "retweets": 0,
-      "text": "California Gov. Gavin Newsom signed an executive order Friday directing state officials to explore the feasibility of imposing a mandatory &quot;kill switch&quot; for the most advanced AI models.",
-      "author_name": "mdp2021"
+      "text": "Security researchers used Claude Opus 5 to chain two vulnerabilities into a path from a forum image upload to OpenAI&#039;s internal GitHub repository in under 72 hours.",
+      "author_name": "stared"
     },
     {
-      "id": "49759808",
-      "title": "AI Error Nearly Triggered U.S. Intercept of Chinese Ship",
-      "url": "https://gcaptain.com/ai-error-nearly-triggered-u-s-intercept-of-chinese-ship-cnn-reports/",
-      "summary": "A false intelligence report produced with the help of artificial intelligence nearly led the U.S. military to intercept and board a Chinese ship in the Middle East during the war...",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-18T20:27:59Z",
+      "id": "49763971",
+      "title": "Anthropic partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T06:38:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "gumby",
-      "likes": 3,
+      "score": 37,
+      "author": "joeguilmette",
+      "likes": 6,
       "views": 3,
       "retweets": 0,
-      "text": "A false intelligence report produced with the help of artificial intelligence nearly led the U.S. military to intercept and board a Chinese ship in the Middle East during the war...",
-      "author_name": "gumby"
+      "text": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+      "author_name": "joeguilmette"
+    },
+    {
+      "id": "49763660",
+      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "summary": "Analysis of StepFun&#x27;s Step 5 Preview and comparison to other AI models across key metrics including quality, price, performance (tokens per second & time to first token), context window & more.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T05:42:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 25,
+      "author": "AnodicElegy",
+      "likes": 11,
+      "views": 2,
+      "retweets": 0,
+      "text": "Analysis of StepFun&#x27;s Step 5 Preview and comparison to other AI models across key metrics including quality, price, performance (tokens per second & time to first token), context window & more.",
+      "author_name": "AnodicElegy"
+    },
+    {
+      "id": "49761885",
+      "title": "AI insiders issue new warnings – including former Anthropic engineer Jacob Coxon",
+      "url": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
+      "summary": "Neither OpenAI or Anthropic is acting responsibly, warned AI researcher Jacob Coxon when resigning last week from Anthropic. But just hours earlier, OpenAI VP of Research Aidan Clark had posted &#34;For the first time, I am asking myself if things are moving too fast. I",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T00:01:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "MilnerRoute",
+      "likes": 2,
+      "views": 2,
+      "retweets": 0,
+      "text": "Neither OpenAI or Anthropic is acting responsibly, warned AI researcher Jacob Coxon when resigning last week from Anthropic. But just hours earlier, OpenAI VP of Research Aidan Clark had posted &#34;For the first time, I am asking myself if things are moving too fast. I",
+      "author_name": "MilnerRoute"
     },
     {
       "id": "49759739",
@@ -95,153 +195,13 @@
         "AI",
         "科技"
       ],
-      "score": 20,
+      "score": 21,
       "author": "DeepLogin",
-      "likes": 4,
+      "likes": 5,
       "views": 1,
       "retweets": 0,
       "text": "The most AI-exposed new college grads have initial employment declines of 5pp and earnings declines of 13%, partially driven by shifts to lower-paying sectors.",
       "author_name": "DeepLogin"
-    },
-    {
-      "id": "49759647",
-      "title": "Partnering with Accenture on Embedded Evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "summary": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T20:15:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "surprisetalk",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
-      "author_name": "surprisetalk"
-    },
-    {
-      "id": "49759627",
-      "title": "The last IMO problem AI could not solve [video]",
-      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-18T20:13:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "pykello",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "pykello"
-    },
-    {
-      "id": "49759501",
-      "title": "Uncle Bob Martin's UML Tool to Manage Grok AI Agents",
-      "url": "https://github.com/unclebob/uml-viewer",
-      "summary": "Live Quil UML class-diagram viewer driven by EDN. Contribute to unclebob/uml-viewer development by creating an account on GitHub.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T20:05:25Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "rmason",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Live Quil UML class-diagram viewer driven by EDN. Contribute to unclebob/uml-viewer development by creating an account on GitHub.",
-      "author_name": "rmason"
-    },
-    {
-      "id": "49759414",
-      "title": "Claude Code 2.1.277 adds support for AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/commit/a92ea1cdb11ad21f9d583fad2db181dfdac918a6",
-      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - mods/agents-md: the AGENTS.md project-instructions mod (#95409) · anthropics/…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T19:58:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "skwashd",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - mods/agents-md: the AGENTS.md project-instructions mod (#95409) · anthropics/…",
-      "author_name": "skwashd"
-    },
-    {
-      "id": "49759033",
-      "title": "Anthropic's new Claude Code feature could drain your plan before lunch",
-      "url": "https://thenewstack.io/claude-code-parallel-projects/",
-      "summary": "Anthropic redesigns Claude Code Projects around a coordinator that breaks engineering goals into parallel threads, adding shared memory and usage trade-offs.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T19:28:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Brajeshwar",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic redesigns Claude Code Projects around a coordinator that breaks engineering goals into parallel threads, adding shared memory and usage trade-offs.",
-      "author_name": "Brajeshwar"
-    },
-    {
-      "id": "49758250",
-      "title": "Anthropic finally adds AGENTS.md support to Claude Code",
-      "url": "https://twitter.com/trq212/status/2101009392611278961",
-      "summary": "We&#x27;re adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. You can toggle this behavior in /config.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T18:26:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 53,
-      "author": "deaux",
-      "likes": 38,
-      "views": 7,
-      "retweets": 0,
-      "text": "We&#x27;re adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. You can toggle this behavior in /config.",
-      "author_name": "deaux"
-    },
-    {
-      "id": "49758113",
-      "title": "Anthropic builds wet lab for AI-driven drug discovery",
-      "url": "https://qz.com/anthropic-biology-wet-lab-ai-drug-research-091826",
-      "summary": "The AI startup confirmed it has set up a Bay Area lab for physical experiments as it pursues drug programs in diseases pharma has overlooked",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T18:15:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "A_D_E_P_T",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "The AI startup confirmed it has set up a Bay Area lab for physical experiments as it pursues drug programs in diseases pharma has overlooked",
-      "author_name": "A_D_E_P_T"
     },
     {
       "id": "49757971",
@@ -284,50 +244,10 @@
       "author_name": "chauzer"
     },
     {
-      "id": "49755468",
-      "title": "OpenAI 'ethically hacked' with help of Anthropic's Claude chatbot",
-      "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
-      "summary": "US cybersecurity researchers who conducted hack say &#x2018;scope of what we could theoretically access was huge&#x2019;",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T15:07:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 26,
-      "author": "sbulaev",
-      "likes": 12,
-      "views": 2,
-      "retweets": 0,
-      "text": "US cybersecurity researchers who conducted hack say &#x2018;scope of what we could theoretically access was huge&#x2019;",
-      "author_name": "sbulaev"
-    },
-    {
-      "id": "49754831",
-      "title": "OpenAI's latest AI revelation is a 'serious situation,' says Microsoft",
-      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-      "summary": "Suleyman joined &quot;Squawk Box&quot; to discuss OpenAI&#x27;s latest incidents of &quot;concerning model behavior&quot; disclosed earlier this week.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-18T14:21:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "cramer4next",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Suleyman joined &quot;Squawk Box&quot; to discuss OpenAI&#x27;s latest incidents of &quot;concerning model behavior&quot; disclosed earlier this week.",
-      "author_name": "cramer4next"
-    },
-    {
       "id": "49752908",
       "title": "What Enters Through an Image: The Blind Spot in AI Security Nobody Is Detecting",
       "url": "https://www.cybersecurity-insiders.com/what-enters-through-an-image-the-blind-spot-in-ai-security-nobody-is-detecting/",
-      "summary": "AI is evolving at a rapid pace, and the uptake of Generative AI (GenAI) is revolutionising the way humans interact and leverage this technology. GenAI is",
+      "summary": "Stay ahead in cybersecurity with insights on cyber attacks, data breaches, identity fraud, insider threats, news, reports, webinars, and security resources.",
       "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
       "publishedAt": "2026-09-18T11:37:54Z",
       "source": "Hacker News",
@@ -340,28 +260,8 @@
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "AI is evolving at a rapid pace, and the uptake of Generative AI (GenAI) is revolutionising the way humans interact and leverage this technology. GenAI is",
+      "text": "Stay ahead in cybersecurity with insights on cyber attacks, data breaches, identity fraud, insider threats, news, reports, webinars, and security resources.",
       "author_name": "dk-gil"
-    },
-    {
-      "id": "49747643",
-      "title": "Docs in AI copyright suit reveal startling admission by Microsoft exec",
-      "url": "https://www.orlandosentinel.com/2026/09/17/new-docs-in-a-i-copyright-suit-reveal-startling-admission-by-microsoft-exec-over-astonishing-theft/",
-      "summary": "The admission appeared in a newly unredacted filing in the landmark copyright infringement legal battle playing out between newspapers like the Orlando Sentinel and tech companies Microsoft and OpenAI.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-17T22:37:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "pier25",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "The admission appeared in a newly unredacted filing in the landmark copyright infringement legal battle playing out between newspapers like the Orlando Sentinel and tech companies Microsoft and OpenAI.",
-      "author_name": "pier25"
     },
     {
       "id": "49746604",
@@ -384,24 +284,24 @@
       "author_name": "josanjohnata"
     },
     {
-      "id": "49738279",
-      "title": "Equity Price Shock Scenario Would Entail US Recession",
-      "url": "https://www.fitchratings.com/research/sovereigns/severe-equity-price-shock-scenario-would-entail-us-recession-09-09-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-17T09:22:01Z",
+      "id": "49701585",
+      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
+      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-14T18:25:53Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 20,
-      "author": "geox",
-      "likes": 4,
+      "score": 14,
+      "author": "wslh",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "geox"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "wslh"
     }
   ]
 }
