@@ -1,67 +1,187 @@
 {
-  "version": "2026-09-20T16:46:04.134Z",
-  "generatedAt": "2026-09-20T16:46:04.134Z",
+  "version": "2026-09-20T21:22:33.064Z",
+  "generatedAt": "2026-09-20T21:22:33.064Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49777108",
-      "title": "Our Airborne Demo Makes Space Solar Energy a Reality",
-      "url": "https://www.overviewenergy.com/updates/airborne",
-      "summary": "Overview Energy is building space energy for Earth to deliver continuous energy from orbit to solar projects on the grid",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-20T15:59:03Z",
+      "id": "49780080",
+      "title": "Mathematicians Feel Threatened by AI. They Can't Quit It",
+      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T21:06:42Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 13,
-      "author": "thunderbong",
+      "score": 32,
+      "author": "ent101",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Overview Energy is building space energy for Earth to deliver continuous energy from orbit to solar projects on the grid",
-      "author_name": "thunderbong"
+      "text": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "author_name": "ent101"
     },
     {
-      "id": "49776999",
-      "title": "We broke an Over-The-Air update on the ESP32 on purpose",
-      "url": "https://groundrun.io/blog/we-broke-an-over-the-air-update-on-the-esp32-on-purpose/",
-      "summary": "An ESP32-C6 measures how long it takes to recover from an interrupted firmware update, across three interruption methods and two bootloader rollback settings.",
+      "id": "49779858",
+      "title": "Base Browser: A hard fork of Firefox with no AI slop",
+      "url": "https://codeberg.org/basebrowserproject",
+      "summary": "Codeberg is a non-profit community-led organization that aims to help free and open source projects prosper by giving them a safe and friendly home.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-20T15:46:32Z",
+      "publishedAt": "2026-09-20T20:40:17Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "adunk",
+      "author": "Muhammad523",
       "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "An ESP32-C6 measures how long it takes to recover from an interrupted firmware update, across three interruption methods and two bootloader rollback settings.",
-      "author_name": "adunk"
+      "text": "Codeberg is a non-profit community-led organization that aims to help free and open source projects prosper by giving them a safe and friendly home.",
+      "author_name": "Muhammad523"
     },
     {
-      "id": "49776729",
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "summary": "OpenAI&#x27;s ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit. Any company that buys ads on ChatGPT installs",
+      "id": "49779561",
+      "title": "Lawsuit says Anthropic, OpenAI and Google made illegal agreement on AI slowdown",
+      "url": "https://www.cnn.com/2026/09/19/business/ai-slowdown-lawsuit-antitrust",
+      "summary": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T15:18:44Z",
+      "publishedAt": "2026-09-20T20:09:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "lmbbuchodi",
-      "likes": 3,
+      "author": "mattm",
+      "likes": 5,
       "views": 0,
       "retweets": 0,
-      "text": "OpenAI&#x27;s ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit. Any company that buys ads on ChatGPT installs",
-      "author_name": "lmbbuchodi"
+      "text": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.",
+      "author_name": "mattm"
+    },
+    {
+      "id": "49779504",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating",
+      "summary": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had sp…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T20:03:14Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "r4ndomname",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had sp…",
+      "author_name": "r4ndomname"
+    },
+    {
+      "id": "49779500",
+      "title": "I see the mathematicians panicking at what we can do with agentic AI",
+      "url": "https://twitter.com/lemire/status/2101684818358439959",
+      "summary": "I see the mathematicians panicking at what we can do with agentic AI. Let us be clear on what we are talking about. In a few weeks, someone who is not a high-level mathematician can, with AI, produce the equivalent of a good PhD thesis in math. I could see a top 1% high school student, given enoug…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T20:02:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "tosh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I see the mathematicians panicking at what we can do with agentic AI. Let us be clear on what we are talking about. In a few weeks, someone who is not a high-level mathematician can, with AI, produce the equivalent of a good PhD thesis in math. I could see a top 1% high school student, given enoug…",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49779401",
+      "title": "Interview reveals Ed Zitron does not understand how AI works at any level",
+      "url": "https://twitter.com/AlexanderMcCoy4/status/2100744088169447816",
+      "summary": "The most recent post by @davidsirota interviewing Ed Zitron and Matt Stoller is extremely disappointing because it’s riddled with extremely basic misunderstandings about how AI works, mechanically. Like this is just an objectively wrong description of the Hugging Face incident.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-20T19:53:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "enraged_camel",
+      "likes": 3,
+      "views": 2,
+      "retweets": 0,
+      "text": "The most recent post by @davidsirota interviewing Ed Zitron and Matt Stoller is extremely disappointing because it’s riddled with extremely basic misunderstandings about how AI works, mechanically. Like this is just an objectively wrong description of the Hugging Face incident.",
+      "author_name": "enraged_camel"
+    },
+    {
+      "id": "49779278",
+      "title": "Tg-Rich-Converter: Streaming LLM Markdown and LaTeX to Telegram Bot API 10.1",
+      "url": "https://github.com/kobaltgit/tg-rich-converter",
+      "summary": "Convert LLM Markdown, LaTeX formulas, and tables into native Telegram Bot API 10.1+ Rich HTML (sendRichMessage). Zero dependencies. - kobaltgit/tg-rich-converter",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T19:40:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "kobaltGIT",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Convert LLM Markdown, LaTeX formulas, and tables into native Telegram Bot API 10.1+ Rich HTML (sendRichMessage). Zero dependencies. - kobaltgit/tg-rich-converter",
+      "author_name": "kobaltGIT"
+    },
+    {
+      "id": "49778275",
+      "title": "Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning",
+      "url": "https://academy.dair.ai/papers/gavel-graph-world-models-for-verified-and-efficient-long-horizon-llm-task-planni-2609.19315",
+      "summary": "Ruiyang Wang and colleagues present GAVEL, which verifies and repairs long-horizon LLM robot plans against an explicit graph world model holding object relation",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T18:04:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "gmays",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Ruiyang Wang and colleagues present GAVEL, which verifies and repairs long-horizon LLM robot plans against an explicit graph world model holding object relation",
+      "author_name": "gmays"
+    },
+    {
+      "id": "49778078",
+      "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+      "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
+      "summary": "A reference comparison of the self-hosted AI orchestrators in 2026: modalities, multi-machine support, auto-discovery, cache-aware routing, ops console, cloud burst, non-LLM fan-out, training, Kubernetes, platforms and signed images — with a pick-by-situation guide and sources.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T17:43:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "nextime",
+      "likes": 12,
+      "views": 3,
+      "retweets": 0,
+      "text": "A reference comparison of the self-hosted AI orchestrators in 2026: modalities, multi-machine support, auto-discovery, cache-aware routing, ops console, cloud burst, non-LLM fan-out, training, Kubernetes, platforms and signed images — with a pick-by-situation guide and sources.",
+      "author_name": "nextime"
     },
     {
       "id": "49775817",
@@ -75,33 +195,13 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 21,
       "author": "rdmuser",
-      "likes": 5,
+      "likes": 7,
       "views": 2,
       "retweets": 0,
       "text": "The lawsuit argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.",
       "author_name": "rdmuser"
-    },
-    {
-      "id": "49775304",
-      "title": "AAA AI – Autonomous AI agent squads for local and cloud LLMs",
-      "url": "https://aaaai.me/",
-      "summary": "AAA AI is an agentic multi-expert platform: orchestrate models, tools, and approvals. Meet adds voice & video calls with live AI notes. Web, iOS, desktop—cloud or self-host.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T12:45:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "pokidovkirill",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "AAA AI is an agentic multi-expert platform: orchestrate models, tools, and approvals. Meet adds voice & video calls with live AI notes. Web, iOS, desktop—cloud or self-host.",
-      "author_name": "pokidovkirill"
     },
     {
       "id": "49774919",
@@ -142,26 +242,6 @@
       "retweets": 0,
       "text": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry. - ghuntley/underclass",
       "author_name": "ghuntley"
-    },
-    {
-      "id": "49772427",
-      "title": "OpenAI researcher on AI communicating across air-gaps via thermal side-channels [video]",
-      "url": "https://www.youtube.com/watch?v=6AgOfiZOWiY",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T04:06:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "nujan_dev",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "nujan_dev"
     },
     {
       "id": "49770287",
@@ -215,9 +295,9 @@
         "AI",
         "科技"
       ],
-      "score": 52,
+      "score": 54,
       "author": "hei-lima",
-      "likes": 36,
+      "likes": 38,
       "views": 24,
       "retweets": 0,
       "text": "Insiders accuse OpenAI and Anthropic of exaggerating &quot;rogue AI&quot; hacks, like the Hugging Face breach, to lobby for market-blocking regulations.",
@@ -242,26 +322,6 @@
       "retweets": 0,
       "text": "A multi-stage adversary-in-the-middle (AiTM) and business email compromise (BEC) attack targets banking and financial services organizations.",
       "author_name": "colinprince"
-    },
-    {
-      "id": "49768108",
-      "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",
-      "url": "https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html",
-      "summary": "Anthropic CEO acknowledged potential antitrust hurdles, writing that it would assist if the US government were to mediate ‘or at least enable’ cross-lab discussions",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T16:51:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "mdp2021",
-      "likes": 18,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic CEO acknowledged potential antitrust hurdles, writing that it would assist if the US government were to mediate ‘or at least enable’ cross-lab discussions",
-      "author_name": "mdp2021"
     },
     {
       "id": "49765938",
