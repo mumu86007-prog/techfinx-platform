@@ -1,8 +1,188 @@
 {
-  "version": "2026-09-19T21:23:28.337Z",
-  "generatedAt": "2026-09-19T21:23:28.337Z",
+  "version": "2026-09-20T12:59:16.014Z",
+  "generatedAt": "2026-09-20T12:59:16.014Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "49775304",
+      "title": "AAA AI – Autonomous AI agent squads for local and cloud LLMs",
+      "url": "https://aaaai.me/",
+      "summary": "AAA AI is an agentic multi-expert platform: orchestrate models, tools, and approvals. Meet adds voice & video calls with live AI notes. Web, iOS, desktop—cloud or self-host.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T12:45:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "pokidovkirill",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "AAA AI is an agentic multi-expert platform: orchestrate models, tools, and approvals. Meet adds voice & video calls with live AI notes. Web, iOS, desktop—cloud or self-host.",
+      "author_name": "pokidovkirill"
+    },
+    {
+      "id": "49775125",
+      "title": "Migrating the GitHub Copilot Runtime to Rust, Using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "summary": "A rewrite this size wasn&#039;t affordable before agents. Here&#039;s what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T12:21:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "saikatsg",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A rewrite this size wasn&#039;t affordable before agents. Here&#039;s what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.",
+      "author_name": "saikatsg"
+    },
+    {
+      "id": "49774919",
+      "title": "Claude Code is getting native AGENTS.md support",
+      "url": "https://github.com/anthropics/claude-code/tree/main/mods/agents-md",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - claude-code/mods/agents-md at main · anthropics/claude-code",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T11:58:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "thisisfatih",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - claude-code/mods/agents-md at main · anthropics/claude-code",
+      "author_name": "thisisfatih"
+    },
+    {
+      "id": "49774911",
+      "title": "Open-source AI PR reviewer that helps you ship",
+      "url": "https://nitpicker.dev/",
+      "summary": "Open-source AI that reviews GitHub PRs, roasts your variable names, and deploys on Lambda, Cloudflare Workers, or GitHub Actions. LGTM is not in its vocabulary.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-20T11:56:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "Bluestein",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Open-source AI that reviews GitHub PRs, roasts your variable names, and deploys on Lambda, Cloudflare Workers, or GitHub Actions. LGTM is not in its vocabulary.",
+      "author_name": "Bluestein"
+    },
+    {
+      "id": "49774795",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "summary": "One common take on the coding agents that I see goes something like this: “Sure, AI helps you output more code, but won’t the quality suffer?”",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T11:37:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 57,
+      "author": "bucket2015",
+      "likes": 43,
+      "views": 57,
+      "retweets": 0,
+      "text": "One common take on the coding agents that I see goes something like this: “Sure, AI helps you output more code, but won’t the quality suffer?”",
+      "author_name": "bucket2015"
+    },
+    {
+      "id": "49774704",
+      "title": "Underclass: An OpenAI-compatible pooling proxy that pins sessions to one account",
+      "url": "https://github.com/ghuntley/underclass",
+      "summary": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry. - ghuntley/underclass",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T11:24:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "ghuntley",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry. - ghuntley/underclass",
+      "author_name": "ghuntley"
+    },
+    {
+      "id": "49774130",
+      "title": "MIT Just Proved LLMs Will Stop Getting Smarter, and Money Won't Fix It [video]",
+      "url": "https://www.youtube.com/watch?v=6xQ8LQfkBg4",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T09:33:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "bArray",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "bArray"
+    },
+    {
+      "id": "49772427",
+      "title": "OpenAI researcher on AI communicating across air-gaps via thermal side-channels [video]",
+      "url": "https://www.youtube.com/watch?v=6AgOfiZOWiY",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-20T04:06:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "nujan_dev",
+      "likes": 5,
+      "views": 1,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "nujan_dev"
+    },
+    {
+      "id": "49770287",
+      "title": "Partnering with Accenture on Embedded Evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-19T21:29:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 42,
+      "author": "theanonymousone",
+      "likes": 11,
+      "views": 2,
+      "retweets": 0,
+      "text": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+      "author_name": "theanonymousone"
+    },
     {
       "id": "49770179",
       "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
@@ -15,73 +195,13 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 24,
       "author": "berkeleyjunk",
-      "likes": 1,
-      "views": 0,
+      "likes": 8,
+      "views": 1,
       "retweets": 0,
       "text": "President Trump said he will not &quot;hinder or stifle&quot; AI development after some leaders of frontier AI labs called for US government regulation.",
       "author_name": "berkeleyjunk"
-    },
-    {
-      "id": "49770070",
-      "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
-      "url": "https://github.com/xanpavle/rocmfix",
-      "summary": "Auto-detect AMD GPUs on Windows/Linux and instantly get the correct HSA_OVERRIDE_GFX_VERSION for local AI (ROCm/HIP). - xanpavle/rocmfix",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T20:57:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "Xanpavle",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Auto-detect AMD GPUs on Windows/Linux and instantly get the correct HSA_OVERRIDE_GFX_VERSION for local AI (ROCm/HIP). - xanpavle/rocmfix",
-      "author_name": "Xanpavle"
-    },
-    {
-      "id": "49769802",
-      "title": "JustBot – a Grok-Bot-style AI assistant at ~1/10th the token cost",
-      "url": "https://justbot.co",
-      "summary": "A Grok Bot alternative at roughly one-tenth of the token cost. Each bot gets its own computer and logs into your apps like a person would. From $10/mo.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T20:20:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "bernardohcr",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A Grok Bot alternative at roughly one-tenth of the token cost. Each bot gets its own computer and logs into your apps like a person would. From $10/mo.",
-      "author_name": "bernardohcr"
-    },
-    {
-      "id": "49769737",
-      "title": "AI Actress interviewed by Piers Morgan [video]",
-      "url": "https://www.youtube.com/watch?v=x4yyBWkYSHs",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T20:10:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "pier25",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "pier25"
     },
     {
       "id": "49769668",
@@ -95,10 +215,10 @@
         "AI",
         "科技"
       ],
-      "score": 43,
+      "score": 52,
       "author": "hei-lima",
-      "likes": 27,
-      "views": 10,
+      "likes": 36,
+      "views": 24,
       "retweets": 0,
       "text": "Insiders accuse OpenAI and Anthropic of exaggerating &quot;rogue AI&quot; hacks, like the Hugging Face breach, to lobby for market-blocking regulations.",
       "author_name": "hei-lima"
@@ -115,33 +235,13 @@
         "AI",
         "科技"
       ],
-      "score": 35,
+      "score": 36,
       "author": "colinprince",
-      "likes": 4,
+      "likes": 5,
       "views": 0,
       "retweets": 0,
       "text": "A multi-stage adversary-in-the-middle (AiTM) and business email compromise (BEC) attack targets banking and financial services organizations.",
       "author_name": "colinprince"
-    },
-    {
-      "id": "49769207",
-      "title": "The lucrative business of reactionary AI-generated posts on Facebook",
-      "url": "https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html",
-      "summary": "Pages based in Sri Lanka, Vietnam or Venezuela are targeting French audiences with political content generated by artificial intelligence and often supportive of the far right – with profit as the goal.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T18:53:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "geox",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Pages based in Sri Lanka, Vietnam or Venezuela are targeting French audiences with political content generated by artificial intelligence and often supportive of the far right – with profit as the goal.",
-      "author_name": "geox"
     },
     {
       "id": "49768108",
@@ -155,73 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 30,
+      "score": 32,
       "author": "mdp2021",
-      "likes": 16,
+      "likes": 18,
       "views": 1,
       "retweets": 0,
       "text": "Anthropic CEO acknowledged potential antitrust hurdles, writing that it would assist if the US government were to mediate ‘or at least enable’ cross-lab discussions",
       "author_name": "mdp2021"
-    },
-    {
-      "id": "49767987",
-      "title": "In 2024 I fine-tuned an LLM. Jev could have removed the side quests",
-      "url": "https://kasra.blog/blog/classification-and-jev/",
-      "summary": "What text classification is, how I filtered 120,633 Reddit comments the hard way, and what one Jev pass over the same data looks like.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T16:39:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "jc4p",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "What text classification is, how I filtered 120,633 Reddit comments the hard way, and what one Jev pass over the same data looks like.",
-      "author_name": "jc4p"
-    },
-    {
-      "id": "49767625",
-      "title": "Lemmings: Russian Persona Provisioning and Management for Active Measures",
-      "url": "https://dti.domaintools.com/research/lemmings-russian-persona-provisioning",
-      "summary": "DomainTools Investigations | Lemmings: A Russian Industrialized Persona Provisioning And Management for Active Measures Campaigns",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-19T15:59:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "dmarto",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "DomainTools Investigations | Lemmings: A Russian Industrialized Persona Provisioning And Management for Active Measures Campaigns",
-      "author_name": "dmarto"
-    },
-    {
-      "id": "49767080",
-      "title": "The Doomsday Cult Inside OpenAI – Patrick Boyle [video]",
-      "url": "https://www.youtube.com/watch?v=luXnftoxCaM",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T14:57:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "Topfi",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "Topfi"
     },
     {
       "id": "49766011",
@@ -235,9 +275,9 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 19,
       "author": "trippy",
-      "likes": 2,
+      "likes": 3,
       "views": 5,
       "retweets": 0,
       "text": "Anthropic PBC, OpenAI OPCO LLC, SpaceXAI, and Google LLC made an illegal deal to collectively slow the pace of AI development, according to a new lawsuit, depriving paying subscribers of product improvements they were promised.",
@@ -255,9 +295,9 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 18,
       "author": "peter_d_sherman",
-      "likes": 1,
+      "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "%PDF-1.4 %���� 1 0 obj >stream x��Z��� ��?~�iՎ-!t7Y�vށ�\u0014�n\u0012\b\u0004��\u00182dȐ!C�|E��o�i��o��& �8/�[��\u0004p\u0006�a��3�����A��Ped;\u0002��\u001aP�GLz ��\u0015%���\u0003\u00017S �����x�ai�/&����m;��P�� �aW��\u0018�\u000f�d�\u0014�Xk�\u0004_7`�O{D�64A��ʢ��y�`p��?�����G\u0010\u0016��z�\u001a�4 W����љ�g�r���\"\u0000B)�)T�5�R�R\u0003x��\u0016첶��t&�\u0004t\u001e\u001d\u0007ꚙ���\u0014� ΝDn��D8�z�կ����'|�z����!^�M��A�*>�\u000e�V�& Y��$WP���5�.�\u0011� ��…",
@@ -275,73 +315,33 @@
         "AI",
         "科技"
       ],
-      "score": 21,
+      "score": 22,
       "author": "DeepLogin",
-      "likes": 5,
+      "likes": 6,
       "views": 1,
       "retweets": 0,
       "text": "The most AI-exposed new college grads have initial employment declines of 5pp and earnings declines of 13%, partially driven by shifts to lower-paying sectors.",
       "author_name": "DeepLogin"
     },
     {
-      "id": "49757971",
-      "title": "Z.ai says ZCode uploaded repo data, plans to open-source it after backlash",
-      "url": "https://twitter.com/MiaAI_lab/status/2100998360643617148",
-      "summary": "Official response from ZAI: &quot;We fully understand that any issue involving data directly affects users&#x27; trust in our product. In the near future, we will open-source the ZCode codebase to improve the product within a more open ecosystem. We will also invite independent third-party evaluators to a…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-18T18:03:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mococa",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Official response from ZAI: &quot;We fully understand that any issue involving data directly affects users&#x27; trust in our product. In the near future, we will open-source the ZCode codebase to improve the product within a more open ecosystem. We will also invite independent third-party evaluators to a…",
-      "author_name": "mococa"
-    },
-    {
-      "id": "49757554",
-      "title": "Disney Hires Its First CTO: Karandeep Anand, Former CEO of AI Chatbot Startup",
-      "url": "https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/",
-      "summary": "Disney CEO Josh D&#039;Amaro hired Karandeep Anand, ex-CEO of Character.AI and former Facebook and Microsoft exec, as its first chief technology officer.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-18T17:30:25Z",
+      "id": "49746721",
+      "title": "Virtual biotech company puts thousands of AI scientist agents to work",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
+      "summary": "Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-17T21:22:02Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "chauzer",
-      "likes": 3,
+      "author": "geox",
+      "likes": 5,
       "views": 0,
       "retweets": 0,
-      "text": "Disney CEO Josh D&#039;Amaro hired Karandeep Anand, ex-CEO of Character.AI and former Facebook and Microsoft exec, as its first chief technology officer.",
-      "author_name": "chauzer"
-    },
-    {
-      "id": "49752908",
-      "title": "What Enters Through an Image: The Blind Spot in AI Security Nobody Is Detecting",
-      "url": "https://www.cybersecurity-insiders.com/what-enters-through-an-image-the-blind-spot-in-ai-security-nobody-is-detecting/",
-      "summary": "Stay ahead in cybersecurity with insights on cyber attacks, data breaches, identity fraud, insider threats, news, reports, webinars, and security resources.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-18T11:37:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "dk-gil",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Stay ahead in cybersecurity with insights on cyber attacks, data breaches, identity fraud, insider threats, news, reports, webinars, and security resources.",
-      "author_name": "dk-gil"
+      "text": "Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.",
+      "author_name": "geox"
     },
     {
       "id": "49701585",
