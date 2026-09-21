@@ -1,207 +1,167 @@
 {
-  "version": "2026-09-21T15:00:42.559Z",
-  "generatedAt": "2026-09-21T15:00:42.559Z",
+  "version": "2026-09-21T22:33:51.658Z",
+  "generatedAt": "2026-09-21T22:33:51.658Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49788059",
-      "title": "Streamhouse: A shared data architecture for the age of AI",
-      "url": "https://www.streamhouse.com/",
-      "summary": "An open, vendor-neutral category for data architectures that keep the current state of a business continuously available to production applications, analytics, and AI agents.",
+      "id": "49794317",
+      "title": "A Call for Control of Frontier AI Models",
+      "url": "https://www.presidentti.fi/en/a-call-for-control-of-frontier-ai-models/",
+      "summary": "September 2026 Artificial intelligence is an extremely powerful technology. It has potential to improve lives, advance science and strengthen our economies. At the same time, the rapid development of frontier AI models poses serious risks to safety and security if not appropriately managed. Recently we have seen capabl…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T14:53:15Z",
+      "publishedAt": "2026-09-21T22:29:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "gone35",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "September 2026 Artificial intelligence is an extremely powerful technology. It has potential to improve lives, advance science and strengthen our economies. At the same time, the rapid development of frontier AI models poses serious risks to safety and security if not appropriately managed. Recently we have seen capabl…",
+      "author_name": "gone35"
+    },
+    {
+      "id": "49794261",
+      "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+      "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+      "summary": "Emily M. Bender and Nanna Inie In our op-ed for Tech Policy Press (&quot;We Need to Talk About How We Talk About &#x27;AI&#x27;&quot;), we made the case against the...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-21T22:22:42Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "chtefi",
+      "author": "cdrnsf",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "An open, vendor-neutral category for data architectures that keep the current state of a business continuously available to production applications, analytics, and AI agents.",
-      "author_name": "chtefi"
+      "text": "Emily M. Bender and Nanna Inie In our op-ed for Tech Policy Press (&quot;We Need to Talk About How We Talk About &#x27;AI&#x27;&quot;), we made the case against the...",
+      "author_name": "cdrnsf"
     },
     {
-      "id": "49788028",
-      "title": "WWII Tank, Aircraft, and Ship Identification Guides",
-      "url": "https://www.beautifulpublicdata.com/wwii-tank-aircraft-and-ship-identification-guides/",
-      "summary": "How do you tell friend from foe in a split second? These beautifully designed WWII guides used silhouettes and vehicle details into a system for recognizing tanks, planes, and ships on sight.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-21T14:50:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Brajeshwar",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "How do you tell friend from foe in a split second? These beautifully designed WWII guides used silhouettes and vehicle details into a system for recognizing tanks, planes, and ships on sight.",
-      "author_name": "Brajeshwar"
-    },
-    {
-      "id": "49788010",
-      "title": "Skills for AI agents to remove or prevent slop in UI design and written content",
-      "url": "https://github.com/kmaida/deslop-skills",
-      "summary": "Skills for AI agents to remove or prevent slop in generated frontend UI design and written content. - kmaida/deslop-skills",
+      "id": "49793957",
+      "title": "Auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "summary": "Before code review even starts, agents let us build custom tooling and formal models. Here’s how six months of building with AI agents helped us find real issues in our Miden zkVM audit.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T14:48:40Z",
+      "publishedAt": "2026-09-21T21:53:01Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "mooreds",
-      "likes": 1,
+      "score": 21,
+      "author": "aray07",
+      "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "Skills for AI agents to remove or prevent slop in generated frontend UI design and written content. - kmaida/deslop-skills",
-      "author_name": "mooreds"
+      "text": "Before code review even starts, agents let us build custom tooling and formal models. Here’s how six months of building with AI agents helped us find real issues in our Miden zkVM audit.",
+      "author_name": "aray07"
     },
     {
-      "id": "49787882",
-      "title": "A quick overview of atomics in C",
-      "url": "https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c/",
-      "summary": "If you write in C, by default, you use a single thread. Extra cores do not help until you create more threads. However, if you include the header &lt;threads.h&gt;, you can pass a function to thrd_create, and wait for it with thrd_join. #include &lt;threads.h&gt; #include &lt;stdio.h&gt; int worker(void *arg) { printf(…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-21T14:40:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "surprisetalk",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "If you write in C, by default, you use a single thread. Extra cores do not help until you create more threads. However, if you include the header &lt;threads.h&gt;, you can pass a function to thrd_create, and wait for it with thrd_join. #include &lt;threads.h&gt; #include &lt;stdio.h&gt; int worker(void *arg) { printf(…",
-      "author_name": "surprisetalk"
-    },
-    {
-      "id": "49787461",
-      "title": "Animated visual explanation of how LLM tokenization works",
-      "url": "https://seeitflow.com/ai/ai-foundations/tokens-explained",
-      "summary": "See It Flow — an interactive engineering lab for backend systems, networking, databases, system design and production engineering. Watch systems behave through animated, interactive visualizations.",
+      "id": "49793333",
+      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
+      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
+      "summary": "A technical deep dive into vLLM: PagedAttention, continuous batching, chunked prefill, CUDA graphs, and empirical benchmarks from gft-studio across GRPO rollout phases and inference serving on NVIDIA H100 and H200.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T14:05:22Z",
+      "publishedAt": "2026-09-21T20:59:10Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "mangeshmam1",
+      "score": 18,
+      "author": "gfactor_ai",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "See It Flow — an interactive engineering lab for backend systems, networking, databases, system design and production engineering. Watch systems behave through animated, interactive visualizations.",
-      "author_name": "mangeshmam1"
+      "text": "A technical deep dive into vLLM: PagedAttention, continuous batching, chunked prefill, CUDA graphs, and empirical benchmarks from gft-studio across GRPO rollout phases and inference serving on NVIDIA H100 and H200.",
+      "author_name": "gfactor_ai"
     },
     {
-      "id": "49787264",
-      "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face [video]",
-      "url": "https://www.youtube.com/watch?v=56GuvofZgB4",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "id": "49793031",
+      "title": "Unsealed files describe OpenAI \"research mission\" to supplant human authors",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
+      "summary": "Newly unsealed comments made in briefs filed by Open AI and Microsoft reveal that executives knew they were illegally training their products on copyrighted books and that AI generated books would likely displace human-authored books in the market.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T13:49:13Z",
+      "publishedAt": "2026-09-21T20:35:49Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "mooreds",
+      "score": 20,
+      "author": "ilamont",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "mooreds"
+      "text": "Newly unsealed comments made in briefs filed by Open AI and Microsoft reveal that executives knew they were illegally training their products on copyrighted books and that AI generated books would likely displace human-authored books in the market.",
+      "author_name": "ilamont"
     },
     {
-      "id": "49787047",
-      "title": "I made an LLM using 521 Jev models",
-      "url": "https://jevs.chat/",
-      "summary": "A chat app whose model is a network of 521 calibrated decision units: multiple choice, ratings and yes/no probabilities. Nothing in it can generate text — every word is sampled from one Choice.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T13:29:15Z",
+      "id": "49792858",
+      "title": "The data does not show mass unemployment",
+      "url": "https://lemire.me/blog/2026/09/21/nomassunemployment/",
+      "summary": "If AI is causing mass unemployment among software developers, it is not showing up in the data yet. The USA had more software developers as a percentage of the population in 2025 than in 2021. On average salaries are slightly up (average of 148k$ a year). The 90th percentile is up from 2021 &hellip; Continue reading Th…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-21T20:22:33Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "skillseeddev",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "A chat app whose model is a network of 521 calibrated decision units: multiple choice, ratings and yes/no probabilities. Nothing in it can generate text — every word is sampled from one Choice.",
-      "author_name": "skillseeddev"
-    },
-    {
-      "id": "49786773",
-      "title": "LM Studio is a free desktop app to run local LLMs on your own computer",
-      "url": "https://www.lm-studio.net/",
-      "summary": "LM Studio is a free desktop app to run local LLMs — gpt-oss, Llama, Qwen, DeepSeek R1, Mistral, Gemma — on Windows, macOS and Linux. Private offline AI chatbot, chat with documents (RAG), MCP tools, lms CLI, and an OpenAI-compatible local API server. A ChatGPT alternative that keeps your data on your own hardware.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T13:02:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "wsm123456",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "LM Studio is a free desktop app to run local LLMs — gpt-oss, Llama, Qwen, DeepSeek R1, Mistral, Gemma — on Windows, macOS and Linux. Private offline AI chatbot, chat with documents (RAG), MCP tools, lms CLI, and an OpenAI-compatible local API server. A ChatGPT alternative that keeps your data on your own hardware.",
-      "author_name": "wsm123456"
-    },
-    {
-      "id": "49786558",
-      "title": "OpenAI Codex Is Retiring the Last Model That Behaves Like an Assistant",
-      "url": "https://www.vincentschmalbach.com/gpt-5-5-retirement-codex/",
-      "summary": "I opened Codex CLI today and it showed me this notice: &quot;GPT-5.5 retires on October 14, 2026. Switch to GPT-5.6 Sol to continue working in Codex.&quot; GPT-5.5…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T12:41:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "vincent_s",
-      "likes": 1,
-      "views": 2,
-      "retweets": 0,
-      "text": "I opened Codex CLI today and it showed me this notice: &quot;GPT-5.5 retires on October 14, 2026. Switch to GPT-5.6 Sol to continue working in Codex.&quot; GPT-5.5…",
-      "author_name": "vincent_s"
-    },
-    {
-      "id": "49786379",
-      "title": "The Roadmap to Mastering LLM Inference Optimization",
-      "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
-      "summary": "In this article, we explore key techniques for optimizing LLM inference to improve latency, throughput, memory efficiency, and cost.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T12:23:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "eigenBasis",
-      "likes": 1,
+      "score": 19,
+      "author": "4lx87",
+      "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "In this article, we explore key techniques for optimizing LLM inference to improve latency, throughput, memory efficiency, and cost.",
-      "author_name": "eigenBasis"
+      "text": "If AI is causing mass unemployment among software developers, it is not showing up in the data yet. The USA had more software developers as a percentage of the population in 2025 than in 2021. On average salaries are slightly up (average of 148k$ a year). The 90th percentile is up from 2021 &hellip; Continue reading Th…",
+      "author_name": "4lx87"
+    },
+    {
+      "id": "49792522",
+      "title": "OpenAI doesn't cryptographically sign its API responses",
+      "url": "https://community.openai.com/t/feature-request-a-way-to-publicly-verify-responses-api-outputs/1388452",
+      "summary": "Feature request: A way to publicly verify Responses API outputs Hi everyone, I’m currently looking for a way to prove to a third party that a specific text was actually returned by the OpenAI Responses API. I initially…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T19:57:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "teodoro127",
+      "likes": 2,
+      "views": 4,
+      "retweets": 0,
+      "text": "Feature request: A way to publicly verify Responses API outputs Hi everyone, I’m currently looking for a way to prove to a third party that a specific text was actually returned by the OpenAI Responses API. I initially…",
+      "author_name": "teodoro127"
+    },
+    {
+      "id": "49790987",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "summary": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T18:07:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "gmays",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+      "author_name": "gmays"
     },
     {
       "id": "49785644",
@@ -224,46 +184,6 @@
       "author_name": "joozio"
     },
     {
-      "id": "49784366",
-      "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-      "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
-      "summary": "Yet *another* record week for AI development of Linux. Last week there were 1,634 code submissions to the Linux Kernel which were written by AI. So far, in September, AI generated code has made up 17.25% of all Linux Kernel patches.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-21T07:59:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 47,
-      "author": "tosh",
-      "likes": 30,
-      "views": 69,
-      "retweets": 0,
-      "text": "Yet *another* record week for AI development of Linux. Last week there were 1,634 code submissions to the Linux Kernel which were written by AI. So far, in September, AI generated code has made up 17.25% of all Linux Kernel patches.",
-      "author_name": "tosh"
-    },
-    {
-      "id": "49783671",
-      "title": "Evaluating Long-Term Memory for AI Agents: AML Cycle 2 Is Now Open",
-      "url": "https://twitter.com/AgentMemoryL/status/2101515447816663222",
-      "summary": "Agent Memory Challenge 2026 Cycle 2 is now open. Long-term memory is not just about storing more history. It is about retrieving the right evidence, recognizing what has changed, and avoiding stale context when an agent needs to act. Three tracks: Textual · Coding · Multimodal Open-source Me…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T06:24:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "IreneAI",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Agent Memory Challenge 2026 Cycle 2 is now open. Long-term memory is not just about storing more history. It is about retrieving the right evidence, recognizing what has changed, and avoiding stale context when an agent needs to act. Three tracks: Textual · Coding · Multimodal Open-source Me…",
-      "author_name": "IreneAI"
-    },
-    {
       "id": "49781324",
       "title": "New startup to test psychedelic-like drug against Parkinson's symptom",
       "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
@@ -282,46 +202,6 @@
       "retweets": 0,
       "text": "Today&#039;s biotech news includes Ariadne Bio testing a psychedelic-like drug for apathy in Parkinson’s disease, which has no approved treatments.",
       "author_name": "elo2000"
-    },
-    {
-      "id": "49779561",
-      "title": "Lawsuit says Anthropic, OpenAI and Google made illegal agreement on AI slowdown",
-      "url": "https://www.cnn.com/2026/09/19/business/ai-slowdown-lawsuit-antitrust",
-      "summary": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T20:09:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "mattm",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.",
-      "author_name": "mattm"
-    },
-    {
-      "id": "49775817",
-      "title": "Lawsuit: Anthropic, OpenAI, SpaceXAI and Google made illegal slowdown agreement",
-      "url": "https://www.pbs.org/newshour/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
-      "summary": "The lawsuit argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T13:43:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "rdmuser",
-      "likes": 8,
-      "views": 2,
-      "retweets": 0,
-      "text": "The lawsuit argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.",
-      "author_name": "rdmuser"
     },
     {
       "id": "49769668",
@@ -402,6 +282,26 @@
       "retweets": 0,
       "text": "Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.",
       "author_name": "geox"
+    },
+    {
+      "id": "49701585",
+      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
+      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-14T18:25:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "wslh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "wslh"
     }
   ]
 }
