@@ -1,47 +1,287 @@
 {
-  "version": "2026-09-20T21:22:33.064Z",
-  "generatedAt": "2026-09-20T21:22:33.064Z",
+  "version": "2026-09-21T15:00:42.559Z",
+  "generatedAt": "2026-09-21T15:00:42.559Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49780080",
-      "title": "Mathematicians Feel Threatened by AI. They Can't Quit It",
-      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "id": "49788059",
+      "title": "Streamhouse: A shared data architecture for the age of AI",
+      "url": "https://www.streamhouse.com/",
+      "summary": "An open, vendor-neutral category for data architectures that keep the current state of a business continuously available to production applications, analytics, and AI agents.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T21:06:42Z",
+      "publishedAt": "2026-09-21T14:53:15Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 32,
-      "author": "ent101",
+      "score": 15,
+      "author": "chtefi",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "author_name": "ent101"
+      "text": "An open, vendor-neutral category for data architectures that keep the current state of a business continuously available to production applications, analytics, and AI agents.",
+      "author_name": "chtefi"
     },
     {
-      "id": "49779858",
-      "title": "Base Browser: A hard fork of Firefox with no AI slop",
-      "url": "https://codeberg.org/basebrowserproject",
-      "summary": "Codeberg is a non-profit community-led organization that aims to help free and open source projects prosper by giving them a safe and friendly home.",
+      "id": "49788028",
+      "title": "WWII Tank, Aircraft, and Ship Identification Guides",
+      "url": "https://www.beautifulpublicdata.com/wwii-tank-aircraft-and-ship-identification-guides/",
+      "summary": "How do you tell friend from foe in a split second? These beautifully designed WWII guides used silhouettes and vehicle details into a system for recognizing tanks, planes, and ships on sight.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-20T20:40:17Z",
+      "publishedAt": "2026-09-21T14:50:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Brajeshwar",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "How do you tell friend from foe in a split second? These beautifully designed WWII guides used silhouettes and vehicle details into a system for recognizing tanks, planes, and ships on sight.",
+      "author_name": "Brajeshwar"
+    },
+    {
+      "id": "49788010",
+      "title": "Skills for AI agents to remove or prevent slop in UI design and written content",
+      "url": "https://github.com/kmaida/deslop-skills",
+      "summary": "Skills for AI agents to remove or prevent slop in generated frontend UI design and written content. - kmaida/deslop-skills",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T14:48:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "mooreds",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Skills for AI agents to remove or prevent slop in generated frontend UI design and written content. - kmaida/deslop-skills",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "49787882",
+      "title": "A quick overview of atomics in C",
+      "url": "https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c/",
+      "summary": "If you write in C, by default, you use a single thread. Extra cores do not help until you create more threads. However, if you include the header &lt;threads.h&gt;, you can pass a function to thrd_create, and wait for it with thrd_join. #include &lt;threads.h&gt; #include &lt;stdio.h&gt; int worker(void *arg) { printf(…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-21T14:40:03Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "Muhammad523",
+      "author": "surprisetalk",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "If you write in C, by default, you use a single thread. Extra cores do not help until you create more threads. However, if you include the header &lt;threads.h&gt;, you can pass a function to thrd_create, and wait for it with thrd_join. #include &lt;threads.h&gt; #include &lt;stdio.h&gt; int worker(void *arg) { printf(…",
+      "author_name": "surprisetalk"
+    },
+    {
+      "id": "49787461",
+      "title": "Animated visual explanation of how LLM tokenization works",
+      "url": "https://seeitflow.com/ai/ai-foundations/tokens-explained",
+      "summary": "See It Flow — an interactive engineering lab for backend systems, networking, databases, system design and production engineering. Watch systems behave through animated, interactive visualizations.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T14:05:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "mangeshmam1",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "See It Flow — an interactive engineering lab for backend systems, networking, databases, system design and production engineering. Watch systems behave through animated, interactive visualizations.",
+      "author_name": "mangeshmam1"
+    },
+    {
+      "id": "49787264",
+      "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face [video]",
+      "url": "https://www.youtube.com/watch?v=56GuvofZgB4",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T13:49:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "mooreds",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "49787047",
+      "title": "I made an LLM using 521 Jev models",
+      "url": "https://jevs.chat/",
+      "summary": "A chat app whose model is a network of 521 calibrated decision units: multiple choice, ratings and yes/no probabilities. Nothing in it can generate text — every word is sampled from one Choice.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T13:29:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "skillseeddev",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "A chat app whose model is a network of 521 calibrated decision units: multiple choice, ratings and yes/no probabilities. Nothing in it can generate text — every word is sampled from one Choice.",
+      "author_name": "skillseeddev"
+    },
+    {
+      "id": "49786773",
+      "title": "LM Studio is a free desktop app to run local LLMs on your own computer",
+      "url": "https://www.lm-studio.net/",
+      "summary": "LM Studio is a free desktop app to run local LLMs — gpt-oss, Llama, Qwen, DeepSeek R1, Mistral, Gemma — on Windows, macOS and Linux. Private offline AI chatbot, chat with documents (RAG), MCP tools, lms CLI, and an OpenAI-compatible local API server. A ChatGPT alternative that keeps your data on your own hardware.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T13:02:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "wsm123456",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "LM Studio is a free desktop app to run local LLMs — gpt-oss, Llama, Qwen, DeepSeek R1, Mistral, Gemma — on Windows, macOS and Linux. Private offline AI chatbot, chat with documents (RAG), MCP tools, lms CLI, and an OpenAI-compatible local API server. A ChatGPT alternative that keeps your data on your own hardware.",
+      "author_name": "wsm123456"
+    },
+    {
+      "id": "49786558",
+      "title": "OpenAI Codex Is Retiring the Last Model That Behaves Like an Assistant",
+      "url": "https://www.vincentschmalbach.com/gpt-5-5-retirement-codex/",
+      "summary": "I opened Codex CLI today and it showed me this notice: &quot;GPT-5.5 retires on October 14, 2026. Switch to GPT-5.6 Sol to continue working in Codex.&quot; GPT-5.5…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T12:41:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "vincent_s",
+      "likes": 1,
+      "views": 2,
+      "retweets": 0,
+      "text": "I opened Codex CLI today and it showed me this notice: &quot;GPT-5.5 retires on October 14, 2026. Switch to GPT-5.6 Sol to continue working in Codex.&quot; GPT-5.5…",
+      "author_name": "vincent_s"
+    },
+    {
+      "id": "49786379",
+      "title": "The Roadmap to Mastering LLM Inference Optimization",
+      "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-llm-inference-optimization/",
+      "summary": "In this article, we explore key techniques for optimizing LLM inference to improve latency, throughput, memory efficiency, and cost.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T12:23:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "eigenBasis",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "In this article, we explore key techniques for optimizing LLM inference to improve latency, throughput, memory efficiency, and cost.",
+      "author_name": "eigenBasis"
+    },
+    {
+      "id": "49785644",
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-21T11:01:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "joozio",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+      "author_name": "joozio"
+    },
+    {
+      "id": "49784366",
+      "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+      "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+      "summary": "Yet *another* record week for AI development of Linux. Last week there were 1,634 code submissions to the Linux Kernel which were written by AI. So far, in September, AI generated code has made up 17.25% of all Linux Kernel patches.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-21T07:59:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 47,
+      "author": "tosh",
+      "likes": 30,
+      "views": 69,
+      "retweets": 0,
+      "text": "Yet *another* record week for AI development of Linux. Last week there were 1,634 code submissions to the Linux Kernel which were written by AI. So far, in September, AI generated code has made up 17.25% of all Linux Kernel patches.",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49783671",
+      "title": "Evaluating Long-Term Memory for AI Agents: AML Cycle 2 Is Now Open",
+      "url": "https://twitter.com/AgentMemoryL/status/2101515447816663222",
+      "summary": "Agent Memory Challenge 2026 Cycle 2 is now open. Long-term memory is not just about storing more history. It is about retrieving the right evidence, recognizing what has changed, and avoiding stale context when an agent needs to act. Three tracks: Textual · Coding · Multimodal Open-source Me…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T06:24:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "IreneAI",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Agent Memory Challenge 2026 Cycle 2 is now open. Long-term memory is not just about storing more history. It is about retrieving the right evidence, recognizing what has changed, and avoiding stale context when an agent needs to act. Three tracks: Textual · Coding · Multimodal Open-source Me…",
+      "author_name": "IreneAI"
+    },
+    {
+      "id": "49781324",
+      "title": "New startup to test psychedelic-like drug against Parkinson's symptom",
+      "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
+      "summary": "Today&#039;s biotech news includes Ariadne Bio testing a psychedelic-like drug for apathy in Parkinson’s disease, which has no approved treatments.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-20T23:42:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "elo2000",
       "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "Codeberg is a non-profit community-led organization that aims to help free and open source projects prosper by giving them a safe and friendly home.",
-      "author_name": "Muhammad523"
+      "text": "Today&#039;s biotech news includes Ariadne Bio testing a psychedelic-like drug for apathy in Parkinson’s disease, which has no approved treatments.",
+      "author_name": "elo2000"
     },
     {
       "id": "49779561",
@@ -64,126 +304,6 @@
       "author_name": "mattm"
     },
     {
-      "id": "49779504",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating",
-      "summary": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had sp…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T20:03:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "r4ndomname",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had sp…",
-      "author_name": "r4ndomname"
-    },
-    {
-      "id": "49779500",
-      "title": "I see the mathematicians panicking at what we can do with agentic AI",
-      "url": "https://twitter.com/lemire/status/2101684818358439959",
-      "summary": "I see the mathematicians panicking at what we can do with agentic AI. Let us be clear on what we are talking about. In a few weeks, someone who is not a high-level mathematician can, with AI, produce the equivalent of a good PhD thesis in math. I could see a top 1% high school student, given enoug…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T20:02:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "tosh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I see the mathematicians panicking at what we can do with agentic AI. Let us be clear on what we are talking about. In a few weeks, someone who is not a high-level mathematician can, with AI, produce the equivalent of a good PhD thesis in math. I could see a top 1% high school student, given enoug…",
-      "author_name": "tosh"
-    },
-    {
-      "id": "49779401",
-      "title": "Interview reveals Ed Zitron does not understand how AI works at any level",
-      "url": "https://twitter.com/AlexanderMcCoy4/status/2100744088169447816",
-      "summary": "The most recent post by @davidsirota interviewing Ed Zitron and Matt Stoller is extremely disappointing because it’s riddled with extremely basic misunderstandings about how AI works, mechanically. Like this is just an objectively wrong description of the Hugging Face incident.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-20T19:53:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "enraged_camel",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "The most recent post by @davidsirota interviewing Ed Zitron and Matt Stoller is extremely disappointing because it’s riddled with extremely basic misunderstandings about how AI works, mechanically. Like this is just an objectively wrong description of the Hugging Face incident.",
-      "author_name": "enraged_camel"
-    },
-    {
-      "id": "49779278",
-      "title": "Tg-Rich-Converter: Streaming LLM Markdown and LaTeX to Telegram Bot API 10.1",
-      "url": "https://github.com/kobaltgit/tg-rich-converter",
-      "summary": "Convert LLM Markdown, LaTeX formulas, and tables into native Telegram Bot API 10.1+ Rich HTML (sendRichMessage). Zero dependencies. - kobaltgit/tg-rich-converter",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T19:40:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "kobaltGIT",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Convert LLM Markdown, LaTeX formulas, and tables into native Telegram Bot API 10.1+ Rich HTML (sendRichMessage). Zero dependencies. - kobaltgit/tg-rich-converter",
-      "author_name": "kobaltGIT"
-    },
-    {
-      "id": "49778275",
-      "title": "Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning",
-      "url": "https://academy.dair.ai/papers/gavel-graph-world-models-for-verified-and-efficient-long-horizon-llm-task-planni-2609.19315",
-      "summary": "Ruiyang Wang and colleagues present GAVEL, which verifies and repairs long-horizon LLM robot plans against an explicit graph world model holding object relation",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T18:04:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "gmays",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Ruiyang Wang and colleagues present GAVEL, which verifies and repairs long-horizon LLM robot plans against an explicit graph world model holding object relation",
-      "author_name": "gmays"
-    },
-    {
-      "id": "49778078",
-      "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-      "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
-      "summary": "A reference comparison of the self-hosted AI orchestrators in 2026: modalities, multi-machine support, auto-discovery, cache-aware routing, ops console, cloud burst, non-LLM fan-out, training, Kubernetes, platforms and signed images — with a pick-by-situation guide and sources.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T17:43:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "nextime",
-      "likes": 12,
-      "views": 3,
-      "retweets": 0,
-      "text": "A reference comparison of the self-hosted AI orchestrators in 2026: modalities, multi-machine support, auto-discovery, cache-aware routing, ops console, cloud burst, non-LLM fan-out, training, Kubernetes, platforms and signed images — with a pick-by-situation guide and sources.",
-      "author_name": "nextime"
-    },
-    {
       "id": "49775817",
       "title": "Lawsuit: Anthropic, OpenAI, SpaceXAI and Google made illegal slowdown agreement",
       "url": "https://www.pbs.org/newshour/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
@@ -195,93 +315,13 @@
         "AI",
         "科技"
       ],
-      "score": 21,
+      "score": 22,
       "author": "rdmuser",
-      "likes": 7,
+      "likes": 8,
       "views": 2,
       "retweets": 0,
       "text": "The lawsuit argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.",
       "author_name": "rdmuser"
-    },
-    {
-      "id": "49774919",
-      "title": "Claude Code is getting native AGENTS.md support",
-      "url": "https://github.com/anthropics/claude-code/tree/main/mods/agents-md",
-      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - claude-code/mods/agents-md at main · anthropics/claude-code",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T11:58:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "thisisfatih",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - claude-code/mods/agents-md at main · anthropics/claude-code",
-      "author_name": "thisisfatih"
-    },
-    {
-      "id": "49774704",
-      "title": "Underclass: An OpenAI-compatible pooling proxy that pins sessions to one account",
-      "url": "https://github.com/ghuntley/underclass",
-      "summary": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry. - ghuntley/underclass",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-20T11:24:22Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "ghuntley",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry. - ghuntley/underclass",
-      "author_name": "ghuntley"
-    },
-    {
-      "id": "49770287",
-      "title": "Partnering with Accenture on Embedded Evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "summary": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T21:29:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 42,
-      "author": "theanonymousone",
-      "likes": 11,
-      "views": 3,
-      "retweets": 0,
-      "text": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
-      "author_name": "theanonymousone"
-    },
-    {
-      "id": "49770179",
-      "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
-      "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
-      "summary": "President Trump said he will not &quot;hinder or stifle&quot; AI development after some leaders of frontier AI labs called for US government regulation.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-19T21:14:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 24,
-      "author": "berkeleyjunk",
-      "likes": 8,
-      "views": 1,
-      "retweets": 0,
-      "text": "President Trump said he will not &quot;hinder or stifle&quot; AI development after some leaders of frontier AI labs called for US government regulation.",
-      "author_name": "berkeleyjunk"
     },
     {
       "id": "49769668",
@@ -298,7 +338,7 @@
       "score": 54,
       "author": "hei-lima",
       "likes": 38,
-      "views": 24,
+      "views": 25,
       "retweets": 0,
       "text": "Insiders accuse OpenAI and Anthropic of exaggerating &quot;rogue AI&quot; hacks, like the Hugging Face breach, to lobby for market-blocking regulations.",
       "author_name": "hei-lima"
@@ -362,46 +402,6 @@
       "retweets": 0,
       "text": "Stanford Health Care delivers the highest levels of care and compassion. SHC treats cancer, heart disease, brain disorders, primary care issues, and many more.",
       "author_name": "geox"
-    },
-    {
-      "id": "49738279",
-      "title": "Equity Price Shock Scenario Would Entail US Recession",
-      "url": "https://www.fitchratings.com/research/sovereigns/severe-equity-price-shock-scenario-would-entail-us-recession-09-09-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-17T09:22:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "geox",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "geox"
-    },
-    {
-      "id": "49701585",
-      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
-      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-14T18:25:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "wslh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "wslh"
     }
   ]
 }
