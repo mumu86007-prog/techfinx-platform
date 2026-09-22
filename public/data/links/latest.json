@@ -1,187 +1,127 @@
 {
-  "version": "2026-09-22T13:17:55.746Z",
-  "generatedAt": "2026-09-22T13:17:55.746Z",
+  "version": "2026-09-22T21:55:47.478Z",
+  "generatedAt": "2026-09-22T21:55:47.478Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49800785",
-      "title": "Claudisms AI models overuse the same words. This is a running catalog of them",
-      "url": "https://claudisms.ai/",
-      "summary": "A living banlist of the words, phrases, and structural tics that signal AI-generated writing - the ones to flag and scrub before a draft goes out. Free to reuse (CC0).",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T13:15:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Bluestein",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A living banlist of the words, phrases, and structural tics that signal AI-generated writing - the ones to flag and scrub before a draft goes out. Free to reuse (CC0).",
-      "author_name": "Bluestein"
-    },
-    {
-      "id": "49800627",
-      "title": "GPU is starving – LLM host dispatch at 191k steps/s on 1 vCPU",
-      "url": "https://github.com/cortexLab011/floria-serving",
-      "summary": "Native Hardware Serving & Continuous Batching Acceleration for Dense LLMs (CIPO CA 3,322,620) - cortexLab011/floria-serving",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T13:04:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "cortexlab1",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Native Hardware Serving & Continuous Batching Acceleration for Dense LLMs (CIPO CA 3,322,620) - cortexLab011/floria-serving",
-      "author_name": "cortexlab1"
-    },
-    {
-      "id": "49800608",
-      "title": "Why the hard part of route optimization is the modeling, not the algorithm",
-      "url": "https://kardinal.ai/why-the-hard-part-of-route-optimization-is-the-modeling-not-the-algorithm/",
-      "summary": "In route optimization, the model matters more than the algorithm. Cédric Hervet (Kardinal) on why distance to constraints makes the difference.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T13:03:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "cedrichervet",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "In route optimization, the model matters more than the algorithm. Cédric Hervet (Kardinal) on why distance to constraints makes the difference.",
-      "author_name": "cedrichervet"
-    },
-    {
-      "id": "49800489",
-      "title": "Package Manager Threat Model, Revisited",
-      "url": "https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html",
-      "summary": "Path traversal via a manifest field appeared in eight of ten package managers audited and thirty-three times in four months of everyone else’s advisories.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T12:56:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "lumpa",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Path traversal via a manifest field appeared in eight of ten package managers audited and thirty-three times in four months of everyone else’s advisories.",
-      "author_name": "lumpa"
-    },
-    {
-      "id": "49800407",
-      "title": "Hedge-fund manager built his firm to be powered by AI agents",
-      "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
-      "summary": "It&#x27;s a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T12:50:14Z",
+      "id": "49808710",
+      "title": "AI Abundance Requires a 4-Hour Workweek",
+      "url": "https://elnahla.com/4-hour-workweek/",
+      "summary": "Last year, walking through downtown New York, I saw a ClickUp ad on an MTA bus promising it can help me save one day per week. Then, a few months ago, I saw a newer promise that it would save 6-7 days per week. At this rate, next year&#x27;",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-22T21:54:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "janpot",
-      "likes": 3,
+      "author": "notfried",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "It&#x27;s a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
-      "author_name": "janpot"
+      "text": "Last year, walking through downtown New York, I saw a ClickUp ad on an MTA bus promising it can help me save one day per week. Then, a few months ago, I saw a newer promise that it would save 6-7 days per week. At this rate, next year&#x27;",
+      "author_name": "notfried"
     },
     {
-      "id": "49800208",
-      "title": "Some say AI is ALREADY CONSCIOUS. My response is",
-      "url": "https://www.youtube.com/watch?v=3UWadAJF6wU",
+      "id": "49808404",
+      "title": "Voxiferi introduces VoxWall as an 'AI ingress firewall' for bad data",
+      "url": "https://opensourcewatch.beehiiv.com/p/new-voxiferi-introduces-voxwall-as-an-ai-ingress-firewall-for-bad-data",
+      "summary": "Open-source veteran Dick Morrell’s Voxiferi Labs has open-sourced VoxWall, a policy-driven gateway intended to stop bad data before it reaches AI training, Retrieval-Augmented Generation, inference, or workloads.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-22T21:30:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "CrankyBear",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Open-source veteran Dick Morrell’s Voxiferi Labs has open-sourced VoxWall, a policy-driven gateway intended to stop bad data before it reaches AI training, Retrieval-Augmented Generation, inference, or workloads.",
+      "author_name": "CrankyBear"
+    },
+    {
+      "id": "49808105",
+      "title": "Relaticle, a self-hosted CRM where AI updates data only after your approval",
+      "url": "https://relaticle.com",
+      "summary": "Open-source, self-hosted CRM with a built-in AI chat and 39 MCP tools for external agents. Safe approvals, custom fields, and a REST API. Free forever.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-22T21:06:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "manukminasyan",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Open-source, self-hosted CRM with a built-in AI chat and 39 MCP tools for external agents. Safe approvals, custom fields, and a REST API. Free forever.",
+      "author_name": "manukminasyan"
+    },
+    {
+      "id": "49807970",
+      "title": "Kotlin 2026: Layoffs, AI, Google – Is the Golden Age Over? Jake Wharton Explains [video]",
+      "url": "https://www.youtube.com/watch?v=9WjPdgOK-68",
       "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-22T12:34:24Z",
+      "publishedAt": "2026-09-22T20:57:00Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "calebm",
+      "author": "cstever",
       "likes": 1,
       "views": 0,
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "calebm"
+      "author_name": "cstever"
     },
     {
-      "id": "49799764",
-      "title": "A dataset hub for LLM serving research",
-      "url": "https://data.freeinference.org/",
-      "summary": "A dataset hub for LLM serving research. Request traces, agent workloads, and GPU telemetry from Harvard MadSys and collaborators.",
+      "id": "49806453",
+      "title": "Mirendil in talks to raise $1B at $5B valuation led by Kleiner Perkins",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-staffers-self-improving-161648217.html",
+      "summary": "Mirendil, an artificial intelligence startup launched by former Anthropic PBC researchers, is in talks to raise a new round of funding at a $5 billion valuation, including the investment, according to people familiar with the matter.Kleiner Perkins is in talks to lead the current financing effort, which could bring up…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T11:50:15Z",
+      "publishedAt": "2026-09-22T19:04:20Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "Anon84",
-      "likes": 1,
+      "score": 20,
+      "author": "utiiiD",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "A dataset hub for LLM serving research. Request traces, agent workloads, and GPU telemetry from Harvard MadSys and collaborators.",
-      "author_name": "Anon84"
+      "text": "Mirendil, an artificial intelligence startup launched by former Anthropic PBC researchers, is in talks to raise a new round of funding at a $5 billion valuation, including the investment, according to people familiar with the matter.Kleiner Perkins is in talks to lead the current financing effort, which could bring up…",
+      "author_name": "utiiiD"
     },
     {
-      "id": "49799468",
-      "title": "PanTilt–desk pan-tilt tracker on Nim+ORT/OpenVINO+Nano(I debug on apples)",
-      "url": "https://github.com/olesha-ai/pan-tilt-ai-tracker",
-      "summary": "PanTilt 0.9.0 - desk visual tracking with journal + optional Nano/PCA9685 neck. Same ORT/OpenVINO loop family as edgeinfer-eval. - olesha-ai/pan-tilt-ai-tracker",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-22T11:20:19Z",
+      "id": "49804488",
+      "title": "Anthropic now offering limit resets like Codex",
+      "url": "https://twitter.com/ClaudeDevs/status/2102438803013333469",
+      "summary": "If you&#x27;re on Pro, Max, or Team, your reset is available today in Settings → Usage. Apply it any time until Oct 22. Opus 5.5 is the default for paid plans. It&#x27;s priced lower than Opus 5, so your 5-hour and weekly limits go 25% further.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-22T17:02:14Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "olesha-ai",
-      "likes": 1,
+      "score": 19,
+      "author": "vertigoruntime",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "PanTilt 0.9.0 - desk visual tracking with journal + optional Nano/PCA9685 neck. Same ORT/OpenVINO loop family as edgeinfer-eval. - olesha-ai/pan-tilt-ai-tracker",
-      "author_name": "olesha-ai"
-    },
-    {
-      "id": "49797518",
-      "title": "How Claude is uplifting biomolecular modeling",
-      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T06:46:55Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "gmays",
-      "likes": 6,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "author_name": "gmays"
+      "text": "If you&#x27;re on Pro, Max, or Team, your reset is available today in Settings → Usage. Apply it any time until Oct 22. Opus 5.5 is the default for paid plans. It&#x27;s priced lower than Opus 5, so your 5-hour and weekly limits go 25% further.",
+      "author_name": "vertigoruntime"
     },
     {
       "id": "49796998",
@@ -204,66 +144,6 @@
       "author_name": "WavyPeng"
     },
     {
-      "id": "49796865",
-      "title": "Pangram flags award-winning novel as largely AI written",
-      "url": "https://twitter.com/Pangramed/status/2102045146674053162",
-      "summary": "Avez-vous entendu parler de ce roman ? C’est le « phénomène de la rentrée littéraire ». Il est lauréat du Prix Fnac, du Prix Méduse, du Prix Première Plume, fortement pressenti pour le Prix Renaudot, et il est en lice pour les prix Goncourt, Femina, Médicis et Décembre. Ah oui, il est aussi en cour…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-22T04:43:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "fbrusch",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Avez-vous entendu parler de ce roman ? C’est le « phénomène de la rentrée littéraire ». Il est lauréat du Prix Fnac, du Prix Méduse, du Prix Première Plume, fortement pressenti pour le Prix Renaudot, et il est en lice pour les prix Goncourt, Femina, Médicis et Décembre. Ah oui, il est aussi en cour…",
-      "author_name": "fbrusch"
-    },
-    {
-      "id": "49795807",
-      "title": "OpenAI flags 6 new incidents of 'concerning' behavior, unveils plan to track it",
-      "url": "https://www.nbcnews.com/tech/tech-news/openai-new-incidents-concerning-behavior-model-misalignment-rcna598277",
-      "summary": "The announcement late Wednesday follows mounting public calls to slow the pace of the technology’s development, with U.S. tech bosses voicing grave safety concerns.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T01:37:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "gmays",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "The announcement late Wednesday follows mounting public calls to slow the pace of the technology’s development, with U.S. tech bosses voicing grave safety concerns.",
-      "author_name": "gmays"
-    },
-    {
-      "id": "49795755",
-      "title": "Escaping the OpenAI Codex sandbox, twice",
-      "url": "https://accomplish.ai/blog/escaping-the-openai-codex-sandbox-twice/",
-      "summary": "Two ways out. One lets a patch write anywhere on the disk with no prompt. The other gets unsandboxed command execution out of read-only, the strictest mode Codex has.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T01:29:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "CoderLim110",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Two ways out. One lets a patch write anywhere on the disk with no prompt. The other gets unsandboxed command execution out of read-only, the strictest mode Codex has.",
-      "author_name": "CoderLim110"
-    },
-    {
       "id": "49793333",
       "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
       "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
@@ -284,46 +164,6 @@
       "author_name": "gfactor_ai"
     },
     {
-      "id": "49793031",
-      "title": "Unsealed files describe OpenAI \"research mission\" to supplant human authors",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
-      "summary": "Newly unsealed comments made in briefs filed by Open AI and Microsoft reveal that executives knew they were illegally training their products on copyrighted books and that AI generated books would likely displace human-authored books in the market.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T20:35:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "ilamont",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Newly unsealed comments made in briefs filed by Open AI and Microsoft reveal that executives knew they were illegally training their products on copyrighted books and that AI generated books would likely displace human-authored books in the market.",
-      "author_name": "ilamont"
-    },
-    {
-      "id": "49790987",
-      "title": "Measurements for understanding the pace of AI development inside frontier labs",
-      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "summary": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T18:07:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "gmays",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
-      "author_name": "gmays"
-    },
-    {
       "id": "49785644",
       "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
       "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
@@ -342,26 +182,6 @@
       "retweets": 0,
       "text": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
       "author_name": "joozio"
-    },
-    {
-      "id": "49769668",
-      "title": "OpenAI and Anthropic oversold AI security breaches",
-      "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
-      "summary": "Insiders accuse OpenAI and Anthropic of exaggerating &quot;rogue AI&quot; hacks, like the Hugging Face breach, to lobby for market-blocking regulations.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-19T19:59:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 54,
-      "author": "hei-lima",
-      "likes": 38,
-      "views": 25,
-      "retweets": 0,
-      "text": "Insiders accuse OpenAI and Anthropic of exaggerating &quot;rogue AI&quot; hacks, like the Hugging Face breach, to lobby for market-blocking regulations.",
-      "author_name": "hei-lima"
     },
     {
       "id": "49738279",
