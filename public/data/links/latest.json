@@ -1,87 +1,267 @@
 {
-  "version": "2026-09-22T21:55:47.478Z",
-  "generatedAt": "2026-09-22T21:55:47.478Z",
+  "version": "2026-09-23T13:33:27.044Z",
+  "generatedAt": "2026-09-23T13:33:27.044Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49808710",
-      "title": "AI Abundance Requires a 4-Hour Workweek",
-      "url": "https://elnahla.com/4-hour-workweek/",
-      "summary": "Last year, walking through downtown New York, I saw a ClickUp ad on an MTA bus promising it can help me save one day per week. Then, a few months ago, I saw a newer promise that it would save 6-7 days per week. At this rate, next year&#x27;",
+      "id": "49815709",
+      "title": "Americans Fear AI Will Make the World Worse, Love It Anyway",
+      "url": "https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/",
+      "summary": "Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the &#x27;Paradox of the Worried West.&#x27;",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-22T21:54:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "notfried",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Last year, walking through downtown New York, I saw a ClickUp ad on an MTA bus promising it can help me save one day per week. Then, a few months ago, I saw a newer promise that it would save 6-7 days per week. At this rate, next year&#x27;",
-      "author_name": "notfried"
-    },
-    {
-      "id": "49808404",
-      "title": "Voxiferi introduces VoxWall as an 'AI ingress firewall' for bad data",
-      "url": "https://opensourcewatch.beehiiv.com/p/new-voxiferi-introduces-voxwall-as-an-ai-ingress-firewall-for-bad-data",
-      "summary": "Open-source veteran Dick Morrell’s Voxiferi Labs has open-sourced VoxWall, a policy-driven gateway intended to stop bad data before it reaches AI training, Retrieval-Augmented Generation, inference, or workloads.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-22T21:30:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "CrankyBear",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Open-source veteran Dick Morrell’s Voxiferi Labs has open-sourced VoxWall, a policy-driven gateway intended to stop bad data before it reaches AI training, Retrieval-Augmented Generation, inference, or workloads.",
-      "author_name": "CrankyBear"
-    },
-    {
-      "id": "49808105",
-      "title": "Relaticle, a self-hosted CRM where AI updates data only after your approval",
-      "url": "https://relaticle.com",
-      "summary": "Open-source, self-hosted CRM with a built-in AI chat and 39 MCP tools for external agents. Safe approvals, custom fields, and a REST API. Free forever.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T21:06:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "manukminasyan",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Open-source, self-hosted CRM with a built-in AI chat and 39 MCP tools for external agents. Safe approvals, custom fields, and a REST API. Free forever.",
-      "author_name": "manukminasyan"
-    },
-    {
-      "id": "49807970",
-      "title": "Kotlin 2026: Layoffs, AI, Google – Is the Golden Age Over? Jake Wharton Explains [video]",
-      "url": "https://www.youtube.com/watch?v=9WjPdgOK-68",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-22T20:57:00Z",
+      "publishedAt": "2026-09-23T13:22:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "cstever",
+      "author": "awoodbeck",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "cstever"
+      "text": "Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the &#x27;Paradox of the Worried West.&#x27;",
+      "author_name": "awoodbeck"
+    },
+    {
+      "id": "49815671",
+      "title": "MCP Server for Local AI Information",
+      "url": "https://www.promptquorum.com/mcp-stats",
+      "summary": "Connect Claude or any other MCP-compatible AI assistant to PromptQuorum&#x27;s local-LLM directory and guides. See what the server can do and how much it&#x27;s used.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T13:20:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "PromptQuorum",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Connect Claude or any other MCP-compatible AI assistant to PromptQuorum&#x27;s local-LLM directory and guides. See what the server can do and how much it&#x27;s used.",
+      "author_name": "PromptQuorum"
+    },
+    {
+      "id": "49815653",
+      "title": "Andreessen Horowitz is launching an (AI) 'academy' with no homework",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "summary": "Venture capital firm Andreessen Horowitz is launching an “academy” designed to serve as a pipeline for students to build or join a Silicon Valley startup.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-23T13:18:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "achow",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Venture capital firm Andreessen Horowitz is launching an “academy” designed to serve as a pipeline for students to build or join a Silicon Valley startup.",
+      "author_name": "achow"
+    },
+    {
+      "id": "49815624",
+      "title": "The Gnome LLM Policy That I Want",
+      "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+      "summary": "KDE is on the news because of a controversial proposal to define an official “AI” (LLM) policy (archived link). Other projects have tried their hand at similar policies and stances but, in my opinion, they miss the mark about the goal of such initiatives. I think that the point of these statements is shaping social &he…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T13:16:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "ibobev",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "KDE is on the news because of a controversial proposal to define an official “AI” (LLM) policy (archived link). Other projects have tried their hand at similar policies and stances but, in my opinion, they miss the mark about the goal of such initiatives. I think that the point of these statements is shaping social &he…",
+      "author_name": "ibobev"
+    },
+    {
+      "id": "49815409",
+      "title": "Native Mail – An email client where an agent handles your inbox",
+      "url": "https://getnative.ai",
+      "summary": "Your inbox, finally solved. Let your agent sort your mail, prepare replies, and follow up on loose ends. You keep the final say.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T13:00:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "sebastiankade",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Your inbox, finally solved. Let your agent sort your mail, prepare replies, and follow up on loose ends. You keep the final say.",
+      "author_name": "sebastiankade"
+    },
+    {
+      "id": "49815359",
+      "title": "VedicQ AI Astrology Kundli Engine",
+      "url": "https://www.vedicq.com/",
+      "summary": "Chat with VedicQ AI Astrologer 24/7 for real-time Kundli analysis and Vedic astrology predictions. Get personalized birth chart analysis with artificial intelligence.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T12:56:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "rajtvservice",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Chat with VedicQ AI Astrologer 24/7 for real-time Kundli analysis and Vedic astrology predictions. Get personalized birth chart analysis with artificial intelligence.",
+      "author_name": "rajtvservice"
+    },
+    {
+      "id": "49815127",
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "summary": "OpenAI is hiring influencers to create content that portrays AI as cool and helpful, not scary. Here&#x27;s an inside look at its marketing strategy.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T12:32:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 68,
+      "author": "cdrnsf",
+      "likes": 52,
+      "views": 23,
+      "retweets": 0,
+      "text": "OpenAI is hiring influencers to create content that portrays AI as cool and helpful, not scary. Here&#x27;s an inside look at its marketing strategy.",
+      "author_name": "cdrnsf"
+    },
+    {
+      "id": "49814797",
+      "title": "Jev-rs: a Rust crate to turn a LLM to serve jev",
+      "url": "https://github.com/yijunyu/jev-rs",
+      "summary": "System One judgments (noul/choice/score) from any LLM in one prefill — a Rust, Jev-compatible /v1/systemone engine - yijunyu/jev-rs",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T12:02:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "yijunyu",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "System One judgments (noul/choice/score) from any LLM in one prefill — a Rust, Jev-compatible /v1/systemone engine - yijunyu/jev-rs",
+      "author_name": "yijunyu"
+    },
+    {
+      "id": "49814680",
+      "title": "Jev-serve: Run latest qwen3.8, all LLM models, mlx-supported",
+      "url": "https://github.com/rreinold/jev-serve",
+      "summary": "Single logit inference runtime for all LLM models. Contribute to rreinold/jev-serve development by creating an account on GitHub.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T11:51:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "rreinold2",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Single logit inference runtime for all LLM models. Contribute to rreinold/jev-serve development by creating an account on GitHub.",
+      "author_name": "rreinold2"
+    },
+    {
+      "id": "49814638",
+      "title": "What if we created a local AI tool to measure your security?",
+      "url": "https://github.com/just-not-google/BiNeuron",
+      "summary": "BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, translates, filters profanity, and uses proxies if needed.…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T11:47:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "BiNeuron",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, translates, filters profanity, and uses proxies if needed.…",
+      "author_name": "BiNeuron"
+    },
+    {
+      "id": "49812040",
+      "title": "Province of BC Sues OpenAI and Sam Altman over Tumbler Ridge School Shooting",
+      "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+      "summary": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter&#x2019;s ChatGPT use",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T05:35:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "johnnyApplePRNG",
+      "likes": 5,
+      "views": 5,
+      "retweets": 0,
+      "text": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter&#x2019;s ChatGPT use",
+      "author_name": "johnnyApplePRNG"
+    },
+    {
+      "id": "49810218",
+      "title": "Weak models write tool calls as prose. We started executing them",
+      "url": "https://fiit.ai/engineering/tool-calls-as-prose",
+      "summary": "An agent reported success after zero tool calls — the model wrote the call into its reply. Why the obvious guard missed it, and what we do now.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T00:44:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "airbai",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "An agent reported success after zero tool calls — the model wrote the call into its reply. Why the obvious guard missed it, and what we do now.",
+      "author_name": "airbai"
+    },
+    {
+      "id": "49810211",
+      "title": "Formal methods can start small",
+      "url": "https://www.yovico.ai/blog/formal-methods-can-start-small/",
+      "summary": "Proof assistants are introduced through their hardest applications, so people assume opening one means a large project. A four-state Agda specification, compiled and used as the test oracle for Go code, shows how small the useful unit has become, and what formalizing Yovico&#x27;s payment rules turned up.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-23T00:43:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "siberiankot",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Proof assistants are introduced through their hardest applications, so people assume opening one means a large project. A four-state Agda specification, compiled and used as the test oracle for Go code, shows how small the useful unit has become, and what formalizing Yovico&#x27;s payment rules turned up.",
+      "author_name": "siberiankot"
     },
     {
       "id": "49806453",
@@ -124,26 +304,6 @@
       "author_name": "vertigoruntime"
     },
     {
-      "id": "49796998",
-      "title": "StepFun teases Step 5 Preview, a 600B/27B MoE, open weights coming Oct 15",
-      "url": "https://twitter.com/StepFun_ai/status/2101510462685003786",
-      "summary": "Introducing Step 5 Preview: Advancing the Pareto Frontier. Step 5 Preview is our new flagship model for agentic work, delivering frontier-level performance across software engineering and professional knowledge work, with particular strength in finance. - 600B total / 27B active MoE, with 1M cont…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T05:06:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "WavyPeng",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "Introducing Step 5 Preview: Advancing the Pareto Frontier. Step 5 Preview is our new flagship model for agentic work, delivering frontier-level performance across software engineering and professional knowledge work, with particular strength in finance. - 600B total / 27B active MoE, with 1M cont…",
-      "author_name": "WavyPeng"
-    },
-    {
       "id": "49793333",
       "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
       "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
@@ -162,26 +322,6 @@
       "retweets": 0,
       "text": "A technical deep dive into vLLM: PagedAttention, continuous batching, chunked prefill, CUDA graphs, and empirical benchmarks from gft-studio across GRPO rollout phases and inference serving on NVIDIA H100 and H200.",
       "author_name": "gfactor_ai"
-    },
-    {
-      "id": "49785644",
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-21T11:01:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "joozio",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-      "author_name": "joozio"
     },
     {
       "id": "49738279",
