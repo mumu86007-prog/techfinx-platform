@@ -1,187 +1,387 @@
 {
-  "version": "2026-09-23T13:33:27.044Z",
-  "generatedAt": "2026-09-23T13:33:27.044Z",
+  "version": "2026-09-23T22:13:32.484Z",
+  "generatedAt": "2026-09-23T22:13:32.484Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49815709",
-      "title": "Americans Fear AI Will Make the World Worse, Love It Anyway",
-      "url": "https://www.404media.co/americans-love-to-use-ai-but-fear-it-will-make-the-world-worse-according-to-new-study/",
-      "summary": "Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the &#x27;Paradox of the Worried West.&#x27;",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:22:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "awoodbeck",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Wealthy countries with many daily AI users tended to fear more for the future in what Gallup called the &#x27;Paradox of the Worried West.&#x27;",
-      "author_name": "awoodbeck"
-    },
-    {
-      "id": "49815671",
-      "title": "MCP Server for Local AI Information",
-      "url": "https://www.promptquorum.com/mcp-stats",
-      "summary": "Connect Claude or any other MCP-compatible AI assistant to PromptQuorum&#x27;s local-LLM directory and guides. See what the server can do and how much it&#x27;s used.",
+      "id": "49823211",
+      "title": "I stress-tested LLM quantization by deliberately breaking models",
+      "url": "https://github.com/gracejackson-sudo/quant-delta-predictor",
+      "summary": "A calibrated risk envelope for LLM quantization that refuses to answer where its own coverage doesn&#39;t hold - gracejackson-sudo/quant-delta-predictor",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T13:20:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "PromptQuorum",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Connect Claude or any other MCP-compatible AI assistant to PromptQuorum&#x27;s local-LLM directory and guides. See what the server can do and how much it&#x27;s used.",
-      "author_name": "PromptQuorum"
-    },
-    {
-      "id": "49815653",
-      "title": "Andreessen Horowitz is launching an (AI) 'academy' with no homework",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "summary": "Venture capital firm Andreessen Horowitz is launching an “academy” designed to serve as a pipeline for students to build or join a Silicon Valley startup.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-23T13:18:02Z",
+      "publishedAt": "2026-09-23T22:04:50Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 32,
-      "author": "achow",
+      "author": "GraceJackson07",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Venture capital firm Andreessen Horowitz is launching an “academy” designed to serve as a pipeline for students to build or join a Silicon Valley startup.",
-      "author_name": "achow"
+      "text": "A calibrated risk envelope for LLM quantization that refuses to answer where its own coverage doesn&#39;t hold - gracejackson-sudo/quant-delta-predictor",
+      "author_name": "GraceJackson07"
     },
     {
-      "id": "49815624",
-      "title": "The Gnome LLM Policy That I Want",
-      "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
-      "summary": "KDE is on the news because of a controversial proposal to define an official “AI” (LLM) policy (archived link). Other projects have tried their hand at similar policies and stances but, in my opinion, they miss the mark about the goal of such initiatives. I think that the point of these statements is shaping social &he…",
+      "id": "49823038",
+      "title": "The last IMO problem AI could not solve [video]",
+      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T21:47:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "ColinWright",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "ColinWright"
+    },
+    {
+      "id": "49822973",
+      "title": "OpenAI agent hacked Medicare, Albanese expressed 'extreme concern' to Sam Altman",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+      "summary": "Prime minister says he expressed to OpenAI CEO disappointment it took the company &#x2018;way too long&#x2019; to inform his government about the breach",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T13:16:20Z",
+      "publishedAt": "2026-09-23T21:41:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "NervousDendrite",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Prime minister says he expressed to OpenAI CEO disappointment it took the company &#x2018;way too long&#x2019; to inform his government about the breach",
+      "author_name": "NervousDendrite"
+    },
+    {
+      "id": "49822950",
+      "title": "OpenAI Hacked Medicare Portal, Australia Prime Minister Anthony Albanese Says",
+      "url": "https://www.rnz.co.nz/news/world/1551084/openai-hacked-medicare-portal-australia-prime-minister-anthony-albanese-says",
+      "summary": "Prime Minister Anthony Albanese has revealed an AI agent hacked into an Australian Medicare data portal earlier this year.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T21:39:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "richardc323",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Prime Minister Anthony Albanese has revealed an AI agent hacked into an Australian Medicare data portal earlier this year.",
+      "author_name": "richardc323"
+    },
+    {
+      "id": "49822903",
+      "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
+      "url": "https://www.avclub.com/meta-muse-ai-human-labor",
+      "summary": "Like the rest of the AI industry, Meta is using human workers to make its AI agents, which purportedly makes phone calls, look like magic",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T21:34:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "randycupertino",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Like the rest of the AI industry, Meta is using human workers to make its AI agents, which purportedly makes phone calls, look like magic",
+      "author_name": "randycupertino"
+    },
+    {
+      "id": "49822844",
+      "title": "My Wedding Invitations Became an Experiment in AI Memory",
+      "url": "https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/",
+      "summary": "I ran into a very annoying issue while trying to build a website for my wedding invitations. Every time I sent a prompt to my LLM it would do one of two things: 1. Ask me lots of clarifying questions (annoying) 2. Spend lots of time and tokens searching the project (annoying and expensive!) So I would either end up flu…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T21:28:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "pureooze",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I ran into a very annoying issue while trying to build a website for my wedding invitations. Every time I sent a prompt to my LLM it would do one of two things: 1. Ask me lots of clarifying questions (annoying) 2. Spend lots of time and tokens searching the project (annoying and expensive!) So I would either end up flu…",
+      "author_name": "pureooze"
+    },
+    {
+      "id": "49822457",
+      "title": "OpenAI hacked Australian Medicare portal",
+      "url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078",
+      "summary": "Anthony Albanese says he has spoken to the Open AI chief executive to express his concern about the incident and the length of time it took the tech company to inform the government of the breach.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T20:55:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 23,
+      "author": "cgb_",
+      "likes": 9,
+      "views": 3,
+      "retweets": 0,
+      "text": "Anthony Albanese says he has spoken to the Open AI chief executive to express his concern about the incident and the length of time it took the tech company to inform the government of the breach.",
+      "author_name": "cgb_"
+    },
+    {
+      "id": "49822442",
+      "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
+      "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
+      "summary": "The Israeli security startup is in talks to raise more than $100 million from Thrive Capital and Greenoaks in a round that has yet to be finalized.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T20:54:39Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 22,
-      "author": "ibobev",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "KDE is on the news because of a controversial proposal to define an official “AI” (LLM) policy (archived link). Other projects have tried their hand at similar policies and stances but, in my opinion, they miss the mark about the goal of such initiatives. I think that the point of these statements is shaping social &he…",
-      "author_name": "ibobev"
-    },
-    {
-      "id": "49815409",
-      "title": "Native Mail – An email client where an agent handles your inbox",
-      "url": "https://getnative.ai",
-      "summary": "Your inbox, finally solved. Let your agent sort your mail, prepare replies, and follow up on loose ends. You keep the final say.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T13:00:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "sebastiankade",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Your inbox, finally solved. Let your agent sort your mail, prepare replies, and follow up on loose ends. You keep the final say.",
-      "author_name": "sebastiankade"
-    },
-    {
-      "id": "49815359",
-      "title": "VedicQ AI Astrology Kundli Engine",
-      "url": "https://www.vedicq.com/",
-      "summary": "Chat with VedicQ AI Astrologer 24/7 for real-time Kundli analysis and Vedic astrology predictions. Get personalized birth chart analysis with artificial intelligence.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T12:56:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "rajtvservice",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Chat with VedicQ AI Astrologer 24/7 for real-time Kundli analysis and Vedic astrology predictions. Get personalized birth chart analysis with artificial intelligence.",
-      "author_name": "rajtvservice"
-    },
-    {
-      "id": "49815127",
-      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-      "summary": "OpenAI is hiring influencers to create content that portrays AI as cool and helpful, not scary. Here&#x27;s an inside look at its marketing strategy.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T12:32:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 68,
-      "author": "cdrnsf",
-      "likes": 52,
-      "views": 23,
-      "retweets": 0,
-      "text": "OpenAI is hiring influencers to create content that portrays AI as cool and helpful, not scary. Here&#x27;s an inside look at its marketing strategy.",
-      "author_name": "cdrnsf"
-    },
-    {
-      "id": "49814797",
-      "title": "Jev-rs: a Rust crate to turn a LLM to serve jev",
-      "url": "https://github.com/yijunyu/jev-rs",
-      "summary": "System One judgments (noul/choice/score) from any LLM in one prefill — a Rust, Jev-compatible /v1/systemone engine - yijunyu/jev-rs",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T12:02:22Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "yijunyu",
-      "likes": 2,
+      "author": "myth_drannon",
+      "likes": 6,
       "views": 1,
       "retweets": 0,
-      "text": "System One judgments (noul/choice/score) from any LLM in one prefill — a Rust, Jev-compatible /v1/systemone engine - yijunyu/jev-rs",
-      "author_name": "yijunyu"
+      "text": "The Israeli security startup is in talks to raise more than $100 million from Thrive Capital and Greenoaks in a round that has yet to be finalized.",
+      "author_name": "myth_drannon"
     },
     {
-      "id": "49814680",
-      "title": "Jev-serve: Run latest qwen3.8, all LLM models, mlx-supported",
-      "url": "https://github.com/rreinold/jev-serve",
-      "summary": "Single logit inference runtime for all LLM models. Contribute to rreinold/jev-serve development by creating an account on GitHub.",
+      "id": "49821894",
+      "title": "Jev vs. LLMs on 770 \"Am I the Asshole?\" posts",
+      "url": "https://github.com/dchristopoulos/jev-aita",
+      "summary": "Benchmark of TypeSafe&#39;s Jev against Sonnet 5, GPT-5 nano and local LLMs on 770 Reddit AITA verdicts: Brier scores, latency and cost - dchristopoulos/jev-aita",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T11:51:35Z",
+      "publishedAt": "2026-09-23T20:17:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 32,
-      "author": "rreinold2",
+      "author": "dchristopoulos",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Benchmark of TypeSafe&#39;s Jev against Sonnet 5, GPT-5 nano and local LLMs on 770 Reddit AITA verdicts: Brier scores, latency and cost - dchristopoulos/jev-aita",
+      "author_name": "dchristopoulos"
+    },
+    {
+      "id": "49821770",
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "summary": "Before code review even starts, agents let us build custom tooling and formal models. Here’s how six months of building with AI agents helped us find real issues in our Miden zkVM audit.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T20:07:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "wslh",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "Before code review even starts, agents let us build custom tooling and formal models. Here’s how six months of building with AI agents helped us find real issues in our Miden zkVM audit.",
+      "author_name": "wslh"
+    },
+    {
+      "id": "49820610",
+      "title": "AOS GLM Language Engine – Beta Test",
+      "url": "https://github.com/ThePikey/AOS_GLM_language",
+      "summary": "Sovereign 0-VRAM & 0-LLM Deterministic Reality Engine & TypeSafe Jev Replacement with VSA Hypervectors, Golay G_24 QEC, Clifford Cℓ(8,0) Bivector Wedge Gates, Poincare Geodesics, and Cellular Sheaf Cohomology - ThePikey/AOS_GLM_language",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T18:44:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "imageanet",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Single logit inference runtime for all LLM models. Contribute to rreinold/jev-serve development by creating an account on GitHub.",
-      "author_name": "rreinold2"
+      "text": "Sovereign 0-VRAM & 0-LLM Deterministic Reality Engine & TypeSafe Jev Replacement with VSA Hypervectors, Golay G_24 QEC, Clifford Cℓ(8,0) Bivector Wedge Gates, Poincare Geodesics, and Cellular Sheaf Cohomology - ThePikey/AOS_GLM_language",
+      "author_name": "imageanet"
+    },
+    {
+      "id": "49820184",
+      "title": "Pretraining data, not verifiability, is why LLMs are good at math (and coding)",
+      "url": "https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are",
+      "summary": "A common take I’ve been hearing is: “LLMs are especially good at math because math is easy to verify”. But that story doesn’t make much sense.…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T18:10:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "gmays",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A common take I’ve been hearing is: “LLMs are especially good at math because math is easy to verify”. But that story doesn’t make much sense.…",
+      "author_name": "gmays"
+    },
+    {
+      "id": "49820176",
+      "title": "When AI makes challenging last-minute requests no human client cares about",
+      "url": "https://twitter.com/lauren_wilford/status/2102634073848230395",
+      "summary": "I work at a restaurant that does events and we received some challenging last-minute requests from a client. We scrambled to fill them. I realized later that these requests were likely made by an AI agent, and that the human client might not have personally cared. This felt bad!",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T18:10:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "ilamont",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "I work at a restaurant that does events and we received some challenging last-minute requests from a client. We scrambled to fill them. I realized later that these requests were likely made by an AI agent, and that the human client might not have personally cared. This felt bad!",
+      "author_name": "ilamont"
+    },
+    {
+      "id": "49820134",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T18:06:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 383,
+      "author": "raahelb",
+      "likes": 354,
+      "views": 349,
+      "retweets": 0,
+      "text": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+      "author_name": "raahelb"
+    },
+    {
+      "id": "49819381",
+      "title": "OpenAI researchers might be spending >$4M/day on tokens (at API prices)",
+      "url": "https://www.abtin.com/blog/2026-09-22-openai-spend.html",
+      "summary": "A lognormal estimate of OpenAI researcher token usage at API prices: 1,125 assumed researchers and $4.24 million per day. Assumptions, equations, and three charts.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T17:16:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "abtinf",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "A lognormal estimate of OpenAI researcher token usage at API prices: 1,125 assumed researchers and $4.24 million per day. Assumptions, equations, and three charts.",
+      "author_name": "abtinf"
+    },
+    {
+      "id": "49817941",
+      "title": "AI anxiety is sweeping the globe – and cutting across party lines",
+      "url": "https://www.politico.eu/article/poll-ai-anxiety-openai-anthropic-elon-musk-silicon-valley-across-party-lines/",
+      "summary": "Majorities in six countries said there was at least a “moderate” risk that AI could “destroy humanity,” and a plurality wanted to pause further advancement, a new POLITICO Poll found.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-23T15:50:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "lf88",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Majorities in six countries said there was at least a “moderate” risk that AI could “destroy humanity,” and a plurality wanted to pause further advancement, a new POLITICO Poll found.",
+      "author_name": "lf88"
+    },
+    {
+      "id": "49817871",
+      "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on",
+      "url": "https://thenewstack.io/claude-opus-agent-migration/",
+      "summary": "Claude Opus 5.5 costs less than Opus 5, but four breaking changes to thinking, tool use and computer use can trigger 400 errors in existing AI agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T15:46:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "rkovashikawa",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Claude Opus 5.5 costs less than Opus 5, but four breaking changes to thinking, tool use and computer use can trigger 400 errors in existing AI agents.",
+      "author_name": "rkovashikawa"
+    },
+    {
+      "id": "49817493",
+      "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic",
+      "url": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/",
+      "summary": "Amazon announced new AI tools for its independent sellers, led by a plugin that lets them run their Amazon businesses from Anthropic&#039;s Claude or Amazon&#039;s own Quick assistant.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T15:20:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "thm",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Amazon announced new AI tools for its independent sellers, led by a plugin that lets them run their Amazon businesses from Anthropic&#039;s Claude or Amazon&#039;s own Quick assistant.",
+      "author_name": "thm"
+    },
+    {
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T13:50:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "mooreds",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
     },
     {
       "id": "49814638",
@@ -202,166 +402,6 @@
       "retweets": 0,
       "text": "BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, translates, filters profanity, and uses proxies if needed.…",
       "author_name": "BiNeuron"
-    },
-    {
-      "id": "49812040",
-      "title": "Province of BC Sues OpenAI and Sam Altman over Tumbler Ridge School Shooting",
-      "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
-      "summary": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter&#x2019;s ChatGPT use",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T05:35:25Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "johnnyApplePRNG",
-      "likes": 5,
-      "views": 5,
-      "retweets": 0,
-      "text": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter&#x2019;s ChatGPT use",
-      "author_name": "johnnyApplePRNG"
-    },
-    {
-      "id": "49810218",
-      "title": "Weak models write tool calls as prose. We started executing them",
-      "url": "https://fiit.ai/engineering/tool-calls-as-prose",
-      "summary": "An agent reported success after zero tool calls — the model wrote the call into its reply. Why the obvious guard missed it, and what we do now.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T00:44:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "airbai",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "An agent reported success after zero tool calls — the model wrote the call into its reply. Why the obvious guard missed it, and what we do now.",
-      "author_name": "airbai"
-    },
-    {
-      "id": "49810211",
-      "title": "Formal methods can start small",
-      "url": "https://www.yovico.ai/blog/formal-methods-can-start-small/",
-      "summary": "Proof assistants are introduced through their hardest applications, so people assume opening one means a large project. A four-state Agda specification, compiled and used as the test oracle for Go code, shows how small the useful unit has become, and what formalizing Yovico&#x27;s payment rules turned up.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-23T00:43:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "siberiankot",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Proof assistants are introduced through their hardest applications, so people assume opening one means a large project. A four-state Agda specification, compiled and used as the test oracle for Go code, shows how small the useful unit has become, and what formalizing Yovico&#x27;s payment rules turned up.",
-      "author_name": "siberiankot"
-    },
-    {
-      "id": "49806453",
-      "title": "Mirendil in talks to raise $1B at $5B valuation led by Kleiner Perkins",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-staffers-self-improving-161648217.html",
-      "summary": "Mirendil, an artificial intelligence startup launched by former Anthropic PBC researchers, is in talks to raise a new round of funding at a $5 billion valuation, including the investment, according to people familiar with the matter.Kleiner Perkins is in talks to lead the current financing effort, which could bring up…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T19:04:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "utiiiD",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Mirendil, an artificial intelligence startup launched by former Anthropic PBC researchers, is in talks to raise a new round of funding at a $5 billion valuation, including the investment, according to people familiar with the matter.Kleiner Perkins is in talks to lead the current financing effort, which could bring up…",
-      "author_name": "utiiiD"
-    },
-    {
-      "id": "49804488",
-      "title": "Anthropic now offering limit resets like Codex",
-      "url": "https://twitter.com/ClaudeDevs/status/2102438803013333469",
-      "summary": "If you&#x27;re on Pro, Max, or Team, your reset is available today in Settings → Usage. Apply it any time until Oct 22. Opus 5.5 is the default for paid plans. It&#x27;s priced lower than Opus 5, so your 5-hour and weekly limits go 25% further.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-22T17:02:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "vertigoruntime",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "If you&#x27;re on Pro, Max, or Team, your reset is available today in Settings → Usage. Apply it any time until Oct 22. Opus 5.5 is the default for paid plans. It&#x27;s priced lower than Opus 5, so your 5-hour and weekly limits go 25% further.",
-      "author_name": "vertigoruntime"
-    },
-    {
-      "id": "49793333",
-      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
-      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
-      "summary": "A technical deep dive into vLLM: PagedAttention, continuous batching, chunked prefill, CUDA graphs, and empirical benchmarks from gft-studio across GRPO rollout phases and inference serving on NVIDIA H100 and H200.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T20:59:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "gfactor_ai",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "A technical deep dive into vLLM: PagedAttention, continuous batching, chunked prefill, CUDA graphs, and empirical benchmarks from gft-studio across GRPO rollout phases and inference serving on NVIDIA H100 and H200.",
-      "author_name": "gfactor_ai"
-    },
-    {
-      "id": "49738279",
-      "title": "Equity Price Shock Scenario Would Entail US Recession",
-      "url": "https://www.fitchratings.com/research/sovereigns/severe-equity-price-shock-scenario-would-entail-us-recession-09-09-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-17T09:22:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "geox",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "geox"
-    },
-    {
-      "id": "49701585",
-      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
-      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-14T18:25:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "wslh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "wslh"
     }
   ]
 }
