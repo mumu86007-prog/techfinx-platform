@@ -1,187 +1,227 @@
 {
-  "version": "2026-09-23T22:13:32.484Z",
-  "generatedAt": "2026-09-23T22:13:32.484Z",
+  "version": "2026-09-24T13:29:00.309Z",
+  "generatedAt": "2026-09-24T13:29:00.309Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49823211",
-      "title": "I stress-tested LLM quantization by deliberately breaking models",
-      "url": "https://github.com/gracejackson-sudo/quant-delta-predictor",
-      "summary": "A calibrated risk envelope for LLM quantization that refuses to answer where its own coverage doesn&#39;t hold - gracejackson-sudo/quant-delta-predictor",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T22:04:50Z",
+      "id": "49830271",
+      "title": "Why Computing with Time Gives Neuromorphic AI an Edge",
+      "url": "https://www.eetimes.com/podcasts/why-computing-with-time-gives-neuromorphic-ai-an-edge/",
+      "summary": "EE Times connects the global electronics community through news, analysis, education, and peer-to-peer discussion around technology, business, products and design",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-24T13:25:40Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 32,
-      "author": "GraceJackson07",
+      "score": 15,
+      "author": "stmw",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "A calibrated risk envelope for LLM quantization that refuses to answer where its own coverage doesn&#39;t hold - gracejackson-sudo/quant-delta-predictor",
-      "author_name": "GraceJackson07"
+      "text": "EE Times connects the global electronics community through news, analysis, education, and peer-to-peer discussion around technology, business, products and design",
+      "author_name": "stmw"
     },
     {
-      "id": "49823038",
-      "title": "The last IMO problem AI could not solve [video]",
-      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "id": "49830214",
+      "title": "Analog in-memory computing attention mechanism for fast and energy-efficient LLM",
+      "url": "https://www.nature.com/articles/s43588-025-00854-1",
+      "summary": "Transformer networks, driven by self-attention, are central to large language models. In generative transformers, self-attention uses cache memory to store token projections, avoiding recomputation at each time step. However, graphics processing unit (GPU)-stored projections must be loaded into static random-access mem…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T13:20:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "bilsbie",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Transformer networks, driven by self-attention, are central to large language models. In generative transformers, self-attention uses cache memory to store token projections, avoiding recomputation at each time step. However, graphics processing unit (GPU)-stored projections must be loaded into static random-access mem…",
+      "author_name": "bilsbie"
+    },
+    {
+      "id": "49830172",
+      "title": "Jev Is Not a Language Model, but It Breaks Like One",
+      "url": "https://blog.checkpoint.com/ai-security/jev-is-not-a-language-model-but-it-breaks-like-one-prompt-injection-against-a-typed-decision-model/",
+      "summary": "A new kind of AI model returns decisions instead of text. We spent a day trying to change its mind. It cost about 50 cents. In this article Jev is a new %",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T13:16:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "patresh",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A new kind of AI model returns decisions instead of text. We spent a day trying to change its mind. It cost about 50 cents. In this article Jev is a new %",
+      "author_name": "patresh"
+    },
+    {
+      "id": "49829625",
+      "title": "What Is RLCD? The Secret Behind Jev",
+      "url": "https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/",
+      "summary": "RLCD is a calibrated, schema-conditioned extension of pairwise reward modeling: Bradley–Terry becomes Plackett–Luce, and the reward model becomes Jev’s typed decision interface.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T12:21:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "tnspacetime",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "RLCD is a calibrated, schema-conditioned extension of pairwise reward modeling: Bradley–Terry becomes Plackett–Luce, and the reward model becomes Jev’s typed decision interface.",
+      "author_name": "tnspacetime"
+    },
+    {
+      "id": "49828940",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "summary": "Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or wo…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T11:03:52Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "kqr",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or wo…",
+      "author_name": "kqr"
+    },
+    {
+      "id": "49828026",
+      "title": "Anthropic CEO Amodei Warns UN Security Council on AI Risks",
+      "url": "https://www.youtube.com/watch?v=u-u8gOgNA9o",
       "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T21:47:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "ColinWright",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "ColinWright"
-    },
-    {
-      "id": "49822973",
-      "title": "OpenAI agent hacked Medicare, Albanese expressed 'extreme concern' to Sam Altman",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
-      "summary": "Prime minister says he expressed to OpenAI CEO disappointment it took the company &#x2018;way too long&#x2019; to inform his government about the breach",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T21:41:26Z",
+      "publishedAt": "2026-09-24T08:55:52Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "NervousDendrite",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Prime minister says he expressed to OpenAI CEO disappointment it took the company &#x2018;way too long&#x2019; to inform his government about the breach",
-      "author_name": "NervousDendrite"
-    },
-    {
-      "id": "49822950",
-      "title": "OpenAI Hacked Medicare Portal, Australia Prime Minister Anthony Albanese Says",
-      "url": "https://www.rnz.co.nz/news/world/1551084/openai-hacked-medicare-portal-australia-prime-minister-anthony-albanese-says",
-      "summary": "Prime Minister Anthony Albanese has revealed an AI agent hacked into an Australian Medicare data portal earlier this year.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T21:39:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "richardc323",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Prime Minister Anthony Albanese has revealed an AI agent hacked into an Australian Medicare data portal earlier this year.",
-      "author_name": "richardc323"
-    },
-    {
-      "id": "49822903",
-      "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
-      "url": "https://www.avclub.com/meta-muse-ai-human-labor",
-      "summary": "Like the rest of the AI industry, Meta is using human workers to make its AI agents, which purportedly makes phone calls, look like magic",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T21:34:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "randycupertino",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Like the rest of the AI industry, Meta is using human workers to make its AI agents, which purportedly makes phone calls, look like magic",
-      "author_name": "randycupertino"
-    },
-    {
-      "id": "49822844",
-      "title": "My Wedding Invitations Became an Experiment in AI Memory",
-      "url": "https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/",
-      "summary": "I ran into a very annoying issue while trying to build a website for my wedding invitations. Every time I sent a prompt to my LLM it would do one of two things: 1. Ask me lots of clarifying questions (annoying) 2. Spend lots of time and tokens searching the project (annoying and expensive!) So I would either end up flu…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T21:28:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "pureooze",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I ran into a very annoying issue while trying to build a website for my wedding invitations. Every time I sent a prompt to my LLM it would do one of two things: 1. Ask me lots of clarifying questions (annoying) 2. Spend lots of time and tokens searching the project (annoying and expensive!) So I would either end up flu…",
-      "author_name": "pureooze"
-    },
-    {
-      "id": "49822457",
-      "title": "OpenAI hacked Australian Medicare portal",
-      "url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078",
-      "summary": "Anthony Albanese says he has spoken to the Open AI chief executive to express his concern about the incident and the length of time it took the tech company to inform the government of the breach.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T20:55:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "cgb_",
-      "likes": 9,
-      "views": 3,
-      "retweets": 0,
-      "text": "Anthony Albanese says he has spoken to the Open AI chief executive to express his concern about the incident and the length of time it took the tech company to inform the government of the breach.",
-      "author_name": "cgb_"
-    },
-    {
-      "id": "49822442",
-      "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
-      "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
-      "summary": "The Israeli security startup is in talks to raise more than $100 million from Thrive Capital and Greenoaks in a round that has yet to be finalized.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T20:54:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "myth_drannon",
-      "likes": 6,
+      "score": 21,
+      "author": "Betelbuddy",
+      "likes": 5,
       "views": 1,
       "retweets": 0,
-      "text": "The Israeli security startup is in talks to raise more than $100 million from Thrive Capital and Greenoaks in a round that has yet to be finalized.",
-      "author_name": "myth_drannon"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "Betelbuddy"
     },
     {
-      "id": "49821894",
-      "title": "Jev vs. LLMs on 770 \"Am I the Asshole?\" posts",
-      "url": "https://github.com/dchristopoulos/jev-aita",
-      "summary": "Benchmark of TypeSafe&#39;s Jev against Sonnet 5, GPT-5 nano and local LLMs on 770 Reddit AITA verdicts: Brier scores, latency and cost - dchristopoulos/jev-aita",
+      "id": "49827713",
+      "title": "Rails World 2026 Opening Keynote",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-24T08:11:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "edu",
+      "likes": 4,
+      "views": 2,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "edu"
+    },
+    {
+      "id": "49827140",
+      "title": "It took 20 yrs to start regulating social media – will AI controls come sooner?",
+      "url": "https://www.rnz.co.nz/news/business/1557652/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner",
+      "summary": "Analysis: Australian Prime Minister Anthony Albanese&#x27;s decision to reveal a three-month old hack of his country&#x27;s Medicare portal by OpenAI was a calculated political flex.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T20:17:19Z",
+      "publishedAt": "2026-09-24T06:54:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "billybuckwheat",
+      "likes": 5,
+      "views": 2,
+      "retweets": 0,
+      "text": "Analysis: Australian Prime Minister Anthony Albanese&#x27;s decision to reveal a three-month old hack of his country&#x27;s Medicare portal by OpenAI was a calculated political flex.",
+      "author_name": "billybuckwheat"
+    },
+    {
+      "id": "49826856",
+      "title": "Albanese says OpenAI hacked Medicare and told Australia months later",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+      "summary": "Prime minister says he told Sam Altman he was disappointed it had taken OpenAI &#x2018;way too long&#x2019; to disclose breach",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T06:13:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "skor",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Prime minister says he told Sam Altman he was disappointed it had taken OpenAI &#x2018;way too long&#x2019; to disclose breach",
+      "author_name": "skor"
+    },
+    {
+      "id": "49824986",
+      "title": "AP: Avoid language that gives [AI] human characteristics",
+      "url": "https://twitter.com/APStylebook/status/2102807962364383502",
+      "summary": "Artificial intelligence systems do not think, feel, want or understand. Avoid language that gives them human characteristics. This is called anthropomorphizing, when we ascribe human traits, emotions or behaviors to non-human things, such as animals or inanimate objects. Instead, explain what a sys…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-24T01:19:38Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 32,
-      "author": "dchristopoulos",
-      "likes": 3,
+      "author": "jaredwiener",
+      "likes": 15,
+      "views": 9,
+      "retweets": 0,
+      "text": "Artificial intelligence systems do not think, feel, want or understand. Avoid language that gives them human characteristics. This is called anthropomorphizing, when we ascribe human traits, emotions or behaviors to non-human things, such as animals or inanimate objects. Instead, explain what a sys…",
+      "author_name": "jaredwiener"
+    },
+    {
+      "id": "49823444",
+      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
+      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
+      "summary": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T22:26:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Benchmark of TypeSafe&#39;s Jev against Sonnet 5, GPT-5 nano and local LLMs on 770 Reddit AITA verdicts: Brier scores, latency and cost - dchristopoulos/jev-aita",
-      "author_name": "dchristopoulos"
+      "text": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
+      "author_name": "gfactor_ai"
     },
     {
       "id": "49821770",
@@ -195,73 +235,13 @@
         "AI",
         "科技"
       ],
-      "score": 24,
+      "score": 27,
       "author": "wslh",
-      "likes": 5,
+      "likes": 8,
       "views": 0,
       "retweets": 0,
       "text": "Before code review even starts, agents let us build custom tooling and formal models. Here’s how six months of building with AI agents helped us find real issues in our Miden zkVM audit.",
       "author_name": "wslh"
-    },
-    {
-      "id": "49820610",
-      "title": "AOS GLM Language Engine – Beta Test",
-      "url": "https://github.com/ThePikey/AOS_GLM_language",
-      "summary": "Sovereign 0-VRAM & 0-LLM Deterministic Reality Engine & TypeSafe Jev Replacement with VSA Hypervectors, Golay G_24 QEC, Clifford Cℓ(8,0) Bivector Wedge Gates, Poincare Geodesics, and Cellular Sheaf Cohomology - ThePikey/AOS_GLM_language",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T18:44:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "imageanet",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Sovereign 0-VRAM & 0-LLM Deterministic Reality Engine & TypeSafe Jev Replacement with VSA Hypervectors, Golay G_24 QEC, Clifford Cℓ(8,0) Bivector Wedge Gates, Poincare Geodesics, and Cellular Sheaf Cohomology - ThePikey/AOS_GLM_language",
-      "author_name": "imageanet"
-    },
-    {
-      "id": "49820184",
-      "title": "Pretraining data, not verifiability, is why LLMs are good at math (and coding)",
-      "url": "https://www.lesswrong.com/posts/xvdngZAqFZfek7KGH/pretraining-data-not-verifiability-is-why-llms-are",
-      "summary": "A common take I’ve been hearing is: “LLMs are especially good at math because math is easy to verify”. But that story doesn’t make much sense.…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T18:10:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "gmays",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A common take I’ve been hearing is: “LLMs are especially good at math because math is easy to verify”. But that story doesn’t make much sense.…",
-      "author_name": "gmays"
-    },
-    {
-      "id": "49820176",
-      "title": "When AI makes challenging last-minute requests no human client cares about",
-      "url": "https://twitter.com/lauren_wilford/status/2102634073848230395",
-      "summary": "I work at a restaurant that does events and we received some challenging last-minute requests from a client. We scrambled to fill them. I realized later that these requests were likely made by an AI agent, and that the human client might not have personally cared. This felt bad!",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T18:10:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "ilamont",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "I work at a restaurant that does events and we received some challenging last-minute requests from a client. We scrambled to fill them. I realized later that these requests were likely made by an AI agent, and that the human client might not have personally cared. This felt bad!",
-      "author_name": "ilamont"
     },
     {
       "id": "49820134",
@@ -275,33 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 383,
+      "score": 732,
       "author": "raahelb",
-      "likes": 354,
-      "views": 349,
+      "likes": 703,
+      "views": 716,
       "retweets": 0,
       "text": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
       "author_name": "raahelb"
-    },
-    {
-      "id": "49819381",
-      "title": "OpenAI researchers might be spending >$4M/day on tokens (at API prices)",
-      "url": "https://www.abtin.com/blog/2026-09-22-openai-spend.html",
-      "summary": "A lognormal estimate of OpenAI researcher token usage at API prices: 1,125 assumed researchers and $4.24 million per day. Assumptions, equations, and three charts.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T17:16:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "abtinf",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "A lognormal estimate of OpenAI researcher token usage at API prices: 1,125 assumed researchers and $4.24 million per day. Assumptions, equations, and three charts.",
-      "author_name": "abtinf"
     },
     {
       "id": "49817941",
@@ -375,9 +335,9 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 18,
       "author": "mooreds",
-      "likes": 3,
+      "likes": 4,
       "views": 0,
       "retweets": 0,
       "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
@@ -402,6 +362,46 @@
       "retweets": 0,
       "text": "BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, translates, filters profanity, and uses proxies if needed.…",
       "author_name": "BiNeuron"
+    },
+    {
+      "id": "49793333",
+      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
+      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
+      "summary": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T20:59:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
+      "author_name": "gfactor_ai"
+    },
+    {
+      "id": "49738279",
+      "title": "Equity Price Shock Scenario Would Entail US Recession",
+      "url": "https://www.fitchratings.com/research/sovereigns/severe-equity-price-shock-scenario-would-entail-us-recession-09-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-17T09:22:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "geox",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "geox"
     }
   ]
 }
