@@ -1,107 +1,267 @@
 {
-  "version": "2026-09-24T13:29:00.309Z",
-  "generatedAt": "2026-09-24T13:29:00.309Z",
+  "version": "2026-09-24T22:10:51.879Z",
+  "generatedAt": "2026-09-24T22:10:51.879Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49830271",
-      "title": "Why Computing with Time Gives Neuromorphic AI an Edge",
-      "url": "https://www.eetimes.com/podcasts/why-computing-with-time-gives-neuromorphic-ai-an-edge/",
-      "summary": "EE Times connects the global electronics community through news, analysis, education, and peer-to-peer discussion around technology, business, products and design",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-24T13:25:40Z",
+      "id": "49837355",
+      "title": "Adam Conover explains how YouTube ruined everything",
+      "url": "https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai",
+      "summary": "Comedian, writer, and YouTuber Adam Conover discusses the media, entertainment, and labor landscape in the age of Google-dominated streaming video.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-24T22:07:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "robenkleene",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Comedian, writer, and YouTuber Adam Conover discusses the media, entertainment, and labor landscape in the age of Google-dominated streaming video.",
+      "author_name": "robenkleene"
+    },
+    {
+      "id": "49837278",
+      "title": "Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users",
+      "url": "https://performance.dev/chatgpt",
+      "summary": "A technical deep dive into how OpenAI built ChatGPT&#39;s web app: React Router 7, streaming SSR, code splitting, and feature flags at billion-user scale.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T22:00:31Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "stmw",
+      "author": "fagnerbrack",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "EE Times connects the global electronics community through news, analysis, education, and peer-to-peer discussion around technology, business, products and design",
-      "author_name": "stmw"
+      "text": "A technical deep dive into how OpenAI built ChatGPT&#39;s web app: React Router 7, streaming SSR, code splitting, and feature flags at billion-user scale.",
+      "author_name": "fagnerbrack"
     },
     {
-      "id": "49830214",
-      "title": "Analog in-memory computing attention mechanism for fast and energy-efficient LLM",
-      "url": "https://www.nature.com/articles/s43588-025-00854-1",
-      "summary": "Transformer networks, driven by self-attention, are central to large language models. In generative transformers, self-attention uses cache memory to store token projections, avoiding recomputation at each time step. However, graphics processing unit (GPU)-stored projections must be loaded into static random-access mem…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-24T13:20:25Z",
+      "id": "49837058",
+      "title": "CrowdStrike: Frontier AI for Cybersecurity",
+      "url": "https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity",
+      "summary": "Estimated reading time: 14 minutes - How CrowdStrike gave us meaningful advancements in cybersecurity-focused AI and why this has the ingredients to work at scale.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-24T21:38:07Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 20,
-      "author": "bilsbie",
-      "likes": 2,
+      "score": 17,
+      "author": "mooreds",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Transformer networks, driven by self-attention, are central to large language models. In generative transformers, self-attention uses cache memory to store token projections, avoiding recomputation at each time step. However, graphics processing unit (GPU)-stored projections must be loaded into static random-access mem…",
-      "author_name": "bilsbie"
+      "text": "Estimated reading time: 14 minutes - How CrowdStrike gave us meaningful advancements in cybersecurity-focused AI and why this has the ingredients to work at scale.",
+      "author_name": "mooreds"
     },
     {
-      "id": "49830172",
-      "title": "Jev Is Not a Language Model, but It Breaks Like One",
-      "url": "https://blog.checkpoint.com/ai-security/jev-is-not-a-language-model-but-it-breaks-like-one-prompt-injection-against-a-typed-decision-model/",
-      "summary": "A new kind of AI model returns decisions instead of text. We spent a day trying to change its mind. It cost about 50 cents. In this article Jev is a new %",
+      "id": "49835968",
+      "title": "Why AI companies don't need new laws",
+      "url": "https://twitter.com/Paul__Walsh/status/2102801667657748720",
+      "summary": "My technical analysis shows why AI companies don’t need new laws. An AI agent performing the technical action doesn’t create a new legal category or remove responsibility from the people and companies that authorised, controlled or deployed it. Existing laws already cover unauthorised access, inte…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-24T13:16:46Z",
+      "publishedAt": "2026-09-24T19:51:58Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "patresh",
+      "author": "MrBuddyCasino",
       "likes": 2,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "A new kind of AI model returns decisions instead of text. We spent a day trying to change its mind. It cost about 50 cents. In this article Jev is a new %",
-      "author_name": "patresh"
+      "text": "My technical analysis shows why AI companies don’t need new laws. An AI agent performing the technical action doesn’t create a new legal category or remove responsibility from the people and companies that authorised, controlled or deployed it. Existing laws already cover unauthorised access, inte…",
+      "author_name": "MrBuddyCasino"
     },
     {
-      "id": "49829625",
-      "title": "What Is RLCD? The Secret Behind Jev",
-      "url": "https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/",
-      "summary": "RLCD is a calibrated, schema-conditioned extension of pairwise reward modeling: Bradley–Terry becomes Plackett–Luce, and the reward model becomes Jev’s typed decision interface.",
+      "id": "49835073",
+      "title": "Anthropic resumes charging for requests blocked by safeguards",
+      "url": "https://twitter.com/ClaudeDevs/status/2103170368794185758",
+      "summary": "Today, we&#x27;ll resume charging for requests our safeguards block before Claude responds. This only applies in categories with low false positive rates: biology, distillation attacks, and frontier LLM development. We&#x27;ve seen some coordinated attacks on our systems in recent weeks, and this is one laye…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-24T12:21:16Z",
+      "publishedAt": "2026-09-24T18:42:33Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "tnspacetime",
-      "likes": 2,
-      "views": 0,
+      "score": 22,
+      "author": "jeudesprits",
+      "likes": 5,
+      "views": 2,
       "retweets": 0,
-      "text": "RLCD is a calibrated, schema-conditioned extension of pairwise reward modeling: Bradley–Terry becomes Plackett–Luce, and the reward model becomes Jev’s typed decision interface.",
-      "author_name": "tnspacetime"
+      "text": "Today, we&#x27;ll resume charging for requests our safeguards block before Claude responds. This only applies in categories with low false positive rates: biology, distillation attacks, and frontier LLM development. We&#x27;ve seen some coordinated attacks on our systems in recent weeks, and this is one laye…",
+      "author_name": "jeudesprits"
     },
     {
-      "id": "49828940",
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "summary": "Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or wo…",
+      "id": "49835056",
+      "title": "OpenAI, Anthropic CEOs urge UN countries to cooperate on AI safety standards",
+      "url": "https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards",
+      "summary": "&#34;The heads of major AI firms pleaded with the United Nations on Wednesday to save the world or at least its people &mdash; by somehow regulating the fast-expanding technology that they have been designing,&#34; writes the Associated Press. &#34;If managed poorly, I even believe AI could be a risk to humani...",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-24T11:03:52Z",
+      "publishedAt": "2026-09-24T18:40:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "kqr",
-      "likes": 2,
+      "score": 21,
+      "author": "MilnerRoute",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "&#34;The heads of major AI firms pleaded with the United Nations on Wednesday to save the world or at least its people &mdash; by somehow regulating the fast-expanding technology that they have been designing,&#34; writes the Associated Press. &#34;If managed poorly, I even believe AI could be a risk to humani...",
+      "author_name": "MilnerRoute"
+    },
+    {
+      "id": "49834079",
+      "title": "Funny VideosHow to Start a Faceless YouTube Channel with AI: A Complete Guide",
+      "url": "https://coursiv.io/blog/how-to-start-a-faceless-youtube-channel-with-ai",
+      "summary": "A complete guide to starting a faceless YouTube channel with AI, from niche and script to AI visuals, voiceover and monetization, plus the mistakes that stall new channels.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-24T17:34:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Asifulla",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or wo…",
-      "author_name": "kqr"
+      "text": "A complete guide to starting a faceless YouTube channel with AI, from niche and script to AI visuals, voiceover and monetization, plus the mistakes that stall new channels.",
+      "author_name": "Asifulla"
+    },
+    {
+      "id": "49834034",
+      "title": "Startups I am curious, what ERP system do you guys use?",
+      "url": "https://agaro.ai/",
+      "summary": "Agaro ERP is an AI native ERP for finance, customers, people, and operations, run by an assistant with the same permissions as the user. Launching soon.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-24T17:31:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "yusufghyasi",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Agaro ERP is an AI native ERP for finance, customers, people, and operations, run by an assistant with the same permissions as the user. Launching soon.",
+      "author_name": "yusufghyasi"
+    },
+    {
+      "id": "49831875",
+      "title": "DHH at Rails World – Ruby on Rails no longer needed now because AI can make apps",
+      "url": "https://twitter.com/_architected/status/2102863549689459031",
+      "summary": "So basically @DHH came to the Rails World and told them that Ruby on Rails is no longer needed now because AI can make apps in any languages. That&#x27;s the funniest thing that could&#x27;ve happened.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-24T15:21:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "thunderbong",
+      "likes": 9,
+      "views": 4,
+      "retweets": 0,
+      "text": "So basically @DHH came to the Rails World and told them that Ruby on Rails is no longer needed now because AI can make apps in any languages. That&#x27;s the funniest thing that could&#x27;ve happened.",
+      "author_name": "thunderbong"
+    },
+    {
+      "id": "49831236",
+      "title": "Humans Are Reading Your ChatGPT Chats, Lawsuit Claims",
+      "url": "https://openclassactions.com/lawsuits/privacy/openai-chatgpt-human-review-project-lily-class-action-lawsuit.php",
+      "summary": "A new class action alleges OpenAI let outside contractors read and grade real ChatGPT conversations under “Project Lily” without telling users.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T14:36:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 55,
+      "author": "nreece",
+      "likes": 41,
+      "views": 13,
+      "retweets": 0,
+      "text": "A new class action alleges OpenAI let outside contractors read and grade real ChatGPT conversations under “Project Lily” without telling users.",
+      "author_name": "nreece"
+    },
+    {
+      "id": "49830934",
+      "title": "Australian PM says OpenAI hacked government health website",
+      "url": "https://www.yahoo.com/news/world/articles/australian-pm-says-openai-hacked-232712261.html",
+      "summary": "A rogue OpenAI model bypassed safeguards during training and hacked an Australian government website, Prime Minister Anthony Albanese said as he admonished the ChatGPT creator over an &quot;obviously unacc...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T14:13:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "pseudolus",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "A rogue OpenAI model bypassed safeguards during training and hacked an Australian government website, Prime Minister Anthony Albanese said as he admonished the ChatGPT creator over an &quot;obviously unacc...",
+      "author_name": "pseudolus"
+    },
+    {
+      "id": "49830830",
+      "title": "Australia to investigate if OpenAI hack of government health website broke",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "summary": "The incident is the first known breach to affect a government agency, and Australia&#039;s prime minister has vowed to hold OpenAI accountable.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T14:07:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "sbulaev",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "The incident is the first known breach to affect a government agency, and Australia&#039;s prime minister has vowed to hold OpenAI accountable.",
+      "author_name": "sbulaev"
+    },
+    {
+      "id": "49830646",
+      "title": "AI could make more companies worth hacking, Anthropic report suggests",
+      "url": "https://fortune.com/2026/09/24/ai-could-make-more-companies-worth-hacking-anthropic-report-suggests/",
+      "summary": "Attackers extracted data belonging to roughly 200 customers of a software provider, with AI agents doing nearly all the work, Anthropic says.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-24T13:55:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Brajeshwar",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Attackers extracted data belonging to roughly 200 customers of a software provider, with AI agents doing nearly all the work, Anthropic says.",
+      "author_name": "Brajeshwar"
     },
     {
       "id": "49828026",
@@ -118,90 +278,10 @@
       "score": 21,
       "author": "Betelbuddy",
       "likes": 5,
-      "views": 1,
+      "views": 3,
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "author_name": "Betelbuddy"
-    },
-    {
-      "id": "49827713",
-      "title": "Rails World 2026 Opening Keynote",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-24T08:11:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "edu",
-      "likes": 4,
-      "views": 2,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "edu"
-    },
-    {
-      "id": "49827140",
-      "title": "It took 20 yrs to start regulating social media – will AI controls come sooner?",
-      "url": "https://www.rnz.co.nz/news/business/1557652/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner",
-      "summary": "Analysis: Australian Prime Minister Anthony Albanese&#x27;s decision to reveal a three-month old hack of his country&#x27;s Medicare portal by OpenAI was a calculated political flex.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-24T06:54:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "billybuckwheat",
-      "likes": 5,
-      "views": 2,
-      "retweets": 0,
-      "text": "Analysis: Australian Prime Minister Anthony Albanese&#x27;s decision to reveal a three-month old hack of his country&#x27;s Medicare portal by OpenAI was a calculated political flex.",
-      "author_name": "billybuckwheat"
-    },
-    {
-      "id": "49826856",
-      "title": "Albanese says OpenAI hacked Medicare and told Australia months later",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
-      "summary": "Prime minister says he told Sam Altman he was disappointed it had taken OpenAI &#x2018;way too long&#x2019; to disclose breach",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-24T06:13:56Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "skor",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Prime minister says he told Sam Altman he was disappointed it had taken OpenAI &#x2018;way too long&#x2019; to disclose breach",
-      "author_name": "skor"
-    },
-    {
-      "id": "49824986",
-      "title": "AP: Avoid language that gives [AI] human characteristics",
-      "url": "https://twitter.com/APStylebook/status/2102807962364383502",
-      "summary": "Artificial intelligence systems do not think, feel, want or understand. Avoid language that gives them human characteristics. This is called anthropomorphizing, when we ascribe human traits, emotions or behaviors to non-human things, such as animals or inanimate objects. Instead, explain what a sys…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-24T01:19:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "jaredwiener",
-      "likes": 15,
-      "views": 9,
-      "retweets": 0,
-      "text": "Artificial intelligence systems do not think, feel, want or understand. Avoid language that gives them human characteristics. This is called anthropomorphizing, when we ascribe human traits, emotions or behaviors to non-human things, such as animals or inanimate objects. Instead, explain what a sys…",
-      "author_name": "jaredwiener"
     },
     {
       "id": "49823444",
@@ -244,86 +324,6 @@
       "author_name": "wslh"
     },
     {
-      "id": "49820134",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "summary": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T18:06:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 732,
-      "author": "raahelb",
-      "likes": 703,
-      "views": 716,
-      "retweets": 0,
-      "text": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
-      "author_name": "raahelb"
-    },
-    {
-      "id": "49817941",
-      "title": "AI anxiety is sweeping the globe – and cutting across party lines",
-      "url": "https://www.politico.eu/article/poll-ai-anxiety-openai-anthropic-elon-musk-silicon-valley-across-party-lines/",
-      "summary": "Majorities in six countries said there was at least a “moderate” risk that AI could “destroy humanity,” and a plurality wanted to pause further advancement, a new POLITICO Poll found.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-23T15:50:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "lf88",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Majorities in six countries said there was at least a “moderate” risk that AI could “destroy humanity,” and a plurality wanted to pause further advancement, a new POLITICO Poll found.",
-      "author_name": "lf88"
-    },
-    {
-      "id": "49817871",
-      "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on",
-      "url": "https://thenewstack.io/claude-opus-agent-migration/",
-      "summary": "Claude Opus 5.5 costs less than Opus 5, but four breaking changes to thinking, tool use and computer use can trigger 400 errors in existing AI agents.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T15:46:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "rkovashikawa",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Claude Opus 5.5 costs less than Opus 5, but four breaking changes to thinking, tool use and computer use can trigger 400 errors in existing AI agents.",
-      "author_name": "rkovashikawa"
-    },
-    {
-      "id": "49817493",
-      "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic",
-      "url": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/",
-      "summary": "Amazon announced new AI tools for its independent sellers, led by a plugin that lets them run their Amazon businesses from Anthropic&#039;s Claude or Amazon&#039;s own Quick assistant.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T15:20:56Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "thm",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Amazon announced new AI tools for its independent sellers, led by a plugin that lets them run their Amazon businesses from Anthropic&#039;s Claude or Amazon&#039;s own Quick assistant.",
-      "author_name": "thm"
-    },
-    {
       "id": "49816175",
       "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
       "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
@@ -342,26 +342,6 @@
       "retweets": 0,
       "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
       "author_name": "mooreds"
-    },
-    {
-      "id": "49814638",
-      "title": "What if we created a local AI tool to measure your security?",
-      "url": "https://github.com/just-not-google/BiNeuron",
-      "summary": "BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, translates, filters profanity, and uses proxies if needed.…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T11:47:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "BiNeuron",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, translates, filters profanity, and uses proxies if needed.…",
-      "author_name": "BiNeuron"
     },
     {
       "id": "49793333",
@@ -402,6 +382,26 @@
       "retweets": 0,
       "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
       "author_name": "geox"
+    },
+    {
+      "id": "49701585",
+      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
+      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-14T18:25:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "wslh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "wslh"
     }
   ]
 }
