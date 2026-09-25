@@ -1,127 +1,187 @@
 {
-  "version": "2026-09-25T13:33:12.594Z",
-  "generatedAt": "2026-09-25T13:33:12.594Z",
+  "version": "2026-09-25T22:09:26.191Z",
+  "generatedAt": "2026-09-25T22:09:26.191Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49844087",
-      "title": "RushShift – Offline AI desktop tool to search local B-roll archives by prompt",
-      "url": "https://rushshift.vercel.app",
-      "summary": "RUSHSIFT is an offline visual search engine for your footage. Describe the shot you remember; it finds the real clip on your drive. Windows, on-device, read-only.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-25T13:04:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Diyon_Dust",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "RUSHSIFT is an offline visual search engine for your footage. Describe the shot you remember; it finds the real clip on your drive. Windows, on-device, read-only.",
-      "author_name": "Diyon_Dust"
-    },
-    {
-      "id": "49844063",
-      "title": "I Ran 255 AI Agents to Make Three Comics. The Line Between Slop and Good Is",
-      "url": "https://thoughts.jock.pl/p/ai-slop-comic-experiment-2026",
-      "summary": "Three AI graphic novels, one research question: where does the line between slop and quality actually live? What changed across 255 agents, 16M tokens, and three complete pipelines.",
+      "id": "49850566",
+      "title": "Anthropic's AI biolab finds 'CRISPR-like' DNA in viruses. What's next?",
+      "url": "https://www.nature.com/articles/d41586-026-03039-6",
+      "summary": "The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T13:02:35Z",
+      "publishedAt": "2026-09-25T22:07:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "joozio",
+      "author": "sbulaev",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Three AI graphic novels, one research question: where does the line between slop and quality actually live? What changed across 255 agents, 16M tokens, and three complete pipelines.",
-      "author_name": "joozio"
+      "text": "The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
+      "author_name": "sbulaev"
     },
     {
-      "id": "49844062",
-      "title": "LLMs are universal translators (2023)",
-      "url": "https://lil.law.harvard.edu/blog/2023/11/29/llms-are-universal-translators/",
-      "summary": "The Library Innovation Lab is growing knowledge and community by bringing library principles to technological frontiers.",
+      "id": "49850532",
+      "title": "Skill-Guided Mining and Compilation of LLM Agent Traces",
+      "url": "https://arxiv.org/abs/2608.02680",
+      "summary": "Abstract page for arXiv paper 2608.02680: TraceCompiler: Skill-Guided Mining and Compilation of LLM Agent Traces into Mostly Deterministic Workflows",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T13:02:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 13,
-      "author": "droidjj",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "The Library Innovation Lab is growing knowledge and community by bringing library principles to technological frontiers.",
-      "author_name": "droidjj"
-    },
-    {
-      "id": "49843979",
-      "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
-      "url": "https://therecord.media/openai-australia-breach-cyber",
-      "summary": "Researchers are questioning whether an OpenAI agent needed to hack an Australian government health portal to access it, after a review of the website’s archived code found it explicitly directed visitors to an unauthenticated endpoint.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T12:55:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "speckx",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Researchers are questioning whether an OpenAI agent needed to hack an Australian government health portal to access it, after a review of the website’s archived code found it explicitly directed visitors to an unauthenticated endpoint.",
-      "author_name": "speckx"
-    },
-    {
-      "id": "49843753",
-      "title": "IronWarden – A microsecond PII firewall for streaming LLMs in safe Rust",
-      "url": "https://github.com/Somnerd/IronWarden",
-      "summary": "High-performance sovereign AI reverse proxy & streaming ingress engine in Rust (Axum, Tokio) with real-time SSE token rehydration and HMAC audit chaining. - Somnerd/IronWarden",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T12:35:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "nikolasalexandr",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "High-performance sovereign AI reverse proxy & streaming ingress engine in Rust (Axum, Tokio) with real-time SSE token rehydration and HMAC audit chaining. - Somnerd/IronWarden",
-      "author_name": "nikolasalexandr"
-    },
-    {
-      "id": "49843665",
-      "title": "Why Australia chose the biggest political stage to reveal OpenAI hack",
-      "url": "https://www.bbc.com/news/articles/cr3eqk15ld14o",
-      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T12:24:30Z",
+      "publishedAt": "2026-09-25T22:03:46Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "hackernj",
+      "author": "nlpnerd",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "author_name": "hackernj"
+      "text": "Abstract page for arXiv paper 2608.02680: TraceCompiler: Skill-Guided Mining and Compilation of LLM Agent Traces into Mostly Deterministic Workflows",
+      "author_name": "nlpnerd"
+    },
+    {
+      "id": "49850168",
+      "title": "It's not hypothetical: the dangers of AI are here",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "summary": "Israel and the US have used AI to kill in Gaza and Iran, while law enforcement uses it in surveillance and arrests. The future is here",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-25T21:26:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "harry_nutsachs",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "Israel and the US have used AI to kill in Gaza and Iran, while law enforcement uses it in surveillance and arrests. The future is here",
+      "author_name": "harry_nutsachs"
+    },
+    {
+      "id": "49850114",
+      "title": "Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%",
+      "url": "https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342",
+      "summary": "Carnegie Endowment for International Peace says in a December 3 report that China has overtaken the United States as the top destination for elite AI…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-25T21:22:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "yogthos",
+      "likes": 5,
+      "views": 1,
+      "retweets": 0,
+      "text": "Carnegie Endowment for International Peace says in a December 3 report that China has overtaken the United States as the top destination for elite AI…",
+      "author_name": "yogthos"
+    },
+    {
+      "id": "49849767",
+      "title": "What one vLLM replica on an L40 can carry and how it fails",
+      "url": "https://percentes.ai/writing/2026/calibrating-one-l40-configuration/",
+      "summary": "The experiment Percentes runs takes one of two serving replicas away under sustained load and measures what the survivor does. Each replica is vLLM, an engin...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-25T20:48:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "itsveems",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The experiment Percentes runs takes one of two serving replicas away under sustained load and measures what the survivor does. Each replica is vLLM, an engin...",
+      "author_name": "itsveems"
+    },
+    {
+      "id": "49849556",
+      "title": "Anthropic's Claims over Its \"Supply Chain Risk\" Exclusion by Dow Rejected",
+      "url": "https://reason.com/volokh/2026/09/25/anthropics-first-amendment-claim-against-department-of-war-rejected/",
+      "summary": "Some excerpts from today&#039;s long majority opinion by Judge Gregory Katsas, joined by Judge Neomi Rao, in today&#039;s D.C. Circuit...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-25T20:32:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "theptip",
+      "likes": 2,
+      "views": 4,
+      "retweets": 0,
+      "text": "Some excerpts from today&#039;s long majority opinion by Judge Gregory Katsas, joined by Judge Neomi Rao, in today&#039;s D.C. Circuit...",
+      "author_name": "theptip"
+    },
+    {
+      "id": "49848095",
+      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "url": "https://mouse.dev/blog/muse-special/",
+      "summary": "While Muse was building my website, one subagent ran on a model called azure/muse-special. So I dug through the filesystem again.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-25T18:18:06Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 94,
+      "author": "Aeroi",
+      "likes": 80,
+      "views": 39,
+      "retweets": 0,
+      "text": "While Muse was building my website, one subagent ran on a model called azure/muse-special. So I dug through the filesystem again.",
+      "author_name": "Aeroi"
+    },
+    {
+      "id": "49847507",
+      "title": "An OpenAI Engineer and His Friends Debate the Future",
+      "url": "https://www.newyorker.com/culture/the-new-yorker-documentary/an-openai-engineer-and-his-friends-debate-the-future",
+      "summary": "In Brent Katz’s documentary short “Josh’s Wedding,” a group of groomsmen reckon with a technology that one of them is building.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-25T17:29:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "arjunbanker",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "In Brent Katz’s documentary short “Josh’s Wedding,” a group of groomsmen reckon with a technology that one of them is building.",
+      "author_name": "arjunbanker"
+    },
+    {
+      "id": "49845065",
+      "title": "Four AI Giants Agreed to Slow Down. Four Subscribers Sued Them for It",
+      "url": "https://mrkt30.com/ai-slowdown-lawsuit-anthropic-openai-antitrust/",
+      "summary": "Subscribers are suing Anthropic, OpenAI, Google and SpaceXAI over an alleged pact to slow AI. We trace the money, the timeline and why discovery matters.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-25T14:19:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "bmcdresson",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Subscribers are suing Anthropic, OpenAI, Google and SpaceXAI over an alleged pact to slow AI. We trace the money, the timeline and why discovery matters.",
+      "author_name": "bmcdresson"
     },
     {
       "id": "49842514",
@@ -164,46 +224,6 @@
       "author_name": "joennlae"
     },
     {
-      "id": "49841456",
-      "title": "OpenAI prepares new $500/month Pro Max plan for ChatGPT",
-      "url": "https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt/",
-      "summary": "ChatGPT Pro Max will cost $500 per month and offer “Fastest Work and Codex”, potentially powered by Cerebras infrastructure.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T07:51:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "yzydserd",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "ChatGPT Pro Max will cost $500 per month and offer “Fastest Work and Codex”, potentially powered by Cerebras infrastructure.",
-      "author_name": "yzydserd"
-    },
-    {
-      "id": "49839469",
-      "title": "OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-      "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
-      "summary": "&quot;Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.&quot;",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T02:15:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "xqcgrek2",
-      "likes": 8,
-      "views": 1,
-      "retweets": 0,
-      "text": "&quot;Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.&quot;",
-      "author_name": "xqcgrek2"
-    },
-    {
       "id": "49835968",
       "title": "Why AI companies don't need new laws",
       "url": "https://twitter.com/Paul__Walsh/status/2102801667657748720",
@@ -224,84 +244,24 @@
       "author_name": "MrBuddyCasino"
     },
     {
-      "id": "49835073",
-      "title": "Anthropic resumes charging for requests blocked by safeguards",
-      "url": "https://twitter.com/ClaudeDevs/status/2103170368794185758",
-      "summary": "Today, we&#x27;ll resume charging for requests our safeguards block before Claude responds. This only applies in categories with low false positive rates: biology, distillation attacks, and frontier LLM development. We&#x27;ve seen some coordinated attacks on our systems in recent weeks, and this is one laye…",
+      "id": "49823444",
+      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
+      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
+      "summary": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-24T18:42:33Z",
+      "publishedAt": "2026-09-23T22:26:42Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 22,
-      "author": "jeudesprits",
-      "likes": 5,
-      "views": 2,
-      "retweets": 0,
-      "text": "Today, we&#x27;ll resume charging for requests our safeguards block before Claude responds. This only applies in categories with low false positive rates: biology, distillation attacks, and frontier LLM development. We&#x27;ve seen some coordinated attacks on our systems in recent weeks, and this is one laye…",
-      "author_name": "jeudesprits"
-    },
-    {
-      "id": "49835056",
-      "title": "OpenAI, Anthropic CEOs urge UN countries to cooperate on AI safety standards",
-      "url": "https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards",
-      "summary": "&#34;The heads of major AI firms pleaded with the United Nations on Wednesday to save the world or at least its people &mdash; by somehow regulating the fast-expanding technology that they have been designing,&#34; writes the Associated Press. &#34;If managed poorly, I even believe AI could be a risk to humani...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-24T18:40:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "MilnerRoute",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "&#34;The heads of major AI firms pleaded with the United Nations on Wednesday to save the world or at least its people &mdash; by somehow regulating the fast-expanding technology that they have been designing,&#34; writes the Associated Press. &#34;If managed poorly, I even believe AI could be a risk to humani...",
-      "author_name": "MilnerRoute"
-    },
-    {
-      "id": "49834079",
-      "title": "Funny VideosHow to Start a Faceless YouTube Channel with AI: A Complete Guide",
-      "url": "https://coursiv.io/blog/how-to-start-a-faceless-youtube-channel-with-ai",
-      "summary": "A complete guide to starting a faceless YouTube channel with AI, from niche and script to AI visuals, voiceover and monetization, plus the mistakes that stall new channels.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-24T17:34:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Asifulla",
-      "likes": 1,
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "A complete guide to starting a faceless YouTube channel with AI, from niche and script to AI visuals, voiceover and monetization, plus the mistakes that stall new channels.",
-      "author_name": "Asifulla"
-    },
-    {
-      "id": "49834034",
-      "title": "Startups I am curious, what ERP system do you guys use?",
-      "url": "https://agaro.ai/",
-      "summary": "Agaro ERP is an AI native ERP for finance, customers, people, and operations, run by an assistant with the same permissions as the user. Launching soon.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-24T17:31:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "yusufghyasi",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Agaro ERP is an AI native ERP for finance, customers, people, and operations, run by an assistant with the same permissions as the user. Launching soon.",
-      "author_name": "yusufghyasi"
+      "text": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
+      "author_name": "gfactor_ai"
     },
     {
       "id": "49816175",
@@ -322,6 +282,46 @@
       "retweets": 0,
       "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
       "author_name": "mooreds"
+    },
+    {
+      "id": "49793333",
+      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
+      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
+      "summary": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T20:59:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
+      "author_name": "gfactor_ai"
+    },
+    {
+      "id": "49738279",
+      "title": "Equity Price Shock Scenario Would Entail US Recession",
+      "url": "https://www.fitchratings.com/research/sovereigns/severe-equity-price-shock-scenario-would-entail-us-recession-09-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-17T09:22:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "geox",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "geox"
     },
     {
       "id": "49701585",
