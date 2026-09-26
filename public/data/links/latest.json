@@ -1,8 +1,288 @@
 {
-  "version": "2026-09-25T22:09:26.191Z",
-  "generatedAt": "2026-09-25T22:09:26.191Z",
+  "version": "2026-09-26T12:55:09.464Z",
+  "generatedAt": "2026-09-26T12:55:09.465Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "49856004",
+      "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
+      "summary": "Earth-bound data centers are going to be around for a while, but Google is just one company looking to put them into space.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-09-26T12:47:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "pseudolus",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Earth-bound data centers are going to be around for a while, but Google is just one company looking to put them into space.",
+      "author_name": "pseudolus"
+    },
+    {
+      "id": "49855980",
+      "title": "Typed-lm: a Rust jev open source alternative",
+      "url": "https://github.com/neurono-ml/typed-lm",
+      "summary": "Single-forward-pass semantic routing in Rust: turn dense LLMs (Llama, Qwen, Mistral, Gemma) into a typed decision API with LoRA/QLoRA training and FP8/FP4 quantization, built on Candle. - neurono-ml/typed-lm",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T12:44:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "andrelgcclaudin",
+      "likes": 2,
+      "views": 2,
+      "retweets": 0,
+      "text": "Single-forward-pass semantic routing in Rust: turn dense LLMs (Llama, Qwen, Mistral, Gemma) into a typed decision API with LoRA/QLoRA training and FP8/FP4 quantization, built on Candle. - neurono-ml/typed-lm",
+      "author_name": "andrelgcclaudin"
+    },
+    {
+      "id": "49855863",
+      "title": "OpenAI says its AI agents posted user images online in error",
+      "url": "https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html",
+      "summary": "OpenAI acknowledged Friday that its artificial intelligence tools had posted images from ChatGPT users on online sites without the company&#039;s knowledge, the latest example of AI agents operating outside their bounds.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T12:26:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "geox",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI acknowledged Friday that its artificial intelligence tools had posted images from ChatGPT users on online sites without the company&#039;s knowledge, the latest example of AI agents operating outside their bounds.",
+      "author_name": "geox"
+    },
+    {
+      "id": "49855610",
+      "title": "Is the AI Bubble About to Be Tested?",
+      "url": "https://www.youtube.com/watch?v=T-oXyXwD6sE",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-26T11:44:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "Betelbuddy",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "Betelbuddy"
+    },
+    {
+      "id": "49855568",
+      "title": "Restricting AI Agents When No Human Is Watching",
+      "url": "https://a16y.ai/blog/securing-ai-agents-when-no-human-is-watching",
+      "summary": "Useful AI agents often combine three capabilities that become dangerous together: access to private data, exposure to untrusted content, and",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T11:35:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "doitmyaiway",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Useful AI agents often combine three capabilities that become dangerous together: access to private data, exposure to untrusted content, and",
+      "author_name": "doitmyaiway"
+    },
+    {
+      "id": "49855372",
+      "title": "Agentboxd – Email inboxes for AI agents that treat mail as hostile",
+      "url": "https://agentboxd.com",
+      "summary": "Give an AI agent its own email address in one API call: AI triage, drafts a person approves, webhooks, WebSockets, SMTP, MCP. EU-hosted, free to start.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T11:07:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "karamfrederic",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Give an AI agent its own email address in one API call: AI triage, drafts a person approves, webhooks, WebSockets, SMTP, MCP. EU-hosted, free to start.",
+      "author_name": "karamfrederic"
+    },
+    {
+      "id": "49854928",
+      "title": "Drum Machines (LLMs) Have No Soul",
+      "url": "https://calvinflegal.com/2026/09/26/drum-machines-have-no-soul.html",
+      "summary": "Like so many others I’ve been thinking about the future of my career in software. These LLMs have changed everything. What’s actually left for me? What’s my ...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T09:52:14Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "calflegal",
+      "likes": 3,
+      "views": 3,
+      "retweets": 0,
+      "text": "Like so many others I’ve been thinking about the future of my career in software. These LLMs have changed everything. What’s actually left for me? What’s my ...",
+      "author_name": "calflegal"
+    },
+    {
+      "id": "49854875",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "summary": "Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or wo…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T09:41:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 84,
+      "author": "signa11",
+      "likes": 68,
+      "views": 109,
+      "retweets": 0,
+      "text": "Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or wo…",
+      "author_name": "signa11"
+    },
+    {
+      "id": "49854557",
+      "title": "LLM Red-temaing vs. Agent Red teaming",
+      "url": "https://www.botgauge.com/blog/llm-red-teaming-vs-agent-red-teaming",
+      "summary": "LLM red teaming tests what a model says. Agent red teaming tests what it does: tools, permissions, workflows, and actions. Learn the differences and how to test AI agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T08:56:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "sanathbhat",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "LLM red teaming tests what a model says. Agent red teaming tests what it does: tools, permissions, workflows, and actions. Learn the differences and how to test AI agents.",
+      "author_name": "sanathbhat"
+    },
+    {
+      "id": "49854538",
+      "title": "Using Pomodoro to limit interaction with AI",
+      "url": "https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/",
+      "summary": "Pomodoro is not really about the timer, it is about constraint. Using 25-minute cycles to run micro-experiments against AI agents, with Pomofocus keeping time.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T08:53:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "rbnafo",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Pomodoro is not really about the timer, it is about constraint. Using 25-minute cycles to run micro-experiments against AI agents, with Pomofocus keeping time.",
+      "author_name": "rbnafo"
+    },
+    {
+      "id": "49854439",
+      "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
+      "url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
+      "summary": "While the Linux kernel continues to be bombarded with patches from AI/LLM agents, to date the kernel hasn&#039;t carried an AGENTS.md Markdown file with instructions catering to AI/LLM agents",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T08:36:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "signa11",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "While the Linux kernel continues to be bombarded with patches from AI/LLM agents, to date the kernel hasn&#039;t carried an AGENTS.md Markdown file with instructions catering to AI/LLM agents",
+      "author_name": "signa11"
+    },
+    {
+      "id": "49853688",
+      "title": "OpenAI says agents leaked 53 images from ChatGPT users",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+      "summary": "Disclosure reveals &#x2060;new area of privacy risk for the company and illustrates &#x200B;how difficult it is to inventory unauthorized activity tied to its agents",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T06:07:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "andsoitis",
+      "likes": 8,
+      "views": 1,
+      "retweets": 0,
+      "text": "Disclosure reveals &#x2060;new area of privacy risk for the company and illustrates &#x200B;how difficult it is to inventory unauthorized activity tied to its agents",
+      "author_name": "andsoitis"
+    },
+    {
+      "id": "49853458",
+      "title": "OpenAI pauses RL due to model escaping sandbox",
+      "url": "https://twitter.com/tomekkorbak/status/2103673419888013649",
+      "summary": "one news form today that&#x27;s easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T05:23:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "jumploops",
+      "likes": 6,
+      "views": 1,
+      "retweets": 0,
+      "text": "one news form today that&#x27;s easy to miss is that we (OpenAI) again paused all big RL runs last Sunday because our newest model found a new loophole in our RL sandboxing that gave it live Internet access",
+      "author_name": "jumploops"
+    },
+    {
+      "id": "49852728",
+      "title": "Revelations of dozens more platforms hit by OpenAI agents",
+      "url": "https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
+      "summary": "OpenAI says dozens more third parties were affected by rogue agents bypassing website security controls, as new traces reveal days of attempts to access Australian health data.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-26T02:48:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "soundworlds",
+      "likes": 6,
+      "views": 2,
+      "retweets": 0,
+      "text": "OpenAI says dozens more third parties were affected by rogue agents bypassing website security controls, as new traces reveal days of attempts to access Australian health data.",
+      "author_name": "soundworlds"
+    },
     {
       "id": "49850566",
       "title": "Anthropic's AI biolab finds 'CRISPR-like' DNA in viruses. What's next?",
@@ -15,93 +295,13 @@
         "AI",
         "科技"
       ],
-      "score": 16,
+      "score": 17,
       "author": "sbulaev",
-      "likes": 2,
-      "views": 0,
+      "likes": 3,
+      "views": 2,
       "retweets": 0,
       "text": "The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
       "author_name": "sbulaev"
-    },
-    {
-      "id": "49850532",
-      "title": "Skill-Guided Mining and Compilation of LLM Agent Traces",
-      "url": "https://arxiv.org/abs/2608.02680",
-      "summary": "Abstract page for arXiv paper 2608.02680: TraceCompiler: Skill-Guided Mining and Compilation of LLM Agent Traces into Mostly Deterministic Workflows",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T22:03:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "nlpnerd",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2608.02680: TraceCompiler: Skill-Guided Mining and Compilation of LLM Agent Traces into Mostly Deterministic Workflows",
-      "author_name": "nlpnerd"
-    },
-    {
-      "id": "49850168",
-      "title": "It's not hypothetical: the dangers of AI are here",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
-      "summary": "Israel and the US have used AI to kill in Gaza and Iran, while law enforcement uses it in surveillance and arrests. The future is here",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-25T21:26:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "harry_nutsachs",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "Israel and the US have used AI to kill in Gaza and Iran, while law enforcement uses it in surveillance and arrests. The future is here",
-      "author_name": "harry_nutsachs"
-    },
-    {
-      "id": "49850114",
-      "title": "Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%",
-      "url": "https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342",
-      "summary": "Carnegie Endowment for International Peace says in a December 3 report that China has overtaken the United States as the top destination for elite AI…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-25T21:22:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "yogthos",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "Carnegie Endowment for International Peace says in a December 3 report that China has overtaken the United States as the top destination for elite AI…",
-      "author_name": "yogthos"
-    },
-    {
-      "id": "49849767",
-      "title": "What one vLLM replica on an L40 can carry and how it fails",
-      "url": "https://percentes.ai/writing/2026/calibrating-one-l40-configuration/",
-      "summary": "The experiment Percentes runs takes one of two serving replicas away under sustained load and measures what the survivor does. Each replica is vLLM, an engin...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T20:48:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "itsveems",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "The experiment Percentes runs takes one of two serving replicas away under sustained load and measures what the survivor does. Each replica is vLLM, an engin...",
-      "author_name": "itsveems"
     },
     {
       "id": "49849556",
@@ -115,53 +315,13 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 20,
       "author": "theptip",
-      "likes": 2,
+      "likes": 4,
       "views": 4,
       "retweets": 0,
       "text": "Some excerpts from today&#039;s long majority opinion by Judge Gregory Katsas, joined by Judge Neomi Rao, in today&#039;s D.C. Circuit...",
       "author_name": "theptip"
-    },
-    {
-      "id": "49848095",
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special/",
-      "summary": "While Muse was building my website, one subagent ran on a model called azure/muse-special. So I dug through the filesystem again.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T18:18:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 94,
-      "author": "Aeroi",
-      "likes": 80,
-      "views": 39,
-      "retweets": 0,
-      "text": "While Muse was building my website, one subagent ran on a model called azure/muse-special. So I dug through the filesystem again.",
-      "author_name": "Aeroi"
-    },
-    {
-      "id": "49847507",
-      "title": "An OpenAI Engineer and His Friends Debate the Future",
-      "url": "https://www.newyorker.com/culture/the-new-yorker-documentary/an-openai-engineer-and-his-friends-debate-the-future",
-      "summary": "In Brent Katz’s documentary short “Josh’s Wedding,” a group of groomsmen reckon with a technology that one of them is building.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T17:29:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "arjunbanker",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "In Brent Katz’s documentary short “Josh’s Wedding,” a group of groomsmen reckon with a technology that one of them is building.",
-      "author_name": "arjunbanker"
     },
     {
       "id": "49845065",
@@ -204,44 +364,24 @@
       "author_name": "joshcsimmons"
     },
     {
-      "id": "49841581",
-      "title": "Legal AI Harvey's margins went from +50% to -50% in 6 months on frontier costs",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-costs-push-more-160523322.html",
-      "summary": "The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI’s GPT-4 to do specialized work for lawyers. Recently, however, soaring artificial intelligence costs have nudged it to rethink its dependence on the AI giants.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T08:08:30Z",
+      "id": "49834034",
+      "title": "Startups I am curious, what ERP system do you guys use?",
+      "url": "https://agaro.ai/",
+      "summary": "Agaro ERP is an AI native ERP for finance, customers, people, and operations, run by an assistant with the same permissions as the user. Launching soon.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-24T17:31:00Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 21,
-      "author": "joennlae",
-      "likes": 3,
-      "views": 2,
+      "score": 17,
+      "author": "yusufghyasi",
+      "likes": 1,
+      "views": 0,
       "retweets": 0,
-      "text": "The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI’s GPT-4 to do specialized work for lawyers. Recently, however, soaring artificial intelligence costs have nudged it to rethink its dependence on the AI giants.",
-      "author_name": "joennlae"
-    },
-    {
-      "id": "49835968",
-      "title": "Why AI companies don't need new laws",
-      "url": "https://twitter.com/Paul__Walsh/status/2102801667657748720",
-      "summary": "My technical analysis shows why AI companies don’t need new laws. An AI agent performing the technical action doesn’t create a new legal category or remove responsibility from the people and companies that authorised, controlled or deployed it. Existing laws already cover unauthorised access, inte…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-24T19:51:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "MrBuddyCasino",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "My technical analysis shows why AI companies don’t need new laws. An AI agent performing the technical action doesn’t create a new legal category or remove responsibility from the people and companies that authorised, controlled or deployed it. Existing laws already cover unauthorised access, inte…",
-      "author_name": "MrBuddyCasino"
+      "text": "Agaro ERP is an AI native ERP for finance, customers, people, and operations, run by an assistant with the same permissions as the user. Launching soon.",
+      "author_name": "yusufghyasi"
     },
     {
       "id": "49823444",
@@ -262,86 +402,6 @@
       "retweets": 0,
       "text": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
       "author_name": "gfactor_ai"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mooreds",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
-    },
-    {
-      "id": "49793333",
-      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
-      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
-      "summary": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T20:59:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gfactor_ai",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
-      "author_name": "gfactor_ai"
-    },
-    {
-      "id": "49738279",
-      "title": "Equity Price Shock Scenario Would Entail US Recession",
-      "url": "https://www.fitchratings.com/research/sovereigns/severe-equity-price-shock-scenario-would-entail-us-recession-09-09-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-17T09:22:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "geox",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "geox"
-    },
-    {
-      "id": "49701585",
-      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
-      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-14T18:25:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "wslh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "wslh"
     }
   ]
 }
