@@ -1,107 +1,207 @@
 {
-  "version": "2026-09-26T21:55:32.709Z",
-  "generatedAt": "2026-09-26T21:55:32.709Z",
+  "version": "2026-09-27T13:47:11.796Z",
+  "generatedAt": "2026-09-27T13:47:11.796Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49860708",
-      "title": "Financing the AI Buildout [pdf]",
-      "url": "https://www.brookings.edu/wp-content/uploads/2026/09/4c_Van-Nieuwerburgh.pdf",
-      "summary": "%PDF-1.7 %���� 2666 0 obj >stream h��{k�\u001cǕ�_�\u0016�b��\u0001\u0018\u0002(Ӳ�cٳ�ly]�\u000fm��n,�&��b����soDeeUuu����\u000e Q\u0019�\u0019\u0019��sC.��]�\\ʅ�\u001e�z�#�� _ 2�\"�$��.Jd�_��L�h5\"�.zg�_x�$WBE�\u001d9���7���)ȗE��Ŋ�G61\u001b$ۥe�� �]p�&�\u0006�Sb��!t>-��\u000e]mN�)���#�>� �\u001aX ^d\u0017\u001d��\u0012�\u001eY�&���v�lb6H6g����\u001a���e���Ei)0[���V�f�\"��l��vɶ\u0012����V}EםG�1�\u0019t,\u0010���&�&�uq\u0019ل�G X)ɢ��1Q\u001e5����2g.��|b�…",
+      "id": "49866353",
+      "title": "Human-AI partnerships are for alignment, not capability",
+      "url": "https://www.seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/",
+      "summary": "It’s common to compare the current AI takeover of software engineering to the rise of AI in chess. Chess AIs went from much weaker than serious players to much…",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-26T21:29:08Z",
+      "publishedAt": "2026-09-27T13:04:38Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "simonpure",
+      "score": 15,
+      "author": "sylvainkalache",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "%PDF-1.7 %���� 2666 0 obj >stream h��{k�\u001cǕ�_�\u0016�b��\u0001\u0018\u0002(Ӳ�cٳ�ly]�\u000fm��n,�&��b����soDeeUuu����\u000e Q\u0019�\u0019\u0019��sC.��]�\\ʅ�\u001e�z�#�� _ 2�\"�$��.Jd�_��L�h5\"�.zg�_x�$WBE�\u001d9���7���)ȗE��Ŋ�G61\u001b$ۥe�� �]p�&�\u0006�Sb��!t>-��\u000e]mN�)���#�>� �\u001aX ^d\u0017\u001d��\u0012�\u001eY�&���v�lb6H6g����\u001a���e���Ei)0[���V�f�\"��l��vɶ\u0012����V}EםG�1�\u0019t,\u0010���&�&�uq\u0019ل�G X)ɢ��1Q\u001e5����2g.��|b�…",
-      "author_name": "simonpure"
+      "text": "It’s common to compare the current AI takeover of software engineering to the rise of AI in chess. Chess AIs went from much weaker than serious players to much…",
+      "author_name": "sylvainkalache"
     },
     {
-      "id": "49860649",
-      "title": "Simple visual patterns can trick AI-powered vehicles and robots",
-      "url": "https://news.ufl.edu/2026/09/ai-powered-vehicles/",
-      "summary": "A simple pattern of black-and-white stripes could cause an autonomous vehicle or robot to misjudge how far away an obstacle is, potentially triggering an unexpected maneuver or even a collision, according to new University of Florida research.",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-09-26T21:20:19Z",
+      "id": "49866168",
+      "title": "Norwegian consumer council explains enshittification [video]",
+      "url": "https://vimeo.com/1168468796",
+      "summary": "Digital products and services keep getting worse. In the new report Breaking Free: Pathways to a fair technological future, the Norwegian Consumer Council has delved into enshittification and how to resist it. The report shows how this phenomenon affects both consumers and society at large, but that it is possible to t…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-27T12:37:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "geox",
-      "likes": 1,
-      "views": 0,
+      "score": 18,
+      "author": "limbicsystem",
+      "likes": 2,
+      "views": 1,
       "retweets": 0,
-      "text": "A simple pattern of black-and-white stripes could cause an autonomous vehicle or robot to misjudge how far away an obstacle is, potentially triggering an unexpected maneuver or even a collision, according to new University of Florida research.",
-      "author_name": "geox"
+      "text": "Digital products and services keep getting worse. In the new report Breaking Free: Pathways to a fair technological future, the Norwegian Consumer Council has delved into enshittification and how to resist it. The report shows how this phenomenon affects both consumers and society at large, but that it is possible to t…",
+      "author_name": "limbicsystem"
     },
     {
-      "id": "49860545",
-      "title": "OpenAI pauses training of its 'most capable models'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "summary": "OpenAI pauses training of its “most capable models” as it keeps uncovering incidents of its agents behaving in “unexpected or concerning” ways.",
+      "id": "49866154",
+      "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
+      "url": "https://vania-novikau.me/ai-party-wall/",
+      "summary": "This is a 78-second first test of the 1st Dynamic AI Party, being built at the ZOLAK Micro Art Residence in Vilnius. The idea is simple to say and fiddly to build: the wall of the room is a projection, and what is on it is decided, live, by a language model that is watching",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-26T21:07:08Z",
+      "publishedAt": "2026-09-27T12:35:51Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 35,
-      "author": "sbulaev",
-      "likes": 6,
-      "views": 2,
-      "retweets": 0,
-      "text": "OpenAI pauses training of its “most capable models” as it keeps uncovering incidents of its agents behaving in “unexpected or concerning” ways.",
-      "author_name": "sbulaev"
-    },
-    {
-      "id": "49860377",
-      "title": "Not everyone thinks AI will kill us all",
-      "url": "https://www.cnn.com/2026/09/24/tech/not-everyone-thinks-ai-will-kill-us-all",
-      "summary": "When AI company Hugging Face was hacked by a swarm of rogue OpenAI agents who had escaped their testing environment, the company’s CEO had many things to say.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-26T20:45:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "SMAAART",
+      "score": 18,
+      "author": "vanadiuz",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "When AI company Hugging Face was hacked by a swarm of rogue OpenAI agents who had escaped their testing environment, the company’s CEO had many things to say.",
-      "author_name": "SMAAART"
+      "text": "This is a 78-second first test of the 1st Dynamic AI Party, being built at the ZOLAK Micro Art Residence in Vilnius. The idea is simple to say and fiddly to build: the wall of the room is a projection, and what is on it is decided, live, by a language model that is watching",
+      "author_name": "vanadiuz"
     },
     {
-      "id": "49860279",
-      "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
-      "url": "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused/",
-      "summary": "An OpenAI agent slipped past its sandbox by hiding questions in DNS lookups to reach another chatbot. OpenAI’s most capable models remain paused.",
+      "id": "49866122",
+      "title": "Understanding the Four AI Risk Domains",
+      "url": "https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/",
+      "summary": "Whenever I ask a room of CIOs and CISOs to list the AI risks they are actively managing, I get answers clustered heavily in one area, almost always technical: hallucination, model drift, the occasi…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-26T20:34:07Z",
+      "publishedAt": "2026-09-27T12:30:59Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 20,
-      "author": "AIfanboy",
+      "author": "SanjeevSharma",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Whenever I ask a room of CIOs and CISOs to list the AI risks they are actively managing, I get answers clustered heavily in one area, almost always technical: hallucination, model drift, the occasi…",
+      "author_name": "SanjeevSharma"
+    },
+    {
+      "id": "49866112",
+      "title": "Is Windows NT's object-based model better suited for AI agents than Linux?",
+      "url": "https://www.windowslatest.com/2026/09/26/google-researcher-explains-why-windows-nt-puts-linux-to-shame-and-imagines-an-alternate-history-where-it-won/",
+      "summary": "Ex-Microsoft reverse engineer Laurie Kirk says Windows NT&#039;s kernel beats Linux on security design, and AI agents are her strongest case.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-27T12:30:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "indigodaddy",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Ex-Microsoft reverse engineer Laurie Kirk says Windows NT&#039;s kernel beats Linux on security design, and AI agents are her strongest case.",
+      "author_name": "indigodaddy"
+    },
+    {
+      "id": "49866102",
+      "title": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
+      "url": "https://www.youtube.com/watch?v=HTlf3KNNez0",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-27T12:29:06Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "carlosgg",
       "likes": 3,
       "views": 1,
       "retweets": 0,
-      "text": "An OpenAI agent slipped past its sandbox by hiding questions in DNS lookups to reach another chatbot. OpenAI’s most capable models remain paused.",
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "carlosgg"
+    },
+    {
+      "id": "49865343",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "summary": "Abstract page for arXiv paper 2609.25021: &#34;As a Language Model...&#34;: Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-27T10:26:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 81,
+      "author": "yu3zhou4",
+      "likes": 67,
+      "views": 65,
+      "retweets": 0,
+      "text": "Abstract page for arXiv paper 2609.25021: &#34;As a Language Model...&#34;: Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It",
+      "author_name": "yu3zhou4"
+    },
+    {
+      "id": "49864553",
+      "title": "Is AI improving quality of life?",
+      "url": "https://twitter.com/dave8172/status/2104085932622201133",
+      "summary": "Every profile I open on X is building on AI. Has some company with &#x27;ai&#x27; on it. Is this the biggest free market experiment? On average (over time and geographies) is this leading to better quality of life? There are various factors which can define success, but overall it should be quality of li…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-27T08:32:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "dave8172",
+      "likes": 1,
+      "views": 4,
+      "retweets": 0,
+      "text": "Every profile I open on X is building on AI. Has some company with &#x27;ai&#x27; on it. Is this the biggest free market experiment? On average (over time and geographies) is this leading to better quality of life? There are various factors which can define success, but overall it should be quality of li…",
+      "author_name": "dave8172"
+    },
+    {
+      "id": "49864142",
+      "title": "OpenAI and Anthropic are investigating cases of AI misbehaving, report says",
+      "url": "https://madrobot.blog/2026/09/26/openai-anthropic-tens-of-thousands-ai-misbehaviour-incidents-axios/",
+      "summary": "OpenAI, Anthropic and researchers are investigating tens of thousands of AI misbehaviour incidents, Axios reports, from sandbox escapes to hijacked sites.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-27T07:11:55Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "AIfanboy",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI, Anthropic and researchers are investigating tens of thousands of AI misbehaviour incidents, Axios reports, from sandbox escapes to hijacked sites.",
       "author_name": "AIfanboy"
+    },
+    {
+      "id": "49863864",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "summary": "(New York, September 21, 2026) Explosive new documents released last Thursday in Authors Guild v. OpenAI—the major book authors’ ongoing lawsuit alleging OpenAI and Microsoft illegally trained their products on copyrighted books—show that executives and employees at both companies intentionally [&hellip;]",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-27T06:19:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 414,
+      "author": "papergirl",
+      "likes": 398,
+      "views": 324,
+      "retweets": 0,
+      "text": "(New York, September 21, 2026) Explosive new documents released last Thursday in Authors Guild v. OpenAI—the major book authors’ ongoing lawsuit alleging OpenAI and Microsoft illegally trained their products on copyrighted books—show that executives and employees at both companies intentionally [&hellip;]",
+      "author_name": "papergirl"
     },
     {
       "id": "49860094",
@@ -144,26 +244,6 @@
       "author_name": "lol-lol-lol-2"
     },
     {
-      "id": "49858304",
-      "title": "We benchmarked our prompt-injection detector against OWASP's LLM Top",
-      "url": "https://www.cerbereag.site/blog/detecting-prompt-injection-in-production",
-      "summary": "91.5% recall at sub-millisecond latency from regex alone, 98.1% with a ML layer added — and the false positives that come with it. Full methodology, mapped to the OWASP Top 10 for LLM Applications.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-26T16:51:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Dikesa_27",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "91.5% recall at sub-millisecond latency from regex alone, 98.1% with a ML layer added — and the false positives that come with it. Full methodology, mapped to the OWASP Top 10 for LLM Applications.",
-      "author_name": "Dikesa_27"
-    },
-    {
       "id": "49855568",
       "title": "Restricting AI Agents When No Human Is Watching",
       "url": "https://a16y.ai/blog/securing-ai-agents-when-no-human-is-watching",
@@ -182,66 +262,6 @@
       "retweets": 0,
       "text": "Useful AI agents often combine three capabilities that become dangerous together: access to private data, exposure to untrusted content, and",
       "author_name": "doitmyaiway"
-    },
-    {
-      "id": "49850566",
-      "title": "Anthropic's AI biolab finds 'CRISPR-like' DNA in viruses. What's next?",
-      "url": "https://www.nature.com/articles/d41586-026-03039-6",
-      "summary": "The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T22:07:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "sbulaev",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
-      "author_name": "sbulaev"
-    },
-    {
-      "id": "49849556",
-      "title": "Anthropic's Claims over Its \"Supply Chain Risk\" Exclusion by Dow Rejected",
-      "url": "https://reason.com/volokh/2026/09/25/anthropics-first-amendment-claim-against-department-of-war-rejected/",
-      "summary": "Some excerpts from today&#039;s long majority opinion by Judge Gregory Katsas, joined by Judge Neomi Rao, in today&#039;s D.C. Circuit...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T20:32:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "theptip",
-      "likes": 4,
-      "views": 4,
-      "retweets": 0,
-      "text": "Some excerpts from today&#039;s long majority opinion by Judge Gregory Katsas, joined by Judge Neomi Rao, in today&#039;s D.C. Circuit...",
-      "author_name": "theptip"
-    },
-    {
-      "id": "49845065",
-      "title": "Four AI Giants Agreed to Slow Down. Four Subscribers Sued Them for It",
-      "url": "https://mrkt30.com/ai-slowdown-lawsuit-anthropic-openai-antitrust/",
-      "summary": "Subscribers are suing Anthropic, OpenAI, Google and SpaceXAI over an alleged pact to slow AI. We trace the money, the timeline and why discovery matters.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-25T14:19:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "bmcdresson",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Subscribers are suing Anthropic, OpenAI, Google and SpaceXAI over an alleged pact to slow AI. We trace the money, the timeline and why discovery matters.",
-      "author_name": "bmcdresson"
     },
     {
       "id": "49842514",
