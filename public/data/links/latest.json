@@ -1,147 +1,327 @@
 {
-  "version": "2026-09-28T16:40:13.237Z",
-  "generatedAt": "2026-09-28T16:40:13.237Z",
+  "version": "2026-09-28T23:47:28.487Z",
+  "generatedAt": "2026-09-28T23:47:28.487Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49880678",
-      "title": "Risk factors for androgenetic alopecia: a systematic review and meta-analysis",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13020014/",
-      "summary": "Androgenetic alopecia (AGA), the most common type of hair loss, is influenced by multiple factors. However, the associations between various risk factors and AGA remain controversial, with no systematic review or meta-analysis comprehensively ...",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-28T16:35:27Z",
+      "id": "49885964",
+      "title": "Pklm-sandbox – A lightweight open-source LogitsProcessor for local LLMs",
+      "url": "https://github.com/TheImmortalPython/pklm-sandbox",
+      "summary": "Official open-source sandbox for PKLM Core, featuring lightweight Hugging Face logits processing and zero-drift linguistic containment. - TheImmortalPython/pklm-sandbox",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-28T23:36:38Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 19,
-      "author": "OutOfHere",
+      "score": 30,
+      "author": "TheImmortalPyth",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Androgenetic alopecia (AGA), the most common type of hair loss, is influenced by multiple factors. However, the associations between various risk factors and AGA remain controversial, with no systematic review or meta-analysis comprehensively ...",
-      "author_name": "OutOfHere"
+      "text": "Official open-source sandbox for PKLM Core, featuring lightweight Hugging Face logits processing and zero-drift linguistic containment. - TheImmortalPython/pklm-sandbox",
+      "author_name": "TheImmortalPyth"
     },
     {
-      "id": "49880355",
-      "title": "How to reduce token usage in Claude Code, Codex, and Cursor",
-      "url": "https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/",
-      "summary": "I analyzed 1,674 agent sessions to reduce token usage in Claude Code, Codex, and Cursor. 10 rules and a hook fixed most of it.",
+      "id": "49885916",
+      "title": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
+      "url": "https://runtimewire.com/article/wsj-reports-openai-scrapped-gpt-6-1-astra-over-safety-concerns",
+      "summary": "An X post shares an image claiming OpenAI canceled an October GPT-6.1 Astra release. OpenAI&#39;s public materials confirm GPT-6 Astra, not a scheduled 6.1.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T16:14:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "meetpateltech",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I analyzed 1,674 agent sessions to reduce token usage in Claude Code, Codex, and Cursor. 10 rules and a hook fixed most of it.",
-      "author_name": "meetpateltech"
-    },
-    {
-      "id": "49880312",
-      "title": "The problem is not the AI code, but nobody knows anything anymore",
-      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-      "summary": "If we think Is writing code dead, and AI is generating all codebases, I still think the bigger problem is people or full teams not knowing anything anymore about the system...",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-28T16:11:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 84,
-      "author": "zazuke",
-      "likes": 70,
-      "views": 28,
-      "retweets": 0,
-      "text": "If we think Is writing code dead, and AI is generating all codebases, I still think the bigger problem is people or full teams not knowing anything anymore about the system...",
-      "author_name": "zazuke"
-    },
-    {
-      "id": "49880239",
-      "title": "AI-guided optimization for thermostable mRNA vaccines",
-      "url": "https://www.nature.com/articles/s41587-026-03330-x",
-      "summary": "AGENT, an AI-driven framework integrating high-throughput experimentation with Bayesian optimization, enables the rapid engineering of thermostable, solid-state mRNA vaccines. These formulations retained full bioactivity after storage at 37 &#176;C for 2 months, elicited immune responses non-inferior to fresh vaccines,…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T16:07:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "sbulaev",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "AGENT, an AI-driven framework integrating high-throughput experimentation with Bayesian optimization, enables the rapid engineering of thermostable, solid-state mRNA vaccines. These formulations retained full bioactivity after storage at 37 &#176;C for 2 months, elicited immune responses non-inferior to fresh vaccines,…",
-      "author_name": "sbulaev"
-    },
-    {
-      "id": "49880083",
-      "title": "Create AI Workout Plans with Cloudflare Durable Objects",
-      "url": "https://blog.master.dev/making-the-most-of-vercels-ai-sdk-with-cloudflare-durable-objects/",
-      "summary": "Discover how to leverage Cloudflare&#039;s Durable Objects for managing AI workout templates, ensuring seamless user experiences and data persistence.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-09-28T15:57:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "ibobev",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Discover how to leverage Cloudflare&#039;s Durable Objects for managing AI workout templates, ensuring seamless user experiences and data persistence.",
-      "author_name": "ibobev"
-    },
-    {
-      "id": "49879912",
-      "title": "Notes on long-running LLM tasks",
-      "url": "https://www.natemeyvis.com/notes-on-long-running-llm-tasks/",
-      "summary": "I often read about getting LLMs to work for a long time toward a goal. So, for example, Claude has a /goal command, and many of us (directly or indirectly) ...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T15:47:57Z",
+      "publishedAt": "2026-09-28T23:30:35Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "Brajeshwar",
+      "author": "smb06",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "I often read about getting LLMs to work for a long time toward a goal. So, for example, Claude has a /goal command, and many of us (directly or indirectly) ...",
-      "author_name": "Brajeshwar"
+      "text": "An X post shares an image claiming OpenAI canceled an October GPT-6.1 Astra release. OpenAI&#39;s public materials confirm GPT-6 Astra, not a scheduled 6.1.",
+      "author_name": "smb06"
     },
     {
-      "id": "49879691",
-      "title": "I asked across LLMs what is the best email provider: Resend is cited most",
-      "url": "https://openllmrank.io/blog/transactional-email-apis",
-      "summary": "We asked ChatGPT, Claude, Gemini, Perplexity and Grok which email API to use for signup and password reset emails, 60 times. Resend was named in 92% of answers, ChatGPT was the exception, and the most cited source was one email vendor&#x27;s blog.",
+      "id": "49885725",
+      "title": "Sonnet 5.5 scores just behind Opus 5.5 on Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
+      "summary": "Anthropic&#x27;s new Sonnet model scores 56, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we have measured",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T15:34:46Z",
+      "publishedAt": "2026-09-28T23:10:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "spenvo",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic&#x27;s new Sonnet model scores 56, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we have measured",
+      "author_name": "spenvo"
+    },
+    {
+      "id": "49885703",
+      "title": "Tech OpenAI abandons plan to release upcoming model as safety concerns escalate",
+      "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+      "summary": "The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-28T23:06:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "paulkrush",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development.",
+      "author_name": "paulkrush"
+    },
+    {
+      "id": "49885476",
+      "title": "What if automating AI R&D triggers an intelligence explosion? [pdf]",
+      "url": "https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf",
+      "summary": "%PDF-1.3 %��������� 3 0 obj > stream x\u0001m��n�0\u0010E���!�MLR�g2�B��\u0012�R7ޡ�@�\u0015����\u0003�@E��Ⱥs��=�\u001a\u000e��|��| �D�\u0011~��\u0013�a�:j�\u001cA\u000fu��Vg��Έe;��E\u001cdւG�Z�6\u00117{��5���ڑ��V=*\u0007c�� вe\u0000{faby՟�\u0005b�`�T�B5ɋ��)+bUF1+J^7�N���\" ;x\u000f�H�5'Wפ��Ʊ�f�.����uk\u0005�]v ��-C\u0014����(�>��\u001d�nȅ\u001e�E\u001b̮��\u001bҗܚ�}\u0012�yHw > endobj 4 0 obj > /Font > /XObject > >> endobj 6 0 obj > stre…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-28T22:41:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "whyleyc",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "%PDF-1.3 %��������� 3 0 obj > stream x\u0001m��n�0\u0010E���!�MLR�g2�B��\u0012�R7ޡ�@�\u0015����\u0003�@E��Ⱥs��=�\u001a\u000e��|��| �D�\u0011~��\u0013�a�:j�\u001cA\u000fu��Vg��Έe;��E\u001cdւG�Z�6\u00117{��5���ڑ��V=*\u0007c�� вe\u0000{faby՟�\u0005b�`�T�B5ɋ��)+bUF1+J^7�N���\" ;x\u000f�H�5'Wפ��Ʊ�f�.����uk\u0005�]v ��-C\u0014����(�>��\u001d�nȅ\u001e�E\u001b̮��\u001bҗܚ�}\u0012�yHw > endobj 4 0 obj > /Font > /XObject > >> endobj 6 0 obj > stre…",
+      "author_name": "whyleyc"
+    },
+    {
+      "id": "49885469",
+      "title": "I built a FIDO2 hardware key. OpenAI says it isn't hardware enough",
+      "url": "https://voidnullvalue.github.io/openai-fido2/",
+      "summary": "I built a physical ESP32-S3 FIDO2/CTAP 2.1 security key for OpenAI Daybreak. It registers, authenticates, and still does not count as a hardware key. Support also clarified that I need two physical keys, while not documenting what property makes mine fail.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-28T22:41:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "voidnullvalue",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "I built a physical ESP32-S3 FIDO2/CTAP 2.1 security key for OpenAI Daybreak. It registers, authenticates, and still does not count as a hardware key. Support also clarified that I need two physical keys, while not documenting what property makes mine fail.",
+      "author_name": "voidnullvalue"
+    },
+    {
+      "id": "49885420",
+      "title": "AI Almost Started a U.S.–China War – and No One Seems to Care",
+      "url": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
+      "summary": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-28T22:34:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "cdrnsf",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers.",
+      "author_name": "cdrnsf"
+    },
+    {
+      "id": "49885120",
+      "title": "Replace Your OpenAI, Anthropic or Google API Call with Middleware",
+      "url": "https://middleware.now/",
+      "summary": "Send your OpenAI, Anthropic or Google API calls through Mubit Middleware. Review model performance and use feedback to train models for recurring tasks.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-28T22:07:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "aperi",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Send your OpenAI, Anthropic or Google API calls through Mubit Middleware. Review model performance and use feedback to train models for recurring tasks.",
+      "author_name": "aperi"
+    },
+    {
+      "id": "49884625",
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "summary": "7-node ESP32-S3 cluster running a 0.4B LLM via 1.58-bit (BitNet) ternary quantization over SPI daisy-chain - Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-28T21:26:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "nkko",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "7-node ESP32-S3 cluster running a 0.4B LLM via 1.58-bit (BitNet) ternary quantization over SPI daisy-chain - Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "author_name": "nkko"
+    },
+    {
+      "id": "49884519",
+      "title": "Stanford CME295 Transformers n LLMs – Autumn 2026 – Lecture 1 – Transformers [video]",
+      "url": "https://www.youtube.com/watch?v=114i2Kz-LZA",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-28T21:18:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "mdp2021",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "mdp2021"
+    },
+    {
+      "id": "49884458",
+      "title": "Authors Guild calls on publishers to share Anthropic wealth",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
+      "summary": "The Guild is asking publishers to more equitably divvy up Anthropic’s $1.5 billion settlement for certain claims, noting many houses will receive large payouts while most authors will get nothing more than “the ability to pay bills from the settlemen",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-28T21:14:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "ilamont",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "The Guild is asking publishers to more equitably divvy up Anthropic’s $1.5 billion settlement for certain claims, noting many houses will receive large payouts while most authors will get nothing more than “the ability to pay bills from the settlemen",
+      "author_name": "ilamont"
+    },
+    {
+      "id": "49884413",
+      "title": "Researchers proved AI has deleted every reason universities exist",
+      "url": "https://twitter.com/thesupermannx/status/2104519992532496810",
+      "summary": "Researchers proved AI has deleted every reason universities exist. Harvard University ran a controlled experiment pitting a custom AI against their own top-tier classrooms. And the results are going to collapse the higher education bubble. They took 194 undergraduates and split them up. One gro…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-28T21:11:21Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "zipvoila",
-      "likes": 3,
+      "author": "pretext",
+      "likes": 2,
+      "views": 3,
+      "retweets": 0,
+      "text": "Researchers proved AI has deleted every reason universities exist. Harvard University ran a controlled experiment pitting a custom AI against their own top-tier classrooms. And the results are going to collapse the higher education bubble. They took 194 undergraduates and split them up. One gro…",
+      "author_name": "pretext"
+    },
+    {
+      "id": "49883586",
+      "title": "Electric Cheaper to Operate Than Diesel for Almost Half of Trucks Sold in EU",
+      "url": "https://cleantechnica.com/2026/09/28/electric-trucks-cheaper-to-operate-than-diesel-for-almost-half-of-trucks-sold-in-eu-new-analysis/",
+      "summary": "As EU hauliers face another diesel price shock, electrification offers the only realistic option to protect them against future oil crises. Electric trucks deliver a lower total cost of ownership (TCO) in six out of nine major EU markets, which together account for 46% of all new heavy trucks sold ... [continued]",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-28T20:03:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "gumby",
+      "likes": 4,
       "views": 1,
       "retweets": 0,
-      "text": "We asked ChatGPT, Claude, Gemini, Perplexity and Grok which email API to use for signup and password reset emails, 60 times. Resend was named in 92% of answers, ChatGPT was the exception, and the most cited source was one email vendor&#x27;s blog.",
-      "author_name": "zipvoila"
+      "text": "As EU hauliers face another diesel price shock, electrification offers the only realistic option to protect them against future oil crises. Electric trucks deliver a lower total cost of ownership (TCO) in six out of nine major EU markets, which together account for 46% of all new heavy trucks sold ... [continued]",
+      "author_name": "gumby"
+    },
+    {
+      "id": "49882858",
+      "title": "AirPunk – we turned starting an online business into a game",
+      "url": "https://airpunk.ai/",
+      "summary": "AirPunk researches your market, builds your website, launches your ads and tracks your sales. Describe a brand and get a company that runs itself — you approve the important decisions. Create your account and start.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-28T19:03:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "laurenz-bauer",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "AirPunk researches your market, builds your website, launches your ads and tracks your sales. Describe a brand and get a company that runs itself — you approve the important decisions. Create your account and start.",
+      "author_name": "laurenz-bauer"
+    },
+    {
+      "id": "49882566",
+      "title": "Law professor Orin Kerr on criminal liability for AI hacking",
+      "url": "https://twitter.com/OrinKerr/status/2104271670697755016",
+      "summary": "A lot of people replied to this tweet by saying that I&#x27;m just wrong about criminal law: We *do* normally make it a crime to commit tort law negligence, as shown by statutes like negligent homicide. Two thoughts. First, it&#x27;s true that there are exceptions to the ordinary rule that negligent act…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-28T18:43:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "wmf",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "A lot of people replied to this tweet by saying that I&#x27;m just wrong about criminal law: We *do* normally make it a crime to commit tort law negligence, as shown by statutes like negligent homicide. Two thoughts. First, it&#x27;s true that there are exceptions to the ordinary rule that negligent act…",
+      "author_name": "wmf"
+    },
+    {
+      "id": "49879335",
+      "title": "Pragmatic Anthropomorphism, Or: How to Talk to an Autocompleting Cricket",
+      "url": "https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/",
+      "summary": "TL;DR: Arguing over whether LLMs &quot;truly understand&quot; or have an inner spark misses what&#39;s actually useful when sitting in front of one. Treating an AI as a competent collaborator isn&#39;t magical thinking or naive anthropomorphism—it&#39;s pragmatic navigation of a vast latent space. Sometimes you have to…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-28T15:12:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "ibobev",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "TL;DR: Arguing over whether LLMs &quot;truly understand&quot; or have an inner spark misses what&#39;s actually useful when sitting in front of one. Treating an AI as a competent collaborator isn&#39;t magical thinking or naive anthropomorphism—it&#39;s pragmatic navigation of a vast latent space. Sometimes you have to…",
+      "author_name": "ibobev"
     },
     {
       "id": "49879006",
@@ -162,86 +342,6 @@
       "retweets": 0,
       "text": "Open research, controls across the agent stack and continuous testing help defenders build and operate more secure AI systems.",
       "author_name": "ketanbj"
-    },
-    {
-      "id": "49878670",
-      "title": "Visual browser of 1,750 AI startup homepages to spot stylistic patterns",
-      "url": "https://ai-startups.acolorbright.com/",
-      "summary": "Visually browse Y Combinator AI startup homepages to spot stylistic patterns, discover emerging trends, and find similar designs.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-28T14:34:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "felixbraun",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Visually browse Y Combinator AI startup homepages to spot stylistic patterns, discover emerging trends, and find similar designs.",
-      "author_name": "felixbraun"
-    },
-    {
-      "id": "49877627",
-      "title": "Google, OpenAI and Anthropic plan AI safety body, The Information reports",
-      "url": "https://thenextweb.com/news/standards-authority-frontier-ai-google-openai-anthropic",
-      "summary": "The labs first wanted federal oversight. Now they reportedly plan their own Standards Authority for Frontier AI, modelled on FINRA.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T13:27:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "layer8",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "The labs first wanted federal oversight. Now they reportedly plan their own Standards Authority for Frontier AI, modelled on FINRA.",
-      "author_name": "layer8"
-    },
-    {
-      "id": "49877374",
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Agents Target Government",
-      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T13:09:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 41,
-      "author": "chunky1994",
-      "likes": 10,
-      "views": 4,
-      "retweets": 0,
-      "text": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-      "author_name": "chunky1994"
-    },
-    {
-      "id": "49876581",
-      "title": "Hospitals use AI to find more things to bill for. Insurers use AI to deny them.",
-      "url": "https://twitter.com/HedgieMarkets/status/2104266774766039301",
-      "summary": "🦔The Blue Cross Blue Shield Association says insurers paid out nearly $1 billion more than usual from AI-assisted hospital documentation in 2024-2025. Hospitals use AI to scan records and find secondary diagnoses that human reviewers missed. More diagnoses means higher reimbursements. But treatmen…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-28T11:53:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "MrBuddyCasino",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "🦔The Blue Cross Blue Shield Association says insurers paid out nearly $1 billion more than usual from AI-assisted hospital documentation in 2024-2025. Hospitals use AI to scan records and find secondary diagnoses that human reviewers missed. More diagnoses means higher reimbursements. But treatmen…",
-      "author_name": "MrBuddyCasino"
     },
     {
       "id": "49875797",
@@ -284,66 +384,6 @@
       "author_name": "kunalsin9h"
     },
     {
-      "id": "49874958",
-      "title": "OpenAI pauses some training amid allegations its rogue agents behaved more",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
-      "summary": "Amid allegations that agents may have gone off the rails thousands of times, China set up some kind of agentic incident hotline",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T08:07:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "sbulaev",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "Amid allegations that agents may have gone off the rails thousands of times, China set up some kind of agentic incident hotline",
-      "author_name": "sbulaev"
-    },
-    {
-      "id": "49874373",
-      "title": "Pragmatic Anthropomorphism, Or: How to Talk to an Autocompleting Cricket",
-      "url": "https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/",
-      "summary": "TL;DR: Arguing over whether LLMs &quot;truly understand&quot; or have an inner spark misses what&#39;s actually useful when sitting in front of one. Treating an AI as a competent collaborator isn&#39;t magical thinking or naive anthropomorphism—it&#39;s pragmatic navigation of a vast latent space. Sometimes you have to…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T06:36:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "nizarmah",
-      "likes": 2,
-      "views": 2,
-      "retweets": 0,
-      "text": "TL;DR: Arguing over whether LLMs &quot;truly understand&quot; or have an inner spark misses what&#39;s actually useful when sitting in front of one. Treating an AI as a competent collaborator isn&#39;t magical thinking or naive anthropomorphism—it&#39;s pragmatic navigation of a vast latent space. Sometimes you have to…",
-      "author_name": "nizarmah"
-    },
-    {
-      "id": "49873289",
-      "title": "OpenAI pauses training of latest models",
-      "url": "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098",
-      "summary": "AI labs are facing pressure from lawmakers and tech experts to slow development so they can build guardrails to stop agents from acting on their own.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T03:33:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "geoffbp",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "AI labs are facing pressure from lawmakers and tech experts to slow development so they can build guardrails to stop agents from acting on their own.",
-      "author_name": "geoffbp"
-    },
-    {
       "id": "49858854",
       "title": "Six Bazel patches from an AI software factory, plus a remote-cache security bug",
       "url": "https://www.incredibuild.com/blog/bazel-contributions-security-fix-autonomous-sdlc",
@@ -362,46 +402,6 @@
       "retweets": 0,
       "text": "Six upstream Bazel contributions and a remote-cache path-traversal fix: what Incredibuild&#039;s Software Factory found, and what Bazel users should check.",
       "author_name": "lol-lol-lol-2"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mooreds",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
-    },
-    {
-      "id": "49701585",
-      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
-      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-09-14T18:25:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "wslh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "wslh"
     }
   ]
 }
