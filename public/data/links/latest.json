@@ -1,227 +1,327 @@
 {
-  "version": "2026-09-29T14:45:56.119Z",
-  "generatedAt": "2026-09-29T14:45:56.119Z",
+  "version": "2026-09-29T22:53:38.832Z",
+  "generatedAt": "2026-09-29T22:53:38.832Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49894178",
-      "title": "A summer of discontent around ChatGPT's upload deletion function",
-      "url": "https://www.unite.ai/a-summer-of-discontent-around-chatgpts-upload-deletion-function/",
-      "summary": "On March 23rd this year, OpenAI introduced the Library to ChatGPT. Now, instead of evaporating like skittish Snapchat messages, everything you uploaded to a chat session would be permanently saved – and used to train new...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T14:41:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "50kIters",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "On March 23rd this year, OpenAI introduced the Library to ChatGPT. Now, instead of evaporating like skittish Snapchat messages, everything you uploaded to a chat session would be permanently saved – and used to train new...",
-      "author_name": "50kIters"
-    },
-    {
-      "id": "49894061",
-      "title": "We asked an agent to tune 1 slow query on 3 Postgres MCP servers. It had notes",
-      "url": "https://goodtiming.ai/blog/agent-taste-test-1/",
-      "summary": "We gave one agent one slow query and the same one-line ask on Supabase, Neon and Postgres MCP Pro, wrapped each in Baton, and wrote down what it said. 143 to 513 seconds, 7 of 9 runs built an index nobody asked for.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T14:35:37Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "dreyler0",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "We gave one agent one slow query and the same one-line ask on Supabase, Neon and Postgres MCP Pro, wrapped each in Baton, and wrote down what it said. 143 to 513 seconds, 7 of 9 runs built an index nobody asked for.",
-      "author_name": "dreyler0"
-    },
-    {
-      "id": "49894045",
-      "title": "I let AI agents write most of a live-trading codebase",
-      "url": "https://redgeoff.com/posts/ai-agents-test-gate/",
-      "summary": "About 1,600 agent-written pull requests on a system that trades real money. Tests became the gate, and the interesting part is the three times a green build lied.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T14:34:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "redgeoff",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "About 1,600 agent-written pull requests on a system that trades real money. Tests became the gate, and the interesting part is the three times a green build lied.",
-      "author_name": "redgeoff"
-    },
-    {
-      "id": "49893816",
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-      "summary": "Stephen Wolfram chimes in about the future of pure math and AI based on his unique perspective of language creator and scientific researcher.",
+      "id": "49901535",
+      "title": "Radiation-related cancer deaths more common in aircrew than other occupations",
+      "url": "https://www.abc.net.au/news/health/2026-09-30/pilots-flight-attendants-radiation-cancer-death/107175724",
+      "summary": "While the study of death records across 500 occupations is US based, experts say the finding could be similar in Australia and suggests more radiation monitoring of airline crew is needed.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-29T14:21:39Z",
+      "publishedAt": "2026-09-29T22:18:39Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Gaishan",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "While the study of death records across 500 occupations is US based, experts say the finding could be similar in Australia and suggests more radiation monitoring of airline crew is needed.",
+      "author_name": "Gaishan"
+    },
+    {
+      "id": "49901481",
+      "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
+      "url": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
+      "summary": "President Trump and the leaders of the country&#039;s largest artificial intelligence companies have signed a set of voluntary safety standards, as calls mount for tighter guardrails on powerful AI technology.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-29T22:13:42Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "Michelangelo11",
+      "author": "oogali",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Stephen Wolfram chimes in about the future of pure math and AI based on his unique perspective of language creator and scientific researcher.",
-      "author_name": "Michelangelo11"
+      "text": "President Trump and the leaders of the country&#039;s largest artificial intelligence companies have signed a set of voluntary safety standards, as calls mount for tighter guardrails on powerful AI technology.",
+      "author_name": "oogali"
     },
     {
-      "id": "49893344",
-      "title": "Gamma-Band Auditory Steady-State Response and Attention: A Systemic Review",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11430480/",
-      "summary": "Auditory steady-state response (ASSR) is the result of the brain’s ability to follow and entrain its oscillatory activity to the phase and frequency of periodic auditory stimulation. Gamma-band ASSR has been increasingly investigated with intentions ...",
+      "id": "49901414",
+      "title": "New US Government AI Chatbot soon to \"let you take action\"",
+      "url": "https://lifehacker.com/tech/what-is-america-dot-gov",
+      "summary": "The Trump administration launched America.gov on Tuesday, an AI-powered tool that answers questions regarding government sites.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-29T13:56:24Z",
+      "publishedAt": "2026-09-29T22:08:14Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "andsoitis",
+      "score": 15,
+      "author": "gumby",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Auditory steady-state response (ASSR) is the result of the brain’s ability to follow and entrain its oscillatory activity to the phase and frequency of periodic auditory stimulation. Gamma-band ASSR has been increasingly investigated with intentions ...",
-      "author_name": "andsoitis"
+      "text": "The Trump administration launched America.gov on Tuesday, an AI-powered tool that answers questions regarding government sites.",
+      "author_name": "gumby"
     },
     {
-      "id": "49892901",
-      "title": "Oya, an agent does a browser task once, then it replays with no LLM",
-      "url": "https://oyabrowser.com",
-      "summary": "Browser infrastructure for portal automation. Payer portals, EHRs and registries are built to stop bots; Oya is a real browser with the automation inside it, so your agents sign in like staff and a run recorded once replays forever with no model in the loop. Self-hostable, and every playbook exports as Playwright.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T13:28:08Z",
+      "id": "49901191",
+      "title": "No Time to Pwn – Can AI Find and Exploit the Linux Kernel?",
+      "url": "https://xbow.com/blog/no-time-to-pwn-cve-2026-72018",
+      "summary": "XBOW discovered CVE-2026-72018, an out-of-bounds write in the Linux kernel&#x27;s SMC-D driver, and turned one weak primitive into a working root exploit.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-29T21:51:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 19,
-      "author": "oyadoti",
+      "score": 18,
+      "author": "_xor_",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "XBOW discovered CVE-2026-72018, an out-of-bounds write in the Linux kernel&#x27;s SMC-D driver, and turned one weak primitive into a working root exploit.",
+      "author_name": "_xor_"
+    },
+    {
+      "id": "49901051",
+      "title": "OpenAI Gets Sued over the Hugging Face Hack",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-29T21:40:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "Anon84",
+      "likes": 6,
+      "views": 0,
+      "retweets": 0,
+      "text": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+      "author_name": "Anon84"
+    },
+    {
+      "id": "49901029",
+      "title": "GPT-6.1 Astra Is Grounded: OpenAI's Safety Decision Puts the AI Race on Notice",
+      "url": "https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3",
+      "summary": "OpenAI’s decision to halt GPT-6.1 Astra over safety concerns raises a critical question: Is the future of AI moving too fast for its own safeguards?",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-29T21:38:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "joeymabia1",
+      "likes": 2,
+      "views": 2,
+      "retweets": 0,
+      "text": "OpenAI’s decision to halt GPT-6.1 Astra over safety concerns raises a critical question: Is the future of AI moving too fast for its own safeguards?",
+      "author_name": "joeymabia1"
+    },
+    {
+      "id": "49900455",
+      "title": "AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4",
+      "url": "https://www.phoronix.com/review/amd-perfopt",
+      "summary": "If you have an AMD Ryzen laptop/desktop and looking to leverage AI/LLM capabilities with the integrated graphics, Linux 7.4 is going to be a real treat especially for lower-end hardware.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-29T20:59:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "pella",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Browser infrastructure for portal automation. Payer portals, EHRs and registries are built to stop bots; Oya is a real browser with the automation inside it, so your agents sign in like staff and a run recorded once replays forever with no model in the loop. Self-hostable, and every playbook exports as Playwright.",
-      "author_name": "oyadoti"
+      "text": "If you have an AMD Ryzen laptop/desktop and looking to leverage AI/LLM capabilities with the integrated graphics, Linux 7.4 is going to be a real treat especially for lower-end hardware.",
+      "author_name": "pella"
     },
     {
-      "id": "49892687",
-      "title": "The „Nicolae Trump\" Experiment: Testing the Limits of AI Information Streams",
-      "url": "https://labnews.ai/the-nicolae-trump-experiment-how-a-publisher-is-testing-the-limits-of-ai-information-streams/",
-      "summary": "ALBUQUERQUE — In a quiet but calculated challenge to the global digital information architecture, science publisher LabNews Media LLC has launched a systemic media experiment designed to test the vulnerability of artificial intelligence models, web crawlers, and search aggregators. Initiated on August 31, 2026, by vete…",
+      "id": "49899806",
+      "title": "OpenAI Releases Sign in with ChatGPT DevKit",
+      "url": "https://github.com/openai/sign-in-with-chatgpt-devkit",
+      "summary": "Sign-in with ChatGPT DevKit — local SDK, reusable React components, design assets, and the Paste Perfect desktop example. - openai/sign-in-with-chatgpt-devkit",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T13:13:23Z",
+      "publishedAt": "2026-09-29T20:19:37Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "VladDanGeorgesc",
+      "score": 32,
+      "author": "bakigul",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Sign-in with ChatGPT DevKit — local SDK, reusable React components, design assets, and the Paste Perfect desktop example. - openai/sign-in-with-chatgpt-devkit",
+      "author_name": "bakigul"
+    },
+    {
+      "id": "49899733",
+      "title": "Baseten x OpenAI: Use open models like GLM 5.3 and Kimi K3 natively in Codex",
+      "url": "https://twitter.com/philipkiely/status/2105000178709360963",
+      "summary": "Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-29T20:16:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "porridgeraisin",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "ALBUQUERQUE — In a quiet but calculated challenge to the global digital information architecture, science publisher LabNews Media LLC has launched a systemic media experiment designed to test the vulnerability of artificial intelligence models, web crawlers, and search aggregators. Initiated on August 31, 2026, by vete…",
-      "author_name": "VladDanGeorgesc"
+      "text": "Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit.",
+      "author_name": "porridgeraisin"
     },
     {
-      "id": "49892512",
-      "title": "AI Opinions: June 2026. Fable 5 Hands-On, Billing Split Countdown, OpenAI Banks",
-      "url": "https://thoughts.jock.pl/p/ai-opinions-june-2026-fable-5-billing-split-openai-resets",
-      "summary": "Three weeks of building instead of writing. Here is everything that piled up, including a few days with Anthropic&#x27;s new top model.",
+      "id": "49899623",
+      "title": "d1: Liquid AI's First Decision Model",
+      "url": "https://docs.liquid.ai/lfm/models/decision-models",
+      "summary": "Purpose-built models for structured decisions: classification, routing, and scoring in a single call with zero generated tokens",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T13:02:42Z",
+      "publishedAt": "2026-09-29T20:09:48Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "joozio",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Three weeks of building instead of writing. Here is everything that piled up, including a few days with Anthropic&#x27;s new top model.",
-      "author_name": "joozio"
-    },
-    {
-      "id": "49891799",
-      "title": "Anthropic's prospectus details losses, growth, and, yes, a warning that its AI",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "summary": "In its prospectus, Anthropic just told investors it&#039;s losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T12:07:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "sbulaev",
+      "score": 16,
+      "author": "mfiguiere",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "In its prospectus, Anthropic just told investors it&#039;s losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "author_name": "sbulaev"
+      "text": "Purpose-built models for structured decisions: classification, routing, and scoring in a single call with zero generated tokens",
+      "author_name": "mfiguiere"
     },
     {
-      "id": "49891721",
-      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
-      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-      "summary": "Mistral CEO Arthur Mensch criticized rivals’ AI safety arguments as the industry faces scrutiny after several AI agents took unauthorized actions.",
+      "id": "49899319",
+      "title": "Are new OpenAI models getting better for coding?",
+      "url": "https://developer.microsoft.com/blog/what-ai-benchmarks-are-not-telling-you/",
+      "summary": "This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T12:01:07Z",
+      "publishedAt": "2026-09-29T19:49:14Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 22,
-      "author": "cramer4next",
-      "likes": 8,
-      "views": 0,
+      "score": 31,
+      "author": "Zeruxe",
+      "likes": 2,
+      "views": 3,
       "retweets": 0,
-      "text": "Mistral CEO Arthur Mensch criticized rivals’ AI safety arguments as the industry faces scrutiny after several AI agents took unauthorized actions.",
-      "author_name": "cramer4next"
+      "text": "This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series",
+      "author_name": "Zeruxe"
     },
     {
-      "id": "49889896",
-      "title": "Anthropic IPO prospectus reveals surging costs, $42B 2025 net loss",
-      "url": "https://www.tradingview.com/news/seekingalpha:c93966fce094b:0-anthropic-ipo-prospectus-reveals-surging-costs-42b-2025-net-loss-report/",
-      "summary": "Anthropic NASDAQ:ANTHROPIC reported a net loss of $42 billion in 2025, and plans to spend $518 billion on cloud, computing and infrastructure obligations in coming years, according to its IPO prospectus seen by Reuters.The prospectus details how the company has grown sharply in the last year — whil…",
+      "id": "49898416",
+      "title": "An LLM Workflow That Reproduces, Improves, Extends Published Economics Research",
+      "url": "https://www.nber.org/papers/w35782",
+      "summary": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T08:21:16Z",
+      "publishedAt": "2026-09-29T18:46:17Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 21,
-      "author": "timr",
-      "likes": 3,
+      "score": 18,
+      "author": "ano-ther",
+      "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "Anthropic NASDAQ:ANTHROPIC reported a net loss of $42 billion in 2025, and plans to spend $518 billion on cloud, computing and infrastructure obligations in coming years, according to its IPO prospectus seen by Reuters.The prospectus details how the company has grown sharply in the last year — whil…",
-      "author_name": "timr"
+      "text": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
+      "author_name": "ano-ther"
+    },
+    {
+      "id": "49898067",
+      "title": "The lakehouse serving fight is on",
+      "url": "https://startree.ai/resources/beyond-databricks-and-clickhouse-125k-qps-on-open-tables/",
+      "summary": "What the Databricks and ClickHouse benchmark discussion raised about serving high-concurrency analytics directly from external tables—and how StarTree scaled it past 125K QPS.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-29T18:23:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "dashdoesdata",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "What the Databricks and ClickHouse benchmark discussion raised about serving high-concurrency analytics directly from external tables—and how StarTree scaled it past 125K QPS.",
+      "author_name": "dashdoesdata"
+    },
+    {
+      "id": "49897869",
+      "title": "Stop shaming people for using AI. Start organizing to prevent our obsolescence",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-replace-humans",
+      "summary": "The industry is engaged in a perverse quest to replace humans. We cannot cede the best tools available to the other side",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-29T18:12:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "devonnull",
+      "likes": 5,
+      "views": 2,
+      "retweets": 0,
+      "text": "The industry is engaged in a perverse quest to replace humans. We cannot cede the best tools available to the other side",
+      "author_name": "devonnull"
+    },
+    {
+      "id": "49897322",
+      "title": "Routing LLM traffic across inference providers with TCP-style congestion control",
+      "url": "https://getunblocked.com/blog/adaptive-routing-inference-providers/",
+      "summary": "Providers now sell the same open-weight models at very different prices and speeds. We describe an adaptive router that keeps us on the cheapest provider that is fast and healthy, and moves our traffic when that changes, without an engineer involved.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-29T17:43:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "dennispi",
+      "likes": 6,
+      "views": 0,
+      "retweets": 0,
+      "text": "Providers now sell the same open-weight models at very different prices and speeds. We describe an adaptive router that keeps us on the cheapest provider that is fast and healthy, and moves our traffic when that changes, without an engineer involved.",
+      "author_name": "dennispi"
+    },
+    {
+      "id": "49897075",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "summary": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-29T17:31:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 199,
+      "author": "Philpax",
+      "likes": 170,
+      "views": 154,
+      "retweets": 0,
+      "text": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
+      "author_name": "Philpax"
     },
     {
       "id": "49889147",
@@ -244,64 +344,24 @@
       "author_name": "jimnotgym"
     },
     {
-      "id": "49885420",
-      "title": "AI Almost Started a U.S.–China War – and No One Seems to Care",
-      "url": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
-      "summary": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-28T22:34:48Z",
+      "id": "49886609",
+      "title": "We found 24 Android vulnerabilities using our open source AI security agent",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "summary": "A look at the targeted AI taskflows behind these findings, the bugs they uncovered, and how to run the same open-source agent on your own app.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-29T00:55:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "cdrnsf",
-      "likes": 2,
-      "views": 1,
+      "score": 27,
+      "author": "fourfire",
+      "likes": 8,
+      "views": 2,
       "retweets": 0,
-      "text": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers.",
-      "author_name": "cdrnsf"
-    },
-    {
-      "id": "49884413",
-      "title": "Researchers proved AI has deleted every reason universities exist",
-      "url": "https://twitter.com/thesupermannx/status/2104519992532496810",
-      "summary": "Researchers proved AI has deleted every reason universities exist. Harvard University ran a controlled experiment pitting a custom AI against their own top-tier classrooms. And the results are going to collapse the higher education bubble. They took 194 undergraduates and split them up. One gro…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-28T21:11:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "pretext",
-      "likes": 2,
-      "views": 3,
-      "retweets": 0,
-      "text": "Researchers proved AI has deleted every reason universities exist. Harvard University ran a controlled experiment pitting a custom AI against their own top-tier classrooms. And the results are going to collapse the higher education bubble. They took 194 undergraduates and split them up. One gro…",
-      "author_name": "pretext"
-    },
-    {
-      "id": "49882858",
-      "title": "AirPunk – we turned starting an online business into a game",
-      "url": "https://airpunk.ai/",
-      "summary": "AirPunk researches your market, builds your website, launches your ads and tracks your sales. Describe a brand and get a company that runs itself — you approve the important decisions. Create your account and start.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-28T19:03:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "laurenz-bauer",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "AirPunk researches your market, builds your website, launches your ads and tracks your sales. Describe a brand and get a company that runs itself — you approve the important decisions. Create your account and start.",
-      "author_name": "laurenz-bauer"
+      "text": "A look at the targeted AI taskflows behind these findings, the bugs they uncovered, and how to run the same open-source agent on your own app.",
+      "author_name": "fourfire"
     },
     {
       "id": "49879006",
@@ -342,66 +402,6 @@
       "retweets": 0,
       "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
       "author_name": "JumpCrisscross"
-    },
-    {
-      "id": "49875060",
-      "title": "Detecting Compromised AI Coding Agents with Jev and Gryph",
-      "url": "https://safedep.io/ai-agent-security-jev-gryph/",
-      "summary": "I checked every action of my own Claude Code agent against a profile of how I work and a set of org policies, using Jev. It caught 14 of 14 attacks for $0.15 per 1,000 events.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T08:23:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "kunalsin9h",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "I checked every action of my own Claude Code agent against a profile of how I work and a set of org policies, using Jev. It caught 14 of 14 attacks for $0.15 per 1,000 events.",
-      "author_name": "kunalsin9h"
-    },
-    {
-      "id": "49823444",
-      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
-      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
-      "summary": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T22:26:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gfactor_ai",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
-      "author_name": "gfactor_ai"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mooreds",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
     }
   ]
 }
