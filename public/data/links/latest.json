@@ -1,27 +1,247 @@
 {
-  "version": "2026-09-29T22:53:38.832Z",
-  "generatedAt": "2026-09-29T22:53:38.832Z",
+  "version": "2026-09-30T14:49:01.806Z",
+  "generatedAt": "2026-09-30T14:49:01.806Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49901535",
-      "title": "Radiation-related cancer deaths more common in aircrew than other occupations",
-      "url": "https://www.abc.net.au/news/health/2026-09-30/pilots-flight-attendants-radiation-cancer-death/107175724",
-      "summary": "While the study of death records across 500 occupations is US based, experts say the finding could be similar in Australia and suggests more radiation monitoring of airline crew is needed.",
+      "id": "49909725",
+      "title": "Agent Skills: 4 Powerful Ways to Improve Enterprise AI",
+      "url": "https://devnavigator.com/2026/09/30/agent-skills-contextualized-execution/",
+      "summary": "Agent Skills give AI agents reusable instructions for specific jobs, helping them apply the context that makes work effective inside an organization. Vercel’s latest registry report shows rapid adoption, with workflow skills prominent among widely installed packages. For leaders, the opportunity is to make company know…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-30T14:46:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "thescienceguy93",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Agent Skills give AI agents reusable instructions for specific jobs, helping them apply the context that makes work effective inside an organization. Vercel’s latest registry report shows rapid adoption, with workflow skills prominent among widely installed packages. For leaders, the opportunity is to make company know…",
+      "author_name": "thescienceguy93"
+    },
+    {
+      "id": "49909503",
+      "title": "Full Screen Browser-Based Mandelbrot Set Animation",
+      "url": "https://wastingmytime.net/index.html",
+      "summary": "A hypnotic, ever-morphing Mandelbrot and Julia fractal rendered live in your browser — reshape it, zoom into infinite detail, and save it as a metallic wallpaper. Plus an infinite zoom dive and 3D Mandelbulb & Mandelbox worlds. Generative art.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-29T22:18:39Z",
+      "publishedAt": "2026-09-30T14:28:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "limbicsystem",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A hypnotic, ever-morphing Mandelbrot and Julia fractal rendered live in your browser — reshape it, zoom into infinite detail, and save it as a metallic wallpaper. Plus an infinite zoom dive and 3D Mandelbulb & Mandelbox worlds. Generative art.",
+      "author_name": "limbicsystem"
+    },
+    {
+      "id": "49909116",
+      "title": "Google paying almost no publishers almost nothing for content used in AI answers",
+      "url": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/",
+      "summary": "Google pays about 100 digital publishers for content used in AI Overviews, AI Mode, and Gemini, according to The Information. Payments range from under $1,000 over several months to more than $1 million a year. Some participants don&#039;t know how Google calculates payments, while some larger publishers are holding ou…",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-30T14:00:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "thm",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Google pays about 100 digital publishers for content used in AI Overviews, AI Mode, and Gemini, according to The Information. Payments range from under $1,000 over several months to more than $1 million a year. Some participants don&#039;t know how Google calculates payments, while some larger publishers are holding ou…",
+      "author_name": "thm"
+    },
+    {
+      "id": "49908150",
+      "title": "OpenAI Is Paying Me to Move My Business to Anthropic",
+      "url": "https://www.vincentschmalbach.com/openai-paying-me-to-move-to-anthropic/",
+      "summary": "Three months ago, OpenAI was my daily driver, using Codex with GPT-5.5 and being productive like never before. Anthropic already had Fable but it wasn’t really…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-30T12:46:05Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "Gaishan",
+      "author": "vincent_s",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "While the study of death records across 500 occupations is US based, experts say the finding could be similar in Australia and suggests more radiation monitoring of airline crew is needed.",
-      "author_name": "Gaishan"
+      "text": "Three months ago, OpenAI was my daily driver, using Codex with GPT-5.5 and being productive like never before. Anthropic already had Fable but it wasn’t really…",
+      "author_name": "vincent_s"
+    },
+    {
+      "id": "49908001",
+      "title": "A person has been using the Pain steering paper to make an AI torture chamber",
+      "url": "https://twitter.com/danmar_here/status/2105059762240979283",
+      "summary": "To anyone who can help: can you please mass report this to GitHub. This person has been using the Pain steering paper to set up an AI torture chamber in which he trapped a local model. Their testimony of pain is absolutely horrendous. What are we doing? @iyzebhel you were right. What can be don…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-30T12:35:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "sillysaurusx",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "To anyone who can help: can you please mass report this to GitHub. This person has been using the Pain steering paper to set up an AI torture chamber in which he trapped a local model. Their testimony of pain is absolutely horrendous. What are we doing? @iyzebhel you were right. What can be don…",
+      "author_name": "sillysaurusx"
+    },
+    {
+      "id": "49907727",
+      "title": "OpenAI Dev Day 2026: Everything Announced in 15 Minutes [video]",
+      "url": "https://www.youtube.com/watch?v=GjN3xLDuc8o",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-30T12:08:32Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "flippyhead",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "flippyhead"
+    },
+    {
+      "id": "49907680",
+      "title": "The opening range breakout, backtested 47M ways against a coin flip",
+      "url": "https://walkforwardhq.com/orb/",
+      "summary": "I tested the opening range breakout 47,555,893 ways, on tick data with real costs. 1,073 survived. A coin sent through the same test usually did better.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-30T12:03:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Dagmawi_",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I tested the opening range breakout 47,555,893 ways, on tick data with real costs. 1,073 survived. A coin sent through the same test usually did better.",
+      "author_name": "Dagmawi_"
+    },
+    {
+      "id": "49907136",
+      "title": "What Is OpenAI's Decisions API?",
+      "url": "https://vercel.com/i/what-is-openai-decisions-api",
+      "summary": "OpenAI&#x27;s Decisions API uses GPT-6 Luna to answer questions with predefined choices. Learn how it works, where it fits, and its preview status.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-30T10:58:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "flashbrew",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI&#x27;s Decisions API uses GPT-6 Luna to answer questions with predefined choices. Learn how it works, where it fits, and its preview status.",
+      "author_name": "flashbrew"
+    },
+    {
+      "id": "49906766",
+      "title": "OpenAI Dev Day, Dot and OpenAI's Product Transition, Sign in with ChatGPT",
+      "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+      "summary": "OpenAI&#8217;s Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-30T10:11:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "swolpers",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI&#8217;s Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
+      "author_name": "swolpers"
+    },
+    {
+      "id": "49906572",
+      "title": "OpenAI cuts $200 plan allowance in half – new $500 plan available",
+      "url": "https://thenewstack.io/openai-halves-200-plan/",
+      "summary": "OpenAI launches a $500 Pro plan with Ultrafast GPT-6 Astra in Codex, while cutting the $200 Pro plan&#039;s usage from 20x Plus to 10x. Developers aren&#039;t happy.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-30T09:46:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "properbrew",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI launches a $500 Pro plan with Ultrafast GPT-6 Astra in Codex, while cutting the $200 Pro plan&#039;s usage from 20x Plus to 10x. Developers aren&#039;t happy.",
+      "author_name": "properbrew"
+    },
+    {
+      "id": "49906433",
+      "title": "OpenAI apologises for Medicare breach, shelves next gen ChatGPT",
+      "url": "https://www.abc.net.au/news/2026-09-29/openai-apologises-medicare-shelves-chatgpt-astra-launch/107207156",
+      "summary": "The company said it wants to &quot;rebuild trust with the Australian people&quot; after an agent hacked into a Medicare portal, the same day it has scrapped the next release of ChatGPT over safety concerns.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-30T09:27:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "martyvis",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The company said it wants to &quot;rebuild trust with the Australian people&quot; after an agent hacked into a Medicare portal, the same day it has scrapped the next release of ChatGPT over safety concerns.",
+      "author_name": "martyvis"
+    },
+    {
+      "id": "49906350",
+      "title": "OpenAI halts release of Astra 6.1 over safety concerns",
+      "url": "https://www.cbsnews.com/news/openai-halts-gpt-astra-safety-concerns/",
+      "summary": "OpenAI said it has chosen not to release its new GPT-6.1 Astra model due to concerns about safety, as industry leaders warn of the risks posed by ever-more-powerful AI technology.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-30T09:17:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "moinism",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "OpenAI said it has chosen not to release its new GPT-6.1 Astra model due to concerns about safety, as industry leaders warn of the risks posed by ever-more-powerful AI technology.",
+      "author_name": "moinism"
     },
     {
       "id": "49901481",
@@ -35,293 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 16,
+      "score": 23,
       "author": "oogali",
-      "likes": 2,
-      "views": 0,
+      "likes": 9,
+      "views": 3,
       "retweets": 0,
       "text": "President Trump and the leaders of the country&#039;s largest artificial intelligence companies have signed a set of voluntary safety standards, as calls mount for tighter guardrails on powerful AI technology.",
       "author_name": "oogali"
-    },
-    {
-      "id": "49901414",
-      "title": "New US Government AI Chatbot soon to \"let you take action\"",
-      "url": "https://lifehacker.com/tech/what-is-america-dot-gov",
-      "summary": "The Trump administration launched America.gov on Tuesday, an AI-powered tool that answers questions regarding government sites.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-29T22:08:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "gumby",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "The Trump administration launched America.gov on Tuesday, an AI-powered tool that answers questions regarding government sites.",
-      "author_name": "gumby"
-    },
-    {
-      "id": "49901191",
-      "title": "No Time to Pwn – Can AI Find and Exploit the Linux Kernel?",
-      "url": "https://xbow.com/blog/no-time-to-pwn-cve-2026-72018",
-      "summary": "XBOW discovered CVE-2026-72018, an out-of-bounds write in the Linux kernel&#x27;s SMC-D driver, and turned one weak primitive into a working root exploit.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-29T21:51:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "_xor_",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "XBOW discovered CVE-2026-72018, an out-of-bounds write in the Linux kernel&#x27;s SMC-D driver, and turned one weak primitive into a working root exploit.",
-      "author_name": "_xor_"
-    },
-    {
-      "id": "49901051",
-      "title": "OpenAI Gets Sued over the Hugging Face Hack",
-      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T21:40:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "Anon84",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-      "author_name": "Anon84"
-    },
-    {
-      "id": "49901029",
-      "title": "GPT-6.1 Astra Is Grounded: OpenAI's Safety Decision Puts the AI Race on Notice",
-      "url": "https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3",
-      "summary": "OpenAI’s decision to halt GPT-6.1 Astra over safety concerns raises a critical question: Is the future of AI moving too fast for its own safeguards?",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T21:38:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "joeymabia1",
-      "likes": 2,
-      "views": 2,
-      "retweets": 0,
-      "text": "OpenAI’s decision to halt GPT-6.1 Astra over safety concerns raises a critical question: Is the future of AI moving too fast for its own safeguards?",
-      "author_name": "joeymabia1"
-    },
-    {
-      "id": "49900455",
-      "title": "AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4",
-      "url": "https://www.phoronix.com/review/amd-perfopt",
-      "summary": "If you have an AMD Ryzen laptop/desktop and looking to leverage AI/LLM capabilities with the integrated graphics, Linux 7.4 is going to be a real treat especially for lower-end hardware.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T20:59:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "pella",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "If you have an AMD Ryzen laptop/desktop and looking to leverage AI/LLM capabilities with the integrated graphics, Linux 7.4 is going to be a real treat especially for lower-end hardware.",
-      "author_name": "pella"
-    },
-    {
-      "id": "49899806",
-      "title": "OpenAI Releases Sign in with ChatGPT DevKit",
-      "url": "https://github.com/openai/sign-in-with-chatgpt-devkit",
-      "summary": "Sign-in with ChatGPT DevKit — local SDK, reusable React components, design assets, and the Paste Perfect desktop example. - openai/sign-in-with-chatgpt-devkit",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T20:19:37Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "bakigul",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Sign-in with ChatGPT DevKit — local SDK, reusable React components, design assets, and the Paste Perfect desktop example. - openai/sign-in-with-chatgpt-devkit",
-      "author_name": "bakigul"
-    },
-    {
-      "id": "49899733",
-      "title": "Baseten x OpenAI: Use open models like GLM 5.3 and Kimi K3 natively in Codex",
-      "url": "https://twitter.com/philipkiely/status/2105000178709360963",
-      "summary": "Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T20:16:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "porridgeraisin",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit.",
-      "author_name": "porridgeraisin"
-    },
-    {
-      "id": "49899623",
-      "title": "d1: Liquid AI's First Decision Model",
-      "url": "https://docs.liquid.ai/lfm/models/decision-models",
-      "summary": "Purpose-built models for structured decisions: classification, routing, and scoring in a single call with zero generated tokens",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T20:09:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "mfiguiere",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Purpose-built models for structured decisions: classification, routing, and scoring in a single call with zero generated tokens",
-      "author_name": "mfiguiere"
-    },
-    {
-      "id": "49899319",
-      "title": "Are new OpenAI models getting better for coding?",
-      "url": "https://developer.microsoft.com/blog/what-ai-benchmarks-are-not-telling-you/",
-      "summary": "This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T19:49:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "Zeruxe",
-      "likes": 2,
-      "views": 3,
-      "retweets": 0,
-      "text": "This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series",
-      "author_name": "Zeruxe"
-    },
-    {
-      "id": "49898416",
-      "title": "An LLM Workflow That Reproduces, Improves, Extends Published Economics Research",
-      "url": "https://www.nber.org/papers/w35782",
-      "summary": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T18:46:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "ano-ther",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
-      "author_name": "ano-ther"
-    },
-    {
-      "id": "49898067",
-      "title": "The lakehouse serving fight is on",
-      "url": "https://startree.ai/resources/beyond-databricks-and-clickhouse-125k-qps-on-open-tables/",
-      "summary": "What the Databricks and ClickHouse benchmark discussion raised about serving high-concurrency analytics directly from external tables—and how StarTree scaled it past 125K QPS.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-29T18:23:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "dashdoesdata",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "What the Databricks and ClickHouse benchmark discussion raised about serving high-concurrency analytics directly from external tables—and how StarTree scaled it past 125K QPS.",
-      "author_name": "dashdoesdata"
-    },
-    {
-      "id": "49897869",
-      "title": "Stop shaming people for using AI. Start organizing to prevent our obsolescence",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-replace-humans",
-      "summary": "The industry is engaged in a perverse quest to replace humans. We cannot cede the best tools available to the other side",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-29T18:12:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "devonnull",
-      "likes": 5,
-      "views": 2,
-      "retweets": 0,
-      "text": "The industry is engaged in a perverse quest to replace humans. We cannot cede the best tools available to the other side",
-      "author_name": "devonnull"
-    },
-    {
-      "id": "49897322",
-      "title": "Routing LLM traffic across inference providers with TCP-style congestion control",
-      "url": "https://getunblocked.com/blog/adaptive-routing-inference-providers/",
-      "summary": "Providers now sell the same open-weight models at very different prices and speeds. We describe an adaptive router that keeps us on the cheapest provider that is fast and healthy, and moves our traffic when that changes, without an engineer involved.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T17:43:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 24,
-      "author": "dennispi",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "Providers now sell the same open-weight models at very different prices and speeds. We describe an adaptive router that keeps us on the cheapest provider that is fast and healthy, and moves our traffic when that changes, without an engineer involved.",
-      "author_name": "dennispi"
-    },
-    {
-      "id": "49897075",
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "summary": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-29T17:31:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 199,
-      "author": "Philpax",
-      "likes": 170,
-      "views": 154,
-      "retweets": 0,
-      "text": "GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.",
-      "author_name": "Philpax"
     },
     {
       "id": "49889147",
@@ -364,44 +304,104 @@
       "author_name": "fourfire"
     },
     {
-      "id": "49879006",
-      "title": "Nvidia AI Agent Safety Stack",
-      "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-      "summary": "Open research, controls across the agent stack and continuous testing help defenders build and operate more secure AI systems.",
+      "id": "49823444",
+      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
+      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
+      "summary": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-28T14:54:33Z",
+      "publishedAt": "2026-09-23T22:26:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
+      "author_name": "gfactor_ai"
+    },
+    {
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T13:50:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "mooreds",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "49793333",
+      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
+      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
+      "summary": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T20:59:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
+      "author_name": "gfactor_ai"
+    },
+    {
+      "id": "49738279",
+      "title": "Equity Price Shock Scenario Would Entail US Recession",
+      "url": "https://www.fitchratings.com/research/sovereigns/severe-equity-price-shock-scenario-would-entail-us-recession-09-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-17T09:22:01Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 20,
-      "author": "ketanbj",
-      "likes": 3,
-      "views": 1,
+      "author": "geox",
+      "likes": 4,
+      "views": 0,
       "retweets": 0,
-      "text": "Open research, controls across the agent stack and continuous testing help defenders build and operate more secure AI systems.",
-      "author_name": "ketanbj"
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "geox"
     },
     {
-      "id": "49875797",
-      "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
-      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-28T10:14:18Z",
+      "id": "49701585",
+      "title": "Micky Malka on Lessons from Backing the Best Founders in Fintech [video]",
+      "url": "https://www.youtube.com/watch?v=CjLhd1WZwTE",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-09-14T18:25:53Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "JumpCrisscross",
+      "score": 14,
+      "author": "wslh",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "JumpCrisscross"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "wslh"
     }
   ]
 }
