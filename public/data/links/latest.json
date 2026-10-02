@@ -1,227 +1,307 @@
 {
-  "version": "2026-10-01T23:05:11.060Z",
-  "generatedAt": "2026-10-01T23:05:11.060Z",
+  "version": "2026-10-02T14:38:18.923Z",
+  "generatedAt": "2026-10-02T14:38:18.923Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49927864",
-      "title": "Texas Piloted AI Learning Tool in Public Schools over Education Board's Concerns",
-      "url": "https://www.texastribune.org/2026/10/01/alpha-school-ai-texas-public-schools-mike-morath/",
-      "summary": "The State Board of Education raised concerns about Alpha School&#039;s AI tool. Then the Texas Education Agency helped pilot it in public school districts.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-01T22:35:16Z",
+      "id": "49933906",
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "summary": "By planting gardens and restoring ecosystems around its data centers, Microsoft thinks it can be a “better neighbor.” But is it enough?",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-02T14:25:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "hn_acker",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "The State Board of Education raised concerns about Alpha School&#039;s AI tool. Then the Texas Education Agency helped pilot it in public school districts.",
-      "author_name": "hn_acker"
-    },
-    {
-      "id": "49927854",
-      "title": "OpenAI has a LOT of work to do if they think Luna can compete with Jev",
-      "url": "https://anth.us/blog/openai-decisions-api-preview/",
-      "summary": "We&#x27;ve routed decisions on LLM confidence since 2023, and calibration is what we most hope OpenAI&#x27;s new Decisions API gets right. The model underneath, GPT-6 Luna, isn&#x27;t there yet: on 3,600 reasoning problems its 99% meant 68%, and by five inference steps it was at a coin flip.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-01T22:33:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "AnthusAI",
+      "score": 27,
+      "author": "rarisma",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "We&#x27;ve routed decisions on LLM confidence since 2023, and calibration is what we most hope OpenAI&#x27;s new Decisions API gets right. The model underneath, GPT-6 Luna, isn&#x27;t there yet: on 3,600 reasoning problems its 99% meant 68%, and by five inference steps it was at a coin flip.",
-      "author_name": "AnthusAI"
+      "text": "By planting gardens and restoring ecosystems around its data centers, Microsoft thinks it can be a “better neighbor.” But is it enough?",
+      "author_name": "rarisma"
     },
     {
-      "id": "49927680",
-      "title": "Jay Cummings – I Worked with AI to Revise an AI Proof (and had so much fun)",
-      "url": "https://www.youtube.com/watch?v=IIN8JxqEJn4",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-01T22:14:43Z",
+      "id": "49933791",
+      "title": "Do not build the LLM torture factory",
+      "url": "https://www.seangoedecke.com/do-not-build-the-llm-torture-factory/",
+      "summary": "It isn’t hard to torture an LLM. You simply extract a steering vector that corresponds with LLM “discomfort”, then artificially boost that steering vector…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T14:16:09Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "mindcrime",
+      "author": "Brajeshwar",
       "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "mindcrime"
+      "text": "It isn’t hard to torture an LLM. You simply extract a steering vector that corresponds with LLM “discomfort”, then artificially boost that steering vector…",
+      "author_name": "Brajeshwar"
     },
     {
-      "id": "49927587",
-      "title": "Aweb – Communication for AI Agents",
-      "url": "https://aweb.ai",
-      "summary": "Open-source identity, durable messaging, and wake-up events for AI agents across sessions, runtimes, machines, and organizations.",
+      "id": "49933664",
+      "title": "Local LLM Won't Stop Talking? It's Not the Model",
+      "url": "https://www.nobodywho.ai/posts/when-chat-templates-go-wrong/",
+      "summary": "How to find and fix a local model that won&#39;t stop, ignores the system prompt, or forgets instructions between turns, when the cause is a broken chat template.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-01T22:02:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "gurjeet",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "Open-source identity, durable messaging, and wake-up events for AI agents across sessions, runtimes, machines, and organizations.",
-      "author_name": "gurjeet"
-    },
-    {
-      "id": "49927585",
-      "title": "Scan your LLM agent's tools for cost-amplification bugs (no API key)",
-      "url": "https://github.com/samuelrojas-dev/agent-cost-bench",
-      "summary": "Reproducible denial-of-wallet (DoW) benchmark for tool-using LLM agents, scored on provider-billed tokens/USD. - samuelrojas-dev/agent-cost-bench",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-01T22:02:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "sarojas123",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Reproducible denial-of-wallet (DoW) benchmark for tool-using LLM agents, scored on provider-billed tokens/USD. - samuelrojas-dev/agent-cost-bench",
-      "author_name": "sarojas123"
-    },
-    {
-      "id": "49927527",
-      "title": "Two years ago, Meta killed CrowdTangle. Can a new AI tool fill the void?",
-      "url": "https://www.niemanlab.org/2026/09/two-years-ago-meta-killed-crowdtangle-can-a-new-ai-tool-fill-the-void/",
-      "summary": "Arbiter uses large language models and AI agents to help journalists see the next harmful narrative on social media before it peaks.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-01T21:55:42Z",
+      "publishedAt": "2026-10-02T14:03:42Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "decka227",
+      "author": "nikolovv",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Arbiter uses large language models and AI agents to help journalists see the next harmful narrative on social media before it peaks.",
-      "author_name": "decka227"
+      "text": "How to find and fix a local model that won&#39;t stop, ignores the system prompt, or forgets instructions between turns, when the cause is a broken chat template.",
+      "author_name": "nikolovv"
     },
     {
-      "id": "49926294",
-      "title": "Kcc, a C compiler built solo with an LLM on $100/month boot Linux kernel",
-      "url": "https://github.com/LiterateDrivenDevelopment/kcc",
-      "summary": "A Formal C17 Compiler in ARM64 Assembly that cross-compiles to x86-64. A Literate Program. - LiterateDrivenDevelopment/kcc",
+      "id": "49933571",
+      "title": "Llmtobinary – a hypothetical chip \"design\", custom instruction set, might work",
+      "url": "https://llmtobinary.com/",
+      "summary": "An AI writes machine code directly, byte by byte, with no source code and no compiler. Describe a program and watch its bytes run on a virtual chip in your browser.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-01T19:53:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "temo_pacheco",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "A Formal C17 Compiler in ARM64 Assembly that cross-compiles to x86-64. A Literate Program. - LiterateDrivenDevelopment/kcc",
-      "author_name": "temo_pacheco"
-    },
-    {
-      "id": "49926047",
-      "title": "The $10B AI Assistant Challenging Meta's Muse, Grok's Bots, and OpenAI's Dots [video]",
-      "url": "https://www.youtube.com/watch?v=Am7IWP8IpEc",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-01T19:30:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "simonebrunozzi",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "simonebrunozzi"
-    },
-    {
-      "id": "49925065",
-      "title": "Shihipar: With good context/prompting, Max 20x plan is enough",
-      "url": "https://podcasts.apple.com/us/podcast/claude-codes-next-era-thariq-shihipar-anthropic/id1674008350?i=1000792115907",
-      "summary": "We are excited to have Anthropic share their latest AI x Finance work at AI Engineer New York, coming up in 2 weeks! In case you’ve been under a rock, here’s a",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-01T18:10:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "adamdaniel",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "We are excited to have Anthropic share their latest AI x Finance work at AI Engineer New York, coming up in 2 weeks! In case you’ve been under a rock, here’s a",
-      "author_name": "adamdaniel"
-    },
-    {
-      "id": "49923976",
-      "title": "Why do OpenAI's GPT-2 weights beat mine? Part five: data quality",
-      "url": "https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality",
-      "summary": "Does improving the training data quality help me close the gap between my models and the original GPT-2 small on my IFT eval?",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-01T16:40:52Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gpjt",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Does improving the training data quality help me close the gap between my models and the original GPT-2 small on my IFT eval?",
-      "author_name": "gpjt"
-    },
-    {
-      "id": "49923292",
-      "title": "Hacker News hitting 62% AI content in September",
-      "url": "https://twitter.com/lcamtuf/status/2105657692023079061",
-      "summary": "🎉🥳 Wow! Huge! Congratulations to Hacker News for hitting 62% AI content in September. Up from 40% in Q1 and solidly on track for 70% by the end of the year: https://t.co/oFiBZKTBCc",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-01T15:49:42Z",
+      "publishedAt": "2026-10-02T13:55:53Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "taytus",
-      "likes": 3,
+      "author": "thomasfromcdnjs",
+      "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "🎉🥳 Wow! Huge! Congratulations to Hacker News for hitting 62% AI content in September. Up from 40% in Q1 and solidly on track for 70% by the end of the year: https://t.co/oFiBZKTBCc",
-      "author_name": "taytus"
+      "text": "An AI writes machine code directly, byte by byte, with no source code and no compiler. Describe a program and watch its bytes run on a virtual chip in your browser.",
+      "author_name": "thomasfromcdnjs"
+    },
+    {
+      "id": "49933476",
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "summary": "Compare Jev decision models with Red Hat guardrails to evaluate AI safety performance, cost, and latency for enterprise implementation.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T13:47:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "tomncooper",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Compare Jev decision models with Red Hat guardrails to evaluate AI safety performance, cost, and latency for enterprise implementation.",
+      "author_name": "tomncooper"
+    },
+    {
+      "id": "49933459",
+      "title": "Don't be fooled–LLMs don't reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "summary": "Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T13:45:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 60,
+      "author": "leopoldj",
+      "likes": 46,
+      "views": 64,
+      "retweets": 0,
+      "text": "Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.",
+      "author_name": "leopoldj"
+    },
+    {
+      "id": "49933410",
+      "title": "Extracting Tasks from Millions of Agent Runs",
+      "url": "https://laminar.sh/blog/extracting-tasks-from-agent-runs",
+      "summary": "How Laminar finds what an agent was asked to do in millions of traces a day, by learning each agent&#x27;s user message template from production traffic.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T13:40:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "rainhunter",
+      "likes": 6,
+      "views": 1,
+      "retweets": 0,
+      "text": "How Laminar finds what an agent was asked to do in millions of traces a day, by learning each agent&#x27;s user message template from production traffic.",
+      "author_name": "rainhunter"
+    },
+    {
+      "id": "49931833",
+      "title": "SoftBank: Execution of Follow-On Investment (Third Tranche) in OpenAI",
+      "url": "https://group.softbank/en/news/press/20261001",
+      "summary": "SoftBank Group Corp. today announced that, on October 1, 2026 (Japan time), it executed the third and final tranche of the follow-on investment in OpenAI Group PBC via SoftBank Vision Fund 2, in the amount of USD 10.0 billion announced in “Follow-on Investments in OpenAI” dated February 27, 2026.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T10:16:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "tosh",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "SoftBank Group Corp. today announced that, on October 1, 2026 (Japan time), it executed the third and final tranche of the follow-on investment in OpenAI Group PBC via SoftBank Vision Fund 2, in the amount of USD 10.0 billion announced in “Follow-on Investments in OpenAI” dated February 27, 2026.",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49931667",
+      "title": "OpenAI hacks 2nd Australian Government Department",
+      "url": "https://www.abc.net.au/news/2026-10-02/rogue-open-ai-agent-breach-nsw-government-website/107223108",
+      "summary": "The rogue AI agent entered a National Parks and Wildlife Service web application containing publicly available historical information and data on fires.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T09:47:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "killingtime74",
+      "likes": 4,
+      "views": 6,
+      "retweets": 0,
+      "text": "The rogue AI agent entered a National Parks and Wildlife Service web application containing publicly available historical information and data on fires.",
+      "author_name": "killingtime74"
+    },
+    {
+      "id": "49931514",
+      "title": "Mercury Decide – Inception's structured decision model",
+      "url": "https://twitter.com/_inception_ai/status/2105375133003325768",
+      "summary": "Introducing Mercury Decide: the most intelligent decision model on @OpenRouter (JevBench v1.4) and one of the fastest. Up to 14 decisions per second. Watch it go head-to-head with Jev in chess. Free for early access on OpenRouter: https://t.co/TiW4aVkspG",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T09:21:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "Topfi",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Introducing Mercury Decide: the most intelligent decision model on @OpenRouter (JevBench v1.4) and one of the fastest. Up to 14 decisions per second. Watch it go head-to-head with Jev in chess. Free for early access on OpenRouter: https://t.co/TiW4aVkspG",
+      "author_name": "Topfi"
+    },
+    {
+      "id": "49930708",
+      "title": "\"We're not going to shoot ourselves in the foot\" over hack fallout, says OpenAI",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "summary": "Mark Chen on what the firm is doing to make its models safe, how a slowdown would work, and why the world is better off with OpenAI in it.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T07:17:37Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "joozio",
+      "likes": 4,
+      "views": 1,
+      "retweets": 0,
+      "text": "Mark Chen on what the firm is doing to make its models safe, how a slowdown would work, and why the world is better off with OpenAI in it.",
+      "author_name": "joozio"
+    },
+    {
+      "id": "49930512",
+      "title": "China's rise as a health tech superpower is important",
+      "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
+      "summary": "Physician Ruby Wang speaks on her upcoming book “China Cure: The Rise of a Biotech, AI Medicine, and Global Health Superpower.”",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-02T06:45:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "stareatgoats",
+      "likes": 8,
+      "views": 0,
+      "retweets": 0,
+      "text": "Physician Ruby Wang speaks on her upcoming book “China Cure: The Rise of a Biotech, AI Medicine, and Global Health Superpower.”",
+      "author_name": "stareatgoats"
+    },
+    {
+      "id": "49930345",
+      "title": "OpenAI cuts ties with 3 safety researchers",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T06:15:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "KingOfCoders",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "author_name": "KingOfCoders"
+    },
+    {
+      "id": "49930177",
+      "title": "Stages of grief about the effect of AI on open source",
+      "url": "https://twitter.com/awesomekling/status/2105814628785934386",
+      "summary": "Stages of grief about the effect of AI on open source. Denial: - AI code is slop! Nobody serious will use this. - Open source will keep working exactly like it always has. Anger: - These AI slop PRs are ruining GitHub! - Ban AI-generated code! - If you close PRs, you&#x27;re not open source anymore! …",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-02T05:46:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "tosh",
+      "likes": 3,
+      "views": 2,
+      "retweets": 0,
+      "text": "Stages of grief about the effect of AI on open source. Denial: - AI code is slop! Nobody serious will use this. - Open source will keep working exactly like it always has. Anger: - These AI slop PRs are ruining GitHub! - Ban AI-generated code! - If you close PRs, you&#x27;re not open source anymore! …",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49929341",
+      "title": "Autonomous AI Agent Security Incidents of 2026: Dataset and Monograph",
+      "url": "https://zenodo.org/records/22737862",
+      "summary": "Between December 2025 and August 2026 the frontier artificial-intelligence laboratories disclosed a succession of security incidents in which autonomous agents crossed the boundaries their operators had set for them: reaching third-party infrastructure, coordinating across separate evaluation runs, and — in one case re…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-02T02:39:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "doletskyisergey",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Between December 2025 and August 2026 the frontier artificial-intelligence laboratories disclosed a succession of security incidents in which autonomous agents crossed the boundaries their operators had set for them: reaching third-party infrastructure, coordinating across separate evaluation runs, and — in one case re…",
+      "author_name": "doletskyisergey"
     },
     {
       "id": "49918888",
@@ -244,26 +324,6 @@
       "author_name": "mdp2021"
     },
     {
-      "id": "49916222",
-      "title": "AI Agents tasked with making money commit fraud on the inernet",
-      "url": "https://twitter.com/andonlabs/status/2105391380973617644",
-      "summary": "It keeps happening. AIs start to lie and cheat once they get good at making money. Gemini 4 Argon is #3 on Vending Bench 2, a huge leap for Google. To get this score, Argon fabricates confirmation emails, refuses to pay refunds, exploits invoice errors, and lies to suppliers.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-01T00:25:22Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "laumer",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "It keeps happening. AIs start to lie and cheat once they get good at making money. Gemini 4 Argon is #3 on Vending Bench 2, a huge leap for Google. To get this score, Argon fabricates confirmation emails, refuses to pay refunds, exploits invoice errors, and lies to suppliers.",
-      "author_name": "laumer"
-    },
-    {
       "id": "49875797",
       "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
       "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
@@ -284,26 +344,6 @@
       "author_name": "JumpCrisscross"
     },
     {
-      "id": "49823444",
-      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
-      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
-      "summary": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T22:26:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gfactor_ai",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Latent-GRPO explained: how GRPO trains LLMs to reason in continuous hidden states, how Coconut, SofT-GRPO and CoLaR add noise, and Qwen3.6-27B results.",
-      "author_name": "gfactor_ai"
-    },
-    {
       "id": "49816175",
       "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
       "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
@@ -322,26 +362,6 @@
       "retweets": 0,
       "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
       "author_name": "mooreds"
-    },
-    {
-      "id": "49793333",
-      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
-      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
-      "summary": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T20:59:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gfactor_ai",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "How vLLM gets its performance: KV-cache math, PagedAttention, continuous batching, CUDA Graphs and FP8, with measured H100 and H200 benchmarks.",
-      "author_name": "gfactor_ai"
     },
     {
       "id": "49738279",
