@@ -1,47 +1,147 @@
 {
-  "version": "2026-10-03T13:15:23.730Z",
-  "generatedAt": "2026-10-03T13:15:23.730Z",
+  "version": "2026-10-03T22:05:41.816Z",
+  "generatedAt": "2026-10-03T22:05:41.816Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49943881",
-      "title": "Twelve AI clay films for $184: The agents cost more than the video model",
-      "url": "https://getsweat.ai/blog/twelve-ai-clay-films/",
-      "summary": "We made twelve short clay-style films about famous frauds with two coding agents. In five days they drew 18,971 views. Here is how each film was made, what it cost, and where the views came from.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-03T12:58:35Z",
+      "id": "49948040",
+      "title": "Kent Beck: Software Engineering in the Age of AI [video]",
+      "url": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-03T21:38:20Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "crimeacs",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "We made twelve short clay-style films about famous frauds with two coding agents. In five days they drew 18,971 views. Here is how each film was made, what it cost, and where the views came from.",
-      "author_name": "crimeacs"
-    },
-    {
-      "id": "49943498",
-      "title": "4.5 Ideogram 4.5: The most precise edit model",
-      "url": "https://ideogram.ai/models/4.5/",
-      "summary": "Meet Ideogram 4.5: precise image editing with references, consistent multi-turn refinement, and detailed edits inside high-resolution images.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-03T12:00:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "flashblaze",
+      "author": "quick_brown_fox",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Meet Ideogram 4.5: precise image editing with references, consistent multi-turn refinement, and detailed edits inside high-resolution images.",
-      "author_name": "flashblaze"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "quick_brown_fox"
+    },
+    {
+      "id": "49947961",
+      "title": "The Metaphysical Impossibility of AI [video]",
+      "url": "https://www.youtube.com/watch?v=nzCtuKSt3gA",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-03T21:27:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "h02",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "h02"
+    },
+    {
+      "id": "49947738",
+      "title": "A Beginner's Guide to Running AI Models Locally",
+      "url": "https://www.itsthatlady.dev/blog/beginners-guide-to-local-ai/",
+      "summary": "Learn what local AI models are, what hardware you need, what model weights mean, and how to start running AI on your own machine.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-03T21:01:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "mooreds",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Learn what local AI models are, what hardware you need, what model weights mean, and how to start running AI on your own machine.",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "49947727",
+      "title": "AI (For Normal People) with AWS Hero Thorsten Hoger [video]",
+      "url": "https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/",
+      "summary": "Join us as Thorsten breaks down how everyday people &#8211; small business owners, retirees, hobbyists, and anyone who isn&#8217;t a &#8230;",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-03T20:59:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "mooreds",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Join us as Thorsten breaks down how everyday people &#8211; small business owners, retirees, hobbyists, and anyone who isn&#8217;t a &#8230;",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "49946580",
+      "title": "I know you run LLMs. Will it boot?",
+      "url": "https://mondegreens.github.io/apron/blog/2026/10/02/i-know-you-run-models-will-it-boot/",
+      "summary": "Fourteen open models, from one RTX 4090 to eight H200s: Apron predicted their memory before renting the GPU, then booted each one on vLLM and measured.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-03T18:32:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "vladryzhkov",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Fourteen open models, from one RTX 4090 to eight H200s: Apron predicted their memory before renting the GPU, then booted each one on vLLM and measured.",
+      "author_name": "vladryzhkov"
+    },
+    {
+      "id": "49946228",
+      "title": "AI 'godfather' LeCun has 'zero concerns' about human extinction",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "summary": "The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-03T17:44:29Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 27,
+      "author": "Anon84",
+      "likes": 13,
+      "views": 5,
+      "retweets": 0,
+      "text": "The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.",
+      "author_name": "Anon84"
+    },
+    {
+      "id": "49946209",
+      "title": "The Case for Bringing Your LLMs Home",
+      "url": "https://www.wwt.com/blog/bringing-your-llms-home",
+      "summary": "Enterprises should treat self-hosted models as a serious option for sustained, high-volume AI workloads. The strongest strategy combines owned infrastructure with cloud APIs, guided by workload economics. Self-hosting reduces long-term costs for workloads that run for four or more hours daily, while cloud APIs suit bur…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-03T17:42:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "mooreds",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enterprises should treat self-hosted models as a serious option for sustained, high-volume AI workloads. The strongest strategy combines owned infrastructure with cloud APIs, guided by workload economics. Self-hosting reduces long-term costs for workloads that run for four or more hours daily, while cloud APIs suit bur…",
+      "author_name": "mooreds"
     },
     {
       "id": "49942940",
@@ -75,9 +175,9 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 21,
       "author": "cc62cf4a4f20",
-      "likes": 5,
+      "likes": 7,
       "views": 0,
       "retweets": 0,
       "text": "Company says it is reviewing 50 petabytes of data after its agents accessed websites including Medicare without authorisation",
@@ -95,9 +195,9 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 20,
       "author": "geox",
-      "likes": 3,
+      "likes": 4,
       "views": 1,
       "retweets": 0,
       "text": "OAKLAND — California Attorney General Rob Bonta yesterday served an investigative subpoena on OpenAI as part of the California Department of Justice’s (DOJ) ongoing investigation of incidents resulting from the operations of OpenAI and its artificial intelligence (AI) models. Last month, Attorney General Bonta announce…",
@@ -144,26 +244,6 @@
       "author_name": "nreece"
     },
     {
-      "id": "49941620",
-      "title": "Faster Local LLMs with iPhone Offloading",
-      "url": "https://github.com/StayLameBro/backburner",
-      "summary": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable - StayLameBro/backburner",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-03T05:40:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "oezi",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable - StayLameBro/backburner",
-      "author_name": "oezi"
-    },
-    {
       "id": "49941208",
       "title": "SWC stops accepting external PRs due to AI-generated content",
       "url": "https://twitter.com/swc_rs/status/2105505428893544847",
@@ -204,46 +284,6 @@
       "author_name": "mathnode"
     },
     {
-      "id": "49936368",
-      "title": "Anthropic Nearly Walked Out on Pope Leo XIV's AI Encyclical",
-      "url": "https://www.thelettersfromleo.com/p/nyt-anthropic-nearly-walked-out-on",
-      "summary": "Chris Olah saw an advance copy of Magnifica Humanitas days before the Vatican launch and proposed withdrawing over its stance on machine consciousness. The pope held his ground.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-02T17:46:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "hliyan",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "Chris Olah saw an advance copy of Magnifica Humanitas days before the Vatican launch and proposed withdrawing over its stance on machine consciousness. The pope held his ground.",
-      "author_name": "hliyan"
-    },
-    {
-      "id": "49935906",
-      "title": "Anthropic invests $100M to train 10k engineers",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "summary": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-02T17:06:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "louiereederson",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
-      "author_name": "louiereederson"
-    },
-    {
       "id": "49930512",
       "title": "China's rise as a health tech superpower is important",
       "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/",
@@ -255,9 +295,9 @@
         "AI",
         "科技"
       ],
-      "score": 22,
+      "score": 23,
       "author": "stareatgoats",
-      "likes": 8,
+      "likes": 9,
       "views": 0,
       "retweets": 0,
       "text": "Physician Ruby Wang speaks on her upcoming book “China Cure: The Rise of a Biotech, AI Medicine, and Global Health Superpower.”",
@@ -302,26 +342,6 @@
       "retweets": 0,
       "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
       "author_name": "JumpCrisscross"
-    },
-    {
-      "id": "49823444",
-      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
-      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
-      "summary": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T22:26:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gfactor_ai",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
-      "author_name": "gfactor_ai"
     },
     {
       "id": "49816175",
