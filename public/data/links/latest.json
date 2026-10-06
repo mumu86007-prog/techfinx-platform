@@ -1,147 +1,187 @@
 {
-  "version": "2026-10-06T00:43:07.005Z",
-  "generatedAt": "2026-10-06T00:43:07.005Z",
+  "version": "2026-10-06T14:58:24.717Z",
+  "generatedAt": "2026-10-06T14:58:24.717Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49972675",
-      "title": "Fireship: PewDiePie is setting AI free and OpenAI is furious [video]",
-      "url": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "id": "49979121",
+      "title": "Our minds aren't equipped to handle AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "summary": "Brains aren’t computers, but the AI industry acts like they are — and it’s selling products that erode our capacity for meaningful learning and thought.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-10-06T14:32:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "rpgbr",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Brains aren’t computers, but the AI industry acts like they are — and it’s selling products that erode our capacity for meaningful learning and thought.",
+      "author_name": "rpgbr"
+    },
+    {
+      "id": "49979078",
+      "title": "JumpStar is the world's strongest AI engine for Chinese Checkers",
+      "url": "https://chinesecheckers.ai/chinese-checkers-ai",
+      "summary": "Learn how JumpStar plays Chinese Checkers: rules, strategy, self-play training, model design, benchmark evidence, and the free iPhone app.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T00:34:27Z",
+      "publishedAt": "2026-10-06T14:28:56Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "doctaj",
+      "author": "CharlesW",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "doctaj"
+      "text": "Learn how JumpStar plays Chinese Checkers: rules, strategy, self-play training, model design, benchmark evidence, and the free iPhone app.",
+      "author_name": "CharlesW"
     },
     {
-      "id": "49972467",
-      "title": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "summary": "The Wikimedia Foundation, which supports Wikipedia, says that it “can confirm that we have discovered some activity” by “rogue” OpenAI agents on Wikimedia platforms.",
+      "id": "49977864",
+      "title": "Thirteen LLMs asked the same 76 sourced questions, with and without web search",
+      "url": "https://llmquorum.aidataforager.com",
+      "summary": "Sixty-three models, seventy-six verifiable questions, every answer graded against a primary source. The thirteen asked both ways went from 44.5% to 96.0%.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T00:07:09Z",
+      "publishedAt": "2026-10-06T13:07:51Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 33,
-      "author": "sbulaev",
-      "likes": 4,
+      "score": 16,
+      "author": "disisnoturbusin",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "The Wikimedia Foundation, which supports Wikipedia, says that it “can confirm that we have discovered some activity” by “rogue” OpenAI agents on Wikimedia platforms.",
-      "author_name": "sbulaev"
+      "text": "Sixty-three models, seventy-six verifiable questions, every answer graded against a primary source. The thirteen asked both ways went from 44.5% to 96.0%.",
+      "author_name": "disisnoturbusin"
     },
     {
-      "id": "49972434",
-      "title": "XCOR launches to trace outages in minutes. It still pages engineers",
-      "url": "https://thenewstack.io/cortex-xcor-ai-observability/",
-      "summary": "Palo Alto Networks&#039; Cortex XCOR uses AI SRE agents to root-cause incidents in under three minutes, the company says, so engineers aren&#039;t woken at night.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T00:02:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "geoffbp",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Palo Alto Networks&#039; Cortex XCOR uses AI SRE agents to root-cause incidents in under three minutes, the company says, so engineers aren&#039;t woken at night.",
-      "author_name": "geoffbp"
-    },
-    {
-      "id": "49972419",
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "summary": "Generative AI has been promoted as the technology that could transform education by providing every student a personal tutor. We provide some of the first large-scale experimental evidence, from a two-year cluster randomized trial in 18 Tennessee middle schools in which randomly assigned students used Khan Academy with…",
+      "id": "49977813",
+      "title": "Remote Live vs. Pre-Recorded Exercise Training for Chronic Low Back Pain (RCT)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13619851/",
+      "summary": "Remote physical exercise training offers a more accessible alternative for the management of chronic low back pain (CLBP). However, the effectiveness of various remote delivery methods for this population is unclear. This study was a randomized ...",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-06T00:00:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 27,
-      "author": "bryan0",
-      "likes": 11,
-      "views": 2,
-      "retweets": 0,
-      "text": "Generative AI has been promoted as the technology that could transform education by providing every student a personal tutor. We provide some of the first large-scale experimental evidence, from a two-year cluster randomized trial in 18 Tennessee middle schools in which randomly assigned students used Khan Academy with…",
-      "author_name": "bryan0"
-    },
-    {
-      "id": "49972245",
-      "title": "Design Systems for AI Agents (Luke Wroblewski)",
-      "url": "https://www.lukew.com/ff/2164/design-systems-for-ai-agents",
-      "summary": "LukeW Ideation + Design provides resources for mobile and Web product design and strategy including presentations, workshops, articles, books and more on usability, interaction design and visual design.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-05T23:39:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "bpierre",
-      "likes": 1,
-      "views": 2,
-      "retweets": 0,
-      "text": "LukeW Ideation + Design provides resources for mobile and Web product design and strategy including presentations, workshops, articles, books and more on usability, interaction design and visual design.",
-      "author_name": "bpierre"
-    },
-    {
-      "id": "49972122",
-      "title": "LLM SEO tools in 2026: what each one tracks",
-      "url": "https://picked.so/blog/llm-seo-tools",
-      "summary": "LLM SEO tools compared: which AI models 9 trackers cover, how often they check, how many prompts you get and what each costs, from vendor pages.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-05T23:24:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "shdalex",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "LLM SEO tools compared: which AI models 9 trackers cover, how often they check, how many prompts you get and what each costs, from vendor pages.",
-      "author_name": "shdalex"
-    },
-    {
-      "id": "49971726",
-      "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-      "url": "https://almostimplemented.github.io/jazz-pianist-style/",
-      "summary": "Companion page for the ISMIR 2026 paper: a music model continuing performances in the style of twelve jazz pianists, a blindfold test, and the moments where each pianist",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-05T22:30:52Z",
+      "publishedAt": "2026-10-06T13:05:03Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 23,
-      "author": "ishan0102",
-      "likes": 9,
+      "author": "chavasorani",
+      "likes": 7,
+      "views": 3,
+      "retweets": 0,
+      "text": "Remote physical exercise training offers a more accessible alternative for the management of chronic low back pain (CLBP). However, the effectiveness of various remote delivery methods for this population is unclear. This study was a randomized ...",
+      "author_name": "chavasorani"
+    },
+    {
+      "id": "49977088",
+      "title": "OpenAI whistleblower warns of 'Human Extinction' [video]",
+      "url": "https://www.youtube.com/watch?v=veP6jdvy7j8",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-06T11:48:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "zeroq",
+      "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "Companion page for the ISMIR 2026 paper: a music model continuing performances in the style of twelve jazz pianists, a blindfold test, and the moments where each pianist",
-      "author_name": "ishan0102"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "zeroq"
+    },
+    {
+      "id": "49976399",
+      "title": "Auto-review of agent actions without synchronous human oversight",
+      "url": "https://alignment.openai.com/auto-review/",
+      "summary": "Auto-review offers a safer default for deploying coding agents, using a separate agent to approve or deny boundary-crossing actions.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-06T10:07:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "tosh",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Auto-review offers a safer default for deploying coding agents, using a separate agent to approve or deny boundary-crossing actions.",
+      "author_name": "tosh"
+    },
+    {
+      "id": "49975345",
+      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "summary": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-06T07:29:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 85,
+      "author": "nsoonhui",
+      "likes": 71,
+      "views": 79,
+      "retweets": 0,
+      "text": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
+      "author_name": "nsoonhui"
+    },
+    {
+      "id": "49974784",
+      "title": "Autonomous AI Agent Security Incidents of 2026 (Dataset and Defense Harness)",
+      "url": "https://github.com/mars2021y-gif/autonomous-ai-agent-security-incidents-2026",
+      "summary": "Autonomous AI Agent Security Incidents of 2026: Benchmark dataset (109 incidents), falsification matrix, 2-page executive summary, and multi-agent privilege attenuation harness (100% EPR). - mars2021y-gif/autonomous-ai-agent-security-incidents-2026",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-06T06:03:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 36,
+      "author": "doletskyisergey",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Autonomous AI Agent Security Incidents of 2026: Benchmark dataset (109 incidents), falsification matrix, 2-page executive summary, and multi-agent privilege attenuation harness (100% EPR). - mars2021y-gif/autonomous-ai-agent-security-incidents-2026",
+      "author_name": "doletskyisergey"
+    },
+    {
+      "id": "49974238",
+      "title": "The AI boom is making the cheapest smartphones disappear",
+      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+      "summary": "As Samsung, SK Hynix, and Micron divert memory chips to AI data centers, global smartphone prices are surging and threatening to widen the digital divide for 800 million people.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-06T04:37:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 54,
+      "author": "jethronethro",
+      "likes": 38,
+      "views": 18,
+      "retweets": 0,
+      "text": "As Samsung, SK Hynix, and Micron divert memory chips to AI data centers, global smartphone prices are surging and threatening to widen the digital divide for 800 million people.",
+      "author_name": "jethronethro"
     },
     {
       "id": "49970858",
@@ -155,10 +195,10 @@
         "AI",
         "科技"
       ],
-      "score": 16,
+      "score": 18,
       "author": "MBlume",
-      "likes": 2,
-      "views": 0,
+      "likes": 4,
+      "views": 1,
       "retweets": 0,
       "text": "Working at OpenAI and Anthropic promises status, riches, and a hand in humanity’s fate. Jacob Coxon and other former AI lab employees on why they left.",
       "author_name": "MBlume"
@@ -175,113 +215,13 @@
         "AI",
         "科技"
       ],
-      "score": 25,
+      "score": 28,
       "author": "sbulaev",
-      "likes": 9,
+      "likes": 12,
       "views": 0,
       "retweets": 0,
       "text": "It labelled Anthropic a &quot;supply chain risk&quot; in February after the firm refused to remove safety guardrails from its tools.",
       "author_name": "sbulaev"
-    },
-    {
-      "id": "49969927",
-      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-      "summary": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-05T20:06:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "modeless",
-      "likes": 9,
-      "views": 1,
-      "retweets": 0,
-      "text": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
-      "author_name": "modeless"
-    },
-    {
-      "id": "49969707",
-      "title": "Ghost.ai's new personal AI computer, Nvidia RTX PRO 4000 Blackwell",
-      "url": "https://twitter.com/zainmfj/status/2107146556176798081",
-      "summary": "Introducing Core, The Personal Al Computer The most powerful technology humanity has built should belong to you Order today: https://t.co/tlNxSu5B5C",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-05T19:50:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "mccauley",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Introducing Core, The Personal Al Computer The most powerful technology humanity has built should belong to you Order today: https://t.co/tlNxSu5B5C",
-      "author_name": "mccauley"
-    },
-    {
-      "id": "49969693",
-      "title": "Anthropic removes support for local Claude Cowork sessions",
-      "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
-      "summary": "Use Claude Cowork on web, desktop, and mobile | Claude Help Center Skip to main content API docs Release notes How to get support English Français Deutsch Bahasa Indonesia Italiano 日本語 한국어 Português Pусский 简体中文 Español 繁體中文 English Search ⌘ K Claude Pro and Max plans Team and Enterprise plans Identity management (SSO,…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-05T19:49:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "Xtrah",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Use Claude Cowork on web, desktop, and mobile | Claude Help Center Skip to main content API docs Release notes How to get support English Français Deutsch Bahasa Indonesia Italiano 日本語 한국어 Português Pусский 简体中文 Español 繁體中文 English Search ⌘ K Claude Pro and Max plans Team and Enterprise plans Identity management (SSO,…",
-      "author_name": "Xtrah"
-    },
-    {
-      "id": "49968718",
-      "title": "If you want to know who survives AI, look at Hollywood in the 1970s",
-      "url": "https://twitter.com/lauriewired/status/2107140917199327425",
-      "summary": "If you want to know who survives AI, look at what happened to Hollywood in the 1970s. Movie Studios used to enforce tight “shooting ratios”; usually 5:1, maybe 10:1 TOPS. As in, for every 5 feet of film shot, at least 1 foot had to end up in the final cut (35mm was expensive!) In the 70s, there w…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-05T18:38:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "tosh",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "If you want to know who survives AI, look at what happened to Hollywood in the 1970s. Movie Studios used to enforce tight “shooting ratios”; usually 5:1, maybe 10:1 TOPS. As in, for every 5 feet of film shot, at least 1 foot had to end up in the final cut (35mm was expensive!) In the 70s, there w…",
-      "author_name": "tosh"
-    },
-    {
-      "id": "49968110",
-      "title": "The AI boom is making the cheapest smartphones disappear",
-      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
-      "summary": "As Samsung, SK Hynix, and Micron divert memory chips to AI data centers, global smartphone prices are surging and threatening to widen the digital divide for 800 million people.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-05T17:53:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 25,
-      "author": "whiteblossom",
-      "likes": 9,
-      "views": 4,
-      "retweets": 0,
-      "text": "As Samsung, SK Hynix, and Micron divert memory chips to AI data centers, global smartphone prices are surging and threatening to widen the digital divide for 800 million people.",
-      "author_name": "whiteblossom"
     },
     {
       "id": "49965635",
@@ -302,26 +242,6 @@
       "retweets": 0,
       "text": "An exposed server revealed an offensive-security operation run almost entirely by AI agents: a fleet of Claude Code workers, a custom out-of-band interaction logger, SAST taint configs and nuclei, orchestrated to find and confirm vulnerabilities at machine speed.",
       "author_name": "noktec"
-    },
-    {
-      "id": "49965540",
-      "title": "Anthropic Filed the Most Alarming Risk Disclosure in IPO History",
-      "url": "https://www.disruptionbanking.com/2026/10/05/anthropic-filed-the-most-alarming-risk-disclosure-in-ipo-history-nothing-in-it-is-binding/",
-      "summary": "Anthropic&#039;s leaked 261-page IPO prospectus devotes roughly 80 pages to risk factors. The document also shows what the warnings do not touch: $518 billion in decade-long compute commitments, 47% of sales routed through Amazon and Google, and a founder share class carrying 50.1% of the voting power.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-05T14:43:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "bmcdresson",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic&#039;s leaked 261-page IPO prospectus devotes roughly 80 pages to risk factors. The document also shows what the warnings do not touch: $518 billion in decade-long compute commitments, 47% of sales routed through Amazon and Google, and a founder share class carrying 50.1% of the voting power.",
-      "author_name": "bmcdresson"
     },
     {
       "id": "49964116",
@@ -402,6 +322,86 @@
       "retweets": 0,
       "text": "Mikiri WAF &#8211; an enterprise on-premises WAAP platform combining WAF, API security, bot protection and advanced application traffic analysis",
       "author_name": "srodionov"
+    },
+    {
+      "id": "49875797",
+      "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
+      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-28T10:14:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "JumpCrisscross",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "JumpCrisscross"
+    },
+    {
+      "id": "49823444",
+      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
+      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
+      "summary": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T22:26:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
+      "author_name": "gfactor_ai"
+    },
+    {
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T13:50:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "mooreds",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "49793333",
+      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
+      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
+      "summary": "How vLLM gets fast: KV-cache math, PagedAttention, continuous batching, CUDA Graphs (up to 4.3x on H200) and FP8, with measured Qwen 27B benchmarks.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T20:59:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "How vLLM gets fast: KV-cache math, PagedAttention, continuous batching, CUDA Graphs (up to 4.3x on H200) and FP8, with measured Qwen 27B benchmarks.",
+      "author_name": "gfactor_ai"
     }
   ]
 }
