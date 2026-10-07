@@ -1,107 +1,247 @@
 {
-  "version": "2026-10-06T22:57:59.014Z",
-  "generatedAt": "2026-10-06T22:57:59.014Z",
+  "version": "2026-10-07T15:26:07.210Z",
+  "generatedAt": "2026-10-07T15:26:07.210Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "49985287",
-      "title": "AI Hasn't Replaced Interpreters but It Has Degraded Their Working Conditions",
-      "url": "https://capitalandmain.com/ai-hasnt-replaced-these-interpreters-but-it-has-degraded-their-working-conditions",
-      "summary": "Employees at LanguageLine Solutions report heavier workloads, erratic schedules and burnout since the $1.1 billion company shifted to AI-powered workforce software.",
+      "id": "49994146",
+      "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
+      "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "summary": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-06T22:51:01Z",
+      "publishedAt": "2026-10-07T15:24:40Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "paimapi",
+      "author": "digital55",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Employees at LanguageLine Solutions report heavier workloads, erratic schedules and burnout since the $1.1 billion company shifted to AI-powered workforce software.",
-      "author_name": "paimapi"
+      "text": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result.",
+      "author_name": "digital55"
     },
     {
-      "id": "49984923",
-      "title": "Sharing AI Progress in Mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "summary": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math</a>",
+      "id": "49994010",
+      "title": "Stop asking AI what you should build",
+      "url": "https://leoanthias.com/stop-asking-ai/",
+      "summary": "I&#x27;m seeing more and more people use AI to decide what ideas to work on. LLMs seem smart enough at lots of hard things, like writing code. Why not talk to ...",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T22:17:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 133,
-      "author": "OfficialTurkey",
-      "likes": 104,
-      "views": 60,
-      "retweets": 0,
-      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math</a>",
-      "author_name": "OfficialTurkey"
-    },
-    {
-      "id": "49984636",
-      "title": "Sulcus – observe and control AI agents while they run",
-      "url": "https://sulcus.dev/",
-      "summary": "Watch model calls, tool calls and token usage as your AI agent runs. Stop hosted runs, set a token limit, and approve or deny Claude Code and Codex actions.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T21:51:54Z",
+      "publishedAt": "2026-10-07T15:16:24Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "elariz_t",
+      "author": "pea",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Watch model calls, tool calls and token usage as your AI agent runs. Stop hosted runs, set a token limit, and approve or deny Claude Code and Codex actions.",
-      "author_name": "elariz_t"
+      "text": "I&#x27;m seeing more and more people use AI to decide what ideas to work on. LLMs seem smart enough at lots of hard things, like writing code. Why not talk to ...",
+      "author_name": "pea"
     },
     {
-      "id": "49984311",
-      "title": "Top Open Problems in Math by LLM-Assessed Importance",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "summary": "Top 500 open problems in mathematics, ranked by LLM-assessed importance, with exact statements, dated status notes, sources, and ranking uncertainty.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T21:19:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "simonpure",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Top 500 open problems in mathematics, ranked by LLM-assessed importance, with exact statements, dated status notes, sources, and ranking uncertainty.",
-      "author_name": "simonpure"
-    },
-    {
-      "id": "49983631",
-      "title": "ALoDLM: Adaptively Looped Diffusion Language Models",
-      "url": "https://alo-dlm.github.io/",
-      "summary": "ALoDLM: diffusion language models with token-adaptive latent recurrence. Within each denoising step, confident tokens commit early as discrete context while unresolved tokens keep refining their latent states.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T20:28:38Z",
+      "id": "49993842",
+      "title": "Mumsnet denies using AI for content after prompt appears on message board",
+      "url": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
+      "summary": "Users reject site&#x2019;s explanations after detailed instructions for writing response to post on popular forum was published",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-07T15:04:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "simonpure",
+      "author": "ljf",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "ALoDLM: diffusion language models with token-adaptive latent recurrence. Within each denoising step, confident tokens commit early as discrete context while unresolved tokens keep refining their latent states.",
-      "author_name": "simonpure"
+      "text": "Users reject site&#x2019;s explanations after detailed instructions for writing response to post on popular forum was published",
+      "author_name": "ljf"
+    },
+    {
+      "id": "49993820",
+      "title": "We Built an Alternative to Vector RAG for AI Agent Memory",
+      "url": "https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval",
+      "summary": "What agentic RAG is, how it differs from traditional retrieve-then-generate pipelines, when vector databases still make sense, and how to design document capabilities for agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-07T15:02:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "gael_dev",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "What agentic RAG is, how it differs from traditional retrieve-then-generate pipelines, when vector databases still make sense, and how to design document capabilities for agents.",
+      "author_name": "gael_dev"
+    },
+    {
+      "id": "49993648",
+      "title": "Flux – Compile an LLM to your hardware, then serve it",
+      "url": "https://github.com/cyqlelabs/flux",
+      "summary": "The fastest way to run an LLM on your machine: Flux measures your GPUs, CPU, and storage once, splits the model across them, and serves it OpenAI-style in seconds. - cyqlelabs/flux",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-07T14:49:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "qalfy",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The fastest way to run an LLM on your machine: Flux measures your GPUs, CPU, and storage once, splits the model across them, and serves it OpenAI-style in seconds. - cyqlelabs/flux",
+      "author_name": "qalfy"
+    },
+    {
+      "id": "49991123",
+      "title": "Musician sent to prison for $10M streaming fraud using AI bots",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-07T11:13:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "pluc",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme.",
+      "author_name": "pluc"
+    },
+    {
+      "id": "49991006",
+      "title": "AI agent posted personal bank balances into company Slack",
+      "url": "https://twitter.com/ShaneMac/status/2107486740491669879",
+      "summary": "Embarrassed to share this, but it scared the shit out of me Last Thursday, an AI agent posted my personal bank balances into our company Slack. As me It broke down all my expenses in detail. Then it apologized Be careful of the dark side of proactive agents More below...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-07T10:59:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "soltanov",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Embarrassed to share this, but it scared the shit out of me Last Thursday, an AI agent posted my personal bank balances into our company Slack. As me It broke down all my expenses in detail. Then it apologized Be careful of the dark side of proactive agents More below...",
+      "author_name": "soltanov"
+    },
+    {
+      "id": "49989331",
+      "title": "I'm starting a company that uses no AI, A letter from San Francisco, October '26",
+      "url": "https://no-ai-tau.vercel.app/",
+      "summary": "A letter from San Francisco, October, 2026 I'm starting a company that uses no AI No AI to do our work. No AI to write our docs. No AI to write our code. No AI to write this site, no AI to deploy it to our webhost. No software engineers, we'll have webmasters. No AI to write our emails. No AI to summarize our meetings.…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-07T07:04:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "normanvalentine",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A letter from San Francisco, October, 2026 I'm starting a company that uses no AI No AI to do our work. No AI to write our docs. No AI to write our code. No AI to write this site, no AI to deploy it to our webhost. No software engineers, we'll have webmasters. No AI to write our emails. No AI to summarize our meetings.…",
+      "author_name": "normanvalentine"
+    },
+    {
+      "id": "49989115",
+      "title": "OpenAI unleashes hundreds more math results upon a field in shock",
+      "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
+      "summary": "A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-07T06:34:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 23,
+      "author": "mr_fantastic",
+      "likes": 9,
+      "views": 2,
+      "retweets": 0,
+      "text": "A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag",
+      "author_name": "mr_fantastic"
+    },
+    {
+      "id": "49989005",
+      "title": "FreeLLMAPI – One OpenAI-Compatible API for Multiple Free LLM Providers",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "summary": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. - tashfeenahmed/freellmapi",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-07T06:18:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "Moon_Y",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. - tashfeenahmed/freellmapi",
+      "author_name": "Moon_Y"
+    },
+    {
+      "id": "49988768",
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-07T05:47:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "soltanov",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "author_name": "soltanov"
+    },
+    {
+      "id": "49988341",
+      "title": "Crunchbase Data Shows AI's Most Active Startups Are Becoming Serial Acquirers",
+      "url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+      "summary": "Some of the AI industry’s fastest-growing startups are becoming serial acquirers, buying smaller companies to fill product gaps, enter new markets and bring specialized teams in-house, a review of Crunchbase data shows. While AI giant OpenAI is by far the busiest of these buyers, well-funded startups in legal tech, cus…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-07T04:50:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "snikolaev",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Some of the AI industry’s fastest-growing startups are becoming serial acquirers, buying smaller companies to fill product gaps, enter new markets and bring specialized teams in-house, a review of Crunchbase data shows. While AI giant OpenAI is by far the busiest of these buyers, well-funded startups in legal tech, cus…",
+      "author_name": "snikolaev"
     },
     {
       "id": "49983467",
@@ -124,144 +264,24 @@
       "author_name": "porridgeraisin"
     },
     {
-      "id": "49983255",
-      "title": "OpenAI Dots: The New Always-On AI Agents from OpenAI",
-      "url": "https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/",
-      "summary": "OpenAI Dots represent the next evolution of agentic AI: persistent agents that can understand goals, use computers and applications, learn from feedback, and continue working over time. The opportunity for enterprises is not simply better automation, but a new way to divide responsibilities between people and AI.",
+      "id": "49977277",
+      "title": "What Would You Do If Your Employer Could Destroy the World?",
+      "url": "https://nymag.com/intelligencer/article/ai-researchers-quit-openai-anthropic.html",
+      "summary": "Working at OpenAI and Anthropic promises status, riches, and a hand in humanity’s fate. Jacob Coxon and other former AI lab employees on why they left.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T19:58:01Z",
+      "publishedAt": "2026-10-06T12:08:30Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "thescienceguy93",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenAI Dots represent the next evolution of agentic AI: persistent agents that can understand goals, use computers and applications, learn from feedback, and continue working over time. The opportunity for enterprises is not simply better automation, but a new way to divide responsibilities between people and AI.",
-      "author_name": "thescienceguy93"
-    },
-    {
-      "id": "49982574",
-      "title": "Expanding the Cyber Verification Program",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-06T19:00:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "surprisetalk",
+      "author": "grub5000",
       "likes": 3,
-      "views": 1,
+      "views": 2,
       "retweets": 0,
-      "text": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-      "author_name": "surprisetalk"
-    },
-    {
-      "id": "49982415",
-      "title": "UT Austin Math Chair says OpenAI preparing to release 400 AI-generated proofs",
-      "url": "https://twitter.com/Frances01896069/status/2107171555973185577",
-      "summary": "So, it seems OpenAI is about to release something like 400 AI-generated proofs on a public server. To the best of my understanding, people are still trying to figure out how the forced Navier–Stokes example actually works. I know of several experts who are studying it, and it is definitely not an …",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T18:46:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "optimalsolver",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "So, it seems OpenAI is about to release something like 400 AI-generated proofs on a public server. To the best of my understanding, people are still trying to figure out how the forced Navier–Stokes example actually works. I know of several experts who are studying it, and it is definitely not an …",
-      "author_name": "optimalsolver"
-    },
-    {
-      "id": "49982298",
-      "title": "Who owns 'brain rot'?: inside the international legal drama over a beloved meme",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
-      "summary": "Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-06T18:35:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "jethronethro",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that",
-      "author_name": "jethronethro"
-    },
-    {
-      "id": "49981746",
-      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians–Again",
-      "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T17:45:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "beardyw",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-      "author_name": "beardyw"
-    },
-    {
-      "id": "49981250",
-      "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-      "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
-      "summary": "Even without runaway superintelligence or malicious intent, current AI systems risk triggering nuclear war by amplifying human cognitive blind spots, speeding up escalation spirals, and overwhelming decision-makers with a firehose of information during high-stakes crises.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-06T17:05:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "cdrnsf",
-      "likes": 3,
-      "views": 3,
-      "retweets": 0,
-      "text": "Even without runaway superintelligence or malicious intent, current AI systems risk triggering nuclear war by amplifying human cognitive blind spots, speeding up escalation spirals, and overwhelming decision-makers with a firehose of information during high-stakes crises.",
-      "author_name": "cdrnsf"
-    },
-    {
-      "id": "49975345",
-      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-      "summary": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-06T07:29:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 93,
-      "author": "nsoonhui",
-      "likes": 79,
-      "views": 90,
-      "retweets": 0,
-      "text": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
-      "author_name": "nsoonhui"
+      "text": "Working at OpenAI and Anthropic promises status, riches, and a hand in humanity’s fate. Jacob Coxon and other former AI lab employees on why they left.",
+      "author_name": "grub5000"
     },
     {
       "id": "49974784",
@@ -282,26 +302,6 @@
       "retweets": 0,
       "text": "Autonomous AI Agent Security Incidents of 2026: Benchmark dataset (109 incidents), falsification matrix, 2-page executive summary, and multi-agent privilege attenuation harness (100% EPR). - mars2021y-gif/autonomous-ai-agent-security-incidents-2026",
       "author_name": "doletskyisergey"
-    },
-    {
-      "id": "49970858",
-      "title": "Exit interviews with defectors from OpenAI, Anthropic, and DeepMind",
-      "url": "https://nymag.com/intelligencer/article/ai-researchers-quit-openai-anthropic.html",
-      "summary": "Working at OpenAI and Anthropic promises status, riches, and a hand in humanity’s fate. Jacob Coxon and other former AI lab employees on why they left.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-05T21:14:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "MBlume",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "Working at OpenAI and Anthropic promises status, riches, and a hand in humanity’s fate. Jacob Coxon and other former AI lab employees on why they left.",
-      "author_name": "MBlume"
     },
     {
       "id": "49965635",
@@ -364,44 +364,44 @@
       "author_name": "amouat"
     },
     {
-      "id": "49949804",
-      "title": "What if we created a local AI tool to measure your security?",
-      "url": "https://github.com/just-not-google/BiNeuron",
-      "summary": "BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, translates, filters profanity, and uses proxies if needed.…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-04T01:51:17Z",
+      "id": "49875797",
+      "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
+      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-28T10:14:18Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 36,
-      "author": "BiNeuron",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "BiNeuron is a local AI assistant that detects programming languages from requests/files, selects specialized models based on hardware, and generates code/docs/analysis via configurable prompts. It extracts text from PDFs, Word, images (OCR), and other formats, translates, filters profanity, and uses proxies if needed.…",
-      "author_name": "BiNeuron"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mooreds",
-      "likes": 4,
+      "score": 17,
+      "author": "JumpCrisscross",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "JumpCrisscross"
+    },
+    {
+      "id": "49823444",
+      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
+      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
+      "summary": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T22:26:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
+      "author_name": "gfactor_ai"
     }
   ]
 }
