@@ -1,67 +1,247 @@
 {
-  "version": "2026-10-09T23:08:50.041Z",
-  "generatedAt": "2026-10-09T23:08:50.041Z",
+  "version": "2026-10-10T14:24:32.500Z",
+  "generatedAt": "2026-10-10T14:24:32.500Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50027629",
-      "title": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
-      "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
-      "summary": "Over the past few months NVIDIA has been developing Boro as a new AI-assisted kernel development CLI written in Rust and focused on local AI for enhancing efficiency for kernel development.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-09T22:58:52Z",
+      "id": "50033190",
+      "title": "AI Agent Security: Six Controls from Nine Real Incidents",
+      "url": "https://blog.gitguardian.com/ai-agent-security-six-controls/",
+      "summary": "AI agents run with your credentials and act before you can stop them. Six AI agent security controls from nine real incidents, and what remains open.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T14:09:50Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "fratellobigio",
+      "score": 20,
+      "author": "guedou",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Over the past few months NVIDIA has been developing Boro as a new AI-assisted kernel development CLI written in Rust and focused on local AI for enhancing efficiency for kernel development.",
-      "author_name": "fratellobigio"
+      "text": "AI agents run with your credentials and act before you can stop them. Six AI agent security controls from nine real incidents, and what remains open.",
+      "author_name": "guedou"
     },
     {
-      "id": "50027275",
-      "title": "Japan urges firms to boost cybersecurity as AI-driven cyberattacks surge",
-      "url": "https://en.sedaily.com/international/2026/10/09/japan-urges-firms-to-boost-cybersecurity-as-ai-driven",
-      "summary": "Japan&#x27;s government urged companies to treat cybersecurity as a management priority after AI-driven attacks hit Times Car, Daiwa Securities and FamilyMart.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-09T22:16:39Z",
+      "id": "50033116",
+      "title": "Side Projects in the AI Era: The Ponzi Potato Story",
+      "url": "https://blog.stophe.com/side-projects-in-the-ai-era-the-ponzi-potato-story",
+      "summary": "I finally built a game: an incremental browser game inspired by Universal Paperclips, with a pyramid scheme that only pays in potatoes. Here&#x27;s why.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-10T14:02:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "stophecom",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "I finally built a game: an incremental browser game inspired by Universal Paperclips, with a pyramid scheme that only pays in potatoes. Here&#x27;s why.",
+      "author_name": "stophecom"
+    },
+    {
+      "id": "50032600",
+      "title": "Jensen Huang Doing Michale Jackson Dance (AI)",
+      "url": "https://www.instagram.com/reel/DeRdcT5iGjW/",
+      "summary": "0 likes, 0 comments - ifenglobal on October 9, 2026: &quot;Nvidia CEO Jensen Huang&#039;s AI-generated Michael Jackson dance is going viral.&quot;.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-10T13:11:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "analyst74",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "0 likes, 0 comments - ifenglobal on October 9, 2026: &quot;Nvidia CEO Jensen Huang&#039;s AI-generated Michael Jackson dance is going viral.&quot;.",
+      "author_name": "analyst74"
+    },
+    {
+      "id": "50032530",
+      "title": "What's New in MongoDB 9.0? Query Settings, Validation, and Resource Limits",
+      "url": "https://visualeaf.com/blog/mongodb-9-0-whats-new/",
+      "summary": "What changed in MongoDB 9.0, and how can it help in everyday database work? Practical examples in VisuaLeaf show the new behavior and compare results with MongoDB 8.2.5.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-10T13:02:28Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "thoughtpeddler",
-      "likes": 1,
+      "author": "db_specialist_c",
+      "likes": 6,
       "views": 0,
       "retweets": 0,
-      "text": "Japan&#x27;s government urged companies to treat cybersecurity as a management priority after AI-driven attacks hit Times Car, Daiwa Securities and FamilyMart.",
-      "author_name": "thoughtpeddler"
+      "text": "What changed in MongoDB 9.0, and how can it help in everyday database work? Practical examples in VisuaLeaf show the new behavior and compare results with MongoDB 8.2.5.",
+      "author_name": "db_specialist_c"
     },
     {
-      "id": "50027118",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "summary": "An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.",
+      "id": "50032052",
+      "title": "AI model submitted false tip about unsolved murder, Philadelphia police say",
+      "url": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/",
+      "summary": "An Anthropic A.I. model submitted a false tip about an unsolved murder through a publicly accessible web form, Philadelphia police said Friday.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T22:00:35Z",
+      "publishedAt": "2026-10-10T12:01:14Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "Zambyte",
-      "likes": 4,
+      "score": 15,
+      "author": "geox",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "An Anthropic A.I. model submitted a false tip about an unsolved murder through a publicly accessible web form, Philadelphia police said Friday.",
+      "author_name": "geox"
+    },
+    {
+      "id": "50032037",
+      "title": "If LLMs Can Decide Without Fine-Tuning, Do We Still Need Models Like Jev?",
+      "url": "https://itsodeleo.github.io/posts/local-decision-workflow/",
+      "summary": "Can LLMs make decisions without extra fine-tuning? Local tests of Qwen, Gemma, Jeff, and Laya explore whether a workflow needs a dedicated decision model.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T11:57:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "LeoisNotAI",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Can LLMs make decisions without extra fine-tuning? Local tests of Qwen, Gemma, Jeff, and Laya explore whether a workflow needs a dedicated decision model.",
+      "author_name": "LeoisNotAI"
+    },
+    {
+      "id": "50031616",
+      "title": "Transcribe Audio to Text Online Free",
+      "url": "https://audioconverter.ai/",
+      "summary": "Transcribe audio and video to editable text with Audio Converter AI. Get timestamps and speaker labels for meetings, lectures, and podcasts. Start free.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-10T10:52:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Lemarie",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Transcribe audio and video to editable text with Audio Converter AI. Get timestamps and speaker labels for meetings, lectures, and podcasts. Start free.",
+      "author_name": "Lemarie"
+    },
+    {
+      "id": "50031438",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+      "summary": "Philadelphia police said the tip was &quot;flagged as spam&quot;, but criticised the tech company for taking more than two months to detect and report the breach.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T10:23:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 27,
+      "author": "vinni2",
+      "likes": 13,
+      "views": 7,
+      "retweets": 0,
+      "text": "Philadelphia police said the tip was &quot;flagged as spam&quot;, but criticised the tech company for taking more than two months to detect and report the breach.",
+      "author_name": "vinni2"
+    },
+    {
+      "id": "50030778",
+      "title": "Anthropic can't reliably control its AI agents, cuts internet access",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it &quot;turned off live internet access&quot; for &quot;all our internal evaluations&quot; until further notice.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T08:07:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "sbulaev",
+      "likes": 6,
+      "views": 3,
+      "retweets": 0,
+      "text": "Anthropic said it &quot;turned off live internet access&quot; for &quot;all our internal evaluations&quot; until further notice.",
+      "author_name": "sbulaev"
+    },
+    {
+      "id": "50029681",
+      "title": "If AI is conscient, then we are making slaves",
+      "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+      "summary": "When the conversation turned to making Claude happy, Mois Navon warned that, if Anthropic’s AI were conscious, the company would be creating ‘happy slaves.’",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T04:51:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 42,
+      "author": "mathieu_aithos",
+      "likes": 28,
+      "views": 79,
+      "retweets": 0,
+      "text": "When the conversation turned to making Claude happy, Mois Navon warned that, if Anthropic’s AI were conscious, the company would be creating ‘happy slaves.’",
+      "author_name": "mathieu_aithos"
+    },
+    {
+      "id": "50028239",
+      "title": "Investigating unintended model actions in our evaluations and internal use",
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T00:28:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 37,
+      "author": "oxag3n",
+      "likes": 8,
+      "views": 2,
+      "retweets": 0,
+      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "author_name": "oxag3n"
+    },
+    {
+      "id": "50027918",
+      "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
+      "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+      "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-09T23:37:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 23,
+      "author": "thoughtpeddler",
+      "likes": 9,
       "views": 1,
       "retweets": 0,
-      "text": "An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.",
-      "author_name": "Zambyte"
+      "text": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
+      "author_name": "thoughtpeddler"
     },
     {
       "id": "50026734",
@@ -75,53 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 29,
+      "score": 70,
       "author": "danielmorozoff",
-      "likes": 15,
-      "views": 2,
+      "likes": 56,
+      "views": 5,
       "retweets": 0,
       "text": "When OpenAI announced its surprise solution to the Navier-Stokes problem, it produced one proof for humans and one for computers – however, they don&#039;t match",
       "author_name": "danielmorozoff"
-    },
-    {
-      "id": "50026463",
-      "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi",
-      "url": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/",
-      "summary": "German search engine Ecosia is replacing Mistral with open-weight AI models, including Chinese-developed Qwen, GLM and Kimi, through a partnership with",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T20:55:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "yogthos",
-      "likes": 4,
-      "views": 2,
-      "retweets": 0,
-      "text": "German search engine Ecosia is replacing Mistral with open-weight AI models, including Chinese-developed Qwen, GLM and Kimi, through a partnership with",
-      "author_name": "yogthos"
-    },
-    {
-      "id": "50025767",
-      "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
-      "url": "https://codeberg.org/ethical-foss/open-slopware",
-      "summary": "open-slopware - Alternatives to FOSS projects choosing to use and/or support LLMs/AI, as well as tips for requesting better policies or forking.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T19:50:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "smartmic",
-      "likes": 21,
-      "views": 7,
-      "retweets": 0,
-      "text": "open-slopware - Alternatives to FOSS projects choosing to use and/or support LLMs/AI, as well as tips for requesting better policies or forking.",
-      "author_name": "smartmic"
     },
     {
       "id": "50024166",
@@ -135,9 +275,9 @@
         "AI",
         "科技"
       ],
-      "score": 35,
+      "score": 36,
       "author": "ulrischa",
-      "likes": 6,
+      "likes": 7,
       "views": 1,
       "retweets": 0,
       "text": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
@@ -162,106 +302,6 @@
       "retweets": 0,
       "text": "A 2b4m audit of OpenAI&#39;s withdrawn &#39;Algebraicity of Weil classes on split abelian eightfolds&#39;: two chains differing in one sign, one passing and one failing at Lemma 3.6. - ityonemo/openai-wiles",
       "author_name": "dnautics"
-    },
-    {
-      "id": "50023293",
-      "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
-      "url": "https://twitter.com/tomekkorbak/status/2108266859397283953",
-      "summary": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us? This summer O…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T16:52:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 63,
-      "author": "doener",
-      "likes": 44,
-      "views": 2,
-      "retweets": 0,
-      "text": "Last week I was called into a meeting with OpenAI’s head of safety and told they no longer trust me. A security guard took my badge and walked me out of the building. Then I learned my colleagues @balesni and @j_asminewang had been fired too. Why did OpenAI suddenly stop trusting us? This summer O…",
-      "author_name": "doener"
-    },
-    {
-      "id": "50022754",
-      "title": "Several major bugs in OpenAI's Math release",
-      "url": "https://blog.ohaithe.re/post/829974396980641792/id-like-to-alert-people-that-several-of-the",
-      "summary": "I&rsquo;d like to alert people that several of the comparator challenges are noticeably broken and hackable. Afaik this hasn&rsquo;t been talked about elsewhere yet. The issue is that many definitions that should...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T16:18:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "unprovable",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "I&rsquo;d like to alert people that several of the comparator challenges are noticeably broken and hackable. Afaik this hasn&rsquo;t been talked about elsewhere yet. The issue is that many definitions that should...",
-      "author_name": "unprovable"
-    },
-    {
-      "id": "50022287",
-      "title": "Fired for Prioritizing AI Safety",
-      "url": "https://twitter.com/balesni/status/2108262814003687745",
-      "summary": "Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership. I believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T15:50:56Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "qprofyeh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership. I believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.",
-      "author_name": "qprofyeh"
-    },
-    {
-      "id": "50020061",
-      "title": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude",
-      "url": "https://www.anthropic.com/legal/aup",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T13:15:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "anon373839",
-      "likes": 5,
-      "views": 3,
-      "retweets": 0,
-      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "author_name": "anon373839"
-    },
-    {
-      "id": "50019395",
-      "title": "Claude Startups program over capacity; Anthropic to re-review all applications",
-      "url": "https://claude.com/programs/startups",
-      "summary": "The Claude for Startups program is Anthropic&#x27;s startup program for founders building on Claude. Get partner offers and support.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T12:13:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "sicutarinaru",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "The Claude for Startups program is Anthropic&#x27;s startup program for founders building on Claude. Get partner offers and support.",
-      "author_name": "sicutarinaru"
     },
     {
       "id": "50014156",
@@ -295,33 +335,13 @@
         "AI",
         "科技"
       ],
-      "score": 78,
+      "score": 79,
       "author": "firstcomm",
-      "likes": 64,
-      "views": 63,
+      "likes": 65,
+      "views": 64,
       "retweets": 0,
       "text": "Ethereum co-founder Vitalik Buterin has backed a warning from Ethereum researcher Justin Drake that advances in artificial intelligence could threaten the cryptographic algorithms used to secure crypto wallets.",
       "author_name": "firstcomm"
-    },
-    {
-      "id": "50002248",
-      "title": "Researcher Gets $300 from OpenAI for Major AI Security Flaw",
-      "url": "https://x.com/i/trending/2107776361859293195",
-      "summary": "Fish reported a vulnerability that bypassed authentication and sandbox protections, granting unauthenticated access to paid models and OpenAI&#x27;s internal Responses API. OpenAI&#x27;s Bugcrowd program confirmed the $300 payout via email, but Fish called it too low, saying it gives him &#x27;zero reason&#x27; to repo…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-08T06:01:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 37,
-      "author": "soltanov",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Fish reported a vulnerability that bypassed authentication and sandbox protections, granting unauthenticated access to paid models and OpenAI&#x27;s internal Responses API. OpenAI&#x27;s Bugcrowd program confirmed the $300 payout via email, but Fish called it too low, saying it gives him &#x27;zero reason&#x27; to repo…",
-      "author_name": "soltanov"
     },
     {
       "id": "49991123",
@@ -382,26 +402,6 @@
       "retweets": 0,
       "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
       "author_name": "gfactor_ai"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mooreds",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
     }
   ]
 }
