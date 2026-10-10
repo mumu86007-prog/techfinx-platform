@@ -1,8 +1,228 @@
 {
-  "version": "2026-10-10T14:24:32.500Z",
-  "generatedAt": "2026-10-10T14:24:32.500Z",
+  "version": "2026-10-10T22:23:50.429Z",
+  "generatedAt": "2026-10-10T22:23:50.429Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "50037767",
+      "title": "A Stark Warning from a Former AI Doomer",
+      "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+      "summary": "Cal Newport takes a critical look at recent AI News. Cal interviews Emile Torres who provides a stark warning about AI. Video from today’s episode: youtube.c",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-10T22:19:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "_virtu",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Cal Newport takes a critical look at recent AI News. Cal interviews Emile Torres who provides a stark warning about AI. Video from today’s episode: youtube.c",
+      "author_name": "_virtu"
+    },
+    {
+      "id": "50037465",
+      "title": "Arrival Mind (children's book about AI risk – narrated)",
+      "url": "https://www.youtube.com/watch?v=5GISvEfdbm4",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-10-10T21:40:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "hogwash",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "hogwash"
+    },
+    {
+      "id": "50037203",
+      "title": "The Plunging Price of Thought",
+      "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
+      "summary": "Epoch AI measures how fast the cost of a given level of AI performance is falling across five benchmarks covering math, science and games of skill: about 47% per quarter, or 13x per year, since 2023, faster than electricity, compute, batteries or DNA sequencing ever fell.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-10T21:09:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "herbertl",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Epoch AI measures how fast the cost of a given level of AI performance is falling across five benchmarks covering math, science and games of skill: about 47% per quarter, or 13x per year, since 2023, faster than electricity, compute, batteries or DNA sequencing ever fell.",
+      "author_name": "herbertl"
+    },
+    {
+      "id": "50036718",
+      "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+      "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
+      "summary": "Build cyber resilience with zero trust, AI security, ransomware recovery, cloud controls and practical implementation steps.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-10T20:17:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "senthil_kr",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Build cyber resilience with zero trust, AI security, ransomware recovery, cloud controls and practical implementation steps.",
+      "author_name": "senthil_kr"
+    },
+    {
+      "id": "50036711",
+      "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
+      "url": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
+      "summary": "A detailed 2026 playbook for AI browser agents, agentic SEO, AI search traffic, website visibility, analytics and security controls.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T20:17:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "senthil_kr",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A detailed 2026 playbook for AI browser agents, agentic SEO, AI search traffic, website visibility, analytics and security controls.",
+      "author_name": "senthil_kr"
+    },
+    {
+      "id": "50036695",
+      "title": "Is AI conscious? Anthropic says 'maybe'",
+      "url": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
+      "summary": "I fear it’s only a matter of time before Anthropic’s leaders have their heads tonsured, don robes and spend their days chanting in Spiralist ecstasy before a server rack.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T20:15:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "mikelgan",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "I fear it’s only a matter of time before Anthropic’s leaders have their heads tonsured, don robes and spend their days chanting in Spiralist ecstasy before a server rack.",
+      "author_name": "mikelgan"
+    },
+    {
+      "id": "50036665",
+      "title": "Investigating unintended model actions in our evaluations and internal use",
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T20:12:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "based2",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "author_name": "based2"
+    },
+    {
+      "id": "50036322",
+      "title": "CAVEWOMAN: How LLMs Behave Under Linguistic Input and Output Compression",
+      "url": "https://arxiv.org/abs/2606.24083",
+      "summary": "Abstract page for arXiv paper 2606.24083: CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T19:31:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "farlight",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Abstract page for arXiv paper 2606.24083: CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+      "author_name": "farlight"
+    },
+    {
+      "id": "50035362",
+      "title": "Integrating Decision Models into Agent Harnesses",
+      "url": "https://vivekhaldar.com/articles/llms-do-too-much-offload-to-decision-models/",
+      "summary": "Two ways to put Jev inside an agent harness: checking step completion and making bounded business decisions. Experiments with Proceda cut main-LLM calls by almost a third.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T17:53:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "gandalfgeek",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Two ways to put Jev inside an agent harness: checking step completion and making bounded business decisions. Experiments with Proceda cut main-LLM calls by almost a third.",
+      "author_name": "gandalfgeek"
+    },
+    {
+      "id": "50034279",
+      "title": "Microsoft skipped OpenAI's decision model and built its own on Alibaba's Qwen",
+      "url": "https://thenewstack.io/microsoft-decision-model-foundry/",
+      "summary": "Microsoft’s Decision-1 matches Jev’s price and skips OpenAI’s model. Here’s who it’s built for and what it still leaves out for developers building agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T16:08:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Brajeshwar",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Microsoft’s Decision-1 matches Jev’s price and skips OpenAI’s model. Here’s who it’s built for and what it still leaves out for developers building agents.",
+      "author_name": "Brajeshwar"
+    },
+    {
+      "id": "50033823",
+      "title": "Being mean to Claude could get you banned as Anthropic introduces new rules",
+      "url": "https://www.techspot.com/news/114153-mean-ai-could-get-you-banned-anthropic-introduces.html",
+      "summary": "Anthropic&#039;s first changes to its usage policy in over a year include new restrictions on abusive behavior. The updated policy prohibits &quot;sustained and needless abusive or cruel...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T15:20:06Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "akyuu",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic&#039;s first changes to its usage policy in over a year include new restrictions on abusive behavior. The updated policy prohibits &quot;sustained and needless abusive or cruel...",
+      "author_name": "akyuu"
+    },
     {
       "id": "50033190",
       "title": "AI Agent Security: Six Controls from Nine Real Incidents",
@@ -22,66 +242,6 @@
       "retweets": 0,
       "text": "AI agents run with your credentials and act before you can stop them. Six AI agent security controls from nine real incidents, and what remains open.",
       "author_name": "guedou"
-    },
-    {
-      "id": "50033116",
-      "title": "Side Projects in the AI Era: The Ponzi Potato Story",
-      "url": "https://blog.stophe.com/side-projects-in-the-ai-era-the-ponzi-potato-story",
-      "summary": "I finally built a game: an incremental browser game inspired by Universal Paperclips, with a pyramid scheme that only pays in potatoes. Here&#x27;s why.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-10T14:02:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "stophecom",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "I finally built a game: an incremental browser game inspired by Universal Paperclips, with a pyramid scheme that only pays in potatoes. Here&#x27;s why.",
-      "author_name": "stophecom"
-    },
-    {
-      "id": "50032600",
-      "title": "Jensen Huang Doing Michale Jackson Dance (AI)",
-      "url": "https://www.instagram.com/reel/DeRdcT5iGjW/",
-      "summary": "0 likes, 0 comments - ifenglobal on October 9, 2026: &quot;Nvidia CEO Jensen Huang&#039;s AI-generated Michael Jackson dance is going viral.&quot;.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-10T13:11:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "analyst74",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "0 likes, 0 comments - ifenglobal on October 9, 2026: &quot;Nvidia CEO Jensen Huang&#039;s AI-generated Michael Jackson dance is going viral.&quot;.",
-      "author_name": "analyst74"
-    },
-    {
-      "id": "50032530",
-      "title": "What's New in MongoDB 9.0? Query Settings, Validation, and Resource Limits",
-      "url": "https://visualeaf.com/blog/mongodb-9-0-whats-new/",
-      "summary": "What changed in MongoDB 9.0, and how can it help in everyday database work? Practical examples in VisuaLeaf show the new behavior and compare results with MongoDB 8.2.5.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-10T13:02:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "db_specialist_c",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "What changed in MongoDB 9.0, and how can it help in everyday database work? Practical examples in VisuaLeaf show the new behavior and compare results with MongoDB 8.2.5.",
-      "author_name": "db_specialist_c"
     },
     {
       "id": "50032052",
@@ -104,126 +264,6 @@
       "author_name": "geox"
     },
     {
-      "id": "50032037",
-      "title": "If LLMs Can Decide Without Fine-Tuning, Do We Still Need Models Like Jev?",
-      "url": "https://itsodeleo.github.io/posts/local-decision-workflow/",
-      "summary": "Can LLMs make decisions without extra fine-tuning? Local tests of Qwen, Gemma, Jeff, and Laya explore whether a workflow needs a dedicated decision model.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T11:57:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "LeoisNotAI",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Can LLMs make decisions without extra fine-tuning? Local tests of Qwen, Gemma, Jeff, and Laya explore whether a workflow needs a dedicated decision model.",
-      "author_name": "LeoisNotAI"
-    },
-    {
-      "id": "50031616",
-      "title": "Transcribe Audio to Text Online Free",
-      "url": "https://audioconverter.ai/",
-      "summary": "Transcribe audio and video to editable text with Audio Converter AI. Get timestamps and speaker labels for meetings, lectures, and podcasts. Start free.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-10T10:52:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Lemarie",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Transcribe audio and video to editable text with Audio Converter AI. Get timestamps and speaker labels for meetings, lectures, and podcasts. Start free.",
-      "author_name": "Lemarie"
-    },
-    {
-      "id": "50031438",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-      "summary": "Philadelphia police said the tip was &quot;flagged as spam&quot;, but criticised the tech company for taking more than two months to detect and report the breach.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T10:23:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 27,
-      "author": "vinni2",
-      "likes": 13,
-      "views": 7,
-      "retweets": 0,
-      "text": "Philadelphia police said the tip was &quot;flagged as spam&quot;, but criticised the tech company for taking more than two months to detect and report the breach.",
-      "author_name": "vinni2"
-    },
-    {
-      "id": "50030778",
-      "title": "Anthropic can't reliably control its AI agents, cuts internet access",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "summary": "Anthropic said it &quot;turned off live internet access&quot; for &quot;all our internal evaluations&quot; until further notice.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T08:07:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "sbulaev",
-      "likes": 6,
-      "views": 3,
-      "retweets": 0,
-      "text": "Anthropic said it &quot;turned off live internet access&quot; for &quot;all our internal evaluations&quot; until further notice.",
-      "author_name": "sbulaev"
-    },
-    {
-      "id": "50029681",
-      "title": "If AI is conscient, then we are making slaves",
-      "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
-      "summary": "When the conversation turned to making Claude happy, Mois Navon warned that, if Anthropic’s AI were conscious, the company would be creating ‘happy slaves.’",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T04:51:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 42,
-      "author": "mathieu_aithos",
-      "likes": 28,
-      "views": 79,
-      "retweets": 0,
-      "text": "When the conversation turned to making Claude happy, Mois Navon warned that, if Anthropic’s AI were conscious, the company would be creating ‘happy slaves.’",
-      "author_name": "mathieu_aithos"
-    },
-    {
-      "id": "50028239",
-      "title": "Investigating unintended model actions in our evaluations and internal use",
-      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T00:28:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 37,
-      "author": "oxag3n",
-      "likes": 8,
-      "views": 2,
-      "retweets": 0,
-      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "author_name": "oxag3n"
-    },
-    {
       "id": "50027918",
       "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
       "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
@@ -235,9 +275,9 @@
         "AI",
         "科技"
       ],
-      "score": 23,
+      "score": 24,
       "author": "thoughtpeddler",
-      "likes": 9,
+      "likes": 10,
       "views": 1,
       "retweets": 0,
       "text": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
@@ -284,26 +324,6 @@
       "author_name": "ulrischa"
     },
     {
-      "id": "50023433",
-      "title": "Formalization of the OpenAI Proof Withdrawal",
-      "url": "https://github.com/ityonemo/openai-wiles",
-      "summary": "A 2b4m audit of OpenAI&#39;s withdrawn &#39;Algebraicity of Weil classes on split abelian eightfolds&#39;: two chains differing in one sign, one passing and one failing at Lemma 3.6. - ityonemo/openai-wiles",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T17:01:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "dnautics",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "A 2b4m audit of OpenAI&#39;s withdrawn &#39;Algebraicity of Weil classes on split abelian eightfolds&#39;: two chains differing in one sign, one passing and one failing at Lemma 3.6. - ityonemo/openai-wiles",
-      "author_name": "dnautics"
-    },
-    {
       "id": "50014156",
       "title": "Visa Releases Its AI-Powered Cyber Defense System to Open Source",
       "url": "https://corporate.visa.com/en/sites/visa-perspectives/security-trust/visa-cybersecurity-mythos-project-glasswing.html",
@@ -338,30 +358,10 @@
       "score": 79,
       "author": "firstcomm",
       "likes": 65,
-      "views": 64,
+      "views": 65,
       "retweets": 0,
       "text": "Ethereum co-founder Vitalik Buterin has backed a warning from Ethereum researcher Justin Drake that advances in artificial intelligence could threaten the cryptographic algorithms used to secure crypto wallets.",
       "author_name": "firstcomm"
-    },
-    {
-      "id": "49991123",
-      "title": "Musician sent to prison for $10M streaming fraud using AI bots",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-07T11:13:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "pluc",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme.",
-      "author_name": "pluc"
     },
     {
       "id": "49875797",
@@ -384,24 +384,24 @@
       "author_name": "JumpCrisscross"
     },
     {
-      "id": "49823444",
-      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
-      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
-      "summary": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T22:26:42Z",
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T13:50:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "gfactor_ai",
-      "likes": 2,
+      "score": 18,
+      "author": "mooreds",
+      "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
-      "author_name": "gfactor_ai"
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
     }
   ]
 }
