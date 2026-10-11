@@ -1,67 +1,267 @@
 {
-  "version": "2026-10-10T22:23:50.429Z",
-  "generatedAt": "2026-10-10T22:23:50.429Z",
+  "version": "2026-10-11T14:51:00.577Z",
+  "generatedAt": "2026-10-11T14:51:00.577Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50037767",
-      "title": "A Stark Warning from a Former AI Doomer",
-      "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
-      "summary": "Cal Newport takes a critical look at recent AI News. Cal interviews Emile Torres who provides a stark warning about AI. Video from today’s episode: youtube.c",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-10T22:19:34Z",
+      "id": "50043654",
+      "title": "Tune-Up – a Grok bot that reviews and fixes your other Grok bots",
+      "url": "https://agenttuneup.ai/",
+      "summary": "Tune-Up checks your AI agents, turns every miss into a test and suggests small fixes you approve. Its skill index loads one skill only when needed. Free, MIT.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T14:25:38Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "_virtu",
+      "author": "pjpoulose",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Cal Newport takes a critical look at recent AI News. Cal interviews Emile Torres who provides a stark warning about AI. Video from today’s episode: youtube.c",
-      "author_name": "_virtu"
+      "text": "Tune-Up checks your AI agents, turns every miss into a test and suggests small fixes you approve. Its skill index loads one skill only when needed. Free, MIT.",
+      "author_name": "pjpoulose"
     },
     {
-      "id": "50037465",
-      "title": "Arrival Mind (children's book about AI risk – narrated)",
-      "url": "https://www.youtube.com/watch?v=5GISvEfdbm4",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-10T21:40:54Z",
+      "id": "50043338",
+      "title": "AI companies are starting to do phones",
+      "url": "https://twitter.com/firesidealpha/status/2108930562794864912",
+      "summary": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028--and confirms some are building phones Cristiano Amon: “I have to be careful not to disclose names, but some AI companies—some of the companies at the forefront of AI—are telling Qualcomm, ‘By 2…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T13:55:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "elorant",
+      "likes": 1,
+      "views": 2,
+      "retweets": 0,
+      "text": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028--and confirms some are building phones Cristiano Amon: “I have to be careful not to disclose names, but some AI companies—some of the companies at the forefront of AI—are telling Qualcomm, ‘By 2…",
+      "author_name": "elorant"
+    },
+    {
+      "id": "50043221",
+      "title": "Simulate coding pre-AI by year",
+      "url": "https://beforetheprompt.xipu.li/",
+      "summary": "Build tiny apps the way they were built before AI — from toggling octal into an Altair in 1975 to the night before ChatGPT. A WebGPU time machine.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T13:42:41Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "hogwash",
+      "author": "GoodluckH",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "hogwash"
+      "text": "Build tiny apps the way they were built before AI — from toggling octal into an Altair in 1975 to the night before ChatGPT. A WebGPU time machine.",
+      "author_name": "GoodluckH"
     },
     {
-      "id": "50037203",
-      "title": "The Plunging Price of Thought",
-      "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
-      "summary": "Epoch AI measures how fast the cost of a given level of AI performance is falling across five benchmarks covering math, science and games of skill: about 47% per quarter, or 13x per year, since 2023, faster than electricity, compute, batteries or DNA sequencing ever fell.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-10T21:09:21Z",
+      "id": "50043132",
+      "title": "Artex AI, Claude agents used in cyberattacks on South Korean banks",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T13:31:44Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "herbertl",
+      "author": "Brajeshwar",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Epoch AI measures how fast the cost of a given level of AI performance is falling across five benchmarks covering math, science and games of skill: about 47% per quarter, or 13x per year, since 2023, faster than electricity, compute, batteries or DNA sequencing ever fell.",
-      "author_name": "herbertl"
+      "text": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
+      "author_name": "Brajeshwar"
+    },
+    {
+      "id": "50041727",
+      "title": "An exploratory study of hallucination in Qwen 3.8-27B and GPT-OSS-20B",
+      "url": "https://github.com/alitenes2020-sys/Repository-name-llama-hallucination",
+      "summary": "Description Hallucination vs. Abstention in 2026 Open-Weight LLMs - alitenes2020-sys/Repository-name-llama-hallucination",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T10:42:55Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 28,
+      "author": "Nipola",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Description Hallucination vs. Abstention in 2026 Open-Weight LLMs - alitenes2020-sys/Repository-name-llama-hallucination",
+      "author_name": "Nipola"
+    },
+    {
+      "id": "50041626",
+      "title": "Training LLMs to write tools generalized beyond self use",
+      "url": "https://tool-use-smith.github.io/",
+      "summary": "SMITH (Schema-grounded Multi-task Iterative Tool Honing) is a reinforcement learning framework that jointly trains a single LLM policy to create and use its own tools. Accepted to NeurIPS 2026.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T10:29:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "blackcat201",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "SMITH (Schema-grounded Multi-task Iterative Tool Honing) is a reinforcement learning framework that jointly trains a single LLM policy to create and use its own tools. Accepted to NeurIPS 2026.",
+      "author_name": "blackcat201"
+    },
+    {
+      "id": "50041573",
+      "title": "Running the unmodified Linux amdgpu driver on an iPad",
+      "url": "https://github.com/Geramy/LemonSeed-Studio",
+      "summary": "An iPad IDE with local LLM inference on an AMD GPU over Thunderbolt: the upstream Linux amdgpu driver embedded as DriverKit, LemonSeed Engine, and live GPU telemetry. - Geramy/LemonSeed-Studio",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T10:18:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "joshcsimmons",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "An iPad IDE with local LLM inference on an AMD GPU over Thunderbolt: the upstream Linux amdgpu driver embedded as DriverKit, LemonSeed Engine, and live GPU telemetry. - Geramy/LemonSeed-Studio",
+      "author_name": "joshcsimmons"
+    },
+    {
+      "id": "50041219",
+      "title": "I build an open-source runtime security layer for AI agents – Let's break it",
+      "url": "https://github.com/Pryxor/pryxor",
+      "summary": "Runtime security layer for AI agents. Intercepts every tool calls, decides and execute the real actions without the agent never hold a credential. - Pryxor/pryxor",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T09:14:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "makan09",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Runtime security layer for AI agents. Intercepts every tool calls, decides and execute the real actions without the agent never hold a credential. - Pryxor/pryxor",
+      "author_name": "makan09"
+    },
+    {
+      "id": "50040497",
+      "title": "Ex-Anthropic's Jacob Coxon says he's 90% certain PRC has spies in US AI giants",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html",
+      "summary": "Former Anthropic researcher Jacob Coxon says he’s “almost certain” that Chinese spies are already at U.S. AI companies. He says slowing down could slow down China, too.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T07:19:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "nephihaha",
+      "likes": 4,
+      "views": 1,
+      "retweets": 0,
+      "text": "Former Anthropic researcher Jacob Coxon says he’s “almost certain” that Chinese spies are already at U.S. AI companies. He says slowing down could slow down China, too.",
+      "author_name": "nephihaha"
+    },
+    {
+      "id": "50040374",
+      "title": "Lovable Style Builder via CF Inference GLM-5.3, Kimi K2.7 Code and GLM-5.3 Flash",
+      "url": "https://mainbrella.com/blog/lovable-style-builder-cloudflare-inference/",
+      "summary": "A Lovable-style app builder powered by Cloudflare Workers AI, with GLM-5.3, Kimi K2.7 Code, and GLM-5.3 Flash. How we keep native Git history in R2 without requiring a GitHub account.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-11T06:49:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "cs1996",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "A Lovable-style app builder powered by Cloudflare Workers AI, with GLM-5.3, Kimi K2.7 Code, and GLM-5.3 Flash. How we keep native Git history in R2 without requiring a GitHub account.",
+      "author_name": "cs1996"
+    },
+    {
+      "id": "50039630",
+      "title": "AI agents in a stand-up call",
+      "url": "https://atoll92.github.io/agent-standup/",
+      "summary": "Agent Standup turns your Claude Code sessions into a live team call: see who is working, who waits on whom and who needs you, at zero token cost. Works in VS Code, Cursor, any terminal, or as a desktop app. Free and open source.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T03:42:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 62,
+      "author": "jonbaer",
+      "likes": 46,
+      "views": 47,
+      "retweets": 0,
+      "text": "Agent Standup turns your Claude Code sessions into a live team call: see who is working, who waits on whom and who needs you, at zero token cost. Works in VS Code, Cursor, any terminal, or as a desktop app. Free and open source.",
+      "author_name": "jonbaer"
+    },
+    {
+      "id": "50039318",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
+      "summary": "Philadelphia police said the tip was &quot;flagged as spam&quot;, but criticised the tech company for taking more than two months to detect and report the breach.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-11T02:41:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "rmason",
+      "likes": 6,
+      "views": 4,
+      "retweets": 0,
+      "text": "Philadelphia police said the tip was &quot;flagged as spam&quot;, but criticised the tech company for taking more than two months to detect and report the breach.",
+      "author_name": "rmason"
+    },
+    {
+      "id": "50038054",
+      "title": "Why OpenAI's latest results dump has left mathematicians in shock",
+      "url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837",
+      "summary": "OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-10T23:08:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "ColinWright",
+      "likes": 4,
+      "views": 1,
+      "retweets": 0,
+      "text": "OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.",
+      "author_name": "ColinWright"
     },
     {
       "id": "50036718",
@@ -135,53 +335,13 @@
         "AI",
         "科技"
       ],
-      "score": 31,
+      "score": 32,
       "author": "based2",
-      "likes": 2,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
       "author_name": "based2"
-    },
-    {
-      "id": "50036322",
-      "title": "CAVEWOMAN: How LLMs Behave Under Linguistic Input and Output Compression",
-      "url": "https://arxiv.org/abs/2606.24083",
-      "summary": "Abstract page for arXiv paper 2606.24083: CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T19:31:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "farlight",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2606.24083: CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
-      "author_name": "farlight"
-    },
-    {
-      "id": "50035362",
-      "title": "Integrating Decision Models into Agent Harnesses",
-      "url": "https://vivekhaldar.com/articles/llms-do-too-much-offload-to-decision-models/",
-      "summary": "Two ways to put Jev inside an agent harness: checking step completion and making bounded business decisions. Experiments with Proceda cut main-LLM calls by almost a third.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T17:53:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "gandalfgeek",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Two ways to put Jev inside an agent harness: checking step completion and making bounded business decisions. Experiments with Proceda cut main-LLM calls by almost a third.",
-      "author_name": "gandalfgeek"
     },
     {
       "id": "50034279",
@@ -204,26 +364,6 @@
       "author_name": "Brajeshwar"
     },
     {
-      "id": "50033823",
-      "title": "Being mean to Claude could get you banned as Anthropic introduces new rules",
-      "url": "https://www.techspot.com/news/114153-mean-ai-could-get-you-banned-anthropic-introduces.html",
-      "summary": "Anthropic&#039;s first changes to its usage policy in over a year include new restrictions on abusive behavior. The updated policy prohibits &quot;sustained and needless abusive or cruel...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T15:20:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "akyuu",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic&#039;s first changes to its usage policy in over a year include new restrictions on abusive behavior. The updated policy prohibits &quot;sustained and needless abusive or cruel...",
-      "author_name": "akyuu"
-    },
-    {
       "id": "50033190",
       "title": "AI Agent Security: Six Controls from Nine Real Incidents",
       "url": "https://blog.gitguardian.com/ai-agent-security-six-controls/",
@@ -235,133 +375,13 @@
         "AI",
         "科技"
       ],
-      "score": 20,
+      "score": 21,
       "author": "guedou",
-      "likes": 1,
+      "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "AI agents run with your credentials and act before you can stop them. Six AI agent security controls from nine real incidents, and what remains open.",
       "author_name": "guedou"
-    },
-    {
-      "id": "50032052",
-      "title": "AI model submitted false tip about unsolved murder, Philadelphia police say",
-      "url": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/",
-      "summary": "An Anthropic A.I. model submitted a false tip about an unsolved murder through a publicly accessible web form, Philadelphia police said Friday.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T12:01:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "geox",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "An Anthropic A.I. model submitted a false tip about an unsolved murder through a publicly accessible web form, Philadelphia police said Friday.",
-      "author_name": "geox"
-    },
-    {
-      "id": "50027918",
-      "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
-      "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-      "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T23:37:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 24,
-      "author": "thoughtpeddler",
-      "likes": 10,
-      "views": 1,
-      "retweets": 0,
-      "text": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
-      "author_name": "thoughtpeddler"
-    },
-    {
-      "id": "50026734",
-      "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
-      "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
-      "summary": "When OpenAI announced its surprise solution to the Navier-Stokes problem, it produced one proof for humans and one for computers – however, they don&#039;t match",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T21:25:09Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 70,
-      "author": "danielmorozoff",
-      "likes": 56,
-      "views": 5,
-      "retweets": 0,
-      "text": "When OpenAI announced its surprise solution to the Navier-Stokes problem, it produced one proof for humans and one for computers – however, they don&#039;t match",
-      "author_name": "danielmorozoff"
-    },
-    {
-      "id": "50024166",
-      "title": "OpenAI will start watermarking ChatGPT's text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-09T17:46:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 36,
-      "author": "ulrischa",
-      "likes": 7,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "author_name": "ulrischa"
-    },
-    {
-      "id": "50014156",
-      "title": "Visa Releases Its AI-Powered Cyber Defense System to Open Source",
-      "url": "https://corporate.visa.com/en/sites/visa-perspectives/security-trust/visa-cybersecurity-mythos-project-glasswing.html",
-      "summary": "Visa participation reflects a proactive approach to testing advanced AI for cybersecurity and strengthening the global payments ecosystem",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-09T00:03:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "fosco",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "Visa participation reflects a proactive approach to testing advanced AI for cybersecurity and strengthening the global payments ecosystem",
-      "author_name": "fosco"
-    },
-    {
-      "id": "50010656",
-      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-      "summary": "Ethereum co-founder Vitalik Buterin has backed a warning from Ethereum researcher Justin Drake that advances in artificial intelligence could threaten the cryptographic algorithms used to secure crypto wallets.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-08T19:17:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 79,
-      "author": "firstcomm",
-      "likes": 65,
-      "views": 65,
-      "retweets": 0,
-      "text": "Ethereum co-founder Vitalik Buterin has backed a warning from Ethereum researcher Justin Drake that advances in artificial intelligence could threaten the cryptographic algorithms used to secure crypto wallets.",
-      "author_name": "firstcomm"
     },
     {
       "id": "49875797",
@@ -382,26 +402,6 @@
       "retweets": 0,
       "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
       "author_name": "JumpCrisscross"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mooreds",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
     }
   ]
 }
