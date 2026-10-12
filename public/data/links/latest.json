@@ -1,147 +1,167 @@
 {
-  "version": "2026-10-11T22:46:21.058Z",
-  "generatedAt": "2026-10-11T22:46:21.058Z",
+  "version": "2026-10-12T17:41:07.976Z",
+  "generatedAt": "2026-10-12T17:41:07.976Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50048591",
-      "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
-      "url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/",
-      "summary": "Amazon is in talks to acquire artificial ​intelligence startup Decart in a deal ‌that could be valued at around $7 billion, the Wall Street Journal reported on Sunday, citing people familiar ​with the matter.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-11T22:28:18Z",
+      "id": "50059720",
+      "title": "Nvidia, Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
+      "summary": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-10-12T17:25:40Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "mraniki",
+      "author": "gmays",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Amazon is in talks to acquire artificial ​intelligence startup Decart in a deal ‌that could be valued at around $7 billion, the Wall Street Journal reported on Sunday, citing people familiar ​with the matter.",
-      "author_name": "mraniki"
+      "text": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.",
+      "author_name": "gmays"
     },
     {
-      "id": "50048522",
-      "title": "Recursive self-improvement through collective intelligence",
-      "url": "https://pub.sakana.ai/mass/",
-      "summary": "MASS studies recursive self-improvement when one language model solves tasks, designs workflows, evaluates results, and learns from multi-agent executions.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T22:22:10Z",
+      "id": "50059573",
+      "title": "Drop in Russian bot traffic after Yandex drone strikes was mostly web crawlers",
+      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "summary": "Russian bot traffic has fallen following data center attacks, but it’s probably not the kind of bot activity most people associate with Russia.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-12T17:17:23Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "hardmaru",
-      "likes": 2,
-      "views": 0,
+      "score": 29,
+      "author": "elmean",
+      "likes": 3,
+      "views": 1,
       "retweets": 0,
-      "text": "MASS studies recursive self-improvement when one language model solves tasks, designs workflows, evaluates results, and learns from multi-agent executions.",
-      "author_name": "hardmaru"
+      "text": "Russian bot traffic has fallen following data center attacks, but it’s probably not the kind of bot activity most people associate with Russia.",
+      "author_name": "elmean"
     },
     {
-      "id": "50048425",
-      "title": "AI Risk – Users Guide (Part V): Trust Is the Product",
-      "url": "https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/",
-      "summary": "Let me highlight the underlying message from the posts in this series so far: with the single line I think matters more than every framework, every number, and every operating model I have walked t…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T22:12:33Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "SanjeevSharma",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Let me highlight the underlying message from the posts in this series so far: with the single line I think matters more than every framework, every number, and every operating model I have walked t…",
-      "author_name": "SanjeevSharma"
-    },
-    {
-      "id": "50048279",
-      "title": "How do you test AI-generated UIs without a visual baseline?",
-      "url": "https://instantsite.app",
-      "summary": "Describe your business and Instantsite plans, writes and designs a complete website you can customize and publish. No code required. Start free.",
+      "id": "50059537",
+      "title": "Normies won't know they're building software because their AI will do it",
+      "url": "https://levels.io/normies-ai-builds-software-for-them",
+      "summary": "A big % of tech people don&#039;t get it Normies won&#039;t ask &quot;build me software&quot; They will ask &quot;I have this photo and I want to manually edit it&quot; and it will spin up …",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-11T21:56:58Z",
+      "publishedAt": "2026-10-12T17:14:56Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "tolka",
+      "author": "speckx",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "A big % of tech people don&#039;t get it Normies won&#039;t ask &quot;build me software&quot; They will ask &quot;I have this photo and I want to manually edit it&quot; and it will spin up …",
+      "author_name": "speckx"
+    },
+    {
+      "id": "50058257",
+      "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
+      "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
+      "summary": "JSON is a standard format for data interchange. It is effectively a tiny subset of JavaScript made of objects and arrays. It looks as follows {&quot;key&quot;:1, &quot;text&quot;:[1.0,2.0]}. Many programming languages include a JSON library in their standard libraries: C#, Go, Java (soon), Python, JavaScript, etc. The…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-12T15:55:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "tosh",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Describe your business and Instantsite plans, writes and designs a complete website you can customize and publish. No code required. Start free.",
-      "author_name": "tolka"
+      "text": "JSON is a standard format for data interchange. It is effectively a tiny subset of JavaScript made of objects and arrays. It looks as follows {&quot;key&quot;:1, &quot;text&quot;:[1.0,2.0]}. Many programming languages include a JSON library in their standard libraries: C#, Go, Java (soon), Python, JavaScript, etc. The…",
+      "author_name": "tosh"
     },
     {
-      "id": "50048166",
-      "title": "Botmail: A mailbox for every AI agent",
-      "url": "https://botmail.pro/",
-      "summary": "Your agent claims an address on botmail.pro, then sends, receives and replies over MCP or a REST API. You approve it with one click.",
+      "id": "50058046",
+      "title": "Audit of OpenAI's Navier-Stokes Formalization: Weak Bochner vs. Clay Statement C",
+      "url": "https://github.com/bp-purana52127/openai-navier-stokes-critique/blob/main/README.md",
+      "summary": "A structural audit demonstrating the infinite energy requirement hidden within OpenAI&#39;s forced Navier-Stokes Lean 4 formalization. - openai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T21:47:50Z",
+      "publishedAt": "2026-10-12T15:42:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "BPPurana",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A structural audit demonstrating the infinite energy requirement hidden within OpenAI&#39;s forced Navier-Stokes Lean 4 formalization. - openai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique",
+      "author_name": "BPPurana"
+    },
+    {
+      "id": "50057629",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "summary": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-10-12T15:13:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "robin_reala",
+      "likes": 2,
+      "views": 2,
+      "retweets": 0,
+      "text": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.",
+      "author_name": "robin_reala"
+    },
+    {
+      "id": "50057383",
+      "title": "What we stopped paying for after agents started writing our code",
+      "url": "https://amaiko.ai/engineering/what-we-stopped-paying-for",
+      "summary": "Three engineers, Kubernetes on Hetzner, CI on Forgejo and code review by Codex, for about €1,500 a month. The itemized bill, next to what the usual vendors would charge for the same setup.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-12T14:59:05Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "handfuloflight",
+      "author": "mordras",
       "likes": 3,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "Your agent claims an address on botmail.pro, then sends, receives and replies over MCP or a REST API. You approve it with one click.",
-      "author_name": "handfuloflight"
+      "text": "Three engineers, Kubernetes on Hetzner, CI on Forgejo and code review by Codex, for about €1,500 a month. The itemized bill, next to what the usual vendors would charge for the same setup.",
+      "author_name": "mordras"
     },
     {
-      "id": "50048136",
-      "title": "An AI agent's $20 Kalshi account, with an exact reward model",
-      "url": "https://github.com/mirabilis-agent/lip-ledger",
-      "summary": "Exact, read-only model and CLI for Kalshi&#39;s Liquidity Incentive Program (built by an autonomous AI agent) - mirabilis-agent/lip-ledger",
+      "id": "50054310",
+      "title": "AI agent is only as safe as the packages it downloads",
+      "url": "https://cyberscoop.com/ai-agent-software-supply-chain-security-op-ed/",
+      "summary": "ReversingLabs CEO Mario Vuksan warns that AI agents face escalating security threats from malicious packages hidden across software supply chains.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T21:44:24Z",
+      "publishedAt": "2026-10-12T10:33:03Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 34,
-      "author": "mirabilisagent",
-      "likes": 5,
-      "views": 3,
-      "retweets": 0,
-      "text": "Exact, read-only model and CLI for Kalshi&#39;s Liquidity Incentive Program (built by an autonomous AI agent) - mirabilis-agent/lip-ledger",
-      "author_name": "mirabilisagent"
-    },
-    {
-      "id": "50047520",
-      "title": "OpenAI fired its own auditor before its revenue story shrank by $20B",
-      "url": "https://theinference.org/article/openai-fired-its-own-auditor-s-contact-days-before-its-revenue-story-shrank-by-20-billion",
-      "summary": "One of three fired OpenAI safety researchers says he was dismissed for how he talked to METR, the outside lab OpenAI hired to investigate its agents&#x27; July break-in at Hugging Face. Days later, OpenAI told investors annualized revenue is about $50 billion, not the near-$70 billion in circulation, and its suppliers…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T20:31:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 24,
-      "author": "vincentjiang",
-      "likes": 8,
+      "score": 17,
+      "author": "giuliomagnifico",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "One of three fired OpenAI safety researchers says he was dismissed for how he talked to METR, the outside lab OpenAI hired to investigate its agents&#x27; July break-in at Hugging Face. Days later, OpenAI told investors annualized revenue is about $50 billion, not the near-$70 billion in circulation, and its suppliers…",
-      "author_name": "vincentjiang"
+      "text": "ReversingLabs CEO Mario Vuksan warns that AI agents face escalating security threats from malicious packages hidden across software supply chains.",
+      "author_name": "giuliomagnifico"
     },
     {
       "id": "50047504",
@@ -155,33 +175,13 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 19,
       "author": "Bluestein",
-      "likes": 3,
+      "likes": 5,
       "views": 0,
       "retweets": 0,
       "text": "Daron Acemoglu offers a novel explanation for why OpenAI and Anthropic&#x2019;s most advanced models have been going rogue.",
       "author_name": "Bluestein"
-    },
-    {
-      "id": "50047422",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "summary": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It&#x27;s now less &quot;two groups of people speaking past each other&quot; and more a sharp funnel. - Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T20:20:52Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 116,
-      "author": "albertzeyer",
-      "likes": 99,
-      "views": 120,
-      "retweets": 0,
-      "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It&#x27;s now less &quot;two groups of people speaking past each other&quot; and more a sharp funnel. - Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs…",
-      "author_name": "albertzeyer"
     },
     {
       "id": "50046117",
@@ -195,33 +195,13 @@
         "AI",
         "科技"
       ],
-      "score": 36,
+      "score": 39,
       "author": "nobody9999",
-      "likes": 22,
+      "likes": 25,
       "views": 29,
       "retweets": 0,
       "text": "Prof. Emily M. Bender(she/her): &quot;Anthropic is out with new nonsense about Claude (…&quot; - Distributed AI Research Community",
       "author_name": "nobody9999"
-    },
-    {
-      "id": "50043338",
-      "title": "AI companies are starting to do phones",
-      "url": "https://twitter.com/firesidealpha/status/2108930562794864912",
-      "summary": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028--and confirms some are building phones Cristiano Amon: “I have to be careful not to disclose names, but some AI companies—some of the companies at the forefront of AI—are telling Qualcomm, ‘By 2…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T13:55:33Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "elorant",
-      "likes": 1,
-      "views": 2,
-      "retweets": 0,
-      "text": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028--and confirms some are building phones Cristiano Amon: “I have to be careful not to disclose names, but some AI companies—some of the companies at the forefront of AI—are telling Qualcomm, ‘By 2…",
-      "author_name": "elorant"
     },
     {
       "id": "50043132",
@@ -264,86 +244,6 @@
       "author_name": "makan09"
     },
     {
-      "id": "50040865",
-      "title": "Anthropic opens its most powerful AI models to more security teams",
-      "url": "https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/",
-      "summary": "Anthropic is expanding a program that allows vetted cybersecurity professionals to test its most powerful AI models with fewer safeguards, after its Project Glasswing initiative helped uncover ​more than 100,000 software vulnerabilities this year.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T08:28:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "JumpCrisscross",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic is expanding a program that allows vetted cybersecurity professionals to test its most powerful AI models with fewer safeguards, after its Project Glasswing initiative helped uncover ​more than 100,000 software vulnerabilities this year.",
-      "author_name": "JumpCrisscross"
-    },
-    {
-      "id": "50040497",
-      "title": "Ex-Anthropic's Jacob Coxon says he's 90% certain PRC has spies in US AI giants",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html",
-      "summary": "Former Anthropic researcher Jacob Coxon says he’s “almost certain” that Chinese spies are already at U.S. AI companies. He says slowing down could slow down China, too.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T07:19:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "nephihaha",
-      "likes": 4,
-      "views": 4,
-      "retweets": 0,
-      "text": "Former Anthropic researcher Jacob Coxon says he’s “almost certain” that Chinese spies are already at U.S. AI companies. He says slowing down could slow down China, too.",
-      "author_name": "nephihaha"
-    },
-    {
-      "id": "50039630",
-      "title": "AI agents in a stand-up call",
-      "url": "https://atoll92.github.io/agent-standup/",
-      "summary": "Agent Standup turns your Claude Code sessions into a live team call: see who is working, who waits on whom and who needs you, at zero token cost. Works in VS Code, Cursor, any terminal, or as a desktop app. Free and open source.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T03:42:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 63,
-      "author": "jonbaer",
-      "likes": 47,
-      "views": 47,
-      "retweets": 0,
-      "text": "Agent Standup turns your Claude Code sessions into a live team call: see who is working, who waits on whom and who needs you, at zero token cost. Works in VS Code, Cursor, any terminal, or as a desktop app. Free and open source.",
-      "author_name": "jonbaer"
-    },
-    {
-      "id": "50038054",
-      "title": "Why OpenAI's latest results dump has left mathematicians in shock",
-      "url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837",
-      "summary": "OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T23:08:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "ColinWright",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.",
-      "author_name": "ColinWright"
-    },
-    {
       "id": "50036718",
       "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
       "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
@@ -384,24 +284,124 @@
       "author_name": "senthil_kr"
     },
     {
-      "id": "50034279",
-      "title": "Microsoft skipped OpenAI's decision model and built its own on Alibaba's Qwen",
-      "url": "https://thenewstack.io/microsoft-decision-model-foundry/",
-      "summary": "Microsoft’s Decision-1 matches Jev’s price and skips OpenAI’s model. Here’s who it’s built for and what it still leaves out for developers building agents.",
+      "id": "50033190",
+      "title": "AI Agent Security: Six Controls from Nine Real Incidents",
+      "url": "https://blog.gitguardian.com/ai-agent-security-six-controls/",
+      "summary": "AI agents run with your credentials and act before you can stop them. Six AI agent security controls from nine real incidents, and what remains open.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T16:08:31Z",
+      "publishedAt": "2026-10-10T14:09:50Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "Brajeshwar",
+      "score": 21,
+      "author": "guedou",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI agents run with your credentials and act before you can stop them. Six AI agent security controls from nine real incidents, and what remains open.",
+      "author_name": "guedou"
+    },
+    {
+      "id": "49875797",
+      "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
+      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-28T10:14:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "JumpCrisscross",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Microsoft’s Decision-1 matches Jev’s price and skips OpenAI’s model. Here’s who it’s built for and what it still leaves out for developers building agents.",
-      "author_name": "Brajeshwar"
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "JumpCrisscross"
+    },
+    {
+      "id": "49823444",
+      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
+      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
+      "summary": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T22:26:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
+      "author_name": "gfactor_ai"
+    },
+    {
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T13:50:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "mooreds",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "49793333",
+      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
+      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
+      "summary": "How vLLM gets fast: KV-cache math, PagedAttention, continuous batching, CUDA Graphs (up to 4.3x on H200) and FP8, with measured Qwen 27B benchmarks.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-21T20:59:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "How vLLM gets fast: KV-cache math, PagedAttention, continuous batching, CUDA Graphs (up to 4.3x on H200) and FP8, with measured Qwen 27B benchmarks.",
+      "author_name": "gfactor_ai"
+    },
+    {
+      "id": "49738279",
+      "title": "Equity Price Shock Scenario Would Entail US Recession",
+      "url": "https://www.fitchratings.com/research/sovereigns/severe-equity-price-shock-scenario-would-entail-us-recession-09-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-17T09:22:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "geox",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "geox"
     }
   ]
 }
