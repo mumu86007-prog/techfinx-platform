@@ -1,87 +1,207 @@
 {
-  "version": "2026-10-12T17:41:07.976Z",
-  "generatedAt": "2026-10-12T17:41:07.976Z",
+  "version": "2026-10-13T01:13:39.101Z",
+  "generatedAt": "2026-10-13T01:13:39.101Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50059720",
-      "title": "Nvidia, Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
-      "summary": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-10-12T17:25:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "gmays",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.",
-      "author_name": "gmays"
-    },
-    {
-      "id": "50059573",
-      "title": "Drop in Russian bot traffic after Yandex drone strikes was mostly web crawlers",
-      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-      "summary": "Russian bot traffic has fallen following data center attacks, but it’s probably not the kind of bot activity most people associate with Russia.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-12T17:17:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 29,
-      "author": "elmean",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "Russian bot traffic has fallen following data center attacks, but it’s probably not the kind of bot activity most people associate with Russia.",
-      "author_name": "elmean"
-    },
-    {
-      "id": "50059537",
-      "title": "Normies won't know they're building software because their AI will do it",
-      "url": "https://levels.io/normies-ai-builds-software-for-them",
-      "summary": "A big % of tech people don&#039;t get it Normies won&#039;t ask &quot;build me software&quot; They will ask &quot;I have this photo and I want to manually edit it&quot; and it will spin up …",
+      "id": "50065172",
+      "title": "Math community could learn from bio[med]'s to live with AI",
+      "url": "https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/",
+      "summary": "[This is a guest post by Antonio Auffinger. This blog post was initially written in a different file format and converted using AI. &#8212; T.] Despite writing papers in pure mathematics, much of m…",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-12T17:14:56Z",
+      "publishedAt": "2026-10-13T00:54:00Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "speckx",
+      "author": "oliculipolicula",
       "likes": 1,
       "views": 1,
       "retweets": 0,
-      "text": "A big % of tech people don&#039;t get it Normies won&#039;t ask &quot;build me software&quot; They will ask &quot;I have this photo and I want to manually edit it&quot; and it will spin up …",
-      "author_name": "speckx"
+      "text": "[This is a guest post by Antonio Auffinger. This blog post was initially written in a different file format and converted using AI. &#8212; T.] Despite writing papers in pure mathematics, much of m…",
+      "author_name": "oliculipolicula"
     },
     {
-      "id": "50058257",
-      "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
-      "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
-      "summary": "JSON is a standard format for data interchange. It is effectively a tiny subset of JavaScript made of objects and arrays. It looks as follows {&quot;key&quot;:1, &quot;text&quot;:[1.0,2.0]}. Many programming languages include a JSON library in their standard libraries: C#, Go, Java (soon), Python, JavaScript, etc. The…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-12T15:55:56Z",
+      "id": "50064937",
+      "title": "FrontierCode: Can AI models write code maintainers would merge?",
+      "url": "https://artificialanalysis.ai/articles/frontiercode",
+      "summary": "Cognition&#x27;s FrontierCode 1.1 tests whether AI models make code changes that maintainers of real open source repositories would merge. Leading models still fail more than 40% of the time.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T00:23:23Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 14,
-      "author": "tosh",
-      "likes": 1,
+      "score": 18,
+      "author": "emschwartz",
+      "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "JSON is a standard format for data interchange. It is effectively a tiny subset of JavaScript made of objects and arrays. It looks as follows {&quot;key&quot;:1, &quot;text&quot;:[1.0,2.0]}. Many programming languages include a JSON library in their standard libraries: C#, Go, Java (soon), Python, JavaScript, etc. The…",
-      "author_name": "tosh"
+      "text": "Cognition&#x27;s FrontierCode 1.1 tests whether AI models make code changes that maintainers of real open source repositories would merge. Leading models still fail more than 40% of the time.",
+      "author_name": "emschwartz"
+    },
+    {
+      "id": "50064868",
+      "title": "Turn a frontier AI into a multi-agent systems architect",
+      "url": "https://github.com/polymodality/agentic-polymodality/tree/main/ai-guidance",
+      "summary": "A design pack that turns a frontier AI into an architect for multi-agent systems. - agentic-polymodality/ai-guidance at main · polymodality/agentic-polymodality",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T00:14:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "polymodality",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "A design pack that turns a frontier AI into an architect for multi-agent systems. - agentic-polymodality/ai-guidance at main · polymodality/agentic-polymodality",
+      "author_name": "polymodality"
+    },
+    {
+      "id": "50064758",
+      "title": "What it felt like when I was interviewed by an AI assistant",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
+      "summary": "Outsourcing the essential task of interviewing job applicants to a machine seems lazy at best, negligent at worst. I want better for all of us",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-13T00:00:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "jethronethro",
+      "likes": 8,
+      "views": 1,
+      "retweets": 0,
+      "text": "Outsourcing the essential task of interviewing job applicants to a machine seems lazy at best, negligent at worst. I want better for all of us",
+      "author_name": "jethronethro"
+    },
+    {
+      "id": "50064428",
+      "title": "Llmtobinary – get an LLM to write machine code",
+      "url": "https://llmtobinary.com?hn",
+      "summary": "An AI writes machine code directly, byte by byte, with no source code and no compiler. Describe a program and watch its bytes run on a virtual chip in your browser.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-12T23:19:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "thomasfromcdnjs",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "An AI writes machine code directly, byte by byte, with no source code and no compiler. Describe a program and watch its bytes run on a virtual chip in your browser.",
+      "author_name": "thomasfromcdnjs"
+    },
+    {
+      "id": "50063717",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "summary": "37 tok/s from Qwen3-Next-80B (48 GB) on a 32 GB laptop, 24 without drafts vs 2.8 for llama.cpp; reading 62 vs 16 tok/s. Faster than llama.cpp on all 13 models compared in Q4_K_M. LLMs bigger than your RAM, pure C, CPU or GPU. - prabanta-dev/janas",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-12T22:05:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 55,
+      "author": "khalidkhair",
+      "likes": 22,
+      "views": 8,
+      "retweets": 0,
+      "text": "37 tok/s from Qwen3-Next-80B (48 GB) on a 32 GB laptop, 24 without drafts vs 2.8 for llama.cpp; reading 62 vs 16 tok/s. Faster than llama.cpp on all 13 models compared in Q4_K_M. LLMs bigger than your RAM, pure C, CPU or GPU. - prabanta-dev/janas",
+      "author_name": "khalidkhair"
+    },
+    {
+      "id": "50061843",
+      "title": "Tim Sweeneys says AI is enabling a big pivot at Epic Games",
+      "url": "https://twitter.com/TimSweeneyEpic/status/2109705826688549304",
+      "summary": "We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration. The aim isn&#x27;t to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff, and to bring the benefits to all teams using Unreal.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-12T19:39:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "astlouis44",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration. The aim isn&#x27;t to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff, and to bring the benefits to all teams using Unreal.",
+      "author_name": "astlouis44"
+    },
+    {
+      "id": "50061603",
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "summary": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-12T19:25:29Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 106,
+      "author": "artninja1988",
+      "likes": 77,
+      "views": 94,
+      "retweets": 0,
+      "text": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
+      "author_name": "artninja1988"
+    },
+    {
+      "id": "50060694",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "summary": "What variant of Codex are you using? CLI — 0.157.0, installed via npm install -g @openai/codex, Linux (WSL2) What feature would you like to see? Please make daemon_auto_start opt-in (default false) for the CLI, or at least ask once befor...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-12T18:29:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 481,
+      "author": "whimblepop",
+      "likes": 450,
+      "views": 233,
+      "retweets": 0,
+      "text": "What variant of Codex are you using? CLI — 0.157.0, installed via npm install -g @openai/codex, Linux (WSL2) What feature would you like to see? Please make daemon_auto_start opt-in (default false) for the CLI, or at least ask once befor...",
+      "author_name": "whimblepop"
+    },
+    {
+      "id": "50060500",
+      "title": "Just say no to OpenAI and Anthropic",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "summary": "I recently read End Times Fascism and the Fight for the Living World by Naomi Klein and Astra Taylor. It&#x27;s an excellent book and I highly recommend that everyone read it. Tech oligarchs make up an important component of the end-times-fascist coalition. One thing that stood out",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-12T18:17:29Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 170,
+      "author": "DeepLogin",
+      "likes": 154,
+      "views": 144,
+      "retweets": 0,
+      "text": "I recently read End Times Fascism and the Fight for the Living World by Naomi Klein and Astra Taylor. It&#x27;s an excellent book and I highly recommend that everyone read it. Tech oligarchs make up an important component of the end-times-fascist coalition. One thing that stood out",
+      "author_name": "DeepLogin"
     },
     {
       "id": "50058046",
@@ -198,30 +318,10 @@
       "score": 39,
       "author": "nobody9999",
       "likes": 25,
-      "views": 29,
+      "views": 31,
       "retweets": 0,
       "text": "Prof. Emily M. Bender(she/her): &quot;Anthropic is out with new nonsense about Claude (…&quot; - Distributed AI Research Community",
       "author_name": "nobody9999"
-    },
-    {
-      "id": "50043132",
-      "title": "Artex AI, Claude agents used in cyberattacks on South Korean banks",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T13:31:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "Brajeshwar",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
-      "author_name": "Brajeshwar"
     },
     {
       "id": "50041219",
@@ -302,106 +402,6 @@
       "retweets": 0,
       "text": "AI agents run with your credentials and act before you can stop them. Six AI agent security controls from nine real incidents, and what remains open.",
       "author_name": "guedou"
-    },
-    {
-      "id": "49875797",
-      "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
-      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-28T10:14:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "JumpCrisscross",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "JumpCrisscross"
-    },
-    {
-      "id": "49823444",
-      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
-      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
-      "summary": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T22:26:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gfactor_ai",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
-      "author_name": "gfactor_ai"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mooreds",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
-    },
-    {
-      "id": "49793333",
-      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
-      "url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
-      "summary": "How vLLM gets fast: KV-cache math, PagedAttention, continuous batching, CUDA Graphs (up to 4.3x on H200) and FP8, with measured Qwen 27B benchmarks.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-21T20:59:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gfactor_ai",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "How vLLM gets fast: KV-cache math, PagedAttention, continuous batching, CUDA Graphs (up to 4.3x on H200) and FP8, with measured Qwen 27B benchmarks.",
-      "author_name": "gfactor_ai"
-    },
-    {
-      "id": "49738279",
-      "title": "Equity Price Shock Scenario Would Entail US Recession",
-      "url": "https://www.fitchratings.com/research/sovereigns/severe-equity-price-shock-scenario-would-entail-us-recession-09-09-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-17T09:22:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "geox",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "geox"
     }
   ]
 }
