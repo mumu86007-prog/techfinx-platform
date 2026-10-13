@@ -1,267 +1,327 @@
 {
-  "version": "2026-10-13T01:13:39.101Z",
-  "generatedAt": "2026-10-13T01:13:39.101Z",
+  "version": "2026-10-13T15:49:50.309Z",
+  "generatedAt": "2026-10-13T15:49:50.309Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50065172",
-      "title": "Math community could learn from bio[med]'s to live with AI",
-      "url": "https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/",
-      "summary": "[This is a guest post by Antonio Auffinger. This blog post was initially written in a different file format and converted using AI. &#8212; T.] Despite writing papers in pure mathematics, much of m…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-13T00:54:00Z",
+      "id": "50073470",
+      "title": "Perplexity's AI agents helped build a database with Rust",
+      "url": "https://thenewstack.io/perplexity-cobbledb-ai-database/",
+      "summary": "Perplexity used two engineers and hundreds of AI coding agents to build CobbleDB, a custom Rust database replacing DynamoDB reads in its search stack.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T15:40:53Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "oliculipolicula",
+      "author": "shenli3514",
       "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "[This is a guest post by Antonio Auffinger. This blog post was initially written in a different file format and converted using AI. &#8212; T.] Despite writing papers in pure mathematics, much of m…",
-      "author_name": "oliculipolicula"
-    },
-    {
-      "id": "50064937",
-      "title": "FrontierCode: Can AI models write code maintainers would merge?",
-      "url": "https://artificialanalysis.ai/articles/frontiercode",
-      "summary": "Cognition&#x27;s FrontierCode 1.1 tests whether AI models make code changes that maintainers of real open source repositories would merge. Leading models still fail more than 40% of the time.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T00:23:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "emschwartz",
-      "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "Cognition&#x27;s FrontierCode 1.1 tests whether AI models make code changes that maintainers of real open source repositories would merge. Leading models still fail more than 40% of the time.",
-      "author_name": "emschwartz"
+      "text": "Perplexity used two engineers and hundreds of AI coding agents to build CobbleDB, a custom Rust database replacing DynamoDB reads in its search stack.",
+      "author_name": "shenli3514"
     },
     {
-      "id": "50064868",
-      "title": "Turn a frontier AI into a multi-agent systems architect",
-      "url": "https://github.com/polymodality/agentic-polymodality/tree/main/ai-guidance",
-      "summary": "A design pack that turns a frontier AI into an architect for multi-agent systems. - agentic-polymodality/ai-guidance at main · polymodality/agentic-polymodality",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T00:14:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "polymodality",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "A design pack that turns a frontier AI into an architect for multi-agent systems. - agentic-polymodality/ai-guidance at main · polymodality/agentic-polymodality",
-      "author_name": "polymodality"
-    },
-    {
-      "id": "50064758",
-      "title": "What it felt like when I was interviewed by an AI assistant",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
-      "summary": "Outsourcing the essential task of interviewing job applicants to a machine seems lazy at best, negligent at worst. I want better for all of us",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-13T00:00:25Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "jethronethro",
-      "likes": 8,
-      "views": 1,
-      "retweets": 0,
-      "text": "Outsourcing the essential task of interviewing job applicants to a machine seems lazy at best, negligent at worst. I want better for all of us",
-      "author_name": "jethronethro"
-    },
-    {
-      "id": "50064428",
-      "title": "Llmtobinary – get an LLM to write machine code",
-      "url": "https://llmtobinary.com?hn",
-      "summary": "An AI writes machine code directly, byte by byte, with no source code and no compiler. Describe a program and watch its bytes run on a virtual chip in your browser.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-12T23:19:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "thomasfromcdnjs",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "An AI writes machine code directly, byte by byte, with no source code and no compiler. Describe a program and watch its bytes run on a virtual chip in your browser.",
-      "author_name": "thomasfromcdnjs"
-    },
-    {
-      "id": "50063717",
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
-      "summary": "37 tok/s from Qwen3-Next-80B (48 GB) on a 32 GB laptop, 24 without drafts vs 2.8 for llama.cpp; reading 62 vs 16 tok/s. Faster than llama.cpp on all 13 models compared in Q4_K_M. LLMs bigger than your RAM, pure C, CPU or GPU. - prabanta-dev/janas",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-12T22:05:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 55,
-      "author": "khalidkhair",
-      "likes": 22,
-      "views": 8,
-      "retweets": 0,
-      "text": "37 tok/s from Qwen3-Next-80B (48 GB) on a 32 GB laptop, 24 without drafts vs 2.8 for llama.cpp; reading 62 vs 16 tok/s. Faster than llama.cpp on all 13 models compared in Q4_K_M. LLMs bigger than your RAM, pure C, CPU or GPU. - prabanta-dev/janas",
-      "author_name": "khalidkhair"
-    },
-    {
-      "id": "50061843",
-      "title": "Tim Sweeneys says AI is enabling a big pivot at Epic Games",
-      "url": "https://twitter.com/TimSweeneyEpic/status/2109705826688549304",
-      "summary": "We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration. The aim isn&#x27;t to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff, and to bring the benefits to all teams using Unreal.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-12T19:39:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "astlouis44",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration. The aim isn&#x27;t to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff, and to bring the benefits to all teams using Unreal.",
-      "author_name": "astlouis44"
-    },
-    {
-      "id": "50061603",
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "summary": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-12T19:25:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 106,
-      "author": "artninja1988",
-      "likes": 77,
-      "views": 94,
-      "retweets": 0,
-      "text": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.",
-      "author_name": "artninja1988"
-    },
-    {
-      "id": "50060694",
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "summary": "What variant of Codex are you using? CLI — 0.157.0, installed via npm install -g @openai/codex, Linux (WSL2) What feature would you like to see? Please make daemon_auto_start opt-in (default false) for the CLI, or at least ask once befor...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-12T18:29:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 481,
-      "author": "whimblepop",
-      "likes": 450,
-      "views": 233,
-      "retweets": 0,
-      "text": "What variant of Codex are you using? CLI — 0.157.0, installed via npm install -g @openai/codex, Linux (WSL2) What feature would you like to see? Please make daemon_auto_start opt-in (default false) for the CLI, or at least ask once befor...",
-      "author_name": "whimblepop"
-    },
-    {
-      "id": "50060500",
-      "title": "Just say no to OpenAI and Anthropic",
-      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
-      "summary": "I recently read End Times Fascism and the Fight for the Living World by Naomi Klein and Astra Taylor. It&#x27;s an excellent book and I highly recommend that everyone read it. Tech oligarchs make up an important component of the end-times-fascist coalition. One thing that stood out",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-12T18:17:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 170,
-      "author": "DeepLogin",
-      "likes": 154,
-      "views": 144,
-      "retweets": 0,
-      "text": "I recently read End Times Fascism and the Fight for the Living World by Naomi Klein and Astra Taylor. It&#x27;s an excellent book and I highly recommend that everyone read it. Tech oligarchs make up an important component of the end-times-fascist coalition. One thing that stood out",
-      "author_name": "DeepLogin"
-    },
-    {
-      "id": "50058046",
-      "title": "Audit of OpenAI's Navier-Stokes Formalization: Weak Bochner vs. Clay Statement C",
-      "url": "https://github.com/bp-purana52127/openai-navier-stokes-critique/blob/main/README.md",
-      "summary": "A structural audit demonstrating the infinite energy requirement hidden within OpenAI&#39;s forced Navier-Stokes Lean 4 formalization. - openai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-12T15:42:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "BPPurana",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "A structural audit demonstrating the infinite energy requirement hidden within OpenAI&#39;s forced Navier-Stokes Lean 4 formalization. - openai-navier-stokes-critique/README.md at main · bp-purana52127/openai-navier-stokes-critique",
-      "author_name": "BPPurana"
-    },
-    {
-      "id": "50057629",
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "summary": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.",
+      "id": "50073279",
+      "title": "Palantir CTO:Some AI researchers taking up smoking;they expect AI to cure cancer",
+      "url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
+      "summary": "Some AI believers expect the technology to make smoking-related health risks like cancer a thing of the past, Palantir CTO Shyam Sankar said.",
       "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-12T15:13:54Z",
+      "publishedAt": "2026-10-13T15:29:46Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "robin_reala",
+      "author": "bookofjoe",
       "likes": 2,
-      "views": 2,
+      "views": 0,
       "retweets": 0,
-      "text": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.",
-      "author_name": "robin_reala"
+      "text": "Some AI believers expect the technology to make smoking-related health risks like cancer a thing of the past, Palantir CTO Shyam Sankar said.",
+      "author_name": "bookofjoe"
     },
     {
-      "id": "50057383",
-      "title": "What we stopped paying for after agents started writing our code",
-      "url": "https://amaiko.ai/engineering/what-we-stopped-paying-for",
-      "summary": "Three engineers, Kubernetes on Hetzner, CI on Forgejo and code review by Codex, for about €1,500 a month. The itemized bill, next to what the usual vendors would charge for the same setup.",
+      "id": "50073161",
+      "title": "The \"alien\" economics of AI monetization",
+      "url": "https://stripe.com/blog/economics-of-ai-monetization",
+      "summary": "Leaders at Monetize 2026 shared the biggest shifts reshaping AI monetization, from hybrid pricing and stronger spend controls to flexible packaging, outcome-focused finance, and pricing built for human and AI buyers.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-13T15:22:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "runtimewire",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Leaders at Monetize 2026 shared the biggest shifts reshaping AI monetization, from hybrid pricing and stronger spend controls to flexible packaging, outcome-focused finance, and pricing built for human and AI buyers.",
+      "author_name": "runtimewire"
+    },
+    {
+      "id": "50072905",
+      "title": "Drug treatments for fibromyalgia: network meta-analysis of randomised trials",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13647175/",
+      "summary": "To compare the effectiveness of drug treatments for the management of fibromyalgia. Systematic review and network meta-analysis of randomised trials. Medline, Embase, AMED (Allied and Complementary Medicine Database), PsycInfo, CINAHL, and Cochrane ...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-13T15:07:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "chavasorani",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "To compare the effectiveness of drug treatments for the management of fibromyalgia. Systematic review and network meta-analysis of randomised trials. Medline, Embase, AMED (Allied and Complementary Medicine Database), PsycInfo, CINAHL, and Cochrane ...",
+      "author_name": "chavasorani"
+    },
+    {
+      "id": "50072740",
+      "title": "Developing Zap in the LLM Age",
+      "url": "https://www.zaproxy.org/blog/2026-10-13-developing-zap-in-the-llm-age/",
+      "summary": "The world’s most widely used web app scanner. Free and open source. ZAP is a community project actively maintained by a dedicated international team, and a GitHub Top 1000 project.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-12T14:59:05Z",
+      "publishedAt": "2026-10-13T14:56:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "psiinon",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "The world’s most widely used web app scanner. Free and open source. ZAP is a community project actively maintained by a dedicated international team, and a GitHub Top 1000 project.",
+      "author_name": "psiinon"
+    },
+    {
+      "id": "50072346",
+      "title": "Anthropic offers £145k for London personal assistant amid AI agent boom",
+      "url": "https://www.cityam.com/anthropic-offers-145k-for-london-personal-assistant-amid-ai-agent-boom/",
+      "summary": "Anthropic, the company behind one of the world&rsquo;s most advanced AI assistants is offering &pound;145,000 for a human one in London",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T14:30:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "mirzap",
+      "likes": 5,
+      "views": 1,
+      "retweets": 0,
+      "text": "Anthropic, the company behind one of the world&rsquo;s most advanced AI assistants is offering &pound;145,000 for a human one in London",
+      "author_name": "mirzap"
+    },
+    {
+      "id": "50072133",
+      "title": "Linux Kernel Developers Plan to Remove \"Assisted-By\" Tag Requirement for AI/LLM",
+      "url": "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
+      "summary": "Currently there is a policy requirement for Linux kernel patches where AI tools contributed, they should be documented with an &#039;Assisted-by:&#039; tag to make clear AI was used in the creation of said patch",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T14:15:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "majorchord",
+      "likes": 4,
+      "views": 1,
+      "retweets": 0,
+      "text": "Currently there is a policy requirement for Linux kernel patches where AI tools contributed, they should be documented with an &#039;Assisted-by:&#039; tag to make clear AI was used in the creation of said patch",
+      "author_name": "majorchord"
+    },
+    {
+      "id": "50072094",
+      "title": "Palantir CTO AI says researchers started smoking, believing AI will cure cancer",
+      "url": "https://www.indiatoday.in/technology/news/story/palantir-cto-shyam-sankar-says-researchers-have-started-smoking-believing-ai-will-cure-cancer-3015224-2026-10-12",
+      "summary": "The AI industry is confident that AI will cure cancer. How confident? According to Palantir CTO Shyam Sankar, some AI researchers have started smoking in an effort to go all-in on the technology.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-13T14:12:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "theanonymousone",
+      "likes": 2,
+      "views": 3,
+      "retweets": 0,
+      "text": "The AI industry is confident that AI will cure cancer. How confident? According to Palantir CTO Shyam Sankar, some AI researchers have started smoking in an effort to go all-in on the technology.",
+      "author_name": "theanonymousone"
+    },
+    {
+      "id": "50071763",
+      "title": "Anthropic Does Not Have ARR. Neither Does OpenAI",
+      "url": "https://www.decodingdiscontinuity.com/p/openai-anthropic-revenue",
+      "summary": "OpenAI and Anthropic’s annualized revenue figures are misleading because they combine subscriptions, model calls, cloud sales, and agents into a single number.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T13:51:14Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "olgava",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI and Anthropic’s annualized revenue figures are misleading because they combine subscriptions, model calls, cloud sales, and agents into a single number.",
+      "author_name": "olgava"
+    },
+    {
+      "id": "50071625",
+      "title": "When LLMs Fail at Classification",
+      "url": "https://jeffyclassify.com/blog/when-llms-fail-at-classification/",
+      "summary": "Benchmarking 16 models on text classification: LLMs, decision models, and classifiers. On 77-class problems, embedding + logistic regression wins by 14+ points.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T13:41:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "nico",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Benchmarking 16 models on text classification: LLMs, decision models, and classifiers. On 77-class problems, embedding + logistic regression wins by 14+ points.",
+      "author_name": "nico"
+    },
+    {
+      "id": "50071567",
+      "title": "FastAPI-stream-lease – Redis lease manager for FastAPI SSE/LLM streams",
+      "url": "https://github.com/agustin18/fastapi-stream-lease",
+      "summary": "Distributed stream and SSE concurrency lease manager for FastAPI and Starlette backed by atomic Redis Lua scripts. - agustin18/fastapi-stream-lease",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T13:37:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "agustin018",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Distributed stream and SSE concurrency lease manager for FastAPI and Starlette backed by atomic Redis Lua scripts. - agustin18/fastapi-stream-lease",
+      "author_name": "agustin018"
+    },
+    {
+      "id": "50071533",
+      "title": "OpenAI Fires Three Safety Researchers",
+      "url": "https://thezvi.wordpress.com/2026/10/12/openai-fires-three-safety-researchers/",
+      "summary": "Three OpenAI safety researchers, Tomek Korbak, Mikita Balesni and Jasmine Wang, were fired, ostensibly for ‘mishandling sensitive company information.’ Those employees have published an open letter…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T13:35:52Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "mordras",
+      "author": "speckx",
       "likes": 3,
       "views": 1,
       "retweets": 0,
-      "text": "Three engineers, Kubernetes on Hetzner, CI on Forgejo and code review by Codex, for about €1,500 a month. The itemized bill, next to what the usual vendors would charge for the same setup.",
-      "author_name": "mordras"
+      "text": "Three OpenAI safety researchers, Tomek Korbak, Mikita Balesni and Jasmine Wang, were fired, ostensibly for ‘mishandling sensitive company information.’ Those employees have published an open letter…",
+      "author_name": "speckx"
+    },
+    {
+      "id": "50071458",
+      "title": "Sovereign AI starts with open infrastructure",
+      "url": "https://tailscale.com/blog/sovereign-ai-patricia-prewitt",
+      "summary": "Tailscale is making a multi-year, multi-million-dollar investment in sovereign AI, led by Patricia Prewitt, to make open infrastructure practical.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-13T13:31:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "mfrw",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Tailscale is making a multi-year, multi-million-dollar investment in sovereign AI, led by Patricia Prewitt, to make open infrastructure practical.",
+      "author_name": "mfrw"
+    },
+    {
+      "id": "50070564",
+      "title": "Did Anthropic Just Lose Its Biggest Customer?",
+      "url": "https://www.vincentschmalbach.com/did-anthropic-just-lose-its-biggest-customer/",
+      "summary": "Cursor was Anthropic’s biggest customer. Cursor co-founder Aman Sanger said so in January 2025: &quot;We are without a doubt their largest customer.&quot;",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T12:24:37Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "vincent_s",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Cursor was Anthropic’s biggest customer. Cursor co-founder Aman Sanger said so in January 2025: &quot;We are without a doubt their largest customer.&quot;",
+      "author_name": "vincent_s"
+    },
+    {
+      "id": "50068870",
+      "title": "Anthropic warns AI models could soon copy themselves across home devices",
+      "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+      "summary": "Anthropic&#x27;s latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T09:17:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "cramer4next",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Anthropic&#x27;s latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
+      "author_name": "cramer4next"
+    },
+    {
+      "id": "50065553",
+      "title": "Strengthening our defenses against distillation attacks",
+      "url": "https://www.anthropic.com/research/distillation-defenses",
+      "summary": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-13T01:46:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 64,
+      "author": "porridgeraisin",
+      "likes": 35,
+      "views": 86,
+      "retweets": 0,
+      "text": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+      "author_name": "porridgeraisin"
     },
     {
       "id": "50054310",
@@ -304,24 +364,24 @@
       "author_name": "Bluestein"
     },
     {
-      "id": "50046117",
-      "title": "Anthropic is out with new nonsense about Claude",
-      "url": "https://dair-community.social/@emilymbender/117412868905734653",
-      "summary": "Prof. Emily M. Bender(she/her): &quot;Anthropic is out with new nonsense about Claude (…&quot; - Distributed AI Research Community",
+      "id": "50043132",
+      "title": "Artex AI, Claude agents used in cyberattacks on South Korean banks",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T18:16:54Z",
+      "publishedAt": "2026-10-11T13:31:44Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 39,
-      "author": "nobody9999",
-      "likes": 25,
-      "views": 31,
+      "score": 17,
+      "author": "Brajeshwar",
+      "likes": 1,
+      "views": 0,
       "retweets": 0,
-      "text": "Prof. Emily M. Bender(she/her): &quot;Anthropic is out with new nonsense about Claude (…&quot; - Distributed AI Research Community",
-      "author_name": "nobody9999"
+      "text": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
+      "author_name": "Brajeshwar"
     },
     {
       "id": "50041219",
@@ -342,66 +402,6 @@
       "retweets": 0,
       "text": "Runtime security layer for AI agents. Intercepts every tool calls, decides and execute the real actions without the agent never hold a credential. - Pryxor/pryxor",
       "author_name": "makan09"
-    },
-    {
-      "id": "50036718",
-      "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
-      "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
-      "summary": "Build cyber resilience with zero trust, AI security, ransomware recovery, cloud controls and practical implementation steps.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-10T20:17:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "senthil_kr",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Build cyber resilience with zero trust, AI security, ransomware recovery, cloud controls and practical implementation steps.",
-      "author_name": "senthil_kr"
-    },
-    {
-      "id": "50036711",
-      "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
-      "url": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
-      "summary": "A detailed 2026 playbook for AI browser agents, agentic SEO, AI search traffic, website visibility, analytics and security controls.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T20:17:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "senthil_kr",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A detailed 2026 playbook for AI browser agents, agentic SEO, AI search traffic, website visibility, analytics and security controls.",
-      "author_name": "senthil_kr"
-    },
-    {
-      "id": "50033190",
-      "title": "AI Agent Security: Six Controls from Nine Real Incidents",
-      "url": "https://blog.gitguardian.com/ai-agent-security-six-controls/",
-      "summary": "AI agents run with your credentials and act before you can stop them. Six AI agent security controls from nine real incidents, and what remains open.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-10T14:09:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "guedou",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI agents run with your credentials and act before you can stop them. Six AI agent security controls from nine real incidents, and what remains open.",
-      "author_name": "guedou"
     }
   ]
 }
