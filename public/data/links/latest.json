@@ -1,67 +1,267 @@
 {
-  "version": "2026-10-13T23:17:38.299Z",
-  "generatedAt": "2026-10-13T23:17:38.300Z",
+  "version": "2026-10-14T13:33:10.573Z",
+  "generatedAt": "2026-10-14T13:33:10.573Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50080091",
-      "title": "AI Face Rating – Discover Your Face Rating Free",
-      "url": "https://face-rating.app/",
-      "summary": "How does your face really rate? Upload a clear photo and get an AI-powered face rating in seconds — overall score, strongest feature, main limiter, and what to improve first.",
+      "id": "50087417",
+      "title": "The AI commerce era: 7 e-commerce leaders on what's still broken",
+      "url": "https://thenextweb.com/news/ai-commerce-gap-ecommerce-leaders-ai-agents",
+      "summary": "‘Tools like Data Dive are great at detecting problems, but they stop there.’ Amazon agency CEOs on the AI commerce gap and what comes next.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-13T22:54:09Z",
+      "publishedAt": "2026-10-14T13:25:05Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "zhamin246",
+      "author": "DanaKachan8",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "How does your face really rate? Upload a clear photo and get an AI-powered face rating in seconds — overall score, strongest feature, main limiter, and what to improve first.",
-      "author_name": "zhamin246"
+      "text": "‘Tools like Data Dive are great at detecting problems, but they stop there.’ Amazon agency CEOs on the AI commerce gap and what comes next.",
+      "author_name": "DanaKachan8"
     },
     {
-      "id": "50079980",
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "summary": "Microsoft has created a new Xbox Labs team to explore game decompiling. It’s an emerging trend that has seen games remixed together.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-13T22:44:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "ndiddy",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Microsoft has created a new Xbox Labs team to explore game decompiling. It’s an emerging trend that has seen games remixed together.",
-      "author_name": "ndiddy"
-    },
-    {
-      "id": "50079877",
-      "title": "AI bubble could burst and take global economy with it, IMF warns",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781",
-      "summary": "Financial watchdog fears AI spending bust could rattle markets, with mounting debt and cyberattacks adding to the headache",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-13T22:34:47Z",
+      "id": "50087289",
+      "title": "AI agent behavior drift analysis with Cloudflare Clef",
+      "url": "https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef",
+      "summary": "How Arcjet monitors AI coding agent sessions in real time, detecting risky actions and behavior drift with Cloudflare&#x27;s Clef decision model.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T13:17:14Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "joebuckwilliams",
+      "author": "dmytton",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "How Arcjet monitors AI coding agent sessions in real time, detecting risky actions and behavior drift with Cloudflare&#x27;s Clef decision model.",
+      "author_name": "dmytton"
+    },
+    {
+      "id": "50087127",
+      "title": "SpaceX activated 100mph speed-limit restriction on Starlink terminals in Ukraine",
+      "url": "https://bsky.app/profile/adamjschwarz.bsky.social/post/3mxsy6s4nt22m",
+      "summary": "Ukrainian presidential advisor Serhiy Beskrestnov confirms Elon Musk&#39;s Space X crippled Ukrainian capabilities last night. In other words, the US deliberately sabotaged European defence operations mid-mission. Every country in the world should move away from buying American hardware ASAP.",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-10-14T13:05:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "ck2",
+      "likes": 6,
+      "views": 4,
+      "retweets": 0,
+      "text": "Ukrainian presidential advisor Serhiy Beskrestnov confirms Elon Musk&#39;s Space X crippled Ukrainian capabilities last night. In other words, the US deliberately sabotaged European defence operations mid-mission. Every country in the world should move away from buying American hardware ASAP.",
+      "author_name": "ck2"
+    },
+    {
+      "id": "50086775",
+      "title": "Anthropic's 2021 Research Roadmap [pdf]",
+      "url": "https://i.smitop.com/concise-research-roadmap.pdf",
+      "summary": "%PDF-1.3 %���� 18 0 obj > endobj xref 18 6 0000000015 00000 n 0000000516 00000 n 0000000567 00000 n 0000000712 00000 n 0000000848 00000 n 0001459917 00000 n trailer ] >> startxref 0 %%EOF 19 0 obj > endobj 20 0 obj > stream x�c```f``2g```��� �\u0000\u000106\u0013\u0010�8�ܮ�_�WX�qfg�\u0013�\b�\u0000\u0012`�b\u0006�\u001c\u0006Q\u0006��\u0013�8\u0000�\u0000o�\u0012} endstream endobj 21 0 obj > >…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T12:39:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "yusufozkan",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "%PDF-1.3 %���� 18 0 obj > endobj xref 18 6 0000000015 00000 n 0000000516 00000 n 0000000567 00000 n 0000000712 00000 n 0000000848 00000 n 0001459917 00000 n trailer ] >> startxref 0 %%EOF 19 0 obj > endobj 20 0 obj > stream x�c```f``2g```��� �\u0000\u000106\u0013\u0010�8�ܮ�_�WX�qfg�\u0013�\b�\u0000\u0012`�b\u0006�\u001c\u0006Q\u0006��\u0013�8\u0000�\u0000o�\u0012} endstream endobj 21 0 obj > >…",
+      "author_name": "yusufozkan"
+    },
+    {
+      "id": "50086470",
+      "title": "AI researchers are taking up smoking to signal to other researchers",
+      "url": "https://twitter.com/firesidealpha/status/2109310806005596521",
+      "summary": "Palantir CTO reveals AI researchers are taking up smoking to signal to other researchers that they believe AI will cure cancer--and calls it a “mass psychosis” Shyam Sankar (CTO): “But if you understand that it’s actually a theological critique, then you can kind of weigh it against the empirical…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-14T12:15:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "bilsbie",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Palantir CTO reveals AI researchers are taking up smoking to signal to other researchers that they believe AI will cure cancer--and calls it a “mass psychosis” Shyam Sankar (CTO): “But if you understand that it’s actually a theological critique, then you can kind of weigh it against the empirical…",
+      "author_name": "bilsbie"
+    },
+    {
+      "id": "50086187",
+      "title": "Adventures installing Prusa INDX with LLM help",
+      "url": "https://blog.backslasher.net/indx-llm.html",
+      "summary": "In the last couple of weeks I’ve been working on upgrading my 3d printer. I have a Core One that I assembled from a kit, and I got an upgrade kit that includes the INDX and Gen2 upgrades.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T11:49:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "Backslasher",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "In the last couple of weeks I’ve been working on upgrading my 3d printer. I have a Core One that I assembled from a kit, and I got an upgrade kit that includes the INDX and Gen2 upgrades.",
+      "author_name": "Backslasher"
+    },
+    {
+      "id": "50084036",
+      "title": "One-year-old AI startup with six employees acquired for estimated $100M",
+      "url": "https://www.calcalistech.com/ctechnews/article/996lzw73e",
+      "summary": "Rocket Software has acquired Geniez AI, whose technology uses AI agents to help enterprises manage and modernize mainframe systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T08:05:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "myth_drannon",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Rocket Software has acquired Geniez AI, whose technology uses AI agents to help enterprises manage and modernize mainframe systems.",
+      "author_name": "myth_drannon"
+    },
+    {
+      "id": "50083904",
+      "title": "OpenAI pursues acquisition of Trail of Bits security firm",
+      "url": "https://www.digitaltoday.co.kr/en/view/114554/openai-pursues-acquisition-of-trail-of-bits-security-firm-that-fixes-open-source-vulnerabilities",
+      "summary": "OpenAI is pursuing an acquisition of Trail of Bits, a security company known for finding and fixing vulnerabilities in open-source software, The Information reported on Oct. 13 local time. OpenAI is in early talks with the company, though the discussions could fall apart, the report said, citing sources. Trail of Bits,…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T07:46:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "geox",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI is pursuing an acquisition of Trail of Bits, a security company known for finding and fixing vulnerabilities in open-source software, The Information reported on Oct. 13 local time. OpenAI is in early talks with the company, though the discussions could fall apart, the report said, citing sources. Trail of Bits,…",
+      "author_name": "geox"
+    },
+    {
+      "id": "50083552",
+      "title": "Man charged with planting 'sophisticated' recording device in OpenAI office",
+      "url": "https://www.bbc.com/news/articles/cwg5jq4vlddzo",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T07:06:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "wood_spirit",
+      "likes": 5,
+      "views": 4,
+      "retweets": 0,
+      "text": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "author_name": "wood_spirit"
+    },
+    {
+      "id": "50083322",
+      "title": "Anthropic 2021 Research Roadmap [pdf]",
+      "url": "https://i.sm4.ca/concise-research-roadmap.pdf",
+      "summary": "%PDF-1.3 %���� 18 0 obj > endobj xref 18 6 0000000015 00000 n 0000000516 00000 n 0000000567 00000 n 0000000712 00000 n 0000000848 00000 n 0001459917 00000 n trailer ] >> startxref 0 %%EOF 19 0 obj > endobj 20 0 obj > stream x�c```f``2g```��� �\u0000\u000106\u0013\u0010�8�ܮ�_�WX�qfg�\u0013�\b�\u0000\u0012`�b\u0006�\u001c\u0006Q\u0006��\u0013�8\u0000�\u0000o�\u0012} endstream endobj 21 0 obj > >…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T06:39:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "porridgeraisin",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "%PDF-1.3 %���� 18 0 obj > endobj xref 18 6 0000000015 00000 n 0000000516 00000 n 0000000567 00000 n 0000000712 00000 n 0000000848 00000 n 0001459917 00000 n trailer ] >> startxref 0 %%EOF 19 0 obj > endobj 20 0 obj > stream x�c```f``2g```��� �\u0000\u000106\u0013\u0010�8�ܮ�_�WX�qfg�\u0013�\b�\u0000\u0012`�b\u0006�\u001c\u0006Q\u0006��\u0013�8\u0000�\u0000o�\u0012} endstream endobj 21 0 obj > >…",
+      "author_name": "porridgeraisin"
+    },
+    {
+      "id": "50082962",
+      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+      "summary": "Self-replicating AI botnets could become feasible on IoT hardware within months, claims the Claude maker, if smaller models get smarter",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T05:53:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 80,
+      "author": "beardyw",
+      "likes": 66,
+      "views": 70,
+      "retweets": 0,
+      "text": "Self-replicating AI botnets could become feasible on IoT hardware within months, claims the Claude maker, if smaller models get smarter",
+      "author_name": "beardyw"
+    },
+    {
+      "id": "50082896",
+      "title": "OpenAI employee arrested after recording device found in office",
+      "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device",
+      "summary": "Discovery of &#x2018;sophisticated&#x2019; gadget adds to company&#x2019;s list of privacy concerns after hackings by rogue agents",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T05:45:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "beardyw",
       "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "Financial watchdog fears AI spending bust could rattle markets, with mounting debt and cyberattacks adding to the headache",
-      "author_name": "joebuckwilliams"
+      "text": "Discovery of &#x2018;sophisticated&#x2019; gadget adds to company&#x2019;s list of privacy concerns after hackings by rogue agents",
+      "author_name": "beardyw"
+    },
+    {
+      "id": "50082534",
+      "title": "An OpenAI Employee Used a Chatbot to Plant a Recording Device at the Office",
+      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-14T04:53:14Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "mikelgan",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "author_name": "mikelgan"
     },
     {
       "id": "50079528",
@@ -75,9 +275,9 @@
         "AI",
         "科技"
       ],
-      "score": 30,
+      "score": 31,
       "author": "gmays",
-      "likes": 1,
+      "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
@@ -95,153 +295,13 @@
         "AI",
         "科技"
       ],
-      "score": 34,
+      "score": 36,
       "author": "gafoor",
-      "likes": 3,
+      "likes": 5,
       "views": 0,
       "retweets": 0,
       "text": "OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic&#39;s Scion - tinyhumansai/openscion",
       "author_name": "gafoor"
-    },
-    {
-      "id": "50079177",
-      "title": "Saudi national charged with planting recording device in OpenAI office",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
-      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T21:36:07Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "dash2",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "author_name": "dash2"
-    },
-    {
-      "id": "50079145",
-      "title": "Anthropic warns models 'months away' from self-replication on smart devices",
-      "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
-      "summary": "Researchers say &#x2018;AI worms&#x2019; could soon infiltrate internet-connected devices amid calls for increased guardrails",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T21:33:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "skor",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "Researchers say &#x2018;AI worms&#x2019; could soon infiltrate internet-connected devices amid calls for increased guardrails",
-      "author_name": "skor"
-    },
-    {
-      "id": "50079102",
-      "title": "OpenSign – Free, self-hosted DocuSign alternative",
-      "url": "https://github.com/Rafail-Vasilakis/opensign",
-      "summary": "Free, open-source, self-hosted alternative to DocuSign with cryptographic audit trails, visual PDF field placement, and multi-signer routing - Rafail-Vasilakis/opensign",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-13T21:30:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "deserthawk",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Free, open-source, self-hosted alternative to DocuSign with cryptographic audit trails, visual PDF field placement, and multi-signer routing - Rafail-Vasilakis/opensign",
-      "author_name": "deserthawk"
-    },
-    {
-      "id": "50078937",
-      "title": "Saudi National Arrested for Installing Audio Recording Device at OpenAI",
-      "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
-      "summary": "An employee of OpenAI has been arrested for and charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T21:20:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "pluc",
-      "likes": 9,
-      "views": 1,
-      "retweets": 0,
-      "text": "An employee of OpenAI has been arrested for and charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications.",
-      "author_name": "pluc"
-    },
-    {
-      "id": "50078176",
-      "title": "Saudi national working at OpenAI arrested for bugging executive conference room",
-      "url": "https://bnonews.com/index.php/2026/10/saudi-national-working-at-openai-arrested-for-bugging-executive-conference-room/",
-      "summary": "An OpenAI engineer has been arrested after allegedly hiding a recording device in an executive conference room at the company’s San Francisco offices, according to federal prosecutors. OpenAI said it fired the employee and used its AI models to help identify who had planted the device. Abdulrahman Alfozan, 35, a Saudi…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T20:26:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 26,
-      "author": "amrrs",
-      "likes": 10,
-      "views": 5,
-      "retweets": 0,
-      "text": "An OpenAI engineer has been arrested after allegedly hiding a recording device in an executive conference room at the company’s San Francisco offices, according to federal prosecutors. OpenAI said it fired the employee and used its AI models to help identify who had planted the device. Abdulrahman Alfozan, 35, a Saudi…",
-      "author_name": "amrrs"
-    },
-    {
-      "id": "50078141",
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "summary": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132</a>",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T20:23:55Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 318,
-      "author": "forthwall",
-      "likes": 304,
-      "views": 260,
-      "retweets": 0,
-      "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132</a>",
-      "author_name": "forthwall"
-    },
-    {
-      "id": "50077703",
-      "title": "OpenAI finds recording device in one of their offices",
-      "url": "https://twitter.com/OpenAINewsroom/status/2110095403198849132",
-      "summary": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agen…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T19:55:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 98,
-      "author": "jaredwiener",
-      "likes": 81,
-      "views": 2,
-      "retweets": 0,
-      "text": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agen…",
-      "author_name": "jaredwiener"
     },
     {
       "id": "50076101",
@@ -255,73 +315,13 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 19,
       "author": "nlpnerd",
-      "likes": 1,
+      "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "You already gave the LLM the answer. So why is it writing it out from scratch? Introducing a new AI model architecture: Constrained Decoding Models (CDMs) LLMs were built to write. Most production workloads just need an answer: fast, consistent, and affordable. CDMs are purpose-built for 1 task…",
       "author_name": "nlpnerd"
-    },
-    {
-      "id": "50075344",
-      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce/",
-      "summary": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is&hellip;",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T17:22:33Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "runtimewire",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is&hellip;",
-      "author_name": "runtimewire"
-    },
-    {
-      "id": "50072346",
-      "title": "Anthropic offers £145k for London personal assistant amid AI agent boom",
-      "url": "https://www.cityam.com/anthropic-offers-145k-for-london-personal-assistant-amid-ai-agent-boom/",
-      "summary": "Anthropic, the company behind one of the world&rsquo;s most advanced AI assistants is offering &pound;145,000 for a human one in London",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-13T14:30:07Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "mirzap",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic, the company behind one of the world&rsquo;s most advanced AI assistants is offering &pound;145,000 for a human one in London",
-      "author_name": "mirzap"
-    },
-    {
-      "id": "50072094",
-      "title": "Palantir CTO AI says researchers started smoking, believing AI will cure cancer",
-      "url": "https://www.indiatoday.in/technology/news/story/palantir-cto-shyam-sankar-says-researchers-have-started-smoking-believing-ai-will-cure-cancer-3015224-2026-10-12",
-      "summary": "The AI industry is confident that AI will cure cancer. How confident? According to Palantir CTO Shyam Sankar, some AI researchers have started smoking in an effort to go all-in on the technology.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-13T14:12:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "theanonymousone",
-      "likes": 2,
-      "views": 3,
-      "retweets": 0,
-      "text": "The AI industry is confident that AI will cure cancer. How confident? According to Palantir CTO Shyam Sankar, some AI researchers have started smoking in an effort to go all-in on the technology.",
-      "author_name": "theanonymousone"
     },
     {
       "id": "50054310",
