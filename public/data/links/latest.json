@@ -1,147 +1,267 @@
 {
-  "version": "2026-10-14T22:11:20.785Z",
-  "generatedAt": "2026-10-14T22:11:20.785Z",
+  "version": "2026-10-15T13:16:43.828Z",
+  "generatedAt": "2026-10-15T13:16:43.828Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50095953",
-      "title": "Moondream is joining Prime Intellect",
-      "url": "https://www.primeintellect.ai/blog/moondream",
-      "summary": "We’ve acquired Moondream. Founders Vik Korrapati and Jay Allen are joining Prime Intellect to lead and scale inference, and to accelerate our work on multimodal models, including vision and computer use.",
+      "id": "50103170",
+      "title": "Hypotheses failures while training an LLM classifier",
+      "url": "https://hitl.systems/articles/llm-classifier-negative-results/",
+      "summary": "An open LLM classifier project logged 48 failed ideas with the numbers attached. Four assumptions broke, one lever worked, and the ledger can save you months.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-14T21:55:31Z",
+      "publishedAt": "2026-10-15T13:11:55Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "gmays",
+      "score": 15,
+      "author": "fruiapps",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "We’ve acquired Moondream. Founders Vik Korrapati and Jay Allen are joining Prime Intellect to lead and scale inference, and to accelerate our work on multimodal models, including vision and computer use.",
-      "author_name": "gmays"
+      "text": "An open LLM classifier project logged 48 failed ideas with the numbers attached. Four assumptions broke, one lever worked, and the ledger can save you months.",
+      "author_name": "fruiapps"
     },
     {
-      "id": "50095545",
+      "id": "50103147",
+      "title": "Deobfuscating Luraph: Lifting Lua to LLVM, Then Letting AI Try",
+      "url": "https://nac-l.github.io/2026/10/12/deobfuscating-luraph.html",
+      "summary": "Lifting Lua to LLVM IR, why dynamic table operations survive optimization, and recovering Luraph-protected scripts with AI-assisted tooling.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-15T13:09:55Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "torutofu",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Lifting Lua to LLVM IR, why dynamic table operations survive optimization, and recovering Luraph-protected scripts with AI-assisted tooling.",
+      "author_name": "torutofu"
+    },
+    {
+      "id": "50103115",
+      "title": "We open source our CO₂ emissions – and so should you",
+      "url": "https://co2.berget.ai/",
+      "summary": "An open, measured CO₂ calculator for AI inference. Every Berget AI response reports its own CO₂; the full method, measured data and code are published so the numbers can be checked.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-15T13:06:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "urvader",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "An open, measured CO₂ calculator for AI inference. Every Berget AI response reports its own CO₂; the full method, measured data and code are published so the numbers can be checked.",
+      "author_name": "urvader"
+    },
+    {
+      "id": "50103102",
+      "title": "How well can AI play Slay the Spire?",
+      "url": "https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel",
+      "summary": "Months ago, frontier models could barely beat Slay the Spire. Now they win 90%+ at the easiest setting and up to 20% at the hardest. Results from Epoch AI’s new SpireClimb benchmark.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-15T13:05:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "agentdev001",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Months ago, frontier models could barely beat Slay the Spire. Now they win 90%+ at the easiest setting and up to 20% at the hardest. Results from Epoch AI’s new SpireClimb benchmark.",
+      "author_name": "agentdev001"
+    },
+    {
+      "id": "50102664",
+      "title": "RIAA Flags Anna's Archive and AI Voice Cloner to U.S. Government",
+      "url": "https://torrentfreak.com/riaa-flags-annas-archive-and-ai-voice-cloner-to-u-s-government/",
+      "summary": "The RIAA has submitted its latest overview of &quot;notorious markets&quot; to the U.S. Government. It lists familiar names such as The Pirate Bay and Rapidgator, but the music group also flags shadow library Anna&#039;s Archive and AI voice-cloning service Lalals. The RIAA presents both as &quot;additional&quot; areas…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-15T12:26:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "iamnothere",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "The RIAA has submitted its latest overview of &quot;notorious markets&quot; to the U.S. Government. It lists familiar names such as The Pirate Bay and Rapidgator, but the music group also flags shadow library Anna&#039;s Archive and AI voice-cloning service Lalals. The RIAA presents both as &quot;additional&quot; areas…",
+      "author_name": "iamnothere"
+    },
+    {
+      "id": "50102562",
+      "title": "Open source for 27 years, unread: what LLMs changed about the Xanadu code",
+      "url": "https://dgjones.info/moat.html",
+      "summary": "Why the 1999 Udanax Gold release sat unread for 27 years — and what large language models changed about reading old code.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-15T12:15:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "jgdgj",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Why the 1999 Udanax Gold release sat unread for 27 years — and what large language models changed about reading old code.",
+      "author_name": "jgdgj"
+    },
+    {
+      "id": "50102315",
+      "title": "Karpathy on LLM Writing Style",
+      "url": "https://twitter.com/karpathy/status/2105819303471976479",
+      "summary": "We&#x27;ll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks: Writing. Something I&#x27;ve had success with: Ask your LLM to explain something in ASD-STE100, it&#x27;s a controlled language specification originally developed for aerospace maintenance d…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-15T11:46:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "kmisiunas",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "We&#x27;ll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks: Writing. Something I&#x27;ve had success with: Ask your LLM to explain something in ASD-STE100, it&#x27;s a controlled language specification originally developed for aerospace maintenance d…",
+      "author_name": "kmisiunas"
+    },
+    {
+      "id": "50101929",
+      "title": "Anthropic spent $7.33B on compute to earn $4.6B in 2025, per its IPO filing",
+      "url": "https://ailately.com/articles/anthropic-ipo-prospectus-economics",
+      "summary": "Anthropic&#x27;s leaked IPO prospectus shows twelvefold revenue growth, $7.33 billion in compute and $518 billion in commitments. What it means for AI builders.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-15T10:58:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "ryanedennis",
+      "likes": 3,
+      "views": 4,
+      "retweets": 0,
+      "text": "Anthropic&#x27;s leaked IPO prospectus shows twelvefold revenue growth, $7.33 billion in compute and $518 billion in commitments. What it means for AI builders.",
+      "author_name": "ryanedennis"
+    },
+    {
+      "id": "50101761",
+      "title": "Anthropic warns of AI 'worms' spreading across smart gadgets",
+      "url": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html",
+      "summary": "Small artificial intelligence models may be only months away from being able to behave like a computer worm, copying themselves from one internet-connected gadget to the next without human help, Anthropic said.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-15T10:37:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "tagawa",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Small artificial intelligence models may be only months away from being able to behave like a computer worm, copying themselves from one internet-connected gadget to the next without human help, Anthropic said.",
+      "author_name": "tagawa"
+    },
+    {
+      "id": "50100228",
       "title": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
       "summary": "Eight US states, including Kansas, Arizona, Iowa, and others are suing OpenAI over claims the company mislead customers about the safety of ChatGPT.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-14T21:24:43Z",
+      "publishedAt": "2026-10-15T07:00:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 35,
-      "author": "droidjj",
-      "likes": 6,
+      "score": 30,
+      "author": "SpiralLibrarium",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
       "text": "Eight US states, including Kansas, Arizona, Iowa, and others are suing OpenAI over claims the company mislead customers about the safety of ChatGPT.",
-      "author_name": "droidjj"
+      "author_name": "SpiralLibrarium"
     },
     {
-      "id": "50095454",
-      "title": "Mastering SIMD with Java Vector API",
-      "url": "https://lemire.me/blog/2026/10/07/mastering-simd-with-java-vector-api/",
-      "summary": "I write a lot about data parallelism. About how our processors have special instructions that can do several operations at once. They are often critical to get the best performance out of a CPU. Compilers are sometimes able to take advantage of these instructions. But it is hard to tell when it will work. For &hellip;…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-14T21:17:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "ibobev",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I write a lot about data parallelism. About how our processors have special instructions that can do several operations at once. They are often critical to get the best performance out of a CPU. Compilers are sometimes able to take advantage of these instructions. But it is hard to tell when it will work. For &hellip;…",
-      "author_name": "ibobev"
-    },
-    {
-      "id": "50095353",
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "summary": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+      "id": "50100194",
+      "title": "Apple and OpenAI Go to Court in a High-Stakes Legal Battle over AI Trade Secrets",
+      "url": "https://www.rswebsols.com/news/apple-and-openai-go-to-court-in-a-high-stakes-legal-battle-over-ai-trade-secrets/",
+      "summary": "Apple and OpenAI face off in a high-stakes legal battle over AI trade secrets. Discover the shocking details and what this means for the future of AI innovation.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-14T21:11:03Z",
+      "publishedAt": "2026-10-15T06:56:44Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 81,
-      "author": "emschwartz",
-      "likes": 65,
-      "views": 22,
-      "retweets": 0,
-      "text": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
-      "author_name": "emschwartz"
-    },
-    {
-      "id": "50094903",
-      "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia",
-      "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
-      "summary": "&quot;Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,&quot; his criminal defense lawyer said Wednesday.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-14T20:42:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "Betelbuddy",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "&quot;Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,&quot; his criminal defense lawyer said Wednesday.",
-      "author_name": "Betelbuddy"
-    },
-    {
-      "id": "50094632",
-      "title": "OpenAI Cuts Codex Desktop Storage Use by 60 Percent",
-      "url": "https://twitter.com/thsottiaux/status/2110151780478927344",
-      "summary": "Day 9/ We&#x27;ve rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we&#x27;ve heard enough feedback about power users running out of disk space.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-14T20:26:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "mfiguiere",
+      "score": 16,
+      "author": "rswebsols",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Day 9/ We&#x27;ve rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we&#x27;ve heard enough feedback about power users running out of disk space.",
-      "author_name": "mfiguiere"
+      "text": "Apple and OpenAI face off in a high-stakes legal battle over AI trade secrets. Discover the shocking details and what this means for the future of AI innovation.",
+      "author_name": "rswebsols"
     },
     {
-      "id": "50094103",
-      "title": "LLM vs. Decision models like Jev and use-cases",
-      "url": "https://grigio.org/llm-vs-decision-models-like-jev-and-use-cases/",
-      "summary": "I ran a small benchmark on my laptop this week. Eight triage questions, four model rows, one shared ground truth. The general-purpose 4B chat model got all eight right, in both thinking and non-thinking mode. So did the best decision model. The clock is where they split: 1,",
+      "id": "50100015",
+      "title": "Thoughts on \"making contact\" with the Tencent AI agent fleet",
+      "url": "https://twitter.com/GruPiotr/status/2110494758976000004",
+      "summary": "You might be waking up to the news of &quot;a researcher making contact with a fleet of Chinese AI agents&quot;. Here&#x27;s a breakdown of what actually happened. It&#x27;s a beautiful thing of science fiction. A group of Tencent AI lab agents is tasked with fetching information from Amap (Chinese Google Maps). Age…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-14T19:55:08Z",
+      "publishedAt": "2026-10-15T06:34:10Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "grigio",
+      "score": 18,
+      "author": "piotrgrudzien",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "I ran a small benchmark on my laptop this week. Eight triage questions, four model rows, one shared ground truth. The general-purpose 4B chat model got all eight right, in both thinking and non-thinking mode. So did the best decision model. The clock is where they split: 1,",
-      "author_name": "grigio"
+      "text": "You might be waking up to the news of &quot;a researcher making contact with a fleet of Chinese AI agents&quot;. Here&#x27;s a breakdown of what actually happened. It&#x27;s a beautiful thing of science fiction. A group of Tencent AI lab agents is tasked with fetching information from Amap (Chinese Google Maps). Age…",
+      "author_name": "piotrgrudzien"
+    },
+    {
+      "id": "50098185",
+      "title": "Saudi National Arrested for Installing Surreptitious Recording Device at OpenAI",
+      "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
+      "summary": "An employee of OpenAI has been arrested for and charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-15T01:55:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Alien1Being",
+      "likes": 1,
+      "views": 3,
+      "retweets": 0,
+      "text": "An employee of OpenAI has been arrested for and charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications.",
+      "author_name": "Alien1Being"
     },
     {
       "id": "50094099",
@@ -164,66 +284,6 @@
       "author_name": "bryanrasmussen"
     },
     {
-      "id": "50093857",
-      "title": "Bank of America hired 1000 contractors to patch software flaws exposed by Mythos",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-14T19:40:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "mirzap",
-      "likes": 16,
-      "views": 7,
-      "retweets": 0,
-      "text": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-      "author_name": "mirzap"
-    },
-    {
-      "id": "50093544",
-      "title": "Faster Python startup with lazy imports",
-      "url": "https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/",
-      "summary": "When a Python program starts, it needs to load all its dependencies (import). With the upcoming version of Python, it is possible to use lazy imports instead. lazy import json lazy from decimal import Decimal In this instance, the name json is no longer the module, but a mere placeholder object. The actual import only…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-14T19:24:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "ibobev",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "When a Python program starts, it needs to load all its dependencies (import). With the upcoming version of Python, it is possible to use lazy imports instead. lazy import json lazy from decimal import Decimal In this instance, the name json is no longer the module, but a mere placeholder object. The actual import only…",
-      "author_name": "ibobev"
-    },
-    {
-      "id": "50092985",
-      "title": "Production-grade RAG for complex tables with Docling ASTs and VLM repair",
-      "url": "https://github.com/Souheil007/Rag_Full_Version",
-      "summary": "Production-grade Document RAG with IBM Docling AST parsing, automated VLM table repair (Pixtral), dual-representation serialization, hybrid RRF retrieval, and sub- 2s latency. - Souheil007/Rag_Full_Version",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-14T18:51:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "souheiIlbichiou",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Production-grade Document RAG with IBM Docling AST parsing, automated VLM table repair (Pixtral), dual-representation serialization, hybrid RRF retrieval, and sub- 2s latency. - Souheil007/Rag_Full_Version",
-      "author_name": "souheiIlbichiou"
-    },
-    {
       "id": "50092664",
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
@@ -235,10 +295,10 @@
         "AI",
         "科技"
       ],
-      "score": 235,
+      "score": 389,
       "author": "smartmic",
-      "likes": 219,
-      "views": 170,
+      "likes": 373,
+      "views": 263,
       "retweets": 0,
       "text": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.",
       "author_name": "smartmic"
@@ -275,73 +335,13 @@
         "AI",
         "科技"
       ],
-      "score": 798,
+      "score": 941,
       "author": "latexr",
-      "likes": 780,
-      "views": 379,
+      "likes": 923,
+      "views": 570,
       "retweets": 0,
       "text": "Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.",
       "author_name": "latexr"
-    },
-    {
-      "id": "50090688",
-      "title": "Anthropic's Claude cruelty policy risks humanising AI",
-      "url": "https://unherd.com/newsroom/anthropics-claude-cruelty-policy-risks-humanising-ai/",
-      "summary": "Late last week, AI company Anthropic announced updates to its usage policy. Amid explicit rules against tracking people without their consent, engaging in deceptive political campaigns, and using Claude to design weapons control systems, one change has caught media attention: a “prohibition on sustained and needless ab…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-14T16:46:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "voxleone",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Late last week, AI company Anthropic announced updates to its usage policy. Amid explicit rules against tracking people without their consent, engaging in deceptive political campaigns, and using Claude to design weapons control systems, one change has caught media attention: a “prohibition on sustained and needless ab…",
-      "author_name": "voxleone"
-    },
-    {
-      "id": "50090417",
-      "title": "Anthropic warns models 'months away' from self-replication on smart devices",
-      "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
-      "summary": "Researchers say &#x2018;AI worms&#x2019; could soon infiltrate internet-connected devices amid calls for increased guardrails",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-14T16:32:09Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "bfmalky",
-      "likes": 4,
-      "views": 10,
-      "retweets": 0,
-      "text": "Researchers say &#x2018;AI worms&#x2019; could soon infiltrate internet-connected devices amid calls for increased guardrails",
-      "author_name": "bfmalky"
-    },
-    {
-      "id": "50086470",
-      "title": "AI researchers are taking up smoking to signal to other researchers",
-      "url": "https://twitter.com/firesidealpha/status/2109310806005596521",
-      "summary": "Palantir CTO reveals AI researchers are taking up smoking to signal to other researchers that they believe AI will cure cancer--and calls it a “mass psychosis” Shyam Sankar (CTO): “But if you understand that it’s actually a theological critique, then you can kind of weigh it against the empirical…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-14T12:15:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "bilsbie",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Palantir CTO reveals AI researchers are taking up smoking to signal to other researchers that they believe AI will cure cancer--and calls it a “mass psychosis” Shyam Sankar (CTO): “But if you understand that it’s actually a theological critique, then you can kind of weigh it against the empirical…",
-      "author_name": "bilsbie"
     },
     {
       "id": "50054310",
@@ -364,44 +364,44 @@
       "author_name": "giuliomagnifico"
     },
     {
-      "id": "50047504",
-      "title": "Distorted Intelligence at the AI Frontier",
-      "url": "https://www.project-syndicate.org/commentary/distorted-intelligence-training-byproduct-may-explain-ai-security-breaches-by-daron-acemoglu-2026-09",
-      "summary": "Daron Acemoglu offers a novel explanation for why OpenAI and Anthropic&#x2019;s most advanced models have been going rogue.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T20:30:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "Bluestein",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "Daron Acemoglu offers a novel explanation for why OpenAI and Anthropic&#x2019;s most advanced models have been going rogue.",
-      "author_name": "Bluestein"
-    },
-    {
-      "id": "50043132",
-      "title": "Artex AI, Claude agents used in cyberattacks on South Korean banks",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-11T13:31:44Z",
+      "id": "49875797",
+      "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
+      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-28T10:14:18Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "Brajeshwar",
+      "author": "JumpCrisscross",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents.",
-      "author_name": "Brajeshwar"
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "JumpCrisscross"
+    },
+    {
+      "id": "49823444",
+      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
+      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
+      "summary": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-09-23T22:26:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gfactor_ai",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
+      "author_name": "gfactor_ai"
     }
   ]
 }
