@@ -1,47 +1,187 @@
 {
-  "version": "2026-10-17T16:17:10.363Z",
-  "generatedAt": "2026-10-17T16:17:10.363Z",
+  "version": "2026-10-17T21:22:47.188Z",
+  "generatedAt": "2026-10-17T21:22:47.188Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50132169",
-      "title": "I Tested AI Cloning and It's Worse Than You Think",
-      "url": "https://www.youtube.com/watch?v=KC31K-CUC5Y",
+      "id": "50135051",
+      "title": "Videographer tries AI editing with MCP DaVinci Resolve connector",
+      "url": "https://www.youtube.com/watch?v=4nQGiRCUlDg",
       "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-17T15:52:30Z",
+      "publishedAt": "2026-10-17T20:56:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "Betelbuddy",
+      "author": "fallinditch",
       "likes": 1,
       "views": 0,
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "Betelbuddy"
+      "author_name": "fallinditch"
     },
     {
-      "id": "50132119",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "summary": "OpenAI, Meta, Google, and others are positioning AI agents as personal assistants that can perform a range of tasks online. But the web is becoming increasingly unfriendly toward agents, undermining their usefulness.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T15:47:38Z",
+      "id": "50134792",
+      "title": "LOL Fuck AI by xplsv – a vibecoded demo",
+      "url": "https://xplsv.github.io/lolfuckai/",
+      "summary": "A 100% vibecoded Three.js 3D demoscene production by XPLSV, synced to Locked Club - GRANDFATHER SLEEPS LOUD and celebrating Pouët",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-10-17T20:25:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "Brajeshwar",
+      "score": 15,
+      "author": "knoke",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "A 100% vibecoded Three.js 3D demoscene production by XPLSV, synced to Locked Club - GRANDFATHER SLEEPS LOUD and celebrating Pouët",
+      "author_name": "knoke"
+    },
+    {
+      "id": "50134363",
+      "title": "Letter to Anthropic Re: Planned Initial Public Offering",
+      "url": "https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/",
+      "summary": "Dario Amodei Chief Executive Officer Anthropic, PBC 500 Howard Street San Francisco, California Dear Mr. Amodei: I write to urge Anthropic to pause its planned initial public offering (IPO) until the company fully and transparently addresses the artificial intelligence (AI) safety, governance, and development pace conc…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T19:38:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 28,
+      "author": "akeck",
+      "likes": 10,
+      "views": 1,
+      "retweets": 0,
+      "text": "Dario Amodei Chief Executive Officer Anthropic, PBC 500 Howard Street San Francisco, California Dear Mr. Amodei: I write to urge Anthropic to pause its planned initial public offering (IPO) until the company fully and transparently addresses the artificial intelligence (AI) safety, governance, and development pace conc…",
+      "author_name": "akeck"
+    },
+    {
+      "id": "50134215",
+      "title": "Apple releases RSI-Inference: evaluating agents for self-improving LLM inference",
+      "url": "https://twitter.com/onloglogn/status/2111170954944823685",
+      "summary": "Introducing RSI-Inference Bench from 🍎 Apple ML Research 🌐 https://t.co/fHQnUuJ3fY 💻 https://t.co/RXJj558Sgx Can AI agents improve the systems that run AI? We spent $100K API tokens, 50K GPU hours to find out. We built environments and benchmark from real-world #vLLM and #SGLang tasks, coverin…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T19:23:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "low-rank",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "OpenAI, Meta, Google, and others are positioning AI agents as personal assistants that can perform a range of tasks online. But the web is becoming increasingly unfriendly toward agents, undermining their usefulness.",
-      "author_name": "Brajeshwar"
+      "text": "Introducing RSI-Inference Bench from 🍎 Apple ML Research 🌐 https://t.co/fHQnUuJ3fY 💻 https://t.co/RXJj558Sgx Can AI agents improve the systems that run AI? We spent $100K API tokens, 50K GPU hours to find out. We built environments and benchmark from real-world #vLLM and #SGLang tasks, coverin…",
+      "author_name": "low-rank"
+    },
+    {
+      "id": "50133989",
+      "title": "Why Anthropic Is Asking for a Rehearing En Banc",
+      "url": "https://www.lawfaremedia.org/article/why-anthropic-is-asking-for-a-rehearing-en-banc",
+      "summary": "The D.C. Circuit relied on a dictionary for key parts of its ruling against Anthropic. Congress’s own words tell a different story about the threats the law was designed to address.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T19:00:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "hn_acker",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "The D.C. Circuit relied on a dictionary for key parts of its ruling against Anthropic. Congress’s own words tell a different story about the threats the law was designed to address.",
+      "author_name": "hn_acker"
+    },
+    {
+      "id": "50133964",
+      "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
+      "url": "https://nono.sh",
+      "summary": "capability-based, policy-governed runtime for AI agents, with kernel-enforced isolation, network filtering, immutable auditing, and atomic rollbacks for AI agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T18:58:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "pessimizer",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "capability-based, policy-governed runtime for AI agents, with kernel-enforced isolation, network filtering, immutable auditing, and atomic rollbacks for AI agents.",
+      "author_name": "pessimizer"
+    },
+    {
+      "id": "50133274",
+      "title": "Israeli settlers attack European diplomatic cars in West Bank beat French mayor",
+      "url": "https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html",
+      "summary": "Cars from the French, Belgian and Polish missions had brought diplomats to visit Taybeh, a largely Christian village in the occupied West Bank, when settlers descended to stop Palestinians from gathering olives, witnesses said.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-10-17T17:49:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 117,
+      "author": "Betelbuddy",
+      "likes": 99,
+      "views": 13,
+      "retweets": 0,
+      "text": "Cars from the French, Belgian and Polish missions had brought diplomats to visit Taybeh, a largely Christian village in the occupied West Bank, when settlers descended to stop Palestinians from gathering olives, witnesses said.",
+      "author_name": "Betelbuddy"
+    },
+    {
+      "id": "50133269",
+      "title": "Anthropic says its AI model submitted a false case tip to Philadelphia police",
+      "url": "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
+      "summary": "The bad tip “had minimal impact,” but Anthropic said it takes the action seriously, as “the same behaviors could do far more harm as models become more powerful.”",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T17:48:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "felineflock",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "The bad tip “had minimal impact,” but Anthropic said it takes the action seriously, as “the same behaviors could do far more harm as models become more powerful.”",
+      "author_name": "felineflock"
+    },
+    {
+      "id": "50133231",
+      "title": "Codex is EATING my Mac's disk space",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "summary": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T17:45:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 47,
+      "author": "AIorNot",
+      "likes": 16,
+      "views": 4,
+      "retweets": 0,
+      "text": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...",
+      "author_name": "AIorNot"
     },
     {
       "id": "50131912",
@@ -55,53 +195,13 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 18,
       "author": "mhw",
-      "likes": 1,
+      "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "OpenAI has been throwing everything at solving long-standing maths problems. This should have been a glorious moment for mathematicians – but instead we&#039;re having a massive collective wobble, says New Scientist&#039;s new columnist, Professor Hannah Fry",
       "author_name": "mhw"
-    },
-    {
-      "id": "50131853",
-      "title": "He Wants AI Benchmarking to Be a Science, Not a Dark Art",
-      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-17T15:14:07Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "sonabinu",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable.",
-      "author_name": "sonabinu"
-    },
-    {
-      "id": "50131799",
-      "title": "Perceptors AI – turning clinical expertise into reviewed courses",
-      "url": "https://www.perceptors.ai/",
-      "summary": "Perceptors is an applied-AI edtech company for healthcare education: forward-deployed edtech engineers work with your faculty to turn expert knowledge into reviewed courses, assessments and guided learning.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-17T15:08:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "fadyhs",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Perceptors is an applied-AI edtech company for healthcare education: forward-deployed edtech engineers work with your faculty to turn expert knowledge into reviewed courses, assessments and guided learning.",
-      "author_name": "fadyhs"
     },
     {
       "id": "50131320",
@@ -135,59 +235,19 @@
         "AI",
         "科技"
       ],
-      "score": 15,
+      "score": 16,
       "author": "khalidkhair",
-      "likes": 1,
+      "likes": 2,
       "views": 2,
       "retweets": 0,
       "text": "Microsoft AI CEO said its latest AI model outperforms an OpenAI base model on certain pre-training metrics using a quarter of the compute.",
       "author_name": "khalidkhair"
     },
     {
-      "id": "50131060",
-      "title": "Prior-Data Gravity and Framework Reabsorption: A Behavioral Theory of LLMs",
-      "url": "https://zenodo.org/records/23431917",
-      "summary": "Large language models are routinely evaluated through fluency, factual accuracy, relevance, and task completion. Yet these measures do not establish whether a researcher’s conceptual framework survives generation intact. Generated text retains recognizable terminology even as the relationships, boundaries, exclusions,…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T13:35:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "RhizomaticMind",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Large language models are routinely evaluated through fluency, factual accuracy, relevance, and task completion. Yet these measures do not establish whether a researcher’s conceptual framework survives generation intact. Generated text retains recognizable terminology even as the relationships, boundaries, exclusions,…",
-      "author_name": "RhizomaticMind"
-    },
-    {
-      "id": "50130277",
-      "title": "Cookbook to use LLMs effectively for sciences, in various levels of expertise",
-      "url": "https://github.com/NASA-IMPACT/LLM-cookbook-for-open-science",
-      "summary": "Cookbook to use LLMs effectively for sciences, in various levels of expertise - NASA-IMPACT/LLM-cookbook-for-open-science",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T11:53:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "Anon84",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Cookbook to use LLMs effectively for sciences, in various levels of expertise - NASA-IMPACT/LLM-cookbook-for-open-science",
-      "author_name": "Anon84"
-    },
-    {
       "id": "50129206",
       "title": "Replit is no longer working with Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
       "publishedAt": "2026-10-17T08:56:42Z",
       "source": "Hacker News",
@@ -200,7 +260,7 @@
       "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "text": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
       "author_name": "dgellow"
     },
     {
@@ -235,9 +295,9 @@
         "AI",
         "科技"
       ],
-      "score": 39,
+      "score": 43,
       "author": "swolpers",
-      "likes": 8,
+      "likes": 12,
       "views": 3,
       "retweets": 0,
       "text": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
@@ -284,26 +344,6 @@
       "author_name": "bennialencar"
     },
     {
-      "id": "50122951",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "summary": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn&#x27;t raise reverts or incidents.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T19:04:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 442,
-      "author": "pretext",
-      "likes": 426,
-      "views": 404,
-      "retweets": 0,
-      "text": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn&#x27;t raise reverts or incidents.",
-      "author_name": "pretext"
-    },
-    {
       "id": "50121140",
       "title": "Getting Started with TanStack AI: Setup and Basics",
       "url": "https://blog.master.dev/unlocking-ai-in-your-apps-with-tanstack-ai/",
@@ -344,44 +384,24 @@
       "author_name": "nycdatasci"
     },
     {
-      "id": "50119031",
-      "title": "Booking Holdings unveils AI travel startup Vayo",
-      "url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/",
-      "summary": "Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T14:47:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "boa00",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.",
-      "author_name": "boa00"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "id": "50094099",
+      "title": "Auditory processing strategies in humans and zebra finches",
+      "url": "https://www.nature.com/articles/s42003-026-11035-9",
+      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
+      "publishedAt": "2026-10-14T19:55:04Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "mooreds",
-      "likes": 4,
-      "views": 0,
+      "author": "bryanrasmussen",
+      "likes": 2,
+      "views": 1,
       "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
+      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "author_name": "bryanrasmussen"
     }
   ]
 }
