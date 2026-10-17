@@ -1,207 +1,287 @@
 {
-  "version": "2026-10-16T21:59:43.422Z",
-  "generatedAt": "2026-10-16T21:59:43.422Z",
+  "version": "2026-10-17T12:05:37.648Z",
+  "generatedAt": "2026-10-17T12:05:37.648Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50125213",
-      "title": "Modern Aquaculture's Invisible Cost: Its Putrid Stench",
-      "url": "https://insideclimatenews.org/news/16102026/aquaculture-fismeal-plants-air-stench/",
-      "summary": "One burden of the West’s aquaculture industry is created in the factories of poor countries, where communities live with foul air, disrupted sleep and the stench of rotting fish.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-16T21:49:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "paimapi",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "One burden of the West’s aquaculture industry is created in the factories of poor countries, where communities live with foul air, disrupted sleep and the stench of rotting fish.",
-      "author_name": "paimapi"
-    },
-    {
-      "id": "50125204",
-      "title": "Assessing AI agents at autonomous theoretical physics problem solving",
-      "url": "https://arxiv.org/abs/2610.16733",
-      "summary": "Abstract page for arXiv paper 2610.16733: TheoPhysEval: Assessing AI agents at autonomous theoretical physics problem solving",
+      "id": "50130277",
+      "title": "Cookbook to use LLMs effectively for sciences, in various levels of expertise",
+      "url": "https://github.com/NASA-IMPACT/LLM-cookbook-for-open-science",
+      "summary": "Cookbook to use LLMs effectively for sciences, in various levels of expertise - NASA-IMPACT/LLM-cookbook-for-open-science",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T21:48:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "thunderbong",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2610.16733: TheoPhysEval: Assessing AI agents at autonomous theoretical physics problem solving",
-      "author_name": "thunderbong"
-    },
-    {
-      "id": "50125160",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T21:44:10Z",
+      "publishedAt": "2026-10-17T11:53:27Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 30,
-      "author": "ilamont",
+      "author": "Anon84",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "author_name": "ilamont"
+      "text": "Cookbook to use LLMs effectively for sciences, in various levels of expertise - NASA-IMPACT/LLM-cookbook-for-open-science",
+      "author_name": "Anon84"
     },
     {
-      "id": "50124777",
-      "title": "Open weight takes 71.5% of tokens and 23% of spend",
-      "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
-      "summary": "The October 2026 AI Gateway production index covering data from September 2026: Open-weight models process more than seven in ten gateway tokens and take nearly one in four dollars; AI spend is up 13x while the cost per token halves",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T21:11:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "gmays",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "The October 2026 AI Gateway production index covering data from September 2026: Open-weight models process more than seven in ten gateway tokens and take nearly one in four dollars; AI spend is up 13x while the cost per token halves",
-      "author_name": "gmays"
-    },
-    {
-      "id": "50124514",
-      "title": "Benchmarking open-source LLMs on Verilog RTL generation across 50 tasks",
-      "url": "https://semiengineering.com/benchmarking-open-source-llms-on-verilog-rtl-generation-across-50-tasks-nmims-iit-roorkee-bits-pilani/",
-      "summary": "Researchers from NMIMS Hyderabad, IIT Roorkee, and BITS Pilani published a technical paper titled “Benchmarking LLMs for Verilog Design Flows.” Abstract Excerpt: The paper presents “aa reproducible benchmarking platform that evaluates open-source LLMs on Verilog RTL generation across 50 curated tasks consisting of comb…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T20:53:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "i_like_pcbs",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Researchers from NMIMS Hyderabad, IIT Roorkee, and BITS Pilani published a technical paper titled “Benchmarking LLMs for Verilog Design Flows.” Abstract Excerpt: The paper presents “aa reproducible benchmarking platform that evaluates open-source LLMs on Verilog RTL generation across 50 curated tasks consisting of comb…",
-      "author_name": "i_like_pcbs"
-    },
-    {
-      "id": "50124458",
-      "title": "AI Vibe-Coding Just Hit the Video Game Industry Like an Avalanche",
-      "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
-      "summary": "We spoke to Take-Two’s former head of AI and Godot Engine’s executive director about the Claude Opus–shaped problem that the industry is currently facing",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T20:49:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "bryan0",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "We spoke to Take-Two’s former head of AI and Godot Engine’s executive director about the Claude Opus–shaped problem that the industry is currently facing",
-      "author_name": "bryan0"
-    },
-    {
-      "id": "50124177",
-      "title": "Analytics engine based on LSM Tree",
-      "url": "https://github.com/ZoneTree/ZoneTree.Analytics",
-      "summary": "ZoneTree.Analytics is an analytics engine that records page views, sessions, custom events, telemetry and business metrics, and answers dashboard queries in milliseconds, with no analytics server, no external database and no dependency other than ZoneTree. - ZoneTree/ZoneTree.Analytics",
+      "id": "50130191",
+      "title": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
+      "url": "https://github.com/rajbos/ai-engineering-fluency",
+      "summary": "Extension that shows information about the estimated token usage and more of AI in editors/CLI&#39;s - GitHub - rajbos/ai-engineering-fluency: Extension that shows information about the estimated token usage and more of AI in editors/CLI&#39;s",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-16T20:29:03Z",
+      "publishedAt": "2026-10-17T11:42:54Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 29,
-      "author": "koculu",
+      "score": 32,
+      "author": "robbos",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "ZoneTree.Analytics is an analytics engine that records page views, sessions, custom events, telemetry and business metrics, and answers dashboard queries in milliseconds, with no analytics server, no external database and no dependency other than ZoneTree. - ZoneTree/ZoneTree.Analytics",
-      "author_name": "koculu"
+      "text": "Extension that shows information about the estimated token usage and more of AI in editors/CLI&#39;s - GitHub - rajbos/ai-engineering-fluency: Extension that shows information about the estimated token usage and more of AI in editors/CLI&#39;s",
+      "author_name": "robbos"
     },
     {
-      "id": "50124164",
-      "title": "Ross Douthat: How to Survive the Robot Apocalypse",
-      "url": "https://www.thefp.com/p/ross-douthat-how-to-survive-the-robot-apocalypse-ai-tech-doom",
-      "summary": "The prophets of AI doom have outlined the ways the technology might kill us all in a series of gripping yarns, writes Ross Douthat. Are they convincing?",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-10-16T20:28:16Z",
+      "id": "50130167",
+      "title": "The first vibe-coded gun is here",
+      "url": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+      "summary": "The creator of the first functional 3D-printed gun Cody Wilson says he’s made an AI model that generates ‘unique’ gun designs. Gun control experts are concerned.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T11:38:46Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "paulpauper",
-      "likes": 1,
-      "views": 0,
+      "score": 33,
+      "author": "droidjj",
+      "likes": 4,
+      "views": 3,
       "retweets": 0,
-      "text": "The prophets of AI doom have outlined the ways the technology might kill us all in a series of gripping yarns, writes Ross Douthat. Are they convincing?",
-      "author_name": "paulpauper"
+      "text": "The creator of the first functional 3D-printed gun Cody Wilson says he’s made an AI model that generates ‘unique’ gun designs. Gun control experts are concerned.",
+      "author_name": "droidjj"
     },
     {
-      "id": "50123979",
-      "title": "Fractional CTO'ing and AI Sandboxing [video]",
-      "url": "https://www.youtube.com/watch?v=hzshcVNNrYg",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-16T20:16:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "mooreds",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "mooreds"
-    },
-    {
-      "id": "50123762",
-      "title": "AI creates 16 new viruses from scratch",
-      "url": "https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages",
-      "summary": "Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopeful step toward medical advances, but it also raises concerns around the potential for misuse.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-16T20:00:28Z",
+      "id": "50129993",
+      "title": "The fastest DeepSeek v4.1 flash 1017 – Day 0",
+      "url": "https://runinfra.ai/inference-api/deepseek-v4-1-flash-1017",
+      "summary": "DeepSeek V4.1 Flash 1017 API on RunInfra: $0.15 input, $0.01 cached input, $0.60 output per 1M tokens. OpenAI and Anthropic compatible.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T11:07:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "alwillis",
+      "author": "OsamaJaber",
       "likes": 3,
-      "views": 2,
+      "views": 0,
       "retweets": 0,
-      "text": "Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopeful step toward medical advances, but it also raises concerns around the potential for misuse.",
-      "author_name": "alwillis"
+      "text": "DeepSeek V4.1 Flash 1017 API on RunInfra: $0.15 input, $0.01 cached input, $0.60 output per 1M tokens. OpenAI and Anthropic compatible.",
+      "author_name": "OsamaJaber"
+    },
+    {
+      "id": "50129960",
+      "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T11:02:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "joozio",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "author_name": "joozio"
+    },
+    {
+      "id": "50129954",
+      "title": "Amazon devices chief sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users&#039; needs instead of waiting for commands.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-17T11:00:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "cybermango",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users&#039; needs instead of waiting for commands.",
+      "author_name": "cybermango"
+    },
+    {
+      "id": "50129206",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T08:56:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "dgellow",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "author_name": "dgellow"
+    },
+    {
+      "id": "50128995",
+      "title": "Pooling OpenAI subscriptions and bypassing regional inference capacity limits",
+      "url": "https://ghuntley.com/underclass/",
+      "summary": "by now, most people should be aware that we&#x27;re in a cost of compute crisis. The cost of CPU and memory is through the roof. There just isn&#x27;t enough. Meanwhile, there definitely aren&#x27;t enough GPUs in the world. If you&#x27;ve been using ChatGPT lately, you might",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T08:09:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "ghuntley",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "by now, most people should be aware that we&#x27;re in a cost of compute crisis. The cost of CPU and memory is through the roof. There just isn&#x27;t enough. Meanwhile, there definitely aren&#x27;t enough GPUs in the world. If you&#x27;ve been using ChatGPT lately, you might",
+      "author_name": "ghuntley"
+    },
+    {
+      "id": "50128673",
+      "title": "2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)",
+      "url": "https://2tinteractive.com/apps/lmailer/",
+      "summary": "Native Rust + Tauri v2 desktop speed (~28 MB RAM) uniting multi-account IMAP/SMTP, CalDAV calendar, CardDAV contacts, and a unified communication sidebar powere",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-17T07:05:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "LebToki",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Native Rust + Tauri v2 desktop speed (~28 MB RAM) uniting multi-account IMAP/SMTP, CalDAV calendar, CardDAV contacts, and a unified communication sidebar powere",
+      "author_name": "LebToki"
+    },
+    {
+      "id": "50128164",
+      "title": "Decoding base64 in Python at 10 gigabytes per second",
+      "url": "https://lemire.me/blog/2026/10/17/decoding-base64-in-python-at-10-gigabytes-per-second/",
+      "summary": "We sometimes need to convert binary data to text. For example, your emails must be stored as text files. Naïvely, you could just use a string of 0 and 1, but it would mean using one character per bit. We can do better by using 64 ASCII characters: all letters, all numbers, plus a few &hellip; Continue reading Decoding…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-17T05:14:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "smilelamp",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "We sometimes need to convert binary data to text. For example, your emails must be stored as text files. Naïvely, you could just use a string of 0 and 1, but it would mean using one character per bit. We can do better by using 64 ASCII characters: all letters, all numbers, plus a few &hellip; Continue reading Decoding…",
+      "author_name": "smilelamp"
+    },
+    {
+      "id": "50127555",
+      "title": "How employment is changing at Anthropic",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "summary": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T03:13:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 38,
+      "author": "swolpers",
+      "likes": 7,
+      "views": 3,
+      "retweets": 0,
+      "text": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+      "author_name": "swolpers"
+    },
+    {
+      "id": "50126802",
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-17T01:05:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "wondersky",
+      "likes": 7,
+      "views": 0,
+      "retweets": 0,
+      "text": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
+      "author_name": "wondersky"
+    },
+    {
+      "id": "50126612",
+      "title": "Agent Cyber Sentinel: Zero-trust runtime security shield for AI agents",
+      "url": "https://github.com/BenniAlencar/agent-cyber-sentinel",
+      "summary": "Tier-0 Zero-Trust Runtime Security Shield, Prompt Injection Firewall, Secret Leak Interceptor and Tool Call Sanitizer for AI Agents and MCP Servers. Governed by Benni Master OS v9.4 (Skill 63 Cyber Sentinel OS). - BenniAlencar/agent-cyber-sentinel",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T00:37:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 36,
+      "author": "bennialencar",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Tier-0 Zero-Trust Runtime Security Shield, Prompt Injection Firewall, Secret Leak Interceptor and Tool Call Sanitizer for AI Agents and MCP Servers. Governed by Benni Master OS v9.4 (Skill 63 Cyber Sentinel OS). - BenniAlencar/agent-cyber-sentinel",
+      "author_name": "bennialencar"
+    },
+    {
+      "id": "50125961",
+      "title": "Intelligent UI needs a new HTML",
+      "url": "https://www.openui.com/blog/intelligent-ui-needs-a-new-html",
+      "summary": "Every lab is inventing its own inference language for generating interfaces. HTML gave the web a common language that unlocked an entire ecosystem. The agentic era needs its own.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-16T23:04:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "zahlekhan",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Every lab is inventing its own inference language for generating interfaces. HTML gave the web a common language that unlocked an entire ecosystem. The agentic era needs its own.",
+      "author_name": "zahlekhan"
     },
     {
       "id": "50122951",
@@ -215,93 +295,13 @@
         "AI",
         "科技"
       ],
-      "score": 151,
+      "score": 386,
       "author": "pretext",
-      "likes": 135,
-      "views": 128,
+      "likes": 370,
+      "views": 341,
       "retweets": 0,
       "text": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn&#x27;t raise reverts or incidents.",
       "author_name": "pretext"
-    },
-    {
-      "id": "50122575",
-      "title": "How do you know your agent's memory layer is helping, not hurting?",
-      "url": "https://github.com/yadu9989/memstrata-lme500-harness",
-      "summary": "Experimental, model-selectable LongMemEval-S verifier with immutable data, explicit scoring protocols and inspectable evidence. - yadu9989/memstrata-lme500-harness",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T18:42:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "yadu989",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Experimental, model-selectable LongMemEval-S verifier with immutable data, explicit scoring protocols and inspectable evidence. - yadu9989/memstrata-lme500-harness",
-      "author_name": "yadu989"
-    },
-    {
-      "id": "50122209",
-      "title": "LLM says something, my tool track if it followed its promise on tools",
-      "url": "https://www.raytracer.si/",
-      "summary": "RayTrace records the prompts, context and tool calls of a coding agent’s run and, in a sandbox, the processes that actually started. Fork a run, change one thing it saw, and compare.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T18:18:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "godcreatebugs",
-      "likes": 3,
-      "views": 10,
-      "retweets": 0,
-      "text": "RayTrace records the prompts, context and tool calls of a coding agent’s run and, in a sandbox, the processes that actually started. Fork a run, change one thing it saw, and compare.",
-      "author_name": "godcreatebugs"
-    },
-    {
-      "id": "50122112",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "summary": "<a href=\"https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-secured-highest-junk-credit-040018773.html\" rel=\"nofollow\">https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-s...</a>",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T18:11:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 176,
-      "author": "JumpCrisscross",
-      "likes": 160,
-      "views": 44,
-      "retweets": 0,
-      "text": "<a href=\"https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-secured-highest-junk-credit-040018773.html\" rel=\"nofollow\">https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-s...</a>",
-      "author_name": "JumpCrisscross"
-    },
-    {
-      "id": "50121181",
-      "title": "The AI doomers are going off on Anthropic's revenue figures",
-      "url": "https://www.businessinsider.com/anthropic-revenue-ipo-ai-doomer-tech-investing-2026-10",
-      "summary": "The AI skeptics had a lot to say about Anthropic&#x27;s Q3 revenue figure as the company lays the groundwork for a historic IPO.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T17:08:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "arealaccount",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "The AI skeptics had a lot to say about Anthropic&#x27;s Q3 revenue figure as the company lays the groundwork for a historic IPO.",
-      "author_name": "arealaccount"
     },
     {
       "id": "50121140",
@@ -322,46 +322,6 @@
       "retweets": 0,
       "text": "Discover TanStack AI, an innovative ecosystem for integrating AI in apps, covering setup, AI requests, streaming, and persistence.",
       "author_name": "ibobev"
-    },
-    {
-      "id": "50120453",
-      "title": "OpenAI employees can search users prompt [video]",
-      "url": "https://www.youtube.com/watch?v=QZVzuq28eFw",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T16:26:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "yyaakkqq",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "yyaakkqq"
-    },
-    {
-      "id": "50119894",
-      "title": "OpenAI lets anyone target specific people with ads via phone or email",
-      "url": "https://twitter.com/josephfcox/status/2110725062873551004",
-      "summary": "OpenAI continues to enshittify ChatGPT: OpenAI allows advertisers—or really anyone, I tested myself in 5 minutes—upload raw phone numbers or email addresses to OpenAI to then target those specific people and inject specific ads into their ChatGPT session https://t.co/s46KqzRwpc",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T15:48:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "greatgib",
-      "likes": 5,
-      "views": 2,
-      "retweets": 0,
-      "text": "OpenAI continues to enshittify ChatGPT: OpenAI allows advertisers—or really anyone, I tested myself in 5 minutes—upload raw phone numbers or email addresses to OpenAI to then target those specific people and inject specific ads into their ChatGPT session https://t.co/s46KqzRwpc",
-      "author_name": "greatgib"
     },
     {
       "id": "50119881",
@@ -402,6 +362,26 @@
       "retweets": 0,
       "text": "Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.",
       "author_name": "boa00"
+    },
+    {
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T13:50:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "mooreds",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
     }
   ]
 }
