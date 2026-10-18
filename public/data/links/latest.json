@@ -1,47 +1,67 @@
 {
-  "version": "2026-10-18T12:33:56.052Z",
-  "generatedAt": "2026-10-18T12:33:56.053Z",
+  "version": "2026-10-18T16:27:15.363Z",
+  "generatedAt": "2026-10-18T16:27:15.364Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50140462",
-      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "url": "https://www.vals.ai/blogs/impossible-refund",
-      "summary": "Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-18T12:22:58Z",
+      "id": "50141746",
+      "title": "GhostOS – Lightweight, Offline Desktop AI Assistant (macOS/Win/Linux)",
+      "url": "https://github.com/GhostOS-ai/GhostOS",
+      "summary": "👻 Lightweight, cross-platform autonomous desktop AI assistant with zero bloat and desktop integration. - GhostOS-ai/GhostOS",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-10-18T15:08:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "GhostOS",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "👻 Lightweight, cross-platform autonomous desktop AI assistant with zero bloat and desktop integration. - GhostOS-ai/GhostOS",
+      "author_name": "GhostOS"
+    },
+    {
+      "id": "50141657",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "OpenAI, Meta, Google, and others are positioning AI agents as personal assistants that can perform a range of tasks online. But the web is becoming increasingly unfriendly toward agents, undermining their usefulness.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T14:58:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 100,
+      "author": "evolve2k",
+      "likes": 71,
+      "views": 48,
+      "retweets": 0,
+      "text": "OpenAI, Meta, Google, and others are positioning AI agents as personal assistants that can perform a range of tasks online. But the web is becoming increasingly unfriendly toward agents, undermining their usefulness.",
+      "author_name": "evolve2k"
+    },
+    {
+      "id": "50140784",
+      "title": "Hyper Optimizing Kimi K3 in vLLM",
+      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+      "summary": "How agent-assisted CuTe DSL optimizations accelerate Kimi K3 decode on NVIDIA GB300, and how scoped changes, correctness tests, and reproducible benchmarks help",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T13:08:50Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "DeepLogin",
-      "likes": 2,
+      "author": "torutofu",
+      "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.",
-      "author_name": "DeepLogin"
-    },
-    {
-      "id": "50140420",
-      "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)",
-      "url": "https://roadster-ai.net/blog/how-to-make-roadster-ai-video",
-      "summary": "Learn how to make a Tesla Roadster AI flying car video with your own car photo. Follow this simple guide to create realistic AI videos in minutes.",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-10-18T12:17:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Moon_Y",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Learn how to make a Tesla Roadster AI flying car video with your own car photo. Follow this simple guide to create realistic AI videos in minutes.",
-      "author_name": "Moon_Y"
+      "text": "How agent-assisted CuTe DSL optimizations accelerate Kimi K3 decode on NVIDIA GB300, and how scoped changes, correctness tests, and reproducible benchmarks help",
+      "author_name": "torutofu"
     },
     {
       "id": "50140329",
@@ -64,44 +84,24 @@
       "author_name": "paolorusso"
     },
     {
-      "id": "50140196",
-      "title": "Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy",
-      "url": "https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy",
-      "summary": "Two women open their laptops. Both American. Both moms. Both logging on for shifts as data workers, the human labor that trains artificial intelligence. Brook Hansen started doing data work seriously after she was let go from her customer service job when she was six months pregnant. As a stay-at-home mom, data work of…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-18T11:43:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "theanonymousone",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Two women open their laptops. Both American. Both moms. Both logging on for shifts as data workers, the human labor that trains artificial intelligence. Brook Hansen started doing data work seriously after she was let go from her customer service job when she was six months pregnant. As a stay-at-home mom, data work of…",
-      "author_name": "theanonymousone"
-    },
-    {
-      "id": "50140056",
-      "title": "Killa YuE v1.6.0 – Local AI vocal songs and P2P audio hosting on Android (A 2.0)",
-      "url": "https://github.com/JackKnifeAI/killa-yue",
-      "summary": "Free, open-source AI music studio on your Android phone: full songs with vocals, Write with AI, stem splitting, mixer, recording and drum pads. No cloud, no subscription. - JackKnifeAI/killa-yue",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-18T11:25:28Z",
+      "id": "50139877",
+      "title": "Letter to Anthropic Re: Planned Initial Public Offering",
+      "url": "https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/",
+      "summary": "Dario Amodei Chief Executive Officer Anthropic, PBC 500 Howard Street San Francisco, California Dear Mr. Amodei: I write to urge Anthropic to pause its planned initial public offering (IPO) until the company fully and transparently addresses the artificial intelligence (AI) safety, governance, and development pace conc…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T10:49:56Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 32,
-      "author": "JackKnifeAI",
-      "likes": 1,
-      "views": 0,
+      "author": "theanonymousone",
+      "likes": 14,
+      "views": 1,
       "retweets": 0,
-      "text": "Free, open-source AI music studio on your Android phone: full songs with vocals, Write with AI, stem splitting, mixer, recording and drum pads. No cloud, no subscription. - JackKnifeAI/killa-yue",
-      "author_name": "JackKnifeAI"
+      "text": "Dario Amodei Chief Executive Officer Anthropic, PBC 500 Howard Street San Francisco, California Dear Mr. Amodei: I write to urge Anthropic to pause its planned initial public offering (IPO) until the company fully and transparently addresses the artificial intelligence (AI) safety, governance, and development pace conc…",
+      "author_name": "theanonymousone"
     },
     {
       "id": "50139873",
@@ -115,33 +115,13 @@
         "AI",
         "科技"
       ],
-      "score": 101,
+      "score": 122,
       "author": "theanonymousone",
-      "likes": 70,
-      "views": 104,
+      "likes": 91,
+      "views": 169,
       "retweets": 0,
       "text": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
       "author_name": "theanonymousone"
-    },
-    {
-      "id": "50139703",
-      "title": "Eval of 19 ways to crop images using LLMs, Jev and image classification models",
-      "url": "https://workflows-of-ai.com/blog/can-ai-set-the-focal-point-of-a-photo",
-      "summary": "Older content has images without a focal point, so every crop guesses the centre. I let language models, a decision model, local vision models and object detectors set it on 19 photos and compared them with my own.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T10:22:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "marcus_johansso",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Older content has images without a focal point, so every crop guesses the centre. I let language models, a decision model, local vision models and object detectors set it on 19 photos and compared them with my own.",
-      "author_name": "marcus_johansso"
     },
     {
       "id": "50139629",
@@ -162,46 +142,6 @@
       "retweets": 0,
       "text": "Free AI skills (tax rules your AI follows) for 190+ countries, with sources and review status. Written by AI-first accountants in many countries. Need cross-border work done? Hire us. - openaccountants/openaccountants",
       "author_name": "MichaelCutajar"
-    },
-    {
-      "id": "50139501",
-      "title": "Shadow-debugger – Background LLM error diagnosis for Python and FastAPI",
-      "url": "https://github.com/GaspareDev/shadow-debugger",
-      "summary": "Background error diagnosis for Python apps and web APIs (FastAPI, Flask, Django). Works offline with Ollama or with Gemini, OpenAI, Claude. - GaspareDev/shadow-debugger",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T09:42:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "GaspareDev",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Background error diagnosis for Python apps and web APIs (FastAPI, Flask, Django). Works offline with Ollama or with Gemini, OpenAI, Claude. - GaspareDev/shadow-debugger",
-      "author_name": "GaspareDev"
-    },
-    {
-      "id": "50138678",
-      "title": "If you don't run your own LLM proxy how the fuck do you even know whats going on",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "summary": "I think the title captures the idea fully but I&#x27;ll dig into it because this ain&#x27;t Twitter. You&#x27;re working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you&#x27;re automating the cloning process of grabbing",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T07:12:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "hnaccount93",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "I think the title captures the idea fully but I&#x27;ll dig into it because this ain&#x27;t Twitter. You&#x27;re working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you&#x27;re automating the cloning process of grabbing",
-      "author_name": "hnaccount93"
     },
     {
       "id": "50137325",
@@ -262,26 +202,6 @@
       "retweets": 0,
       "text": "Anthropic&#x27;s latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
       "author_name": "gmays"
-    },
-    {
-      "id": "50134363",
-      "title": "Letter to Anthropic Re: Planned Initial Public Offering",
-      "url": "https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/",
-      "summary": "Dario Amodei Chief Executive Officer Anthropic, PBC 500 Howard Street San Francisco, California Dear Mr. Amodei: I write to urge Anthropic to pause its planned initial public offering (IPO) until the company fully and transparently addresses the artificial intelligence (AI) safety, governance, and development pace conc…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T19:38:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "akeck",
-      "likes": 14,
-      "views": 1,
-      "retweets": 0,
-      "text": "Dario Amodei Chief Executive Officer Anthropic, PBC 500 Howard Street San Francisco, California Dear Mr. Amodei: I write to urge Anthropic to pause its planned initial public offering (IPO) until the company fully and transparently addresses the artificial intelligence (AI) safety, governance, and development pace conc…",
-      "author_name": "akeck"
     },
     {
       "id": "50133989",
@@ -355,10 +275,10 @@
         "AI",
         "科技"
       ],
-      "score": 172,
+      "score": 189,
       "author": "AIorNot",
-      "likes": 141,
-      "views": 66,
+      "likes": 158,
+      "views": 79,
       "retweets": 0,
       "text": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...",
       "author_name": "AIorNot"
@@ -395,13 +315,73 @@
         "AI",
         "科技"
       ],
-      "score": 21,
+      "score": 22,
       "author": "wondersky",
-      "likes": 7,
+      "likes": 8,
       "views": 0,
       "retweets": 0,
       "text": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
       "author_name": "wondersky"
+    },
+    {
+      "id": "50126612",
+      "title": "Agent Cyber Sentinel: Zero-trust runtime security shield for AI agents",
+      "url": "https://github.com/BenniAlencar/agent-cyber-sentinel",
+      "summary": "Tier-0 Zero-Trust Runtime Security Shield, Prompt Injection Firewall, Secret Leak Interceptor and Tool Call Sanitizer for AI Agents and MCP Servers. Governed by Benni Master OS v9.4 (Skill 63 Cyber Sentinel OS). - BenniAlencar/agent-cyber-sentinel",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-17T00:37:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 36,
+      "author": "bennialencar",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Tier-0 Zero-Trust Runtime Security Shield, Prompt Injection Firewall, Secret Leak Interceptor and Tool Call Sanitizer for AI Agents and MCP Servers. Governed by Benni Master OS v9.4 (Skill 63 Cyber Sentinel OS). - BenniAlencar/agent-cyber-sentinel",
+      "author_name": "bennialencar"
+    },
+    {
+      "id": "50119031",
+      "title": "Booking Holdings unveils AI travel startup Vayo",
+      "url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/",
+      "summary": "Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-16T14:47:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "boa00",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.",
+      "author_name": "boa00"
+    },
+    {
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T13:50:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "mooreds",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
     }
   ]
 }
