@@ -1,47 +1,267 @@
 {
-  "version": "2026-10-17T21:22:47.188Z",
-  "generatedAt": "2026-10-17T21:22:47.188Z",
+  "version": "2026-10-18T12:33:56.052Z",
+  "generatedAt": "2026-10-18T12:33:56.053Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50135051",
-      "title": "Videographer tries AI editing with MCP DaVinci Resolve connector",
-      "url": "https://www.youtube.com/watch?v=4nQGiRCUlDg",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-17T20:56:19Z",
+      "id": "50140462",
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "summary": "Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-10-18T12:22:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "DeepLogin",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Six AI assistants pursued an impossible £350 train refund in a simulated world, escalating to government officials, legal clinics and bank chargebacks.",
+      "author_name": "DeepLogin"
+    },
+    {
+      "id": "50140420",
+      "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)",
+      "url": "https://roadster-ai.net/blog/how-to-make-roadster-ai-video",
+      "summary": "Learn how to make a Tesla Roadster AI flying car video with your own car photo. Follow this simple guide to create realistic AI videos in minutes.",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-10-18T12:17:30Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "fallinditch",
+      "author": "Moon_Y",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "fallinditch"
+      "text": "Learn how to make a Tesla Roadster AI flying car video with your own car photo. Follow this simple guide to create realistic AI videos in minutes.",
+      "author_name": "Moon_Y"
     },
     {
-      "id": "50134792",
-      "title": "LOL Fuck AI by xplsv – a vibecoded demo",
-      "url": "https://xplsv.github.io/lolfuckai/",
-      "summary": "A 100% vibecoded Three.js 3D demoscene production by XPLSV, synced to Locked Club - GRANDFATHER SLEEPS LOUD and celebrating Pouët",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-17T20:25:19Z",
+      "id": "50140329",
+      "title": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
+      "url": "https://github.com/R3n3r0/agent-bridge",
+      "summary": "OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. - R3n3r0/agent-bridge",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T12:02:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "paolorusso",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. - R3n3r0/agent-bridge",
+      "author_name": "paolorusso"
+    },
+    {
+      "id": "50140196",
+      "title": "Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy",
+      "url": "https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy",
+      "summary": "Two women open their laptops. Both American. Both moms. Both logging on for shifts as data workers, the human labor that trains artificial intelligence. Brook Hansen started doing data work seriously after she was let go from her customer service job when she was six months pregnant. As a stay-at-home mom, data work of…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-18T11:43:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "theanonymousone",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Two women open their laptops. Both American. Both moms. Both logging on for shifts as data workers, the human labor that trains artificial intelligence. Brook Hansen started doing data work seriously after she was let go from her customer service job when she was six months pregnant. As a stay-at-home mom, data work of…",
+      "author_name": "theanonymousone"
+    },
+    {
+      "id": "50140056",
+      "title": "Killa YuE v1.6.0 – Local AI vocal songs and P2P audio hosting on Android (A 2.0)",
+      "url": "https://github.com/JackKnifeAI/killa-yue",
+      "summary": "Free, open-source AI music studio on your Android phone: full songs with vocals, Write with AI, stem splitting, mixer, recording and drum pads. No cloud, no subscription. - JackKnifeAI/killa-yue",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-18T11:25:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "JackKnifeAI",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Free, open-source AI music studio on your Android phone: full songs with vocals, Write with AI, stem splitting, mixer, recording and drum pads. No cloud, no subscription. - JackKnifeAI/killa-yue",
+      "author_name": "JackKnifeAI"
+    },
+    {
+      "id": "50139873",
+      "title": "How employment is changing at Anthropic",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "summary": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T10:49:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 101,
+      "author": "theanonymousone",
+      "likes": 70,
+      "views": 104,
+      "retweets": 0,
+      "text": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+      "author_name": "theanonymousone"
+    },
+    {
+      "id": "50139703",
+      "title": "Eval of 19 ways to crop images using LLMs, Jev and image classification models",
+      "url": "https://workflows-of-ai.com/blog/can-ai-set-the-focal-point-of-a-photo",
+      "summary": "Older content has images without a focal point, so every crop guesses the centre. I let language models, a decision model, local vision models and object detectors set it on 19 photos and compared them with my own.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T10:22:49Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "knoke",
+      "author": "marcus_johansso",
       "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Older content has images without a focal point, so every crop guesses the centre. I let language models, a decision model, local vision models and object detectors set it on 19 photos and compared them with my own.",
+      "author_name": "marcus_johansso"
+    },
+    {
+      "id": "50139629",
+      "title": "Open-source tax rules for 100 countries that your LLM can use",
+      "url": "https://github.com/openaccountants/openaccountants",
+      "summary": "Free AI skills (tax rules your AI follows) for 190+ countries, with sources and review status. Written by AI-first accountants in many countries. Need cross-border work done? Hire us. - openaccountants/openaccountants",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T10:09:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "MichaelCutajar",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Free AI skills (tax rules your AI follows) for 190+ countries, with sources and review status. Written by AI-first accountants in many countries. Need cross-border work done? Hire us. - openaccountants/openaccountants",
+      "author_name": "MichaelCutajar"
+    },
+    {
+      "id": "50139501",
+      "title": "Shadow-debugger – Background LLM error diagnosis for Python and FastAPI",
+      "url": "https://github.com/GaspareDev/shadow-debugger",
+      "summary": "Background error diagnosis for Python apps and web APIs (FastAPI, Flask, Django). Works offline with Ollama or with Gemini, OpenAI, Claude. - GaspareDev/shadow-debugger",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T09:42:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "GaspareDev",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Background error diagnosis for Python apps and web APIs (FastAPI, Flask, Django). Works offline with Ollama or with Gemini, OpenAI, Claude. - GaspareDev/shadow-debugger",
+      "author_name": "GaspareDev"
+    },
+    {
+      "id": "50138678",
+      "title": "If you don't run your own LLM proxy how the fuck do you even know whats going on",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "summary": "I think the title captures the idea fully but I&#x27;ll dig into it because this ain&#x27;t Twitter. You&#x27;re working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you&#x27;re automating the cloning process of grabbing",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T07:12:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "hnaccount93",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "I think the title captures the idea fully but I&#x27;ll dig into it because this ain&#x27;t Twitter. You&#x27;re working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you&#x27;re automating the cloning process of grabbing",
+      "author_name": "hnaccount93"
+    },
+    {
+      "id": "50137325",
+      "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
+      "url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
+      "summary": "Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-18T02:35:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "peter_d_sherman",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.",
+      "author_name": "peter_d_sherman"
+    },
+    {
+      "id": "50137246",
+      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
+      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "summary": "AI &quot;amplifies&quot; existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on &quot;Squawk Box.&quot;",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T02:20:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "snarky-comments",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI &quot;amplifies&quot; existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on &quot;Squawk Box.&quot;",
+      "author_name": "snarky-comments"
+    },
+    {
+      "id": "50136716",
+      "title": "Anthropic warns AI models could self-replicate across home devices",
+      "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+      "summary": "Anthropic&#x27;s latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T00:44:06Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gmays",
+      "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "A 100% vibecoded Three.js 3D demoscene production by XPLSV, synced to Locked Club - GRANDFATHER SLEEPS LOUD and celebrating Pouët",
-      "author_name": "knoke"
+      "text": "Anthropic&#x27;s latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
+      "author_name": "gmays"
     },
     {
       "id": "50134363",
@@ -55,33 +275,13 @@
         "AI",
         "科技"
       ],
-      "score": 28,
+      "score": 32,
       "author": "akeck",
-      "likes": 10,
+      "likes": 14,
       "views": 1,
       "retweets": 0,
       "text": "Dario Amodei Chief Executive Officer Anthropic, PBC 500 Howard Street San Francisco, California Dear Mr. Amodei: I write to urge Anthropic to pause its planned initial public offering (IPO) until the company fully and transparently addresses the artificial intelligence (AI) safety, governance, and development pace conc…",
       "author_name": "akeck"
-    },
-    {
-      "id": "50134215",
-      "title": "Apple releases RSI-Inference: evaluating agents for self-improving LLM inference",
-      "url": "https://twitter.com/onloglogn/status/2111170954944823685",
-      "summary": "Introducing RSI-Inference Bench from 🍎 Apple ML Research 🌐 https://t.co/fHQnUuJ3fY 💻 https://t.co/RXJj558Sgx Can AI agents improve the systems that run AI? We spent $100K API tokens, 50K GPU hours to find out. We built environments and benchmark from real-world #vLLM and #SGLang tasks, coverin…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T19:23:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "low-rank",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Introducing RSI-Inference Bench from 🍎 Apple ML Research 🌐 https://t.co/fHQnUuJ3fY 💻 https://t.co/RXJj558Sgx Can AI agents improve the systems that run AI? We spent $100K API tokens, 50K GPU hours to find out. We built environments and benchmark from real-world #vLLM and #SGLang tasks, coverin…",
-      "author_name": "low-rank"
     },
     {
       "id": "50133989",
@@ -95,9 +295,9 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 18,
       "author": "hn_acker",
-      "likes": 3,
+      "likes": 4,
       "views": 0,
       "retweets": 0,
       "text": "The D.C. Circuit relied on a dictionary for key parts of its ruling against Anthropic. Congress’s own words tell a different story about the threats the law was designed to address.",
@@ -124,26 +324,6 @@
       "author_name": "pessimizer"
     },
     {
-      "id": "50133274",
-      "title": "Israeli settlers attack European diplomatic cars in West Bank beat French mayor",
-      "url": "https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html",
-      "summary": "Cars from the French, Belgian and Polish missions had brought diplomats to visit Taybeh, a largely Christian village in the occupied West Bank, when settlers descended to stop Palestinians from gathering olives, witnesses said.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-17T17:49:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 117,
-      "author": "Betelbuddy",
-      "likes": 99,
-      "views": 13,
-      "retweets": 0,
-      "text": "Cars from the French, Belgian and Polish missions had brought diplomats to visit Taybeh, a largely Christian village in the occupied West Bank, when settlers descended to stop Palestinians from gathering olives, witnesses said.",
-      "author_name": "Betelbuddy"
-    },
-    {
       "id": "50133269",
       "title": "Anthropic says its AI model submitted a false case tip to Philadelphia police",
       "url": "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
@@ -155,9 +335,9 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 21,
       "author": "felineflock",
-      "likes": 5,
+      "likes": 7,
       "views": 0,
       "retweets": 0,
       "text": "The bad tip “had minimal impact,” but Anthropic said it takes the action seriously, as “the same behaviors could do far more harm as models become more powerful.”",
@@ -165,7 +345,7 @@
     },
     {
       "id": "50133231",
-      "title": "Codex is EATING my Mac's disk space",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
       "url": "https://github.com/openai/codex/issues/25921",
       "summary": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
@@ -175,33 +355,13 @@
         "AI",
         "科技"
       ],
-      "score": 47,
+      "score": 172,
       "author": "AIorNot",
-      "likes": 16,
-      "views": 4,
+      "likes": 141,
+      "views": 66,
       "retweets": 0,
       "text": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...",
       "author_name": "AIorNot"
-    },
-    {
-      "id": "50131912",
-      "title": "Hannah Fry: How OpenAI has caused an existential crisis in mathematics",
-      "url": "https://www.newscientist.com/article/2593249-hannah-fry-how-openai-has-caused-an-existential-crisis-in-mathematics/",
-      "summary": "OpenAI has been throwing everything at solving long-standing maths problems. This should have been a glorious moment for mathematicians – but instead we&#039;re having a massive collective wobble, says New Scientist&#039;s new columnist, Professor Hannah Fry",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T15:22:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mhw",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI has been throwing everything at solving long-standing maths problems. This should have been a glorious moment for mathematicians – but instead we&#039;re having a massive collective wobble, says New Scientist&#039;s new columnist, Professor Hannah Fry",
-      "author_name": "mhw"
     },
     {
       "id": "50131320",
@@ -224,86 +384,6 @@
       "author_name": "hackernj"
     },
     {
-      "id": "50131072",
-      "title": "Microsoft AI chief says the company beat OpenAI's models, using less compute",
-      "url": "https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10",
-      "summary": "Microsoft AI CEO said its latest AI model outperforms an OpenAI base model on certain pre-training metrics using a quarter of the compute.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T13:37:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "khalidkhair",
-      "likes": 2,
-      "views": 2,
-      "retweets": 0,
-      "text": "Microsoft AI CEO said its latest AI model outperforms an OpenAI base model on certain pre-training metrics using a quarter of the compute.",
-      "author_name": "khalidkhair"
-    },
-    {
-      "id": "50129206",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T08:56:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "dgellow",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "author_name": "dgellow"
-    },
-    {
-      "id": "50128995",
-      "title": "Pooling OpenAI subscriptions and bypassing regional inference capacity limits",
-      "url": "https://ghuntley.com/underclass/",
-      "summary": "by now, most people should be aware that we&#x27;re in a cost of compute crisis. The cost of CPU and memory is through the roof. There just isn&#x27;t enough. Meanwhile, there definitely aren&#x27;t enough GPUs in the world. If you&#x27;ve been using ChatGPT lately, you might",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T08:09:56Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "ghuntley",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "by now, most people should be aware that we&#x27;re in a cost of compute crisis. The cost of CPU and memory is through the roof. There just isn&#x27;t enough. Meanwhile, there definitely aren&#x27;t enough GPUs in the world. If you&#x27;ve been using ChatGPT lately, you might",
-      "author_name": "ghuntley"
-    },
-    {
-      "id": "50127555",
-      "title": "How employment is changing at Anthropic",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "summary": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T03:13:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 43,
-      "author": "swolpers",
-      "likes": 12,
-      "views": 3,
-      "retweets": 0,
-      "text": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-      "author_name": "swolpers"
-    },
-    {
       "id": "50126802",
       "title": "Android gets AI defenses against messaging scams, fake calls",
       "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
@@ -322,86 +402,6 @@
       "retweets": 0,
       "text": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
       "author_name": "wondersky"
-    },
-    {
-      "id": "50126612",
-      "title": "Agent Cyber Sentinel: Zero-trust runtime security shield for AI agents",
-      "url": "https://github.com/BenniAlencar/agent-cyber-sentinel",
-      "summary": "Tier-0 Zero-Trust Runtime Security Shield, Prompt Injection Firewall, Secret Leak Interceptor and Tool Call Sanitizer for AI Agents and MCP Servers. Governed by Benni Master OS v9.4 (Skill 63 Cyber Sentinel OS). - BenniAlencar/agent-cyber-sentinel",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T00:37:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 36,
-      "author": "bennialencar",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Tier-0 Zero-Trust Runtime Security Shield, Prompt Injection Firewall, Secret Leak Interceptor and Tool Call Sanitizer for AI Agents and MCP Servers. Governed by Benni Master OS v9.4 (Skill 63 Cyber Sentinel OS). - BenniAlencar/agent-cyber-sentinel",
-      "author_name": "bennialencar"
-    },
-    {
-      "id": "50121140",
-      "title": "Getting Started with TanStack AI: Setup and Basics",
-      "url": "https://blog.master.dev/unlocking-ai-in-your-apps-with-tanstack-ai/",
-      "summary": "Discover TanStack AI, an innovative ecosystem for integrating AI in apps, covering setup, AI requests, streaming, and persistence.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-16T17:06:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "ibobev",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Discover TanStack AI, an innovative ecosystem for integrating AI in apps, covering setup, AI requests, streaming, and persistence.",
-      "author_name": "ibobev"
-    },
-    {
-      "id": "50119881",
-      "title": "Perplexity to give away its AI security software",
-      "url": "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
-      "summary": "The company’s “AI sandbox,” is now an open source project, allowing outside developers to use the tool, which it says can keep AI agents contained.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T15:47:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "nycdatasci",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "The company’s “AI sandbox,” is now an open source project, allowing outside developers to use the tool, which it says can keep AI agents contained.",
-      "author_name": "nycdatasci"
-    },
-    {
-      "id": "50094099",
-      "title": "Auditory processing strategies in humans and zebra finches",
-      "url": "https://www.nature.com/articles/s42003-026-11035-9",
-      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-14T19:55:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "bryanrasmussen",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "author_name": "bryanrasmussen"
     }
   ]
 }
