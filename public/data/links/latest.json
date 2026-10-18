@@ -1,67 +1,147 @@
 {
-  "version": "2026-10-18T16:27:15.363Z",
-  "generatedAt": "2026-10-18T16:27:15.364Z",
+  "version": "2026-10-18T21:22:51.966Z",
+  "generatedAt": "2026-10-18T21:22:51.966Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50141746",
-      "title": "GhostOS – Lightweight, Offline Desktop AI Assistant (macOS/Win/Linux)",
-      "url": "https://github.com/GhostOS-ai/GhostOS",
-      "summary": "👻 Lightweight, cross-platform autonomous desktop AI assistant with zero bloat and desktop integration. - GhostOS-ai/GhostOS",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-10-18T15:08:54Z",
+      "id": "50145507",
+      "title": "If you don't run your own LLM proxy, how do you even know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "summary": "I think the title captures the idea fully but I&#x27;ll dig into it because this ain&#x27;t Twitter. You&#x27;re working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you&#x27;re automating the cloning process of grabbing",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T21:09:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "amrrs",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "I think the title captures the idea fully but I&#x27;ll dig into it because this ain&#x27;t Twitter. You&#x27;re working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you&#x27;re automating the cloning process of grabbing",
+      "author_name": "amrrs"
+    },
+    {
+      "id": "50145068",
+      "title": "Chinese researchers solve 3D Ghys conjecture with homegrown AI model",
+      "url": "https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html",
+      "summary": "A Chinese research team has fully proved the 3D Ghys conjecture, a world-class mathematical problem that had baffled the international mathematics community for more than 30 years. It is the first time Chinese scientists have relied on a domestically",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T20:19:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "yogthos",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "A Chinese research team has fully proved the 3D Ghys conjecture, a world-class mathematical problem that had baffled the international mathematics community for more than 30 years. It is the first time Chinese scientists have relied on a domestically",
+      "author_name": "yogthos"
+    },
+    {
+      "id": "50144489",
+      "title": "Beating Warcraft III's insane AI with self-play reinforcement learning on one PC",
+      "url": "https://warlock.ai/blog/warcraftsim-1/",
+      "summary": "In three weeks, an agent that plays the real Warcraft III went from losing to the easy AI to winning about nine games in ten against insane, trained by self-play on one desktop.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T19:32:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "nawtora",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "In three weeks, an agent that plays the real Warcraft III went from losing to the easy AI to winning about nine games in ten against insane, trained by self-play on one desktop.",
+      "author_name": "nawtora"
+    },
+    {
+      "id": "50144368",
+      "title": "Aircraft gyroscopic instruments modeled from M series MacBook IMU",
+      "url": "https://github.com/photon-cat/gyro-instruments-mac",
+      "summary": "Turns your MacBook into half of a six-pack: attitude, heading, turn-and-slip and G meters from the built-in IMU - photon-cat/gyro-instruments-mac",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T19:21:21Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 30,
-      "author": "GhostOS",
+      "author": "photoncat",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "👻 Lightweight, cross-platform autonomous desktop AI assistant with zero bloat and desktop integration. - GhostOS-ai/GhostOS",
-      "author_name": "GhostOS"
+      "text": "Turns your MacBook into half of a six-pack: attitude, heading, turn-and-slip and G meters from the built-in IMU - photon-cat/gyro-instruments-mac",
+      "author_name": "photoncat"
     },
     {
-      "id": "50141657",
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "summary": "OpenAI, Meta, Google, and others are positioning AI agents as personal assistants that can perform a range of tasks online. But the web is becoming increasingly unfriendly toward agents, undermining their usefulness.",
+      "id": "50144227",
+      "title": "Trustbut checks if an AI agent's new tests fail without its change",
+      "url": "https://github.com/isAlmogK/trustbut",
+      "summary": "Trust, but verify, for AI coding agents. A local CLI that reruns your tests and prints a receipt of what your agent actually did: which new tests prove the change, which pass without it, and what got skipped, deleted or silenced. Works with Claude Code, Codex, Cursor, Gemini and OpenCode. No LLM, no server. - isAlmogK/…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T14:58:10Z",
+      "publishedAt": "2026-10-18T19:07:31Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 100,
-      "author": "evolve2k",
-      "likes": 71,
-      "views": 48,
+      "score": 32,
+      "author": "almog_io",
+      "likes": 1,
+      "views": 0,
       "retweets": 0,
-      "text": "OpenAI, Meta, Google, and others are positioning AI agents as personal assistants that can perform a range of tasks online. But the web is becoming increasingly unfriendly toward agents, undermining their usefulness.",
-      "author_name": "evolve2k"
+      "text": "Trust, but verify, for AI coding agents. A local CLI that reruns your tests and prints a receipt of what your agent actually did: which new tests prove the change, which pass without it, and what got skipped, deleted or silenced. Works with Claude Code, Codex, Cursor, Gemini and OpenCode. No LLM, no server. - isAlmogK/…",
+      "author_name": "almog_io"
     },
     {
-      "id": "50140784",
-      "title": "Hyper Optimizing Kimi K3 in vLLM",
-      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
-      "summary": "How agent-assisted CuTe DSL optimizations accelerate Kimi K3 decode on NVIDIA GB300, and how scoped changes, correctness tests, and reproducible benchmarks help",
+      "id": "50144145",
+      "title": "A protocol for LLM intent search",
+      "url": "https://zenodo.org/records/23452266",
+      "summary": "This paper develops a reusable protocol for testing whether a candidate internal-state readout captures a model&#39;s strategy rather than merely reflecting its topic or the immediate question. The protocol requires held-out prediction of the realized public response, performance exceeding a private-note text baseline,…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T13:08:50Z",
+      "publishedAt": "2026-10-18T18:59:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "kummap",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "This paper develops a reusable protocol for testing whether a candidate internal-state readout captures a model&#39;s strategy rather than merely reflecting its topic or the immediate question. The protocol requires held-out prediction of the realized public response, performance exceeding a private-note text baseline,…",
+      "author_name": "kummap"
+    },
+    {
+      "id": "50143476",
+      "title": "The LLM Comments Are Not for You",
+      "url": "https://danilafe.com/blog/comments_not_for_you/",
+      "summary": "I’ve heard a lot of talk about LLMs recently, and among the most common topics of discussion have been the comments. LLM comments generally seem to suck: they are verbose, regardless of surrounding context, they seem to encode conversation decisions (like “do it this way, not that way”[note: In my head, I",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T17:51:55Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "torutofu",
-      "likes": 4,
+      "author": "nsdfg",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "How agent-assisted CuTe DSL optimizations accelerate Kimi K3 decode on NVIDIA GB300, and how scoped changes, correctness tests, and reproducible benchmarks help",
-      "author_name": "torutofu"
+      "text": "I’ve heard a lot of talk about LLMs recently, and among the most common topics of discussion have been the comments. LLM comments generally seem to suck: they are verbose, regardless of surrounding context, they seem to encode conversation decisions (like “do it this way, not that way”[note: In my head, I",
+      "author_name": "nsdfg"
     },
     {
       "id": "50140329",
@@ -115,10 +195,10 @@
         "AI",
         "科技"
       ],
-      "score": 122,
+      "score": 135,
       "author": "theanonymousone",
-      "likes": 91,
-      "views": 169,
+      "likes": 104,
+      "views": 187,
       "retweets": 0,
       "text": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
       "author_name": "theanonymousone"
@@ -204,26 +284,6 @@
       "author_name": "gmays"
     },
     {
-      "id": "50133989",
-      "title": "Why Anthropic Is Asking for a Rehearing En Banc",
-      "url": "https://www.lawfaremedia.org/article/why-anthropic-is-asking-for-a-rehearing-en-banc",
-      "summary": "The D.C. Circuit relied on a dictionary for key parts of its ruling against Anthropic. Congress’s own words tell a different story about the threats the law was designed to address.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T19:00:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "hn_acker",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "The D.C. Circuit relied on a dictionary for key parts of its ruling against Anthropic. Congress’s own words tell a different story about the threats the law was designed to address.",
-      "author_name": "hn_acker"
-    },
-    {
       "id": "50133964",
       "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
       "url": "https://nono.sh",
@@ -244,26 +304,6 @@
       "author_name": "pessimizer"
     },
     {
-      "id": "50133269",
-      "title": "Anthropic says its AI model submitted a false case tip to Philadelphia police",
-      "url": "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
-      "summary": "The bad tip “had minimal impact,” but Anthropic said it takes the action seriously, as “the same behaviors could do far more harm as models become more powerful.”",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T17:48:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "felineflock",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "The bad tip “had minimal impact,” but Anthropic said it takes the action seriously, as “the same behaviors could do far more harm as models become more powerful.”",
-      "author_name": "felineflock"
-    },
-    {
       "id": "50133231",
       "title": "Codex Desktop continuously generates Crashpad pending dumps",
       "url": "https://github.com/openai/codex/issues/25921",
@@ -275,10 +315,10 @@
         "AI",
         "科技"
       ],
-      "score": 189,
+      "score": 197,
       "author": "AIorNot",
-      "likes": 158,
-      "views": 79,
+      "likes": 166,
+      "views": 81,
       "retweets": 0,
       "text": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...",
       "author_name": "AIorNot"
@@ -362,26 +402,6 @@
       "retweets": 0,
       "text": "Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.",
       "author_name": "boa00"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mooreds",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
     }
   ]
 }
