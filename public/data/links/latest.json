@@ -1,147 +1,367 @@
 {
-  "version": "2026-10-18T21:22:51.966Z",
-  "generatedAt": "2026-10-18T21:22:51.966Z",
+  "version": "2026-10-19T15:28:06.875Z",
+  "generatedAt": "2026-10-19T15:28:06.876Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50145507",
-      "title": "If you don't run your own LLM proxy, how do you even know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "summary": "I think the title captures the idea fully but I&#x27;ll dig into it because this ain&#x27;t Twitter. You&#x27;re working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you&#x27;re automating the cloning process of grabbing",
+      "id": "50153596",
+      "title": "Can AI draw San Francisco from memory? Six LLMs, scored against OpenStreetMap",
+      "url": "https://github.com/voygr-tech/sf-from-memory",
+      "summary": "Can AI draw San Francisco from memory? Six LLMs, scored against OpenStreetMap. Code, every answer and the answer keys. - voygr-tech/sf-from-memory",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T21:09:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "amrrs",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I think the title captures the idea fully but I&#x27;ll dig into it because this ain&#x27;t Twitter. You&#x27;re working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you&#x27;re automating the cloning process of grabbing",
-      "author_name": "amrrs"
-    },
-    {
-      "id": "50145068",
-      "title": "Chinese researchers solve 3D Ghys conjecture with homegrown AI model",
-      "url": "https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html",
-      "summary": "A Chinese research team has fully proved the 3D Ghys conjecture, a world-class mathematical problem that had baffled the international mathematics community for more than 30 years. It is the first time Chinese scientists have relied on a domestically",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T20:19:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "yogthos",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "A Chinese research team has fully proved the 3D Ghys conjecture, a world-class mathematical problem that had baffled the international mathematics community for more than 30 years. It is the first time Chinese scientists have relied on a domestically",
-      "author_name": "yogthos"
-    },
-    {
-      "id": "50144489",
-      "title": "Beating Warcraft III's insane AI with self-play reinforcement learning on one PC",
-      "url": "https://warlock.ai/blog/warcraftsim-1/",
-      "summary": "In three weeks, an agent that plays the real Warcraft III went from losing to the easy AI to winning about nine games in ten against insane, trained by self-play on one desktop.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T19:32:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "nawtora",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "In three weeks, an agent that plays the real Warcraft III went from losing to the easy AI to winning about nine games in ten against insane, trained by self-play on one desktop.",
-      "author_name": "nawtora"
-    },
-    {
-      "id": "50144368",
-      "title": "Aircraft gyroscopic instruments modeled from M series MacBook IMU",
-      "url": "https://github.com/photon-cat/gyro-instruments-mac",
-      "summary": "Turns your MacBook into half of a six-pack: attitude, heading, turn-and-slip and G meters from the built-in IMU - photon-cat/gyro-instruments-mac",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T19:21:21Z",
+      "publishedAt": "2026-10-19T15:24:30Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 30,
-      "author": "photoncat",
+      "author": "ymarkov",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Turns your MacBook into half of a six-pack: attitude, heading, turn-and-slip and G meters from the built-in IMU - photon-cat/gyro-instruments-mac",
-      "author_name": "photoncat"
+      "text": "Can AI draw San Francisco from memory? Six LLMs, scored against OpenStreetMap. Code, every answer and the answer keys. - voygr-tech/sf-from-memory",
+      "author_name": "ymarkov"
     },
     {
-      "id": "50144227",
-      "title": "Trustbut checks if an AI agent's new tests fail without its change",
-      "url": "https://github.com/isAlmogK/trustbut",
-      "summary": "Trust, but verify, for AI coding agents. A local CLI that reruns your tests and prints a receipt of what your agent actually did: which new tests prove the change, which pass without it, and what got skipped, deleted or silenced. Works with Claude Code, Codex, Cursor, Gemini and OpenCode. No LLM, no server. - isAlmogK/…",
+      "id": "50153291",
+      "title": "Run LLM Locally – which open model fits your GPU or Mac, and how fast",
+      "url": "https://www.runllmlocally.com/en",
+      "summary": "Check which local LLMs run on your GPU or Mac, how much VRAM they need and how fast they generate — or find the hardware for a given model.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T19:07:31Z",
+      "publishedAt": "2026-10-19T14:57:49Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 32,
-      "author": "almog_io",
-      "likes": 1,
-      "views": 0,
+      "score": 19,
+      "author": "schamy",
+      "likes": 3,
+      "views": 2,
       "retweets": 0,
-      "text": "Trust, but verify, for AI coding agents. A local CLI that reruns your tests and prints a receipt of what your agent actually did: which new tests prove the change, which pass without it, and what got skipped, deleted or silenced. Works with Claude Code, Codex, Cursor, Gemini and OpenCode. No LLM, no server. - isAlmogK/…",
-      "author_name": "almog_io"
+      "text": "Check which local LLMs run on your GPU or Mac, how much VRAM they need and how fast they generate — or find the hardware for a given model.",
+      "author_name": "schamy"
     },
     {
-      "id": "50144145",
-      "title": "A protocol for LLM intent search",
-      "url": "https://zenodo.org/records/23452266",
-      "summary": "This paper develops a reusable protocol for testing whether a candidate internal-state readout captures a model&#39;s strategy rather than merely reflecting its topic or the immediate question. The protocol requires held-out prediction of the realized public response, performance exceeding a private-note text baseline,…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T18:59:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "kummap",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "This paper develops a reusable protocol for testing whether a candidate internal-state readout captures a model&#39;s strategy rather than merely reflecting its topic or the immediate question. The protocol requires held-out prediction of the realized public response, performance exceeding a private-note text baseline,…",
-      "author_name": "kummap"
-    },
-    {
-      "id": "50143476",
-      "title": "The LLM Comments Are Not for You",
-      "url": "https://danilafe.com/blog/comments_not_for_you/",
-      "summary": "I’ve heard a lot of talk about LLMs recently, and among the most common topics of discussion have been the comments. LLM comments generally seem to suck: they are verbose, regardless of surrounding context, they seem to encode conversation decisions (like “do it this way, not that way”[note: In my head, I",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T17:51:55Z",
+      "id": "50153283",
+      "title": "AI hotel receptionist that books rooms by voice and confirms on multiple channel [video]",
+      "url": "https://www.youtube.com/shorts/RhUKlcKoqqE",
+      "summary": "🤖 AI Assistants — https://developers.telnyx.com/docs/inference/ai-assistants/no-code-voice-assistant 🔌 Realtime WebSocket — https://developers.telnyx.com/...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-19T14:57:07Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "nsdfg",
+      "author": "harpreetseehra",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "I’ve heard a lot of talk about LLMs recently, and among the most common topics of discussion have been the comments. LLM comments generally seem to suck: they are verbose, regardless of surrounding context, they seem to encode conversation decisions (like “do it this way, not that way”[note: In my head, I",
-      "author_name": "nsdfg"
+      "text": "🤖 AI Assistants — https://developers.telnyx.com/docs/inference/ai-assistants/no-code-voice-assistant 🔌 Realtime WebSocket — https://developers.telnyx.com/...",
+      "author_name": "harpreetseehra"
+    },
+    {
+      "id": "50153229",
+      "title": "One Manhattan power room took down FAA air traffic control in 1991",
+      "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
+      "summary": "Figure 1: Isometric layout of an AT&T Lineage 2000 (J85500A-2) central office −48V DC battery plant, showing the cylindrical KS-20472 Round Cell strings …",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-19T14:52:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "spectraldrift",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Figure 1: Isometric layout of an AT&T Lineage 2000 (J85500A-2) central office −48V DC battery plant, showing the cylindrical KS-20472 Round Cell strings …",
+      "author_name": "spectraldrift"
+    },
+    {
+      "id": "50153208",
+      "title": "Top Reasons AI Will Never Become Superintelligence",
+      "url": "https://www.wmbriggs.com/post/62236/",
+      "summary": "Here, in one place, a compilation of anti-hysteria AI articles, well designed to soothes souls, provide calm, and gain insight, all by proving computer models will never come alive, never gain cons…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T14:51:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "mikece",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Here, in one place, a compilation of anti-hysteria AI articles, well designed to soothes souls, provide calm, and gain insight, all by proving computer models will never come alive, never gain cons…",
+      "author_name": "mikece"
+    },
+    {
+      "id": "50153132",
+      "title": "Building an AI assistant that negotiates appointments and bookings for you",
+      "url": "https://github.com/humandelegatedtrustprotocol/hdtp-gateway",
+      "summary": "The HDTP gateway: a self-hosted node that gives your AI agent an address other people&#39;s agents can reach (MCP over mTLS, sealed envelopes) - humandelegatedtrustprotocol/hdtp-gateway",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T14:46:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "sumit-agrawal",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The HDTP gateway: a self-hosted node that gives your AI agent an address other people&#39;s agents can reach (MCP over mTLS, sealed envelopes) - humandelegatedtrustprotocol/hdtp-gateway",
+      "author_name": "sumit-agrawal"
+    },
+    {
+      "id": "50153101",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T14:43:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "m0rde",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "author_name": "m0rde"
+    },
+    {
+      "id": "50152999",
+      "title": "Gemini AI Suite – Zero-Cost Next.js 14, Gemini 3.8 Flash, and Stripe Starter",
+      "url": "https://skappax.github.io/gemini-ai-suite/",
+      "summary": "Ship AI Micro-SaaS, B2B Document Parsers, and Support Agents in minutes with Google Gemini 3.8 Flash and Stripe. Full source code with commercial license.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T14:33:32Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "skappax",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Ship AI Micro-SaaS, B2B Document Parsers, and Support Agents in minutes with Google Gemini 3.8 Flash and Stripe. Full source code with commercial license.",
+      "author_name": "skappax"
+    },
+    {
+      "id": "50152990",
+      "title": "Nearly $3B: Mapping the Money Behind the AI Existential Risk Ecosystem",
+      "url": "https://www.aipanic.news/p/nearly-3-billion-mapping-the-money",
+      "summary": "An illustrative $2.9B funding map covering historical funding and projected 2026 commitments, excluding another $870 million in potentially overlapping or insufficiently verified funding activity.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-10-19T14:32:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "MrBuddyCasino",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "An illustrative $2.9B funding map covering historical funding and projected 2026 commitments, excluding another $870 million in potentially overlapping or insufficiently verified funding activity.",
+      "author_name": "MrBuddyCasino"
+    },
+    {
+      "id": "50152898",
+      "title": "Low-bit LLMs on CPU: what runs correctly and fast where",
+      "url": "https://github.com/matheus-c-feitosa/lowbit-atlas",
+      "summary": "Which low-bit LLM files run correctly and fast on which CPU: measured against references, with scripts to reproduce. - matheus-c-feitosa/lowbit-atlas",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T14:24:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "matheus-c-feito",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Which low-bit LLM files run correctly and fast on which CPU: measured against references, with scripts to reproduce. - matheus-c-feitosa/lowbit-atlas",
+      "author_name": "matheus-c-feito"
+    },
+    {
+      "id": "50152048",
+      "title": "Xbox Business Strategy Manager: \"we use AI, just as all companies do in 2026\"",
+      "url": "https://twitter.com/brandonstirrup/status/2111991783785644420",
+      "summary": "I love Xbox and Microsoft and I have spent 10+ years proving this. My goal is to get this over with so we can move on as a company, despite the fact that some will persecute me for this: we use AI, just as all companies do in 2026.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-19T13:15:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "HelloUsername",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "I love Xbox and Microsoft and I have spent 10+ years proving this. My goal is to get this over with so we can move on as a company, despite the fact that some will persecute me for this: we use AI, just as all companies do in 2026.",
+      "author_name": "HelloUsername"
+    },
+    {
+      "id": "50151573",
+      "title": "MiniMax M3.1 Flash: Space Performance and Bunny Speed",
+      "url": "https://twitter.com/MiniMax_AI/status/2112150867868541221",
+      "summary": "MiniMax M3.1 Flash: Space Performance + Bunny Speed 🚀🐰 Yes, Space Bunny - which has topped global leaderboards with 200T+ tokens - was an earlier version of M3.1 Flash. 💰Redefining the performance economics of agentic AI. M3.1 Flash achieves frontier-level intelligence across key tasks such a…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T12:27:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 23,
+      "author": "theanonymousone",
+      "likes": 6,
+      "views": 2,
+      "retweets": 0,
+      "text": "MiniMax M3.1 Flash: Space Performance + Bunny Speed 🚀🐰 Yes, Space Bunny - which has topped global leaderboards with 200T+ tokens - was an earlier version of M3.1 Flash. 💰Redefining the performance economics of agentic AI. M3.1 Flash achieves frontier-level intelligence across key tasks such a…",
+      "author_name": "theanonymousone"
+    },
+    {
+      "id": "50151294",
+      "title": "Introducing The Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T11:57:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "gmays",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "author_name": "gmays"
+    },
+    {
+      "id": "50149698",
+      "title": "Why you should not install unvetted AI agent skills",
+      "url": "https://aiskills402.com/blog/agent-skills-security-risks",
+      "summary": "A skill is a file your agent obeys with your permissions. What went wrong in public registries, the trap that fooled our agent, and how to check one first.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T08:12:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "georgikalchev",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "A skill is a file your agent obeys with your permissions. What went wrong in public registries, the trap that fooled our agent, and how to check one first.",
+      "author_name": "georgikalchev"
+    },
+    {
+      "id": "50147861",
+      "title": "Using AI as a tutor to do math with pen and paper",
+      "url": "https://twitter.com/nichochar/status/2111822781214294329",
+      "summary": "this camera + ai tutor setup is now a daily habit every morning do 45mins of math or physics built a custom ai coach that gives me exercises and grades them i was so rusty but it’s coming back, feels so good to use my brain this way again highly recommend",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-19T02:58:32Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "nichochar",
+      "likes": 5,
+      "views": 1,
+      "retweets": 0,
+      "text": "this camera + ai tutor setup is now a daily habit every morning do 45mins of math or physics built a custom ai coach that gives me exercises and grades them i was so rusty but it’s coming back, feels so good to use my brain this way again highly recommend",
+      "author_name": "nichochar"
+    },
+    {
+      "id": "50147159",
+      "title": "Anthropic's Own Staff Can't Use Claude Code's 'Bypass Permissions' Mode",
+      "url": "https://runtimewire.com/article/anthropic-s-own-staff-can-t-use-claude-code-s-bypass-permissions-mode-client-cod",
+      "summary": "Public Claude Code JavaScript maps staff security refusals and a separate bypass-mode fallback, without establishing server enforcement or customer access.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T01:03:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "runtimewire",
+      "likes": 3,
+      "views": 2,
+      "retweets": 0,
+      "text": "Public Claude Code JavaScript maps staff security refusals and a separate bypass-mode fallback, without establishing server enforcement or customer access.",
+      "author_name": "runtimewire"
+    },
+    {
+      "id": "50147061",
+      "title": "Reliable web access for AI agents and automation workflows",
+      "url": "https://ninatechllc.com/",
+      "summary": "Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T00:46:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "cyzanfar",
+      "likes": 1,
+      "views": 4,
+      "retweets": 0,
+      "text": "Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.",
+      "author_name": "cyzanfar"
+    },
+    {
+      "id": "50146290",
+      "title": "What Anthropic's 17x quantum claim left out [video]",
+      "url": "https://www.youtube.com/watch?v=qkUx6uhIu_s",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-18T22:48:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "erratum_hunter",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "erratum_hunter"
     },
     {
       "id": "50140329",
@@ -164,126 +384,6 @@
       "author_name": "paolorusso"
     },
     {
-      "id": "50139877",
-      "title": "Letter to Anthropic Re: Planned Initial Public Offering",
-      "url": "https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/",
-      "summary": "Dario Amodei Chief Executive Officer Anthropic, PBC 500 Howard Street San Francisco, California Dear Mr. Amodei: I write to urge Anthropic to pause its planned initial public offering (IPO) until the company fully and transparently addresses the artificial intelligence (AI) safety, governance, and development pace conc…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T10:49:56Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "theanonymousone",
-      "likes": 14,
-      "views": 1,
-      "retweets": 0,
-      "text": "Dario Amodei Chief Executive Officer Anthropic, PBC 500 Howard Street San Francisco, California Dear Mr. Amodei: I write to urge Anthropic to pause its planned initial public offering (IPO) until the company fully and transparently addresses the artificial intelligence (AI) safety, governance, and development pace conc…",
-      "author_name": "theanonymousone"
-    },
-    {
-      "id": "50139873",
-      "title": "How employment is changing at Anthropic",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "summary": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T10:49:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 135,
-      "author": "theanonymousone",
-      "likes": 104,
-      "views": 187,
-      "retweets": 0,
-      "text": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-      "author_name": "theanonymousone"
-    },
-    {
-      "id": "50139629",
-      "title": "Open-source tax rules for 100 countries that your LLM can use",
-      "url": "https://github.com/openaccountants/openaccountants",
-      "summary": "Free AI skills (tax rules your AI follows) for 190+ countries, with sources and review status. Written by AI-first accountants in many countries. Need cross-border work done? Hire us. - openaccountants/openaccountants",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T10:09:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "MichaelCutajar",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Free AI skills (tax rules your AI follows) for 190+ countries, with sources and review status. Written by AI-first accountants in many countries. Need cross-border work done? Hire us. - openaccountants/openaccountants",
-      "author_name": "MichaelCutajar"
-    },
-    {
-      "id": "50137325",
-      "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
-      "url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
-      "summary": "Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-18T02:35:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "peter_d_sherman",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Compare the best free GPU cloud options for AI startups, researchers, and developers. Explore notebooks, inference APIs, credits, and grants. Learn more.",
-      "author_name": "peter_d_sherman"
-    },
-    {
-      "id": "50137246",
-      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
-      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-      "summary": "AI &quot;amplifies&quot; existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on &quot;Squawk Box.&quot;",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T02:20:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "snarky-comments",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI &quot;amplifies&quot; existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on &quot;Squawk Box.&quot;",
-      "author_name": "snarky-comments"
-    },
-    {
-      "id": "50136716",
-      "title": "Anthropic warns AI models could self-replicate across home devices",
-      "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-      "summary": "Anthropic&#x27;s latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T00:44:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gmays",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic&#x27;s latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
-      "author_name": "gmays"
-    },
-    {
       "id": "50133964",
       "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
       "url": "https://nono.sh",
@@ -302,106 +402,6 @@
       "retweets": 0,
       "text": "capability-based, policy-governed runtime for AI agents, with kernel-enforced isolation, network filtering, immutable auditing, and atomic rollbacks for AI agents.",
       "author_name": "pessimizer"
-    },
-    {
-      "id": "50133231",
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "summary": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T17:45:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 197,
-      "author": "AIorNot",
-      "likes": 166,
-      "views": 81,
-      "retweets": 0,
-      "text": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...",
-      "author_name": "AIorNot"
-    },
-    {
-      "id": "50131320",
-      "title": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
-      "url": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
-      "summary": "Jeff Williams, now chief information security officer at Sigma360, says the consent prompt and indicator light on Amazon&#039;s Bee Frontier and Bee Eclipse reach the wearer, not the people being recorded. Amazon pointed to safeguards including automatic shutoff and reminders for users to ask permission.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-17T14:08:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "hackernj",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Jeff Williams, now chief information security officer at Sigma360, says the consent prompt and indicator light on Amazon&#039;s Bee Frontier and Bee Eclipse reach the wearer, not the people being recorded. Amazon pointed to safeguards including automatic shutoff and reminders for users to ask permission.",
-      "author_name": "hackernj"
-    },
-    {
-      "id": "50126802",
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-17T01:05:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "wondersky",
-      "likes": 8,
-      "views": 0,
-      "retweets": 0,
-      "text": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
-      "author_name": "wondersky"
-    },
-    {
-      "id": "50126612",
-      "title": "Agent Cyber Sentinel: Zero-trust runtime security shield for AI agents",
-      "url": "https://github.com/BenniAlencar/agent-cyber-sentinel",
-      "summary": "Tier-0 Zero-Trust Runtime Security Shield, Prompt Injection Firewall, Secret Leak Interceptor and Tool Call Sanitizer for AI Agents and MCP Servers. Governed by Benni Master OS v9.4 (Skill 63 Cyber Sentinel OS). - BenniAlencar/agent-cyber-sentinel",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T00:37:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 36,
-      "author": "bennialencar",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Tier-0 Zero-Trust Runtime Security Shield, Prompt Injection Firewall, Secret Leak Interceptor and Tool Call Sanitizer for AI Agents and MCP Servers. Governed by Benni Master OS v9.4 (Skill 63 Cyber Sentinel OS). - BenniAlencar/agent-cyber-sentinel",
-      "author_name": "bennialencar"
-    },
-    {
-      "id": "50119031",
-      "title": "Booking Holdings unveils AI travel startup Vayo",
-      "url": "https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/",
-      "summary": "Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-16T14:47:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "boa00",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.",
-      "author_name": "boa00"
     }
   ]
 }
