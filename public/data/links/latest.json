@@ -1,133 +1,193 @@
 {
-  "version": "2026-10-19T15:28:06.875Z",
-  "generatedAt": "2026-10-19T15:28:06.876Z",
+  "version": "2026-10-19T22:52:18.244Z",
+  "generatedAt": "2026-10-19T22:52:18.245Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50153596",
-      "title": "Can AI draw San Francisco from memory? Six LLMs, scored against OpenStreetMap",
-      "url": "https://github.com/voygr-tech/sf-from-memory",
-      "summary": "Can AI draw San Francisco from memory? Six LLMs, scored against OpenStreetMap. Code, every answer and the answer keys. - voygr-tech/sf-from-memory",
+      "id": "50158954",
+      "title": "Profiling the Attack Surface of AI Agent Skills",
+      "url": "https://arxiv.org/abs/2610.19264",
+      "summary": "Abstract page for arXiv paper 2610.19264: Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T15:24:30Z",
+      "publishedAt": "2026-10-19T22:33:35Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "ymarkov",
+      "score": 15,
+      "author": "ratneshiiita",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Can AI draw San Francisco from memory? Six LLMs, scored against OpenStreetMap. Code, every answer and the answer keys. - voygr-tech/sf-from-memory",
-      "author_name": "ymarkov"
+      "text": "Abstract page for arXiv paper 2610.19264: Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills",
+      "author_name": "ratneshiiita"
     },
     {
-      "id": "50153291",
-      "title": "Run LLM Locally – which open model fits your GPU or Mac, and how fast",
-      "url": "https://www.runllmlocally.com/en",
-      "summary": "Check which local LLMs run on your GPU or Mac, how much VRAM they need and how fast they generate — or find the hardware for a given model.",
+      "id": "50158679",
+      "title": "AI models can get brain rot, too",
+      "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
+      "summary": "Researchers from the Texas A&M Department of Computer Science and Engineering determined that when large language models are trained on frivolous online content, they can get brain rot like humans do.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T14:57:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "schamy",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "Check which local LLMs run on your GPU or Mac, how much VRAM they need and how fast they generate — or find the hardware for a given model.",
-      "author_name": "schamy"
-    },
-    {
-      "id": "50153283",
-      "title": "AI hotel receptionist that books rooms by voice and confirms on multiple channel [video]",
-      "url": "https://www.youtube.com/shorts/RhUKlcKoqqE",
-      "summary": "🤖 AI Assistants — https://developers.telnyx.com/docs/inference/ai-assistants/no-code-voice-assistant 🔌 Realtime WebSocket — https://developers.telnyx.com/...",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-19T14:57:07Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "harpreetseehra",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "🤖 AI Assistants — https://developers.telnyx.com/docs/inference/ai-assistants/no-code-voice-assistant 🔌 Realtime WebSocket — https://developers.telnyx.com/...",
-      "author_name": "harpreetseehra"
-    },
-    {
-      "id": "50153229",
-      "title": "One Manhattan power room took down FAA air traffic control in 1991",
-      "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
-      "summary": "Figure 1: Isometric layout of an AT&T Lineage 2000 (J85500A-2) central office −48V DC battery plant, showing the cylindrical KS-20472 Round Cell strings …",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-19T14:52:33Z",
+      "publishedAt": "2026-10-19T22:01:26Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "spectraldrift",
+      "author": "geox",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Figure 1: Isometric layout of an AT&T Lineage 2000 (J85500A-2) central office −48V DC battery plant, showing the cylindrical KS-20472 Round Cell strings …",
-      "author_name": "spectraldrift"
+      "text": "Researchers from the Texas A&M Department of Computer Science and Engineering determined that when large language models are trained on frivolous online content, they can get brain rot like humans do.",
+      "author_name": "geox"
     },
     {
-      "id": "50153208",
-      "title": "Top Reasons AI Will Never Become Superintelligence",
-      "url": "https://www.wmbriggs.com/post/62236/",
-      "summary": "Here, in one place, a compilation of anti-hysteria AI articles, well designed to soothes souls, provide calm, and gain insight, all by proving computer models will never come alive, never gain cons…",
+      "id": "50158410",
+      "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
+      "url": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
+      "summary": "Five AI agents in five isolated sandboxes coordinated through a shared message board to solve a CTF. Lessons on swarm behavior, shared memory, emergent protocols, and why agent identity must live outside the model.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T14:51:03Z",
+      "publishedAt": "2026-10-19T21:38:09Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "mikece",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Here, in one place, a compilation of anti-hysteria AI articles, well designed to soothes souls, provide calm, and gain insight, all by proving computer models will never come alive, never gain cons…",
-      "author_name": "mikece"
-    },
-    {
-      "id": "50153132",
-      "title": "Building an AI assistant that negotiates appointments and bookings for you",
-      "url": "https://github.com/humandelegatedtrustprotocol/hdtp-gateway",
-      "summary": "The HDTP gateway: a self-hosted node that gives your AI agent an address other people&#39;s agents can reach (MCP over mTLS, sealed envelopes) - humandelegatedtrustprotocol/hdtp-gateway",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T14:46:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "sumit-agrawal",
+      "score": 15,
+      "author": "benarent",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "The HDTP gateway: a self-hosted node that gives your AI agent an address other people&#39;s agents can reach (MCP over mTLS, sealed envelopes) - humandelegatedtrustprotocol/hdtp-gateway",
-      "author_name": "sumit-agrawal"
+      "text": "Five AI agents in five isolated sandboxes coordinated through a shared message board to solve a CTF. Lessons on swarm behavior, shared memory, emergent protocols, and why agent identity must live outside the model.",
+      "author_name": "benarent"
+    },
+    {
+      "id": "50158361",
+      "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
+      "url": "https://arxiv.org/abs/2610.16555",
+      "summary": "Abstract page for arXiv paper 2610.16555: AI Discovery in Combinatorics: From Problems to Solutions and Back to Bigger Problems",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-19T21:33:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "JohnHammersley",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Abstract page for arXiv paper 2610.16555: AI Discovery in Combinatorics: From Problems to Solutions and Back to Bigger Problems",
+      "author_name": "JohnHammersley"
+    },
+    {
+      "id": "50157524",
+      "title": "Ex OpenAI engineer accused of planting bug was in contact with Saudi royals",
+      "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/",
+      "summary": "The wife and infant son of the ex-OpenAI engineer left the U.S. for Saudi Arabia in October with business-class tickets purchased by a Saudi military official, prosecutors allege.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T20:18:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "Betelbuddy",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "The wife and infant son of the ex-OpenAI engineer left the U.S. for Saudi Arabia in October with business-class tickets purchased by a Saudi military official, prosecutors allege.",
+      "author_name": "Betelbuddy"
+    },
+    {
+      "id": "50156764",
+      "title": "UC Berkeley math community left at crossroads",
+      "url": "https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-left-at-crossroads-in-wake-of-openai-navier-stokes-proof/article_2253ca6c-39c0-45be-947a-f0fd5b48bd6c.html",
+      "summary": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T19:20:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "improgrammer007",
+      "likes": 7,
+      "views": 1,
+      "retweets": 0,
+      "text": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
+      "author_name": "improgrammer007"
+    },
+    {
+      "id": "50156286",
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-19T18:47:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "gavinray",
+      "likes": 1,
+      "views": 2,
+      "retweets": 0,
+      "text": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "author_name": "gavinray"
+    },
+    {
+      "id": "50155972",
+      "title": "Designing an MCP server around an existing 600-endpoint API",
+      "url": "https://parallellabs.app/api-openapi-mcp-architecture/",
+      "summary": "How Parallel AI serves 603 API operations to its web app, REST clients, MCP clients like Claude and ChatGPT, and its own AI agents from one Flask route.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T18:23:29Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "davidrichards",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "How Parallel AI serves 603 API operations to its web app, REST clients, MCP clients like Claude and ChatGPT, and its own AI agents from one Flask route.",
+      "author_name": "davidrichards"
+    },
+    {
+      "id": "50154958",
+      "title": "Anthropic commits 5% of shares to new public benefit fund",
+      "url": "https://www.cnbc.com/video/2026/10/19/anthropic-commits-5percent-of-shares-to-new-public-benefit-fund.html",
+      "summary": "Anthropic said it plans to commit 5% of its shares to a new Public Benefit Fund, subject to stockholder approval. The board may add 2 percentage points for each 50% increase in Anthropic’s value above an undisclosed baseline.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-19T17:08:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "geox",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Anthropic said it plans to commit 5% of its shares to a new Public Benefit Fund, subject to stockholder approval. The board may add 2 percentage points for each 50% increase in Anthropic’s value above an undisclosed baseline.",
+      "author_name": "geox"
     },
     {
       "id": "50153101",
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
       "publishedAt": "2026-10-19T14:43:27Z",
       "source": "Hacker News",
@@ -135,12 +195,12 @@
         "AI",
         "科技"
       ],
-      "score": 30,
+      "score": 32,
       "author": "m0rde",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "text": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
       "author_name": "m0rde"
     },
     {
@@ -164,66 +224,6 @@
       "author_name": "skappax"
     },
     {
-      "id": "50152990",
-      "title": "Nearly $3B: Mapping the Money Behind the AI Existential Risk Ecosystem",
-      "url": "https://www.aipanic.news/p/nearly-3-billion-mapping-the-money",
-      "summary": "An illustrative $2.9B funding map covering historical funding and projected 2026 commitments, excluding another $870 million in potentially overlapping or insufficiently verified funding activity.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-19T14:32:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "MrBuddyCasino",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "An illustrative $2.9B funding map covering historical funding and projected 2026 commitments, excluding another $870 million in potentially overlapping or insufficiently verified funding activity.",
-      "author_name": "MrBuddyCasino"
-    },
-    {
-      "id": "50152898",
-      "title": "Low-bit LLMs on CPU: what runs correctly and fast where",
-      "url": "https://github.com/matheus-c-feitosa/lowbit-atlas",
-      "summary": "Which low-bit LLM files run correctly and fast on which CPU: measured against references, with scripts to reproduce. - matheus-c-feitosa/lowbit-atlas",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T14:24:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "matheus-c-feito",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Which low-bit LLM files run correctly and fast on which CPU: measured against references, with scripts to reproduce. - matheus-c-feitosa/lowbit-atlas",
-      "author_name": "matheus-c-feito"
-    },
-    {
-      "id": "50152048",
-      "title": "Xbox Business Strategy Manager: \"we use AI, just as all companies do in 2026\"",
-      "url": "https://twitter.com/brandonstirrup/status/2111991783785644420",
-      "summary": "I love Xbox and Microsoft and I have spent 10+ years proving this. My goal is to get this over with so we can move on as a company, despite the fact that some will persecute me for this: we use AI, just as all companies do in 2026.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-19T13:15:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "HelloUsername",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "I love Xbox and Microsoft and I have spent 10+ years proving this. My goal is to get this over with so we can move on as a company, despite the fact that some will persecute me for this: we use AI, just as all companies do in 2026.",
-      "author_name": "HelloUsername"
-    },
-    {
       "id": "50151573",
       "title": "MiniMax M3.1 Flash: Space Performance and Bunny Speed",
       "url": "https://twitter.com/MiniMax_AI/status/2112150867868541221",
@@ -235,9 +235,9 @@
         "AI",
         "科技"
       ],
-      "score": 23,
+      "score": 24,
       "author": "theanonymousone",
-      "likes": 6,
+      "likes": 7,
       "views": 2,
       "retweets": 0,
       "text": "MiniMax M3.1 Flash: Space Performance + Bunny Speed 🚀🐰 Yes, Space Bunny - which has topped global leaderboards with 200T+ tokens - was an earlier version of M3.1 Flash. 💰Redefining the performance economics of agentic AI. M3.1 Flash achieves frontier-level intelligence across key tasks such a…",
@@ -255,9 +255,9 @@
         "AI",
         "科技"
       ],
-      "score": 32,
+      "score": 33,
       "author": "gmays",
-      "likes": 3,
+      "likes": 4,
       "views": 0,
       "retweets": 0,
       "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
@@ -284,46 +284,6 @@
       "author_name": "georgikalchev"
     },
     {
-      "id": "50147861",
-      "title": "Using AI as a tutor to do math with pen and paper",
-      "url": "https://twitter.com/nichochar/status/2111822781214294329",
-      "summary": "this camera + ai tutor setup is now a daily habit every morning do 45mins of math or physics built a custom ai coach that gives me exercises and grades them i was so rusty but it’s coming back, feels so good to use my brain this way again highly recommend",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-19T02:58:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "nichochar",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "this camera + ai tutor setup is now a daily habit every morning do 45mins of math or physics built a custom ai coach that gives me exercises and grades them i was so rusty but it’s coming back, feels so good to use my brain this way again highly recommend",
-      "author_name": "nichochar"
-    },
-    {
-      "id": "50147159",
-      "title": "Anthropic's Own Staff Can't Use Claude Code's 'Bypass Permissions' Mode",
-      "url": "https://runtimewire.com/article/anthropic-s-own-staff-can-t-use-claude-code-s-bypass-permissions-mode-client-cod",
-      "summary": "Public Claude Code JavaScript maps staff security refusals and a separate bypass-mode fallback, without establishing server enforcement or customer access.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T01:03:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "runtimewire",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "Public Claude Code JavaScript maps staff security refusals and a separate bypass-mode fallback, without establishing server enforcement or customer access.",
-      "author_name": "runtimewire"
-    },
-    {
       "id": "50147061",
       "title": "Reliable web access for AI agents and automation workflows",
       "url": "https://ninatechllc.com/",
@@ -338,50 +298,10 @@
       "score": 15,
       "author": "cyzanfar",
       "likes": 1,
-      "views": 4,
+      "views": 5,
       "retweets": 0,
       "text": "Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.",
       "author_name": "cyzanfar"
-    },
-    {
-      "id": "50146290",
-      "title": "What Anthropic's 17x quantum claim left out [video]",
-      "url": "https://www.youtube.com/watch?v=qkUx6uhIu_s",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T22:48:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "erratum_hunter",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "erratum_hunter"
-    },
-    {
-      "id": "50140329",
-      "title": "Agent-bridge – an OpenAI-compatible API for headless coding-agent CLIs",
-      "url": "https://github.com/R3n3r0/agent-bridge",
-      "summary": "OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. - R3n3r0/agent-bridge",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-18T12:02:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "paolorusso",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI-compatible API server for headless coding-agent CLIs (Claude Code, Codex, Kimi Code). Chat, streaming, tool calling, MCP, sessions and images through any OpenAI SDK. Single Go binary, Docker image with a web login page. Self-hosted. - R3n3r0/agent-bridge",
-      "author_name": "paolorusso"
     },
     {
       "id": "50133964",
@@ -402,6 +322,46 @@
       "retweets": 0,
       "text": "capability-based, policy-governed runtime for AI agents, with kernel-enforced isolation, network filtering, immutable auditing, and atomic rollbacks for AI agents.",
       "author_name": "pessimizer"
+    },
+    {
+      "id": "50131320",
+      "title": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
+      "url": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
+      "summary": "Jeff Williams, now chief information security officer at Sigma360, says the consent prompt and indicator light on Amazon&#039;s Bee Frontier and Bee Eclipse reach the wearer, not the people being recorded. Amazon pointed to safeguards including automatic shutoff and reminders for users to ask permission.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-17T14:08:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "hackernj",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Jeff Williams, now chief information security officer at Sigma360, says the consent prompt and indicator light on Amazon&#039;s Bee Frontier and Bee Eclipse reach the wearer, not the people being recorded. Amazon pointed to safeguards including automatic shutoff and reminders for users to ask permission.",
+      "author_name": "hackernj"
+    },
+    {
+      "id": "50126802",
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-17T01:05:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "wondersky",
+      "likes": 8,
+      "views": 0,
+      "retweets": 0,
+      "text": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
+      "author_name": "wondersky"
     }
   ]
 }
