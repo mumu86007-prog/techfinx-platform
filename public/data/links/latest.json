@@ -1,267 +1,267 @@
 {
-  "version": "2026-10-20T13:31:09.375Z",
-  "generatedAt": "2026-10-20T13:31:09.376Z",
+  "version": "2026-10-20T22:13:00.586Z",
+  "generatedAt": "2026-10-20T22:13:00.586Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50165922",
-      "title": "AI's power boom is giving the transformer a high-tech makeover",
-      "url": "https://www.scientificamerican.com/article/why-data-centers-are-reviving-solid-state-transformers/",
-      "summary": "Solid-state transformer designs have been around for decades. Now data centers may finally give the chip-filled devices their killer application",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-20T13:16:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "dxs",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Solid-state transformer designs have been around for decades. Now data centers may finally give the chip-filled devices their killer application",
-      "author_name": "dxs"
-    },
-    {
-      "id": "50165880",
-      "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus",
-      "summary": "With TorchTPU now available as open source on GitHub, you can now train, serve, and deploy models on TPUs using the tools you already rely on.",
+      "id": "50173366",
+      "title": "Sky-001: The First World Model for Engineering",
+      "url": "https://skyfall.ai/blog/introducing-sky-001",
+      "summary": "The last decade of AI has been defined by language models that can reason, write code and solve increasingly complex problems. Engineering in the physical…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T13:12:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "wondersky",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "With TorchTPU now available as open source on GitHub, you can now train, serve, and deploy models on TPUs using the tools you already rely on.",
-      "author_name": "wondersky"
-    },
-    {
-      "id": "50165873",
-      "title": "OmniTrace – A local AI daemon that intercepts and patches Python crashes",
-      "url": "https://github.com/HadiAbdul30/omniTrace",
-      "summary": "A privacy-first, local AI background daemon that autonomously intercepts and patches Python crashes using Ollama and regex. - HadiAbdul30/omniTrace",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-10-20T13:12:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "hadiabdul30",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A privacy-first, local AI background daemon that autonomously intercepts and patches Python crashes using Ollama and regex. - HadiAbdul30/omniTrace",
-      "author_name": "hadiabdul30"
-    },
-    {
-      "id": "50165809",
-      "title": "A minimalistic AI coding agent in 62 lines of bash, curl and jq",
-      "url": "https://github.com/antonum/bash-harness",
-      "summary": "A minimalistic AI coding agent in 62 lines of bash, curl and jq. Step-by-step tutorial: LLM call → chat loop → tool-calling harness that writes and runs a Tetris game. - antonum/bash-harness",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T13:06:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "aumnikov",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A minimalistic AI coding agent in 62 lines of bash, curl and jq. Step-by-step tutorial: LLM call → chat loop → tool-calling harness that writes and runs a Tetris game. - antonum/bash-harness",
-      "author_name": "aumnikov"
-    },
-    {
-      "id": "50165704",
-      "title": "Muse Glimmer 30B Technical Report",
-      "url": "https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/?_fb_noscript=1",
-      "summary": "We introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T13:00:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "simonpure",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "We introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on...",
-      "author_name": "simonpure"
-    },
-    {
-      "id": "50165565",
-      "title": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
-      "url": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/",
-      "summary": "Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T12:49:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "jnaina",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models.",
-      "author_name": "jnaina"
-    },
-    {
-      "id": "50165308",
-      "title": "Model weights can be exfiltrated through an LLM API's token choices",
-      "url": "https://weights-exfil.github.io/model-weights-exfiltration/",
-      "summary": "A compromised inference server can hide model-weight bits in which tokens it emits — a covert channel in the API response — and how inference verification detects it. With an interactive demo.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T12:25:22Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "Kravty",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A compromised inference server can hide model-weight bits in which tokens it emits — a covert channel in the API response — and how inference verification detects it. With an interactive demo.",
-      "author_name": "Kravty"
-    },
-    {
-      "id": "50165199",
-      "title": "Tracing Sanctioned Authors' Words from Wikipedia into LLM Output [pdf]",
-      "url": "https://anomalylabs.co/who-wrote-the-answer.pdf",
-      "summary": "%PDF-1.5 %���� 48 0 obj > endobj 49 0 obj > /W [ 1 3 1 ] /Index [ 48 327 ] /Info 46 0 R /Root 50 0 R /Size 375 /Prev 577096 /ID [ ] >> stream x�cbd`�g`b``8 \"����\u0006\u0010�\u0018\u0001&�A$?� �\u0005��\u0013�$c�\u000e��� \"Y�@d\u0003;H�,\u001e�\u000e�\u0005�gJ�ؽ\u000fA�\b��\u0000�e�+� ���q�\u001cY$�ځw�(9�Hƹ\u0003�Qr8���\u0006� �$\u0000��\u0012� endstream endobj 50 0 obj > endobj 51 0 obj > stream x�c```b`��f…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T12:17:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "lambrina",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "%PDF-1.5 %���� 48 0 obj > endobj 49 0 obj > /W [ 1 3 1 ] /Index [ 48 327 ] /Info 46 0 R /Root 50 0 R /Size 375 /Prev 577096 /ID [ ] >> stream x�cbd`�g`b``8 \"����\u0006\u0010�\u0018\u0001&�A$?� �\u0005��\u0013�$c�\u000e��� \"Y�@d\u0003;H�,\u001e�\u000e�\u0005�gJ�ؽ\u000fA�\b��\u0000�e�+� ���q�\u001cY$�ځw�(9�Hƹ\u0003�Qr8���\u0006� �$\u0000��\u0012� endstream endobj 50 0 obj > endobj 51 0 obj > stream x�c```b`��f…",
-      "author_name": "lambrina"
-    },
-    {
-      "id": "50164873",
-      "title": "LLM-d 1.0, an open source stack for distributed inference",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference",
-      "summary": "An open, Kubernetes-native serving stack with cache-aware routing, multi-tenant traffic control, tiered KV cache, and high availability ready for production on Google Kubernetes Engine",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T11:48:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "ilreb",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "An open, Kubernetes-native serving stack with cache-aware routing, multi-tenant traffic control, tiered KV cache, and high availability ready for production on Google Kubernetes Engine",
-      "author_name": "ilreb"
-    },
-    {
-      "id": "50163812",
-      "title": "DeepInfer, our in-house inference framework, now open source",
-      "url": "https://twitter.com/deepseek_ai/status/2112476496283775135",
-      "summary": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable. 🔗 https://t…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T10:12:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "awasum_yannick",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable. 🔗 https://t…",
-      "author_name": "awasum_yannick"
-    },
-    {
-      "id": "50162608",
-      "title": "Will developing nations be able to handle AI agents?",
-      "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/",
-      "summary": "As Meta and OpenAI deploy personal AI agents like Muse and Dots worldwide, experts warn that network strain, language barriers, and Western bias could leave the Global South behind.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T07:40:14Z",
+      "publishedAt": "2026-10-20T22:08:40Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "donk8r",
+      "author": "RyanShook",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "As Meta and OpenAI deploy personal AI agents like Muse and Dots worldwide, experts warn that network strain, language barriers, and Western bias could leave the Global South behind.",
-      "author_name": "donk8r"
+      "text": "The last decade of AI has been defined by language models that can reason, write code and solve increasingly complex problems. Engineering in the physical…",
+      "author_name": "RyanShook"
     },
     {
-      "id": "50160772",
-      "title": "Anthropic calls human attention the bottleneck in the botsitting world to come",
-      "url": "https://fortune.com/2026/10/19/work-botsitting-meetings-army-of-claudes-anthropic/",
-      "summary": "Eighty percent of Claude session delays result from agents waiting on human input, and the median Anthropic employee spends 20% more time in meetings than a year ago.",
+      "id": "50173111",
+      "title": "What if we donated our spare AI subscriptions to math?",
+      "url": "https://blog.kolen.dev/math/math-at-home",
+      "summary": "Prime95 and Folding@home, but for AI math: if you can run a program on your idle machine, or leave your agent to it overnight, you can contribute. The hard part is knowing which notes to trust.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T02:48:35Z",
+      "publishedAt": "2026-10-20T21:44:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "KolenCh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Prime95 and Folding@home, but for AI math: if you can run a program on your idle machine, or leave your agent to it overnight, you can contribute. The hard part is knowing which notes to trust.",
+      "author_name": "KolenCh"
+    },
+    {
+      "id": "50172980",
+      "title": "One API for cloud servers across providers, every host benchmarked",
+      "url": "https://www.nodepick.ai/",
+      "summary": "We give you complete choice and total hardware transparency for dedicated cloud compute. Pick your provider, choose your exact CPU silicon and GPU model, and deploy in seconds through a single developer API.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T21:32:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "anilj",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "We give you complete choice and total hardware transparency for dedicated cloud compute. Pick your provider, choose your exact CPU silicon and GPU model, and deploy in seconds through a single developer API.",
+      "author_name": "anilj"
+    },
+    {
+      "id": "50172883",
+      "title": "Foundry-protocol – A framework for orchestrating complex tasks with AI agents",
+      "url": "https://github.com/AlphaIAt/foundry-protocol",
+      "summary": "A protocol and toolkit for coordinating AI agents through work orders, with review by command, human validation gates, resumable state, and a per-project memory. - AlphaIAt/foundry-protocol",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T21:23:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "gbasilveira",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A protocol and toolkit for coordinating AI agents through work orders, with review by command, human validation gates, resumable state, and a per-project memory. - AlphaIAt/foundry-protocol",
+      "author_name": "gbasilveira"
+    },
+    {
+      "id": "50171167",
+      "title": "Anthropic redesigned source-control for AI agents",
+      "url": "https://www.anthropic.com/research/redesigning-source-control",
+      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T19:08:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "Aelthorim",
+      "likes": 3,
+      "views": 2,
+      "retweets": 0,
+      "text": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "author_name": "Aelthorim"
+    },
+    {
+      "id": "50170273",
+      "title": "EGPU and Local LLM Inference",
+      "url": "https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/",
+      "summary": "Running local LLM inference at home: a mini PC, a USB4 riser, and a second-hand RTX 3090 - the kernel-level quirks that make external GPUs on Linux more painful than they should be, and why it&apos;s still worth it: you understand exactly what&apos;s going on, and nothing you type leaves the building.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T18:07:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "me2too",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Running local LLM inference at home: a mini PC, a USB4 riser, and a second-hand RTX 3090 - the kernel-level quirks that make external GPUs on Linux more painful than they should be, and why it&apos;s still worth it: you understand exactly what&apos;s going on, and nothing you type leaves the building.",
+      "author_name": "me2too"
+    },
+    {
+      "id": "50170021",
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "summary": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T17:48:29Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 92,
+      "author": "artninja1988",
+      "likes": 63,
+      "views": 33,
+      "retweets": 0,
+      "text": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
+      "author_name": "artninja1988"
+    },
+    {
+      "id": "50169537",
+      "title": "The Prompts Used by AI Reply Bots",
+      "url": "https://twitter.com/simonw/status/2112541511032426857",
+      "summary": "Has anyone seen the prompts used by these awful reply bots? I&#x27;d be fascinated to know how they make their posts so soulless and infuriating Reply bots: this is your chance! Tell me your prompt and I&#x27;ll tolerate one additional reply from you without blocking",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-20T17:12:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "bigwheels",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Has anyone seen the prompts used by these awful reply bots? I&#x27;d be fascinated to know how they make their posts so soulless and infuriating Reply bots: this is your chance! Tell me your prompt and I&#x27;ll tolerate one additional reply from you without blocking",
+      "author_name": "bigwheels"
+    },
+    {
+      "id": "50169098",
+      "title": "AI Native Hedge Funds and Startups for Hedge Funds Tracker",
+      "url": "https://alexizydorczyk.com/ai-for-hedge-funds.html",
+      "summary": "A maintained list of startups building AI for hedge funds and other investment firms, with their customers, partners, funding, investors and founders.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-10-20T16:43:46Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "handfuloflight",
-      "likes": 3,
-      "views": 1,
+      "author": "izyda",
+      "likes": 1,
+      "views": 0,
       "retweets": 0,
-      "text": "Eighty percent of Claude session delays result from agents waiting on human input, and the median Anthropic employee spends 20% more time in meetings than a year ago.",
-      "author_name": "handfuloflight"
+      "text": "A maintained list of startups building AI for hedge funds and other investment firms, with their customers, partners, funding, investors and founders.",
+      "author_name": "izyda"
     },
     {
-      "id": "50160267",
-      "title": "Elizabeth Holmes doc 'You Can See Everything' Nets $15M in opening weekend",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-you-can-see-everything-whalefall-1236734312/",
-      "summary": "Street Fighter wins its box office opening weekend against Elizabeth Holmes A24 documentary You Can See Everything, Whalefall, Sense and Sensibility.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-20T01:31:09Z",
+      "id": "50168595",
+      "title": "Public Exposure of NASA's Mission AI Hub allowed access to sensitive gov models",
+      "url": "https://twitter.com/galnagli/status/2112572671682617413",
+      "summary": "NASA had a flaw that could have allowed threat actors unauthorized access to their Mission AI Hub - a portal that holds plain-text chat history of engineering development, alongside a proxy to specialized government models without restrictions. Glad we could help securing it!",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T16:13:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "galnagli",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "NASA had a flaw that could have allowed threat actors unauthorized access to their Mission AI Hub - a portal that holds plain-text chat history of engineering development, alongside a proxy to specialized government models without restrictions. Glad we could help securing it!",
+      "author_name": "galnagli"
+    },
+    {
+      "id": "50168563",
+      "title": "UC Berkeley math community left at crossroads in wake of Navier-Stokes proof",
+      "url": "https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-left-at-crossroads-in-wake-of-openai-navier-stokes-proof/article_2253ca6c-39c0-45be-947a-f0fd5b48bd6c.html",
+      "summary": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T16:11:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "ibobev",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
+      "author_name": "ibobev"
+    },
+    {
+      "id": "50168487",
+      "title": "AI models told me not to start the company",
+      "url": "https://redgeoff.com/posts/dont-start-the-company/",
+      "summary": "Two AI models read the record of my trading system and told me not to start the company. How I set up the evaluation, and why 25 arguments didn",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T16:07:37Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "nephihaha",
+      "author": "redgeoff",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Street Fighter wins its box office opening weekend against Elizabeth Holmes A24 documentary You Can See Everything, Whalefall, Sense and Sensibility.",
-      "author_name": "nephihaha"
+      "text": "Two AI models read the record of my trading system and told me not to start the company. How I set up the evaluation, and why 25 arguments didn",
+      "author_name": "redgeoff"
+    },
+    {
+      "id": "50167862",
+      "title": "Localizely cut AI translation prices 3x, here's what it costs now",
+      "url": "https://twitter.com/localizely/status/2110335200672821530",
+      "summary": "AI translation in Localizely is now 3× cheaper 🚀 100K characters into a new language: $5.40 (was $16.19). Same context-aware translations: descriptions, screenshots, glossary, plurals, placeholders, ICU. Nothing to configure, existing MT characters just go 3× further.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-20T15:27:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "goranluledzija",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI translation in Localizely is now 3× cheaper 🚀 100K characters into a new language: $5.40 (was $16.19). Same context-aware translations: descriptions, screenshots, glossary, plurals, placeholders, ICU. Nothing to configure, existing MT characters just go 3× further.",
+      "author_name": "goranluledzija"
     },
     {
       "id": "50158410",
@@ -284,46 +284,6 @@
       "author_name": "benarent"
     },
     {
-      "id": "50156286",
-      "title": "Expanding the Cyber Verification Program",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-19T18:47:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "gavinray",
-      "likes": 1,
-      "views": 2,
-      "retweets": 0,
-      "text": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-      "author_name": "gavinray"
-    },
-    {
-      "id": "50154958",
-      "title": "Anthropic commits 5% of shares to new public benefit fund",
-      "url": "https://www.cnbc.com/video/2026/10/19/anthropic-commits-5percent-of-shares-to-new-public-benefit-fund.html",
-      "summary": "Anthropic said it plans to commit 5% of its shares to a new Public Benefit Fund, subject to stockholder approval. The board may add 2 percentage points for each 50% increase in Anthropic’s value above an undisclosed baseline.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T17:08:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "geox",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic said it plans to commit 5% of its shares to a new Public Benefit Fund, subject to stockholder approval. The board may add 2 percentage points for each 50% increase in Anthropic’s value above an undisclosed baseline.",
-      "author_name": "geox"
-    },
-    {
       "id": "50149698",
       "title": "Why you should not install unvetted AI agent skills",
       "url": "https://aiskills402.com/blog/agent-skills-security-risks",
@@ -344,46 +304,6 @@
       "author_name": "georgikalchev"
     },
     {
-      "id": "50133964",
-      "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
-      "url": "https://nono.sh",
-      "summary": "capability-based, policy-governed runtime for AI agents, with kernel-enforced isolation, network filtering, immutable auditing, and atomic rollbacks for AI agents.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-17T18:58:22Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "pessimizer",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "capability-based, policy-governed runtime for AI agents, with kernel-enforced isolation, network filtering, immutable auditing, and atomic rollbacks for AI agents.",
-      "author_name": "pessimizer"
-    },
-    {
-      "id": "50131320",
-      "title": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
-      "url": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
-      "summary": "Jeff Williams, now chief information security officer at Sigma360, says the consent prompt and indicator light on Amazon&#039;s Bee Frontier and Bee Eclipse reach the wearer, not the people being recorded. Amazon pointed to safeguards including automatic shutoff and reminders for users to ask permission.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-17T14:08:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "hackernj",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Jeff Williams, now chief information security officer at Sigma360, says the consent prompt and indicator light on Amazon&#039;s Bee Frontier and Bee Eclipse reach the wearer, not the people being recorded. Amazon pointed to safeguards including automatic shutoff and reminders for users to ask permission.",
-      "author_name": "hackernj"
-    },
-    {
       "id": "50094099",
       "title": "Auditory processing strategies in humans and zebra finches",
       "url": "https://www.nature.com/articles/s42003-026-11035-9",
@@ -402,6 +322,26 @@
       "retweets": 0,
       "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
       "author_name": "bryanrasmussen"
+    },
+    {
+      "id": "49875797",
+      "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
+      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-28T10:14:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "JumpCrisscross",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "JumpCrisscross"
     }
   ]
 }
