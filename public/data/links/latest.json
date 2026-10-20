@@ -1,47 +1,267 @@
 {
-  "version": "2026-10-19T22:52:18.244Z",
-  "generatedAt": "2026-10-19T22:52:18.245Z",
+  "version": "2026-10-20T13:31:09.375Z",
+  "generatedAt": "2026-10-20T13:31:09.376Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50158954",
-      "title": "Profiling the Attack Surface of AI Agent Skills",
-      "url": "https://arxiv.org/abs/2610.19264",
-      "summary": "Abstract page for arXiv paper 2610.19264: Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills",
+      "id": "50165922",
+      "title": "AI's power boom is giving the transformer a high-tech makeover",
+      "url": "https://www.scientificamerican.com/article/why-data-centers-are-reviving-solid-state-transformers/",
+      "summary": "Solid-state transformer designs have been around for decades. Now data centers may finally give the chip-filled devices their killer application",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-20T13:16:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "dxs",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Solid-state transformer designs have been around for decades. Now data centers may finally give the chip-filled devices their killer application",
+      "author_name": "dxs"
+    },
+    {
+      "id": "50165880",
+      "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus",
+      "summary": "With TorchTPU now available as open source on GitHub, you can now train, serve, and deploy models on TPUs using the tools you already rely on.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T22:33:35Z",
+      "publishedAt": "2026-10-20T13:12:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "wondersky",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "With TorchTPU now available as open source on GitHub, you can now train, serve, and deploy models on TPUs using the tools you already rely on.",
+      "author_name": "wondersky"
+    },
+    {
+      "id": "50165873",
+      "title": "OmniTrace – A local AI daemon that intercepts and patches Python crashes",
+      "url": "https://github.com/HadiAbdul30/omniTrace",
+      "summary": "A privacy-first, local AI background daemon that autonomously intercepts and patches Python crashes using Ollama and regex. - HadiAbdul30/omniTrace",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-10-20T13:12:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "hadiabdul30",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A privacy-first, local AI background daemon that autonomously intercepts and patches Python crashes using Ollama and regex. - HadiAbdul30/omniTrace",
+      "author_name": "hadiabdul30"
+    },
+    {
+      "id": "50165809",
+      "title": "A minimalistic AI coding agent in 62 lines of bash, curl and jq",
+      "url": "https://github.com/antonum/bash-harness",
+      "summary": "A minimalistic AI coding agent in 62 lines of bash, curl and jq. Step-by-step tutorial: LLM call → chat loop → tool-calling harness that writes and runs a Tetris game. - antonum/bash-harness",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T13:06:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "aumnikov",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A minimalistic AI coding agent in 62 lines of bash, curl and jq. Step-by-step tutorial: LLM call → chat loop → tool-calling harness that writes and runs a Tetris game. - antonum/bash-harness",
+      "author_name": "aumnikov"
+    },
+    {
+      "id": "50165704",
+      "title": "Muse Glimmer 30B Technical Report",
+      "url": "https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/?_fb_noscript=1",
+      "summary": "We introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T13:00:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "simonpure",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "We introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on...",
+      "author_name": "simonpure"
+    },
+    {
+      "id": "50165565",
+      "title": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
+      "url": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/",
+      "summary": "Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T12:49:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "jnaina",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models.",
+      "author_name": "jnaina"
+    },
+    {
+      "id": "50165308",
+      "title": "Model weights can be exfiltrated through an LLM API's token choices",
+      "url": "https://weights-exfil.github.io/model-weights-exfiltration/",
+      "summary": "A compromised inference server can hide model-weight bits in which tokens it emits — a covert channel in the API response — and how inference verification detects it. With an interactive demo.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T12:25:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "Kravty",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A compromised inference server can hide model-weight bits in which tokens it emits — a covert channel in the API response — and how inference verification detects it. With an interactive demo.",
+      "author_name": "Kravty"
+    },
+    {
+      "id": "50165199",
+      "title": "Tracing Sanctioned Authors' Words from Wikipedia into LLM Output [pdf]",
+      "url": "https://anomalylabs.co/who-wrote-the-answer.pdf",
+      "summary": "%PDF-1.5 %���� 48 0 obj > endobj 49 0 obj > /W [ 1 3 1 ] /Index [ 48 327 ] /Info 46 0 R /Root 50 0 R /Size 375 /Prev 577096 /ID [ ] >> stream x�cbd`�g`b``8 \"����\u0006\u0010�\u0018\u0001&�A$?� �\u0005��\u0013�$c�\u000e��� \"Y�@d\u0003;H�,\u001e�\u000e�\u0005�gJ�ؽ\u000fA�\b��\u0000�e�+� ���q�\u001cY$�ځw�(9�Hƹ\u0003�Qr8���\u0006� �$\u0000��\u0012� endstream endobj 50 0 obj > endobj 51 0 obj > stream x�c```b`��f…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T12:17:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "lambrina",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "%PDF-1.5 %���� 48 0 obj > endobj 49 0 obj > /W [ 1 3 1 ] /Index [ 48 327 ] /Info 46 0 R /Root 50 0 R /Size 375 /Prev 577096 /ID [ ] >> stream x�cbd`�g`b``8 \"����\u0006\u0010�\u0018\u0001&�A$?� �\u0005��\u0013�$c�\u000e��� \"Y�@d\u0003;H�,\u001e�\u000e�\u0005�gJ�ؽ\u000fA�\b��\u0000�e�+� ���q�\u001cY$�ځw�(9�Hƹ\u0003�Qr8���\u0006� �$\u0000��\u0012� endstream endobj 50 0 obj > endobj 51 0 obj > stream x�c```b`��f…",
+      "author_name": "lambrina"
+    },
+    {
+      "id": "50164873",
+      "title": "LLM-d 1.0, an open source stack for distributed inference",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference",
+      "summary": "An open, Kubernetes-native serving stack with cache-aware routing, multi-tenant traffic control, tiered KV cache, and high availability ready for production on Google Kubernetes Engine",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T11:48:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "ilreb",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "An open, Kubernetes-native serving stack with cache-aware routing, multi-tenant traffic control, tiered KV cache, and high availability ready for production on Google Kubernetes Engine",
+      "author_name": "ilreb"
+    },
+    {
+      "id": "50163812",
+      "title": "DeepInfer, our in-house inference framework, now open source",
+      "url": "https://twitter.com/deepseek_ai/status/2112476496283775135",
+      "summary": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable. 🔗 https://t…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T10:12:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "awasum_yannick",
+      "likes": 3,
+      "views": 2,
+      "retweets": 0,
+      "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable. 🔗 https://t…",
+      "author_name": "awasum_yannick"
+    },
+    {
+      "id": "50162608",
+      "title": "Will developing nations be able to handle AI agents?",
+      "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/",
+      "summary": "As Meta and OpenAI deploy personal AI agents like Muse and Dots worldwide, experts warn that network strain, language barriers, and Western bias could leave the Global South behind.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-20T07:40:14Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "ratneshiiita",
+      "author": "donk8r",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Abstract page for arXiv paper 2610.19264: Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills",
-      "author_name": "ratneshiiita"
+      "text": "As Meta and OpenAI deploy personal AI agents like Muse and Dots worldwide, experts warn that network strain, language barriers, and Western bias could leave the Global South behind.",
+      "author_name": "donk8r"
     },
     {
-      "id": "50158679",
-      "title": "AI models can get brain rot, too",
-      "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
-      "summary": "Researchers from the Texas A&M Department of Computer Science and Engineering determined that when large language models are trained on frivolous online content, they can get brain rot like humans do.",
+      "id": "50160772",
+      "title": "Anthropic calls human attention the bottleneck in the botsitting world to come",
+      "url": "https://fortune.com/2026/10/19/work-botsitting-meetings-army-of-claudes-anthropic/",
+      "summary": "Eighty percent of Claude session delays result from agents waiting on human input, and the median Anthropic employee spends 20% more time in meetings than a year ago.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T22:01:26Z",
+      "publishedAt": "2026-10-20T02:48:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "handfuloflight",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Eighty percent of Claude session delays result from agents waiting on human input, and the median Anthropic employee spends 20% more time in meetings than a year ago.",
+      "author_name": "handfuloflight"
+    },
+    {
+      "id": "50160267",
+      "title": "Elizabeth Holmes doc 'You Can See Everything' Nets $15M in opening weekend",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-you-can-see-everything-whalefall-1236734312/",
+      "summary": "Street Fighter wins its box office opening weekend against Elizabeth Holmes A24 documentary You Can See Everything, Whalefall, Sense and Sensibility.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-20T01:31:09Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "geox",
+      "author": "nephihaha",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Researchers from the Texas A&M Department of Computer Science and Engineering determined that when large language models are trained on frivolous online content, they can get brain rot like humans do.",
-      "author_name": "geox"
+      "text": "Street Fighter wins its box office opening weekend against Elizabeth Holmes A24 documentary You Can See Everything, Whalefall, Sense and Sensibility.",
+      "author_name": "nephihaha"
     },
     {
       "id": "50158410",
@@ -64,66 +284,6 @@
       "author_name": "benarent"
     },
     {
-      "id": "50158361",
-      "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
-      "url": "https://arxiv.org/abs/2610.16555",
-      "summary": "Abstract page for arXiv paper 2610.16555: AI Discovery in Combinatorics: From Problems to Solutions and Back to Bigger Problems",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-19T21:33:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "JohnHammersley",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2610.16555: AI Discovery in Combinatorics: From Problems to Solutions and Back to Bigger Problems",
-      "author_name": "JohnHammersley"
-    },
-    {
-      "id": "50157524",
-      "title": "Ex OpenAI engineer accused of planting bug was in contact with Saudi royals",
-      "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/",
-      "summary": "The wife and infant son of the ex-OpenAI engineer left the U.S. for Saudi Arabia in October with business-class tickets purchased by a Saudi military official, prosecutors allege.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T20:18:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "Betelbuddy",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "The wife and infant son of the ex-OpenAI engineer left the U.S. for Saudi Arabia in October with business-class tickets purchased by a Saudi military official, prosecutors allege.",
-      "author_name": "Betelbuddy"
-    },
-    {
-      "id": "50156764",
-      "title": "UC Berkeley math community left at crossroads",
-      "url": "https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-left-at-crossroads-in-wake-of-openai-navier-stokes-proof/article_2253ca6c-39c0-45be-947a-f0fd5b48bd6c.html",
-      "summary": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T19:20:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "improgrammer007",
-      "likes": 7,
-      "views": 1,
-      "retweets": 0,
-      "text": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
-      "author_name": "improgrammer007"
-    },
-    {
       "id": "50156286",
       "title": "Expanding the Cyber Verification Program",
       "url": "https://www.anthropic.com/news/cyber-verification-program",
@@ -142,26 +302,6 @@
       "retweets": 0,
       "text": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
       "author_name": "gavinray"
-    },
-    {
-      "id": "50155972",
-      "title": "Designing an MCP server around an existing 600-endpoint API",
-      "url": "https://parallellabs.app/api-openapi-mcp-architecture/",
-      "summary": "How Parallel AI serves 603 API operations to its web app, REST clients, MCP clients like Claude and ChatGPT, and its own AI agents from one Flask route.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T18:23:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "davidrichards",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "How Parallel AI serves 603 API operations to its web app, REST clients, MCP clients like Claude and ChatGPT, and its own AI agents from one Flask route.",
-      "author_name": "davidrichards"
     },
     {
       "id": "50154958",
@@ -184,86 +324,6 @@
       "author_name": "geox"
     },
     {
-      "id": "50153101",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T14:43:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "m0rde",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
-      "author_name": "m0rde"
-    },
-    {
-      "id": "50152999",
-      "title": "Gemini AI Suite – Zero-Cost Next.js 14, Gemini 3.8 Flash, and Stripe Starter",
-      "url": "https://skappax.github.io/gemini-ai-suite/",
-      "summary": "Ship AI Micro-SaaS, B2B Document Parsers, and Support Agents in minutes with Google Gemini 3.8 Flash and Stripe. Full source code with commercial license.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T14:33:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "skappax",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Ship AI Micro-SaaS, B2B Document Parsers, and Support Agents in minutes with Google Gemini 3.8 Flash and Stripe. Full source code with commercial license.",
-      "author_name": "skappax"
-    },
-    {
-      "id": "50151573",
-      "title": "MiniMax M3.1 Flash: Space Performance and Bunny Speed",
-      "url": "https://twitter.com/MiniMax_AI/status/2112150867868541221",
-      "summary": "MiniMax M3.1 Flash: Space Performance + Bunny Speed 🚀🐰 Yes, Space Bunny - which has topped global leaderboards with 200T+ tokens - was an earlier version of M3.1 Flash. 💰Redefining the performance economics of agentic AI. M3.1 Flash achieves frontier-level intelligence across key tasks such a…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T12:27:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 24,
-      "author": "theanonymousone",
-      "likes": 7,
-      "views": 2,
-      "retweets": 0,
-      "text": "MiniMax M3.1 Flash: Space Performance + Bunny Speed 🚀🐰 Yes, Space Bunny - which has topped global leaderboards with 200T+ tokens - was an earlier version of M3.1 Flash. 💰Redefining the performance economics of agentic AI. M3.1 Flash achieves frontier-level intelligence across key tasks such a…",
-      "author_name": "theanonymousone"
-    },
-    {
-      "id": "50151294",
-      "title": "Introducing The Anthropic Cyber Mission",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T11:57:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "gmays",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "author_name": "gmays"
-    },
-    {
       "id": "50149698",
       "title": "Why you should not install unvetted AI agent skills",
       "url": "https://aiskills402.com/blog/agent-skills-security-risks",
@@ -282,26 +342,6 @@
       "retweets": 0,
       "text": "A skill is a file your agent obeys with your permissions. What went wrong in public registries, the trap that fooled our agent, and how to check one first.",
       "author_name": "georgikalchev"
-    },
-    {
-      "id": "50147061",
-      "title": "Reliable web access for AI agents and automation workflows",
-      "url": "https://ninatechllc.com/",
-      "summary": "Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T00:46:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "cyzanfar",
-      "likes": 1,
-      "views": 5,
-      "retweets": 0,
-      "text": "Nina Technologies designs, builds, and maintains reliable web access for AI agents, with custom Chromium engineering and production operations.",
-      "author_name": "cyzanfar"
     },
     {
       "id": "50133964",
@@ -344,24 +384,24 @@
       "author_name": "hackernj"
     },
     {
-      "id": "50126802",
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
+      "id": "50094099",
+      "title": "Auditory processing strategies in humans and zebra finches",
+      "url": "https://www.nature.com/articles/s42003-026-11035-9",
+      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-17T01:05:28Z",
+      "publishedAt": "2026-10-14T19:55:04Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 22,
-      "author": "wondersky",
-      "likes": 8,
-      "views": 0,
+      "score": 18,
+      "author": "bryanrasmussen",
+      "likes": 2,
+      "views": 1,
       "retweets": 0,
-      "text": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
-      "author_name": "wondersky"
+      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "author_name": "bryanrasmussen"
     }
   ]
 }
