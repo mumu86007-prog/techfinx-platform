@@ -1,147 +1,247 @@
 {
-  "version": "2026-10-20T22:13:00.586Z",
-  "generatedAt": "2026-10-20T22:13:00.586Z",
+  "version": "2026-10-21T13:39:10.041Z",
+  "generatedAt": "2026-10-21T13:39:10.041Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50173366",
-      "title": "Sky-001: The First World Model for Engineering",
-      "url": "https://skyfall.ai/blog/introducing-sky-001",
-      "summary": "The last decade of AI has been defined by language models that can reason, write code and solve increasingly complex problems. Engineering in the physical…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T22:08:40Z",
+      "id": "50180707",
+      "title": "The cheapest GPU is wherever people are asleep",
+      "url": "https://getotium.ai/blog/why-otium",
+      "summary": "A pipeline nobody was waiting on, billed at interactive prices. A weekend on a spot GPU in Seoul showed what it should cost and why batch APIs fall short.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-21T13:34:31Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "RyanShook",
+      "score": 17,
+      "author": "cmm324",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "The last decade of AI has been defined by language models that can reason, write code and solve increasingly complex problems. Engineering in the physical…",
-      "author_name": "RyanShook"
+      "text": "A pipeline nobody was waiting on, billed at interactive prices. A weekend on a spot GPU in Seoul showed what it should cost and why batch APIs fall short.",
+      "author_name": "cmm324"
     },
     {
-      "id": "50173111",
-      "title": "What if we donated our spare AI subscriptions to math?",
-      "url": "https://blog.kolen.dev/math/math-at-home",
-      "summary": "Prime95 and Folding@home, but for AI math: if you can run a program on your idle machine, or leave your agent to it overnight, you can contribute. The hard part is knowing which notes to trust.",
+      "id": "50180641",
+      "title": "Free agent skills that walk you through designing a website with AI",
+      "url": "https://github.com/caelo-cms/website-design-skills",
+      "summary": "Free agent skills for designing a website with AI: 11 steps from facts and personas to a tested prototype, each ending with your decision. - caelo-cms/website-design-skills",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T21:44:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "KolenCh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Prime95 and Folding@home, but for AI math: if you can run a program on your idle machine, or leave your agent to it overnight, you can contribute. The hard part is knowing which notes to trust.",
-      "author_name": "KolenCh"
-    },
-    {
-      "id": "50172980",
-      "title": "One API for cloud servers across providers, every host benchmarked",
-      "url": "https://www.nodepick.ai/",
-      "summary": "We give you complete choice and total hardware transparency for dedicated cloud compute. Pick your provider, choose your exact CPU silicon and GPU model, and deploy in seconds through a single developer API.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T21:32:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "anilj",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "We give you complete choice and total hardware transparency for dedicated cloud compute. Pick your provider, choose your exact CPU silicon and GPU model, and deploy in seconds through a single developer API.",
-      "author_name": "anilj"
-    },
-    {
-      "id": "50172883",
-      "title": "Foundry-protocol – A framework for orchestrating complex tasks with AI agents",
-      "url": "https://github.com/AlphaIAt/foundry-protocol",
-      "summary": "A protocol and toolkit for coordinating AI agents through work orders, with review by command, human validation gates, resumable state, and a per-project memory. - AlphaIAt/foundry-protocol",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T21:23:48Z",
+      "publishedAt": "2026-10-21T13:30:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 30,
-      "author": "gbasilveira",
+      "author": "Caelo",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "A protocol and toolkit for coordinating AI agents through work orders, with review by command, human validation gates, resumable state, and a per-project memory. - AlphaIAt/foundry-protocol",
-      "author_name": "gbasilveira"
+      "text": "Free agent skills for designing a website with AI: 11 steps from facts and personas to a tested prototype, each ending with your decision. - caelo-cms/website-design-skills",
+      "author_name": "Caelo"
     },
     {
-      "id": "50171167",
-      "title": "Anthropic redesigned source-control for AI agents",
-      "url": "https://www.anthropic.com/research/redesigning-source-control",
-      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "id": "50180570",
+      "title": "Aurora, HolmesGPT and K8sGPT on the same 19 Kubernetes faults",
+      "url": "https://www.aurorasre.ai/benchmark",
+      "summary": "19 injected Kubernetes faults, three AI incident agents, two runs each, every answer graded by a judge model against the injected fault. Every trace and every miss is public.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T19:08:21Z",
+      "publishedAt": "2026-10-21T13:25:29Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 32,
-      "author": "Aelthorim",
-      "likes": 3,
-      "views": 2,
+      "score": 15,
+      "author": "beng360",
+      "likes": 1,
+      "views": 0,
       "retweets": 0,
-      "text": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-      "author_name": "Aelthorim"
+      "text": "19 injected Kubernetes faults, three AI incident agents, two runs each, every answer graded by a judge model against the injected fault. Every trace and every miss is public.",
+      "author_name": "beng360"
     },
     {
-      "id": "50170273",
-      "title": "EGPU and Local LLM Inference",
-      "url": "https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/",
-      "summary": "Running local LLM inference at home: a mini PC, a USB4 riser, and a second-hand RTX 3090 - the kernel-level quirks that make external GPUs on Linux more painful than they should be, and why it&apos;s still worth it: you understand exactly what&apos;s going on, and nothing you type leaves the building.",
+      "id": "50180431",
+      "title": "AI bubble could burst and take global economy with it, IMF warns",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781",
+      "summary": "Financial watchdog fears AI spending bust could rattle markets, with mounting debt and cyberattacks adding to the headache",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-21T13:16:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "entryleveljobsc",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Financial watchdog fears AI spending bust could rattle markets, with mounting debt and cyberattacks adding to the headache",
+      "author_name": "entryleveljobsc"
+    },
+    {
+      "id": "50180345",
+      "title": "Russia benefitting from Data Voids to influence LLMs",
+      "url": "https://www.disinformationindex.org/research/2026-10-12-russia-benefitting-from-data-voids/",
+      "summary": "We exist to disrupt the business model of monetising harmful content online. We publish research that explains how algorithms and monetisation systems shape the online information environment.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T18:07:44Z",
+      "publishedAt": "2026-10-21T13:10:39Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "uxhacker",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "We exist to disrupt the business model of monetising harmful content online. We publish research that explains how algorithms and monetisation systems shape the online information environment.",
+      "author_name": "uxhacker"
+    },
+    {
+      "id": "50180328",
+      "title": "Burn less tokens for coding using standard software development practices",
+      "url": "https://github.com/rextail-ai/lessloc",
+      "summary": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works. - rextail-ai/lessloc",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-21T13:09:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "ggtr",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works. - rextail-ai/lessloc",
+      "author_name": "ggtr"
+    },
+    {
+      "id": "50180316",
+      "title": "\"Who Owns ROM Hacking?\" and Other Questions AI Poisons Us With",
+      "url": "https://shoujo.gay/who-owns-rom-hacking/",
+      "summary": "Recently, I&#x27;ve been hearing about people wanting to make an SMW Central alternative. As far as I can tell, the individuals who desire this the most are also ...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-21T13:08:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "speckx",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Recently, I&#x27;ve been hearing about people wanting to make an SMW Central alternative. As far as I can tell, the individuals who desire this the most are also ...",
+      "author_name": "speckx"
+    },
+    {
+      "id": "50179636",
+      "title": "Deleting 19k Lines of Dead Compiler Code Without Trusting the LLM",
+      "url": "https://thecloudlet.github.io/technical/refactor-with-ai/part-1-deletion/",
+      "summary": "The AI colored the dependency graph, classified every node, and deleted most of the code. I reviewed every classification by hand. Every deletion step was small enough to review in one sitting.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-21T12:16:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "ibobev",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "The AI colored the dependency graph, classified every node, and deleted most of the code. I reviewed every classification by hand. Every deletion step was small enough to review in one sitting.",
+      "author_name": "ibobev"
+    },
+    {
+      "id": "50178808",
+      "title": "Private and OpenAI-Comp. Inference Engine for Nvidia Linux and Apple Silicon",
+      "url": "https://github.com/tara-vision/taraengine",
+      "summary": "The Tara Vision Inference Engine. Local, private and OpenAI-compatible: Gemma, GLM and Qwen on NVIDIA Linux machines and Apple Silicon Macs. Built on llama.cpp. No telemetry. - tara-vision/taraengine",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-21T10:52:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "stefanoski",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "The Tara Vision Inference Engine. Local, private and OpenAI-compatible: Gemma, GLM and Qwen on NVIDIA Linux machines and Apple Silicon Macs. Built on llama.cpp. No telemetry. - tara-vision/taraengine",
+      "author_name": "stefanoski"
+    },
+    {
+      "id": "50177291",
+      "title": "Anthropic Talk: The End of the Anthropocene",
+      "url": "https://twitter.com/rdominguezibar/status/2111873903970881738",
+      "summary": "An Anthropic researcher just told a room full of PhD students that their career plan no longer exists His 3 pieces of advice for students: 1. Use AI every day. If you&#x27;re on the exponential, you&#x27;ll never fall behind it. 2. Choose projects that get better when compute scales. The rest will be solve…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-21T07:38:15Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "me2too",
-      "likes": 1,
-      "views": 0,
+      "author": "_ink_",
+      "likes": 2,
+      "views": 1,
       "retweets": 0,
-      "text": "Running local LLM inference at home: a mini PC, a USB4 riser, and a second-hand RTX 3090 - the kernel-level quirks that make external GPUs on Linux more painful than they should be, and why it&apos;s still worth it: you understand exactly what&apos;s going on, and nothing you type leaves the building.",
-      "author_name": "me2too"
+      "text": "An Anthropic researcher just told a room full of PhD students that their career plan no longer exists His 3 pieces of advice for students: 1. Use AI every day. If you&#x27;re on the exponential, you&#x27;ll never fall behind it. 2. Choose projects that get better when compute scales. The rest will be solve…",
+      "author_name": "_ink_"
     },
     {
-      "id": "50170021",
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "summary": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
+      "id": "50175779",
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "summary": "Automated attack surface analysis and reduction can meaningfully improve the security of deployed software in the near term. In this post, we preview data we’ve collected from applying attack surface reduction techniques to large open-source codebases using Claude.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T17:48:29Z",
+      "publishedAt": "2026-10-21T03:36:43Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 92,
-      "author": "artninja1988",
-      "likes": 63,
-      "views": 33,
+      "score": 123,
+      "author": "dnw",
+      "likes": 90,
+      "views": 55,
       "retweets": 0,
-      "text": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
-      "author_name": "artninja1988"
+      "text": "Automated attack surface analysis and reduction can meaningfully improve the security of deployed software in the near term. In this post, we preview data we’ve collected from applying attack surface reduction techniques to large open-source codebases using Claude.",
+      "author_name": "dnw"
+    },
+    {
+      "id": "50175145",
+      "title": "OpenAI – 12 hour cache (API) available and \"cache forever\" for work/codex users",
+      "url": "https://twitter.com/thsottiaux/status/2112712984644784534",
+      "summary": "Day 16/ You can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-21T02:00:14Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "jofzar",
+      "likes": 1,
+      "views": 2,
+      "retweets": 0,
+      "text": "Day 16/ You can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.",
+      "author_name": "jofzar"
     },
     {
       "id": "50169537",
@@ -204,26 +304,6 @@
       "author_name": "galnagli"
     },
     {
-      "id": "50168563",
-      "title": "UC Berkeley math community left at crossroads in wake of Navier-Stokes proof",
-      "url": "https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-left-at-crossroads-in-wake-of-openai-navier-stokes-proof/article_2253ca6c-39c0-45be-947a-f0fd5b48bd6c.html",
-      "summary": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-20T16:11:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "ibobev",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
-      "author_name": "ibobev"
-    },
-    {
       "id": "50168487",
       "title": "AI models told me not to start the company",
       "url": "https://redgeoff.com/posts/dont-start-the-company/",
@@ -284,64 +364,24 @@
       "author_name": "benarent"
     },
     {
-      "id": "50149698",
-      "title": "Why you should not install unvetted AI agent skills",
-      "url": "https://aiskills402.com/blog/agent-skills-security-risks",
-      "summary": "A skill is a file your agent obeys with your permissions. What went wrong in public registries, the trap that fooled our agent, and how to check one first.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-19T08:12:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "georgikalchev",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "A skill is a file your agent obeys with your permissions. What went wrong in public registries, the trap that fooled our agent, and how to check one first.",
-      "author_name": "georgikalchev"
-    },
-    {
-      "id": "50094099",
-      "title": "Auditory processing strategies in humans and zebra finches",
-      "url": "https://www.nature.com/articles/s42003-026-11035-9",
-      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-14T19:55:04Z",
+      "publishedAt": "2026-09-23T13:50:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "bryanrasmussen",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "author_name": "bryanrasmussen"
-    },
-    {
-      "id": "49875797",
-      "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
-      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
-      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-09-28T10:14:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "JumpCrisscross",
-      "likes": 1,
+      "author": "mooreds",
+      "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
-      "author_name": "JumpCrisscross"
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
     }
   ]
 }
