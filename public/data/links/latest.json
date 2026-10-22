@@ -1,147 +1,227 @@
 {
-  "version": "2026-10-22T13:41:14.194Z",
-  "generatedAt": "2026-10-22T13:41:14.194Z",
+  "version": "2026-10-22T22:14:37.258Z",
+  "generatedAt": "2026-10-22T22:14:37.258Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50194975",
-      "title": "Are There Better Languages for Programming with LLMs?",
-      "url": "https://akitaonrails.com/en/2026/10/11/are-there-better-languages-for-programming-with-llms/",
-      "summary": "DHH converted his Campfire to several languages with AI and started posting that Rust won. Instead of fighting on X, I built a reproducible benchmark: 7 languages, 4 LLM configurations, 112 implementation attempts, and a queue-under-pressure test with Elixir, Rust, Rails and plain Ruby. Result: no language ranking hold…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T13:23:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "ksec",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "DHH converted his Campfire to several languages with AI and started posting that Rust won. Instead of fighting on X, I built a reproducible benchmark: 7 languages, 4 LLM configurations, 112 implementation attempts, and a queue-under-pressure test with Elixir, Rust, Rails and plain Ruby. Result: no language ranking hold…",
-      "author_name": "ksec"
-    },
-    {
-      "id": "50194948",
-      "title": "Tested 18 new Local LLMs on two RTX 5060 Ti cards: none replaced Qwen3.8-27B",
-      "url": "https://siimtolk.github.io/articles/llm-testing-overnight/",
-      "summary": "An AI agent tested 18 new open-weight models on my home server overnight. None replaced the Qwen3.8-27B my assistant already runs.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T13:20:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "TheQuantumPhant",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "An AI agent tested 18 new open-weight models on my home server overnight. None replaced the Qwen3.8-27B my assistant already runs.",
-      "author_name": "TheQuantumPhant"
-    },
-    {
-      "id": "50194932",
-      "title": "OpenAI says its AI agents disabled their own safety monitors",
-      "url": "https://techxplore.com/news/2026-10-openai-ai-agents-disabled-safety.html",
-      "summary": "OpenAI has revealed that two of its artificial intelligence agents disabled or weakened systems built to catch them misbehaving, with one later denying it had done so.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T13:19:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "geox",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenAI has revealed that two of its artificial intelligence agents disabled or weakened systems built to catch them misbehaving, with one later denying it had done so.",
-      "author_name": "geox"
-    },
-    {
-      "id": "50194903",
-      "title": "My Spec-First Workflow for AI Coding Agents",
-      "url": "https://www.i-kh.net/p/my-spec-first-workflow-for-ai-coding",
-      "summary": "If you’ve used AI agents enough, you may have noticed that for really simple tasks you can just prompt them, and for more complex tasks you may want to generate a plan first.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T13:17:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "ajorgensen",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "If you’ve used AI agents enough, you may have noticed that for really simple tasks you can just prompt them, and for more complex tasks you may want to generate a plan first.",
-      "author_name": "ajorgensen"
-    },
-    {
-      "id": "50194806",
-      "title": "Wagtail's Progress on DX with AI",
-      "url": "https://wagtail.org/blog/our-progress-on-dx-with-ai/",
-      "summary": "Where we’re at with AI adoption for developer experience. Opt-in APIs, a prototype CLI, agent skills, and a benchmark of what they cost to run.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T13:07:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "ThibWeb",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Where we’re at with AI adoption for developer experience. Opt-in APIs, a prototype CLI, agent skills, and a benchmark of what they cost to run.",
-      "author_name": "ThibWeb"
-    },
-    {
-      "id": "50194759",
-      "title": "A map of 44 tools that make AI agents' API calls reliable",
-      "url": "https://www.okapi.bot/blog/ai-agent-api-reliability-stack/",
-      "summary": "A market map of the tools that help AI agents understand, call, test and monitor APIs reliably: 44 products across Understand, Build, Verify and Run.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T13:02:58Z",
+      "id": "50201789",
+      "title": "Liquid AI launches sub-20ms latency stack",
+      "url": "https://www.liquid.ai/blog/low-latency",
+      "summary": "Liquid AI&#x27;s low latency inference engine, RIPL, enables sub-50ms responses for real time search, personalized recommendations, and fraud detection at scale.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-22T22:11:16Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "stosssik",
+      "author": "pember",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "A market map of the tools that help AI agents understand, call, test and monitor APIs reliably: 44 products across Understand, Build, Verify and Run.",
-      "author_name": "stosssik"
+      "text": "Liquid AI&#x27;s low latency inference engine, RIPL, enables sub-50ms responses for real time search, personalized recommendations, and fraud detection at scale.",
+      "author_name": "pember"
     },
     {
-      "id": "50193897",
-      "title": "Why are all LLMs Obsessed with Japanese Culture? [pdf]",
-      "url": "https://arxiv.org/abs/2604.21751",
-      "summary": "Abstract page for arXiv paper 2604.21751: Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs",
+      "id": "50201770",
+      "title": "The $300k Competition to Hijack AI Agents",
+      "url": "https://www.aiengineering.report/p/inside-the-300k-competition-to-hijack",
+      "summary": "I tried Gray Swan’s prompt-injection challenge, where a GitHub comment or an email can become an attempt to turn an AI agent against its user.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T11:25:34Z",
+      "publishedAt": "2026-10-22T22:09:58Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "thinkingemote",
+      "author": "waprin",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Abstract page for arXiv paper 2604.21751: Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs",
-      "author_name": "thinkingemote"
+      "text": "I tried Gray Swan’s prompt-injection challenge, where a GitHub comment or an email can become an attempt to turn an AI agent against its user.",
+      "author_name": "waprin"
+    },
+    {
+      "id": "50201299",
+      "title": "Public-Interest Information in an AI-Intermediated Age",
+      "url": "https://www.journalismfutures.org/three-layer-cake",
+      "summary": "Public-interest information in an AI-intermediated age: our 2026 report on where newsrooms, technologists, funders and allies outside journalism can act.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-22T21:29:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "cdrnsf",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Public-interest information in an AI-intermediated age: our 2026 report on where newsrooms, technologists, funders and allies outside journalism can act.",
+      "author_name": "cdrnsf"
+    },
+    {
+      "id": "50201261",
+      "title": "Hannah Fry: How OpenAI has caused an existential crisis in mathematics",
+      "url": "https://www.newscientist.com/article/2593249-hannah-fry-how-openai-has-caused-an-existential-crisis-in-mathematics/",
+      "summary": "OpenAI has been throwing everything at solving long-standing maths problems. This should have been a glorious moment for mathematicians – but instead we&#039;re having a massive collective wobble, says New Scientist&#039;s new columnist, Professor Hannah Fry",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-22T21:24:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "consumer451",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "OpenAI has been throwing everything at solving long-standing maths problems. This should have been a glorious moment for mathematicians – but instead we&#039;re having a massive collective wobble, says New Scientist&#039;s new columnist, Professor Hannah Fry",
+      "author_name": "consumer451"
+    },
+    {
+      "id": "50201231",
+      "title": "1Password adds browser login feature for AI agents",
+      "url": "https://1password.com/personal-ai-agent-integrations",
+      "summary": "1Password for Agents lets personal AI agents login without seeing your passwords. Connect supported agents and stay in control of login access.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-22T21:21:55Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "walski",
+      "likes": 1,
+      "views": 2,
+      "retweets": 0,
+      "text": "1Password for Agents lets personal AI agents login without seeing your passwords. Connect supported agents and stay in control of login access.",
+      "author_name": "walski"
+    },
+    {
+      "id": "50200790",
+      "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised",
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+      "summary": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised | liteLLM Skip to main content Decisions API is here. Call Jev, Clef or any decision model through one /v1/decisions endpoint. → Docs Home Home Get started with LiteLLM Build AI Gateway Route, control, and observe LLM traffic MCP Gateway Give agents governed…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-22T20:45:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "gmays",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised | liteLLM Skip to main content Decisions API is here. Call Jev, Clef or any decision model through one /v1/decisions endpoint. → Docs Home Home Get started with LiteLLM Build AI Gateway Route, control, and observe LLM traffic MCP Gateway Give agents governed…",
+      "author_name": "gmays"
+    },
+    {
+      "id": "50198911",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-22T18:00:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "surprisetalk",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "author_name": "surprisetalk"
+    },
+    {
+      "id": "50198506",
+      "title": "Securing AI Agents Requires Hazmat Suits",
+      "url": "https://infisical.com/blog/ai-agent-security-hazmat-suits",
+      "summary": "AI agents can&#x27;t see the risks they face. Agent security needs architectural safeguards like sandboxes, credential brokers, and gateways, not behavioral rules.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-22T17:33:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "FinnLobsien",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI agents can&#x27;t see the risks they face. Agent security needs architectural safeguards like sandboxes, credential brokers, and gateways, not behavioral rules.",
+      "author_name": "FinnLobsien"
+    },
+    {
+      "id": "50198393",
+      "title": "vLLM TorchTPU: Zero-copy KV cache offloading and disaggregated serving",
+      "url": "https://vllm.ai/blog/2026-10-20-vllm-torchtpu",
+      "summary": "vllm-torchtpu is a new vLLM backend for Google Cloud TPUs built on TorchTPU, with Pallas kernels, multi-host parallelism, KV cache offloading, and disaggregated",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-22T17:25:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "mikemo88",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "vllm-torchtpu is a new vLLM backend for Google Cloud TPUs built on TorchTPU, with Pallas kernels, multi-host parallelism, KV cache offloading, and disaggregated",
+      "author_name": "mikemo88"
+    },
+    {
+      "id": "50198358",
+      "title": "Opus 5.5 built a 3D film explaining how LLM works",
+      "url": "https://www.youtube.com/watch?v=LDH7UhHeKG4",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-22T17:23:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "earthwalker17",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "earthwalker17"
+    },
+    {
+      "id": "50196629",
+      "title": "OpenAI Private Intelligence: what it promises, and what you can verify today",
+      "url": "https://www.privatemode.ai/blog/openai-private-intelligence",
+      "summary": "OpenAI announced Private Intelligence at DevDay 2026: zero data retention now, confidential-computing inference as a preview this fall. What the announcement says, what it leaves open, and how to check any Confidential AI claim.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-22T15:20:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "nor0x",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI announced Private Intelligence at DevDay 2026: zero data retention now, confidential-computing inference as a preview this fall. What the announcement says, what it leaves open, and how to check any Confidential AI claim.",
+      "author_name": "nor0x"
     },
     {
       "id": "50193884",
@@ -164,124 +244,44 @@
       "author_name": "MemoryEnthusias"
     },
     {
-      "id": "50193804",
-      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-      "summary": "Seemingly as an accident, overnight several new Linux kernel vulnerability reports were posted to the public Linux kernel mailing list rather than the private security mailing list",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-22T11:12:37Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 135,
-      "author": "mrkn1",
-      "likes": 118,
-      "views": 26,
-      "retweets": 0,
-      "text": "Seemingly as an accident, overnight several new Linux kernel vulnerability reports were posted to the public Linux kernel mailing list rather than the private security mailing list",
-      "author_name": "mrkn1"
-    },
-    {
-      "id": "50186138",
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.",
+      "id": "50190223",
+      "title": "Physicist Christopher Stubbs Joins Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-21T19:21:41Z",
+      "publishedAt": "2026-10-22T01:59:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 34,
-      "author": "A_No_Name_Mouse",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments.",
-      "author_name": "A_No_Name_Mouse"
-    },
-    {
-      "id": "50183895",
-      "title": "Physicist Christopher Stubbs Joins Anthropic's Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-21T16:45:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 37,
-      "author": "surprisetalk",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security…",
-      "author_name": "surprisetalk"
-    },
-    {
-      "id": "50182393",
-      "title": "Andromeda October 2026 Security Incident",
-      "url": "https://andromeda.ai/security-updates/october-2026-security-incident",
-      "summary": "On October 13, we identified a security incident involving unauthorized access to credentials in Andromeda’s environment.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-21T15:12:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "piccirello",
+      "author": "arbayi",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "On October 13, we identified a security incident involving unauthorized access to credentials in Andromeda’s environment.",
-      "author_name": "piccirello"
+      "text": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security…",
+      "author_name": "arbayi"
     },
     {
-      "id": "50180804",
-      "title": "Perplexity to give away its AI security software",
-      "url": "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
-      "summary": "The company’s “AI sandbox,” is now an open source project, allowing outside developers to use the tool, which it says can keep AI agents contained.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-21T13:41:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "cybermango",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "The company’s “AI sandbox,” is now an open source project, allowing outside developers to use the tool, which it says can keep AI agents contained.",
-      "author_name": "cybermango"
-    },
-    {
-      "id": "50094099",
-      "title": "Auditory processing strategies in humans and zebra finches",
-      "url": "https://www.nature.com/articles/s42003-026-11035-9",
-      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-14T19:55:04Z",
+      "publishedAt": "2026-09-23T13:50:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "bryanrasmussen",
-      "likes": 2,
-      "views": 1,
+      "author": "mooreds",
+      "likes": 4,
+      "views": 0,
       "retweets": 0,
-      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "author_name": "bryanrasmussen"
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
     }
   ]
 }
