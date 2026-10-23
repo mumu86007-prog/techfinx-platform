@@ -1,107 +1,307 @@
 {
-  "version": "2026-10-23T13:17:16.164Z",
-  "generatedAt": "2026-10-23T13:17:16.164Z",
+  "version": "2026-10-23T21:57:31.001Z",
+  "generatedAt": "2026-10-23T21:57:31.001Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50208384",
-      "title": "AI Article Reviews Dominate Human Peer Reviews at Their Best",
-      "url": "https://gking.harvard.edu/peerless/",
-      "summary": "We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with concerning downsides as…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-23T13:05:25Z",
+      "id": "50215890",
+      "title": "AI Just Raised the Stakes on Continuous Delivery",
+      "url": "https://www.bradoyler.com/ai/continuous-delivery-is-a-security-feature/",
+      "summary": "PHP2Shell, Node2Shell, eMudhra, Plex2Shell, and a backdoored LiteLLM all landed within days of each other. AI is shrinking the time from disclosure to exploit, which makes the ability to ship a fix the same day more valuable than ever.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T21:53:52Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "torutofu",
+      "author": "bradoyler",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with concerning downsides as…",
-      "author_name": "torutofu"
+      "text": "PHP2Shell, Node2Shell, eMudhra, Plex2Shell, and a backdoored LiteLLM all landed within days of each other. AI is shrinking the time from disclosure to exploit, which makes the ability to ship a fix the same day more valuable than ever.",
+      "author_name": "bradoyler"
     },
     {
-      "id": "50208364",
-      "title": "I'm betting that detailed case studies are the way to show your skill",
-      "url": "https://www.eyosias.dev/case-studies/ai-mailbox-analysis",
-      "summary": "I&#x27;m betting that detailed case studies are becoming the way to show skill. This one records the judgment behind an AI workflow that pulled five years of past customers out of a company&#x27;s email.",
+      "id": "50215398",
+      "title": "AI is devastating higher education, but the system was broken",
+      "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+      "summary": "AI is a project of the powerful, implemented in the name of an efficiency that has nothing to do with the good, writes Jeff Sparrow.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-23T13:04:03Z",
+      "publishedAt": "2026-10-23T21:11:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "pseudolus",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI is a project of the powerful, implemented in the name of an efficiency that has nothing to do with the good, writes Jeff Sparrow.",
+      "author_name": "pseudolus"
+    },
+    {
+      "id": "50215349",
+      "title": "UC Berkeley math community left at crossroads in wake of Navier-Stokes proof",
+      "url": "https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-left-at-crossroads-in-wake-of-openai-navier-stokes-proof/article_2253ca6c-39c0-45be-947a-f0fd5b48bd6c.html",
+      "summary": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T21:08:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "ibobev",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
+      "author_name": "ibobev"
+    },
+    {
+      "id": "50215317",
+      "title": "The attack chain behind the v1.107.0 LiteLLM release",
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
+      "summary": "The attack chain behind the v1.107.0 LiteLLM release | liteLLM Skip to main content Decisions API is here. Call Jev, Clef or any decision model through one /v1/decisions endpoint. → Docs Home Home Get started with LiteLLM Build AI Gateway Route, control, and observe LLM traffic MCP Gateway Give agents governed access t…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T21:05:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 28,
+      "author": "chias",
+      "likes": 12,
+      "views": 0,
+      "retweets": 0,
+      "text": "The attack chain behind the v1.107.0 LiteLLM release | liteLLM Skip to main content Decisions API is here. Call Jev, Clef or any decision model through one /v1/decisions endpoint. → Docs Home Home Get started with LiteLLM Build AI Gateway Route, control, and observe LLM traffic MCP Gateway Give agents governed access t…",
+      "author_name": "chias"
+    },
+    {
+      "id": "50215283",
+      "title": "Investigating the PingCAP Security Incident",
+      "url": "https://nebusec.ai/research/pingcap-security-incident/",
+      "summary": "Between September 9 and October 7, 2026, an unauthorized party used a compromised GitHub account and exposed cloud credentials to copy PingCAP source code and internal analytics, storage and support records. NebuSec led the independent investigation and found no evidence of command execution, persistence, or access to…",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-23T21:02:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "jinqueeny",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Between September 9 and October 7, 2026, an unauthorized party used a compromised GitHub account and exposed cloud credentials to copy PingCAP source code and internal analytics, storage and support records. NebuSec led the independent investigation and found no evidence of command execution, persistence, or access to…",
+      "author_name": "jinqueeny"
+    },
+    {
+      "id": "50215039",
+      "title": "The one time we break the LLM cache on purpose",
+      "url": "https://www.induction.ai/blog/benchmark-cache-isolation",
+      "summary": "Benchmark trials that read each other’s prompt cache report a lower cost than the agent really has, and one unused tool keeps them apart.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T20:41:58Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "Eyosias_x5",
+      "author": "bleonard",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "I&#x27;m betting that detailed case studies are becoming the way to show skill. This one records the judgment behind an AI workflow that pulled five years of past customers out of a company&#x27;s email.",
-      "author_name": "Eyosias_x5"
+      "text": "Benchmark trials that read each other’s prompt cache report a lower cost than the agent really has, and one unused tool keeps them apart.",
+      "author_name": "bleonard"
     },
     {
-      "id": "50208345",
-      "title": "Glyphh Ada – Precedent-based classifier and LLM fallthrough router",
-      "url": "https://glyphh.ai",
-      "summary": "Ada learns from your labelled examples. A new case is answered from its nearest precedents, with a calibrated confidence and the precedents it stands on; when Ada is unsure, your application hands the case to an LLM, and that answer becomes Ada’s next time. It runs in Ada Cloud, isolated per organisation. Free to start…",
+      "id": "50214606",
+      "title": "AI Coding Agent Security Benchmark",
+      "url": "https://www.endorlabs.com/research/ai-code-security-benchmark",
+      "summary": "The Agent Security League is an open benchmark tracking the functional and security correctness of popular AI coding agents across real-world tasks.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T13:02:27Z",
+      "publishedAt": "2026-10-23T20:08:49Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 19,
-      "author": "christimmerman",
+      "score": 17,
+      "author": "espeed",
       "likes": 1,
       "views": 1,
       "retweets": 0,
-      "text": "Ada learns from your labelled examples. A new case is answered from its nearest precedents, with a calibrated confidence and the precedents it stands on; when Ada is unsure, your application hands the case to an LLM, and that answer becomes Ada’s next time. It runs in Ada Cloud, isolated per organisation. Free to start…",
-      "author_name": "christimmerman"
+      "text": "The Agent Security League is an open benchmark tracking the functional and security correctness of popular AI coding agents across real-world tasks.",
+      "author_name": "espeed"
     },
     {
-      "id": "50208342",
-      "title": "Running 50 AI agent threads at once made me the bottleneck",
-      "url": "https://thoughts.jock.pl/p/ai-agents-attention-bottleneck-decisions-2026",
-      "summary": "I ran 50+ AI agent threads a day for months. Productivity went up, my energy went down. Why attention is the new bottleneck and decisions are my job now.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T13:02:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "joozio",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I ran 50+ AI agent threads a day for months. Productivity went up, my energy went down. Why attention is the new bottleneck and decisions are my job now.",
-      "author_name": "joozio"
-    },
-    {
-      "id": "50208337",
-      "title": "Contrary to popular belief, AI can exploit the PHP exploit [video]",
-      "url": "https://www.youtube.com/watch?v=SP7y1h0laN0",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "id": "50214055",
+      "title": "Volodymyr Zelenskyy: The speed limits on Starlink and Starshield are still there",
+      "url": "https://twitter.com/ZelenskyyUa/status/2113677048354947180",
+      "summary": "The speed limits on Starlink and Starshield are still there. The speed has not been restored. And the delivery of interceptors to protect us against Russian ballistic missiles is still delayed. We’re waiting for interceptors that were already agreed on. But they are still not coming. This is a real…",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-23T13:02:00Z",
+      "publishedAt": "2026-10-23T19:21:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 43,
+      "author": "doener",
+      "likes": 26,
+      "views": 12,
+      "retweets": 0,
+      "text": "The speed limits on Starlink and Starshield are still there. The speed has not been restored. And the delivery of interceptors to protect us against Russian ballistic missiles is still delayed. We’re waiting for interceptors that were already agreed on. But they are still not coming. This is a real…",
+      "author_name": "doener"
+    },
+    {
+      "id": "50213044",
+      "title": "We build SaaS products, MVPs, and custom web apps",
+      "url": "https://www.bitechnology.co.uk/",
+      "summary": "BI Technology Limited is a software company building subscription software, custom websites and web applications for clients worldwide.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-10-23T18:05:45Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "eraclide",
+      "author": "GhostMarley",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "BI Technology Limited is a software company building subscription software, custom websites and web applications for clients worldwide.",
+      "author_name": "GhostMarley"
+    },
+    {
+      "id": "50212881",
+      "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
+      "url": "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
+      "summary": "In a blog post disclosing the incidents, OpenAI said that, in the first case, an agent powered by GPT Sol 6.1 disabled automatic alerts after a team...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T17:54:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "entryleveljobsc",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "In a blog post disclosing the incidents, OpenAI said that, in the first case, an agent powered by GPT Sol 6.1 disabled automatic alerts after a team...",
+      "author_name": "entryleveljobsc"
+    },
+    {
+      "id": "50212778",
+      "title": "Private LLM Inference with Homomorphic Encryption [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol19/p4927-lim.pdf",
+      "summary": "%PDF-1.6 %���� 358 0 obj > endobj 411 0 obj >/Filter/FlateDecode/ID[ ]/Index[358 124]/Info 357 0 R/Length 160/Prev 317047/Root 359 0 R/Size 482/Type/XRef/W[1 2 1]>>stream h�bbd\u0010``b`5\u0001\u0012���\u0004�\u000e��\u001dD�\u0004\u0011�@b�A��(,�,�LL\u0016D\u0007�5\u0003Ě\u0006�@\u0018\u0000�1\u0003�\u0004\"�f\u0014B\u0002�bb\u0001\u0012|G��\u0002\u001b�� $���\u0004�\u001e\u0010\u0017�\u0018�@�X�Ab\u001f@�#�`6\u0000ɞ\u0005��Ab� �0��\u0002\u0012:\u0017�\u0004�6Ȣ�@������\u0011d(\u0003\u0003�0'�/�����~�…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T17:47:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "vitalnodo",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "%PDF-1.6 %���� 358 0 obj > endobj 411 0 obj >/Filter/FlateDecode/ID[ ]/Index[358 124]/Info 357 0 R/Length 160/Prev 317047/Root 359 0 R/Size 482/Type/XRef/W[1 2 1]>>stream h�bbd\u0010``b`5\u0001\u0012���\u0004�\u000e��\u001dD�\u0004\u0011�@b�A��(,�,�LL\u0016D\u0007�5\u0003Ě\u0006�@\u0018\u0000�1\u0003�\u0004\"�f\u0014B\u0002�bb\u0001\u0012|G��\u0002\u001b�� $���\u0004�\u001e\u0010\u0017�\u0018�@�X�Ab\u001f@�#�`6\u0000ɞ\u0005��Ab� �0��\u0002\u0012:\u0017�\u0004�6Ȣ�@������\u0011d(\u0003\u0003�0'�/�����~�…",
+      "author_name": "vitalnodo"
+    },
+    {
+      "id": "50211493",
+      "title": "Anthropic want work patterns to change",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+      "summary": "Anthropic claims AI will shift how work gets done and labor demand &#x2013; but some experts are skeptical of the vision",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T16:22:52Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 13,
+      "author": "wsintra2022",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "eraclide"
+      "text": "Anthropic claims AI will shift how work gets done and labor demand &#x2013; but some experts are skeptical of the vision",
+      "author_name": "wsintra2022"
+    },
+    {
+      "id": "50211142",
+      "title": "We gave an AI $100k to trade on leverage. Here's what it did",
+      "url": "https://twitter.com/DeployFinance/status/2113642187074195945",
+      "summary": "We gave an AI $100,000 in its own agentic wallet to trade on Hyperliquid’s decentralized perpetuals market, running Deploy Finance’s agent, Superstar, for 70 days. Its worst drawdown was 1.2%, and it made money every month. Read the full breakdown of what happened in today’s article.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T15:59:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "bsv_gtd",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "We gave an AI $100,000 in its own agentic wallet to trade on Hyperliquid’s decentralized perpetuals market, running Deploy Finance’s agent, Superstar, for 70 days. Its worst drawdown was 1.2%, and it made money every month. Read the full breakdown of what happened in today’s article.",
+      "author_name": "bsv_gtd"
+    },
+    {
+      "id": "50210573",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T15:21:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "Brajeshwar",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "author_name": "Brajeshwar"
+    },
+    {
+      "id": "50209939",
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "summary": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T14:44:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 46,
+      "author": "olwmc",
+      "likes": 15,
+      "views": 3,
+      "retweets": 0,
+      "text": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
+      "author_name": "olwmc"
     },
     {
       "id": "50208187",
@@ -122,206 +322,6 @@
       "retweets": 0,
       "text": "External review from METR of the &quot;Misalignment in high-stakes settings&quot; section in Anthropic&#39;s August 2026 Risk Report",
       "author_name": "gmays"
-    },
-    {
-      "id": "50207612",
-      "title": "Local AI Report#7–Machine-Speed Attacks: Breaches and Where Local AI Fits",
-      "url": "https://llmconfigurator.com/en/reports/ai-cyber-threats-2026-local-ai",
-      "summary": "A year of breaches, Oct 2025–Oct 2026: supply-chain worms, AI-run intrusions, shadow AI leaks and grid attacks — and where running AI locally actually helps.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-23T12:02:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "jrusinowski",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A year of breaches, Oct 2025–Oct 2026: supply-chain worms, AI-run intrusions, shadow AI leaks and grid attacks — and where running AI locally actually helps.",
-      "author_name": "jrusinowski"
-    },
-    {
-      "id": "50207582",
-      "title": "New evidence linking far-right leader Bardella to antisemitic messages revealed",
-      "url": "https://www.lemonde.fr/en/politics/article/2026/10/09/new-evidence-linking-far-right-leader-bardella-to-antisemitic-messages-revealed_6758422_5.html",
-      "summary": "The investigative website Mediapart said it found three more conversations from people who interacted with Jordan Bardella, further strengthening his link with the incriminating Facebook account.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-23T11:59:37Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "firefax",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "The investigative website Mediapart said it found three more conversations from people who interacted with Jordan Bardella, further strengthening his link with the incriminating Facebook account.",
-      "author_name": "firefax"
-    },
-    {
-      "id": "50207332",
-      "title": "Text-to-Diagram for AI Systems: Designing a DSL an LLM Gets Right",
-      "url": "https://zerowithdot.com/blog/text-to-diagram-for-ai-systems/",
-      "summary": "Gnomon, the DSL from my DevAI 2026 keynote: a Python compiler built on Lark and an ontology, turning talk about a system into a diagram you can check.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T11:31:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "OlegZero13",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Gnomon, the DSL from my DevAI 2026 keynote: a Python compiler built on Lark and an ontology, turning talk about a system into a diagram you can check.",
-      "author_name": "OlegZero13"
-    },
-    {
-      "id": "50207088",
-      "title": "Living House: Adaptive UI and docs using in-browser inference",
-      "url": "https://passo.uno/adaptive-ui-docs-using-llms/",
-      "summary": "One of my favorite video games of all time is Control. The main location of the game, the brutalist Oldest House, reacts to the player’s actions and rearranges itself dynamically, moving slabs of concrete around like a sentient being. Now, what if user interfaces and docs could react dynamically to the user and seek to…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-23T11:02:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "theletterf",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "One of my favorite video games of all time is Control. The main location of the game, the brutalist Oldest House, reacts to the player’s actions and rearranges itself dynamically, moving slabs of concrete around like a sentient being. Now, what if user interfaces and docs could react dynamically to the user and seek to…",
-      "author_name": "theletterf"
-    },
-    {
-      "id": "50206997",
-      "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
-      "url": "https://ciphercue.com/blog/openai-chatgpt-ad-pixel-european-shops",
-      "summary": "OpenAI&#039;s ChatGPT ad pixel tracks by default. Of 341 mostly European shops running it, 224 send a measurement event to OpenAI before consent.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T10:52:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "adulion",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI&#039;s ChatGPT ad pixel tracks by default. Of 341 mostly European shops running it, 224 send a measurement event to OpenAI before consent.",
-      "author_name": "adulion"
-    },
-    {
-      "id": "50206438",
-      "title": "Text Is Unnatural, and LLMs Are Built on It",
-      "url": "https://www.innerkore.com/blog/text-is-unnatural-llms-learn-the-map/",
-      "summary": "Innerkore Technologies Private Limited builds modern web applications, AI-enabled products, and digital platforms for ambitious teams.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T09:33:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "gagan2020",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Innerkore Technologies Private Limited builds modern web applications, AI-enabled products, and digital platforms for ambitious teams.",
-      "author_name": "gagan2020"
-    },
-    {
-      "id": "50204942",
-      "title": "The AI Expectations Gap [pdf]",
-      "url": "https://www-cdn.anthropic.com/a28f24814c56e2834a3eae7b13946f19d3e97ec4/The%20AI%20Expectations%20Gap.pdf",
-      "summary": "%PDF-1.4 %���� ReportLab Generated PDF document (opensource) 1 0 obj > endobj 2 0 obj > endobj 3 0 obj > /Rotate 0 /Trans > /Type /Page >> endobj 4 0 obj > /Rotate 0 /Trans > /Type /Page >> endobj 5 0 obj > /Rotate 0 /Trans > /Type /Page >> endobj 6 0 obj > stream Gb\"-VmE[)tH11VpiliKPr:7oJhOL?8_S\"Q+E?r 84FnO8qC\\:lsr^n8…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-23T05:56:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "JumpCrisscross",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "%PDF-1.4 %���� ReportLab Generated PDF document (opensource) 1 0 obj > endobj 2 0 obj > endobj 3 0 obj > /Rotate 0 /Trans > /Type /Page >> endobj 4 0 obj > /Rotate 0 /Trans > /Type /Page >> endobj 5 0 obj > /Rotate 0 /Trans > /Type /Page >> endobj 6 0 obj > stream Gb\"-VmE[)tH11VpiliKPr:7oJhOL?8_S\"Q+E?r 84FnO8qC\\:lsr^n8…",
-      "author_name": "JumpCrisscross"
-    },
-    {
-      "id": "50204889",
-      "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks",
-      "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
-      "summary": "If you’re an instructor for the O’Reilly live training platform, you’ve got to be prepared for the unexpected. As a developer I think we all can understand the",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T05:43:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "pella",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "If you’re an instructor for the O’Reilly live training platform, you’ve got to be prepared for the unexpected. As a developer I think we all can understand the",
-      "author_name": "pella"
-    },
-    {
-      "id": "50202217",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "summary": "Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T22:54:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 412,
-      "author": "johnbender",
-      "likes": 381,
-      "views": 229,
-      "retweets": 0,
-      "text": "Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.",
-      "author_name": "johnbender"
-    },
-    {
-      "id": "50201261",
-      "title": "Hannah Fry: How OpenAI has caused an existential crisis in mathematics",
-      "url": "https://www.newscientist.com/article/2593249-hannah-fry-how-openai-has-caused-an-existential-crisis-in-mathematics/",
-      "summary": "OpenAI has been throwing everything at solving long-standing maths problems. This should have been a glorious moment for mathematicians – but instead we&#039;re having a massive collective wobble, says New Scientist&#039;s new columnist, Professor Hannah Fry",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T21:24:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "consumer451",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenAI has been throwing everything at solving long-standing maths problems. This should have been a glorious moment for mathematicians – but instead we&#039;re having a massive collective wobble, says New Scientist&#039;s new columnist, Professor Hannah Fry",
-      "author_name": "consumer451"
     },
     {
       "id": "50200790",
@@ -364,44 +364,24 @@
       "author_name": "FinnLobsien"
     },
     {
-      "id": "50193884",
-      "title": "How Do AI Agents Remember Things Across Tasks?",
-      "url": "https://twitter.com/AgentMemoryL/status/2112544370348241108",
-      "summary": "11 days left to join AML Cycle 2. The deadline for complete submissions is October 31, 2026, 23:59 UTC+8. We evaluate Agent Memory across: • Textual Memory • Coding Memory • Multimodal Memory Participants bring their own Add / Search systems. AML standardizes downstream Answer / Eval, review, and…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T11:23:30Z",
+      "id": "50094099",
+      "title": "Auditory processing strategies in humans and zebra finches",
+      "url": "https://www.nature.com/articles/s42003-026-11035-9",
+      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-14T19:55:04Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 19,
-      "author": "MemoryEnthusias",
+      "score": 18,
+      "author": "bryanrasmussen",
       "likes": 2,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "11 days left to join AML Cycle 2. The deadline for complete submissions is October 31, 2026, 23:59 UTC+8. We evaluate Agent Memory across: • Textual Memory • Coding Memory • Multimodal Memory Participants bring their own Add / Search systems. AML standardizes downstream Answer / Eval, review, and…",
-      "author_name": "MemoryEnthusias"
-    },
-    {
-      "id": "49823444",
-      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
-      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
-      "summary": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-09-23T22:26:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "gfactor_ai",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
-      "author_name": "gfactor_ai"
+      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "author_name": "bryanrasmussen"
     }
   ]
 }
