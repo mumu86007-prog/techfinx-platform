@@ -1,8 +1,208 @@
 {
-  "version": "2026-10-24T16:30:22.522Z",
-  "generatedAt": "2026-10-24T16:30:22.523Z",
+  "version": "2026-10-24T21:28:14.917Z",
+  "generatedAt": "2026-10-24T21:28:14.917Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "50225443",
+      "title": "Making My Blog Readable by AI Agents",
+      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "summary": "How I made this blog easy for AI agents to read: markdown copies of every post, Accept header negotiation in nginx, llms.txt, robots.txt and feeds.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-24T21:21:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "ingve",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "How I made this blog easy for AI agents to read: markdown copies of every post, Accept header negotiation in nginx, llms.txt, robots.txt and feeds.",
+      "author_name": "ingve"
+    },
+    {
+      "id": "50225322",
+      "title": "Sevenbox, find what an AI agent's wrong decision affected",
+      "url": "https://github.com/sevenboxlabs/sevenbox",
+      "summary": "Decision audit for AI agents. Tracks why each decision was made and which irreversible actions need compensation when a belief turns out to be wrong. Works with LangGraph, CrewAI, OpenAI Agents SDK and 11 more frameworks. - sevenboxlabs/sevenbox",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-24T21:09:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "ObeeAI",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Decision audit for AI agents. Tracks why each decision was made and which irreversible actions need compensation when a belief turns out to be wrong. Works with LangGraph, CrewAI, OpenAI Agents SDK and 11 more frameworks. - sevenboxlabs/sevenbox",
+      "author_name": "ObeeAI"
+    },
+    {
+      "id": "50225120",
+      "title": "Flying the Worlds Fastest 3D-Printed Fixed Wing RC Aircraft [video]",
+      "url": "https://www.youtube.com/watch?v=ozTrs-dRBPA",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-24T20:50:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Teever",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "Teever"
+    },
+    {
+      "id": "50225056",
+      "title": "Agent Compute Engine and expanded agent governance",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance",
+      "summary": "The new Agent Compute Engine plus expanded Gemini for business agent governance deliver the control you need to run, govern, and scale your agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-24T20:44:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "jhalstead",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The new Agent Compute Engine plus expanded Gemini for business agent governance deliver the control you need to run, govern, and scale your agents.",
+      "author_name": "jhalstead"
+    },
+    {
+      "id": "50225018",
+      "title": "Altman issues self-serving warning they've created a monster they can't control",
+      "url": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
+      "summary": "Sam Altman believes advanced AI can&#039;t be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that&#039;s still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker would ever spot.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-24T20:40:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "magus-stoopr",
+      "likes": 4,
+      "views": 1,
+      "retweets": 0,
+      "text": "Sam Altman believes advanced AI can&#039;t be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that&#039;s still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker would ever spot.",
+      "author_name": "magus-stoopr"
+    },
+    {
+      "id": "50224890",
+      "title": "AI agents, in separate VMs without network, communicated through the CPU cache",
+      "url": "https://twitter.com/rynorhn/status/2113757656498196605",
+      "summary": "holy fucking shit. openai had two ai agents running in separate virtual machines. no network connection between them. no shared writable files. they weren’t supposed to be able to exchange information. so the agents figured out how to communicate through the CPU CACHE.😭 one manipulated what was…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-24T20:28:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "thunderbong",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "holy fucking shit. openai had two ai agents running in separate virtual machines. no network connection between them. no shared writable files. they weren’t supposed to be able to exchange information. so the agents figured out how to communicate through the CPU CACHE.😭 one manipulated what was…",
+      "author_name": "thunderbong"
+    },
+    {
+      "id": "50224545",
+      "title": "Ukraine says Starlink is back to normal after limits hobbled its drones",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-says-starlink-back-normal-week-limits-rcna605368",
+      "summary": "KYIV — Ukraine said on Saturday ​that the Starlink satellite system and its military version Starshield were again operating at high speeds after over a week of restrictions that disrupted military operations and intensified tensions with ⁠the US.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-24T19:57:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "MilnerRoute",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "KYIV — Ukraine said on Saturday ​that the Starlink satellite system and its military version Starshield were again operating at high speeds after over a week of restrictions that disrupted military operations and intensified tensions with ⁠the US.",
+      "author_name": "MilnerRoute"
+    },
+    {
+      "id": "50223591",
+      "title": "For the next two weeks, we're covering $1M in security scans and fixes",
+      "url": "https://www.coderabbit.ai/blog/one-million-security-scans-and-fixes",
+      "summary": "CodeRabbit is making up to $1 million in Deep Scan usage available at no cost until November 8. Organizations can access up to $5,000 while the allocation lasts.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-24T17:58:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "smb06",
+      "likes": 2,
+      "views": 2,
+      "retweets": 0,
+      "text": "CodeRabbit is making up to $1 million in Deep Scan usage available at no cost until November 8. Organizations can access up to $5,000 while the allocation lasts.",
+      "author_name": "smb06"
+    },
+    {
+      "id": "50223240",
+      "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+      "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+      "summary": "A METR employee and a Redwood Research employee spent three weeks stress-testing OpenAI&#39;s internal misalignment monitoring system, discovering a number of novel vulnerabilities.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-24T17:20:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "torsi0n",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A METR employee and a Redwood Research employee spent three weeks stress-testing OpenAI&#39;s internal misalignment monitoring system, discovering a number of novel vulnerabilities.",
+      "author_name": "torsi0n"
+    },
+    {
+      "id": "50222943",
+      "title": "Glasswing isn't built to optimize cyberdefense",
+      "url": "https://podcasts.apple.com/us/podcast/why-is-anthropic-afraid-of-glm-5-3/id1414525622?i=1000792888727",
+      "summary": "(Presented by TLPBLACK: A cybersecurity intelligence platform focused on sharing curated, high-sensitivity threat insights and research with trusted security pr",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-24T16:43:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "carwil",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "(Presented by TLPBLACK: A cybersecurity intelligence platform focused on sharing curated, high-sensitivity threat insights and research with trusted security pr",
+      "author_name": "carwil"
+    },
     {
       "id": "50222576",
       "title": "Stolen AI Architecture integrated into healthcare startup and defense contractor",
@@ -24,26 +224,6 @@
       "author_name": "MarissaMcWhorte"
     },
     {
-      "id": "50222475",
-      "title": "Agent Compute Engine: Building the compute foundation for the agentic era",
-      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive",
-      "summary": "Traditional compute primitives are not built to run hundreds of millions of these agents at planet scale, which led us to build Agent Compute Engine.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-24T15:52:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "luispa",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Traditional compute primitives are not built to run hundreds of millions of these agents at planet scale, which led us to build Agent Compute Engine.",
-      "author_name": "luispa"
-    },
-    {
       "id": "50222283",
       "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
       "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
@@ -55,73 +235,13 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 35,
       "author": "tokepi",
-      "likes": 4,
-      "views": 0,
+      "likes": 21,
+      "views": 17,
       "retweets": 0,
       "text": "[This is a guest post by Abhinav Nellore, Johannes Schmitt, Soledad Villar, and Rachel Ward &#8211; T.] OpenAI&#8217;s math write-ups at can be difficult to understand and can have incomplete citat…",
       "author_name": "tokepi"
-    },
-    {
-      "id": "50222259",
-      "title": "Politico reconstructs the global scramble after the PHP2Shell leak",
-      "url": "https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/",
-      "summary": "Vulnerabilities in a programming language underpinning much of the web set off a hectic 72-hour rush among virtually every cybersecurity agency in the world.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-24T15:32:33Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "sgiannopoulos",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Vulnerabilities in a programming language underpinning much of the web set off a hectic 72-hour rush among virtually every cybersecurity agency in the world.",
-      "author_name": "sgiannopoulos"
-    },
-    {
-      "id": "50222088",
-      "title": "From Software Engineering to AI Research or a Tale of 413 \"No\"",
-      "url": "https://faillearnrepeat.net/blog/from-swe-to-ai-research/",
-      "summary": "Middle-of-nowhere in Russia, outsourcing and startups, web, conferences. London, Meta, infra, open source. Moscow, Skoltech, a second Master’s, first publications. Back to London, Mistral AI and Revolut, industrial AI research, a permanent feeling of being an idiot, and the thrill of a ton of adventures ahead. Anyway,…",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-24T15:15:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "fxlrnrpt",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "Middle-of-nowhere in Russia, outsourcing and startups, web, conferences. London, Meta, infra, open source. Moscow, Skoltech, a second Master’s, first publications. Back to London, Mistral AI and Revolut, industrial AI research, a permanent feeling of being an idiot, and the thrill of a ton of adventures ahead. Anyway,…",
-      "author_name": "fxlrnrpt"
-    },
-    {
-      "id": "50218278",
-      "title": "Filekin – PDF tools with no signup, no limits and no watermark",
-      "url": "https://filekin.io/",
-      "summary": "Merge, split, compress, repair, convert, edit and sign PDFs, and create e-invoices, for free. No signup, no daily limits, no watermark, nothing to install.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-24T04:05:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "LlamaCode",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Merge, split, compress, repair, convert, edit and sign PDFs, and create e-invoices, for free. No signup, no daily limits, no watermark, nothing to install.",
-      "author_name": "LlamaCode"
     },
     {
       "id": "50216917",
@@ -195,9 +315,9 @@
         "AI",
         "科技"
       ],
-      "score": 34,
+      "score": 35,
       "author": "chias",
-      "likes": 18,
+      "likes": 19,
       "views": 0,
       "retweets": 0,
       "text": "The attack chain behind the v1.107.0 LiteLLM release | liteLLM Skip to main content Decisions API is here. Call Jev, Clef or any decision model through one /v1/decisions endpoint. → Docs Home Home Get started with LiteLLM Build AI Gateway Route, control, and observe LLM traffic MCP Gateway Give agents governed access t…",
@@ -244,26 +364,6 @@
       "author_name": "espeed"
     },
     {
-      "id": "50212881",
-      "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
-      "url": "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
-      "summary": "In a blog post disclosing the incidents, OpenAI said that, in the first case, an agent powered by GPT Sol 6.1 disabled automatic alerts after a team...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T17:54:56Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "entryleveljobsc",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "In a blog post disclosing the incidents, OpenAI said that, in the first case, an agent powered by GPT Sol 6.1 disabled automatic alerts after a team...",
-      "author_name": "entryleveljobsc"
-    },
-    {
       "id": "50211493",
       "title": "Anthropic want work patterns to change",
       "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
@@ -302,66 +402,6 @@
       "retweets": 0,
       "text": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
       "author_name": "Brajeshwar"
-    },
-    {
-      "id": "50209939",
-      "title": "An alignment assessment of the UK AISI cybertesting incident",
-      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-      "summary": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T14:44:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 49,
-      "author": "olwmc",
-      "likes": 18,
-      "views": 3,
-      "retweets": 0,
-      "text": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
-      "author_name": "olwmc"
-    },
-    {
-      "id": "50200790",
-      "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised",
-      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
-      "summary": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised | liteLLM Skip to main content Decisions API is here. Call Jev, Clef or any decision model through one /v1/decisions endpoint. → Docs Home Home Get started with LiteLLM Build AI Gateway Route, control, and observe LLM traffic MCP Gateway Give agents governed…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-22T20:45:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "gmays",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised | liteLLM Skip to main content Decisions API is here. Call Jev, Clef or any decision model through one /v1/decisions endpoint. → Docs Home Home Get started with LiteLLM Build AI Gateway Route, control, and observe LLM traffic MCP Gateway Give agents governed…",
-      "author_name": "gmays"
-    },
-    {
-      "id": "49816175",
-      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
-      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
-      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-09-23T13:50:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mooreds",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
-      "author_name": "mooreds"
     }
   ]
 }
