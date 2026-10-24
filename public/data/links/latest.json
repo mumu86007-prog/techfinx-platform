@@ -1,87 +1,107 @@
 {
-  "version": "2026-10-24T12:34:31.865Z",
-  "generatedAt": "2026-10-24T12:34:31.865Z",
+  "version": "2026-10-24T16:30:22.522Z",
+  "generatedAt": "2026-10-24T16:30:22.523Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50220255",
-      "title": "Draggy: A Windows desktop app for local and cloud AI chat and coding",
-      "url": "https://github.com/Lucki74/draggy",
-      "summary": "Open-source desktop assistant for local models. Chat, talk to it, and let it browse the web and work with your files. - Lucki74/draggy",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-24T11:28:42Z",
+      "id": "50222576",
+      "title": "Stolen AI Architecture integrated into healthcare startup and defense contractor",
+      "url": "https://rentry.co/themis-docket-e61b189e37",
+      "summary": "Forensic Analysis of the KAIROS IP Theft and Cybercrime Network Date of Release: October 24, 2026 DOWNLOAD RAW FORENSIC EVIDENCE (.ZIP) THEMIS DOCKET: COMPREHENSIVE FORENSIC INVESTIGATION REPORT SUBJECT: Coordinated Intellectual Property Theft, Corporate Fraud, and Cybercrime Network Targeting Sy...",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-10-24T16:01:49Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 32,
-      "author": "lucki74",
-      "likes": 1,
+      "score": 22,
+      "author": "MarissaMcWhorte",
+      "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "Open-source desktop assistant for local models. Chat, talk to it, and let it browse the web and work with your files. - Lucki74/draggy",
-      "author_name": "lucki74"
+      "text": "Forensic Analysis of the KAIROS IP Theft and Cybercrime Network Date of Release: October 24, 2026 DOWNLOAD RAW FORENSIC EVIDENCE (.ZIP) THEMIS DOCKET: COMPREHENSIVE FORENSIC INVESTIGATION REPORT SUBJECT: Coordinated Intellectual Property Theft, Corporate Fraud, and Cybercrime Network Targeting Sy...",
+      "author_name": "MarissaMcWhorte"
     },
     {
-      "id": "50220204",
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "summary": "A fresh academic paper on Z-Library cites a TorrentFreak article that doesn’t exist, and several other sources in the paper are also unfindable. The authors disclose that they used AI tools, which may explain what is going on. The use of AI in an academic paper on shadow libraries is also somewhat ironic, as rightshold…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-24T11:18:54Z",
+      "id": "50222475",
+      "title": "Agent Compute Engine: Building the compute foundation for the agentic era",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive",
+      "summary": "Traditional compute primitives are not built to run hundreds of millions of these agents at planet scale, which led us to build Agent Compute Engine.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-24T15:52:49Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 48,
-      "author": "TangerineDream",
-      "likes": 32,
-      "views": 2,
-      "retweets": 0,
-      "text": "A fresh academic paper on Z-Library cites a TorrentFreak article that doesn’t exist, and several other sources in the paper are also unfindable. The authors disclose that they used AI tools, which may explain what is going on. The use of AI in an academic paper on shadow libraries is also somewhat ironic, as rightshold…",
-      "author_name": "TangerineDream"
-    },
-    {
-      "id": "50220182",
-      "title": "Super Mario creator breaks down the problem with AI perfectly",
-      "url": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/",
-      "summary": "Nintendo&#039;s Shigeru Miyamoto, known for Zelda and Mario, just gave the world a master class on the limits of AI creation",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-24T11:16:37Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "plaguna",
+      "score": 31,
+      "author": "luispa",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Nintendo&#039;s Shigeru Miyamoto, known for Zelda and Mario, just gave the world a master class on the limits of AI creation",
-      "author_name": "plaguna"
+      "text": "Traditional compute primitives are not built to run hundreds of millions of these agents at planet scale, which led us to build Agent Compute Engine.",
+      "author_name": "luispa"
     },
     {
-      "id": "50220098",
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trus…",
+      "id": "50222283",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "summary": "[This is a guest post by Abhinav Nellore, Johannes Schmitt, Soledad Villar, and Rachel Ward &#8211; T.] OpenAI&#8217;s math write-ups at can be difficult to understand and can have incomplete citat…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-24T11:02:12Z",
+      "publishedAt": "2026-10-24T15:35:17Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "joozio",
+      "author": "tokepi",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "[This is a guest post by Abhinav Nellore, Johannes Schmitt, Soledad Villar, and Rachel Ward &#8211; T.] OpenAI&#8217;s math write-ups at can be difficult to understand and can have incomplete citat…",
+      "author_name": "tokepi"
+    },
+    {
+      "id": "50222259",
+      "title": "Politico reconstructs the global scramble after the PHP2Shell leak",
+      "url": "https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/",
+      "summary": "Vulnerabilities in a programming language underpinning much of the web set off a hectic 72-hour rush among virtually every cybersecurity agency in the world.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-24T15:32:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "sgiannopoulos",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trus…",
-      "author_name": "joozio"
+      "text": "Vulnerabilities in a programming language underpinning much of the web set off a hectic 72-hour rush among virtually every cybersecurity agency in the world.",
+      "author_name": "sgiannopoulos"
+    },
+    {
+      "id": "50222088",
+      "title": "From Software Engineering to AI Research or a Tale of 413 \"No\"",
+      "url": "https://faillearnrepeat.net/blog/from-swe-to-ai-research/",
+      "summary": "Middle-of-nowhere in Russia, outsourcing and startups, web, conferences. London, Meta, infra, open source. Moscow, Skoltech, a second Master’s, first publications. Back to London, Mistral AI and Revolut, industrial AI research, a permanent feeling of being an idiot, and the thrill of a ton of adventures ahead. Anyway,…",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-24T15:15:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "fxlrnrpt",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Middle-of-nowhere in Russia, outsourcing and startups, web, conferences. London, Meta, infra, open source. Moscow, Skoltech, a second Master’s, first publications. Back to London, Mistral AI and Revolut, industrial AI research, a permanent feeling of being an idiot, and the thrill of a ton of adventures ahead. Anyway,…",
+      "author_name": "fxlrnrpt"
     },
     {
       "id": "50218278",
@@ -144,6 +164,26 @@
       "author_name": "bradoyler"
     },
     {
+      "id": "50215349",
+      "title": "UC Berkeley math community left at crossroads in wake of Navier-Stokes proof",
+      "url": "https://www.dailycal.org/news/campus/academics/uc-berkeley-math-community-left-at-crossroads-in-wake-of-openai-navier-stokes-proof/article_2253ca6c-39c0-45be-947a-f0fd5b48bd6c.html",
+      "summary": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-23T21:08:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "ibobev",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "After OpenAI announced its solution to one of mathematics&rsquo; most difficult unsolved problems, UC Berkeley mathematicians are considering AI&rsquo;s impact on the future of the field.",
+      "author_name": "ibobev"
+    },
+    {
       "id": "50215317",
       "title": "The attack chain behind the v1.107.0 LiteLLM release",
       "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
@@ -182,26 +222,6 @@
       "retweets": 0,
       "text": "Between September 9 and October 7, 2026, an unauthorized party used a compromised GitHub account and exposed cloud credentials to copy PingCAP source code and internal analytics, storage and support records. NebuSec led the independent investigation and found no evidence of command execution, persistence, or access to…",
       "author_name": "jinqueeny"
-    },
-    {
-      "id": "50215039",
-      "title": "The one time we break the LLM cache on purpose",
-      "url": "https://www.induction.ai/blog/benchmark-cache-isolation",
-      "summary": "Benchmark trials that read each other’s prompt cache report a lower cost than the agent really has, and one unused tool keeps them apart.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T20:41:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "bleonard",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Benchmark trials that read each other’s prompt cache report a lower cost than the agent really has, and one unused tool keeps them apart.",
-      "author_name": "bleonard"
     },
     {
       "id": "50214606",
@@ -304,26 +324,6 @@
       "author_name": "olwmc"
     },
     {
-      "id": "50208187",
-      "title": "Review of \"Misalignment in high-stakes settings\" in Anthropic's Risk Report",
-      "url": "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/",
-      "summary": "External review from METR of the &quot;Misalignment in high-stakes settings&quot; section in Anthropic&#39;s August 2026 Risk Report",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-23T12:50:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "gmays",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "External review from METR of the &quot;Misalignment in high-stakes settings&quot; section in Anthropic&#39;s August 2026 Risk Report",
-      "author_name": "gmays"
-    },
-    {
       "id": "50200790",
       "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised",
       "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
@@ -344,24 +344,24 @@
       "author_name": "gmays"
     },
     {
-      "id": "50094099",
-      "title": "Auditory processing strategies in humans and zebra finches",
-      "url": "https://www.nature.com/articles/s42003-026-11035-9",
-      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-14T19:55:04Z",
+      "publishedAt": "2026-09-23T13:50:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "bryanrasmussen",
-      "likes": 2,
-      "views": 1,
+      "author": "mooreds",
+      "likes": 4,
+      "views": 0,
       "retweets": 0,
-      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "author_name": "bryanrasmussen"
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
     }
   ]
 }
