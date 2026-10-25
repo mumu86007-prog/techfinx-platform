@@ -1,8 +1,248 @@
 {
-  "version": "2026-10-25T13:07:15.734Z",
-  "generatedAt": "2026-10-25T13:07:15.734Z",
+  "version": "2026-10-25T21:35:52.236Z",
+  "generatedAt": "2026-10-25T21:35:52.236Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "50236098",
+      "title": "Crawlerpeek – check which AI crawlers your site lets in (CLI, MCP)",
+      "url": "https://github.com/crawlerpeek/crawlerpeek",
+      "summary": "Check whether AI crawlers (GPTBot, ClaudeBot, PerplexityBot and more) can access your site. CLI, library, MCP server and GitHub Action. - crawlerpeek/crawlerpeek",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-25T21:11:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "crawlerpeek",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Check whether AI crawlers (GPTBot, ClaudeBot, PerplexityBot and more) can access your site. CLI, library, MCP server and GitHub Action. - crawlerpeek/crawlerpeek",
+      "author_name": "crawlerpeek"
+    },
+    {
+      "id": "50235688",
+      "title": "Plan and code review for your agents",
+      "url": "https://plannotator.ai/",
+      "summary": "Free, open-source review tooling for Claude Code, OpenCode, Codex, Pi, and Droid. Review agent plans before they execute, annotate agent-written code, and send structured feedback back locally.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-25T20:21:22Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "mooreds",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Free, open-source review tooling for Claude Code, OpenCode, Codex, Pi, and Droid. Review agent plans before they execute, annotate agent-written code, and send structured feedback back locally.",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "50235638",
+      "title": "I Let AI Port an Xbox 360 Game to PC (and It Worked) [video]",
+      "url": "https://www.youtube.com/watch?v=rojjkW74d-k",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-25T20:16:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Maximilian_Bet",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "Maximilian_Bet"
+    },
+    {
+      "id": "50235357",
+      "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
+      "url": "https://github.com/aymen94/NeuronDump",
+      "summary": "Inspect and edit local LLMs (GGUF/Ollama/llama.cpp): layers, heads, vocabulary, chat template, weights. Explore them as a 3D graph, cut layers or heads and see the impact instantly or simulated, then write a smaller GGUF that still runs. - aymen94/NeuronDump",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-25T19:45:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "aymen1994",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Inspect and edit local LLMs (GGUF/Ollama/llama.cpp): layers, heads, vocabulary, chat template, weights. Explore them as a 3D graph, cut layers or heads and see the impact instantly or simulated, then write a smaller GGUF that still runs. - aymen94/NeuronDump",
+      "author_name": "aymen1994"
+    },
+    {
+      "id": "50234725",
+      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam Altman&#039;s warning: t…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-25T18:44:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "SoKamil",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam Altman&#039;s warning: t…",
+      "author_name": "SoKamil"
+    },
+    {
+      "id": "50234296",
+      "title": "Lightning.ai October 2026 Security Incident",
+      "url": "https://lightning.ai/security-incident/",
+      "summary": "Security incident notice for the Lightning Platform: Studios, Deployments, Pipelines and Drive are affected, while GPU cluster rental and managed services are not.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-25T18:08:32Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "indigodaddy",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Security incident notice for the Lightning Platform: Studios, Deployments, Pipelines and Drive are affected, while GPU cluster rental and managed services are not.",
+      "author_name": "indigodaddy"
+    },
+    {
+      "id": "50233779",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected. I compared to a 10-year old CNN and to my surprise found that this was superior.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-25T17:15:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 322,
+      "author": "sungam",
+      "likes": 306,
+      "views": 158,
+      "retweets": 0,
+      "text": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected. I compared to a 10-year old CNN and to my surprise found that this was superior.",
+      "author_name": "sungam"
+    },
+    {
+      "id": "50233683",
+      "title": "Let Your LLM Talks About ARIO",
+      "url": "https://zenodo.org/records/23441596",
+      "summary": "Ario — AI-Readable Research & Reproducibility Companion (2026-10-17) is a prepared, independently inspectable orientation package for AI agents, human researchers and adversarial reviewers. It accompanies the open-source Ario research framework, which investigates how claims, memory, submitted evidence, lineage and lat…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-25T17:04:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "Ario_Framework",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Ario — AI-Readable Research & Reproducibility Companion (2026-10-17) is a prepared, independently inspectable orientation package for AI agents, human researchers and adversarial reviewers. It accompanies the open-source Ario research framework, which investigates how claims, memory, submitted evidence, lineage and lat…",
+      "author_name": "Ario_Framework"
+    },
+    {
+      "id": "50233231",
+      "title": "Anthropic Sued for Stealing Elvis Presley Music to Train AI",
+      "url": "https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/",
+      "summary": "Anthropic faces a lawsuit over Elvis Presley&#039;s music as owners of the music legend&#039;s rights sue the AI giant for using his songs to train models.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-25T16:21:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "01-_-",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic faces a lawsuit over Elvis Presley&#039;s music as owners of the music legend&#039;s rights sue the AI giant for using his songs to train models.",
+      "author_name": "01-_-"
+    },
+    {
+      "id": "50232324",
+      "title": "Anthropic sued for allegedly stealing from The King",
+      "url": "https://www.avclub.com/anthropic-sued-copyright-infringement-elvis",
+      "summary": "The Elvis Presley estate alleges that Anthropic&#039;s Claude software is training AI with unauthorized use of the late singer&#039;s works.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-25T15:06:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "righthand",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "The Elvis Presley estate alleges that Anthropic&#039;s Claude software is training AI with unauthorized use of the late singer&#039;s works.",
+      "author_name": "righthand"
+    },
+    {
+      "id": "50231945",
+      "title": "Don't anthropomorphize big tech companies",
+      "url": "https://www.seangoedecke.com/dont-anthropomorphize-big-tech-companies/",
+      "summary": "Bryan Cantrill has a great line from a talk where he cautions against anthropomorphizing Oracle CEO Larry Ellison. I think it’s also a mistake to treat any tech…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-25T14:27:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 25,
+      "author": "dxs",
+      "likes": 11,
+      "views": 1,
+      "retweets": 0,
+      "text": "Bryan Cantrill has a great line from a talk where he cautions against anthropomorphizing Oracle CEO Larry Ellison. I think it’s also a mistake to treat any tech…",
+      "author_name": "dxs"
+    },
+    {
+      "id": "50231249",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple&#039;s repeatedly delayed Siri AI to OpenAI&#039;s messy &quot;super app&quot; launch, here&#039;s a look at the AI projects that shut down or missed expectations.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-25T13:16:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 38,
+      "author": "theanonymousone",
+      "likes": 7,
+      "views": 0,
+      "retweets": 0,
+      "text": "From Apple&#039;s repeatedly delayed Siri AI to OpenAI&#039;s messy &quot;super app&quot; launch, here&#039;s a look at the AI projects that shut down or missed expectations.",
+      "author_name": "theanonymousone"
+    },
     {
       "id": "50230995",
       "title": "Imagine an AI future where being banned means you are now economically useless",
@@ -15,33 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 108,
       "author": "MrBuddyCasino",
-      "likes": 1,
-      "views": 0,
+      "likes": 91,
+      "views": 74,
       "retweets": 0,
       "text": "imagine a fully integrated AI future where being banned means you are now economically useless. everybody around you is a superhuman living in the future but you violated TOS and now are cut off. your smart glasses that showed you a beautiful utopia? the color has left them. you are forced to liv…",
       "author_name": "MrBuddyCasino"
-    },
-    {
-      "id": "50229827",
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "summary": "Nikon&#039;s 16th annual Small World in Motion contest is open to any movie or digital time-lapse photography taken through the microscope.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-25T09:51:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 48,
-      "author": "thunderbong",
-      "likes": 34,
-      "views": 4,
-      "retweets": 0,
-      "text": "Nikon&#039;s 16th annual Small World in Motion contest is open to any movie or digital time-lapse photography taken through the microscope.",
-      "author_name": "thunderbong"
     },
     {
       "id": "50229539",
@@ -62,46 +282,6 @@
       "retweets": 0,
       "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top. The idea that if we work hard and responsibly, we can raise t…",
       "author_name": "theanonymousone"
-    },
-    {
-      "id": "50229018",
-      "title": "No Effect Before Its Cause: From Einstein to Lamport",
-      "url": "https://www.itworkslocally.dev/posts/no-effect-before-its-cause",
-      "summary": "Einstein&#x27;s moving train, Leslie Lamport&#x27;s clocks and a 2,500-year-old idea explain the core problem of leaderless replication: ordering writes when no clock can be trusted.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-25T07:01:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "theanonymousone",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Einstein&#x27;s moving train, Leslie Lamport&#x27;s clocks and a 2,500-year-old idea explain the core problem of leaderless replication: ordering writes when no clock can be trusted.",
-      "author_name": "theanonymousone"
-    },
-    {
-      "id": "50227739",
-      "title": "Claude Mythos 5's GitHub adventure: The postmortem",
-      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-      "summary": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-25T02:36:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "RileyMorgan093",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
-      "author_name": "RileyMorgan093"
     },
     {
       "id": "50227655",
@@ -135,9 +315,9 @@
         "AI",
         "科技"
       ],
-      "score": 37,
+      "score": 38,
       "author": "blooalien",
-      "likes": 8,
+      "likes": 9,
       "views": 1,
       "retweets": 0,
       "text": "A new study found Grok&#039;s AI overwhelmingly recommends Republican candidates while OpenAI&#039;s GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
@@ -164,66 +344,6 @@
       "author_name": "Adam-Hincu"
     },
     {
-      "id": "50225552",
-      "title": "OpenAI says it will no longer train its AI models on the live internet",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn&#039;t work.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-24T21:31:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "colinprince",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn&#039;t work.",
-      "author_name": "colinprince"
-    },
-    {
-      "id": "50225018",
-      "title": "Altman issues self-serving warning they've created a monster they can't control",
-      "url": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
-      "summary": "Sam Altman believes advanced AI can&#039;t be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that&#039;s still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker would ever spot.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-24T20:40:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "magus-stoopr",
-      "likes": 4,
-      "views": 2,
-      "retweets": 0,
-      "text": "Sam Altman believes advanced AI can&#039;t be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that&#039;s still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker would ever spot.",
-      "author_name": "magus-stoopr"
-    },
-    {
-      "id": "50224890",
-      "title": "AI agents, in separate VMs without network, communicated through the CPU cache",
-      "url": "https://twitter.com/rynorhn/status/2113757656498196605",
-      "summary": "holy fucking shit. openai had two ai agents running in separate virtual machines. no network connection between them. no shared writable files. they weren’t supposed to be able to exchange information. so the agents figured out how to communicate through the CPU CACHE.😭 one manipulated what was…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-24T20:28:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "thunderbong",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "holy fucking shit. openai had two ai agents running in separate virtual machines. no network connection between them. no shared writable files. they weren’t supposed to be able to exchange information. so the agents figured out how to communicate through the CPU CACHE.😭 one manipulated what was…",
-      "author_name": "thunderbong"
-    },
-    {
       "id": "50223591",
       "title": "For the next two weeks, we're covering $1M in security scans and fixes",
       "url": "https://www.coderabbit.ai/blog/one-million-security-scans-and-fixes",
@@ -244,104 +364,44 @@
       "author_name": "smb06"
     },
     {
-      "id": "50223268",
-      "title": "Key Claude Code Engineers Shihipar and Morris Leave Anthropic",
-      "url": "https://x.com/i/trending/2113887405459546296",
-      "summary": "Thariq Shihipar and Anthony Morris, key members of Anthropic’s Claude Code team, announced their departures after more than a year on the project that builds an agentic coding tool for planning, editing, and iterating codebases. Both expressed deep gratitude for their colleagues and the community’s feature requests tha…",
+      "id": "49823444",
+      "title": "Latent-GRPO and Continuous Reasoning Deep Dive",
+      "url": "https://www.g-ftech.com/blog/latent-grpo-deep-dive",
+      "summary": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-24T17:24:16Z",
+      "publishedAt": "2026-09-23T22:26:42Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 33,
-      "author": "e12e",
+      "score": 16,
+      "author": "gfactor_ai",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Thariq Shihipar and Anthony Morris, key members of Anthropic’s Claude Code team, announced their departures after more than a year on the project that builds an agentic coding tool for planning, editing, and iterating codebases. Both expressed deep gratitude for their colleagues and the community’s feature requests tha…",
-      "author_name": "e12e"
+      "text": "Latent-GRPO explained: why models spend 80–90% of generation on unread prose, how GRPO trains reasoning in hidden states, and Qwen3.6-27B results.",
+      "author_name": "gfactor_ai"
     },
     {
-      "id": "50222943",
-      "title": "Glasswing isn't built to optimize cyberdefense",
-      "url": "https://podcasts.apple.com/us/podcast/why-is-anthropic-afraid-of-glm-5-3/id1414525622?i=1000792888727",
-      "summary": "(Presented by TLPBLACK: A cybersecurity intelligence platform focused on sharing curated, high-sensitivity threat insights and research with trusted security pr",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-24T16:43:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "carwil",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "(Presented by TLPBLACK: A cybersecurity intelligence platform focused on sharing curated, high-sensitivity threat insights and research with trusted security pr",
-      "author_name": "carwil"
-    },
-    {
-      "id": "50222576",
-      "title": "Stolen AI Architecture integrated into healthcare startup and defense contractor",
-      "url": "https://rentry.co/themis-docket-e61b189e37",
-      "summary": "Forensic Analysis of the KAIROS IP Theft and Cybercrime Network Date of Release: October 24, 2026 DOWNLOAD RAW FORENSIC EVIDENCE (.ZIP) THEMIS DOCKET: COMPREHENSIVE FORENSIC INVESTIGATION REPORT SUBJECT: Coordinated Intellectual Property Theft, Corporate Fraud, and Cybercrime Network Targeting Sy...",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-24T16:01:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "MarissaMcWhorte",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Forensic Analysis of the KAIROS IP Theft and Cybercrime Network Date of Release: October 24, 2026 DOWNLOAD RAW FORENSIC EVIDENCE (.ZIP) THEMIS DOCKET: COMPREHENSIVE FORENSIC INVESTIGATION REPORT SUBJECT: Coordinated Intellectual Property Theft, Corporate Fraud, and Cybercrime Network Targeting Sy...",
-      "author_name": "MarissaMcWhorte"
-    },
-    {
-      "id": "50218728",
-      "title": "The attack chain behind the v1.107.0 LiteLLM release",
-      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
-      "summary": "The attack chain behind the v1.107.0 LiteLLM release | liteLLM Skip to main content Decisions API is here. Call Jev, Clef or any decision model through one /v1/decisions endpoint. → Docs Home Home Get started with LiteLLM Build AI Gateway Route, control, and observe LLM traffic MCP Gateway Give agents governed access t…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-24T06:13:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "feross",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "The attack chain behind the v1.107.0 LiteLLM release | liteLLM Skip to main content Decisions API is here. Call Jev, Clef or any decision model through one /v1/decisions endpoint. → Docs Home Home Get started with LiteLLM Build AI Gateway Route, control, and observe LLM traffic MCP Gateway Give agents governed access t…",
-      "author_name": "feross"
-    },
-    {
-      "id": "50094099",
-      "title": "Auditory processing strategies in humans and zebra finches",
-      "url": "https://www.nature.com/articles/s42003-026-11035-9",
-      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-14T19:55:04Z",
+      "publishedAt": "2026-09-23T13:50:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "bryanrasmussen",
-      "likes": 2,
-      "views": 1,
+      "author": "mooreds",
+      "likes": 4,
+      "views": 0,
       "retweets": 0,
-      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "author_name": "bryanrasmussen"
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
     }
   ]
 }
