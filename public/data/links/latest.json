@@ -1,87 +1,247 @@
 {
-  "version": "2026-10-26T23:04:53.665Z",
-  "generatedAt": "2026-10-26T23:04:53.665Z",
+  "version": "2026-10-27T14:17:28.889Z",
+  "generatedAt": "2026-10-27T14:17:28.889Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50252391",
-      "title": "Cross-request KV cache leakage in SGLang PD disaggregation",
-      "url": "https://www.lmsys.org/blog/2026-10-26-cf-security/",
-      "summary": "On September 9, 2026, Cloudflare notified us of cross-request KV cache exposure in its GLM-5.3 deployment on Workers AI. We worked with Cloudflare to address the request-rejection path involved and strengthen related cache-lifetime handling in disaggregated serving.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-26T23:02:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "moelove",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "On September 9, 2026, Cloudflare notified us of cross-request KV cache exposure in its GLM-5.3 deployment on Workers AI. We worked with Cloudflare to address the request-rejection path involved and strengthen related cache-lifetime handling in disaggregated serving.",
-      "author_name": "moelove"
-    },
-    {
-      "id": "50252159",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "summary": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-26T22:41:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "wondersky",
-      "likes": 14,
-      "views": 3,
-      "retweets": 0,
-      "text": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.",
-      "author_name": "wondersky"
-    },
-    {
-      "id": "50251741",
-      "title": "Exploring Apple's On-Device Model: Twenty Billion Parameters in Flash",
-      "url": "https://www.airealist.ai/p/exploring-apple-on-device-model",
-      "summary": "Apple&#x27;s 20-billion-parameter on-device model lives in flash and wakes a few experts per prompt. Architecture, runtime, Google&#x27;s part, and the cost.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-26T22:04:39Z",
+      "id": "50259760",
+      "title": "Marissa Mayer Can't Keep Pretending 'Gender Doesn't Matter'",
+      "url": "https://www.404media.co/marissa-mayer-nyt-interview/",
+      "summary": "The former CEO of Yahoo! and current founder of a chatbot app is going viral for using AI to list things she loves about her daughter. But what she has to say about women in tech in 2026 is worth talking about.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-27T14:16:57Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "gmays",
+      "author": "lladnar",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Apple&#x27;s 20-billion-parameter on-device model lives in flash and wakes a few experts per prompt. Architecture, runtime, Google&#x27;s part, and the cost.",
-      "author_name": "gmays"
+      "text": "The former CEO of Yahoo! and current founder of a chatbot app is going viral for using AI to list things she loves about her daughter. But what she has to say about women in tech in 2026 is worth talking about.",
+      "author_name": "lladnar"
     },
     {
-      "id": "50251518",
-      "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
-      "url": "https://codingplans.dev/briefs/us-model-labs-part-1/",
-      "summary": "Nine US AI model labs compared: CEOs, 2025 revenue, latest valuations and funding rounds, the OpenAI alumni who founded rivals, and the multiples the market is paying.",
+      "id": "50259668",
+      "title": "Agent Gateway in Bifrost: One gateway for models, tools and agents",
+      "url": "https://www.getmaxim.ai/bifrost/blog/introducing-agent-gateway-in-bifrost-one-gateway-for-models-tools-and-agents",
+      "summary": "An agent hands work to another agent. That agent calls a model, uses a few tools, and sends back a result. Now you need to understand what happened - Who started the request? Should they have been able to call that agent? What did it send back? Which model and tool calls went into the answer? Each service might have it…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-26T21:48:19Z",
+      "publishedAt": "2026-10-27T14:11:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "aanthonymax",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "An agent hands work to another agent. That agent calls a model, uses a few tools, and sends back a result. Now you need to understand what happened - Who started the request? Should they have been able to call that agent? What did it send back? Which model and tool calls went into the answer? Each service might have it…",
+      "author_name": "aanthonymax"
+    },
+    {
+      "id": "50259570",
+      "title": "Effects of Mind-Body Exercises on Pain in Chronic Nonspecific Low Back Pain",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13679579/",
+      "summary": "To synthesize the effects of mind–body exercises (MBEs) on pain in adults with chronic nonspecific low back pain (CNLBP) and assess whether comparative and study-level dose evidence can inform exercise selection. We searched 10 databases from ...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-27T14:04:29Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "chavasorani",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "To synthesize the effects of mind–body exercises (MBEs) on pain in adults with chronic nonspecific low back pain (CNLBP) and assess whether comparative and study-level dose evidence can inform exercise selection. We searched 10 databases from ...",
+      "author_name": "chavasorani"
+    },
+    {
+      "id": "50259406",
+      "title": "Giving chat feedback gives Anthropic your data",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "summary": "Is my data used for model training? | Anthropic Privacy Center Skip to main content API Docs Release Notes Contact Support English Français Deutsch Bahasa Indonesia Italiano 日本語 한국어 Português Pусский 简体中文 Español 繁體中文 English API Docs Release Notes Contact Support English Français Deutsch Bahasa Indonesia Italiano 日本語…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-27T13:56:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "jonpizza",
+      "likes": 4,
+      "views": 1,
+      "retweets": 0,
+      "text": "Is my data used for model training? | Anthropic Privacy Center Skip to main content API Docs Release Notes Contact Support English Français Deutsch Bahasa Indonesia Italiano 日本語 한국어 Português Pусский 简体中文 Español 繁體中文 English API Docs Release Notes Contact Support English Français Deutsch Bahasa Indonesia Italiano 日本語…",
+      "author_name": "jonpizza"
+    },
+    {
+      "id": "50259155",
+      "title": "PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)",
+      "url": "https://github.com/vishwakulkarni/PoseForge",
+      "summary": "Local-first AI pose transformation studio. Transform identity photos using Codex CLI, Google Antigravity, or ComfyUI. - vishwakulkarni/PoseForge",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-27T13:40:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "vishwakulkarni",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Local-first AI pose transformation studio. Transform identity photos using Codex CLI, Google Antigravity, or ComfyUI. - vishwakulkarni/PoseForge",
+      "author_name": "vishwakulkarni"
+    },
+    {
+      "id": "50258904",
+      "title": "A code inspection of 'serious' LLM-generated code",
+      "url": "https://ea.rna.nl/2026/10/27/serious-coding-with-llms-lab-notes-2026-10-27-a-code-audit-of-llm-generated-code-improving-from-sludge-to-vakwerk/",
+      "summary": "The results of a quality audit on the LLM-generated code. With scripts that help find issues in C-like code, and an example from my &#039;context harness&#039;.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-27T13:25:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "gctwnl",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "The results of a quality audit on the LLM-generated code. With scripts that help find issues in C-like code, and an example from my &#039;context harness&#039;.",
+      "author_name": "gctwnl"
+    },
+    {
+      "id": "50258699",
+      "title": "2026 ChatGPT Ads Holiday Playbook",
+      "url": "https://webinar.openai.com/2026-chatgpt-ads-holiday-playbook/",
+      "summary": "Get ready to reach holiday shoppers with ChatGPT Ads. Join us to explore the holiday shopping opportunity in ChatGPT and best practices for setting up your holiday campaigns for success. Learn how to prepare early, create relevant holiday ads, and measure and optimize performance through peak shopping periods.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-27T13:12:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "iamflimflam1",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Get ready to reach holiday shoppers with ChatGPT Ads. Join us to explore the holiday shopping opportunity in ChatGPT and best practices for setting up your holiday campaigns for success. Learn how to prepare early, create relevant holiday ads, and measure and optimize performance through peak shopping periods.",
+      "author_name": "iamflimflam1"
+    },
+    {
+      "id": "50258435",
+      "title": "OpenAI's Claimed Subexponential #SAT Algorithm, Explained [video]",
+      "url": "https://www.youtube.com/watch?v=YmU4XTfCV84",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-27T12:56:31Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "amichail",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "amichail"
+    },
+    {
+      "id": "50258127",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-27T12:29:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "sangamdas1981",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "author_name": "sangamdas1981"
+    },
+    {
+      "id": "50256839",
+      "title": "GDPR change lets companies train AI on Europeans' personal data without consent",
+      "url": "https://twitter.com/IntCyberDigest/status/2114838732197224927",
+      "summary": "‼️ EU governments approved a GDPR change to let companies train AI on Europeans&#x27; personal data without consent. It makes AI training a possible &quot;legitimate interest&quot;, judged case by case. Parliament must still agree. Max Schrems calls it a &quot;digital expropriation&quot; of Europeans.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-27T10:10:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "weberer",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "‼️ EU governments approved a GDPR change to let companies train AI on Europeans&#x27; personal data without consent. It makes AI training a possible &quot;legitimate interest&quot;, judged case by case. Parliament must still agree. Max Schrems calls it a &quot;digital expropriation&quot; of Europeans.",
+      "author_name": "weberer"
+    },
+    {
+      "id": "50255159",
+      "title": "Anthropic's Disproof of the ETH",
+      "url": "https://hexagonmath.org/2610.00577v1",
+      "summary": "We refute the Exponential Time Hypothesis (ETH) by presenting a deterministic algorithm for 3-SAT on n variables that runs in $2^{o(n)}$ time. Our algorithm in fact solves the harder problem #3-SAT, providing a count of the number of satisfying assignments. The result was discovered by an internal research Claude model…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-27T05:58:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "bananaflag",
+      "likes": 18,
+      "views": 4,
+      "retweets": 0,
+      "text": "We refute the Exponential Time Hypothesis (ETH) by presenting a deterministic algorithm for 3-SAT on n variables that runs in $2^{o(n)}$ time. Our algorithm in fact solves the harder problem #3-SAT, providing a count of the number of satisfying assignments. The result was discovered by an internal research Claude model…",
+      "author_name": "bananaflag"
+    },
+    {
+      "id": "50254781",
+      "title": "Don't anthropomorphize big tech companies",
+      "url": "https://www.seangoedecke.com/dont-anthropomorphize-big-tech-companies/",
+      "summary": "Bryan Cantrill has a great line from a talk where he cautions against anthropomorphizing Oracle CEO Larry Ellison. I think it’s also a mistake to treat any tech…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-27T04:43:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "nedsma",
-      "likes": 2,
-      "views": 1,
+      "author": "vismit2000",
+      "likes": 4,
+      "views": 0,
       "retweets": 0,
-      "text": "Nine US AI model labs compared: CEOs, 2025 revenue, latest valuations and funding rounds, the OpenAI alumni who founded rivals, and the multiples the market is paying.",
-      "author_name": "nedsma"
+      "text": "Bryan Cantrill has a great line from a talk where he cautions against anthropomorphizing Oracle CEO Larry Ellison. I think it’s also a mistake to treat any tech…",
+      "author_name": "vismit2000"
     },
     {
       "id": "50251200",
@@ -95,33 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 25,
+      "score": 34,
       "author": "limbicsystem",
-      "likes": 9,
+      "likes": 18,
       "views": 1,
       "retweets": 0,
       "text": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam Altman&#039;s warning: t…",
       "author_name": "limbicsystem"
-    },
-    {
-      "id": "50251018",
-      "title": "I asked Claude to explain Anthropic's IPO",
-      "url": "https://www.cnn.com/2026/10/26/business/claude-anthropic-ipo-summary",
-      "summary": "Before the substance, a disclosure that matters for your story: I’m Claude, made by Anthropic, the company in this filing.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-26T21:11:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "everybodyknows",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Before the substance, a disclosure that matters for your story: I’m Claude, made by Anthropic, the company in this filing.",
-      "author_name": "everybodyknows"
     },
     {
       "id": "50250462",
@@ -155,53 +295,13 @@
         "AI",
         "科技"
       ],
-      "score": 37,
+      "score": 39,
       "author": "supertrope",
-      "likes": 21,
+      "likes": 23,
       "views": 0,
       "retweets": 0,
       "text": "Trucking, supply chain and security industry veterans detailed to NBC News how thieves staged dramatic robberies as part of the growing theft of tech equipment.",
       "author_name": "supertrope"
-    },
-    {
-      "id": "50248870",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-26T18:43:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "chrisjj",
-      "likes": 4,
-      "views": 6,
-      "retweets": 0,
-      "text": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "author_name": "chrisjj"
-    },
-    {
-      "id": "50248089",
-      "title": "Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute",
-      "url": "https://teslanorth.com/2026/10/26/anthropic-s1-spacex-120b-compute/",
-      "summary": "Anthropic&#039;s IPO filing shows it agreed to spend up to $120.5 billion on SpaceX AI compute through 2029, about $3.1 billion a month once fully delivered.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-26T17:59:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "entryleveljobsc",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic&#039;s IPO filing shows it agreed to spend up to $120.5 billion on SpaceX AI compute through 2029, about $3.1 billion a month once fully delivered.",
-      "author_name": "entryleveljobsc"
     },
     {
       "id": "50247654",
@@ -224,46 +324,6 @@
       "author_name": "jerrygarcia"
     },
     {
-      "id": "50247000",
-      "title": "Spool now runs Claude Code loops on Anthropic's cloud",
-      "url": "https://github.com/enes-alatas/spool/releases",
-      "summary": "fleet of persistent Claude Code coworkers you talk to in Telegram and Slack. Each in its own container, on your own plan without API costs. - Releases · enes-alatas/spool",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-26T16:56:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "enesalatas",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "fleet of persistent Claude Code coworkers you talk to in Telegram and Slack. Each in its own container, on your own plan without API costs. - Releases · enes-alatas/spool",
-      "author_name": "enesalatas"
-    },
-    {
-      "id": "50246751",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-26T16:40:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "saikatsg",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "author_name": "saikatsg"
-    },
-    {
       "id": "50244977",
       "title": "The AI RCEssion: AI-driven security is calling in decades of software tech debt",
       "url": "https://blog.tedivm.com/rants/2026/10/the-ai-rcession-has-begun/",
@@ -284,64 +344,24 @@
       "author_name": "tedivm"
     },
     {
-      "id": "50243343",
-      "title": "Anthropic rushing IPO before AI bubble bursts",
-      "url": "https://nypost.com/2026/10/23/business/wall-street-is-urging-anthropic-openai-to-do-their-ipos-in-a-hurry-heres-why/",
-      "summary": "Wall Street is telling Anthropic and OpenAI that they had better launch their blockbuster IPOs sooner rather than later – and it goes well beyond the risks of an AI bubble, On The Money has learned.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-26T13:30:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "nothrowaways",
-      "likes": 15,
-      "views": 2,
-      "retweets": 0,
-      "text": "Wall Street is telling Anthropic and OpenAI that they had better launch their blockbuster IPOs sooner rather than later – and it goes well beyond the risks of an AI bubble, On The Money has learned.",
-      "author_name": "nothrowaways"
-    },
-    {
-      "id": "50234296",
-      "title": "Lightning.ai October 2026 Security Incident",
-      "url": "https://lightning.ai/security-incident/",
-      "summary": "Security incident notice for the Lightning Platform: Studios, Deployments, Pipelines and Drive are affected, while GPU cluster rental and managed services are not.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-25T18:08:32Z",
+      "id": "49816175",
+      "title": "Coverd Is a Late-Stage Capitalism Fever Dream",
+      "url": "https://unstack.jhm.lol/fintechbusinessweekly.substack.com/p/coverd-is-a-late-stage-capitalism",
+      "summary": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-09-23T13:50:08Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "indigodaddy",
-      "likes": 2,
+      "author": "mooreds",
+      "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "Security incident notice for the Lightning Platform: Studios, Deployments, Pipelines and Drive are affected, while GPU cluster rental and managed services are not.",
-      "author_name": "indigodaddy"
-    },
-    {
-      "id": "50094099",
-      "title": "Auditory processing strategies in humans and zebra finches",
-      "url": "https://www.nature.com/articles/s42003-026-11035-9",
-      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-14T19:55:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "bryanrasmussen",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "author_name": "bryanrasmussen"
+      "text": "Coverd Announced the &quot;Launch&quot; of Its &quot;Up to&quot; 100% Cash Back Credit Card, But It Is Not and Has Never Been Live, Issuing Partner Rain Says",
+      "author_name": "mooreds"
     }
   ]
 }
