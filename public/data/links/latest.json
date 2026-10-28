@@ -1,147 +1,267 @@
 {
-  "version": "2026-10-27T22:56:05.923Z",
-  "generatedAt": "2026-10-27T22:56:05.923Z",
+  "version": "2026-10-28T14:59:54.019Z",
+  "generatedAt": "2026-10-28T14:59:54.019Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50266974",
-      "title": "Patent Strategy in the Age of AI – Dan Gelbart [video]",
-      "url": "https://www.youtube.com/watch?v=v5d8nwgiSYI",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-27T22:48:59Z",
+      "id": "50274681",
+      "title": "Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/#intelligence-efficiency-tabs",
+      "summary": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, output speed & latency.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-28T14:52:54Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "mhb",
+      "author": "thefourthchime",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "mhb"
+      "text": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, output speed & latency.",
+      "author_name": "thefourthchime"
     },
     {
-      "id": "50266780",
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-      "summary": "Across 657 products in 19 categories, Reddit owners bring up reliability and support in 13% of their opinions, YouTube reviewers in 7%. On apps, 71% of owner opinions are negative. Data to download.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-27T22:31:15Z",
+      "id": "50274565",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-28T14:46:53Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "tsxng",
-      "likes": 5,
-      "views": 2,
+      "author": "notfried",
+      "likes": 2,
+      "views": 0,
       "retweets": 0,
-      "text": "Across 657 products in 19 categories, Reddit owners bring up reliability and support in 13% of their opinions, YouTube reviewers in 7%. On apps, 71% of owner opinions are negative. Data to download.",
-      "author_name": "tsxng"
+      "text": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…",
+      "author_name": "notfried"
     },
     {
-      "id": "50266764",
-      "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
-      "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
-      "summary": "New records obtained by EFF expose additional issues with Medicare’s AI-driven prior authorization program and show why we need stronger legal limits around government use of automated decision-making.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-27T22:29:50Z",
+      "id": "50274492",
+      "title": "GPU vs. CPU. How to Cut Live Streaming and AI Processing Costs?",
+      "url": "https://www.red5.net/blog/gpu-vs-cpu-how-to-cut-live-streaming-ai-processing-costs/",
+      "summary": "Learn practical ways to reduce live streaming and AI processing costs across real-time streaming workflows using GPU vs CPU to optimize operating costs and improve ROI.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-28T14:43:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "mondainx",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Learn practical ways to reduce live streaming and AI processing costs across real-time streaming workflows using GPU vs CPU to optimize operating costs and improve ROI.",
+      "author_name": "mondainx"
+    },
+    {
+      "id": "50273987",
+      "title": "Cisco open-sources Project Quarry, a detection language for AI agent behavior",
+      "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
+      "summary": "AI agents now read, decide, and act on their own, and the attacks against them unfold across many ordinary, permitted steps that most of today&#039;s defenses were not built to connect. Project Quarry (“Quarry”), which we are open sourcing today, is a...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-28T14:15:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "wondersky",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI agents now read, decide, and act on their own, and the attacks against them unfold across many ordinary, permitted steps that most of today&#039;s defenses were not built to connect. Project Quarry (“Quarry”), which we are open sourcing today, is a...",
+      "author_name": "wondersky"
+    },
+    {
+      "id": "50272897",
+      "title": "Anthropic's S-1 explains the unnamed deals in Google, Broadcom, SpaceX filings",
+      "url": "https://equibles.com/research/anthropics-s-1-checked-against-amazon-google-microsoft-and-broadcom-filings",
+      "summary": "Alphabet, Broadcom and SpaceX each report a large deal with a private company or customer they don&#x27;t name. Read against Anthropic&#x27;s S-1, the amounts,&#x2026;",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-28T13:02:37Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "daniel3303",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Alphabet, Broadcom and SpaceX each report a large deal with a private company or customer they don&#x27;t name. Read against Anthropic&#x27;s S-1, the amounts,&#x2026;",
+      "author_name": "daniel3303"
+    },
+    {
+      "id": "50272861",
+      "title": "Getting an LLM to Make Me a Tool for Enriching My Icons' Color Metadata",
+      "url": "https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/",
+      "summary": "On my icon gallery sites , I have metadata I’ve manually added over the years to tag certain icons as being predominantly “blue” or “orange” or some other…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-28T13:00:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "hn_acker",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "New records obtained by EFF expose additional issues with Medicare’s AI-driven prior authorization program and show why we need stronger legal limits around government use of automated decision-making.",
-      "author_name": "hn_acker"
-    },
-    {
-      "id": "50266763",
-      "title": "The Retirement Machine: AI, high earners, and the risk to global stock markets",
-      "url": "https://www.schroders.com/en-gb/uk/intermediary/insights/the-retirement-machine-ai-high-earners-and-the-hidden-risk-to-global-stock-markets/",
-      "summary": "Every month, tens of millions of Americans have money quietly swept from their paycheques and invested in stocks. Most of them barely notice. But in aggregate, this mechanism — the 401(k) system and its sister retirement vehicles — has become one of the most powerful structural forces in financial markets. It has becom…",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-27T22:29:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "te_chris",
+      "author": "surprisetalk",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Every month, tens of millions of Americans have money quietly swept from their paycheques and invested in stocks. Most of them barely notice. But in aggregate, this mechanism — the 401(k) system and its sister retirement vehicles — has become one of the most powerful structural forces in financial markets. It has becom…",
-      "author_name": "te_chris"
+      "text": "On my icon gallery sites , I have metadata I’ve manually added over the years to tag certain icons as being predominantly “blue” or “orange” or some other…",
+      "author_name": "surprisetalk"
     },
     {
-      "id": "50266701",
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "summary": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+      "id": "50272561",
+      "title": "Rudra-JS, LLM-designed product recommendations for React stores",
+      "url": "https://github.com/clivedsouza1010/rudra-js",
+      "summary": "Open-source TypeScript library (MIT): a language model designs one product-recommendation block for a page in your shop, rudra-js checks it against your catalog, and React renders it. Not a hosted or low-code app builder. - clivedsouza1010/rudra-js",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T22:23:37Z",
+      "publishedAt": "2026-10-28T12:31:25Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 32,
-      "author": "matthieu_bl",
-      "likes": 3,
+      "author": "clivedsouza8484",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-      "author_name": "matthieu_bl"
+      "text": "Open-source TypeScript library (MIT): a language model designs one product-recommendation block for a page in your shop, rudra-js checks it against your catalog, and React renders it. Not a hosted or low-code app builder. - clivedsouza1010/rudra-js",
+      "author_name": "clivedsouza8484"
     },
     {
-      "id": "50266602",
-      "title": "This Is Not Sustainable: On Cybersecurity and AI",
-      "url": "https://www.netmeister.org/blog/defense-ddos.html",
-      "summary": "Cyber Defense teams are suffering a DDoS; vulnerability management is no longer able to keep up with the onslaught of findings, reports, nor hype. The current situation is simply not sustainable.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-10-27T22:13:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "iamnothere",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Cyber Defense teams are suffering a DDoS; vulnerability management is no longer able to keep up with the onslaught of findings, reports, nor hype. The current situation is simply not sustainable.",
-      "author_name": "iamnothere"
-    },
-    {
-      "id": "50266507",
-      "title": "Popular AI Agent Skills Ranked by GitHub Stars",
-      "url": "https://jsdev.space/30-agent-skills/",
-      "summary": "Discover 30 popular AI agent skills for coding, debugging, design, and automation, with GitHub links, installation commands, and practical use cases.",
+      "id": "50272374",
+      "title": "I Started with 12 Names. An LLM Sieve Found the Rest",
+      "url": "https://zamechek.com/blog/the-sieve-growing-from-a-seed/",
+      "summary": "I seeded a map of indie record-makers with 12 names I trusted, then let an LLM sieve (filter, never author) grow it to 469 verifiable nodes. Live at 2inch.fm.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T22:06:14Z",
+      "publishedAt": "2026-10-28T12:14:52Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "javatuts",
+      "author": "shawnzam",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Discover 30 popular AI agent skills for coding, debugging, design, and automation, with GitHub links, installation commands, and practical use cases.",
-      "author_name": "javatuts"
+      "text": "I seeded a map of indie record-makers with 12 names I trusted, then let an LLM sieve (filter, never author) grow it to 469 verifiable nodes. Live at 2inch.fm.",
+      "author_name": "shawnzam"
+    },
+    {
+      "id": "50271917",
+      "title": "Analysts followed AI agent's randomly assigned preferences in 86% of decisions",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "summary": "In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-28T11:33:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "ilreb",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.",
+      "author_name": "ilreb"
+    },
+    {
+      "id": "50270131",
+      "title": "Discovering and exploiting vulnerabilities in critical software with Claude",
+      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+      "summary": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-28T07:11:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 40,
+      "author": "serioussecurity",
+      "likes": 9,
+      "views": 5,
+      "retweets": 0,
+      "text": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with…",
+      "author_name": "serioussecurity"
+    },
+    {
+      "id": "50269136",
+      "title": "Don't anthropomorphize big tech companies",
+      "url": "https://www.seangoedecke.com/dont-anthropomorphize-big-tech-companies/",
+      "summary": "Bryan Cantrill has a great line from a talk where he cautions against anthropomorphizing Oracle CEO Larry Ellison. I think it’s also a mistake to treat any tech…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-28T03:45:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "gfysfm",
+      "likes": 6,
+      "views": 0,
+      "retweets": 0,
+      "text": "Bryan Cantrill has a great line from a talk where he cautions against anthropomorphizing Oracle CEO Larry Ellison. I think it’s also a mistake to treat any tech…",
+      "author_name": "gfysfm"
+    },
+    {
+      "id": "50268861",
+      "title": "Proof by OpenAI of the Existence of Quantum Yang-Mills Theory (statement) [pdf]",
+      "url": "https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf",
+      "summary": "%PDF-1.5 %���� 9 0 obj > endobj 10 0 obj > /W [ 1 2 1 ] /Index [ 9 31 ] /Info 7 0 R /Root 11 0 R /Size 40 /Prev 88954 /ID [ ] >> stream x�cbd�g`b`8 $�Ā\u0004�1�;\u0015��\u0003\u0012�z@��\u0001�0� $�ua\u0004[5�\b_��Ĩ�\u000f���Hm\u0002\u0000A \u0007e endstream endobj 11 0 obj > endobj 12 0 obj > stream x�c```c``Vd`b`�=���\u0000\u0005`6\u0013\u0003 ��r`[\u0004\u0003�Az\u0003�B\u0002�P���\u0007ҧ�xxҷ �\u000f�\u001ff�f�Z��\u0000\u0000��\u000e�…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-28T03:04:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "johntb86",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "%PDF-1.5 %���� 9 0 obj > endobj 10 0 obj > /W [ 1 2 1 ] /Index [ 9 31 ] /Info 7 0 R /Root 11 0 R /Size 40 /Prev 88954 /ID [ ] >> stream x�cbd�g`b`8 $�Ā\u0004�1�;\u0015��\u0003\u0012�z@��\u0001�0� $�ua\u0004[5�\b_��Ĩ�\u000f���Hm\u0002\u0000A \u0007e endstream endobj 11 0 obj > endobj 12 0 obj > stream x�c```c``Vd`b`�=���\u0000\u0005`6\u0013\u0003 ��r`[\u0004\u0003�Az\u0003�B\u0002�P���\u0007ҧ�xxҷ �\u000f�\u001ff�f�Z��\u0000\u0000��\u000e�…",
+      "author_name": "johntb86"
+    },
+    {
+      "id": "50268375",
+      "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
+      "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
+      "summary": "The results resolve major problems in math, physics and computer science. But like other recent AI-generated “slop drops,” the releases are already controversial",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-28T01:47:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "aanet",
+      "likes": 2,
+      "views": 4,
+      "retweets": 0,
+      "text": "The results resolve major problems in math, physics and computer science. But like other recent AI-generated “slop drops,” the releases are already controversial",
+      "author_name": "aanet"
     },
     {
       "id": "50266079",
@@ -155,153 +275,13 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 21,
       "author": "newspaper1",
-      "likes": 2,
+      "likes": 4,
       "views": 0,
       "retweets": 0,
       "text": "Greenblatt: &quot;We train NYPD. We train thousands of police officers every year…&quot; &quot;We do advocacy at the statehouse and in Washington. We litigate in the courts to try to change the laws…&quot; &quot;You want to change the systems, so we are investing in going upstream to clean up the AI apps, to clean up W…",
       "author_name": "newspaper1"
-    },
-    {
-      "id": "50265205",
-      "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
-      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-      "summary": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T20:18:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 37,
-      "author": "ledoge",
-      "likes": 6,
-      "views": 1,
-      "retweets": 0,
-      "text": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with…",
-      "author_name": "ledoge"
-    },
-    {
-      "id": "50264994",
-      "title": "MathMixup: Boosting LLM Mathematical Reasoning via Curriculum and Decomposition",
-      "url": "https://arxiv.org/abs/2601.17006",
-      "summary": "Abstract page for arXiv paper 2601.17006: MathMixup: Boosting LLM Mathematical Reasoning with Difficulty-Controllable Data Synthesis and Curriculum Learning",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T20:03:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "wslh",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2601.17006: MathMixup: Boosting LLM Mathematical Reasoning with Difficulty-Controllable Data Synthesis and Curriculum Learning",
-      "author_name": "wslh"
-    },
-    {
-      "id": "50264993",
-      "title": "Anthropic Ships the #1 LLM in the World with Katelyn Lesse and Angela Jiang [video]",
-      "url": "https://www.youtube.com/watch?v=MRQTlwcW-aQ",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T20:03:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "amarbirsingh",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "amarbirsingh"
-    },
-    {
-      "id": "50264944",
-      "title": "Omega: Can LLMs Reason Outside the Box in Math? (2025)",
-      "url": "https://arxiv.org/abs/2506.18880",
-      "summary": "Abstract page for arXiv paper 2506.18880: OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T20:01:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "wslh",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2506.18880: OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization",
-      "author_name": "wslh"
-    },
-    {
-      "id": "50264920",
-      "title": "Anthropic IPO might kick off tech reset if the AI stock underperforms",
-      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
-      "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic&#x27;s IPO is taking on outsized importance.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T19:59:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "gmays",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "With the AI trade sputtering of late and interest rates on the rise, Anthropic&#x27;s IPO is taking on outsized importance.",
-      "author_name": "gmays"
-    },
-    {
-      "id": "50263741",
-      "title": "Securing sensitive data in the AI era",
-      "url": "https://blog.piotrnalepa.pl/en/2026/10/27/shadow-ai-in-a-development-team-how-to-keep-your-clients-code-out-of-the-chat/",
-      "summary": "Client code, production logs and .env files in a personal AI chat. What shadow AI looks like in a dev team and how to reduce it without banning AI.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-27T18:36:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "donpedrodelaluz",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Client code, production logs and .env files in a personal AI chat. What shadow AI looks like in a dev team and how to reduce it without banning AI.",
-      "author_name": "donpedrodelaluz"
-    },
-    {
-      "id": "50263719",
-      "title": "No Limit, a bot-building tournament hosted by Citadel, Sequoia and OpenAI",
-      "url": "https://pokerbot.sequoiacap.com/",
-      "summary": "No Limit is a pokerbot building tournament for university students and ’25/’26 grads, hosted by Sequoia, Citadel Securities and OpenAI. 60 minutes to build, thousands of games, $100K grand prize. Regionals in Bay Area, Boston and Pittsburgh; finals in San Francisco Nov 15.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T18:35:14Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "ugwigr",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "No Limit is a pokerbot building tournament for university students and ’25/’26 grads, hosted by Sequoia, Citadel Securities and OpenAI. 60 minutes to build, thousands of games, $100K grand prize. Regionals in Bay Area, Boston and Pittsburgh; finals in San Francisco Nov 15.",
-      "author_name": "ugwigr"
     },
     {
       "id": "50263609",
@@ -324,84 +304,84 @@
       "author_name": "smb06"
     },
     {
-      "id": "50261094",
-      "title": "OpenAI says its AI disproved the Exponential Time Hypothesis",
-      "url": "https://theainewsreport.com/2026-10-27-openai-exponential-time-hypothesis-false-runtime-lean-explained.html",
-      "summary": "On October 26, 2026, OpenAI said its models had produced three results, including an algorithm that refutes the Exponential Time Hypothesis. This page explains the hypothesis in plain words, puts the claimed running time into numb",
+      "id": "50258127",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T15:49:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "titusblair",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "On October 26, 2026, OpenAI said its models had produced three results, including an algorithm that refutes the Exponential Time Hypothesis. This page explains the hypothesis in plain words, puts the claimed running time into numb",
-      "author_name": "titusblair"
-    },
-    {
-      "id": "50260007",
-      "title": "Harness-aware evaluation of plugins (OpenAI Cookbook)",
-      "url": "https://developers.openai.com/cookbook/examples/partners/harness_aware_plugin_evals/harness_aware_plugin_evals",
-      "summary": "A plugin that scores well in your own evaluation can still fail once it runs inside the product it ships in. The harness around the model ac",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T14:32:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "nvmdbljstm",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "A plugin that scores well in your own evaluation can still fail once it runs inside the product it ships in. The harness around the model ac",
-      "author_name": "nvmdbljstm"
-    },
-    {
-      "id": "50258699",
-      "title": "2026 ChatGPT Ads Holiday Playbook",
-      "url": "https://webinar.openai.com/2026-chatgpt-ads-holiday-playbook/",
-      "summary": "Get ready to reach holiday shoppers with ChatGPT Ads. Join us to explore the holiday shopping opportunity in ChatGPT and best practices for setting up your holiday campaigns for success. Learn how to prepare early, create relevant holiday ads, and measure and optimize performance through peak shopping periods.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T13:12:40Z",
+      "publishedAt": "2026-10-27T12:29:26Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 33,
-      "author": "iamflimflam1",
+      "author": "sangamdas1981",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Get ready to reach holiday shoppers with ChatGPT Ads. Join us to explore the holiday shopping opportunity in ChatGPT and best practices for setting up your holiday campaigns for success. Learn how to prepare early, create relevant holiday ads, and measure and optimize performance through peak shopping periods.",
-      "author_name": "iamflimflam1"
+      "text": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+      "author_name": "sangamdas1981"
     },
     {
-      "id": "50258435",
-      "title": "OpenAI's Claimed Subexponential #SAT Algorithm, Explained [video]",
-      "url": "https://www.youtube.com/watch?v=YmU4XTfCV84",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T12:56:31Z",
+      "id": "50256839",
+      "title": "GDPR change lets companies train AI on Europeans' personal data without consent",
+      "url": "https://twitter.com/IntCyberDigest/status/2114838732197224927",
+      "summary": "‼️ EU governments approved a GDPR change to let companies train AI on Europeans&#x27; personal data without consent. It makes AI training a possible &quot;legitimate interest&quot;, judged case by case. Parliament must still agree. Max Schrems calls it a &quot;digital expropriation&quot; of Europeans.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-27T10:10:40Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "amichail",
-      "likes": 2,
+      "score": 20,
+      "author": "weberer",
+      "likes": 3,
+      "views": 3,
+      "retweets": 0,
+      "text": "‼️ EU governments approved a GDPR change to let companies train AI on Europeans&#x27; personal data without consent. It makes AI training a possible &quot;legitimate interest&quot;, judged case by case. Parliament must still agree. Max Schrems calls it a &quot;digital expropriation&quot; of Europeans.",
+      "author_name": "weberer"
+    },
+    {
+      "id": "50250462",
+      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
+      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-10-26T20:29:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "p1anecrazy",
+      "likes": 1,
       "views": 1,
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "amichail"
+      "author_name": "p1anecrazy"
+    },
+    {
+      "id": "50094099",
+      "title": "Auditory processing strategies in humans and zebra finches",
+      "url": "https://www.nature.com/articles/s42003-026-11035-9",
+      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-14T19:55:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "bryanrasmussen",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "author_name": "bryanrasmussen"
     }
   ]
 }
