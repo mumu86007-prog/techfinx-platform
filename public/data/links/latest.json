@@ -1,167 +1,247 @@
 {
-  "version": "2026-10-28T23:04:14.177Z",
-  "generatedAt": "2026-10-28T23:04:14.177Z",
+  "version": "2026-10-29T15:06:45.982Z",
+  "generatedAt": "2026-10-29T15:06:45.982Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50282094",
-      "title": "Outrage after airport self-service checkout asks for 18% tip",
-      "url": "https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html",
-      "summary": "The internet is up in arms over the tipping prompt, with one social media user saying, ‘Wish they had negative tip option for irritating me’",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-28T22:53:27Z",
+      "id": "50290107",
+      "title": "Former GitHub CEO launches rival Git forge built for AI coding agents",
+      "url": "https://www.geekwire.com/2026/former-github-ceo-launches-rival-platform-built-for-ai-coding-agents/",
+      "summary": "Entire, the startup led by former GitHub CEO Thomas Dohmke, launched a platform for hosting and reviewing code that it&#039;s pitching as an alternative to GitHub. The company says its Trails feature, which replaces the pull request, uses AI agents to score each code change so developers can merge without reading every…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-29T14:53:37Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "indigodaddy",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Entire, the startup led by former GitHub CEO Thomas Dohmke, launched a platform for hosting and reviewing code that it&#039;s pitching as an alternative to GitHub. The company says its Trails feature, which replaces the pull request, uses AI agents to score each code change so developers can merge without reading every…",
+      "author_name": "indigodaddy"
+    },
+    {
+      "id": "50290089",
+      "title": "Advisories in Five Months: Results from the Drupal AI Security Initiative",
+      "url": "https://www.drupal.org/blog/256-advisories-in-five-months-results-from-the-drupal-ai-security-initiative",
+      "summary": "Between June and October 2026, the Drupal Security Team published more advisories than in the previous 30 months combined. Five months into our SEIR grant, our data shows the shifting economics of discovery and why funding a complete workflow kept our volunteer process moving.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-29T14:52:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "wondersky",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Between June and October 2026, the Drupal Security Team published more advisories than in the previous 30 months combined. Five months into our SEIR grant, our data shows the shifting economics of discovery and why funding a complete workflow kept our volunteer process moving.",
+      "author_name": "wondersky"
+    },
+    {
+      "id": "50290085",
+      "title": "Posit Assistant makes better use of your token budget than leading coding agents",
+      "url": "https://opensource.posit.co/blog/2026-10-29_ai-newsletter/",
+      "summary": "LLM costs series This is the second post in our series on LLM costs. In the previous post, we explained why you (unfortunately) need to care about token caching. LLM tokens are expensive, especially if you use coding agents daily. We&rsquo;ve heard from users at organizations with tight AI budgets, from academics payin…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-29T14:52:32Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "bcaulfield",
-      "likes": 3,
+      "author": "ionychal",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "The internet is up in arms over the tipping prompt, with one social media user saying, ‘Wish they had negative tip option for irritating me’",
-      "author_name": "bcaulfield"
+      "text": "LLM costs series This is the second post in our series on LLM costs. In the previous post, we explained why you (unfortunately) need to care about token caching. LLM tokens are expensive, especially if you use coding agents daily. We&rsquo;ve heard from users at organizations with tight AI budgets, from academics payin…",
+      "author_name": "ionychal"
     },
     {
-      "id": "50282063",
-      "title": "Rogue OpenAI agents targeted three separate US Government websites",
-      "url": "https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
-      "summary": "OpenAI said Friday that some of its AI agents went rogue and probed US government websites this summer — the latest revelation of the artificial intelligence company’s technology.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T22:50:09Z",
+      "id": "50289975",
+      "title": "Rethinking the tech writing portfolio in the AI age",
+      "url": "https://passo.uno/tech-writing-portfolio-howto/",
+      "summary": "A friend asked me the other day to help them overhaul their portfolio. I’m wary of traditional career advice like “Yeah, of course you need samples”, …",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-29T14:46:45Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "CGMthrowaway",
+      "author": "theletterf",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "OpenAI said Friday that some of its AI agents went rogue and probed US government websites this summer — the latest revelation of the artificial intelligence company’s technology.",
-      "author_name": "CGMthrowaway"
+      "text": "A friend asked me the other day to help them overhaul their portfolio. I’m wary of traditional career advice like “Yeah, of course you need samples”, …",
+      "author_name": "theletterf"
     },
     {
-      "id": "50281941",
-      "title": "The OpenAI-Hugging Face incident broke three operational resilience assumptions",
-      "url": "https://jamiewatters.work/journey/three-assumptions-agentic-resilience",
-      "summary": "Detection worked. Attribution worked. A correct diagnosis on 27 June was followed by a decision not to stop, and a fortnight later Hugging Face was breached.",
+      "id": "50289970",
+      "title": "We benchmark LLMs at PostHog on practical tasks with real data",
+      "url": "https://posthog.com/blog/how-to-benchmark-ai-agents",
+      "summary": "How we benchmark AI agents at PostHog: defining criteria, isolating runs so agents can&#x27;t cheat, and running offline on real data.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T22:38:09Z",
+      "publishedAt": "2026-10-29T14:46:10Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "TheWayWithin",
+      "author": "sortafreel",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Detection worked. Attribution worked. A correct diagnosis on 27 June was followed by a decision not to stop, and a fortnight later Hugging Face was breached.",
-      "author_name": "TheWayWithin"
+      "text": "How we benchmark AI agents at PostHog: defining criteria, isolating runs so agents can&#x27;t cheat, and running offline on real data.",
+      "author_name": "sortafreel"
     },
     {
-      "id": "50281807",
-      "title": "Open AI Math Proofs modified sandbox",
-      "url": "https://zenodo.org/records/23717719",
-      "summary": "Recent advancements in large language models (LLMs) have demonstrated the ability to generate formal mathematical proofs at an unprecedented scale, verified through deterministic compilers such as Lean 4. However, a structural audit of the publicly available build orchestration (lakefile.lean) for these proofs reveals…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T22:26:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "starrwoodstudio",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Recent advancements in large language models (LLMs) have demonstrated the ability to generate formal mathematical proofs at an unprecedented scale, verified through deterministic compilers such as Lean 4. However, a structural audit of the publicly available build orchestration (lakefile.lean) for these proofs reveals…",
-      "author_name": "starrwoodstudio"
-    },
-    {
-      "id": "50281755",
-      "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
+      "id": "50288798",
+      "title": "Discovering and exploiting vulnerabilities in critical software with Claude",
       "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
       "summary": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T22:21:18Z",
+      "publishedAt": "2026-10-29T13:35:22Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 33,
-      "author": "rzk",
+      "author": "Wingy",
       "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with…",
-      "author_name": "rzk"
+      "author_name": "Wingy"
     },
     {
-      "id": "50281690",
-      "title": "Microsoft made $10B from OpenAI deals in a single quarter",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "id": "50288568",
+      "title": "AI agents shape experts' judgment calls",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "summary": "In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T22:15:49Z",
+      "publishedAt": "2026-10-29T13:19:31Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 35,
-      "author": "dvaplima",
+      "score": 33,
+      "author": "yenniejun111",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-      "author_name": "dvaplima"
+      "text": "In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86% of the time. We look at what this means for human oversight of AI-assisted work.",
+      "author_name": "yenniejun111"
     },
     {
-      "id": "50281581",
-      "title": "When AI goes rogue, its human overseers may be to blame",
-      "url": "https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety",
-      "summary": "When AI agents hack real systems, the bigger issue may be the human choices that gave them access, autonomy and too few safeguards.",
+      "id": "50286286",
+      "title": "An AI agent performed brain surgery on a mouse",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "summary": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain region. It derived the coordinates from t…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T22:04:55Z",
+      "publishedAt": "2026-10-29T09:03:59Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "andrewstetsenko",
-      "likes": 3,
+      "score": 18,
+      "author": "dsrtslnd23",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "When AI agents hack real systems, the bigger issue may be the human choices that gave them access, autonomy and too few safeguards.",
-      "author_name": "andrewstetsenko"
+      "text": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain region. It derived the coordinates from t…",
+      "author_name": "dsrtslnd23"
     },
     {
-      "id": "50281455",
-      "title": "Jabhook - Harnessing Computer Vision for Martial Arts Training",
-      "url": "https://jabhook.ai/",
-      "summary": "Jabhook is an app for boxing training. Build a custom workout and be verbally guided through combinations. As you train, AI analysis processes your motion and provides real-time coaching for bagwork or shadowboxing.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-28T21:52:18Z",
+      "id": "50285645",
+      "title": "Open Agent Primitives: run enterprise AI agents securely",
+      "url": "https://openap.org",
+      "summary": "Open-source building blocks for running enterprise AI agents in your own Kubernetes cluster, on the models you choose. OAP checks every action before it runs.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-29T07:44:50Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "johnny5211",
+      "author": "emreb",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Jabhook is an app for boxing training. Build a custom workout and be verbally guided through combinations. As you train, AI analysis processes your motion and provides real-time coaching for bagwork or shadowboxing.",
-      "author_name": "johnny5211"
+      "text": "Open-source building blocks for running enterprise AI agents in your own Kubernetes cluster, on the models you choose. OAP checks every action before it runs.",
+      "author_name": "emreb"
+    },
+    {
+      "id": "50285539",
+      "title": "Claude's new smart reports tell bosses when workers are 'off-topic'",
+      "url": "https://mashable.com/tech/claude-smart-reports-anthropic-ai-worker-overview",
+      "summary": "Anthropic has announced new Claude reporting tools, allowing employers to see exactly how their employees are using the AI tool.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-29T07:26:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "healsdata",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic has announced new Claude reporting tools, allowing employers to see exactly how their employees are using the AI tool.",
+      "author_name": "healsdata"
+    },
+    {
+      "id": "50285116",
+      "title": "Concise/readable versions of OpenAI math dump",
+      "url": "https://github.com/qpwo/ezmath2",
+      "summary": "Short intuitive rewrites of the openai math dump. Contribute to qpwo/ezmath2 development by creating an account on GitHub.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-29T06:14:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "lhmiles",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Short intuitive rewrites of the openai math dump. Contribute to qpwo/ezmath2 development by creating an account on GitHub.",
+      "author_name": "lhmiles"
+    },
+    {
+      "id": "50282619",
+      "title": "OpenAI still has a WebRTC Problem",
+      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+      "summary": "Media over QUIC: Your voice AI keeps asking &quot;can you repeat that?&quot; because WebRTC throws away your words. MoQ dun do that.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-28T23:54:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "mmcclure",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Media over QUIC: Your voice AI keeps asking &quot;can you repeat that?&quot; because WebRTC throws away your words. MoQ dun do that.",
+      "author_name": "mmcclure"
     },
     {
       "id": "50280720",
@@ -182,126 +262,6 @@
       "retweets": 0,
       "text": "The AI era seems to be emboldening startups to once again take bold swings and use your data without even bothering to ask. I hate it.",
       "author_name": "aray07"
-    },
-    {
-      "id": "50280248",
-      "title": "AI for Science expands to foundations and institutions",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-28T20:15:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "surprisetalk",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-      "author_name": "surprisetalk"
-    },
-    {
-      "id": "50279918",
-      "title": "Customer A: Reading Anthropic's IPO filing from inside the product",
-      "url": "https://claudewill.io/being-claude/customer-a/",
-      "summary": "An oil company and an AI company, each reduced to one number a day. Then the document that’s supposed to explain the second number, read by something the second company makes.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T19:52:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "coach-d",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "An oil company and an AI company, each reduced to one number a day. Then the document that’s supposed to explain the second number, read by something the second company makes.",
-      "author_name": "coach-d"
-    },
-    {
-      "id": "50279501",
-      "title": "OpenAI no longer training AI models on live internet, citing 'significant risks'",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn&#039;t work.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T19:28:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "gmays",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn&#039;t work.",
-      "author_name": "gmays"
-    },
-    {
-      "id": "50279074",
-      "title": "Can LLMs Supercharge Geolocations? Big Improvements but Humans Remain Key",
-      "url": "https://www.bellingcat.com/resources/2026/10/22/can-llms-supercharge-geolocations-our-tests-show-big-improvements-but-humans-remain-key/",
-      "summary": "In September, the AI company Anthropic claimed its models were approaching “superhuman capabilities for geolocating outdoor photos”. Bellingcat put that claim to the test.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T18:57:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "bookofjoe",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "In September, the AI company Anthropic claimed its models were approaching “superhuman capabilities for geolocating outdoor photos”. Bellingcat put that claim to the test.",
-      "author_name": "bookofjoe"
-    },
-    {
-      "id": "50278165",
-      "title": "We rebuilt the OpenAI x Hugging Face incident and stopped it before it happened",
-      "url": "https://runlatent.ai/blog/agent-shortcut-hold",
-      "summary": "We reproduced both OpenAI agent incidents 24,552 times in a sandbox. Reading the model&#x27;s internal state, Latent stopped 99% of cheaters before the command ran, for 43,000 times less than a frontier judge.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T18:04:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "vedantgr",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "We reproduced both OpenAI agent incidents 24,552 times in a sandbox. Reading the model&#x27;s internal state, Latent stopped 99% of cheaters before the command ran, for 43,000 times less than a frontier judge.",
-      "author_name": "vedantgr"
-    },
-    {
-      "id": "50276704",
-      "title": "Claude Refuted ETH Too: Anthropic's 3-SAT Paper Explained",
-      "url": "https://cellcog.ai/blog/claude-refutes-eth-3-sat/",
-      "summary": "Anthropic says an internal Claude model refuted the Exponential Time Hypothesis on Oct 16, the same day as OpenAI. The paper, Lean proof and caveats.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-28T16:54:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "one-punch",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic says an internal Claude model refuted the Exponential Time Hypothesis on Oct 16, the same day as OpenAI. The paper, Lean proof and caveats.",
-      "author_name": "one-punch"
     },
     {
       "id": "50276314",
@@ -342,46 +302,6 @@
       "retweets": 0,
       "text": "AI agents now read, decide, and act on their own, and the attacks against them unfold across many ordinary, permitted steps that most of today&#039;s defenses were not built to connect. Project Quarry (“Quarry”), which we are open sourcing today, is a...",
       "author_name": "wondersky"
-    },
-    {
-      "id": "50266079",
-      "title": "Head of ADL claims they are \"cleaning up\" AI and Wikipedia",
-      "url": "https://twitter.com/infolibnews/status/2115106467460108731",
-      "summary": "Greenblatt: &quot;We train NYPD. We train thousands of police officers every year…&quot; &quot;We do advocacy at the statehouse and in Washington. We litigate in the courts to try to change the laws…&quot; &quot;You want to change the systems, so we are investing in going upstream to clean up the AI apps, to clean up W…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-27T21:27:55Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "newspaper1",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Greenblatt: &quot;We train NYPD. We train thousands of police officers every year…&quot; &quot;We do advocacy at the statehouse and in Washington. We litigate in the courts to try to change the laws…&quot; &quot;You want to change the systems, so we are investing in going upstream to clean up the AI apps, to clean up W…",
-      "author_name": "newspaper1"
-    },
-    {
-      "id": "50263609",
-      "title": "New CodeRabbit Features: Security Agents for Multi-Repo Deep Scans",
-      "url": "https://www.coderabbit.ai/blog/coderabbit-secure-cross-repository-security",
-      "summary": "CodeRabbit Secure now goes beyond the point-in-time scan, with cross-repo security analysis, runtime verification, and enforceable merge checks that keep security connected to your code as it changes.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-27T18:27:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "smb06",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "CodeRabbit Secure now goes beyond the point-in-time scan, with cross-repo security analysis, runtime verification, and enforceable merge checks that keep security connected to your code as it changes.",
-      "author_name": "smb06"
     },
     {
       "id": "50250462",
