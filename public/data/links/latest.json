@@ -1,67 +1,187 @@
 {
-  "version": "2026-10-29T23:12:35.755Z",
-  "generatedAt": "2026-10-29T23:12:35.755Z",
+  "version": "2026-10-30T14:59:18.462Z",
+  "generatedAt": "2026-10-30T14:59:18.462Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50297182",
-      "title": "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]",
-      "url": "https://www.youtube.com/watch?v=o4AUKGdScNI",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-29T22:34:46Z",
+      "id": "50304560",
+      "title": "Casdoor v4 – open-source IAM with OAuth for MCP servers",
+      "url": "https://casdoor.ai/blog/casdoor-v4/",
+      "summary": "Casdoor v4: A New Console, a Marketplace, and OAuth for MCP Servers | Casdoor Skip to main content Casdoor Cloud : a dedicated Casdoor instance that we host and keep upgraded, from $29/month with no per-user fees. New accounts get $20 in free credit. Start a free trial . Docs MCP OpenClaw Integrations Password App Blog…",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-30T14:37:03Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "AareyBaba",
+      "score": 19,
+      "author": "hsluoyz",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "AareyBaba"
+      "text": "Casdoor v4: A New Console, a Marketplace, and OAuth for MCP Servers | Casdoor Skip to main content Casdoor Cloud : a dedicated Casdoor instance that we host and keep upgraded, from $29/month with no per-user fees. New accounts get $20 in free credit. Start a free trial . Docs MCP OpenClaw Integrations Password App Blog…",
+      "author_name": "hsluoyz"
     },
     {
-      "id": "50297159",
-      "title": "Open-weight AI models can exploit the patch gap",
-      "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
-      "summary": "GLM 5.3 turned published-but-unshipped Firefox security fixes into working one-click exploits for six releases, at roughly $1,000 each.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-29T22:32:46Z",
+      "id": "50304280",
+      "title": "Neal Stephenson on AI and What Comes Next [video]",
+      "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-30T14:18:34Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 20,
-      "author": "merksittich",
-      "likes": 4,
-      "views": 3,
+      "author": "justin66",
+      "likes": 6,
+      "views": 0,
       "retweets": 0,
-      "text": "GLM 5.3 turned published-but-unshipped Firefox security fixes into working one-click exploits for six releases, at roughly $1,000 each.",
-      "author_name": "merksittich"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "justin66"
     },
     {
-      "id": "50297037",
-      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-29T22:22:13Z",
+      "id": "50304073",
+      "title": "Local agent with multivendors, free, you own your context",
+      "url": "https://safata.ai/",
+      "summary": "Safata is a desktop agent for knowledge work. It runs on your computer and works with your files under your permission, on the model you pick. Three real jobs, shown as they happened.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-30T14:04:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 25,
-      "author": "dabinat",
-      "likes": 11,
-      "views": 2,
+      "score": 16,
+      "author": "victorzhangeu",
+      "likes": 2,
+      "views": 1,
       "retweets": 0,
-      "text": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "author_name": "dabinat"
+      "text": "Safata is a desktop agent for knowledge work. It runs on your computer and works with your files under your permission, on the model you pick. Three real jobs, shown as they happened.",
+      "author_name": "victorzhangeu"
+    },
+    {
+      "id": "50302784",
+      "title": "GitHub language bar is lying (how to fix it)",
+      "url": "https://mkennedy.codes/posts/your-github-language-bar-is-lying-and-how-to-fix-it/",
+      "summary": "GitHub said my Rust project was 75% HTML. A few lines of .gitattributes told it to skip generated docs, vendored code, and tests, so the language bar now shows what the project really is.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-30T12:04:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "lumpa",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "GitHub said my Rust project was 75% HTML. A few lines of .gitattributes told it to skip generated docs, vendored code, and tests, so the language bar now shows what the project really is.",
+      "author_name": "lumpa"
+    },
+    {
+      "id": "50302199",
+      "title": "I refuse to pay for business email on every side project",
+      "url": "https://github.com/sums001/OpenInbox",
+      "summary": "Free, unlimited business email on your own domains, running entirely in your free Cloudflare account. - sums001/OpenInbox",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-30T10:48:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "sumitgautam0101",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Free, unlimited business email on your own domains, running entirely in your free Cloudflare account. - sums001/OpenInbox",
+      "author_name": "sumitgautam0101"
+    },
+    {
+      "id": "50302192",
+      "title": "Moonshot AI asking influencers not to disclose posts as paid when promoting Kimi",
+      "url": "https://twitter.com/elshayib_/status/2113710752741892476",
+      "summary": "That&#x27;s how Kimi AI are promoting their new model Kimi K3.1 pro and I know all the influencers working with them and none of them are honest,I have posted about it myself but I didn&#x27;t join this and never used their templates that they provide. PROPAGANDA, I have more to share it&#x27;s f**cked up I&#x27;m go…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-30T10:47:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "JumpCrisscross",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "That&#x27;s how Kimi AI are promoting their new model Kimi K3.1 pro and I know all the influencers working with them and none of them are honest,I have posted about it myself but I didn&#x27;t join this and never used their templates that they provide. PROPAGANDA, I have more to share it&#x27;s f**cked up I&#x27;m go…",
+      "author_name": "JumpCrisscross"
+    },
+    {
+      "id": "50302158",
+      "title": "Strategies Senior AI Developers Use to Deliver High-Quality Code in 2026",
+      "url": "https://dailybusinessgroup.co.uk/2026/10/9-strategies-senior-ai-developers-use-to-deliver-high-quality-code-for-startups-in-2026/",
+      "summary": "Startups are using vibe coding and will continue to do so. However, the limits of vibe coding will never go away, and clean-up specialists will still be needed.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-10-30T10:43:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "Aninay",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Startups are using vibe coding and will continue to do so. However, the limits of vibe coding will never go away, and clean-up specialists will still be needed.",
+      "author_name": "Aninay"
+    },
+    {
+      "id": "50301413",
+      "title": "Last night an AI agent performed surgery on a mouse",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "summary": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain region. It derived the coordinates from t…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-30T09:07:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "bananaboy",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain region. It derived the coordinates from t…",
+      "author_name": "bananaboy"
+    },
+    {
+      "id": "50300683",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notice\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic...</a><p><a href=\"https:&#x2F;&#x2F;cyberplace.social&#x2F;@GossiTheDog&#x2F;117528831681803563\" rel=\"nofollow\">https:&#x2F;&#x2F;cy…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-30T07:09:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 123,
+      "author": "_chall",
+      "likes": 105,
+      "views": 298,
+      "retweets": 0,
+      "text": "<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notice\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic...</a><p><a href=\"https:&#x2F;&#x2F;cyberplace.social&#x2F;@GossiTheDog&#x2F;117528831681803563\" rel=\"nofollow\">https:&#x2F;&#x2F;cy…",
+      "author_name": "_chall"
     },
     {
       "id": "50296676",
@@ -84,26 +204,6 @@
       "author_name": "bananaflag"
     },
     {
-      "id": "50296620",
-      "title": "Organizing a kidnap using Apple's personal knowledge graph (and an LLM)",
-      "url": "https://8rank.ai/game/apple-intelligence-knowledge-graph-in-the-wrong-hands",
-      "summary": "What happens when the personal knowledge graph ends up in the wrong hands. A breach hands you records; this store hands you conclusions (who your family are, who you are closest to, with a confidence beside each). How can it be weaponized, and what&#x27;s the blast radius? Here is a worst-case thought experiment.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-29T21:50:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "infwhispers",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "What happens when the personal knowledge graph ends up in the wrong hands. A breach hands you records; this store hands you conclusions (who your family are, who you are closest to, with a confidence beside each). How can it be weaponized, and what&#x27;s the blast radius? Here is a worst-case thought experiment.",
-      "author_name": "infwhispers"
-    },
-    {
       "id": "50294341",
       "title": "Scaling Misuse Detection with Self-Assessment",
       "url": "https://safeguards.anthropic.com/2026/self-assessment/",
@@ -122,86 +222,6 @@
       "retweets": 0,
       "text": "Self-assessment lets Claude assess the safety of its own responses. It scales well with model capabilities and helps us identify emergent harms.",
       "author_name": "pretext"
-    },
-    {
-      "id": "50294005",
-      "title": "Why Anthropic's IPO Prospectus Is Missing So Many Key Figures",
-      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-29T18:49:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "cdrnsf",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-      "author_name": "cdrnsf"
-    },
-    {
-      "id": "50293643",
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "summary": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain region. It derived the coordinates from t…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-29T18:23:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "FacZap",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain region. It derived the coordinates from t…",
-      "author_name": "FacZap"
-    },
-    {
-      "id": "50292524",
-      "title": "OpenAI: We are doubling all usage limits for all Pro 100/200/500 tiers",
-      "url": "https://twitter.com/thsottiaux/status/2115850175868727621",
-      "summary": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-29T17:13:33Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "tosh",
-      "likes": 14,
-      "views": 1,
-      "retweets": 0,
-      "text": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots…",
-      "author_name": "tosh"
-    },
-    {
-      "id": "50291508",
-      "title": "AI Could Reverse Engineer Anything. Then It Started Refusing [video]",
-      "url": "https://www.youtube.com/watch?v=Hi2cEWQXVhc",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-29T16:19:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "RNAdom099",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "RNAdom099"
     },
     {
       "id": "50291043",
@@ -224,64 +244,24 @@
       "author_name": "galbash"
     },
     {
-      "id": "50291013",
-      "title": "AI for Science expands to foundations and research institutions",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-29T15:50:38Z",
+      "id": "50290089",
+      "title": "Advisories in Five Months: Results from the Drupal AI Security Initiative",
+      "url": "https://www.drupal.org/blog/256-advisories-in-five-months-results-from-the-drupal-ai-security-initiative",
+      "summary": "Between June and October 2026, the Drupal Security Team published more advisories than in the previous 30 months combined. Five months into our SEIR grant, our data shows the shifting economics of discovery and why funding a complete workflow kept our volunteer process moving.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-29T14:52:34Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "pretext",
+      "score": 19,
+      "author": "wondersky",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-      "author_name": "pretext"
-    },
-    {
-      "id": "50285645",
-      "title": "Open Agent Primitives: run enterprise AI agents securely",
-      "url": "https://openap.org",
-      "summary": "Open-source building blocks for running enterprise AI agents in your own Kubernetes cluster, on the models you choose. OAP checks every action before it runs.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-29T07:44:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "emreb",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Open-source building blocks for running enterprise AI agents in your own Kubernetes cluster, on the models you choose. OAP checks every action before it runs.",
-      "author_name": "emreb"
-    },
-    {
-      "id": "50276314",
-      "title": "BI Technology – Custom Websites, Web Apps and SaaS Development",
-      "url": "https://www.bitechnology.co.uk/",
-      "summary": "BI Technology Limited is a software company building subscription software, custom websites and web applications for clients worldwide.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-28T16:28:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "GhostMarley",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "BI Technology Limited is a software company building subscription software, custom websites and web applications for clients worldwide.",
-      "author_name": "GhostMarley"
+      "text": "Between June and October 2026, the Drupal Security Team published more advisories than in the previous 30 months combined. Five months into our SEIR grant, our data shows the shifting economics of discovery and why funding a complete workflow kept our volunteer process moving.",
+      "author_name": "wondersky"
     },
     {
       "id": "50250462",
@@ -322,6 +302,26 @@
       "retweets": 0,
       "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
       "author_name": "bryanrasmussen"
+    },
+    {
+      "id": "49875797",
+      "title": "Fitch Ratings' U.S. Private Credit Default Rate Rose to 6.3% in August 2026",
+      "url": "https://www.fitchratings.com/research/corporate-finance/fitch-ratings-us-private-credit-default-rate-rose-to-6-3-in-august-2026-14-09-2026",
+      "summary": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-09-28T10:14:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "JumpCrisscross",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Skip to main content Ratings Sectors Insights Events Subscriptions About Us Contact Us About About Us Contact Us Careers Media Relations Feedback Regulatory Regulatory Affairs Criteria Code of Conduct &amp; Ethics Privacy Policy Report an Issue / Whistleblowing Product Rating Actions Coverage Research &amp; Analytics P…",
+      "author_name": "JumpCrisscross"
     }
   ]
 }
