@@ -1,87 +1,187 @@
 {
-  "version": "2026-10-31T14:26:49.930Z",
-  "generatedAt": "2026-10-31T14:26:49.930Z",
+  "version": "2026-10-31T22:23:33.278Z",
+  "generatedAt": "2026-10-31T22:23:33.278Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50316468",
-      "title": "An AI Agent Injected Drugs into a Live Mouse's Brain",
-      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T14:21:19Z",
+      "id": "50320683",
+      "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+      "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
+      "summary": "Co-founder Gonçalo Quadros says the Coimbra company will no longer be the software developer it has been, but will keep making systems for aviation, aerospace and cars that humans must still verify.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-31T22:01:31Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 32,
-      "author": "Brajeshwar",
+      "score": 15,
+      "author": "pjmlp",
       "likes": 1,
-      "views": 0,
+      "views": 2,
       "retweets": 0,
-      "text": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-      "author_name": "Brajeshwar"
+      "text": "Co-founder Gonçalo Quadros says the Coimbra company will no longer be the software developer it has been, but will keep making systems for aviation, aerospace and cars that humans must still verify.",
+      "author_name": "pjmlp"
     },
     {
-      "id": "50316199",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "summary": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-31T13:51:32Z",
+      "id": "50320681",
+      "title": "Proton senior management prioritizes AI over security",
+      "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
+      "summary": "Proton, the Swiss company behind Proton Mail and other privacy-focused products, has publicly positioned itself as a privacy-focused alternative to large technology...",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-10-31T22:01:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "zwarag",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…",
-      "author_name": "zwarag"
-    },
-    {
-      "id": "50316167",
-      "title": "ChemEZ: LLM Wrapper with Chemistry Processing and Visualization",
-      "url": "https://github.com/researchbyayan/ChemEZ",
-      "summary": "ChemEZ is a chemistry chat app that draws molecules, reactions, and mechanisms with clear explanations. - researchbyayan/ChemEZ",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T13:47:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "researchbyayan",
+      "author": "DeepLogin",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "ChemEZ is a chemistry chat app that draws molecules, reactions, and mechanisms with clear explanations. - researchbyayan/ChemEZ",
-      "author_name": "researchbyayan"
+      "text": "Proton, the Swiss company behind Proton Mail and other privacy-focused products, has publicly positioned itself as a privacy-focused alternative to large technology...",
+      "author_name": "DeepLogin"
     },
     {
-      "id": "50316116",
-      "title": "DeepSeek open-sources dsh-superagent, a coding agent largely built by agents",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "summary": "Towards a More Autonomous Agent System. Contribute to deepseek-ai/dsh-superagent-prototype development by creating an account on GitHub.",
+      "id": "50320599",
+      "title": "AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "summary": "After the EU AI Act’s transparency guidelines went into effect, and following the announcement that most major AI labs will soon be watermarking their text output to comply, there has been some debate about how much of an impact this is going to have, if any, on the quality of the text produced by AI models.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T13:41:11Z",
+      "publishedAt": "2026-10-31T21:50:13Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 31,
-      "author": "wondersky",
+      "score": 21,
+      "author": "danielfoster",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Towards a More Autonomous Agent System. Contribute to deepseek-ai/dsh-superagent-prototype development by creating an account on GitHub.",
-      "author_name": "wondersky"
+      "text": "After the EU AI Act’s transparency guidelines went into effect, and following the announcement that most major AI labs will soon be watermarking their text output to comply, there has been some debate about how much of an impact this is going to have, if any, on the quality of the text produced by AI models.",
+      "author_name": "danielfoster"
+    },
+    {
+      "id": "50320163",
+      "title": "Benchma(R)king: Making Chairs with LLMs",
+      "url": "https://emergencemagazine.org/essay/benchmarking/",
+      "summary": "Technologist and artist James Bridle conducts a simple chair-building experiment to explore how our embodied intelligence could meet AI’s disembodied knowledge in more meaningful ways.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-31T20:58:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "CharlesW",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Technologist and artist James Bridle conducts a simple chair-building experiment to explore how our embodied intelligence could meet AI’s disembodied knowledge in more meaningful ways.",
+      "author_name": "CharlesW"
+    },
+    {
+      "id": "50319959",
+      "title": "People are the hard part of AI",
+      "url": "https://keithbrown.com/proton-ai-manifesto",
+      "summary": "Proton&#x27;s CTO wrote a strong AI manifesto. The rollout inside the company shows the hard part of AI is people, not code. What every leader can learn, now that everyone is an engineer.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-31T20:39:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "drewlem",
+      "likes": 1,
+      "views": 3,
+      "retweets": 0,
+      "text": "Proton&#x27;s CTO wrote a strong AI manifesto. The rollout inside the company shows the hard part of AI is people, not code. What every leader can learn, now that everyone is an engineer.",
+      "author_name": "drewlem"
+    },
+    {
+      "id": "50319362",
+      "title": "Anthropic: Scaling Misuse Detection with Self-Assessment of Chats",
+      "url": "https://twitter.com/AnthropicAI/status/2115871889549865429",
+      "summary": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. Since we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t de…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-31T19:40:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "cft",
+      "likes": 7,
+      "views": 0,
+      "retweets": 0,
+      "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. Since we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t de…",
+      "author_name": "cft"
+    },
+    {
+      "id": "50319358",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "summary": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for &quot;training a competitor,&quot; and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-31T19:39:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 94,
+      "author": "pretext",
+      "likes": 77,
+      "views": 17,
+      "retweets": 0,
+      "text": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for &quot;training a competitor,&quot; and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
+      "author_name": "pretext"
+    },
+    {
+      "id": "50319235",
+      "title": "OpenCiv3 Dutch 2 now available",
+      "url": "https://forums.civfanatics.com/threads/release-openciv3-dutch-2-now-available.705287/",
+      "summary": "If you&#039;re just joining us, check out this introduction thread for an overview of the OpenCiv3 project. Momentous news, everyone! Today is the 25th...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-31T19:25:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Alpi",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "If you&#039;re just joining us, check out this introduction thread for an overview of the OpenCiv3 project. Momentous news, everyone! Today is the 25th...",
+      "author_name": "Alpi"
+    },
+    {
+      "id": "50318001",
+      "title": "\"Quite Terrible\": Why OpenAI Thinks Your PC Has Too Much RAM – Cold Logic",
+      "url": "https://2tinteractive.com/watch/shows/cold-logic/",
+      "summary": "Unfiltered systems engineering and hardware autopsies. Mouthless cybernetic Sentinels dissect cybersecurity crises, autonomous AI, cloud egress traps, and hardware reality with cold empirical logic and live audience telemetry.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-10-31T17:14:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "LebToki",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Unfiltered systems engineering and hardware autopsies. Mouthless cybernetic Sentinels dissect cybersecurity crises, autonomous AI, cloud egress traps, and hardware reality with cold empirical logic and live audience telemetry.",
+      "author_name": "LebToki"
     },
     {
       "id": "50315990",
@@ -95,37 +195,17 @@
         "AI",
         "科技"
       ],
-      "score": 59,
+      "score": 90,
       "author": "healsdata",
-      "likes": 43,
-      "views": 9,
+      "likes": 74,
+      "views": 18,
       "retweets": 0,
       "text": "An AI startup hacked Anthropic within 12 hours and accessed employee details and internal messages. The breach exposed both personnel information and private company communications.",
       "author_name": "healsdata"
     },
     {
-      "id": "50315574",
-      "title": "Why Anthropic's Filing Crushed Tech Stocks",
-      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-      "summary": "The trillion dollar Anthropic IPO will enrich Google and Amazon, who are ostensibly competitors. How does that make sense? It doesn’t, unless Anthropic is four flailing monopolies in a trench coat.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T12:32:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 52,
-      "author": "chmaynard",
-      "likes": 36,
-      "views": 40,
-      "retweets": 0,
-      "text": "The trillion dollar Anthropic IPO will enrich Google and Amazon, who are ostensibly competitors. How does that make sense? It doesn’t, unless Anthropic is four flailing monopolies in a trench coat.",
-      "author_name": "chmaynard"
-    },
-    {
       "id": "50314699",
-      "title": "We Took over ChatGPT Accounts",
+      "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "summary": "By bypassing ChatGPT&#x27;s sandbox and content security policy, our research team was able to take over anyone&#x27;s account simply by sending them a link.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
@@ -135,33 +215,13 @@
         "AI",
         "科技"
       ],
-      "score": 123,
+      "score": 306,
       "author": "armcat",
-      "likes": 107,
-      "views": 47,
+      "likes": 290,
+      "views": 141,
       "retweets": 0,
       "text": "By bypassing ChatGPT&#x27;s sandbox and content security policy, our research team was able to take over anyone&#x27;s account simply by sending them a link.",
       "author_name": "armcat"
-    },
-    {
-      "id": "50314322",
-      "title": "Real-time zero-knowledge LLM identification from physical telemetry",
-      "url": "https://zenodo.org/records/23806637",
-      "summary": "As enterprise workflows increasingly deploy autonomous multi-turn reasoning agents powered by frontier Large Language Models (LLMs), ensuring reasoning integrity and verifying model identity without compromising payload privacy has become an urgent challenge. Conventional prompt-based evaluation frameworks suffer from…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T09:05:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "IndependentRese",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "As enterprise workflows increasingly deploy autonomous multi-turn reasoning agents powered by frontier Large Language Models (LLMs), ensuring reasoning integrity and verifying model identity without compromising payload privacy has become an urgent challenge. Conventional prompt-based evaluation frameworks suffer from…",
-      "author_name": "IndependentRese"
     },
     {
       "id": "50313296",
@@ -262,6 +322,26 @@
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "author_name": "p1anecrazy"
+    },
+    {
+      "id": "50094099",
+      "title": "Auditory processing strategies in humans and zebra finches",
+      "url": "https://www.nature.com/articles/s42003-026-11035-9",
+      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-14T19:55:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "bryanrasmussen",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "author_name": "bryanrasmussen"
     }
   ]
 }
