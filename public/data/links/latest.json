@@ -1,67 +1,147 @@
 {
-  "version": "2026-11-01T14:53:48.512Z",
-  "generatedAt": "2026-11-01T14:53:48.512Z",
+  "version": "2026-11-01T22:40:31.385Z",
+  "generatedAt": "2026-11-01T22:40:31.386Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50326000",
-      "title": "Opt out of AI use at work based on religious freedoms law",
-      "url": "https://fortune.com/2026/10/30/kentucky-administrator-ai-religious-exemption-title-vii-humanism/",
-      "summary": "University of Kentucky administrator David Durman is the first Humanist to be granted an AI use exemption under Title VII of the Civil Rights Act.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-01T14:24:38Z",
+      "id": "50330585",
+      "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+      "url": "https://avartha.ai/blog/introducing-avartha/",
+      "summary": "We are building the infrastructure to bring frontier-grade intelligence to real-time applications with open models that you control.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-01T22:28:27Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "rajveerb",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "We are building the infrastructure to bring frontier-grade intelligence to real-time applications with open models that you control.",
+      "author_name": "rajveerb"
+    },
+    {
+      "id": "50330455",
+      "title": "Logbook for scuba divers: multi-gas dives, dive-computer imports, trips, gear",
+      "url": "https://github.com/opendiving/opendiving",
+      "summary": "Dive logbook for scuba divers: multi-gas dives, dive-computer imports, trips, gear and one-click export in open formats. This repository is the install bundle and the product release; the app lives in opendiving-api and opendiving-web. - opendiving/opendiving",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-01T22:10:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 29,
+      "author": "michidk",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Dive logbook for scuba divers: multi-gas dives, dive-computer imports, trips, gear and one-click export in open formats. This repository is the install bundle and the product release; the app lives in opendiving-api and opendiving-web. - opendiving/opendiving",
+      "author_name": "michidk"
+    },
+    {
+      "id": "50330033",
+      "title": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
+      "url": "https://arxiv.org/abs/2610.40269",
+      "summary": "Abstract page for arXiv paper 2610.40269: When Modernization Breaks Working Code: A Single-File Study of LLMs on Legacy PHP",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-01T21:22:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "tambourine_man",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Abstract page for arXiv paper 2610.40269: When Modernization Breaks Working Code: A Single-File Study of LLMs on Legacy PHP",
+      "author_name": "tambourine_man"
+    },
+    {
+      "id": "50328180",
+      "title": "Mythos 5.5 is listed HTML source code of Anthropic's official website",
+      "url": "https://twitter.com/kimmonismus/status/2116914141017370972",
+      "summary": "Mythos 5.5 is already listed HTML source code of Anthropic&#x27;s official website Thanks to the anonymous person who sent me the tip via email :)",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-01T18:22:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "pretext",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Mythos 5.5 is already listed HTML source code of Anthropic&#x27;s official website Thanks to the anonymous person who sent me the tip via email :)",
+      "author_name": "pretext"
+    },
+    {
+      "id": "50327739",
+      "title": "Anthropic asks candidates about shares falling to zero",
+      "url": "https://ua.news/en/money/anthropic-zapituie-kandidativ-pro-padinnia-aktsii-do-nulia-fortune",
+      "summary": "Anthropic asks job candidates how they would react if safety concerns forced it to abandon AI ambitions and its shares fell to zero, Fortune reports.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-01T17:36:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "Bluestein",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic asks job candidates how they would react if safety concerns forced it to abandon AI ambitions and its shares fell to zero, Fortune reports.",
+      "author_name": "Bluestein"
+    },
+    {
+      "id": "50327436",
+      "title": "Anthropic Removes Daily Usage Limits",
+      "url": "https://thenewstack.io/claude-ultra-session-limit/",
+      "summary": "Anthropic drops Claude’s five-hour session cap for verified Ultra users, so Claude Code sessions can run longer — but the weekly limit stays in place.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-01T17:03:21Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "sheeshkebab",
+      "author": "brenoRibeiro706",
       "likes": 5,
       "views": 0,
       "retweets": 0,
-      "text": "University of Kentucky administrator David Durman is the first Humanist to be granted an AI use exemption under Title VII of the Civil Rights Act.",
-      "author_name": "sheeshkebab"
+      "text": "Anthropic drops Claude’s five-hour session cap for verified Ultra users, so Claude Code sessions can run longer — but the weekly limit stays in place.",
+      "author_name": "brenoRibeiro706"
     },
     {
-      "id": "50325983",
-      "title": "Terence Tao on how AI math solutions miss the point",
-      "url": "https://www.sciencefriday.com/segments/terence-tao-ai-math-solutions/",
-      "summary": "Terence Tao says mathematics is about understanding, not just right answers, and quick AI solutions are forcing soul-searching in the field.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-01T14:22:38Z",
+      "id": "50327114",
+      "title": "Chinese labs now target OpenAI's GPT-6 Astra for distillation",
+      "url": "https://fork.zone/p/1011/report-chinese-labs-now-target-openai-s-gpt-6-astra-for",
+      "summary": "**The report.** The Information, relayed by The Decoder on Oct 29, says Chinese AI labs have shifted their distillation efforts from Anthropic&#x27;s Claude to OpenAI&#x27;s GPT-6 Astra.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-01T16:28:35Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "digital55",
-      "likes": 2,
+      "score": 15,
+      "author": "Bluestein",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Terence Tao says mathematics is about understanding, not just right answers, and quick AI solutions are forcing soul-searching in the field.",
-      "author_name": "digital55"
-    },
-    {
-      "id": "50325637",
-      "title": "Air Force Plans Autonomous Fighter and ISR Drones by 2032",
-      "url": "https://www.airandspaceforces.com/air-force-autonomous-drones-cca-mma-2032/",
-      "summary": "The Air Force will go big on autonomous drones with plans to field 500 Collaborative Combat Aircraft and 500 Massed Modular Aircraft by 2032.",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-11-01T13:44:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "airhangerf15",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "The Air Force will go big on autonomous drones with plans to field 500 Collaborative Combat Aircraft and 500 Massed Modular Aircraft by 2032.",
-      "author_name": "airhangerf15"
+      "text": "**The report.** The Information, relayed by The Decoder on Oct 29, says Chinese AI labs have shifted their distillation efforts from Anthropic&#x27;s Claude to OpenAI&#x27;s GPT-6 Astra.",
+      "author_name": "Bluestein"
     },
     {
       "id": "50324057",
@@ -75,113 +155,13 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 20,
       "author": "kmm",
-      "likes": 3,
+      "likes": 4,
       "views": 0,
       "retweets": 0,
       "text": "A shell injection hidden in an email address gave us code execution on GNU Savannah, then root, then the ability to push to the upstream Bash repository. We reported it, kept auditing, and helped the FSF fix 26 vulnerabilities in the forge that hosts GNU.",
       "author_name": "kmm"
-    },
-    {
-      "id": "50323848",
-      "title": "OpenIDEA: The IDE you know, rebuilt in Rust",
-      "url": "https://github.com/l0ng-ai/openidea",
-      "summary": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages. - l0ng-ai/openidea",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-01T09:15:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 67,
-      "author": "theanonymousone",
-      "likes": 36,
-      "views": 46,
-      "retweets": 0,
-      "text": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages. - l0ng-ai/openidea",
-      "author_name": "theanonymousone"
-    },
-    {
-      "id": "50323814",
-      "title": "DeepSeek launches advanced coding agent to rival Claude Code",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
-      "summary": "DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic PBC’s popular Claude Code.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-01T09:07:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "albert_e",
-      "likes": 3,
-      "views": 3,
-      "retweets": 0,
-      "text": "DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic PBC’s popular Claude Code.",
-      "author_name": "albert_e"
-    },
-    {
-      "id": "50323735",
-      "title": "Scaling Misuse Detection with Self-Assessment",
-      "url": "https://safeguards.anthropic.com/2026/self-assessment/",
-      "summary": "Self-assessment lets Claude assess the safety of its own responses. It scales well with model capabilities and helps us identify emergent harms.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-01T08:48:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "jacquesm",
-      "likes": 2,
-      "views": 3,
-      "retweets": 0,
-      "text": "Self-assessment lets Claude assess the safety of its own responses. It scales well with model capabilities and helps us identify emergent harms.",
-      "author_name": "jacquesm"
-    },
-    {
-      "id": "50321310",
-      "title": "OpenAI's blow to mathematicians: They have annihilated my field of research",
-      "url": "https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html",
-      "summary": "After the latest announcements from the American company claiming to have solved hundreds of mathematical problems, Fields Medalist Hugo Duminil-Copin warns of a",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T23:36:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "sieste",
-      "likes": 6,
-      "views": 7,
-      "retweets": 0,
-      "text": "After the latest announcements from the American company claiming to have solved hundreds of mathematical problems, Fields Medalist Hugo Duminil-Copin warns of a",
-      "author_name": "sieste"
-    },
-    {
-      "id": "50320970",
-      "title": "Anthropic pushes for opt-out model for Australian content",
-      "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
-      "summary": "Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T22:42:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "cisc",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations",
-      "author_name": "cisc"
     },
     {
       "id": "50320681",
@@ -202,106 +182,6 @@
       "retweets": 0,
       "text": "Proton, the Swiss company behind Proton Mail and other privacy-focused products, has publicly positioned itself as a privacy-focused alternative to large technology...",
       "author_name": "DeepLogin"
-    },
-    {
-      "id": "50319362",
-      "title": "Anthropic: Scaling Misuse Detection with Self-Assessment of Chats",
-      "url": "https://twitter.com/AnthropicAI/status/2115871889549865429",
-      "summary": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. Since we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t de…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T19:40:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 26,
-      "author": "cft",
-      "likes": 9,
-      "views": 0,
-      "retweets": 0,
-      "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. Since we began using self-assessment in June, it has surfaced misuse that our other safeguards weren’t de…",
-      "author_name": "cft"
-    },
-    {
-      "id": "50319358",
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "summary": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for &quot;training a competitor,&quot; and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T19:39:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 431,
-      "author": "pretext",
-      "likes": 414,
-      "views": 229,
-      "retweets": 0,
-      "text": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for &quot;training a competitor,&quot; and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
-      "author_name": "pretext"
-    },
-    {
-      "id": "50319235",
-      "title": "OpenCiv3 Dutch 2 now available",
-      "url": "https://forums.civfanatics.com/threads/release-openciv3-dutch-2-now-available.705287/",
-      "summary": "If you&#039;re just joining us, check out this introduction thread for an overview of the OpenCiv3 project. Momentous news, everyone! Today is the 25th...",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-31T19:25:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "Alpi",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "If you&#039;re just joining us, check out this introduction thread for an overview of the OpenCiv3 project. Momentous news, everyone! Today is the 25th...",
-      "author_name": "Alpi"
-    },
-    {
-      "id": "50315990",
-      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-      "summary": "An AI startup hacked Anthropic within 12 hours and accessed employee details and internal messages. The breach exposed both personnel information and private company communications.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-31T13:25:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 90,
-      "author": "healsdata",
-      "likes": 74,
-      "views": 18,
-      "retweets": 0,
-      "text": "An AI startup hacked Anthropic within 12 hours and accessed employee details and internal messages. The breach exposed both personnel information and private company communications.",
-      "author_name": "healsdata"
-    },
-    {
-      "id": "50302158",
-      "title": "Strategies Senior AI Developers Use to Deliver High-Quality Code in 2026",
-      "url": "https://dailybusinessgroup.co.uk/2026/10/9-strategies-senior-ai-developers-use-to-deliver-high-quality-code-for-startups-in-2026/",
-      "summary": "Startups are using vibe coding and will continue to do so. However, the limits of vibe coding will never go away, and clean-up specialists will still be needed.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-10-30T10:43:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "Aninay",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Startups are using vibe coding and will continue to do so. However, the limits of vibe coding will never go away, and clean-up specialists will still be needed.",
-      "author_name": "Aninay"
     },
     {
       "id": "50291043",
