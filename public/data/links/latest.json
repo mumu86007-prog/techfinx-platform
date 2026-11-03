@@ -1,8 +1,288 @@
 {
-  "version": "2026-11-03T01:29:55.967Z",
-  "generatedAt": "2026-11-03T01:29:55.968Z",
+  "version": "2026-11-03T16:02:11.743Z",
+  "generatedAt": "2026-11-03T16:02:11.743Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "50353525",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against Brave ​Software over alleged unlawful scraping to train AI and also letting users bypass their paywalls.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-03T15:53:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "docdeek",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The New York Times and a group of other publications have filed lawsuits against Brave ​Software over alleged unlawful scraping to train AI and also letting users bypass their paywalls.",
+      "author_name": "docdeek"
+    },
+    {
+      "id": "50353364",
+      "title": "World of Warcraft: Forever Is Overrun with AI Slop",
+      "url": "https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/",
+      "summary": "The vibe-coded addon problem is getting so bad that Warcraft Logs is changing its API and developers are dealing with theft of their work.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-03T15:40:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "speckx",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "The vibe-coded addon problem is getting so bad that Warcraft Logs is changing its API and developers are dealing with theft of their work.",
+      "author_name": "speckx"
+    },
+    {
+      "id": "50353347",
+      "title": "Influence campaign floods France with racist ads, before 2027 election",
+      "url": "https://www.lemonde.fr/en/pixels/article/2026/10/29/massive-influence-campaign-floods-france-with-racist-ads-months-before-2027-presidential-election_6766927_13.html",
+      "summary": "A study published on Thursday, October 29, traces this exceptionally well-funded campaign, launched three years ago and timed to its target countries",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-03T15:38:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "bhouston",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A study published on Thursday, October 29, traces this exceptionally well-funded campaign, launched three years ago and timed to its target countries",
+      "author_name": "bhouston"
+    },
+    {
+      "id": "50353300",
+      "title": "AI is destroying my CS degree",
+      "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+      "summary": "I am a computer science student. I got a scholarship to study computer science and AI last year and I love it! It&#x27;s something that I wanted to do since I was...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-03T15:35:06Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 53,
+      "author": "speckx",
+      "likes": 36,
+      "views": 6,
+      "retweets": 0,
+      "text": "I am a computer science student. I got a scholarship to study computer science and AI last year and I love it! It&#x27;s something that I wanted to do since I was...",
+      "author_name": "speckx"
+    },
+    {
+      "id": "50353189",
+      "title": "TIS-100 Bench: LLMs Push the Pareto Frontier in Programming Puzzle Games",
+      "url": "https://tis-100.wincon.dev/",
+      "summary": "16 LLMs took on TIS-100&#x27;s community leaderboard and found 133 new frontier points on 18 of 55 puzzles, including 3 outright cycle records.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-03T15:25:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "fairestvalue",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "16 LLMs took on TIS-100&#x27;s community leaderboard and found 133 new frontier points on 18 of 55 puzzles, including 3 outright cycle records.",
+      "author_name": "fairestvalue"
+    },
+    {
+      "id": "50353088",
+      "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
+      "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
+      "summary": "A shell injection hidden in an email address gave us code execution on GNU Savannah, then root, then the ability to push to the upstream Bash repository. We reported it, kept auditing, and helped the FSF fix 26 vulnerabilities in the forge that hosts GNU.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-03T15:18:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "debo_",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A shell injection hidden in an email address gave us code execution on GNU Savannah, then root, then the ability to push to the upstream Bash repository. We reported it, kept auditing, and helped the FSF fix 26 vulnerabilities in the forge that hosts GNU.",
+      "author_name": "debo_"
+    },
+    {
+      "id": "50352641",
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "summary": "The LLM revolution ran on a pretraining commons that humanity built for other reasons. Posttraining consumes tasks, not documents, and no such commons exists. If the open models community wants...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-03T14:45:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "lukasschwab",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The LLM revolution ran on a pretraining commons that humanity built for other reasons. Posttraining consumes tasks, not documents, and no such commons exists. If the open models community wants...",
+      "author_name": "lukasschwab"
+    },
+    {
+      "id": "50352595",
+      "title": "Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach",
+      "url": "https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/",
+      "summary": "In this article, learn how to choose the right LLM inference optimization technique using a practical decision tree based on your model, traffic, latency, and hardware constraints.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-03T14:42:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "eigenBasis",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "In this article, learn how to choose the right LLM inference optimization technique using a practical decision tree based on your model, traffic, latency, and hardware constraints.",
+      "author_name": "eigenBasis"
+    },
+    {
+      "id": "50352576",
+      "title": "LLM Inference Frameworks You Should Try",
+      "url": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
+      "summary": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-03T14:41:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "eigenBasis",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
+      "author_name": "eigenBasis"
+    },
+    {
+      "id": "50352167",
+      "title": "Anthropic warns that it's close to RSI capability",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-03T14:07:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "brandonb",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "author_name": "brandonb"
+    },
+    {
+      "id": "50351712",
+      "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
+      "url": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive",
+      "summary": "Anthropic&#x27;s revised S-1A registration statement, filed Monday with the SEC, contains a striking disclosure: the company believes it may soon meet its own internal definition of recursive…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-03T13:26:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 43,
+      "author": "arbuge",
+      "likes": 27,
+      "views": 62,
+      "retweets": 0,
+      "text": "Anthropic&#x27;s revised S-1A registration statement, filed Monday with the SEC, contains a striking disclosure: the company believes it may soon meet its own internal definition of recursive…",
+      "author_name": "arbuge"
+    },
+    {
+      "id": "50350567",
+      "title": "Lego with bright colors can be used by AI to motion track animation for CGI",
+      "url": "https://twitter.com/i/status/2117460058019709023",
+      "summary": "Today I learned that Lego with bright colors can be used by AI to motion track animation for CGI. Alas, not real time. I didn&#x27;t go swoosh and the ship go swoosh. Those 4 seconds took over a half hour to render on my 6 year old graphics card... 😅 As I&#x27;ve been saying, if your perception of AI is j…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-03T11:16:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "Michelangelo11",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Today I learned that Lego with bright colors can be used by AI to motion track animation for CGI. Alas, not real time. I didn&#x27;t go swoosh and the ship go swoosh. Those 4 seconds took over a half hour to render on my 6 year old graphics card... 😅 As I&#x27;ve been saying, if your perception of AI is j…",
+      "author_name": "Michelangelo11"
+    },
+    {
+      "id": "50350098",
+      "title": "Lovable AI Apps Expose User Data Online",
+      "url": "https://twitter.com/IntCyberDigest/status/2117396586657452317",
+      "summary": "‼️ Apps built with the AI app-maker Lovable left passport numbers, payment information and 200,000 chat messages open to anyone, no login needed. German security firm Crissy Field scanned 159,041 Lovable projects and found databases with email addresses readable on 7,403 sites. Lovable promises n…",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-11-03T10:12:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "soltanov",
+      "likes": 1,
+      "views": 2,
+      "retweets": 0,
+      "text": "‼️ Apps built with the AI app-maker Lovable left passport numbers, payment information and 200,000 chat messages open to anyone, no login needed. German security firm Crissy Field scanned 159,041 Lovable projects and found databases with email addresses readable on 7,403 sites. Lovable promises n…",
+      "author_name": "soltanov"
+    },
+    {
+      "id": "50350058",
+      "title": "Anthropic Verification Records Outnumber OpenAI's Nearly 2 to 1 in European DNS",
+      "url": "https://ciphercue.com/blog/anthropic-openai-dns-verification-records-europe",
+      "summary": "3,037 of 110,962 European domains publish an Anthropic DNS verification token, 1,652 an OpenAI one. Spain&#039;s data regulator publishes three.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-03T10:02:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "adulion",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "3,037 of 110,962 European domains publish an Anthropic DNS verification token, 1,652 an OpenAI one. Spain&#039;s data regulator publishes three.",
+      "author_name": "adulion"
+    },
     {
       "id": "50346759",
       "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
@@ -15,9 +295,9 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 22,
       "author": "fraXis",
-      "likes": 3,
+      "likes": 6,
       "views": 0,
       "retweets": 0,
       "text": "OpenAI plans community agreements and infrastructure commitments as it prepares to rebrand data centers amid growing public opposition",
@@ -35,113 +315,13 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 20,
       "author": "treyhuffine",
-      "likes": 1,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "We built Pando, a new Git backend for our monorepo, to handle more pushes and fetches without changing how our engineers and agents use Git. Pando cut push latency by ~80% and now serves nearly a petabyte of Git data a day. We can grow Git capacity alongside agent usage.",
       "author_name": "treyhuffine"
-    },
-    {
-      "id": "50346350",
-      "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-      "summary": "Mandiant reveals how LLMJacking attacks cost victims hundreds of thousands in fraudulent cloud bills, with underground markets targeting LLM credentials.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-03T00:32:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "khalidkhair",
-      "likes": 4,
-      "views": 2,
-      "retweets": 0,
-      "text": "Mandiant reveals how LLMJacking attacks cost victims hundreds of thousands in fraudulent cloud bills, with underground markets targeting LLM credentials.",
-      "author_name": "khalidkhair"
-    },
-    {
-      "id": "50346125",
-      "title": "Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting",
-      "url": "https://www.gadgetreview.com/the-number-of-innocent-people-being-accused-of-shoplifting-by-faulty-ai-facial-recognition-systems-is-alarming",
-      "summary": "Retail facial recognition in UK stores has wrongly accused innocent shoppers, with no easy legal remedy and no public data on false-match rates.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-03T00:06:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "entryleveljobsc",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "Retail facial recognition in UK stores has wrongly accused innocent shoppers, with no easy legal remedy and no public data on false-match rates.",
-      "author_name": "entryleveljobsc"
-    },
-    {
-      "id": "50346001",
-      "title": "Developers are downgrading their AI on purpose – and it's working",
-      "url": "https://thenewstack.io/claude-code-developer-refusals/",
-      "summary": "Anthropic added game-cloning limits to Claude Code, but developers say Opus 5.5 is now refusing reverse-engineering and software work it once handled.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-02T23:53:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "noptd",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic added game-cloning limits to Claude Code, but developers say Opus 5.5 is now refusing reverse-engineering and software work it once handled.",
-      "author_name": "noptd"
-    },
-    {
-      "id": "50344919",
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "summary": "If Anthropic goes public, workers, retail investors, and retirees will be left holding the bag when its bills come due, writes Matt Scherer.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-02T22:30:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 195,
-      "author": "cdrnsf",
-      "likes": 179,
-      "views": 111,
-      "retweets": 0,
-      "text": "If Anthropic goes public, workers, retail investors, and retirees will be left holding the bag when its bills come due, writes Matt Scherer.",
-      "author_name": "cdrnsf"
-    },
-    {
-      "id": "50344861",
-      "title": "LLMs are not superhuman at reading and writing neural network weights",
-      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-      "summary": "A recent paper argues that frontier LLMs can work with neural network weights directly. This seems superhuman, but it isn’t. The paper shows that GPT-6 Astra…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-02T22:26:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 39,
-      "author": "agrm",
-      "likes": 25,
-      "views": 0,
-      "retweets": 0,
-      "text": "A recent paper argues that frontier LLMs can work with neural network weights directly. This seems superhuman, but it isn’t. The paper shows that GPT-6 Astra…",
-      "author_name": "agrm"
     },
     {
       "id": "50344584",
@@ -164,26 +344,6 @@
       "author_name": "pretext"
     },
     {
-      "id": "50344533",
-      "title": "Elon Musk throttles Grok Bot limits due to 'unsustainably high' costs",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "summary": "Musk recently referred to Grok Bot as having &quot;the fastest growth of a product that I&#039;ve ever seen in my life.&quot;",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-02T22:05:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "inthebay",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "Musk recently referred to Grok Bot as having &quot;the fastest growth of a product that I&#039;ve ever seen in my life.&quot;",
-      "author_name": "inthebay"
-    },
-    {
       "id": "50342772",
       "title": "Secure AI Agents with Hazmat Suits, Not Self-Defense Classes",
       "url": "https://infisical.com/blog/ai-agent-security-hazmat-suits",
@@ -202,46 +362,6 @@
       "retweets": 0,
       "text": "AI agents can&#x27;t see the risks they face. Agent security needs architectural safeguards like sandboxes, credential brokers, and gateways, not behavioral rules.",
       "author_name": "FinnLobsien"
-    },
-    {
-      "id": "50341987",
-      "title": "Anthropic's growth slowed and costs jumped in the third quarter",
-      "url": "https://fortune.com/2026/11/02/anthropics-growth-slowed-and-costs-jumped-in-the-third-quarter-updated-ipo-filing-shows/",
-      "summary": "Anthropic&#x27;s amended S-1 adds third-quarter results: revenue rose to $17 billion, but growth slowed and the AI lab swung back to an operating loss.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-02T19:11:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "ersinesen",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "Anthropic&#x27;s amended S-1 adds third-quarter results: revenue rose to $17 billion, but growth slowed and the AI lab swung back to an operating loss.",
-      "author_name": "ersinesen"
-    },
-    {
-      "id": "50341402",
-      "title": "Anthropic and OpenAI Are Creating Warrooms for Election Misinformation",
-      "url": "https://www.semafor.com/article/11/02/2026/election-war-rooms-enter-the-ai-age",
-      "summary": "Both OpenAI and Anthropic will have “war rooms” dedicated to ensuring their platforms provide accurate information about the midterm elections.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-02T18:35:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "sp4cec0wb0y",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "Both OpenAI and Anthropic will have “war rooms” dedicated to ensuring their platforms provide accurate information about the midterm elections.",
-      "author_name": "sp4cec0wb0y"
     },
     {
       "id": "50341366",
@@ -264,26 +384,6 @@
       "author_name": "chef_wang"
     },
     {
-      "id": "50341223",
-      "title": "Lessons from Red-Teaming Auto-Review, OpenAI's Blocking Monitor",
-      "url": "https://www.lesswrong.com/posts/dbStc8ZFESqfihwAd/lessons-from-red-teaming-auto-review-openai-s-blocking-1",
-      "summary": "This work and the report were done by Giovanni Occhipinti, as part of the ERA fellowship and mentored by Monika Jotautaitė (Apollo Research). …",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-02T18:24:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "gmays",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "This work and the report were done by Giovanni Occhipinti, as part of the ERA fellowship and mentored by Monika Jotautaitė (Apollo Research). …",
-      "author_name": "gmays"
-    },
-    {
       "id": "50320681",
       "title": "Proton senior management prioritizes AI over security",
       "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
@@ -302,66 +402,6 @@
       "retweets": 0,
       "text": "Proton, the Swiss company behind Proton Mail and other privacy-focused products, has publicly positioned itself as a privacy-focused alternative to large technology...",
       "author_name": "DeepLogin"
-    },
-    {
-      "id": "50291043",
-      "title": "Embrace: RCE, Address Bar Spoofing and More in Cursor, Codex, Copilot and Claude",
-      "url": "https://forever.security/blog/embrace-hacking-5-ai-assistants-embedded-browsers/",
-      "summary": "Cursor, GitHub Copilot, Codex, VS Code and Claude Desktop each built a browser into their AI assistant, then enriched it beyond what a normal browser allows. Those enrichments broke the browser threat model, letting a web page or a local file reach the machine behind it. Two issues remain unpatched.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-10-29T15:52:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "galbash",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Cursor, GitHub Copilot, Codex, VS Code and Claude Desktop each built a browser into their AI assistant, then enriched it beyond what a normal browser allows. Those enrichments broke the browser threat model, letting a web page or a local file reach the machine behind it. Two issues remain unpatched.",
-      "author_name": "galbash"
-    },
-    {
-      "id": "50250462",
-      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
-      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-26T20:29:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "p1anecrazy",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "p1anecrazy"
-    },
-    {
-      "id": "50094099",
-      "title": "Auditory processing strategies in humans and zebra finches",
-      "url": "https://www.nature.com/articles/s42003-026-11035-9",
-      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-10-14T19:55:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "bryanrasmussen",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
-      "author_name": "bryanrasmussen"
     }
   ]
 }
