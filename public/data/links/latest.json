@@ -1,8 +1,268 @@
 {
-  "version": "2026-11-04T16:07:02.695Z",
-  "generatedAt": "2026-11-04T16:07:02.695Z",
+  "version": "2026-11-05T00:16:07.933Z",
+  "generatedAt": "2026-11-05T00:16:07.933Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "50373157",
+      "title": "CodeRabbit – Automated review, triage, and security for AI-generated PRs",
+      "url": "https://www.coderabbit.ai",
+      "summary": "Ship more software, faster, with code you trust. Independent AI code review, PR triage, change explanations, and continuous security monitoring.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-05T00:02:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "doodlesdev",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Ship more software, faster, with code you trust. Independent AI code review, PR triage, change explanations, and continuous security monitoring.",
+      "author_name": "doodlesdev"
+    },
+    {
+      "id": "50373149",
+      "title": "You'll need nerves of steel to work with AI agents",
+      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+      "summary": "This post will focus mainly on Composer 2.5 in Cursor. These problems may not be present in opus-5.5 or gpt-6.1-sol-pro-max-ultra-thinking-fast. But gpt-6.1-luna, for example, has all the problems listed here. I’ve also encountered many of these problems before in gpt-5.5 and opus-4.6. I",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-05T00:01:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "theorchid",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "This post will focus mainly on Composer 2.5 in Cursor. These problems may not be present in opus-5.5 or gpt-6.1-sol-pro-max-ultra-thinking-fast. But gpt-6.1-luna, for example, has all the problems listed here. I’ve also encountered many of these problems before in gpt-5.5 and opus-4.6. I",
+      "author_name": "theorchid"
+    },
+    {
+      "id": "50372911",
+      "title": "Yassamin Ansari: Top of the Democratic agenda on day 1 pause on advanced AI dev",
+      "url": "https://twitter.com/RepYassAnsari/status/2118054336077127797",
+      "summary": "Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-11-04T23:31:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "donsupreme",
+      "likes": 1,
+      "views": 6,
+      "retweets": 0,
+      "text": "Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence.",
+      "author_name": "donsupreme"
+    },
+    {
+      "id": "50372672",
+      "title": "Background subagents in Claude Code now use less of your usage limit",
+      "url": "https://twitter.com/ClaudeDevs/status/2118063143167693011",
+      "summary": "Background subagents in Claude Code now use less of your usage limit. A running subagent updates its status line every 30 seconds, and each update used to re-read its whole conversation. Now Haiku 5.5 writes it from short notes instead, so each update costs about 99% less.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-04T23:02:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "mfiguiere",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Background subagents in Claude Code now use less of your usage limit. A running subagent updates its status line every 30 seconds, and each update used to re-read its whole conversation. Now Haiku 5.5 writes it from short notes instead, so each update costs about 99% less.",
+      "author_name": "mfiguiere"
+    },
+    {
+      "id": "50372505",
+      "title": "Xenbleed: Xen Guest to Dom0 Escape",
+      "url": "https://codeant.ai/security-research/xenbleed-a-grant-copy-cache-bug-that-reaches-dom0-memory",
+      "summary": "Xen reused a grant-copy cache entry and skipped its permission check, letting a guest read and write dom0 memory. Details on XSA-523 and CVE-2026-102704.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-04T22:42:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "markasoftware",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Xen reused a grant-copy cache entry and skipped its permission check, letting a guest read and write dom0 memory. Details on XSA-523 and CVE-2026-102704.",
+      "author_name": "markasoftware"
+    },
+    {
+      "id": "50372117",
+      "title": "OpenRing – Open-source, self-hosted voice AI agent platform (Vapi alternative)",
+      "url": "https://github.com/elifalanrocha/openring",
+      "summary": "Open-source, self-hosted voice AI agents with a Vapi-compatible API. Bring your own keys or run 100% local and free (Whisper, Ollama, Kokoro). Calls on Twilio, Telnyx and Genesys, campaigns, model routes with fallback, cost per call. No per-minute platform fee. One command: npx openring - elifalanrocha/openring",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-04T21:56:55Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "elifalanrocha",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Open-source, self-hosted voice AI agents with a Vapi-compatible API. Bring your own keys or run 100% local and free (Whisper, Ollama, Kokoro). Calls on Twilio, Telnyx and Genesys, campaigns, model routes with fallback, cost per call. No per-minute platform fee. One command: npx openring - elifalanrocha/openring",
+      "author_name": "elifalanrocha"
+    },
+    {
+      "id": "50372064",
+      "title": "Serving GLM-5.3-Flash on one Trainium2 box with NKI layer megakernels",
+      "url": "https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels",
+      "summary": "One AWS trn2.48xlarge serves GLM-5.3-Flash at up to 28.9 agent requests a minute on SemiAnalysis&#x27;s AgentX benchmark, 3.57 million tokens a minute, and takes a million-token prompt to its first token in about three minutes. NKI layer megakernels cut its decode step from 32.2 ms to 24.2 ms.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-04T21:52:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "sanchitmonga22",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "One AWS trn2.48xlarge serves GLM-5.3-Flash at up to 28.9 agent requests a minute on SemiAnalysis&#x27;s AgentX benchmark, 3.57 million tokens a minute, and takes a million-token prompt to its first token in about three minutes. NKI layer megakernels cut its decode step from 32.2 ms to 24.2 ms.",
+      "author_name": "sanchitmonga22"
+    },
+    {
+      "id": "50371853",
+      "title": "Anthropic's FlashProve proves which model wrote a reply, and its 72x cost",
+      "url": "https://theainewsreport.com/2026-11-04-anthropic-flashprove-provable-inference-explained.html",
+      "summary": "Anthropic released an open-source prototype that lets anyone check that a reply came from a specific, committed model without seeing its weights. We walk the three steps in plain words, turn the benchmark into per-request cost and",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-04T21:31:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "titusblair",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Anthropic released an open-source prototype that lets anyone check that a reply came from a specific, committed model without seeing its weights. We walk the three steps in plain words, turn the benchmark into per-request cost and",
+      "author_name": "titusblair"
+    },
+    {
+      "id": "50371433",
+      "title": "Researcher accuses Anthropic of stealing his work",
+      "url": "https://twitter.com/frostedxyz/status/2117751149398765916",
+      "summary": "anthropic just stole my best friends research he spent the last 10 months developing zero knowledge proofs for AI accountability, only for @AnthropicAI to announce remarkably similar research days after he applied for compute support. Can someone at Anthropic at least let him collaborate instead…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-04T20:58:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 25,
+      "author": "pretext",
+      "likes": 8,
+      "views": 1,
+      "retweets": 0,
+      "text": "anthropic just stole my best friends research he spent the last 10 months developing zero knowledge proofs for AI accountability, only for @AnthropicAI to announce remarkably similar research days after he applied for compute support. Can someone at Anthropic at least let him collaborate instead…",
+      "author_name": "pretext"
+    },
+    {
+      "id": "50370793",
+      "title": "Nyquist Limit:The frequency of changes in tech is invalidating our understanding",
+      "url": "https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/",
+      "summary": "Product teams are using LLMs to increase the frequency of change in technology, and near a certain limit, the sample rate (the human decision maker&#39;s rate of understanding and evaluating technology) would need to more than double every time the frequency of changes does in order to retain validity, but that&#39;s n…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-04T20:07:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "evakhoury",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Product teams are using LLMs to increase the frequency of change in technology, and near a certain limit, the sample rate (the human decision maker&#39;s rate of understanding and evaluating technology) would need to more than double every time the frequency of changes does in order to retain validity, but that&#39;s n…",
+      "author_name": "evakhoury"
+    },
+    {
+      "id": "50369282",
+      "title": "Go vs. Python for an LLM Gateway: What We Measured",
+      "url": "https://blog.ai-process.dev/2026/10/26/go-vs-python-llm-gateway/",
+      "summary": "A reproducible benchmark of KTMS (Go) against LiteLLM Proxy (Python) and eight other self-hosted gateways on identical cloud hardware: added latency, time to first token, throughput, memory, CPU and startup time.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-04T18:06:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "coylone",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "A reproducible benchmark of KTMS (Go) against LiteLLM Proxy (Python) and eight other self-hosted gateways on identical cloud hardware: added latency, time to first token, throughput, memory, CPU and startup time.",
+      "author_name": "coylone"
+    },
+    {
+      "id": "50368626",
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "summary": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-04T17:17:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 198,
+      "author": "ltononro",
+      "likes": 167,
+      "views": 83,
+      "retweets": 0,
+      "text": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference.",
+      "author_name": "ltononro"
+    },
+    {
+      "id": "50367590",
+      "title": "OpenAI targets Microsoft's GitHub with deal to acquire dev tools startup",
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-openai-targets-microsofts-github-112906674.html",
+      "summary": "OpenAI will acquire Pierre Computer, a developer tools startup whose technology is already embedded in Codex, the company told Axios exclusively.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-04T16:07:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "theanonymousone",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "OpenAI will acquire Pierre Computer, a developer tools startup whose technology is already embedded in Codex, the company told Axios exclusively.",
+      "author_name": "theanonymousone"
+    },
     {
       "id": "50367537",
       "title": "Deterministic security and privacy checks for code from AI assistants",
@@ -24,226 +284,6 @@
       "author_name": "ankush82"
     },
     {
-      "id": "50367499",
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "url": "https://www.theverge.com/transportation/1026306/ber-ai-agents-q3-earnings-disintermediation",
-      "summary": "Uber disclosed that third-party AI agents booked only four rides in Q3 2026, downplaying near-term disintermediation risks as the platform bets on direct customer loyalty.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-04T16:01:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "mattas",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Uber disclosed that third-party AI agents booked only four rides in Q3 2026, downplaying near-term disintermediation risks as the platform bets on direct customer loyalty.",
-      "author_name": "mattas"
-    },
-    {
-      "id": "50366971",
-      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he&#039;s suffered from &quot;cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-04T15:28:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 39,
-      "author": "karakoram",
-      "likes": 8,
-      "views": 3,
-      "retweets": 0,
-      "text": "Y Combinator Garry Tan has jokingly admitted that he&#039;s suffered from &quot;cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "author_name": "karakoram"
-    },
-    {
-      "id": "50366917",
-      "title": "Chatrove – Organize AI prompts and chats into folders",
-      "url": "https://chromewebstore.google.com/detail/chatrove-â-ai-chat-folder/kmekdnchikkmlpgeahpkhkpjgkijankm",
-      "summary": "Hit your AI limit? Continue any chat in ChatGPT, Claude or Gemini in one click. Plus folders, saved prompts and // shortcuts.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-04T15:24:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "david_builder",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Hit your AI limit? Continue any chat in ChatGPT, Claude or Gemini in one click. Plus folders, saved prompts and // shortcuts.",
-      "author_name": "david_builder"
-    },
-    {
-      "id": "50366387",
-      "title": "Reviewing My 2017 AI Risk Project Including with Dario at OpenAI",
-      "url": "https://www.jefftk.com/p/reviewing-my-2017-ai-risk-project",
-      "summary": "In 2017, after getting laid off from a startup, I spent a while looking into AI risk: Many people I respect have started to think that AI risk is the most valuable place to focus EA efforts. For example, 80000 Hours ranks it first on their",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-04T14:55:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "rancar2",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "In 2017, after getting laid off from a startup, I spent a while looking into AI risk: Many people I respect have started to think that AI risk is the most valuable place to focus EA efforts. For example, 80000 Hours ranks it first on their",
-      "author_name": "rancar2"
-    },
-    {
-      "id": "50366113",
-      "title": "I got banned from Lobsters for writing like an LLM",
-      "url": "https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/",
-      "summary": "I&#x27;ve been banned from Lobsters. If you&#x27;re bored, you can read about my experience. If you don&#x27;t know it, Lobsters is a news aggregator focused on…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-04T14:37:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "O1111OOO",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "I&#x27;ve been banned from Lobsters. If you&#x27;re bored, you can read about my experience. If you don&#x27;t know it, Lobsters is a news aggregator focused on…",
-      "author_name": "O1111OOO"
-    },
-    {
-      "id": "50365588",
-      "title": "I Wrote a Book: The Art and Science of LLM Jailbreaking",
-      "url": "https://leanpub.com/theartandscienceofllmjailbreaking",
-      "summary": "Discover the techniques behind LLM jailbreaking, explore AI vulnerabilities and learn how to detect and mitigate security risks through practical research.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-04T13:58:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "danllm",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Discover the techniques behind LLM jailbreaking, explore AI vulnerabilities and learn how to detect and mitigate security risks through practical research.",
-      "author_name": "danllm"
-    },
-    {
-      "id": "50365195",
-      "title": "Open Source as a Research Method",
-      "url": "https://lemire.me/blog/2026/11/04/open-source-as-a-research-method/",
-      "summary": "Many people still picture innovation as a line. The professor thinks and publishes. The engineer reads the paper and designs a product. The customer consumes it. It rarely works that way. The industrial revolution was not set off by professors writing papers. It was driven by demand for cheap and better clothing for th…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-04T13:22:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "smilelamp",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Many people still picture innovation as a line. The professor thinks and publishes. The engineer reads the paper and designs a product. The customer consumes it. It rarely works that way. The industrial revolution was not set off by professors writing papers. It was driven by demand for cheap and better clothing for th…",
-      "author_name": "smilelamp"
-    },
-    {
-      "id": "50365162",
-      "title": "Redis now has compressed bitmaps (Roaring)",
-      "url": "https://lemire.me/blog/2026/10/15/redis-now-has-compressed-bitmaps-roaring/",
-      "summary": "Redis is an in-memory database. Salvatore Sanfilippo started it in 2009, and it is now one of the most widely deployed pieces of server software. It is often used as a cache in front of a slower database. You talk to it over the network with short text commands such as SET user:42 &quot;Alice&quot; and &hellip; Continu…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-04T13:20:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "surprisetalk",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Redis is an in-memory database. Salvatore Sanfilippo started it in 2009, and it is now one of the most widely deployed pieces of server software. It is often used as a cache in front of a slower database. You talk to it over the network with short text commands such as SET user:42 &quot;Alice&quot; and &hellip; Continu…",
-      "author_name": "surprisetalk"
-    },
-    {
-      "id": "50364932",
-      "title": "An example of LLM overengineering in the wild",
-      "url": "https://github.com/SecondCityOsD/greasemonkey-for-UXP-browsers/commit/5a36b28392d847a919c9897c56d408acac632d1c",
-      "summary": "A fork of Greasemonkey user script manager for UXP-based browsers. - Toolbar badge: paint the count into the icon · SecondCityOsD/greasemonkey-for-UXP-browsers@5a36b28",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-04T12:58:52Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "countWSS",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "A fork of Greasemonkey user script manager for UXP-based browsers. - Toolbar badge: paint the count into the icon · SecondCityOsD/greasemonkey-for-UXP-browsers@5a36b28",
-      "author_name": "countWSS"
-    },
-    {
-      "id": "50362579",
-      "title": "Anthropic: Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "summary": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-04T07:57:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 38,
-      "author": "Tepix",
-      "likes": 7,
-      "views": 3,
-      "retweets": 0,
-      "text": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference.",
-      "author_name": "Tepix"
-    },
-    {
-      "id": "50361359",
-      "title": "GIMP 3.2.8 with Many Refinements, Numerous Security Fixes Due to AI Reports",
-      "url": "https://www.phoronix.com/news/GIMP-3.2.8-Released",
-      "summary": "GIMP 3.2.8 is out today as the newest stable release of this open-source image editing application that&#039;s most popular on the Linux desktop",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-04T03:59:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "qtqtqt",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "GIMP 3.2.8 is out today as the newest stable release of this open-source image editing application that&#039;s most popular on the Linux desktop",
-      "author_name": "qtqtqt"
-    },
-    {
       "id": "50360366",
       "title": "Cat Wu, product lead for Claude Code, has left Anthropic",
       "url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
@@ -258,70 +298,10 @@
       "score": 19,
       "author": "aanet",
       "likes": 3,
-      "views": 4,
+      "views": 5,
       "retweets": 0,
       "text": "Cat Wu exits Anthropic before its IPO. She helped boost Claude Code&#x27;s success with Boris Cherny, making the AI startup a key player.",
       "author_name": "aanet"
-    },
-    {
-      "id": "50358753",
-      "title": "Anthropic's annualized revenue run rate peaked back in July 2026",
-      "url": "https://twitter.com/FinanceLancelot/status/2109024272572182722",
-      "summary": "Anthropic&#x27;s annualized revenue run rate was just leaked, showing it peaked back in July 2026. That month sounds familiar doesn&#x27;t it? 🤨 That&#x27;s exactly when the psyop Jacob Coxon was deployed across all mainstream media, scaring everyone that AI would destroy the world. Now we know why AI companie…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-03T21:55:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "g42gregory",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic&#x27;s annualized revenue run rate was just leaked, showing it peaked back in July 2026. That month sounds familiar doesn&#x27;t it? 🤨 That&#x27;s exactly when the psyop Jacob Coxon was deployed across all mainstream media, scaring everyone that AI would destroy the world. Now we know why AI companie…",
-      "author_name": "g42gregory"
-    },
-    {
-      "id": "50357548",
-      "title": "AI agents beating human made tools at molecular discovery",
-      "url": "https://twitter.com/intology/status/2117642701890105725",
-      "summary": "Locus sets the frontier for automating molecular design Our automated research system Locus develops scientific AI models that outperform SOTA expert solutions Unlocking the potential of scientific AI requires leveraging proprietary data. Locus achieves this autonomously 🧵👇 -- We test Locus a…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-03T20:14:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "ronareltest",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "Locus sets the frontier for automating molecular design Our automated research system Locus develops scientific AI models that outperform SOTA expert solutions Unlocking the potential of scientific AI requires leveraging proprietary data. Locus achieves this autonomously 🧵👇 -- We test Locus a…",
-      "author_name": "ronareltest"
-    },
-    {
-      "id": "50353088",
-      "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
-      "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
-      "summary": "A shell injection hidden in an email address gave us code execution on GNU Savannah, then root, then the ability to push to the upstream Bash repository. We reported it, kept auditing, and helped the FSF fix 26 vulnerabilities in the forge that hosts GNU.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-03T15:18:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "debo_",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "A shell injection hidden in an email address gave us code execution on GNU Savannah, then root, then the ability to push to the upstream Bash repository. We reported it, kept auditing, and helped the FSF fix 26 vulnerabilities in the forge that hosts GNU.",
-      "author_name": "debo_"
     },
     {
       "id": "50250462",
