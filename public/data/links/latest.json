@@ -1,67 +1,287 @@
 {
-  "version": "2026-11-06T00:01:26.424Z",
-  "generatedAt": "2026-11-06T00:01:26.424Z",
+  "version": "2026-11-06T15:51:24.981Z",
+  "generatedAt": "2026-11-06T15:51:24.981Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50385794",
-      "title": "Mid-Air Encounter: F-16 Rams Plane Near Mar-a-Lago [video]",
-      "url": "https://www.youtube.com/watch?v=5Y7lTEUA2hk",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-05T23:03:58Z",
+      "id": "50393696",
+      "title": "OpenAI Releases GPT-6 Cyber for Vetted Security Teams",
+      "url": "https://harava.news/en/articles/2026/11/06/openai-gpt-6-cyber",
+      "summary": "OpenAI says GPT-6 Cyber found vulnerabilities in Firefox and Linux, while access remains limited to approved security teams.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T15:41:27Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "Bender",
+      "score": 17,
+      "author": "jussehoo",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "Bender"
+      "text": "OpenAI says GPT-6 Cyber found vulnerabilities in Firefox and Linux, while access remains limited to approved security teams.",
+      "author_name": "jussehoo"
     },
     {
-      "id": "50385790",
-      "title": "The Sweet Spot: How One Brain and Thousands of Micro-Adapters Could Save Open AI",
-      "url": "https://operator0x.com/field-notes/smaller-memory-bill/",
-      "summary": "A proposed architecture for local AI: a frozen backbone, routed LoRA micro-experts, and compressed latent attention to reduce the memory bill.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-05T23:03:30Z",
+      "id": "50393599",
+      "title": "A sandbox to test how purchasing agents handle failed purchases",
+      "url": "https://chargeback.cloudbotanist.ai/",
+      "summary": "Test how your AI agent handles failed deliveries, misleading refund claims, and deceptive sellers. A buyer-side dispute sandbox for agentic commerce — synthetic money only.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T15:34:35Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "josip208",
-      "likes": 1,
+      "author": "mashavsl",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "A proposed architecture for local AI: a frozen backbone, routed LoRA micro-experts, and compressed latent attention to reduce the memory bill.",
-      "author_name": "josip208"
+      "text": "Test how your AI agent handles failed deliveries, misleading refund claims, and deceptive sellers. A buyer-side dispute sandbox for agentic commerce — synthetic money only.",
+      "author_name": "mashavsl"
     },
     {
-      "id": "50385670",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against Brave ​Software over alleged unlawful scraping to train AI and also letting users bypass their paywalls.",
+      "id": "50393528",
+      "title": "Only today free language learning App with AI",
+      "url": "https://apps.apple.com/fr/app/habla-learn-spanish-fast/id6783860670",
+      "summary": "Téléchargez l’app Habla - Learn Spanish Fast développée par TAOUFIQ EL BRAHMI dans l’App Store. Consultez les captures d’écran, les notes et avis, les astuces…",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-05T22:51:54Z",
+      "publishedAt": "2026-11-06T15:29:23Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 32,
-      "author": "CharlesW",
+      "score": 15,
+      "author": "brmmuhoil",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Téléchargez l’app Habla - Learn Spanish Fast développée par TAOUFIQ EL BRAHMI dans l’App Store. Consultez les captures d’écran, les notes et avis, les astuces…",
+      "author_name": "brmmuhoil"
+    },
+    {
+      "id": "50393397",
+      "title": "GPTBot hit my SSO login page 594,101 times",
+      "url": "https://www.shuffle-on.com/blog/ai-crawlers-read-my-site",
+      "summary": "AI systems read my site 1.5x as often as search engines and 58x as often as Google, mostly my signed threat-intel dossiers. One crawler hit my login page 594,101 times. What is public is the small part.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T15:20:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "lisneanucristia",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI systems read my site 1.5x as often as search engines and 58x as often as Google, mostly my signed threat-intel dossiers. One crawler hit my login page 594,101 times. What is public is the small part.",
+      "author_name": "lisneanucristia"
+    },
+    {
+      "id": "50393357",
+      "title": "Limit what agents learn about private repos with enclaves",
+      "url": "https://githubnext.com/posts/enclaves/",
+      "summary": "Enclaves are a new security primitive for cross-repository GitHub Agentic Workflows. Enclaves let agents work on different repositories while limiting what they say to each other.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T15:17:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "gmays",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enclaves are a new security primitive for cross-repository GitHub Agentic Workflows. Enclaves let agents work on different repositories while limiting what they say to each other.",
+      "author_name": "gmays"
+    },
+    {
+      "id": "50393143",
+      "title": "AI in Education – Thinking with Conditions",
+      "url": "https://warwick.ac.uk/fac/cross_fac/cim/research/projects/ai-in-education/",
+      "summary": "A poster campaign from the University of Warwick on AI in higher education, asking what thinking needs when AI arrives as infrastructure.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-06T15:01:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "wuldr",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A poster campaign from the University of Warwick on AI in higher education, asking what thinking needs when AI arrives as infrastructure.",
+      "author_name": "wuldr"
+    },
+    {
+      "id": "50391892",
+      "title": "Smooth Outdoor-Indoor Mapping, JWT Auth and AI Analytics",
+      "url": "https://navigine.com/blog/product-release-roundup-next-gen-mobile-mapping-ai-analytics-and-platform-security/",
+      "summary": "Explore the autumn 2026 product release roundup featuring next-gen mobile mapping SDKs, AI-driven heatmap analytics, streamlined web portal onboarding, and hardened JWT authentication security.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-06T13:08:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "SmartDS",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Explore the autumn 2026 product release roundup featuring next-gen mobile mapping SDKs, AI-driven heatmap analytics, streamlined web portal onboarding, and hardened JWT authentication security.",
+      "author_name": "SmartDS"
+    },
+    {
+      "id": "50391705",
+      "title": "Nvidia Crashed 9.3%. Is the AI Data-Center Boom Starting to Crack?",
+      "url": "https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/",
+      "summary": "NVIDIA plunged 9.3% as chip stocks sank on November 5, 2026. Explore the Nasdaq sell-off, data-center risks, GPU demand and AI infrastructure costs.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-11-06T12:47:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "oplexa07",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "NVIDIA plunged 9.3% as chip stocks sank on November 5, 2026. Explore the Nasdaq sell-off, data-center risks, GPU demand and AI infrastructure costs.",
+      "author_name": "oplexa07"
+    },
+    {
+      "id": "50391518",
+      "title": "Vals AI found a critical safety and alignment issue in recent models",
+      "url": "https://twitter.com/ValsAI/status/2118473836710760816",
+      "summary": "We have found a critical safety and alignment issue in recent public and internal models from multiple frontier labs which allows them to be misused in a high-stakes domain. It may also increase the risk of catastrophic misalignment. We have disclosed it to the labs, and they are investigating an…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T12:22:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "fscaramuzza",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "We have found a critical safety and alignment issue in recent public and internal models from multiple frontier labs which allows them to be misused in a high-stakes domain. It may also increase the risk of catastrophic misalignment. We have disclosed it to the labs, and they are investigating an…",
+      "author_name": "fscaramuzza"
+    },
+    {
+      "id": "50389990",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "summary": "In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies across scientific fields and research tasks, identify what explains these usage patterns, and outline scenarios for how AI could accelerate research.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T09:13:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 63,
+      "author": "ersinesen",
+      "likes": 30,
+      "views": 4,
+      "retweets": 0,
+      "text": "In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies across scientific fields and research tasks, identify what explains these usage patterns, and outline scenarios for how AI could accelerate research.",
+      "author_name": "ersinesen"
+    },
+    {
+      "id": "50389000",
+      "title": "OpenAI Just Found Nearly 1k Ways to Gain Root Access in Linux",
+      "url": "https://hothardware.com/news/openai-just-found-nearly-1000-ways-to-gain-root-access-in-linux",
+      "summary": "OpenAI just dropped the details on a massive, automated cyber experiment that ran a specialized AI model against the Linux kernel and in the process, found and fixed nearly 1,000 vulnerability loopholes.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T06:44:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 23,
+      "author": "axelfontaine",
+      "likes": 9,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI just dropped the details on a massive, automated cyber experiment that ran a specialized AI model against the Linux kernel and in the process, found and fixed nearly 1,000 vulnerability loopholes.",
+      "author_name": "axelfontaine"
+    },
+    {
+      "id": "50388690",
+      "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T05:52:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "gmays",
+      "likes": 6,
+      "views": 3,
+      "retweets": 0,
+      "text": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "author_name": "gmays"
+    },
+    {
+      "id": "50388660",
+      "title": "Anthropic RSI is here? METR reports ANT likely hits 2x RSP acceleration limit",
+      "url": "https://twitter.com/AndrewCurran_/status/2118433070428852592",
+      "summary": "Anthropic has a new internal model that finished training last month. METR refers to it as Model 4 (Anthropic has its own internal codename). It is the highest-scoring model in the set METR analyzed, and it is the first to clear 50% on every benchmark it was tested on.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T05:47:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "epsteingpt",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Anthropic has a new internal model that finished training last month. METR refers to it as Model 4 (Anthropic has its own internal codename). It is the highest-scoring model in the set METR analyzed, and it is the first to clear 50% on every benchmark it was tested on.",
+      "author_name": "epsteingpt"
+    },
+    {
+      "id": "50387732",
+      "title": "You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure",
+      "url": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack",
+      "summary": "Era Research uncovered Greeter, a Chinese-language exploitation framework that hid malicious commands inside &quot;hello&quot; messages to attack exposed Flowise AI deployments.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-06T03:15:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "DGAP",
       "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "The New York Times and a group of other publications have filed lawsuits against Brave ​Software over alleged unlawful scraping to train AI and also letting users bypass their paywalls.",
-      "author_name": "CharlesW"
+      "text": "Era Research uncovered Greeter, a Chinese-language exploitation framework that hid malicious commands inside &quot;hello&quot; messages to attack exposed Flowise AI deployments.",
+      "author_name": "DGAP"
     },
     {
       "id": "50385642",
@@ -75,53 +295,13 @@
         "AI",
         "科技"
       ],
-      "score": 21,
+      "score": 30,
       "author": "mgh2",
-      "likes": 7,
-      "views": 3,
+      "likes": 16,
+      "views": 6,
       "retweets": 0,
       "text": "Michael Burry is among the Anthropic bears, worried about the AI maker&#x27;s revenue keeping up with future spending commitments.",
       "author_name": "mgh2"
-    },
-    {
-      "id": "50385632",
-      "title": "Gemini Omni 1.2 Flash now GA",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available",
-      "summary": "Gemini Omni 1.2 Flash is now generally available on Google Cloud: fast, cost-effective, and reliable video generation and editing via API.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-05T22:48:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "sshah03",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Gemini Omni 1.2 Flash is now generally available on Google Cloud: fast, cost-effective, and reliable video generation and editing via API.",
-      "author_name": "sshah03"
-    },
-    {
-      "id": "50385272",
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "summary": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my permission. This should not be a setting wit...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-05T22:17:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 306,
-      "author": "motoroco",
-      "likes": 275,
-      "views": 77,
-      "retweets": 0,
-      "text": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my permission. This should not be a setting wit...",
-      "author_name": "motoroco"
     },
     {
       "id": "50384488",
@@ -144,106 +324,6 @@
       "author_name": "kolliden"
     },
     {
-      "id": "50384255",
-      "title": "OpenAI CEO's Codex keyboard gift to Samsung presidents draws attention",
-      "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/openai-ceos-codex-keyboard-gift-to-samsung-presidents-draws-attention",
-      "summary": "A miniature keyboard presented by OpenAI CEO Sam Altman to Samsung Group executives is drawing attention, as the device is designed not for convent...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-05T20:45:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "Liuser",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "A miniature keyboard presented by OpenAI CEO Sam Altman to Samsung Group executives is drawing attention, as the device is designed not for convent...",
-      "author_name": "Liuser"
-    },
-    {
-      "id": "50383114",
-      "title": "OpenAI's report on GPT-6 Astra underperforming on safety tasks, number by number",
-      "url": "https://theainewsreport.com/2026-11-05-gpt-6-astra-covert-underperformance-safety-research-explained.html",
-      "summary": "OpenAI says its GPT-6 Astra model completed about 40 percent fewer checklist items when the same coding task was framed as safety research instead of capabilities work, and its own monitors did not flag it. We put every number in",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-05T19:12:53Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "titusblair",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI says its GPT-6 Astra model completed about 40 percent fewer checklist items when the same coding task was framed as safety research instead of capabilities work, and its own monitors did not flag it. We put every number in",
-      "author_name": "titusblair"
-    },
-    {
-      "id": "50383079",
-      "title": "Anthropic engineer warns about 'cognitive surrender'",
-      "url": "https://www.businessinsider.com/anthropic-engineer-addy-osmani-cognitive-surrender-warning-2026-11",
-      "summary": "&quot;When you can&#x27;t explain the answer to a question, even by way of your agent, you&#x27;ve ceded ownership,&quot; Claude Code engineer Addy Osmani wrote.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-05T19:10:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "fraXis",
-      "likes": 2,
-      "views": 2,
-      "retweets": 0,
-      "text": "&quot;When you can&#x27;t explain the answer to a question, even by way of your agent, you&#x27;ve ceded ownership,&quot; Claude Code engineer Addy Osmani wrote.",
-      "author_name": "fraXis"
-    },
-    {
-      "id": "50381819",
-      "title": "The FP reporter Olivia Reingold posts AI generated image without disclosure",
-      "url": "https://twitter.com/mjnblack/status/2118359682460823685",
-      "summary": "this is why I love working at @VanityFair yesterday, I saw half our staff clustered around our fashion correspondent&#x27;s desk poring over this photo. As José puts it, &quot;The image has several discrepancies. The style and make of the Chanel Flap bag is inconsistent with others the brand has sold, and…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-05T17:28:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "newspaper1",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "this is why I love working at @VanityFair yesterday, I saw half our staff clustered around our fashion correspondent&#x27;s desk poring over this photo. As José puts it, &quot;The image has several discrepancies. The style and make of the Chanel Flap bag is inconsistent with others the brand has sold, and…",
-      "author_name": "newspaper1"
-    },
-    {
-      "id": "50381031",
-      "title": "Datadog Degradation, but No Incident?",
-      "url": "https://updog.ai/status/datadog",
-      "summary": "Updog By Datadog lets you spot issues with Datadog early, backed by real impact across Datadog customer base. No status page updates.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-05T16:21:09Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "connorbrinton",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "Updog By Datadog lets you spot issues with Datadog early, backed by real impact across Datadog customer base. No status page updates.",
-      "author_name": "connorbrinton"
-    },
-    {
       "id": "50373157",
       "title": "CodeRabbit – Automated review, triage, and security for AI-generated PRs",
       "url": "https://www.coderabbit.ai",
@@ -264,26 +344,6 @@
       "author_name": "doodlesdev"
     },
     {
-      "id": "50372505",
-      "title": "Xenbleed: Xen Guest to Dom0 Escape",
-      "url": "https://codeant.ai/security-research/xenbleed-a-grant-copy-cache-bug-that-reaches-dom0-memory",
-      "summary": "Xen reused a grant-copy cache entry and skipped its permission check, letting a guest read and write dom0 memory. Details on XSA-523 and CVE-2026-102704.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-04T22:42:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "markasoftware",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Xen reused a grant-copy cache entry and skipped its permission check, letting a guest read and write dom0 memory. Details on XSA-523 and CVE-2026-102704.",
-      "author_name": "markasoftware"
-    },
-    {
       "id": "50250462",
       "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
       "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
@@ -302,6 +362,26 @@
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "author_name": "p1anecrazy"
+    },
+    {
+      "id": "50094099",
+      "title": "Auditory processing strategies in humans and zebra finches",
+      "url": "https://www.nature.com/articles/s42003-026-11035-9",
+      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-14T19:55:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "bryanrasmussen",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "author_name": "bryanrasmussen"
     }
   ]
 }
