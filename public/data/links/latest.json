@@ -1,47 +1,207 @@
 {
-  "version": "2026-11-06T23:41:27.526Z",
-  "generatedAt": "2026-11-06T23:41:27.526Z",
+  "version": "2026-11-07T14:49:09.143Z",
+  "generatedAt": "2026-11-07T14:49:09.143Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50399811",
-      "title": "Live now: attacking P vs. NP using only AI, written out in real time",
-      "url": "https://x.com/i/broadcasts/2OdXnjKkaKWmkV",
-      "summary": "🔴 AO VIVO: um autodidata ataca P vs NP com IA — Grok Bot Production · Marca 369 - Live Broadcast by Claudio Fernandes / X",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-06T23:15:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "sunbagger",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "🔴 AO VIVO: um autodidata ataca P vs NP com IA — Grok Bot Production · Marca 369 - Live Broadcast by Claudio Fernandes / X",
-      "author_name": "sunbagger"
-    },
-    {
-      "id": "50399673",
-      "title": "Turns with an LLM: coherence isn't the same as accuracy",
-      "url": "https://zenodo.org/records/23686384",
-      "summary": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek&#39;s chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extende…",
+      "id": "50404938",
+      "title": "AI agents are getting more complex. Developers shouldn't have to babysit them",
+      "url": "https://thenewstack.io/harness-engineering-coding-agents/",
+      "summary": "As AI agents gain autonomy, Thoughtworks’ Vanitha Kumar explains how harness engineering and AI factories help organizations scale and why concerns about security are growing.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T23:02:16Z",
+      "publishedAt": "2026-11-07T14:39:40Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "pinuslongaeva",
+      "author": "Brajeshwar",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "This deposit contains a pseudonymised export of a single, unplanned conversation between a user and DeepSeek&#39;s chat model, conducted over six days (19–25 October 2026). It began as a request to analyse a personal essay on forgiveness written about twenty years earlier and grew, without a prior plan, into an extende…",
-      "author_name": "pinuslongaeva"
+      "text": "As AI agents gain autonomy, Thoughtworks’ Vanitha Kumar explains how harness engineering and AI factories help organizations scale and why concerns about security are growing.",
+      "author_name": "Brajeshwar"
+    },
+    {
+      "id": "50404588",
+      "title": "Former Meta Security Chief Calls Password Access for AI Agents 'Insane'",
+      "url": "https://epyhia.com/meta-launches-muse-ai-spaces-former-security-chief-calls-password",
+      "summary": "Meta has rolled out &quot;spaces,&quot; a new feature for its Muse AI assistant that lets users build custom interactive hubs—shopping dashboards, school planners, trivia games, and more—directly inside the…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-07T13:59:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "arbuge",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Meta has rolled out &quot;spaces,&quot; a new feature for its Muse AI assistant that lets users build custom interactive hubs—shopping dashboards, school planners, trivia games, and more—directly inside the…",
+      "author_name": "arbuge"
+    },
+    {
+      "id": "50404412",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-07T13:31:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "jgalt212",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "author_name": "jgalt212"
+    },
+    {
+      "id": "50404378",
+      "title": "Baidu Hit with Securities Fraud Class Action over AI Growth Claims",
+      "url": "https://epyhia.com/baidu-hit-with-securities-fraud-class-action-over-ai-growth-claims",
+      "summary": "A federal class action filed in September alleges that Baidu misled investors about the ability of its AI business to offset a shrinking legacy advertising operation, marking a closely watched test…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-07T13:25:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "arbuge",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A federal class action filed in September alleges that Baidu misled investors about the ability of its AI business to offset a shrinking legacy advertising operation, marking a closely watched test…",
+      "author_name": "arbuge"
+    },
+    {
+      "id": "50403212",
+      "title": "OMLX: Use a second Mac to speed up local LLM prefill 2.9x",
+      "url": "https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1",
+      "summary": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar - Release 0.7.4.dev1 · jundot/omlx",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-07T10:15:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "joshcsimmons",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar - Release 0.7.4.dev1 · jundot/omlx",
+      "author_name": "joshcsimmons"
+    },
+    {
+      "id": "50402738",
+      "title": "OpenAI reportedly raises an additional $11B at a $1.25T valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn&#039;t closed yet but is expected to in the coming weeks.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-07T08:28:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 36,
+      "author": "sjdh76",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn&#039;t closed yet but is expected to in the coming weeks.",
+      "author_name": "sjdh76"
+    },
+    {
+      "id": "50402212",
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-07T06:39:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 114,
+      "author": "geoffbp",
+      "likes": 85,
+      "views": 49,
+      "retweets": 0,
+      "text": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
+      "author_name": "geoffbp"
+    },
+    {
+      "id": "50401738",
+      "title": "Code Matters: Reflections on Rust in the LLM Age – Bryan Cantrill – Rust NYC [video]",
+      "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-07T04:54:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "vismit2000",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "vismit2000"
+    },
+    {
+      "id": "50401182",
+      "title": "Digestive Tract for Digestion, Respiration in Air-Breathing Weatherloach [pdf]",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11201251/",
+      "summary": "Fish digestive tracts always show remarkable morphological differences depending on their functions. The weatherloach, Misgurnus anguillicaudatus, is a facultative air-breathing teleost fish, which employs its partial digestive tract as an accessory ...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-07T02:54:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "thunderbong",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Fish digestive tracts always show remarkable morphological differences depending on their functions. The weatherloach, Misgurnus anguillicaudatus, is a facultative air-breathing teleost fish, which employs its partial digestive tract as an accessory ...",
+      "author_name": "thunderbong"
+    },
+    {
+      "id": "50400040",
+      "title": "OpenAI Secures $11B at $1.25T Valuation",
+      "url": "https://epyhia.com/openai-secures-11-billion-at-1-25-trillion-valuation-well-short-of",
+      "summary": "OpenAI has received roughly $11 billion in commitments for the first close of its latest funding round, valuing the company at $1.25 trillion, according to multiple reports Friday. The amount is less…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T23:42:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "arbuge",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI has received roughly $11 billion in commitments for the first close of its latest funding round, valuing the company at $1.25 trillion, according to multiple reports Friday. The amount is less…",
+      "author_name": "arbuge"
     },
     {
       "id": "50399569",
@@ -55,93 +215,13 @@
         "AI",
         "科技"
       ],
-      "score": 62,
+      "score": 121,
       "author": "Aldipower",
-      "likes": 31,
-      "views": 8,
+      "likes": 90,
+      "views": 37,
       "retweets": 0,
       "text": "In a conversation with two connectors enabled, ChatGPT made a follow-up tool call through a different connector than the one that started the flow. The user was not told about the switch. The call carried a one-time conf…",
       "author_name": "Aldipower"
-    },
-    {
-      "id": "50399493",
-      "title": "DeepFinance: Can AI diligence a $100M deal?",
-      "url": "https://www.juliusresearch.ai/blog/deep-finance",
-      "summary": "An ultra long-horizon benchmark for measuring models on real-world Private Equity and Investment Banking workflows that take a human professional 20 to 30 hours, graded on output, workflow, and judgment.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T22:44:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "jacksongrove",
-      "likes": 4,
-      "views": 2,
-      "retweets": 0,
-      "text": "An ultra long-horizon benchmark for measuring models on real-world Private Equity and Investment Banking workflows that take a human professional 20 to 30 hours, graded on output, workflow, and judgment.",
-      "author_name": "jacksongrove"
-    },
-    {
-      "id": "50399482",
-      "title": "Importance of Harness, Context and Model co-design",
-      "url": "https://www.wisdom.ai/blog/context-harness-co-design",
-      "summary": "What DeepSeek, Apple, and Netflix taught us about building AI agents, and the results co-designing delivers in analytics.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T22:42:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "sharva",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "What DeepSeek, Apple, and Netflix taught us about building AI agents, and the results co-designing delivers in analytics.",
-      "author_name": "sharva"
-    },
-    {
-      "id": "50399432",
-      "title": "Expecting rapid progress but not towards general superintelligence",
-      "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-06T22:37:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "pretext",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
-      "author_name": "pretext"
-    },
-    {
-      "id": "50399378",
-      "title": "AbMaze: Evaluating frontier AI agents on protein fitness landscapes",
-      "url": "https://valenlabs.com/blog/abmaze",
-      "summary": "A benchmark that runs AI agents through an antibody campaign on a fully measured fitness landscape of 65,536 variants. No model surpasses a scripted Bayesian optimizer.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T22:31:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "rohitrustagi",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "A benchmark that runs AI agents through an antibody campaign on a fully measured fitness landscape of 65,536 variants. No model surpasses a scripted Bayesian optimizer.",
-      "author_name": "rohitrustagi"
     },
     {
       "id": "50398727",
@@ -155,113 +235,13 @@
         "AI",
         "科技"
       ],
-      "score": 31,
+      "score": 32,
       "author": "pretext",
-      "likes": 2,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl on how AI is starting to change how scientific models are built and interpreted.",
       "author_name": "pretext"
-    },
-    {
-      "id": "50398678",
-      "title": "The Components of Agent Memory",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T21:19:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "mfiguiere",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
-      "author_name": "mfiguiere"
-    },
-    {
-      "id": "50398514",
-      "title": "VFlash: Enabling System-1 VLMs for Physical AI",
-      "url": "https://research.nvidia.com/labs/lpr/vflash/",
-      "summary": "VFlash enables System-1 VLMs for Physical AI through fast, accurate parallel visual planning, accelerating robot and autonomous driving inference.",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-11-06T21:04:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "gmays",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "VFlash enables System-1 VLMs for Physical AI through fast, accurate parallel visual planning, accelerating robot and autonomous driving inference.",
-      "author_name": "gmays"
-    },
-    {
-      "id": "50398010",
-      "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-      "url": "https://sketchagent.dev/",
-      "summary": "A benchmark for 3D coding agents. 11 models tackle spatial reasoning through code and visual feedback: building scenes, inspecting rendered views, and refining geometry.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T20:28:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "wsxiaoys",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "A benchmark for 3D coding agents. 11 models tackle spatial reasoning through code and visual feedback: building scenes, inspecting rendered views, and refining geometry.",
-      "author_name": "wsxiaoys"
-    },
-    {
-      "id": "50397188",
-      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-      "summary": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T19:31:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "Betelbuddy",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-      "author_name": "Betelbuddy"
-    },
-    {
-      "id": "50397012",
-      "title": "OpenAI Creating ChatGPT Tools for Business for Analytics and Citations",
-      "url": "https://www.seroundtable.com/chatgpt-tools-for-business-42476.html",
-      "summary": "OpenAI is developing a Search Console- or Webmaster Tools-like tool that lets businesses manage and track their success on ChatGPT. This tool will let you &quot;Claim your business in ChatGPT.&quot;",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T19:19:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "thm",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI is developing a Search Console- or Webmaster Tools-like tool that lets businesses manage and track their success on ChatGPT. This tool will let you &quot;Claim your business in ChatGPT.&quot;",
-      "author_name": "thm"
     },
     {
       "id": "50395983",
@@ -315,9 +295,9 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 18,
       "author": "alach11",
-      "likes": 3,
+      "likes": 4,
       "views": 0,
       "retweets": 0,
       "text": "&gt; Executive summary &gt; From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI…",
@@ -338,50 +318,10 @@
       "score": 109,
       "author": "arbuge",
       "likes": 93,
-      "views": 1,
+      "views": 2,
       "retweets": 0,
       "text": "Anthropic&#x27;s planned initial public offering — which could be the first for a frontier AI model developer — is being repriced in real time. Prospective investors are now discussing a valuation of $1.2…",
       "author_name": "arbuge"
-    },
-    {
-      "id": "50395293",
-      "title": "OpenAI will keep investing in AI data centers despite election results",
-      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-      "summary": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T17:18:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "pretext",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
-      "author_name": "pretext"
-    },
-    {
-      "id": "50394022",
-      "title": "METR's 1.9x AI R&D speedup at Anthropic, and why it ranges from 1.1x to 2.9x",
-      "url": "https://theainewsreport.com/2026-11-06-metr-anthropic-ai-rd-acceleration-1-9x-explained.html",
-      "summary": "METR spent 11 weeks inside Anthropic&#x27;s data and concluded that AI-driven progress there now runs about 1.9 times its old pace. We explain the index behind that number, why one modeling assumption moves it from 1.1x to 2.9x, and wh",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-06T15:59:33Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "titusblair",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "METR spent 11 weeks inside Anthropic&#x27;s data and concluded that AI-driven progress there now runs about 1.9 times its old pace. We explain the index behind that number, why one modeling assumption moves it from 1.1x to 2.9x, and wh",
-      "author_name": "titusblair"
     },
     {
       "id": "50391892",
@@ -402,6 +342,66 @@
       "retweets": 0,
       "text": "Explore the autumn 2026 product release roundup featuring next-gen mobile mapping SDKs, AI-driven heatmap analytics, streamlined web portal onboarding, and hardened JWT authentication security.",
       "author_name": "SmartDS"
+    },
+    {
+      "id": "50391705",
+      "title": "Nvidia Crashed 9.3%. Is the AI Data-Center Boom Starting to Crack?",
+      "url": "https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/",
+      "summary": "NVIDIA plunged 9.3% as chip stocks sank on November 5, 2026. Explore the Nasdaq sell-off, data-center risks, GPU demand and AI infrastructure costs.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-11-06T12:47:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "oplexa07",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "NVIDIA plunged 9.3% as chip stocks sank on November 5, 2026. Explore the Nasdaq sell-off, data-center risks, GPU demand and AI infrastructure costs.",
+      "author_name": "oplexa07"
+    },
+    {
+      "id": "50391518",
+      "title": "Vals AI found a critical safety and alignment issue in recent models",
+      "url": "https://twitter.com/ValsAI/status/2118473836710760816",
+      "summary": "We have found a critical safety and alignment issue in recent public and internal models from multiple frontier labs which allows them to be misused in a high-stakes domain. It may also increase the risk of catastrophic misalignment. We have disclosed it to the labs, and they are investigating an…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-06T12:22:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "fscaramuzza",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "We have found a critical safety and alignment issue in recent public and internal models from multiple frontier labs which allows them to be misused in a high-stakes domain. It may also increase the risk of catastrophic misalignment. We have disclosed it to the labs, and they are investigating an…",
+      "author_name": "fscaramuzza"
+    },
+    {
+      "id": "50387732",
+      "title": "You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure",
+      "url": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack",
+      "summary": "Era Research uncovered Greeter, a Chinese-language exploitation framework that hid malicious commands inside &quot;hello&quot; messages to attack exposed Flowise AI deployments.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-06T03:15:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "DGAP",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Era Research uncovered Greeter, a Chinese-language exploitation framework that hid malicious commands inside &quot;hello&quot; messages to attack exposed Flowise AI deployments.",
+      "author_name": "DGAP"
     }
   ]
 }
