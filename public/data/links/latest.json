@@ -1,11 +1,211 @@
 {
-  "version": "2026-11-08T14:56:03.673Z",
-  "generatedAt": "2026-11-08T14:56:03.673Z",
+  "version": "2026-11-08T22:44:11.640Z",
+  "generatedAt": "2026-11-08T22:44:11.640Z",
   "source": "hn.algolia",
   "items": [
     {
+      "id": "50417769",
+      "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
+      "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
+      "summary": "We put the buyer questions for 12 cold-outreach tools to two web-search AI engines and recorded who got named. 3 tools were never named. One tool is named.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-08T21:57:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "attiqbinkhalid",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "We put the buyer questions for 12 cold-outreach tools to two web-search AI engines and recorded who got named. 3 tools were never named. One tool is named.",
+      "author_name": "attiqbinkhalid"
+    },
+    {
+      "id": "50417169",
+      "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+      "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
+      "summary": "MENLO PARK, California, Sept 23 (Reuters) - Mark Zuckerberg took repeated digs at Apple during Meta&#x27;s annual event on Wednesday, only to borrow a page from Steve Jobs&#x27; playbook for a surprise reveal: a pocket-watch-sized device that carries Meta&#x27;s viral Muse AI ‌agent into the real world. The device, cal…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-08T20:57:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "gmays",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "MENLO PARK, California, Sept 23 (Reuters) - Mark Zuckerberg took repeated digs at Apple during Meta&#x27;s annual event on Wednesday, only to borrow a page from Steve Jobs&#x27; playbook for a surprise reveal: a pocket-watch-sized device that carries Meta&#x27;s viral Muse AI ‌agent into the real world. The device, cal…",
+      "author_name": "gmays"
+    },
+    {
+      "id": "50417052",
+      "title": "Offline context-aware dictation without screenshots, LLMs or fine-tuning",
+      "url": "https://morethanamachine.com/posts/handy-context/",
+      "summary": "Wispr Flow reads names off your screen in its cloud. I forked Handy, an existing open-source dictation app, and taught it to do the same on my laptop. It got 35% fewer on-screen words wrong.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-08T20:47:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "reddmachine",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Wispr Flow reads names off your screen in its cloud. I forked Handy, an existing open-source dictation app, and taught it to do the same on my laptop. It got 35% fewer on-screen words wrong.",
+      "author_name": "reddmachine"
+    },
+    {
+      "id": "50417036",
+      "title": "Beyond code generation: A developer's guide to agentic engineering",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "summary": "Writing code got faster. The work around it didn&#039;t. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-08T20:45:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "andrewstetsenko",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Writing code got faster. The work around it didn&#039;t. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot.",
+      "author_name": "andrewstetsenko"
+    },
+    {
+      "id": "50416922",
+      "title": "AI skill to provide IPA and English translations from uploaded sheet music",
+      "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
+      "summary": "AI skill to provide IPA and english translations directly from upoaded sheet music. Targeted toward early music singers in a European Style. - GitHub - secureakira-tech/early-music-ipa-guide: AI skill to provide IPA and english translations directly from upoaded sheet music. Targeted toward early music singers in a Eur…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-08T20:37:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "mooreds",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI skill to provide IPA and english translations directly from upoaded sheet music. Targeted toward early music singers in a European Style. - GitHub - secureakira-tech/early-music-ipa-guide: AI skill to provide IPA and english translations directly from upoaded sheet music. Targeted toward early music singers in a Eur…",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "50416741",
+      "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
+      "url": "https://github.com/avivgerz-hue/vibe-shield",
+      "summary": "60-rule static security scanner, MCP server & skill poisoning auditor for AI-generated codebases (Claude Code, Codex, Cursor). - avivgerz-hue/vibe-shield",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-08T20:21:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "crib-award-cont",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "60-rule static security scanner, MCP server & skill poisoning auditor for AI-generated codebases (Claude Code, Codex, Cursor). - avivgerz-hue/vibe-shield",
+      "author_name": "crib-award-cont"
+    },
+    {
+      "id": "50416722",
+      "title": "LLMs can understand and write neural network weights",
+      "url": "https://github.com/RikiyaT/lm_understand-logs",
+      "summary": "Complete logs of the experiments in the blog post &#39;LLMs can understand and write neural network weights&#39; - RikiyaT/lm_understand-logs",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-08T20:18:49Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "modinfo",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Complete logs of the experiments in the blog post &#39;LLMs can understand and write neural network weights&#39; - RikiyaT/lm_understand-logs",
+      "author_name": "modinfo"
+    },
+    {
+      "id": "50415706",
+      "title": "What Should We Learn? What LLMs Taught Me: Understanding Isn't Producing",
+      "url": "https://dennysora.me/en/thoughts/what-should-we-learn-in-the-ai-era/",
+      "summary": "From AI code quality to facing a blank page in a Japanese exam: understanding what we read does not mean we can construct, think, and produce it ourselves.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-08T18:25:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "dennysora-main",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "From AI code quality to facing a blank page in a Japanese exam: understanding what we read does not mean we can construct, think, and produce it ourselves.",
+      "author_name": "dennysora-main"
+    },
+    {
+      "id": "50415103",
+      "title": "GPT-6 Luna and GPT-6.1 Sol are 90% off the listed price",
+      "url": "https://anyrouter.dev/blog/releases/2026-11-03-llamport",
+      "summary": "Llamport is a new upstream on AnyRouter. It serves four OpenAI GPT models at 10% of the OpenAI API list price, on the AnyRouter platform key or with your own Llamport key.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-08T17:12:55Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "duyetdev",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Llamport is a new upstream on AnyRouter. It serves four OpenAI GPT models at 10% of the OpenAI API list price, on the AnyRouter platform key or with your own Llamport key.",
+      "author_name": "duyetdev"
+    },
+    {
+      "id": "50414445",
+      "title": "We deleted almost all our agent code, and other lessons from 100k PRs",
+      "url": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
+      "summary": "Anton Osika shares lessons from building Lovable through 100,000 pull requests, from matching agent freedom to model ability to faster feedback loops and stateful sandboxes.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-08T16:09:37Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 27,
+      "author": "antonoo",
+      "likes": 13,
+      "views": 2,
+      "retweets": 0,
+      "text": "Anton Osika shares lessons from building Lovable through 100,000 pull requests, from matching agent freedom to model ability to faster feedback loops and stateful sandboxes.",
+      "author_name": "antonoo"
+    },
+    {
       "id": "50413822",
-      "title": "OpenAI Raises $11B at a $1.25T Valuation",
+      "title": "OpenAI raises $11B at a $1.25T valuation",
       "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
       "summary": "OpenAI got its money, but not on the terms it wanted, and the gap between its growth story and investor appetite is landing on two giants. One faces a bookkeeping hit, the other a deeper dependency on the funding flow.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
@@ -15,53 +215,13 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 193,
       "author": "armcat",
-      "likes": 2,
-      "views": 0,
+      "likes": 177,
+      "views": 196,
       "retweets": 0,
       "text": "OpenAI got its money, but not on the terms it wanted, and the gap between its growth story and investor appetite is landing on two giants. One faces a bookkeeping hit, the other a deeper dependency on the funding flow.",
       "author_name": "armcat"
-    },
-    {
-      "id": "50413647",
-      "title": "We review 4x more AI code without reading every line",
-      "url": "https://thenewstack.io/scale-ai-code-reviews/",
-      "summary": "Review 4x more AI code without reading every line by verifying intent, invariants, decisions, and concrete evidence instead of raw diffs.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-08T14:27:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "Brajeshwar",
-      "likes": 3,
-      "views": 1,
-      "retweets": 0,
-      "text": "Review 4x more AI code without reading every line by verifying intent, invariants, decisions, and concrete evidence instead of raw diffs.",
-      "author_name": "Brajeshwar"
-    },
-    {
-      "id": "50413440",
-      "title": "Archimedes: AI agents that design physical things",
-      "url": "https://standardphysics.com/archimedes",
-      "summary": "Standard Physics builds agents that set up, run, and interpret real physics simulations. Describe a problem in plain language and get a validated answer, up to 830x faster than traditional CFD. A Y Combinator (W26) company.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T13:59:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "torutofu",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Standard Physics builds agents that set up, run, and interpret real physics simulations. Describe a problem in plain language and get a validated answer, up to 830x faster than traditional CFD. A Y Combinator (W26) company.",
-      "author_name": "torutofu"
     },
     {
       "id": "50413425",
@@ -104,46 +264,6 @@
       "author_name": "DRLogvinovich"
     },
     {
-      "id": "50412978",
-      "title": "KapX is a groundbreaking mobility and orientation aid",
-      "url": "https://www.kapsys.com/en/produit/kapx-2/",
-      "summary": "KapX is a groundbreaking mobility and orientation aid designed to raise the independence and safety, of the blind and visually impaired.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-08T13:11:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Bluestein",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "KapX is a groundbreaking mobility and orientation aid designed to raise the independence and safety, of the blind and visually impaired.",
-      "author_name": "Bluestein"
-    },
-    {
-      "id": "50412713",
-      "title": "LLMs are terrible at designing AI systems",
-      "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
-      "summary": "LLMs don’t know how to design software that uses LLMs. They’re comfortable writing normal programs, but if you throw an AI-shaped problem at them, they will…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T12:33:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "ingve",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "LLMs don’t know how to design software that uses LLMs. They’re comfortable writing normal programs, but if you throw an AI-shaped problem at them, they will…",
-      "author_name": "ingve"
-    },
-    {
       "id": "50411385",
       "title": "6th-grade Peano arithmetic broke OpenAI's $100B Yang-Mills mass gap proof",
       "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
@@ -155,9 +275,9 @@
         "AI",
         "科技"
       ],
-      "score": 36,
+      "score": 37,
       "author": "DRLogvinovich",
-      "likes": 5,
+      "likes": 6,
       "views": 0,
       "retweets": 0,
       "text": "Zero-axiom Lean 4 formal proof (RoundSquare.lean, 74 print axioms checks) of the Yang–Mills Mass Gap Incompatibility Theorem on pure non-compact R^4 & automatic spectral gap on the compact constructible manifold M_tot = S^4 x T^3. Official repository for V. Logvinovich (2026) - round-square/README.md at main · Dr-Logvi…",
@@ -198,7 +318,7 @@
       "score": 36,
       "author": "RickJWagner",
       "likes": 7,
-      "views": 5,
+      "views": 6,
       "retweets": 0,
       "text": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
       "author_name": "RickJWagner"
@@ -282,126 +402,6 @@
       "retweets": 0,
       "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
       "author_name": "jgalt212"
-    },
-    {
-      "id": "50404378",
-      "title": "Baidu Hit with Securities Fraud Class Action over AI Growth Claims",
-      "url": "https://epyhia.com/baidu-hit-with-securities-fraud-class-action-over-ai-growth-claims",
-      "summary": "A federal class action filed in September alleges that Baidu misled investors about the ability of its AI business to offset a shrinking legacy advertising operation, marking a closely watched test…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-07T13:25:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "arbuge",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A federal class action filed in September alleges that Baidu misled investors about the ability of its AI business to offset a shrinking legacy advertising operation, marking a closely watched test…",
-      "author_name": "arbuge"
-    },
-    {
-      "id": "50402212",
-      "title": "The Components of Agent Memory",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-07T06:39:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 189,
-      "author": "geoffbp",
-      "likes": 160,
-      "views": 97,
-      "retweets": 0,
-      "text": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
-      "author_name": "geoffbp"
-    },
-    {
-      "id": "50391892",
-      "title": "Smooth Outdoor-Indoor Mapping, JWT Auth and AI Analytics",
-      "url": "https://navigine.com/blog/product-release-roundup-next-gen-mobile-mapping-ai-analytics-and-platform-security/",
-      "summary": "Explore the autumn 2026 product release roundup featuring next-gen mobile mapping SDKs, AI-driven heatmap analytics, streamlined web portal onboarding, and hardened JWT authentication security.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-06T13:08:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "SmartDS",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Explore the autumn 2026 product release roundup featuring next-gen mobile mapping SDKs, AI-driven heatmap analytics, streamlined web portal onboarding, and hardened JWT authentication security.",
-      "author_name": "SmartDS"
-    },
-    {
-      "id": "50391705",
-      "title": "Nvidia Crashed 9.3%. Is the AI Data-Center Boom Starting to Crack?",
-      "url": "https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/",
-      "summary": "NVIDIA plunged 9.3% as chip stocks sank on November 5, 2026. Explore the Nasdaq sell-off, data-center risks, GPU demand and AI infrastructure costs.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-11-06T12:47:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "oplexa07",
-      "likes": 6,
-      "views": 2,
-      "retweets": 0,
-      "text": "NVIDIA plunged 9.3% as chip stocks sank on November 5, 2026. Explore the Nasdaq sell-off, data-center risks, GPU demand and AI infrastructure costs.",
-      "author_name": "oplexa07"
-    },
-    {
-      "id": "50387732",
-      "title": "You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure",
-      "url": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack",
-      "summary": "Era Research uncovered Greeter, a Chinese-language exploitation framework that hid malicious commands inside &quot;hello&quot; messages to attack exposed Flowise AI deployments.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-06T03:15:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "DGAP",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Era Research uncovered Greeter, a Chinese-language exploitation framework that hid malicious commands inside &quot;hello&quot; messages to attack exposed Flowise AI deployments.",
-      "author_name": "DGAP"
-    },
-    {
-      "id": "50250462",
-      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
-      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-26T20:29:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "p1anecrazy",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "p1anecrazy"
     }
   ]
 }
