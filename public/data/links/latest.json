@@ -1,107 +1,247 @@
 {
-  "version": "2026-11-08T22:44:11.640Z",
-  "generatedAt": "2026-11-08T22:44:11.640Z",
+  "version": "2026-11-09T18:37:04.144Z",
+  "generatedAt": "2026-11-09T18:37:04.145Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50417769",
-      "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
-      "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
-      "summary": "We put the buyer questions for 12 cold-outreach tools to two web-search AI engines and recorded who got named. 3 tools were never named. One tool is named.",
+      "id": "50429512",
+      "title": "Your next customer could be an AI: Why digital identity is heading for a reset",
+      "url": "https://www.digitaljournal.com/article/your-next-customer-could-be-an-ai-why-digital-identity-is-heading-for-a-reset/",
+      "summary": "As autonomous AI systems begin shopping, booking and making decisions for people, the familiar concept of digital identity may need to change. By 2027, organisations could increasingly face a new question: is the entity requesting access a person, a machine, or a machine legitimately acting for a person?",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-11-09T18:30:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "mooreds",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "As autonomous AI systems begin shopping, booking and making decisions for people, the familiar concept of digital identity may need to change. By 2027, organisations could increasingly face a new question: is the entity requesting access a person, a machine, or a machine legitimately acting for a person?",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "50429362",
+      "title": "Confessions of an AI Fraud Kingpin, Creator of OnlyFake",
+      "url": "https://www.404media.co/the-confessions-of-an-ai-fraud-kingpin-onlyfake-owner-nazarenko/",
+      "summary": "Yuriy Nazarenko created ‘OnlyFake’, a site that let anyone churn out realistic fake IDs with AI. Then the North Koreans came knocking.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-08T21:57:07Z",
+      "publishedAt": "2026-11-09T18:20:14Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "bookofjoe",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Yuriy Nazarenko created ‘OnlyFake’, a site that let anyone churn out realistic fake IDs with AI. Then the North Koreans came knocking.",
+      "author_name": "bookofjoe"
+    },
+    {
+      "id": "50429187",
+      "title": "Trump Official Wants Data Centers on Public Lands, Has $10M+ Invested in AI",
+      "url": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
+      "summary": "Interior Secretary Doug Burgum, who is heavily invested in the AI industry, is leading the charge to allow tech companies to build data centers on the public lands he oversees.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-09T18:09:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "mikhael",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Interior Secretary Doug Burgum, who is heavily invested in the AI industry, is leading the charge to allow tech companies to build data centers on the public lands he oversees.",
+      "author_name": "mikhael"
+    },
+    {
+      "id": "50428926",
+      "title": "What broke when I upgraded my agent from Sonnet 5 to Sonnet 5.5",
+      "url": "https://www.evalshift.dev/blog/llm-regression-testing-model-upgrade",
+      "summary": "Sample production logs into a golden set, write deterministic assertions, diff baseline against candidate and gate it in CI. Built on six real failures.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-09T17:52:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "nupize",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Sample production logs into a golden set, write deterministic assertions, diff baseline against candidate and gate it in CI. Built on six real failures.",
+      "author_name": "nupize"
+    },
+    {
+      "id": "50428767",
+      "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
+      "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert",
+      "summary": "Frontier AI cyber reasoning meets enterprise exposure management to help uncover unknown vulnerabilities and accelerate remediation at AI scale.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-09T17:40:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "boilerupnc",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Frontier AI cyber reasoning meets enterprise exposure management to help uncover unknown vulnerabilities and accelerate remediation at AI scale.",
+      "author_name": "boilerupnc"
+    },
+    {
+      "id": "50428732",
+      "title": "The Promises and Perils of LLMs in Building End User Software",
+      "url": "https://jonaserthal.com/blog/promises-and-perils/",
+      "summary": "LLMs have transformed how we build software, but app development is paying for it in burnout developers and garbage code. Our values should guide how we use AI.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-09T17:36:37Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "attiqbinkhalid",
+      "author": "apollopower",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "We put the buyer questions for 12 cold-outreach tools to two web-search AI engines and recorded who got named. 3 tools were never named. One tool is named.",
-      "author_name": "attiqbinkhalid"
+      "text": "LLMs have transformed how we build software, but app development is paying for it in burnout developers and garbage code. Our values should guide how we use AI.",
+      "author_name": "apollopower"
     },
     {
-      "id": "50417169",
-      "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
-      "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
-      "summary": "MENLO PARK, California, Sept 23 (Reuters) - Mark Zuckerberg took repeated digs at Apple during Meta&#x27;s annual event on Wednesday, only to borrow a page from Steve Jobs&#x27; playbook for a surprise reveal: a pocket-watch-sized device that carries Meta&#x27;s viral Muse AI ‌agent into the real world. The device, cal…",
+      "id": "50428585",
+      "title": "IBM: How to Start Realizing Agentic AI ROI [pdf]",
+      "url": "https://www-api.ibm.com/adobe/assets/urn:aaid:aem:22ee2a35-6510-442d-96a9-273ea89f57cf/original/as/roi-guide-agentic-ai-gated-ebook.pdf",
+      "summary": "%PDF-1.7 %���� 506 0 obj > endobj xref 506 22 0000000016 00000 n 0000001605 00000 n 0000001837 00000 n 0000001881 00000 n 0000001917 00000 n 0000003364 00000 n 0000003401 00000 n 0000003513 00000 n 0000003627 00000 n 0000005398 00000 n 0000005855 00000 n 0000006128 00000 n 0000006634 00000 n 0000007251 00000 n 00000075…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T20:57:43Z",
+      "publishedAt": "2026-11-09T17:25:35Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "gmays",
+      "author": "Exoristos",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "MENLO PARK, California, Sept 23 (Reuters) - Mark Zuckerberg took repeated digs at Apple during Meta&#x27;s annual event on Wednesday, only to borrow a page from Steve Jobs&#x27; playbook for a surprise reveal: a pocket-watch-sized device that carries Meta&#x27;s viral Muse AI ‌agent into the real world. The device, cal…",
-      "author_name": "gmays"
+      "text": "%PDF-1.7 %���� 506 0 obj > endobj xref 506 22 0000000016 00000 n 0000001605 00000 n 0000001837 00000 n 0000001881 00000 n 0000001917 00000 n 0000003364 00000 n 0000003401 00000 n 0000003513 00000 n 0000003627 00000 n 0000005398 00000 n 0000005855 00000 n 0000006128 00000 n 0000006634 00000 n 0000007251 00000 n 00000075…",
+      "author_name": "Exoristos"
     },
     {
-      "id": "50417052",
-      "title": "Offline context-aware dictation without screenshots, LLMs or fine-tuning",
-      "url": "https://morethanamachine.com/posts/handy-context/",
-      "summary": "Wispr Flow reads names off your screen in its cloud. I forked Handy, an existing open-source dictation app, and taught it to do the same on my laptop. It got 35% fewer on-screen words wrong.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T20:47:19Z",
+      "id": "50428577",
+      "title": "4 years after LaMDA, Blake Lemoine reflects on what it did to his mental health",
+      "url": "https://observer.co.uk/news/technology/article/he-said-googles-ai-was-conscious-but-what-was-it-doing-to-his-mind",
+      "summary": "Four years ago, whistleblower Blake Lemoine became convinced that Google’s AI chatbot had become sentient. Now he’s warning about the mental health risks",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-11-09T17:25:06Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "reddmachine",
+      "author": "paticlarke",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "Wispr Flow reads names off your screen in its cloud. I forked Handy, an existing open-source dictation app, and taught it to do the same on my laptop. It got 35% fewer on-screen words wrong.",
-      "author_name": "reddmachine"
+      "text": "Four years ago, whistleblower Blake Lemoine became convinced that Google’s AI chatbot had become sentient. Now he’s warning about the mental health risks",
+      "author_name": "paticlarke"
     },
     {
-      "id": "50417036",
-      "title": "Beyond code generation: A developer's guide to agentic engineering",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "summary": "Writing code got faster. The work around it didn&#039;t. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T20:45:59Z",
+      "id": "50428551",
+      "title": "Acorn crops predict Lyme tick abundance two years later",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+      "summary": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers the following year. Even acorn production can predict tick po…",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-11-09T17:23:07Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "andrewstetsenko",
+      "score": 16,
+      "author": "Jimmc414",
       "likes": 1,
-      "views": 0,
+      "views": 2,
       "retweets": 0,
-      "text": "Writing code got faster. The work around it didn&#039;t. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot.",
-      "author_name": "andrewstetsenko"
+      "text": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers the following year. Even acorn production can predict tick po…",
+      "author_name": "Jimmc414"
     },
     {
-      "id": "50416922",
-      "title": "AI skill to provide IPA and English translations from uploaded sheet music",
-      "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
-      "summary": "AI skill to provide IPA and english translations directly from upoaded sheet music. Targeted toward early music singers in a European Style. - GitHub - secureakira-tech/early-music-ipa-guide: AI skill to provide IPA and english translations directly from upoaded sheet music. Targeted toward early music singers in a Eur…",
+      "id": "50426175",
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "summary": "See-through solar cells harvest some wavelengths of light to make electricity, while passing through the red and blue wavelengths that plants need. In a new agrivoltaics experiment, broccoli yields held steady.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-09T14:31:39Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 144,
+      "author": "speckx",
+      "likes": 130,
+      "views": 49,
+      "retweets": 0,
+      "text": "See-through solar cells harvest some wavelengths of light to make electricity, while passing through the red and blue wavelengths that plants need. In a new agrivoltaics experiment, broccoli yields held steady.",
+      "author_name": "speckx"
+    },
+    {
+      "id": "50425545",
+      "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+      "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+      "summary": "Emily M. Bender and Nanna Inie In our op-ed for Tech Policy Press (&quot;We Need to Talk About How We Talk About &#x27;AI&#x27;&quot;), we made the case against the...",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-08T20:37:23Z",
+      "publishedAt": "2026-11-09T13:47:28Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 33,
-      "author": "mooreds",
+      "score": 16,
+      "author": "ColinWright",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "AI skill to provide IPA and english translations directly from upoaded sheet music. Targeted toward early music singers in a European Style. - GitHub - secureakira-tech/early-music-ipa-guide: AI skill to provide IPA and english translations directly from upoaded sheet music. Targeted toward early music singers in a Eur…",
-      "author_name": "mooreds"
+      "text": "Emily M. Bender and Nanna Inie In our op-ed for Tech Policy Press (&quot;We Need to Talk About How We Talk About &#x27;AI&#x27;&quot;), we made the case against the...",
+      "author_name": "ColinWright"
+    },
+    {
+      "id": "50423990",
+      "title": "Can DeepSeek Challenge OpenAI, Anthropic in AI Agents",
+      "url": "https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes",
+      "summary": "Hangzhou-based start-up ramps up efforts to monetise its powerful foundation models as AI agent platform gains traction.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-09T11:07:48Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "nreece",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Hangzhou-based start-up ramps up efforts to monetise its powerful foundation models as AI agent platform gains traction.",
+      "author_name": "nreece"
     },
     {
       "id": "50416741",
@@ -124,126 +264,6 @@
       "author_name": "crib-award-cont"
     },
     {
-      "id": "50416722",
-      "title": "LLMs can understand and write neural network weights",
-      "url": "https://github.com/RikiyaT/lm_understand-logs",
-      "summary": "Complete logs of the experiments in the blog post &#39;LLMs can understand and write neural network weights&#39; - RikiyaT/lm_understand-logs",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T20:18:49Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "modinfo",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Complete logs of the experiments in the blog post &#39;LLMs can understand and write neural network weights&#39; - RikiyaT/lm_understand-logs",
-      "author_name": "modinfo"
-    },
-    {
-      "id": "50415706",
-      "title": "What Should We Learn? What LLMs Taught Me: Understanding Isn't Producing",
-      "url": "https://dennysora.me/en/thoughts/what-should-we-learn-in-the-ai-era/",
-      "summary": "From AI code quality to facing a blank page in a Japanese exam: understanding what we read does not mean we can construct, think, and produce it ourselves.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T18:25:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "dennysora-main",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "From AI code quality to facing a blank page in a Japanese exam: understanding what we read does not mean we can construct, think, and produce it ourselves.",
-      "author_name": "dennysora-main"
-    },
-    {
-      "id": "50415103",
-      "title": "GPT-6 Luna and GPT-6.1 Sol are 90% off the listed price",
-      "url": "https://anyrouter.dev/blog/releases/2026-11-03-llamport",
-      "summary": "Llamport is a new upstream on AnyRouter. It serves four OpenAI GPT models at 10% of the OpenAI API list price, on the AnyRouter platform key or with your own Llamport key.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T17:12:55Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "duyetdev",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Llamport is a new upstream on AnyRouter. It serves four OpenAI GPT models at 10% of the OpenAI API list price, on the AnyRouter platform key or with your own Llamport key.",
-      "author_name": "duyetdev"
-    },
-    {
-      "id": "50414445",
-      "title": "We deleted almost all our agent code, and other lessons from 100k PRs",
-      "url": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
-      "summary": "Anton Osika shares lessons from building Lovable through 100,000 pull requests, from matching agent freedom to model ability to faster feedback loops and stateful sandboxes.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T16:09:37Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 27,
-      "author": "antonoo",
-      "likes": 13,
-      "views": 2,
-      "retweets": 0,
-      "text": "Anton Osika shares lessons from building Lovable through 100,000 pull requests, from matching agent freedom to model ability to faster feedback loops and stateful sandboxes.",
-      "author_name": "antonoo"
-    },
-    {
-      "id": "50413822",
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-      "summary": "OpenAI got its money, but not on the terms it wanted, and the gap between its growth story and investor appetite is landing on two giants. One faces a bookkeeping hit, the other a deeper dependency on the funding flow.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T14:49:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 193,
-      "author": "armcat",
-      "likes": 177,
-      "views": 196,
-      "retweets": 0,
-      "text": "OpenAI got its money, but not on the terms it wanted, and the gap between its growth story and investor appetite is landing on two giants. One faces a bookkeeping hit, the other a deeper dependency on the funding flow.",
-      "author_name": "armcat"
-    },
-    {
-      "id": "50413425",
-      "title": "Anthropic Let an Outsider Check Its AI Progress. Here's What We Can't See",
-      "url": "https://www.youtube.com/watch?v=oFuoPEtIqWg",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T13:57:22Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "lroe",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "lroe"
-    },
-    {
       "id": "50412988",
       "title": "A 3-Line Torus Geometry Proof Wrecked OpenAI's $100B Biotech Venture",
       "url": "https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md",
@@ -261,26 +281,6 @@
       "views": 0,
       "retweets": 0,
       "text": "Open-source verification suite & preprints on Medium-Range Conditional Codon Syntax (54 RefSeq taxa, 10 null models H0-H7) & the Double-Stranded Codon Torus T_4^3 = (Z/4Z)^3: Markov lumpability, antisense channel dominance (74-88%), TP53/RAS intron-exon splicing, JCVI-syn1.0/3.0, BNT162b2/mRNA-1273 duplex forensics & D…",
-      "author_name": "DRLogvinovich"
-    },
-    {
-      "id": "50411385",
-      "title": "6th-grade Peano arithmetic broke OpenAI's $100B Yang-Mills mass gap proof",
-      "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
-      "summary": "Zero-axiom Lean 4 formal proof (RoundSquare.lean, 74 print axioms checks) of the Yang–Mills Mass Gap Incompatibility Theorem on pure non-compact R^4 & automatic spectral gap on the compact constructible manifold M_tot = S^4 x T^3. Official repository for V. Logvinovich (2026) - round-square/README.md at main · Dr-Logvi…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T08:23:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 37,
-      "author": "DRLogvinovich",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "Zero-axiom Lean 4 formal proof (RoundSquare.lean, 74 print axioms checks) of the Yang–Mills Mass Gap Incompatibility Theorem on pure non-compact R^4 & automatic spectral gap on the compact constructible manifold M_tot = S^4 x T^3. Official repository for V. Logvinovich (2026) - round-square/README.md at main · Dr-Logvi…",
       "author_name": "DRLogvinovich"
     },
     {
@@ -304,26 +304,6 @@
       "author_name": "ghernando"
     },
     {
-      "id": "50409992",
-      "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T02:39:59Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 36,
-      "author": "RickJWagner",
-      "likes": 7,
-      "views": 6,
-      "retweets": 0,
-      "text": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "author_name": "RickJWagner"
-    },
-    {
       "id": "50409231",
       "title": "GitHub AI Vulnerability Scans for Repositories",
       "url": "https://docs.github.com/en/code-security/concepts/code-scanning/ai-scan-for-repositories",
@@ -342,26 +322,6 @@
       "retweets": 0,
       "text": "Find additional security vulnerabilities across languages and manage the results in your existing code scanning backlog.",
       "author_name": "robinstunes"
-    },
-    {
-      "id": "50408137",
-      "title": "Segmentation Drives Market Share Wins in AI",
-      "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise/",
-      "summary": "Anthropic & OpenAI both re-rated their run rates in 2026 by segmenting : a mandatory enterprise repricing against an 80% price cut on the cheapest tier.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-07T21:15:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "gmays",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic & OpenAI both re-rated their run rates in 2026 by segmenting : a mandatory enterprise repricing against an 80% price cut on the cheapest tier.",
-      "author_name": "gmays"
     },
     {
       "id": "50404588",
@@ -384,24 +344,64 @@
       "author_name": "arbuge"
     },
     {
-      "id": "50404412",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-07T13:31:42Z",
+      "id": "50404378",
+      "title": "Baidu Hit with Securities Fraud Class Action over AI Growth Claims",
+      "url": "https://epyhia.com/baidu-hit-with-securities-fraud-class-action-over-ai-growth-claims",
+      "summary": "A federal class action filed in September alleges that Baidu misled investors about the ability of its AI business to offset a shrinking legacy advertising operation, marking a closely watched test…",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-07T13:25:34Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 33,
-      "author": "jgalt212",
+      "score": 15,
+      "author": "arbuge",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "A federal class action filed in September alleges that Baidu misled investors about the ability of its AI business to offset a shrinking legacy advertising operation, marking a closely watched test…",
+      "author_name": "arbuge"
+    },
+    {
+      "id": "50391892",
+      "title": "Smooth Outdoor-Indoor Mapping, JWT Auth and AI Analytics",
+      "url": "https://navigine.com/blog/product-release-roundup-next-gen-mobile-mapping-ai-analytics-and-platform-security/",
+      "summary": "Explore the autumn 2026 product release roundup featuring next-gen mobile mapping SDKs, AI-driven heatmap analytics, streamlined web portal onboarding, and hardened JWT authentication security.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-06T13:08:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "SmartDS",
       "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Explore the autumn 2026 product release roundup featuring next-gen mobile mapping SDKs, AI-driven heatmap analytics, streamlined web portal onboarding, and hardened JWT authentication security.",
+      "author_name": "SmartDS"
+    },
+    {
+      "id": "50250462",
+      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
+      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-10-26T20:29:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "p1anecrazy",
+      "likes": 1,
       "views": 1,
       "retweets": 0,
-      "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "author_name": "jgalt212"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "p1anecrazy"
     }
   ]
 }
