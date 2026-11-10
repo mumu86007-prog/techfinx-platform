@@ -1,127 +1,127 @@
 {
-  "version": "2026-11-10T16:19:32.403Z",
-  "generatedAt": "2026-11-10T16:19:32.404Z",
+  "version": "2026-11-10T23:59:06.878Z",
+  "generatedAt": "2026-11-10T23:59:06.878Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50442367",
-      "title": "The Multimodal Knowledge Agent Benchmark",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
-      "summary": "Google introduces the MKA benchmark to evaluate how agents reason across complex visual tasks. See how Gemini 4 Carbon performs. Read the report.",
+      "id": "50447870",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn&#039;t say if it has the ability to check for any past unauthorized access.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-10T23:38:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "airhangerf15",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn&#039;t say if it has the ability to check for any past unauthorized access.",
+      "author_name": "airhangerf15"
+    },
+    {
+      "id": "50447378",
+      "title": "LLM inference, visually explained: why a 13B model reads 26 GB per token",
+      "url": "https://www.youtube.com/watch?v=R3meYJU7wEg",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-10T16:12:21Z",
+      "publishedAt": "2026-11-10T22:47:35Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "acossta",
-      "likes": 1,
+      "author": "ryansakhala",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Google introduces the MKA benchmark to evaluate how agents reason across complex visual tasks. See how Gemini 4 Carbon performs. Read the report.",
-      "author_name": "acossta"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "ryansakhala"
     },
     {
-      "id": "50442330",
-      "title": "The State of Mechanistic Interpretability for AI Safety",
-      "url": "https://tsglab.github.io/mechinterp-safety/",
-      "summary": "An interactive handbook for the survey &#34;The State of Mechanistic Interpretability for AI Safety&#34;: the survey text, a methods explorer, evaluation framework, research orientations, open problems and runnable notebooks.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-10T16:09:29Z",
+      "id": "50447258",
+      "title": "A simple Python implementation of the ReAct pattern for LLMs",
+      "url": "https://til.simonwillison.net/llms/python-react-pattern",
+      "summary": "A popular nightmare scenario for AI is giving it access to tools, so it can make API calls and execute its own code and generally break free of the constraints of its initial environment.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-10T22:33:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "auraham",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A popular nightmare scenario for AI is giving it access to tools, so it can make API calls and execute its own code and generally break free of the constraints of its initial environment.",
+      "author_name": "auraham"
+    },
+    {
+      "id": "50447074",
+      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "Seven months into Project Glasswing, VulnCheck has tracked 442 CVEs attributable to Anthropic, roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild. Of Anthropic’s 37,966 reported findings, only 7,349 (19.4%) have been made public and just 217 have been marked fixed.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-10T22:17:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 117,
+      "author": "panic",
+      "likes": 101,
+      "views": 24,
+      "retweets": 0,
+      "text": "Seven months into Project Glasswing, VulnCheck has tracked 442 CVEs attributable to Anthropic, roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild. Of Anthropic’s 37,966 reported findings, only 7,349 (19.4%) have been made public and just 217 have been marked fixed.",
+      "author_name": "panic"
+    },
+    {
+      "id": "50443748",
+      "title": "Architecture Decisions for Marin 535B-A23B",
+      "url": "https://openathena.ai/blog/marin-535b-architecture/",
+      "summary": "The goals, experiments, and judgment calls behind the architecture of Marin 535B-A23B, from model sizing and EP token dropping to each notable component.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-10T17:57:32Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "allenleee",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "An interactive handbook for the survey &#34;The State of Mechanistic Interpretability for AI Safety&#34;: the survey text, a methods explorer, evaluation framework, research orientations, open problems and runnable notebooks.",
-      "author_name": "allenleee"
-    },
-    {
-      "id": "50442016",
-      "title": "Can you prompt your AI into telling the truth? I tested it",
-      "url": "https://scottdesapio.com/thoughts",
-      "summary": "Thoughts is a set of instructions that tells a model to examine ideas with evidence instead of agreement. I tested it against no instructions and a one-line prompt on four models: it helped Gemini and Sonnet, on GPT it was no better than the one-liner, and on Claude Opus 4.6 the result depended on the grader. Below are…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-10T15:46:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "esjaydee",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Thoughts is a set of instructions that tells a model to examine ideas with evidence instead of agreement. I tested it against no instructions and a one-line prompt on four models: it helped Gemini and Sonnet, on GPT it was no better than the one-liner, and on Claude Opus 4.6 the result depended on the grader. Below are…",
-      "author_name": "esjaydee"
-    },
-    {
-      "id": "50441946",
-      "title": "Anthropic seeks $1.4T valuation; IPO aiming for November 19 or 20",
-      "url": "https://finance.yahoo.com/markets/article/anthropic-seeks-14-trillion-valuation-in-ipo-130300928.html",
-      "summary": "Anthropic seeks $1.4 trillion valuation in latest filing related to its upcoming IPO, which could hit as soon as Nov. 19, according to reports.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-10T15:42:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "novaRom",
-      "likes": 4,
-      "views": 2,
-      "retweets": 0,
-      "text": "Anthropic seeks $1.4 trillion valuation in latest filing related to its upcoming IPO, which could hit as soon as Nov. 19, according to reports.",
-      "author_name": "novaRom"
-    },
-    {
-      "id": "50441945",
-      "title": "With web search, LLMs still give uncorrected EU law in 25% of decided answers",
-      "url": "https://zenodo.org/records/24098388",
-      "summary": "Version 1.2 (31 October 2026). Four folders added, measurements made on 30 October 2026 in the continuation of step S1: does OLMo 2, an open model whose training data are public, say that a paper is retracted when its data said so? Result: in what the model read about 291 retracted papers it had seen often, 7.7 % of th…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-10T15:42:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "yolinecomtet",
+      "author": "theanonymousone",
       "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "Version 1.2 (31 October 2026). Four folders added, measurements made on 30 October 2026 in the continuation of step S1: does OLMo 2, an open model whose training data are public, say that a paper is retracted when its data said so? Result: in what the model read about 291 retracted papers it had seen often, 7.7 % of th…",
-      "author_name": "yolinecomtet"
+      "text": "The goals, experiments, and judgment calls behind the architecture of Marin 535B-A23B, from model sizing and EP token dropping to each notable component.",
+      "author_name": "theanonymousone"
     },
     {
-      "id": "50441525",
-      "title": "Claude Fable 5.2 from Anthropic, Added to Personality Bench",
-      "url": "https://persona.earthpilot.ai/models/anthropic/claude-fable-5.2",
-      "summary": "Across the personality battery, Claude Fable 5.2 stands out as highest on Honesty-Humility, very high on Empathy, very low on Powerful Others Locus. Detailed breakdowns by instrument are below.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-10T15:12:50Z",
+      "id": "50443543",
+      "title": "AI assisted theoretical physics paper intercepted by \"shepherding committee.\"",
+      "url": "https://twitter.com/ericweinstein/status/2120196442707075438",
+      "summary": "Three and a half weeks ago, a paper in Yang-Mills theory was intercepted by 5 people. Despite no reason for taking &quot;Custody&quot; nor need for &quot;Shepherding&quot;. Since no one else is saying it, let&#x27;s review: 2/5: Octogenarians (85 and 88) who have been Washington&#x27;s &quot;Steady Hands&quot; in Physi…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-10T17:41:48Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "ada1981",
+      "score": 18,
+      "author": "delichon",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Across the personality battery, Claude Fable 5.2 stands out as highest on Honesty-Humility, very high on Empathy, very low on Powerful Others Locus. Detailed breakdowns by instrument are below.",
-      "author_name": "ada1981"
+      "text": "Three and a half weeks ago, a paper in Yang-Mills theory was intercepted by 5 people. Despite no reason for taking &quot;Custody&quot; nor need for &quot;Shepherding&quot;. Since no one else is saying it, let&#x27;s review: 2/5: Octogenarians (85 and 88) who have been Washington&#x27;s &quot;Steady Hands&quot; in Physi…",
+      "author_name": "delichon"
     },
     {
       "id": "50439228",
@@ -144,24 +144,24 @@
       "author_name": "mariusmitrofan"
     },
     {
-      "id": "50437106",
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "summary": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+      "id": "50437665",
+      "title": "Fireworks.ai Update on October 2026 security incident",
+      "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+      "summary": "An update on the October 2026 security incident, the data involved, and the security hardening measures Fireworks has implemented.",
       "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-10T07:19:38Z",
+      "publishedAt": "2026-11-10T08:47:00Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 147,
-      "author": "werrett",
-      "likes": 131,
-      "views": 44,
+      "score": 17,
+      "author": "edot",
+      "likes": 1,
+      "views": 1,
       "retweets": 0,
-      "text": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
-      "author_name": "werrett"
+      "text": "An update on the October 2026 security incident, the data involved, and the security hardening measures Fireworks has implemented.",
+      "author_name": "edot"
     },
     {
       "id": "50435725",
@@ -184,70 +184,10 @@
       "author_name": "fblp"
     },
     {
-      "id": "50434581",
-      "title": "OpenRing – self-hosted voice AI agents with a Vapi-compatible API",
-      "url": "https://github.com/elifalanrocha/openring",
-      "summary": "Self-hosted voice AI agents with a Vapi-compatible API. AI phone agents on Twilio, Telnyx, Plivo, Vonage or SIP, with your keys or 100% local and free (Whisper, Ollama, Kokoro). No per-minute platform fee. npx openring - elifalanrocha/openring",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-10T00:43:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "elifalanrocha",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Self-hosted voice AI agents with a Vapi-compatible API. AI phone agents on Twilio, Telnyx, Plivo, Vonage or SIP, with your keys or 100% local and free (Whisper, Ollama, Kokoro). No per-minute platform fee. npx openring - elifalanrocha/openring",
-      "author_name": "elifalanrocha"
-    },
-    {
-      "id": "50430799",
-      "title": "Fireworks AI October 2026 security incident",
-      "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
-      "summary": "An update on the October 2026 security incident, the data involved, and the security hardening measures Fireworks has implemented.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-09T19:44:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "babelfish",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "An update on the October 2026 security incident, the data involved, and the security hardening measures Fireworks has implemented.",
-      "author_name": "babelfish"
-    },
-    {
-      "id": "50416741",
-      "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
-      "url": "https://github.com/avivgerz-hue/vibe-shield",
-      "summary": "60-rule static security scanner, MCP server & skill poisoning auditor for AI-generated codebases (Claude Code, Codex, Cursor). - avivgerz-hue/vibe-shield",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T20:21:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "crib-award-cont",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "60-rule static security scanner, MCP server & skill poisoning auditor for AI-generated codebases (Claude Code, Codex, Cursor). - avivgerz-hue/vibe-shield",
-      "author_name": "crib-award-cont"
-    },
-    {
       "id": "50250462",
       "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
       "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "summary": "Nik Storonsky is the co-founder and CEO of Revolut, a digital bank valued at $115 billion that is available in 38 countries. A former trader, he started Revo...",
       "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
       "publishedAt": "2026-10-26T20:29:10Z",
       "source": "Hacker News",
@@ -255,12 +195,12 @@
         "AI",
         "科技"
       ],
-      "score": 14,
+      "score": 17,
       "author": "p1anecrazy",
       "likes": 1,
       "views": 1,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "text": "Nik Storonsky is the co-founder and CEO of Revolut, a digital bank valued at $115 billion that is available in 38 countries. A former trader, he started Revo...",
       "author_name": "p1anecrazy"
     },
     {
