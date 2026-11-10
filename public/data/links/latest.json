@@ -1,47 +1,187 @@
 {
-  "version": "2026-11-10T01:57:16.085Z",
-  "generatedAt": "2026-11-10T01:57:16.085Z",
+  "version": "2026-11-10T16:19:32.403Z",
+  "generatedAt": "2026-11-10T16:19:32.404Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50434934",
-      "title": "Toptal AI – Full-Stack AI Services Company in the World for Agent Creation",
-      "url": "https://www.toptal.ai/",
-      "summary": "Toptal AI is the #1 full-stack AI services company: frontier-grade AI using open-weight and proprietary models, delivered by world-class talent, fully managed.",
+      "id": "50442367",
+      "title": "The Multimodal Knowledge Agent Benchmark",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "summary": "Google introduces the MKA benchmark to evaluate how agents reason across complex visual tasks. See how Gemini 4 Carbon performs. Read the report.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-10T01:31:03Z",
+      "publishedAt": "2026-11-10T16:12:21Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "artur_makly",
+      "score": 18,
+      "author": "acossta",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Toptal AI is the #1 full-stack AI services company: frontier-grade AI using open-weight and proprietary models, delivered by world-class talent, fully managed.",
-      "author_name": "artur_makly"
+      "text": "Google introduces the MKA benchmark to evaluate how agents reason across complex visual tasks. See how Gemini 4 Carbon performs. Read the report.",
+      "author_name": "acossta"
     },
     {
-      "id": "50434647",
-      "title": "Why is AI slop so frustrating to read?",
-      "url": "https://twitter.com/zhizdev/status/2119874095269707977",
-      "summary": "Why is AI slop so frustrating to read? AI writing often obscures main ideas and invents awkward phrases, making sentences more complex than necessary. Many of these slop patterns violate writing principles established in English writing books. In our benchmark, AI writing breaks these princip…",
+      "id": "50442330",
+      "title": "The State of Mechanistic Interpretability for AI Safety",
+      "url": "https://tsglab.github.io/mechinterp-safety/",
+      "summary": "An interactive handbook for the survey &#34;The State of Mechanistic Interpretability for AI Safety&#34;: the survey text, a methods explorer, evaluation framework, research orientations, open problems and runnable notebooks.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-10T00:52:01Z",
+      "publishedAt": "2026-11-10T16:09:29Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "allenleee",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "An interactive handbook for the survey &#34;The State of Mechanistic Interpretability for AI Safety&#34;: the survey text, a methods explorer, evaluation framework, research orientations, open problems and runnable notebooks.",
+      "author_name": "allenleee"
+    },
+    {
+      "id": "50442016",
+      "title": "Can you prompt your AI into telling the truth? I tested it",
+      "url": "https://scottdesapio.com/thoughts",
+      "summary": "Thoughts is a set of instructions that tells a model to examine ideas with evidence instead of agreement. I tested it against no instructions and a one-line prompt on four models: it helped Gemini and Sonnet, on GPT it was no better than the one-liner, and on Claude Opus 4.6 the result depended on the grader. Below are…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-10T15:46:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "esjaydee",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Thoughts is a set of instructions that tells a model to examine ideas with evidence instead of agreement. I tested it against no instructions and a one-line prompt on four models: it helped Gemini and Sonnet, on GPT it was no better than the one-liner, and on Claude Opus 4.6 the result depended on the grader. Below are…",
+      "author_name": "esjaydee"
+    },
+    {
+      "id": "50441946",
+      "title": "Anthropic seeks $1.4T valuation; IPO aiming for November 19 or 20",
+      "url": "https://finance.yahoo.com/markets/article/anthropic-seeks-14-trillion-valuation-in-ipo-130300928.html",
+      "summary": "Anthropic seeks $1.4 trillion valuation in latest filing related to its upcoming IPO, which could hit as soon as Nov. 19, according to reports.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-10T15:42:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "novaRom",
+      "likes": 4,
+      "views": 2,
+      "retweets": 0,
+      "text": "Anthropic seeks $1.4 trillion valuation in latest filing related to its upcoming IPO, which could hit as soon as Nov. 19, according to reports.",
+      "author_name": "novaRom"
+    },
+    {
+      "id": "50441945",
+      "title": "With web search, LLMs still give uncorrected EU law in 25% of decided answers",
+      "url": "https://zenodo.org/records/24098388",
+      "summary": "Version 1.2 (31 October 2026). Four folders added, measurements made on 30 October 2026 in the continuation of step S1: does OLMo 2, an open model whose training data are public, say that a paper is retracted when its data said so? Result: in what the model read about 291 retracted papers it had seen often, 7.7 % of th…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-10T15:42:00Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "espeed",
-      "likes": 2,
+      "author": "yolinecomtet",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Version 1.2 (31 October 2026). Four folders added, measurements made on 30 October 2026 in the continuation of step S1: does OLMo 2, an open model whose training data are public, say that a paper is retracted when its data said so? Result: in what the model read about 291 retracted papers it had seen often, 7.7 % of th…",
+      "author_name": "yolinecomtet"
+    },
+    {
+      "id": "50441525",
+      "title": "Claude Fable 5.2 from Anthropic, Added to Personality Bench",
+      "url": "https://persona.earthpilot.ai/models/anthropic/claude-fable-5.2",
+      "summary": "Across the personality battery, Claude Fable 5.2 stands out as highest on Honesty-Humility, very high on Empathy, very low on Powerful Others Locus. Detailed breakdowns by instrument are below.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-10T15:12:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "ada1981",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Across the personality battery, Claude Fable 5.2 stands out as highest on Honesty-Humility, very high on Empathy, very low on Powerful Others Locus. Detailed breakdowns by instrument are below.",
+      "author_name": "ada1981"
+    },
+    {
+      "id": "50439228",
+      "title": "MCP server security: a census of every host in the official MCP Registry",
+      "url": "https://spellwarden.ai/research/mcp-server-security-2026-11",
+      "summary": "An unauthenticated probe of all 30,402 hosts in the official MCP Registry: sign-in, open tool lists, tool descriptions and protocol versions.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-10T12:14:52Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "mariusmitrofan",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "An unauthenticated probe of all 30,402 hosts in the official MCP Registry: sign-in, open tool lists, tool descriptions and protocol versions.",
+      "author_name": "mariusmitrofan"
+    },
+    {
+      "id": "50437106",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-10T07:19:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 147,
+      "author": "werrett",
+      "likes": 131,
+      "views": 44,
+      "retweets": 0,
+      "text": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+      "author_name": "werrett"
+    },
+    {
+      "id": "50435725",
+      "title": "Australia to introduce mandatory incident reporting after OpenAI hack",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+      "summary": "Government flags criminal law changes to ensure companies can&#x2019;t argue in future &#x2018;that someone didn&#x2019;t know the computer was loaded&#x2019;",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-10T03:31:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "fblp",
+      "likes": 4,
       "views": 1,
       "retweets": 0,
-      "text": "Why is AI slop so frustrating to read? AI writing often obscures main ideas and invents awkward phrases, making sentences more complex than necessary. Many of these slop patterns violate writing principles established in English writing books. In our benchmark, AI writing breaks these princip…",
-      "author_name": "espeed"
+      "text": "Government flags criminal law changes to ensure companies can&#x2019;t argue in future &#x2018;that someone didn&#x2019;t know the computer was loaded&#x2019;",
+      "author_name": "fblp"
     },
     {
       "id": "50434581",
@@ -64,26 +204,6 @@
       "author_name": "elifalanrocha"
     },
     {
-      "id": "50432152",
-      "title": "Lumnik – read legacy ERPs and exports without touching them",
-      "url": "https://github.com/icreated/lumnik-open",
-      "summary": "Read legacy ERPs, CRMs and exports without touching them: fuse sources, count every row, raise decisions. Self-hosted on PostgreSQL, Apache-2.0. Plain-language questions with the SQL shown come with lumnik Pro. - icreated/lumnik-open",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-09T21:07:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "icreated",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Read legacy ERPs, CRMs and exports without touching them: fuse sources, count every row, raise decisions. Self-hosted on PostgreSQL, Apache-2.0. Plain-language questions with the SQL shown come with lumnik Pro. - icreated/lumnik-open",
-      "author_name": "icreated"
-    },
-    {
       "id": "50430799",
       "title": "Fireworks AI October 2026 security incident",
       "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
@@ -102,86 +222,6 @@
       "retweets": 0,
       "text": "An update on the October 2026 security incident, the data involved, and the security hardening measures Fireworks has implemented.",
       "author_name": "babelfish"
-    },
-    {
-      "id": "50430436",
-      "title": "Automated researchers can reliably mitigate alignment failures",
-      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-      "summary": "We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-09T19:25:52Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "gmays",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "We had Claude autonomously train models to improve their performance on several public benchmarks that measure 10 categories of alignment failure. For all 10, Claude found fixes that improved the target benchmarks without degrading capabilities.",
-      "author_name": "gmays"
-    },
-    {
-      "id": "50430026",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on big technical challenges.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-09T19:02:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "astlouis44",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on big technical challenges.",
-      "author_name": "astlouis44"
-    },
-    {
-      "id": "50429906",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "summary": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-09T18:56:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 982,
-      "author": "meetpateltech",
-      "likes": 953,
-      "views": 577,
-      "retweets": 0,
-      "text": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
-      "author_name": "meetpateltech"
-    },
-    {
-      "id": "50428585",
-      "title": "IBM: How to Start Realizing Agentic AI ROI [pdf]",
-      "url": "https://www-api.ibm.com/adobe/assets/urn:aaid:aem:22ee2a35-6510-442d-96a9-273ea89f57cf/original/as/roi-guide-agentic-ai-gated-ebook.pdf",
-      "summary": "%PDF-1.7 %���� 506 0 obj > endobj xref 506 22 0000000016 00000 n 0000001605 00000 n 0000001837 00000 n 0000001881 00000 n 0000001917 00000 n 0000003364 00000 n 0000003401 00000 n 0000003513 00000 n 0000003627 00000 n 0000005398 00000 n 0000005855 00000 n 0000006128 00000 n 0000006634 00000 n 0000007251 00000 n 00000075…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-09T17:25:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "Exoristos",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "%PDF-1.7 %���� 506 0 obj > endobj xref 506 22 0000000016 00000 n 0000001605 00000 n 0000001837 00000 n 0000001881 00000 n 0000001917 00000 n 0000003364 00000 n 0000003401 00000 n 0000003513 00000 n 0000003627 00000 n 0000005398 00000 n 0000005855 00000 n 0000006128 00000 n 0000006634 00000 n 0000007251 00000 n 00000075…",
-      "author_name": "Exoristos"
     },
     {
       "id": "50416741",
@@ -204,106 +244,6 @@
       "author_name": "crib-award-cont"
     },
     {
-      "id": "50412988",
-      "title": "A 3-Line Torus Geometry Proof Wrecked OpenAI's $100B Biotech Venture",
-      "url": "https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md",
-      "summary": "Open-source verification suite & preprints on Medium-Range Conditional Codon Syntax (54 RefSeq taxa, 10 null models H0-H7) & the Double-Stranded Codon Torus T_4^3 = (Z/4Z)^3: Markov lumpability, antisense channel dominance (74-88%), TP53/RAS intron-exon splicing, JCVI-syn1.0/3.0, BNT162b2/mRNA-1273 duplex forensics & D…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-08T13:12:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "DRLogvinovich",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Open-source verification suite & preprints on Medium-Range Conditional Codon Syntax (54 RefSeq taxa, 10 null models H0-H7) & the Double-Stranded Codon Torus T_4^3 = (Z/4Z)^3: Markov lumpability, antisense channel dominance (74-88%), TP53/RAS intron-exon splicing, JCVI-syn1.0/3.0, BNT162b2/mRNA-1273 duplex forensics & D…",
-      "author_name": "DRLogvinovich"
-    },
-    {
-      "id": "50410557",
-      "title": "The internet has a human slop problem, and AI is exposing it",
-      "url": "https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10",
-      "summary": "AI is exposing flaws in decades of human-written software. Vercel&#x27;s Tom Occhino sees a chance to fix the internet&#x27;s neglected foundations.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-08T05:09:25Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "ghernando",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI is exposing flaws in decades of human-written software. Vercel&#x27;s Tom Occhino sees a chance to fix the internet&#x27;s neglected foundations.",
-      "author_name": "ghernando"
-    },
-    {
-      "id": "50409231",
-      "title": "GitHub AI Vulnerability Scans for Repositories",
-      "url": "https://docs.github.com/en/code-security/concepts/code-scanning/ai-scan-for-repositories",
-      "summary": "Find additional security vulnerabilities across languages and manage the results in your existing code scanning backlog.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-08T00:02:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "robinstunes",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Find additional security vulnerabilities across languages and manage the results in your existing code scanning backlog.",
-      "author_name": "robinstunes"
-    },
-    {
-      "id": "50404588",
-      "title": "Former Meta Security Chief Calls Password Access for AI Agents 'Insane'",
-      "url": "https://epyhia.com/meta-launches-muse-ai-spaces-former-security-chief-calls-password",
-      "summary": "Meta has rolled out &quot;spaces,&quot; a new feature for its Muse AI assistant that lets users build custom interactive hubs—shopping dashboards, school planners, trivia games, and more—directly inside the…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-07T13:59:07Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "arbuge",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "Meta has rolled out &quot;spaces,&quot; a new feature for its Muse AI assistant that lets users build custom interactive hubs—shopping dashboards, school planners, trivia games, and more—directly inside the…",
-      "author_name": "arbuge"
-    },
-    {
-      "id": "50404378",
-      "title": "Baidu Hit with Securities Fraud Class Action over AI Growth Claims",
-      "url": "https://epyhia.com/baidu-hit-with-securities-fraud-class-action-over-ai-growth-claims",
-      "summary": "A federal class action filed in September alleges that Baidu misled investors about the ability of its AI business to offset a shrinking legacy advertising operation, marking a closely watched test…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-07T13:25:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "arbuge",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A federal class action filed in September alleges that Baidu misled investors about the ability of its AI business to offset a shrinking legacy advertising operation, marking a closely watched test…",
-      "author_name": "arbuge"
-    },
-    {
       "id": "50250462",
       "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
       "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
@@ -322,6 +262,26 @@
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "author_name": "p1anecrazy"
+    },
+    {
+      "id": "50094099",
+      "title": "Auditory processing strategies in humans and zebra finches",
+      "url": "https://www.nature.com/articles/s42003-026-11035-9",
+      "summary": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-10-14T19:55:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "bryanrasmussen",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Deriving sequential information from complex sounds is a challenge for auditory systems, yet it remains unclear whether humans and nonhuman species integrate multidimensional cues or prioritize a single dimension when processing multidimensional input. We investigated how humans and zebra finches (Taeniopygia guttata)…",
+      "author_name": "bryanrasmussen"
     }
   ]
 }
