@@ -1,47 +1,247 @@
 {
-  "version": "2026-11-13T00:03:04.641Z",
-  "generatedAt": "2026-11-13T00:03:04.641Z",
+  "version": "2026-11-13T16:02:18.907Z",
+  "generatedAt": "2026-11-13T16:02:18.907Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50475906",
-      "title": "AI-written peer reviews outscored top human experts",
-      "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/",
-      "summary": "Artificial intelligence may now write more useful feedback on unpublished research papers than well-paid human experts. In blind comparisons, both an AI judge and former journal editors preferred the AI-written reviews in the large majority of cases.",
+      "id": "50485334",
+      "title": "Anthropic refusing to take money from Chinese Firms in IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
+      "summary": "Institutional investors based in mainland China and Hong Kong have been excluded from placing orders in Anthropic PBC’s initial public offering, according to people familiar with the matter, highlighting the sensitivities around an industry both Washington and Beijing consider strategic.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T15:53:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "htrp",
+      "likes": 1,
+      "views": 2,
+      "retweets": 0,
+      "text": "Institutional investors based in mainland China and Hong Kong have been excluded from placing orders in Anthropic PBC’s initial public offering, according to people familiar with the matter, highlighting the sensitivities around an industry both Washington and Beijing consider strategic.",
+      "author_name": "htrp"
+    },
+    {
+      "id": "50484976",
+      "title": "Weebit Nano In-Memory Compute ReRAM Silicon Kit for AI Inference [video]",
+      "url": "https://www.youtube.com/watch?v=Epqh1L0nOjA",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-12T23:28:21Z",
+      "publishedAt": "2026-11-13T15:30:05Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "geox",
+      "author": "ilaksh",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "Artificial intelligence may now write more useful feedback on unpublished research papers than well-paid human experts. In blind comparisons, both an AI judge and former journal editors preferred the AI-written reviews in the large majority of cases.",
-      "author_name": "geox"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "ilaksh"
     },
     {
-      "id": "50474813",
-      "title": "Top Chinese AI labs built their newest models on Nvidia's Blackwell chips",
-      "url": "https://twitter.com/willdepue/status/2120992457630326841",
-      "summary": "I have a major result to share. I’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China. This sounds insane, but I discovered th…",
+      "id": "50484303",
+      "title": "ModelMesh – Native macOS app to shard models across Macs via Llama-RPC",
+      "url": "https://modelmesh.app/",
+      "summary": "Native AppKit macOS app for managing local llama-server instances and sharding GGUF models across Apple Silicon Macs via llama-rpc and Thunderbolt 5 RDMA.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-12T21:49:52Z",
+      "publishedAt": "2026-11-13T14:47:45Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 30,
-      "author": "leroy_masochist",
-      "likes": 11,
+      "score": 16,
+      "author": "jasonhurt",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Native AppKit macOS app for managing local llama-server instances and sharding GGUF models across Apple Silicon Macs via llama-rpc and Thunderbolt 5 RDMA.",
+      "author_name": "jasonhurt"
+    },
+    {
+      "id": "50484110",
+      "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+      "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
+      "summary": "Some in the medical community aren&#x27;t so certain that AI will cure cancer and Alzheimer&#x27;s in the next decade, as Anthropic CEO Dario Amodei predicted.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T14:34:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 40,
+      "author": "robin_reala",
+      "likes": 26,
+      "views": 55,
+      "retweets": 0,
+      "text": "Some in the medical community aren&#x27;t so certain that AI will cure cancer and Alzheimer&#x27;s in the next decade, as Anthropic CEO Dario Amodei predicted.",
+      "author_name": "robin_reala"
+    },
+    {
+      "id": "50483930",
+      "title": "I built a tool to find local LLMs that fit your hardware",
+      "url": "https://thinkidiot.com/tools/local-model-finder",
+      "summary": "Find open language models for your laptop or GPU. Compare estimated memory, context limits, published benchmark scores and exact model downloads.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T14:23:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "reachsumit",
+      "likes": 3,
       "views": 3,
       "retweets": 0,
+      "text": "Find open language models for your laptop or GPU. Compare estimated memory, context limits, published benchmark scores and exact model downloads.",
+      "author_name": "reachsumit"
+    },
+    {
+      "id": "50483797",
+      "title": "Spend Management: Spending limits and alerts for Cloudflare",
+      "url": "https://blog.cloudflare.com/spend-management/",
+      "summary": "Spend Management adds opt-in spending caps for Workers and Durable Objects, and more products soon. Here&#39;s how we built it.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-13T14:14:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "jilles",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Spend Management adds opt-in spending caps for Workers and Durable Objects, and more products soon. Here&#39;s how we built it.",
+      "author_name": "jilles"
+    },
+    {
+      "id": "50483733",
+      "title": "OpenAI Codex Helps Fix a Nearly 20 Year Old Radeon Linux Driver Bug",
+      "url": "https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5",
+      "summary": "Sent out today was the latest batch of AMD kernel graphics/compute driver patches destined for the Linux 7.5 merge window opening up at year&#039;s end/ Besides a lot of fixes and continued work around new IP enablement for upcoming GPUs, there is even a fix for old ATI/AMD Radeon R600 era hardware after help from Open…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T14:10:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "waximabbax",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Sent out today was the latest batch of AMD kernel graphics/compute driver patches destined for the Linux 7.5 merge window opening up at year&#039;s end/ Besides a lot of fixes and continued work around new IP enablement for upcoming GPUs, there is even a fix for old ATI/AMD Radeon R600 era hardware after help from Open…",
+      "author_name": "waximabbax"
+    },
+    {
+      "id": "50480791",
+      "title": "OpenAI prompt that led to the ETH refutation",
+      "url": "https://ethdiscussion.blog/2026/11/12/openai-prompt-that-led-to-the-eth-refutation/",
+      "summary": "OpenAI has shared the prompt that led to the ETH refutation and agreed to release it publicly. Here is the prompt. Research an unconditional refutation of the deterministic Strong Exponential Time Hypothesis (SETH). Seek a new, rigorous mathematical result; do not assume a refutation exists or present an incomplete arg…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T09:39:52Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "artninja1988",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI has shared the prompt that led to the ETH refutation and agreed to release it publicly. Here is the prompt. Research an unconditional refutation of the deterministic Strong Exponential Time Hypothesis (SETH). Seek a new, rigorous mathematical result; do not assume a refutation exists or present an incomplete arg…",
+      "author_name": "artninja1988"
+    },
+    {
+      "id": "50479688",
+      "title": "Forensic evidence Chinese AI labs built their newest models on Nvidia Blackwell",
+      "url": "https://twitter.com/willdepue/status/2120992457630326841",
+      "summary": "I have a major result to share. I’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China. This sounds insane, but I discovered th…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T07:36:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 25,
+      "author": "oger",
+      "likes": 6,
+      "views": 0,
+      "retweets": 0,
       "text": "I have a major result to share. I’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China. This sounds insane, but I discovered th…",
-      "author_name": "leroy_masochist"
+      "author_name": "oger"
+    },
+    {
+      "id": "50479648",
+      "title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures",
+      "summary": "OpenAI is backing a bipartisan effort in Congress to block China’s access to artificial intelligence chips and curb China’s access to chipmaking equipment, adding support to legislation gaining momentum after the scandal that toppled Jensen Huang as Nvidia Corp.’s chief executive officer.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T07:31:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "pretext",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI is backing a bipartisan effort in Congress to block China’s access to artificial intelligence chips and curb China’s access to chipmaking equipment, adding support to legislation gaining momentum after the scandal that toppled Jensen Huang as Nvidia Corp.’s chief executive officer.",
+      "author_name": "pretext"
+    },
+    {
+      "id": "50477704",
+      "title": "Anthropic carelessly killed a Claude Code feature users built on, no warning",
+      "url": "https://github.com/anthropics/claude-code/issues/109446",
+      "summary": "Regression: 2.1.323 silently removed subagentStatusLine, with no reason, no replacement and no migration path What happened The 2.1.323 changelog says: Removed the subagentStatusLine setting: subagent rows always use the default look, an...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T03:13:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 57,
+      "author": "rezzminator",
+      "likes": 26,
+      "views": 7,
+      "retweets": 0,
+      "text": "Regression: 2.1.323 silently removed subagentStatusLine, with no reason, no replacement and no migration path What happened The 2.1.323 changelog says: Removed the subagentStatusLine setting: subagent rows always use the default look, an...",
+      "author_name": "rezzminator"
+    },
+    {
+      "id": "50477479",
+      "title": "Notion AI chat transcripts exposed in Fireworks AI breach",
+      "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "Updated version: 12 November 2026. This post informs you about the recent Fireworks AI Incident and how it’s impacting &lt;1% of Notion workspaces. For the latest on the Fireworks AI incident, please see their official updates here. We have contacted our customers who were affected by the Fireworks incident. If you hav…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-13T02:49:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "fourfire",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Updated version: 12 November 2026. This post informs you about the recent Fireworks AI Incident and how it’s impacting &lt;1% of Notion workspaces. For the latest on the Fireworks AI incident, please see their official updates here. We have contacted our customers who were affected by the Fireworks incident. If you hav…",
+      "author_name": "fourfire"
     },
     {
       "id": "50474571",
@@ -64,106 +264,6 @@
       "author_name": "mfiguiere"
     },
     {
-      "id": "50472869",
-      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-      "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-12T19:29:33Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "noorsimar",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions.",
-      "author_name": "noorsimar"
-    },
-    {
-      "id": "50471658",
-      "title": "Air-LLM: Broadcasting AI Weights for Edge LLM Inference via RF Computing",
-      "url": "https://arxiv.org/abs/2610.00465",
-      "summary": "Abstract page for arXiv paper 2610.00465: AIR-LLM: Broadcasting AI Weights over Radio for Memory-Free Edge LLM Inference via RF Computing",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-12T18:16:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "nolist_policy",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2610.00465: AIR-LLM: Broadcasting AI Weights over Radio for Memory-Free Edge LLM Inference via RF Computing",
-      "author_name": "nolist_policy"
-    },
-    {
-      "id": "50471602",
-      "title": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming",
-      "url": "https://alignment.openai.com/fuzzy-robustness/",
-      "summary": "We study how to improve model robustness in high-stakes domains such as cyber and biology, where many tasks are dual-use and misuse can cause significant harm.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-12T18:13:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "Klaster_1",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "We study how to improve model robustness in high-stakes domains such as cyber and biology, where many tasks are dual-use and misuse can cause significant harm.",
-      "author_name": "Klaster_1"
-    },
-    {
-      "id": "50470596",
-      "title": "OpenIGI: WebGPU independent reimplementation of Project IGI",
-      "url": "https://github.com/openigi/openigi",
-      "summary": "A clean-room reimplementation of the Project I.G.I. and I.G.I. 2 engine in C#/.NET 10. It plays the original missions faithfully, with a modern renderer (D3D12, Vulkan, WebGPU, ray tracing, DLSS), co-op, mods and a launcher. - OpenIGI/OpenIGI",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-12T17:08:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "napsternxg",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "A clean-room reimplementation of the Project I.G.I. and I.G.I. 2 engine in C#/.NET 10. It plays the original missions faithfully, with a modern renderer (D3D12, Vulkan, WebGPU, ray tracing, DLSS), co-op, mods and a launcher. - OpenIGI/OpenIGI",
-      "author_name": "napsternxg"
-    },
-    {
-      "id": "50468554",
-      "title": "Today we're launching Petrichor (YC F26), a wet lab for frontier AI labs",
-      "url": "https://twitter.com/Petrichorbios/status/2120290803419639914",
-      "summary": "Today we&#x27;re launching Petrichor (YC F26), a wet lab for frontier AI labs. We run experiments in parallel and return the data from every step.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-12T15:05:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "hentrep",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Today we&#x27;re launching Petrichor (YC F26), a wet lab for frontier AI labs. We run experiments in parallel and return the data from every step.",
-      "author_name": "hentrep"
-    },
-    {
       "id": "50465984",
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "url": "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
@@ -182,46 +282,6 @@
       "retweets": 0,
       "text": "Oura announces plans to acquire Counsel Health, connecting continuous biometric insights with AI-native primary care and on-demand physicians.",
       "author_name": "FemTech_AI"
-    },
-    {
-      "id": "50463856",
-      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
-      "url": "https://alignment.anthropic.com/2026/worse-together/",
-      "summary": "Anthropic Fellows Blog: When several users each delegate to their own agent and those agents share a resource, group outcomes are worse than when one agent serves everyone, and the agents show problematic behaviors that vary by model and environment.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-12T06:48:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "matt_d",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic Fellows Blog: When several users each delegate to their own agent and those agents share a resource, group outcomes are worse than when one agent serves everyone, and the agents show problematic behaviors that vary by model and environment.",
-      "author_name": "matt_d"
-    },
-    {
-      "id": "50457079",
-      "title": "Access models for security and safety work that mainstream AI often refuses",
-      "url": "https://abliteration.ai/platform",
-      "summary": "Model APIs for security research, AI safety, defense, and trust & safety. Run sensitive workloads with policies your organization defines.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-11T18:56:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "oriettaxx",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Model APIs for security research, AI safety, defense, and trust & safety. Run sensitive workloads with policies your organization defines.",
-      "author_name": "oriettaxx"
     },
     {
       "id": "50250462",
