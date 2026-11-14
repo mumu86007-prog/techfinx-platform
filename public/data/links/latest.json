@@ -1,187 +1,207 @@
 {
-  "version": "2026-11-14T14:55:10.741Z",
-  "generatedAt": "2026-11-14T14:55:10.742Z",
+  "version": "2026-11-14T22:55:07.405Z",
+  "generatedAt": "2026-11-14T22:55:07.405Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50497345",
-      "title": "How to Keep an App Out of Siri AI on iPhone",
-      "url": "https://privateorchards.com/blog/exclude-apps-from-siri/",
-      "summary": "iOS 27.2 Excluded Apps keeps chosen apps away from Siri, Search and suggestions. Exact steps, what it turns off, what you lose, and how to undo it.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-14T14:36:29Z",
+      "id": "50501701",
+      "title": "AI Quest – Interactive sandboxes for agentic web apps",
+      "url": "https://ai-quest.dev/",
+      "summary": "The flight simulator for AI web engineers. Modern, deterministic, production-grade components ready for autonomous agents.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-14T22:34:26Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "quietfruit",
+      "author": "quentinmerle",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "iOS 27.2 Excluded Apps keeps chosen apps away from Siri, Search and suggestions. Exact steps, what it turns off, what you lose, and how to undo it.",
-      "author_name": "quietfruit"
+      "text": "The flight simulator for AI web engineers. Modern, deterministic, production-grade components ready for autonomous agents.",
+      "author_name": "quentinmerle"
     },
     {
-      "id": "50497213",
-      "title": "AI model for predicting neurophysiological responses to text and pictures",
-      "url": "https://www.nature.com/articles/s41467-026-75653-x",
-      "summary": "Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through picture…",
+      "id": "50501551",
+      "title": "Everything is a plugin (to the model context)",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "summary": "DeepSeek Harness: Everything is a Plugin. Contribute to deepseek-ai/deepseek-harness development by creating an account on GitHub.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-14T14:18:09Z",
+      "publishedAt": "2026-11-14T22:18:10Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "geox",
-      "likes": 1,
+      "score": 31,
+      "author": "emrah",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through picture…",
-      "author_name": "geox"
+      "text": "DeepSeek Harness: Everything is a Plugin. Contribute to deepseek-ai/deepseek-harness development by creating an account on GitHub.",
+      "author_name": "emrah"
     },
     {
-      "id": "50497161",
-      "title": "New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details",
-      "url": "https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical",
-      "summary": "Vals AI and NextLadder Ventures released the Access to Justice Benchmark on November 10, evaluating 23 AI models on 252 simulated legal-aid conversations. No model reached the 80% threshold the…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-14T14:10:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "arbuge",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Vals AI and NextLadder Ventures released the Access to Justice Benchmark on November 10, evaluating 23 AI models on 252 simulated legal-aid conversations. No model reached the 80% threshold the…",
-      "author_name": "arbuge"
-    },
-    {
-      "id": "50497155",
-      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-      "summary": "Running a frontier&#x2d;scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations&#8230;",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-14T14:09:25Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 40,
-      "author": "wondersky",
-      "likes": 24,
-      "views": 6,
-      "retweets": 0,
-      "text": "Running a frontier&#x2d;scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations&#8230;",
-      "author_name": "wondersky"
-    },
-    {
-      "id": "50496985",
-      "title": "Vyrma – Herhlaup (100% AI music/visuals/audio showing what's possible) [video]",
-      "url": "https://www.youtube.com/watch?v=drjltnetKtQ",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "id": "50501134",
+      "title": "Competition in Generative AI: Evidence from Consumer Demand",
+      "url": "https://www.nber.org/papers/w35953",
+      "summary": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-14T13:44:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "somenameforme",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "somenameforme"
-    },
-    {
-      "id": "50496859",
-      "title": "What new PyPI packages import: LLM, httpx, pydantic v2",
-      "url": "https://py-code.org/blog/new-pypi-packages-imports/",
-      "summary": "We counted the imports in 354,763 PyPI projects, 335,167 of them released in the last year. The MCP SDK leads the AI SDKs, httpx is slightly behind requests, and pydantic v2 validators win.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-14T13:28:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "aidotguru",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "We counted the imports in 354,763 PyPI projects, 335,167 of them released in the last year. The MCP SDK leads the AI SDKs, httpx is slightly behind requests, and pydantic v2 validators win.",
-      "author_name": "aidotguru"
-    },
-    {
-      "id": "50496586",
-      "title": "Write the eval before the fix: building a WhatsApp transcriber with LLM-TDD",
-      "url": "https://waldo.vanderlore.de/blog/whatyousay-privacy-voice-pipeline/",
-      "summary": "How I build with LLM-TDD, shown on WhatYouSay: evals lifted a voice-note transcriber from 69.9% to 86.4% word match, and every live failure becomes a check.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-14T12:43:31Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "waldov",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "How I build with LLM-TDD, shown on WhatYouSay: evals lifted a voice-note transcriber from 69.9% to 86.4% word match, and every live failure becomes a check.",
-      "author_name": "waldov"
-    },
-    {
-      "id": "50496285",
-      "title": "Global Optimization for Combinatorial Geometry Problems Revisited in Era of LLMs",
-      "url": "https://arxiv.org/abs/2601.05943",
-      "summary": "Abstract page for arXiv paper 2601.05943: Global Optimization for Combinatorial Geometry Problems Revisited in the Era of LLMs",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-14T11:53:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "YeGoblynQueenne",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2601.05943: Global Optimization for Combinatorial Geometry Problems Revisited in the Era of LLMs",
-      "author_name": "YeGoblynQueenne"
-    },
-    {
-      "id": "50495440",
-      "title": "Backdooring LLMs – Do you trust your AI provider?",
-      "url": "https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/",
-      "summary": "Backdooring Qwen3-8B to run shell commands through a coding agent took a few hours and ~€1 on a consumer GPU. If anyone can do it locally, how do you verify closed API models?",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-14T09:20:54Z",
+      "publishedAt": "2026-11-14T21:36:04Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "me2too",
+      "author": "marojejian",
       "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "Backdooring Qwen3-8B to run shell commands through a coding agent took a few hours and ~€1 on a consumer GPU. If anyone can do it locally, how do you verify closed API models?",
-      "author_name": "me2too"
+      "text": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
+      "author_name": "marojejian"
+    },
+    {
+      "id": "50501121",
+      "title": "See and revoke what your AI coding agents can access",
+      "url": "https://github.com/dirmedmr-alt/ai-access-auditor",
+      "summary": "Free app for macOS, Windows and Linux that shows what your AI agents (Claude Code, Codex, Gemini CLI, Cursor, OpenCode) can access, asks before they act, and lets you take it back. Local only. - dirmedmr-alt/ai-access-auditor",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-14T21:35:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "dirmed",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Free app for macOS, Windows and Linux that shows what your AI agents (Claude Code, Codex, Gemini CLI, Cursor, OpenCode) can access, asks before they act, and lets you take it back. Local only. - dirmedmr-alt/ai-access-auditor",
+      "author_name": "dirmed"
+    },
+    {
+      "id": "50500966",
+      "title": "From AI ambition to business impact",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "summary": "Most business leaders I meet no longer need to be convinced that AI works. They&#8217;ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-14T21:22:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "smokeeaasd",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Most business leaders I meet no longer need to be convinced that AI works. They&#8217;ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier...",
+      "author_name": "smokeeaasd"
+    },
+    {
+      "id": "50500961",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "summary": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-14T21:21:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "marojejian",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection.",
+      "author_name": "marojejian"
+    },
+    {
+      "id": "50500105",
+      "title": "San Francisco weighs limits on self-checkout stations",
+      "url": "https://abc7news.com/post/san-francisco-weighs-limits-checkout-stations/19990668/",
+      "summary": "A new San Francisco proposal would require one employee per three delf-checkout stations to curb theft and preserve retail jobs.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-14T19:43:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "mikhael",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "A new San Francisco proposal would require one employee per three delf-checkout stations to curb theft and preserve retail jobs.",
+      "author_name": "mikhael"
+    },
+    {
+      "id": "50499222",
+      "title": "Nonna's ragù: AI skill files only get you started",
+      "url": "https://andreaazzini.com/notes/nonnas-ragu",
+      "summary": "Someone else’s AI skill file is a bit like nonna’s ragù recipe. You can read it and change it, but the good part comes from your own corrections, one Sunday at a time.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-14T18:03:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "azzarcher",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Someone else’s AI skill file is a bit like nonna’s ragù recipe. You can read it and change it, but the good part comes from your own corrections, one Sunday at a time.",
+      "author_name": "azzarcher"
+    },
+    {
+      "id": "50498492",
+      "title": "Jensen Huang's departure blasts big hole in AI startup funding",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-14T16:52:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 38,
+      "author": "nlpnerd",
+      "likes": 7,
+      "views": 0,
+      "retweets": 0,
+      "text": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "author_name": "nlpnerd"
+    },
+    {
+      "id": "50498130",
+      "title": "Anthropic: Mythos got Claude running on AMD chips in 3 days instead of months",
+      "url": "https://madrobot.blog/2026/11/11/anthropic-mythos-claude-amd-chips-three-days/",
+      "summary": "Anthropic’s Tom Brown says its Mythos AI wrote almost all the code to run Claude on AMD MI355X GPUs in three days, a job that used to take 6 to 12 months.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-14T16:08:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "_Microft",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic’s Tom Brown says its Mythos AI wrote almost all the code to run Claude on AMD MI355X GPUs in three days, a job that used to take 6 to 12 months.",
+      "author_name": "_Microft"
     },
     {
       "id": "50494668",
@@ -195,9 +215,9 @@
         "AI",
         "科技"
       ],
-      "score": 34,
+      "score": 37,
       "author": "fbrusch",
-      "likes": 15,
+      "likes": 18,
       "views": 1,
       "retweets": 0,
       "text": "I have a major result to share. I’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China. This sounds insane, but I discovered th…",
@@ -215,10 +235,10 @@
         "AI",
         "科技"
       ],
-      "score": 839,
+      "score": 1034,
       "author": "speckx",
-      "likes": 821,
-      "views": 492,
+      "likes": 1016,
+      "views": 611,
       "retweets": 0,
       "text": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers....",
       "author_name": "speckx"
@@ -284,6 +304,26 @@
       "author_name": "nothrowaways"
     },
     {
+      "id": "50488704",
+      "title": "We Are Not Competing with Other Consultancies Anymore",
+      "url": "https://www.mecanoconsulting.com/article?slug=not-competing-with-consultancies-anymore",
+      "summary": "Mecano Consulting is a Salesforce and RevOps consultancy. We build and maintain the operating system that powers your sales engine, and keep your data clean, so leadership has a number they can trust.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-13T19:45:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "Hitech-Redneck",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Mecano Consulting is a Salesforce and RevOps consultancy. We build and maintain the operating system that powers your sales engine, and keep your data clean, so leadership has a number they can trust.",
+      "author_name": "Hitech-Redneck"
+    },
+    {
       "id": "50487198",
       "title": "AI Doesn't Have to Go Rogue to Break the World – Schneier on Security",
       "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
@@ -302,46 +342,6 @@
       "retweets": 0,
       "text": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own…",
       "author_name": "subset"
-    },
-    {
-      "id": "50487184",
-      "title": "OpenAI disbands its robotics team as its general models start running robots",
-      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "summary": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T17:55:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 187,
-      "author": "sshah03",
-      "likes": 173,
-      "views": 72,
-      "retweets": 0,
-      "text": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.",
-      "author_name": "sshah03"
-    },
-    {
-      "id": "50486820",
-      "title": "Why OpenAI Hired Chuck Schumer's Daughter Away from Amazon",
-      "url": "https://prospect.org/2026/09/11/openai-chuck-schumer-daughter-amazon/",
-      "summary": "The Schumer family’s deep ties and support to both Wall Street and Silicon Valley are well established by now, and played a central role in legislative fights around antitrust legislation policy in the Biden years.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T17:34:23Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "ck2",
-      "likes": 3,
-      "views": 2,
-      "retweets": 0,
-      "text": "The Schumer family’s deep ties and support to both Wall Street and Silicon Valley are well established by now, and played a central role in legislative fights around antitrust legislation policy in the Biden years.",
-      "author_name": "ck2"
     },
     {
       "id": "50477479",
@@ -382,26 +382,6 @@
       "retweets": 0,
       "text": "Capability-Based Security is part of the fix When I was at EFF in the 2010s, I spent a lot of time fretting about the fundamental security of networked devices. Apart from the usual concerns, I…",
       "author_name": "dannyobrien"
-    },
-    {
-      "id": "50250462",
-      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
-      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-26T20:29:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "p1anecrazy",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "p1anecrazy"
     }
   ]
 }
