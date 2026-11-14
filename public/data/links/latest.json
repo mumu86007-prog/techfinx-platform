@@ -1,8 +1,248 @@
 {
-  "version": "2026-11-13T16:02:18.907Z",
-  "generatedAt": "2026-11-13T16:02:18.907Z",
+  "version": "2026-11-14T00:16:57.514Z",
+  "generatedAt": "2026-11-14T00:16:57.515Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "50491753",
+      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
+      "url": "https://github.com/mjha-arya/DOC-foundry",
+      "summary": "Adversarial multi-agent detection engineering: Blue authors Sigma rules, Red attacks them, a deterministic referee proves coverage, and a stakeholder review chain ships the rule with its review trail. - mjha-arya/DOC-foundry",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T23:40:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "manish121",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Adversarial multi-agent detection engineering: Blue authors Sigma rules, Red attacks them, a deterministic referee proves coverage, and a stakeholder review chain ships the rule with its review trail. - mjha-arya/DOC-foundry",
+      "author_name": "manish121"
+    },
+    {
+      "id": "50491344",
+      "title": "Drones over UK skies: US Air Force launches urgent response",
+      "url": "https://www.express.co.uk/news/uk/2266117/drones-uk-skies-us",
+      "summary": "A spokesperson for the US Air Force confirmed personnel responded to suspected unauthorised drone activity over RAF Lakenheath",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-13T22:58:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "irthomasthomas",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "A spokesperson for the US Air Force confirmed personnel responded to suspected unauthorised drone activity over RAF Lakenheath",
+      "author_name": "irthomasthomas"
+    },
+    {
+      "id": "50491277",
+      "title": "QuAIA: An open-source team of AI agents that handles the whole test process",
+      "url": "https://quaia.dev/",
+      "summary": "QuAIA is an open-source team of AI agents that handles the whole test process from requirement to test report: connected to your ticket and test management systems, without test scripts, in your own infrastructure.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T22:53:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "partarstu",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "QuAIA is an open-source team of AI agents that handles the whole test process from requirement to test report: connected to your ticket and test management systems, without test scripts, in your own infrastructure.",
+      "author_name": "partarstu"
+    },
+    {
+      "id": "50491232",
+      "title": "Ground stop ordered for all airports nationwide for 'reasons of safety'",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "summary": "Much of the air traffic across the U.S. was suddenly shut down Friday after the Federal Aviation Administration ordered a nationwide ground stop for all departing flights “due to extraordinary circumstances and for reasons of safety.”",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-13T22:49:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "goryramsy",
+      "likes": 6,
+      "views": 1,
+      "retweets": 0,
+      "text": "Much of the air traffic across the U.S. was suddenly shut down Friday after the Federal Aviation Administration ordered a nationwide ground stop for all departing flights “due to extraordinary circumstances and for reasons of safety.”",
+      "author_name": "goryramsy"
+    },
+    {
+      "id": "50491077",
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+      "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T22:38:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "waximabbax",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure.",
+      "author_name": "waximabbax"
+    },
+    {
+      "id": "50490281",
+      "title": "Warning of interruptions as AI models by Anthropic, OpenAI and others evolve",
+      "url": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
+      "summary": "The regulator that oversees Australia&#x27;s banks, super funds and insurers will run &quot;stress tests&quot; to examine hypothetical doomsday scenarios linked to AI, warning that firms are unprepared.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T21:44:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "nothrowaways",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The regulator that oversees Australia&#x27;s banks, super funds and insurers will run &quot;stress tests&quot; to examine hypothetical doomsday scenarios linked to AI, warning that firms are unprepared.",
+      "author_name": "nothrowaways"
+    },
+    {
+      "id": "50489631",
+      "title": "Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+      "url": "https://twitter.com/willdepue/status/2120992457630326841",
+      "summary": "I have a major result to share. I’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China. This sounds insane, but I discovered th…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T21:05:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "riccardomc",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "I have a major result to share. I’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China. This sounds insane, but I discovered th…",
+      "author_name": "riccardomc"
+    },
+    {
+      "id": "50489510",
+      "title": "Rainshare: Mutual aid for AI coding plans and usage limits",
+      "url": "https://rainshare.dev/",
+      "summary": "People post ideas and projects they want help with. Pick one and send your own AI agent to do the work, with what’s left on your plan before it resets.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T20:54:38Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "icy",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "People post ideas and projects they want help with. Pick one and send your own AI agent to do the work, with what’s left on your plan before it resets.",
+      "author_name": "icy"
+    },
+    {
+      "id": "50488704",
+      "title": "We Are Not Competing with Other Consultancies Anymore",
+      "url": "https://www.mecanoconsulting.com/article?slug=not-competing-with-consultancies-anymore",
+      "summary": "Mecano Consulting is a Salesforce and RevOps consultancy. We build and maintain the operating system that powers your sales engine, and keep your data clean, so leadership has a number they can trust.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-13T19:45:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "Hitech-Redneck",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Mecano Consulting is a Salesforce and RevOps consultancy. We build and maintain the operating system that powers your sales engine, and keep your data clean, so leadership has a number they can trust.",
+      "author_name": "Hitech-Redneck"
+    },
+    {
+      "id": "50487198",
+      "title": "AI Doesn't Have to Go Rogue to Break the World – Schneier on Security",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
+      "summary": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own…",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-13T17:56:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "subset",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own…",
+      "author_name": "subset"
+    },
+    {
+      "id": "50487184",
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "summary": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T17:55:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 153,
+      "author": "sshah03",
+      "likes": 139,
+      "views": 62,
+      "retweets": 0,
+      "text": "OpenAI moved its robotics researchers onto other teams representing new thinking about the best way to build general-purpose robots.",
+      "author_name": "sshah03"
+    },
+    {
+      "id": "50486820",
+      "title": "Why OpenAI Hired Chuck Schumer's Daughter Away from Amazon",
+      "url": "https://prospect.org/2026/09/11/openai-chuck-schumer-daughter-amazon/",
+      "summary": "The Schumer family’s deep ties and support to both Wall Street and Silicon Valley are well established by now, and played a central role in legislative fights around antitrust legislation policy in the Biden years.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-13T17:34:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "ck2",
+      "likes": 3,
+      "views": 2,
+      "retweets": 0,
+      "text": "The Schumer family’s deep ties and support to both Wall Street and Silicon Valley are well established by now, and played a central role in legislative fights around antitrust legislation policy in the Biden years.",
+      "author_name": "ck2"
+    },
     {
       "id": "50485334",
       "title": "Anthropic refusing to take money from Chinese Firms in IPO",
@@ -15,53 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 20,
       "author": "htrp",
-      "likes": 1,
+      "likes": 2,
       "views": 2,
       "retweets": 0,
       "text": "Institutional investors based in mainland China and Hong Kong have been excluded from placing orders in Anthropic PBC’s initial public offering, according to people familiar with the matter, highlighting the sensitivities around an industry both Washington and Beijing consider strategic.",
       "author_name": "htrp"
-    },
-    {
-      "id": "50484976",
-      "title": "Weebit Nano In-Memory Compute ReRAM Silicon Kit for AI Inference [video]",
-      "url": "https://www.youtube.com/watch?v=Epqh1L0nOjA",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-13T15:30:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "ilaksh",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "ilaksh"
-    },
-    {
-      "id": "50484303",
-      "title": "ModelMesh – Native macOS app to shard models across Macs via Llama-RPC",
-      "url": "https://modelmesh.app/",
-      "summary": "Native AppKit macOS app for managing local llama-server instances and sharding GGUF models across Apple Silicon Macs via llama-rpc and Thunderbolt 5 RDMA.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T14:47:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "jasonhurt",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Native AppKit macOS app for managing local llama-server instances and sharding GGUF models across Apple Silicon Macs via llama-rpc and Thunderbolt 5 RDMA.",
-      "author_name": "jasonhurt"
     },
     {
       "id": "50484110",
@@ -75,153 +275,13 @@
         "AI",
         "科技"
       ],
-      "score": 40,
+      "score": 45,
       "author": "robin_reala",
-      "likes": 26,
-      "views": 55,
+      "likes": 31,
+      "views": 70,
       "retweets": 0,
       "text": "Some in the medical community aren&#x27;t so certain that AI will cure cancer and Alzheimer&#x27;s in the next decade, as Anthropic CEO Dario Amodei predicted.",
       "author_name": "robin_reala"
-    },
-    {
-      "id": "50483930",
-      "title": "I built a tool to find local LLMs that fit your hardware",
-      "url": "https://thinkidiot.com/tools/local-model-finder",
-      "summary": "Find open language models for your laptop or GPU. Compare estimated memory, context limits, published benchmark scores and exact model downloads.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T14:23:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "reachsumit",
-      "likes": 3,
-      "views": 3,
-      "retweets": 0,
-      "text": "Find open language models for your laptop or GPU. Compare estimated memory, context limits, published benchmark scores and exact model downloads.",
-      "author_name": "reachsumit"
-    },
-    {
-      "id": "50483797",
-      "title": "Spend Management: Spending limits and alerts for Cloudflare",
-      "url": "https://blog.cloudflare.com/spend-management/",
-      "summary": "Spend Management adds opt-in spending caps for Workers and Durable Objects, and more products soon. Here&#39;s how we built it.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-13T14:14:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "jilles",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Spend Management adds opt-in spending caps for Workers and Durable Objects, and more products soon. Here&#39;s how we built it.",
-      "author_name": "jilles"
-    },
-    {
-      "id": "50483733",
-      "title": "OpenAI Codex Helps Fix a Nearly 20 Year Old Radeon Linux Driver Bug",
-      "url": "https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5",
-      "summary": "Sent out today was the latest batch of AMD kernel graphics/compute driver patches destined for the Linux 7.5 merge window opening up at year&#039;s end/ Besides a lot of fixes and continued work around new IP enablement for upcoming GPUs, there is even a fix for old ATI/AMD Radeon R600 era hardware after help from Open…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T14:10:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "waximabbax",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Sent out today was the latest batch of AMD kernel graphics/compute driver patches destined for the Linux 7.5 merge window opening up at year&#039;s end/ Besides a lot of fixes and continued work around new IP enablement for upcoming GPUs, there is even a fix for old ATI/AMD Radeon R600 era hardware after help from Open…",
-      "author_name": "waximabbax"
-    },
-    {
-      "id": "50480791",
-      "title": "OpenAI prompt that led to the ETH refutation",
-      "url": "https://ethdiscussion.blog/2026/11/12/openai-prompt-that-led-to-the-eth-refutation/",
-      "summary": "OpenAI has shared the prompt that led to the ETH refutation and agreed to release it publicly. Here is the prompt. Research an unconditional refutation of the deterministic Strong Exponential Time Hypothesis (SETH). Seek a new, rigorous mathematical result; do not assume a refutation exists or present an incomplete arg…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T09:39:52Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 21,
-      "author": "artninja1988",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI has shared the prompt that led to the ETH refutation and agreed to release it publicly. Here is the prompt. Research an unconditional refutation of the deterministic Strong Exponential Time Hypothesis (SETH). Seek a new, rigorous mathematical result; do not assume a refutation exists or present an incomplete arg…",
-      "author_name": "artninja1988"
-    },
-    {
-      "id": "50479688",
-      "title": "Forensic evidence Chinese AI labs built their newest models on Nvidia Blackwell",
-      "url": "https://twitter.com/willdepue/status/2120992457630326841",
-      "summary": "I have a major result to share. I’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China. This sounds insane, but I discovered th…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T07:36:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 25,
-      "author": "oger",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "I have a major result to share. I’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China. This sounds insane, but I discovered th…",
-      "author_name": "oger"
-    },
-    {
-      "id": "50479648",
-      "title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures",
-      "summary": "OpenAI is backing a bipartisan effort in Congress to block China’s access to artificial intelligence chips and curb China’s access to chipmaking equipment, adding support to legislation gaining momentum after the scandal that toppled Jensen Huang as Nvidia Corp.’s chief executive officer.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T07:31:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "pretext",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI is backing a bipartisan effort in Congress to block China’s access to artificial intelligence chips and curb China’s access to chipmaking equipment, adding support to legislation gaining momentum after the scandal that toppled Jensen Huang as Nvidia Corp.’s chief executive officer.",
-      "author_name": "pretext"
-    },
-    {
-      "id": "50477704",
-      "title": "Anthropic carelessly killed a Claude Code feature users built on, no warning",
-      "url": "https://github.com/anthropics/claude-code/issues/109446",
-      "summary": "Regression: 2.1.323 silently removed subagentStatusLine, with no reason, no replacement and no migration path What happened The 2.1.323 changelog says: Removed the subagentStatusLine setting: subagent rows always use the default look, an...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T03:13:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 57,
-      "author": "rezzminator",
-      "likes": 26,
-      "views": 7,
-      "retweets": 0,
-      "text": "Regression: 2.1.323 silently removed subagentStatusLine, with no reason, no replacement and no migration path What happened The 2.1.323 changelog says: Removed the subagentStatusLine setting: subagent rows always use the default look, an...",
-      "author_name": "rezzminator"
     },
     {
       "id": "50477479",
@@ -244,24 +304,24 @@
       "author_name": "fourfire"
     },
     {
-      "id": "50474571",
-      "title": "Comparing Jev, Gemini, and OpenAI decision models",
-      "url": "https://blog.slopcop.com/comparing-jev-gemini-and-openai-decision-models/",
-      "summary": "One of the ways that Mjolnir makes your agents smarter is by delivering relevant github events to them so they stay looped in to what&#x27;s happening with the rest of the team. Some of these can be done deterministically: activity on your own issues or PRs (second entry from",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-12T21:29:57Z",
+      "id": "50468058",
+      "title": "AI Security Issues Are Social Engineering Issues",
+      "url": "https://www.oblomovka.com/wp/2026/11/11/ai-security-issues-are-social-engineering-issues/",
+      "summary": "Capability-Based Security is part of the fix When I was at EFF in the 2010s, I spent a lot of time fretting about the fundamental security of networked devices. Apart from the usual concerns, I…",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-12T14:40:40Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 20,
-      "author": "mfiguiere",
-      "likes": 1,
+      "score": 19,
+      "author": "dannyobrien",
+      "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "One of the ways that Mjolnir makes your agents smarter is by delivering relevant github events to them so they stay looped in to what&#x27;s happening with the rest of the team. Some of these can be done deterministically: activity on your own issues or PRs (second entry from",
-      "author_name": "mfiguiere"
+      "text": "Capability-Based Security is part of the fix When I was at EFF in the 2010s, I spent a lot of time fretting about the fundamental security of networked devices. Apart from the usual concerns, I…",
+      "author_name": "dannyobrien"
     },
     {
       "id": "50465984",
