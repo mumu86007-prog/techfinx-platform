@@ -1,47 +1,147 @@
 {
-  "version": "2026-11-15T15:32:23.628Z",
-  "generatedAt": "2026-11-15T15:32:23.628Z",
+  "version": "2026-11-15T23:21:31.863Z",
+  "generatedAt": "2026-11-15T23:21:31.863Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50507449",
-      "title": "FlashVMM – jail your AI agent in a MicroVM that boots in 18 ms",
-      "url": "https://flashvmm.com/",
-      "summary": "FlashVMM is the sandbox for AI runs on macOS, Windows and Linux: every agent task gets its own FlashVM, claimed warm in milliseconds and thrown away when it ends.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-15T15:09:19Z",
+      "id": "50511793",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "summary": "Following revelations about Jensen Huang’s relationship with a suspected Chinese spy Congress wants to crack down on exports of AI chips.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-15T22:58:04Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "waximabbax",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Following revelations about Jensen Huang’s relationship with a suspected Chinese spy Congress wants to crack down on exports of AI chips.",
+      "author_name": "waximabbax"
+    },
+    {
+      "id": "50511609",
+      "title": "Improve perception in robots by building around the optics instead",
+      "url": "https://opdo.ai/insights/how-to-design-camera-data-center-robot",
+      "summary": "A robot head camera has to see a whole server rack and read a 2 mm status LED. A 127° stereo pair and a 30.5° color camera share the job, and an 850 nm dot projector cuts the worst depth errors by more than three times.",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-11-15T22:36:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "convolutedsoup",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A robot head camera has to see a whole server rack and read a 2 mm status LED. A 127° stereo pair and a 30.5° color camera share the job, and an 850 nm dot projector cuts the worst depth errors by more than three times.",
+      "author_name": "convolutedsoup"
+    },
+    {
+      "id": "50511606",
+      "title": "Thales unveils software protection against AI-led reverse engineering",
+      "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
+      "summary": "Thales has launched Sentinel Envelope Plus, a software protection add-on designed to make compiled applications more difficult for artificial intelligence",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-15T22:35:38Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "wovoro",
+      "author": "tommyage",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "FlashVMM is the sandbox for AI runs on macOS, Windows and Linux: every agent task gets its own FlashVM, claimed warm in milliseconds and thrown away when it ends.",
-      "author_name": "wovoro"
+      "text": "Thales has launched Sentinel Envelope Plus, a software protection add-on designed to make compiled applications more difficult for artificial intelligence",
+      "author_name": "tommyage"
     },
     {
-      "id": "50507392",
-      "title": "PyPI code that breaks on Python 3.12 and 3.13",
-      "url": "https://py-code.org/blog/removed-stdlib-modules-pypi/",
-      "summary": "3,763 PyPI projects import a module removed in Python 3.12 or 3.13, such as distutils, imp or cgi, and 1,623 of them have imports that would fail. Most of the failing ones that are widely downloaded have had no release in two years.",
+      "id": "50511508",
+      "title": "Technocracy, AI, and the End of the World",
+      "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
+      "summary": "Reviewing a trio of books by a sextet of ruling-class ideologues, Mathias Fuelling finds an ambient anxiety hanging over a perceived crisis in American capitalism, with visions of bolstering a Silicon Valley-led technocracy fueled by AI investment reflecting American fears over the dawn of a &quot;Chinese Century.&quot…",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-15T14:59:38Z",
+      "publishedAt": "2026-11-15T22:27:07Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "aidotguru",
+      "score": 18,
+      "author": "paimapi",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Reviewing a trio of books by a sextet of ruling-class ideologues, Mathias Fuelling finds an ambient anxiety hanging over a perceived crisis in American capitalism, with visions of bolstering a Silicon Valley-led technocracy fueled by AI investment reflecting American fears over the dawn of a &quot;Chinese Century.&quot…",
+      "author_name": "paimapi"
+    },
+    {
+      "id": "50510872",
+      "title": "LLM Releases, Token Limits, and Pricing Since GPT 3.5",
+      "url": "https://www.metemorris.com/posts/tokenomics/",
+      "summary": "Explore interactive charts of LLM release cadence, input and output token limits, context windows, and API launch prices across five US labs from 2022 to 2026.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-15T21:18:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "metemo",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "3,763 PyPI projects import a module removed in Python 3.12 or 3.13, such as distutils, imp or cgi, and 1,623 of them have imports that would fail. Most of the failing ones that are widely downloaded have had no release in two years.",
-      "author_name": "aidotguru"
+      "text": "Explore interactive charts of LLM release cadence, input and output token limits, context windows, and API launch prices across five US labs from 2022 to 2026.",
+      "author_name": "metemo"
+    },
+    {
+      "id": "50509938",
+      "title": "First pre-2020 long-form writing detected as 100% AI by Pangram",
+      "url": "https://twitter.com/max_spero_/status/2122032840204226687",
+      "summary": "I regret to inform you all that we have found our first long false positive from 2006 it&#x27;s a poem where the same 6 words are repeated four thousand times",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-15T19:38:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "signorovitch",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "I regret to inform you all that we have found our first long false positive from 2006 it&#x27;s a poem where the same 6 words are repeated four thousand times",
+      "author_name": "signorovitch"
+    },
+    {
+      "id": "50509844",
+      "title": "Cloudflare Has Hard Spend Limits for Workers",
+      "url": "https://blog.cloudflare.com/spend-management/",
+      "summary": "Spend Management adds opt-in spending caps for Workers and Durable Objects, and more products soon. Here&#39;s how we built it.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-15T19:26:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "edot",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Spend Management adds opt-in spending caps for Workers and Durable Objects, and more products soon. Here&#39;s how we built it.",
+      "author_name": "edot"
     },
     {
       "id": "50507199",
@@ -64,26 +164,6 @@
       "author_name": "882542F3884314B"
     },
     {
-      "id": "50507198",
-      "title": "Anatomy of a trojan: backdooring an LLM by editing few dormant neurons",
-      "url": "https://int8.io/implanting-ai-with-lazarus/",
-      "summary": "No malware, just 10 altered neurons. A technical deep dive into the Lazarus AI Trojan, showing how attackers mathematically hide backdoors in open LLMs.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-15T14:31:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "int8blog",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "No malware, just 10 altered neurons. A technical deep dive into the Lazarus AI Trojan, showing how attackers mathematically hide backdoors in open LLMs.",
-      "author_name": "int8blog"
-    },
-    {
       "id": "50506796",
       "title": "Europa, the EU's open AI model, is aiming for nearly 1T parameters",
       "url": "https://maccus.fr/en/eu-open-ai-model-europa/",
@@ -104,26 +184,6 @@
       "author_name": "mstkllah"
     },
     {
-      "id": "50506111",
-      "title": "Can LLMs redesign themselves as they train?",
-      "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train",
-      "summary": "doubleAI puts an AI agent inside a neural network’s training run, where it redesigns the network as it learns. On CLRS-Text, accuracy rose from 55% to 84%.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-15T11:28:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "NeuralOracle",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "doubleAI puts an AI agent inside a neural network’s training run, where it redesigns the network as it learns. On CLRS-Text, accuracy rose from 55% to 84%.",
-      "author_name": "NeuralOracle"
-    },
-    {
       "id": "50505905",
       "title": "Jensen Huang allegedly manufactured the GPU shortage",
       "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
@@ -135,33 +195,13 @@
         "AI",
         "科技"
       ],
-      "score": 57,
+      "score": 75,
       "author": "bobsoap",
-      "likes": 41,
-      "views": 33,
+      "likes": 59,
+      "views": 58,
       "retweets": 0,
       "text": "New details reveal that former NVIDIA CEO Jensen Huang used circular financing to fund AI startups and absorb excess TSMC wafers and memory rather than letting GPU prices drop",
       "author_name": "bobsoap"
-    },
-    {
-      "id": "50505240",
-      "title": "From research to reality: Fitting an 11B VLM on a phone",
-      "url": "https://www.graphcore.ai/posts/from-research-to-reality-fitting-an-11b-vlm-on-a-phone",
-      "summary": "Discover how Graphcore and Arm researchers compressed an 11B Llama 3.2 Vision model to 3.7 GB and ran it on an Android phone using S3D8 quantisation.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-15T09:00:52Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "peter_d_sherman",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Discover how Graphcore and Arm researchers compressed an 11B Llama 3.2 Vision model to 3.7 GB and ran it on an Android phone using S3D8 quantisation.",
-      "author_name": "peter_d_sherman"
     },
     {
       "id": "50503888",
@@ -184,66 +224,6 @@
       "author_name": "nate"
     },
     {
-      "id": "50502522",
-      "title": "The AI revolution is leaving younger tech workers behind",
-      "url": "https://twitter.com/KobeissiLetter/status/2121689817301819425",
-      "summary": "The AI revolution is leaving younger tech workers behind: US software developer employment among workers aged 22-25 has fallen -20% since November 2022, when ChatGPT was launched. Over the same period, the 26-30 age group has recorded a -4% decline. By comparison, employment among developers age…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-15T00:18:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "liquid_oil",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "The AI revolution is leaving younger tech workers behind: US software developer employment among workers aged 22-25 has fallen -20% since November 2022, when ChatGPT was launched. Over the same period, the 26-30 age group has recorded a -4% decline. By comparison, employment among developers age…",
-      "author_name": "liquid_oil"
-    },
-    {
-      "id": "50502358",
-      "title": "DeepSeek releases API for its apps along with open source front end",
-      "url": "https://twitter.com/deepseek_ai/status/2121247896918253875",
-      "summary": "🚀 The full DeepSeek App experience, now via API Search, files, links, safety, and voice. The capabilities behind the DeepSeek App are now available through the DeepSeek API. Enable built-in features with a few parameters, or call standalone APIs such as OCR, ASR, and TTS. Build richer conversatio…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-14T23:55:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "rjzzleep",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "🚀 The full DeepSeek App experience, now via API Search, files, links, safety, and voice. The capabilities behind the DeepSeek App are now available through the DeepSeek API. Enable built-in features with a few parameters, or call standalone APIs such as OCR, ASR, and TTS. Build richer conversatio…",
-      "author_name": "rjzzleep"
-    },
-    {
-      "id": "50501972",
-      "title": "The AI graveyard: A running list of projects and startups that didn't make it",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple&#039;s repeatedly delayed Siri AI to OpenAI&#039;s messy &quot;super app&quot; launch, here&#039;s a look at the AI projects that shut down or missed expectations.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-14T23:05:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "jnord",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "From Apple&#039;s repeatedly delayed Siri AI to OpenAI&#039;s messy &quot;super app&quot; launch, here&#039;s a look at the AI projects that shut down or missed expectations.",
-      "author_name": "jnord"
-    },
-    {
       "id": "50501728",
       "title": "A look inside OpenAI's recent Proof of Yang-Mills Existence [video]",
       "url": "https://www.youtube.com/watch?v=s_9sCVqKQjY",
@@ -262,46 +242,6 @@
       "retweets": 0,
       "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "author_name": "HotHotLava"
-    },
-    {
-      "id": "50499222",
-      "title": "Nonna's ragù: AI skill files only get you started",
-      "url": "https://andreaazzini.com/notes/nonnas-ragu",
-      "summary": "Someone else’s AI skill file is a bit like nonna’s ragù recipe. You can read it and change it, but the good part comes from your own corrections, one Sunday at a time.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-14T18:03:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "azzarcher",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Someone else’s AI skill file is a bit like nonna’s ragù recipe. You can read it and change it, but the good part comes from your own corrections, one Sunday at a time.",
-      "author_name": "azzarcher"
-    },
-    {
-      "id": "50498492",
-      "title": "Jensen Huang's departure blasts big hole in AI startup funding",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-14T16:52:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 38,
-      "author": "nlpnerd",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "author_name": "nlpnerd"
     },
     {
       "id": "50498130",
@@ -384,24 +324,64 @@
       "author_name": "waximabbax"
     },
     {
-      "id": "50490281",
-      "title": "Warning of interruptions as AI models by Anthropic, OpenAI and others evolve",
-      "url": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
-      "summary": "The regulator that oversees Australia&#x27;s banks, super funds and insurers will run &quot;stress tests&quot; to examine hypothetical doomsday scenarios linked to AI, warning that firms are unprepared.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-13T21:44:15Z",
+      "id": "50487198",
+      "title": "AI Doesn't Have to Go Rogue to Break the World – Schneier on Security",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
+      "summary": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own…",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-13T17:56:25Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "nothrowaways",
-      "likes": 2,
+      "score": 19,
+      "author": "subset",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "The regulator that oversees Australia&#x27;s banks, super funds and insurers will run &quot;stress tests&quot; to examine hypothetical doomsday scenarios linked to AI, warning that firms are unprepared.",
-      "author_name": "nothrowaways"
+      "text": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own…",
+      "author_name": "subset"
+    },
+    {
+      "id": "50477479",
+      "title": "Notion AI chat transcripts exposed in Fireworks AI breach",
+      "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "Updated version: 12 November 2026. This post informs you about the recent Fireworks AI Incident and how it’s impacting &lt;1% of Notion workspaces. For the latest on the Fireworks AI incident, please see their official updates here. We have contacted our customers who were affected by the Fireworks incident. If you hav…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-13T02:49:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "fourfire",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Updated version: 12 November 2026. This post informs you about the recent Fireworks AI Incident and how it’s impacting &lt;1% of Notion workspaces. For the latest on the Fireworks AI incident, please see their official updates here. We have contacted our customers who were affected by the Fireworks incident. If you hav…",
+      "author_name": "fourfire"
+    },
+    {
+      "id": "50250462",
+      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
+      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-10-26T20:29:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "p1anecrazy",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "p1anecrazy"
     }
   ]
 }
