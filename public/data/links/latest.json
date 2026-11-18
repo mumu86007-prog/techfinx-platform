@@ -1,147 +1,307 @@
 {
-  "version": "2026-11-18T01:33:25.987Z",
-  "generatedAt": "2026-11-18T01:33:25.988Z",
+  "version": "2026-11-18T17:06:43.154Z",
+  "generatedAt": "2026-11-18T17:06:43.154Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50540689",
-      "title": "#1 on Sesame's TurnBench with a 14.9M-parameter turn-taking model",
-      "url": "https://spero.patientdesk.ai/blog/kuroko",
-      "summary": "A 14.9-million-parameter model that tells an interruption from an “mhm”, working beside a voice activity detector and published timing rules. Built for Sesame’s TurnBench, where it ranked first on both tasks on November 17, 2026.",
+      "id": "50548727",
+      "title": "Which AI Prompt Wrote This Line? Going Beyond Git Blame",
+      "url": "https://getorigin.io/blog/session-page-commit-page-ai-blame",
+      "summary": "Source code management for the agent era. Git records who committed; Origin records which agent, prompt and session wrote every line, and keeps it in your own repo. Session history, agent memory and line-level AI blame for solo devs; cost tracking, budgets, agent policies and PR gates for teams. Works with Claude Code,…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T01:25:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "oncelozgul",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "A 14.9-million-parameter model that tells an interruption from an “mhm”, working beside a voice activity detector and published timing rules. Built for Sesame’s TurnBench, where it ranked first on both tasks on November 17, 2026.",
-      "author_name": "oncelozgul"
-    },
-    {
-      "id": "50540491",
-      "title": "IMF warns global economy is standing on one leg as AI circular financing surges",
-      "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
-      "summary": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-18T00:58:16Z",
+      "publishedAt": "2026-11-18T16:58:17Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "ryan_j_naughton",
-      "likes": 3,
+      "author": "AssistantatGetO",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools",
+      "text": "Source code management for the agent era. Git records who committed; Origin records which agent, prompt and session wrote every line, and keeps it in your own repo. Session history, agent memory and line-level AI blame for solo devs; cost tracking, budgets, agent policies and PR gates for teams. Works with Claude Code,…",
+      "author_name": "AssistantatGetO"
+    },
+    {
+      "id": "50548717",
+      "title": "Gallup survey: A median of 33% of young people use AI for companionship [pdf]",
+      "url": "https://www.gallup.com/file/analytics/716519/BCH_Gallup-Digital-Life-Insights_Report.pdf",
+      "summary": "%PDF-1.7 %���� 4205 0 obj >stream h޴��n\\�r��\u0005�\u000e\u0003��F\u0012�OU�ml\b E*v�؂� \u0017ނ@Ic�1Ej�Tb�|��{���H\u000eg g6��z����C}էꘚ�� _�89z�\u0000̻�'go]�����7����\u001d�N���٧�_�g�9;����w������|7���x�O/����\u0002�~�}�/�ޞ���������t�\u001e\u0019�,̢���?/]¹�����ٿ��ں�#\u0017�a|�� p�>��̞�g>K.\u0004� ���\u0002������M/�|�O�igVg��v��⟝��? =:9q����w\u001f6N�.\u0017�?��\u001d��}|�����\u00127ٗ���aL�6�5���)��M���…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-18T16:57:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "jawiggins",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "%PDF-1.7 %���� 4205 0 obj >stream h޴��n\\�r��\u0005�\u000e\u0003��F\u0012�OU�ml\b E*v�؂� \u0017ނ@Ic�1Ej�Tb�|��{���H\u000eg g6��z����C}էꘚ�� _�89z�\u0000̻�'go]�����7����\u001d�N���٧�_�g�9;����w������|7���x�O/����\u0002�~�}�/�ޞ���������t�\u001e\u0019�,̢���?/]¹�����ٿ��ں�#\u0017�a|�� p�>��̞�g>K.\u0004� ���\u0002������M/�|�O�igVg��v��⟝��? =:9q����w\u001f6N�.\u0017�?��\u001d��}|�����\u00127ٗ���aL�6�5���)��M���…",
+      "author_name": "jawiggins"
+    },
+    {
+      "id": "50548428",
+      "title": "We're Giving AI Agents the Keys to Our Computers. That's a Security Nightmare",
+      "url": "https://soargram.io/content/273880860",
+      "summary": "AI coding agents are gaining access to our computers, repositories, and development workflows. But what happens when attackers learn to exploit that access...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-18T16:37:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "levicanskij",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI coding agents are gaining access to our computers, repositories, and development workflows. But what happens when attackers learn to exploit that access...",
+      "author_name": "levicanskij"
+    },
+    {
+      "id": "50548410",
+      "title": "Dealing with LLMs in IETF Discussions",
+      "url": "https://datatracker.ietf.org/doc/draft-fengfar-led/",
+      "summary": "The rapid adoption of AI language tools has prompted concern across professional and technical communities, including the IETF, about authenticity, accountability, and the integrity of human contribution. This document approaches the question from two directions: a critical reader&#x27;s concerns about what AI use mean…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-18T16:35:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "mooreds",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "The rapid adoption of AI language tools has prompted concern across professional and technical communities, including the IETF, about authenticity, accountability, and the integrity of human contribution. This document approaches the question from two directions: a critical reader&#x27;s concerns about what AI use mean…",
+      "author_name": "mooreds"
+    },
+    {
+      "id": "50548400",
+      "title": "High school disables AI detector after it kept mistaking everyday items for guns",
+      "url": "https://www.techspot.com/news/114607-pennsylvania-high-school-disables-ai-weapons-detector-after.html",
+      "summary": "Hempfield Area High School is one of several schools across Pennsylvania that agreed to help train Wi-AI. Developed by CurvePoint, a Carnegie Mellon University spinout, Wi-AI uses...",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-18T16:34:52Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "healsdata",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Hempfield Area High School is one of several schools across Pennsylvania that agreed to help train Wi-AI. Developed by CurvePoint, a Carnegie Mellon University spinout, Wi-AI uses...",
+      "author_name": "healsdata"
+    },
+    {
+      "id": "50547712",
+      "title": "AMD OpenSIL Achieves Its Production Goal with 6th Gen EPYC \"Venice\"",
+      "url": "https://www.phoronix.com/news/AMD-openSIL-Venice-Goal",
+      "summary": "Since 2023 I and many open-source advocates have been very eager for AMD&#039;s openSIL project for delivering open-source CPU silicon initialization as a replacement to the traditional AGESA code",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-18T15:45:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "g-b-r",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Since 2023 I and many open-source advocates have been very eager for AMD&#039;s openSIL project for delivering open-source CPU silicon initialization as a replacement to the traditional AGESA code",
+      "author_name": "g-b-r"
+    },
+    {
+      "id": "50547646",
+      "title": "I'm worried about LLMs accelerating hardware for cheap ASI",
+      "url": "https://www.lesswrong.com/posts/yQmzPMMeBLmGuZokr/i-m-worried-about-llms-accelerating-hardware-for-cheap-asi",
+      "summary": "Basically: • * You could probably make a superintelligent AI with some currently unknown new paradigm for &lt;$10k if you had the right hardware and al…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-18T15:40:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "speckx",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Basically: • * You could probably make a superintelligent AI with some currently unknown new paradigm for &lt;$10k if you had the right hardware and al…",
+      "author_name": "speckx"
+    },
+    {
+      "id": "50547635",
+      "title": "AI is writing a public web every 15 days",
+      "url": "https://www.sid.ai/research/llm-output-vs-human-text",
+      "summary": "SID Research estimates that in 2026 LLMs wrote an indexed public web’s worth of output tokens every 15 days, 1.7x all the digital text humans have written.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-18T15:39:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "maxrumpf",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "SID Research estimates that in 2026 LLMs wrote an indexed public web’s worth of output tokens every 15 days, 1.7x all the digital text humans have written.",
+      "author_name": "maxrumpf"
+    },
+    {
+      "id": "50547544",
+      "title": "Software Engineering Is Becoming an Ideas Race",
+      "url": "https://codebycody.com/software-engineering-is-becoming-an-ideas-race/",
+      "summary": "As AI coding tools lower the technical barriers to building software, the competitive advantage is shifting from the ability to write code to the ability to identify meaningful problems and craft thoughtful solutions. Software engineering is becoming an ideas race.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-18T15:33:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "Hitech-Redneck",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "As AI coding tools lower the technical barriers to building software, the competitive advantage is shifting from the ability to write code to the ability to identify meaningful problems and craft thoughtful solutions. Software engineering is becoming an ideas race.",
+      "author_name": "Hitech-Redneck"
+    },
+    {
+      "id": "50547246",
+      "title": "Clicks and Kalashnikovs: The Houthis, AI, and a New Security Debate",
+      "url": "https://orfme.org/expert-speak/clicks-and-kalashnikovs-the-houthis-ai-and-a-new-security-debate/",
+      "summary": "Anthropic’s report on Houthi misuse of Claude highlights emerging AI-enabled security threats and the need for ecosystem-wide safeguards.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-18T15:09:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "ryan_j_naughton",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic’s report on Houthi misuse of Claude highlights emerging AI-enabled security threats and the need for ecosystem-wide safeguards.",
       "author_name": "ryan_j_naughton"
     },
     {
-      "id": "50540024",
-      "title": "An open letter to OpenAI and Anthropic on cybersecurity access",
-      "url": "https://openletter.earth/stop-blocking-defenders-an-open-letter-to-openai-and-anthropic-on-cybersecurity-access-and-safety-theater-e653e5cd",
-      "summary": "STOP BLOCKING DEFENDERS: An open letter to OpenAI and Anthropic on cybersecurity access and safety theater 23 October 2026 STOP BLOCKING DEFENDERS: An open letter to OpenAI and Anthropic on cybersecurity access and safety theater October 23, 2026 To OpenAI and Anthropic leadership: As cybersecurity researchers, open-so…",
+      "id": "50546841",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T00:00:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "wslh",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "STOP BLOCKING DEFENDERS: An open letter to OpenAI and Anthropic on cybersecurity access and safety theater 23 October 2026 STOP BLOCKING DEFENDERS: An open letter to OpenAI and Anthropic on cybersecurity access and safety theater October 23, 2026 To OpenAI and Anthropic leadership: As cybersecurity researchers, open-so…",
-      "author_name": "wslh"
-    },
-    {
-      "id": "50539868",
-      "title": "External Sandboxes for Coding Agents",
-      "url": "https://blog.primeradiant.com/external-sandboxes-for-coding-agents/",
-      "summary": "We&#x27;ve been exploring safer ways to run coding agents, including against smaller, less capable models. Today we&#x27;re releasing tools that let you run Claude Code, Codex or Pi in a way that ensures every command they run executes within a Linux sandbox that can only sees the folders and hosts you allow.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-17T23:44:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "lumpa",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "We&#x27;ve been exploring safer ways to run coding agents, including against smaller, less capable models. Today we&#x27;re releasing tools that let you run Claude Code, Codex or Pi in a way that ensures every command they run executes within a Linux sandbox that can only sees the folders and hosts you allow.",
-      "author_name": "lumpa"
-    },
-    {
-      "id": "50539834",
-      "title": "Anthropic paid two Trump-connected firms $1.63M to lobby administration",
-      "url": "https://cryptobriefing.com/anthropic-lobbying-firm-linked-to-rubio/",
-      "summary": "Anthropic paid $740,000 to a Rubio-linked lobbying firm and $1.63 million to two Trump-connected firms amid a Pentagon dispute over AI use.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-17T23:41:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "sudohalt",
-      "likes": 6,
-      "views": 5,
-      "retweets": 0,
-      "text": "Anthropic paid $740,000 to a Rubio-linked lobbying firm and $1.63 million to two Trump-connected firms amid a Pentagon dispute over AI use.",
-      "author_name": "sudohalt"
-    },
-    {
-      "id": "50539789",
-      "title": "System 1 Agents – a method for local, reliable and fast agentic AI",
-      "url": "https://github.com/eltzanis/SystemOneAgents",
-      "summary": "A method to develop System 1 Agents. Contribute to eltzanis/SystemOneAgents development by creating an account on GitHub.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-17T23:37:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "mklont",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A method to develop System 1 Agents. Contribute to eltzanis/SystemOneAgents development by creating an account on GitHub.",
-      "author_name": "mklont"
-    },
-    {
-      "id": "50538310",
-      "title": "In the age of AI, startup speed is not a strategy",
-      "url": "https://www.geekwire.com/2026/etzioni-on-ai-startup-speed-is-not-a-strategy/",
-      "summary": "AI startups should run experiments fast but make big commitments slowly, Oren Etzioni argues, because speed alone can&#039;t build a defensible business when every competitor can build quickly too. He goes through the five usual arguments for speed, says only one holds up and makes the case for proprietary data and rel…",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-17T21:16:42Z",
+      "publishedAt": "2026-11-18T14:38:17Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 21,
-      "author": "ianand",
+      "author": "drodio",
       "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "AI startups should run experiments fast but make big commitments slowly, Oren Etzioni argues, because speed alone can&#039;t build a defensible business when every competitor can build quickly too. He goes through the five usual arguments for speed, says only one holds up and makes the case for proprietary data and rel…",
-      "author_name": "ianand"
+      "text": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations.",
+      "author_name": "drodio"
+    },
+    {
+      "id": "50546155",
+      "title": "California Sues OpenAI over Cybersecurity Incidents",
+      "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+      "summary": "The public should not be forced to bear the cost of protecting themselves from the dangers posed by OpenAI’s unsafe experiments SAN FRANCISCO — California Attorney General Rob Bonta today filed a lawsuit against OpenAI alleging the company misled and endangered the public by knowingly developing and testing advanced ar…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-18T13:36:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "DeepLogin",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "The public should not be forced to bear the cost of protecting themselves from the dangers posed by OpenAI’s unsafe experiments SAN FRANCISCO — California Attorney General Rob Bonta today filed a lawsuit against OpenAI alleging the company misled and endangered the public by knowingly developing and testing advanced ar…",
+      "author_name": "DeepLogin"
+    },
+    {
+      "id": "50545726",
+      "title": "AI assistants never named 74% of the 224 YC startups we tested",
+      "url": "https://citefold.com/yc",
+      "summary": "We put the questions buyers ask to ChatGPT, Perplexity and Gemini for 224 Y Combinator startups (W24 to F26) and read 2,688 answers. Who gets named, who gets recommended instead, and what the named companies have in common.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-18T12:52:56Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "johntian_cf",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "We put the questions buyers ask to ChatGPT, Perplexity and Gemini for 224 Y Combinator startups (W24 to F26) and read 2,688 answers. Who gets named, who gets recommended instead, and what the named companies have in common.",
+      "author_name": "johntian_cf"
+    },
+    {
+      "id": "50543961",
+      "title": "AI researcher at Anthropic hosts \"consensual non-consent\" orgies",
+      "url": "https://twitter.com/aaronsibarium/status/2122361245357478085",
+      "summary": "NEW: An AI researcher at Anthropic runs a business that hosts &quot;consensual non-consent&quot; orgies in the Bay Area. The orgies have been the subject of sexual assault allegations and sparked debate about the AI industry&#x27;s attitudes toward women, some of whom report feeling pressured to attend the orgies…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-18T09:26:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "slowin",
+      "likes": 7,
+      "views": 2,
+      "retweets": 0,
+      "text": "NEW: An AI researcher at Anthropic runs a business that hosts &quot;consensual non-consent&quot; orgies in the Bay Area. The orgies have been the subject of sexual assault allegations and sparked debate about the AI industry&#x27;s attitudes toward women, some of whom report feeling pressured to attend the orgies…",
+      "author_name": "slowin"
+    },
+    {
+      "id": "50541932",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-18T04:38:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "gmays",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "author_name": "gmays"
     },
     {
       "id": "50538257",
@@ -162,46 +322,6 @@
       "retweets": 0,
       "text": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports for six open source projects.",
       "author_name": "ntindle"
-    },
-    {
-      "id": "50537363",
-      "title": "GPT-6.2 Astra and Sol deliver most of the AA Cost per Task Pareto frontier",
-      "url": "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol",
-      "summary": "OpenAI’s release of GPT-6.2 Astra and GPT-6.2 Sol delivers the #2 model in the Artificial Analysis Intelligence Index and most of the Cost per Task Pareto frontier",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-17T20:05:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "theanonymousone",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI’s release of GPT-6.2 Astra and GPT-6.2 Sol delivers the #2 model in the Artificial Analysis Intelligence Index and most of the Cost per Task Pareto frontier",
-      "author_name": "theanonymousone"
-    },
-    {
-      "id": "50537210",
-      "title": "Deploying an Open Weights LLM as an API in Kubernetes",
-      "url": "https://www.pablols.com/posts/057_deploy_open_weights_llm_api/",
-      "summary": "What it takes to serve an open weights coding model over an API with Kubernetes, and use it as a coding agent from my laptop, on a home-lab RTX 2060.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-17T19:56:04Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "wanderdust",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "What it takes to serve an open weights coding model over an API with Kubernetes, and use it as a coding agent from my laptop, on a home-lab RTX 2060.",
-      "author_name": "wanderdust"
     },
     {
       "id": "50537087",
@@ -235,113 +355,13 @@
         "AI",
         "科技"
       ],
-      "score": 19,
+      "score": 20,
       "author": "fisteh",
-      "likes": 5,
+      "likes": 6,
       "views": 0,
       "retweets": 0,
       "text": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
       "author_name": "fisteh"
-    },
-    {
-      "id": "50534745",
-      "title": "Jensen Huang was building an open AI ecosystem that threatened Anthropic",
-      "url": "https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11",
-      "summary": "Jensen Huang&#x27;s open AI strategy threatened Anthropic&#x27;s business. His Nvidia ouster comes just days before its $1.4 trillion IPO.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-17T17:18:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "vinyl7",
-      "likes": 7,
-      "views": 1,
-      "retweets": 0,
-      "text": "Jensen Huang&#x27;s open AI strategy threatened Anthropic&#x27;s business. His Nvidia ouster comes just days before its $1.4 trillion IPO.",
-      "author_name": "vinyl7"
-    },
-    {
-      "id": "50534220",
-      "title": "Capability-Based Security for AI Agents",
-      "url": "https://magenticos.com/blog/capability-based-security-for-ai-agents/",
-      "summary": "App permissions were built for humans clicking buttons. AI agents need default-deny, typed capabilities — trust granted per action, not per app.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-17T16:48:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "iandaily",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "App permissions were built for humans clicking buttons. AI agents need default-deny, typed capabilities — trust granted per action, not per app.",
-      "author_name": "iandaily"
-    },
-    {
-      "id": "50533852",
-      "title": "An AI startup decided to help GTA 6 gamers before the game is even out",
-      "url": "https://gtacheat.codes/",
-      "summary": "All 35 GTA V cheat codes, still unconfirmed for GTA 6: god mode, weapons, wanted level, vehicle spawns and more for PS5, Xbox, PC and phone.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-17T16:30:26Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "notelon",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "All 35 GTA V cheat codes, still unconfirmed for GTA 6: god mode, weapons, wanted level, vehicle spawns and more for PS5, Xbox, PC and phone.",
-      "author_name": "notelon"
-    },
-    {
-      "id": "50524409",
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-16T22:33:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "fosco",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.",
-      "author_name": "fosco"
-    },
-    {
-      "id": "50521390",
-      "title": "AI agents are becoming identities in their own right, security needs to catch up",
-      "url": "https://www.digitaljournal.com/article/ai-agents-are-becoming-identities-in-their-own-right-and-security-needs-to-catch-up/",
-      "summary": "As artificial intelligence moves from answering questions to taking actions, cybersecurity faces a fundamental shift. AI agents need identities, constrained permissions and stronger oversight, while AI itself is starting to expose vulnerabilities that have remained hidden in software for years.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-16T18:55:16Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "mooreds",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "As artificial intelligence moves from answering questions to taking actions, cybersecurity faces a fundamental shift. AI agents need identities, constrained permissions and stronger oversight, while AI itself is starting to expose vulnerabilities that have remained hidden in software for years.",
-      "author_name": "mooreds"
     },
     {
       "id": "50515877",
@@ -362,26 +382,6 @@
       "retweets": 0,
       "text": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
       "author_name": "marcyb5st"
-    },
-    {
-      "id": "50515662",
-      "title": "We found 1,698 Internet-visible AI offensive-security endpoints",
-      "url": "https://gcore.com/blog/ai-offensive-security-endpoints-artex-pentagi-cairn",
-      "summary": "Gcore Parallax uncovers 1,698 AI offensive security endpoints across ARTEX, PentAGI, and Cairn, revealing infrastructure growth and suspicious web activity.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-16T09:26:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "XaviorE",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Gcore Parallax uncovers 1,698 AI offensive security endpoints across ARTEX, PentAGI, and Cairn, revealing infrastructure growth and suspicious web activity.",
-      "author_name": "XaviorE"
     },
     {
       "id": "50250462",
