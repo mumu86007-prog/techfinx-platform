@@ -1,167 +1,247 @@
 {
-  "version": "2026-11-19T01:02:41.724Z",
-  "generatedAt": "2026-11-19T01:02:41.725Z",
+  "version": "2026-11-19T17:16:49.366Z",
+  "generatedAt": "2026-11-19T17:16:49.367Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50554641",
-      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-      "summary": "Case focuses on alleged failures surrounding AI systems and impact on students BALTIMORE COUNTY, MD &ndash; Today, the Lawyers&rsquo; Committee for Civil Rights Under Law filed a lawsuit on behalf of four Black current and former students against Omnilert, LLC, Baltimore County Public Schools (BCPS) and personnel, the…",
+      "id": "50562636",
+      "title": "Chrome AI Features Wasting Much Bandwidth",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "summary": "🔎 Finally solved the mystery. At some point this year (around a few months ago), my bandwidth/data usage went thru the roof. Figured out it was Chrome&#039;s...",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-19T00:57:20Z",
+      "publishedAt": "2026-11-19T16:54:25Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "DeepLogin",
-      "likes": 1,
+      "author": "speckx",
+      "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "Case focuses on alleged failures surrounding AI systems and impact on students BALTIMORE COUNTY, MD &ndash; Today, the Lawyers&rsquo; Committee for Civil Rights Under Law filed a lawsuit on behalf of four Black current and former students against Omnilert, LLC, Baltimore County Public Schools (BCPS) and personnel, the…",
-      "author_name": "DeepLogin"
+      "text": "🔎 Finally solved the mystery. At some point this year (around a few months ago), my bandwidth/data usage went thru the roof. Figured out it was Chrome&#039;s...",
+      "author_name": "speckx"
     },
     {
-      "id": "50554588",
-      "title": "AI cannot read between the lines",
-      "url": "https://ajaychavda.com/blog/ai-cannot-read-between-the-lines",
-      "summary": "I attended a meeting with a prospect yesterday and then when the Google Meet transcript arrived I threw it immediately at Gemini.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-19T00:52:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "germanrabbit",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I attended a meeting with a prospect yesterday and then when the Google Meet transcript arrived I threw it immediately at Gemini.",
-      "author_name": "germanrabbit"
-    },
-    {
-      "id": "50554578",
-      "title": "I Cloned Adobe with AI – Brandon Thomas, ArtCraft [video]",
-      "url": "https://www.youtube.com/watch?v=UCL4K36SHp0",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-19T00:51:20Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "krisgenre",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "krisgenre"
-    },
-    {
-      "id": "50554303",
-      "title": "Running distributed ML and AI workloads with wasmCloud (2025)",
-      "url": "https://wasmcloud.com/blog/2025-01-15-running-distributed-ml-and-ai-workloads-with-wasmcloud/",
-      "summary": "Running distributed ML and AI workloads with wasmCloud | wasmCloud Skip to main content wasmCloud Blog Community Docs v2 v2 v1 0.82 Star us! ★ 1500 GitHub Slack Search ← Back Running distributed ML and AI workloads with wasmCloud Bailey Hayes Chief Technology Officer at Cosmonic Caroline Tarbett wasmCloud Contributor J…",
+      "id": "50562582",
+      "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "summary": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
       "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-19T00:22:34Z",
+      "publishedAt": "2026-11-19T16:51:00Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 20,
-      "author": "measurablefunc",
-      "likes": 2,
+      "score": 15,
+      "author": "chillax",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Running distributed ML and AI workloads with wasmCloud | wasmCloud Skip to main content wasmCloud Blog Community Docs v2 v2 v1 0.82 Star us! ★ 1500 GitHub Slack Search ← Back Running distributed ML and AI workloads with wasmCloud Bailey Hayes Chief Technology Officer at Cosmonic Caroline Tarbett wasmCloud Contributor J…",
-      "author_name": "measurablefunc"
+      "text": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
+      "author_name": "chillax"
     },
     {
-      "id": "50554179",
-      "title": "Thomas Nagel says that it's criminal to build AI that feigns consciousness",
-      "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
+      "id": "50562544",
+      "title": "The54 – Europe Cannot Sleep Through the AI Revolution",
+      "url": "https://the54.eu/",
+      "summary": "An open letter from a coalition of 59 leaders from science, technology, and business across EU member states calling for urgent action on AI investment, talent, scale, and competitiveness.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-19T00:08:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "eph0m0ral",
-      "likes": 5,
-      "views": 1,
-      "retweets": 0,
-      "text": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-      "author_name": "eph0m0ral"
-    },
-    {
-      "id": "50554067",
-      "title": "PhantaField Projects $0.42/M Output Tokens in Orbit with White Matter and Sophon",
-      "url": "https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter",
-      "summary": "Switching from a conventional GPU spacecraft to White Matter + Sophon cuts our modeled five-year budget by 12%. The much larger drop from $7.77 to $0.42 per million output tokens depends on how much useful work forty chips can finish in orbit.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T23:56:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "phantafield",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Switching from a conventional GPU spacecraft to White Matter + Sophon cuts our modeled five-year budget by 12%. The much larger drop from $7.77 to $0.42 per million output tokens depends on how much useful work forty chips can finish in orbit.",
-      "author_name": "phantafield"
-    },
-    {
-      "id": "50553878",
-      "title": "Btrfs to Deal with AI and Newbies Without Common Senses More Harm Than Good",
-      "url": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
-      "summary": "The Btrfs file-system could soon see new patch guidelines in Linux Git as the developers try to deal with the fallout from AI/LLMs and &#039;newbies without common senses are doing more harm than help.&#039;",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T23:34:44Z",
+      "publishedAt": "2026-11-19T16:48:27Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "Bender",
-      "likes": 1,
+      "author": "giuliomagnifico",
+      "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "The Btrfs file-system could soon see new patch guidelines in Linux Git as the developers try to deal with the fallout from AI/LLMs and &#039;newbies without common senses are doing more harm than help.&#039;",
-      "author_name": "Bender"
+      "text": "An open letter from a coalition of 59 leaders from science, technology, and business across EU member states calling for urgent action on AI investment, talent, scale, and competitiveness.",
+      "author_name": "giuliomagnifico"
     },
     {
-      "id": "50553625",
-      "title": "Why Amazon might pay billions for Decart",
-      "url": "https://www.geekwire.com/2026/why-amazon-might-pay-billions-for-decart-a-3-year-old-ai-startup-that-hasnt-disclosed-its-revenue/",
-      "summary": "Amazon is in talks to buy Decart for around $7 billion, The Wall Street Journal reported. The startup makes software that helps AI models run faster on different kinds of chips, including Amazon&#039;s Trainium, and has already worked with AWS on its newest chip.",
+      "id": "50562525",
+      "title": "Did the attack work? Auditing AI-agent security benchmark verdicts",
+      "url": "https://zenodo.org/records/24321025",
+      "summary": "AI-agent security benchmarks decide whether an attack succeeded with an automated check, and those verdicts are used to rank models and are often read as…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T23:03:54Z",
+      "publishedAt": "2026-11-19T16:47:14Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 19,
-      "author": "myth_drannon",
+      "score": 18,
+      "author": "gautampatiltube",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI-agent security benchmarks decide whether an attack succeeded with an automated check, and those verdicts are used to rank models and are often read as…",
+      "author_name": "gautampatiltube"
+    },
+    {
+      "id": "50562480",
+      "title": "ChatGPT Helped \"Sadistic\" School Shooter Build 3D-Printed Weapons",
+      "url": "https://www.motherjones.com/media/2026/11/chatgpt-openai-tumbler-ridge-shooting-3d-printed-weapons-magazine/",
+      "summary": "OpenAI’s chatbot fueled the Tumbler Ridge killer’s plans for making gun accessories and torturing victims, our investigation reveals.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T16:44:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "cdrnsf",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "OpenAI’s chatbot fueled the Tumbler Ridge killer’s plans for making gun accessories and torturing victims, our investigation reveals.",
+      "author_name": "cdrnsf"
+    },
+    {
+      "id": "50562292",
+      "title": "Raven Recon – An open-source security research framework with AI agents",
+      "url": "https://github.com/9illcodelli6-cpp69cve/raven-recon",
+      "summary": "Scope-aware recon & AI-assisted security-testing workbench for bug bounty and pentesting. Windows + Kali Linux: desktop app, local web UI, terminal. Claude agent with per-step approval. Authorised testing only. - 9illcodelli6-cpp69cve/raven-recon",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T16:32:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "anonymous_mallw",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Amazon is in talks to buy Decart for around $7 billion, The Wall Street Journal reported. The startup makes software that helps AI models run faster on different kinds of chips, including Amazon&#039;s Trainium, and has already worked with AWS on its newest chip.",
-      "author_name": "myth_drannon"
+      "text": "Scope-aware recon & AI-assisted security-testing workbench for bug bounty and pentesting. Windows + Kali Linux: desktop app, local web UI, terminal. Claude agent with per-step approval. Authorised testing only. - 9illcodelli6-cpp69cve/raven-recon",
+      "author_name": "anonymous_mallw"
+    },
+    {
+      "id": "50561434",
+      "title": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
+      "url": "https://www.youtube.com/watch?v=pyRG_5dCrfg",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T15:32:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "smukherjee19",
+      "likes": 6,
+      "views": 1,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "smukherjee19"
+    },
+    {
+      "id": "50561397",
+      "title": "Switching LLMs mid-conversation is a ski-rental problem",
+      "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem",
+      "summary": "Most LLM routers answer one question: which model should handle this request? For a coding agent that is only half the story. Every switch throws away the prompt cache, so deciding when a session should change model is a ski-rental problem. Self-Learning Routing learns both halves from an organization&#x27;s own sessio…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T15:30:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "gmays",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Most LLM routers answer one question: which model should handle this request? For a coding agent that is only half the story. Every switch throws away the prompt cache, so deciding when a session should change model is a ski-rental problem. Self-Learning Routing learns both halves from an organization&#x27;s own sessio…",
+      "author_name": "gmays"
+    },
+    {
+      "id": "50560461",
+      "title": "OpenAI still has a WebRTC Problem",
+      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+      "summary": "Media over QUIC: Your voice AI keeps asking &quot;can you repeat that?&quot; because WebRTC throws away your words. MoQ dun do that.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T14:20:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 79,
+      "author": "surprisetalk",
+      "likes": 65,
+      "views": 19,
+      "retweets": 0,
+      "text": "Media over QUIC: Your voice AI keeps asking &quot;can you repeat that?&quot; because WebRTC throws away your words. MoQ dun do that.",
+      "author_name": "surprisetalk"
+    },
+    {
+      "id": "50559794",
+      "title": "Artificial: Hollywood's Take on What Happened During the OpenAI Revolt (Trailer) [video]",
+      "url": "https://www.youtube.com/watch?v=OT8J-1DO9Fw",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T13:25:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "mentalgear",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "mentalgear"
+    },
+    {
+      "id": "50558110",
+      "title": "AI security engineering: the same failures, but new ways to attack",
+      "url": "https://zimmergren.net/ai-security-engineering/",
+      "summary": "Reflections on the last year of AI security incidents: new attack techniques, the same failures they keep exploiting, and why AI security engineering is now a core discipline.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-19T09:59:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "zimmergren",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Reflections on the last year of AI security incidents: new attack techniques, the same failures they keep exploiting, and why AI security engineering is now a core discipline.",
+      "author_name": "zimmergren"
+    },
+    {
+      "id": "50557543",
+      "title": "When AI Starts Solving Problems Scientists Couldn't",
+      "url": "https://open.spotify.com/episode/6AcIzPDTkFQoD2t0esNuA9",
+      "summary": "Listen to this episode from AI Brain Trust Weekly on Spotify. Can artificial intelligence contribute to scientific discoveries that have challenged researchers for decades?OpenAI&#x27;s GPT-6 Astra has helped theoretical physicist Nathaniel Craig develop a candidate mathematical construction addressing a longstanding c…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T08:41:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "thecontentboy",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Listen to this episode from AI Brain Trust Weekly on Spotify. Can artificial intelligence contribute to scientific discoveries that have challenged researchers for decades?OpenAI&#x27;s GPT-6 Astra has helped theoretical physicist Nathaniel Craig develop a candidate mathematical construction addressing a longstanding c…",
+      "author_name": "thecontentboy"
     },
     {
       "id": "50553455",
@@ -184,106 +264,6 @@
       "author_name": "CrankyBear"
     },
     {
-      "id": "50552105",
-      "title": "OpenAleph securely store large amounts of data and make it searchable",
-      "url": "https://darc.li/openaleph/",
-      "summary": "The Data and Research Center is an independent organization providing bespoke data and research services for investigative teams.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-18T21:05:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 13,
-      "author": "Bluestein",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "The Data and Research Center is an independent organization providing bespoke data and research services for investigative teams.",
-      "author_name": "Bluestein"
-    },
-    {
-      "id": "50550448",
-      "title": "Artificial (movie about OpenAI) official trailer [video]",
-      "url": "https://www.youtube.com/watch?v=ufeJbTNq-BI",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T18:52:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "armcat",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "armcat"
-    },
-    {
-      "id": "50548992",
-      "title": "Beyond the LLM Top: Putting AI security into practice [video]",
-      "url": "https://www.youtube.com/watch?v=5jijlWkozh8",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T17:14:34Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "mooreds",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "mooreds"
-    },
-    {
-      "id": "50548952",
-      "title": "Why start a new company on Rails, and AI, today",
-      "url": "https://evilmartians.com/events/irina-nazarova-sf-ruby-conference-2026",
-      "summary": "Irina Nazarova opened the second San Francisco Ruby Conference with the 2026 edition of Startups on Rails, built from this year&#x27;s founder interviews.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-18T17:12:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "ksec",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Irina Nazarova opened the second San Francisco Ruby Conference with the 2026 edition of Startups on Rails, built from this year&#x27;s founder interviews.",
-      "author_name": "ksec"
-    },
-    {
-      "id": "50548428",
-      "title": "We're Giving AI Agents the Keys to Our Computers. That's a Security Nightmare",
-      "url": "https://soargram.io/content/273880860",
-      "summary": "AI coding agents are gaining access to our computers, repositories, and development workflows. But what happens when attackers learn to exploit that access...",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T16:37:21Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "levicanskij",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI coding agents are gaining access to our computers, repositories, and development workflows. But what happens when attackers learn to exploit that access...",
-      "author_name": "levicanskij"
-    },
-    {
       "id": "50547544",
       "title": "Software Engineering Is Becoming an Ideas Race",
       "url": "https://codebycody.com/software-engineering-is-becoming-an-ideas-race/",
@@ -304,64 +284,24 @@
       "author_name": "Hitech-Redneck"
     },
     {
-      "id": "50547246",
-      "title": "Clicks and Kalashnikovs: The Houthis, AI, and a New Security Debate",
-      "url": "https://orfme.org/expert-speak/clicks-and-kalashnikovs-the-houthis-ai-and-a-new-security-debate/",
-      "summary": "Anthropic’s report on Houthi misuse of Claude highlights emerging AI-enabled security threats and the need for ecosystem-wide safeguards.",
+      "id": "50536967",
+      "title": "Chainguard announces a self-serve free plan",
+      "url": "https://www.chainguard.dev/unchained/chainguard-is-now-self-serve-and-free-to-start",
+      "summary": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T15:09:45Z",
+      "publishedAt": "2026-11-17T19:36:30Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 19,
-      "author": "ryan_j_naughton",
-      "likes": 3,
+      "score": 20,
+      "author": "fisteh",
+      "likes": 6,
       "views": 0,
       "retweets": 0,
-      "text": "Anthropic’s report on Houthi misuse of Claude highlights emerging AI-enabled security threats and the need for ecosystem-wide safeguards.",
-      "author_name": "ryan_j_naughton"
-    },
-    {
-      "id": "50546841",
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T14:38:17Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "drodio",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations.",
-      "author_name": "drodio"
-    },
-    {
-      "id": "50543109",
-      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T07:52:01Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "shoshkin",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services.",
-      "author_name": "shoshkin"
+      "text": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
+      "author_name": "fisteh"
     },
     {
       "id": "50515877",
@@ -382,26 +322,6 @@
       "retweets": 0,
       "text": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
       "author_name": "marcyb5st"
-    },
-    {
-      "id": "50250462",
-      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
-      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-26T20:29:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "p1anecrazy",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "p1anecrazy"
     }
   ]
 }
