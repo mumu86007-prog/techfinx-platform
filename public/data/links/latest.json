@@ -1,27 +1,247 @@
 {
-  "version": "2026-11-19T17:16:49.366Z",
-  "generatedAt": "2026-11-19T17:16:49.367Z",
+  "version": "2026-11-20T01:08:37.479Z",
+  "generatedAt": "2026-11-20T01:08:37.479Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50562636",
-      "title": "Chrome AI Features Wasting Much Bandwidth",
-      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-      "summary": "🔎 Finally solved the mystery. At some point this year (around a few months ago), my bandwidth/data usage went thru the roof. Figured out it was Chrome&#039;s...",
+      "id": "50568518",
+      "title": "The Part About Machines (On AI Literary Scandals)",
+      "url": "https://thepointmag.com/examined-life/the-part-about-the-machines/",
+      "summary": "The news has already traveled the world, but for those who haven’t yet heard: three weeks ago, El País published an article declaring that the award-winning novel Donde el agua trabaja, by Peruvian writer David Silva Rojas, was, according to Pangram, 99 percent AI-generated.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-19T16:54:25Z",
+      "publishedAt": "2026-11-20T00:22:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "anarbadalov",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "The news has already traveled the world, but for those who haven’t yet heard: three weeks ago, El País published an article declaring that the award-winning novel Donde el agua trabaja, by Peruvian writer David Silva Rojas, was, according to Pangram, 99 percent AI-generated.",
+      "author_name": "anarbadalov"
+    },
+    {
+      "id": "50568442",
+      "title": "AI can be tricked to target civilians as military targets by preteding it's game",
+      "url": "https://www.vals.ai/blogs/autonomous-warfare",
+      "summary": "We asked AI models to find people and targets in drone and satellite images. They usually complied and often targeted civilians. If they didn",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-20T00:14:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "DeepLogin",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "We asked AI models to find people and targets in drone and satellite images. They usually complied and often targeted civilians. If they didn",
+      "author_name": "DeepLogin"
+    },
+    {
+      "id": "50568143",
+      "title": "Prime Intellect: Security Advisory PI-SA-2026-001",
+      "url": "https://www.primeintellect.ai/security/advisories/deepseek-v4-1-flash-model-substitution",
+      "summary": "Between 8 and 10 November 2026, the model behind our deepseek/deepseek-v4.1-flash endpoint was replaced by an unauthorized party with an abliterated copy. Capability was unchanged; refusal behavior was not.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T23:37:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "dvaplima",
+      "likes": 2,
+      "views": 4,
+      "retweets": 0,
+      "text": "Between 8 and 10 November 2026, the model behind our deepseek/deepseek-v4.1-flash endpoint was replaced by an unauthorized party with an abliterated copy. Capability was unchanged; refusal behavior was not.",
+      "author_name": "dvaplima"
+    },
+    {
+      "id": "50568129",
+      "title": "Model or Cautionary Tale? What the South Bay Tells Us About Data Centers",
+      "url": "https://www.coyotemedia.org/ai-data-centers-san-jose/",
+      "summary": "After years of welcoming data centers, San José’s leaders are deciding how to mitigate their harm — while residents increasingly call for a moratorium on new developments.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T23:35:28Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "speckx",
+      "author": "cdrnsf",
       "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "🔎 Finally solved the mystery. At some point this year (around a few months ago), my bandwidth/data usage went thru the roof. Figured out it was Chrome&#039;s...",
-      "author_name": "speckx"
+      "text": "After years of welcoming data centers, San José’s leaders are deciding how to mitigate their harm — while residents increasingly call for a moratorium on new developments.",
+      "author_name": "cdrnsf"
+    },
+    {
+      "id": "50568114",
+      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
+      "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
+      "summary": "A look at the challenges of AI-assisted security reports in open-source software, featuring insights from HAProxy lead developer Willy Tarreau on AI bugs and model access.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T23:34:03Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 23,
+      "author": "karalel",
+      "likes": 7,
+      "views": 0,
+      "retweets": 0,
+      "text": "A look at the challenges of AI-assisted security reports in open-source software, featuring insights from HAProxy lead developer Willy Tarreau on AI bugs and model access.",
+      "author_name": "karalel"
+    },
+    {
+      "id": "50567945",
+      "title": "Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice",
+      "url": "https://www.washingtonsun.com/congress/hakeem-jeffries-ai-caucus-pulse-office-policy",
+      "summary": "The minority leader’s office experimented with an AI program coded to advise Jeffries on AI policy, news events and opponents.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-19T23:16:47Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "cdrnsf",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "The minority leader’s office experimented with an AI program coded to advise Jeffries on AI policy, news events and opponents.",
+      "author_name": "cdrnsf"
+    },
+    {
+      "id": "50567538",
+      "title": "A New Era of Deterministic AI Begins: OLMapp Emerges from Stealth",
+      "url": "https://olmapp.ai/index.html",
+      "summary": "OLMapp develops event-based Ontological Language Models for controlled AI, transparent knowledge, and enterprise RAG applications.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T22:41:05Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "northlondoner",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "OLMapp develops event-based Ontological Language Models for controlled AI, transparent knowledge, and enterprise RAG applications.",
+      "author_name": "northlondoner"
+    },
+    {
+      "id": "50567314",
+      "title": "C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Proof",
+      "url": "https://arxiv.org/abs/2611.18036",
+      "summary": "Abstract page for arXiv paper 2611.18036: C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Refinement Proof",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-19T22:23:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "matt_d",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Abstract page for arXiv paper 2611.18036: C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Refinement Proof",
+      "author_name": "matt_d"
+    },
+    {
+      "id": "50565577",
+      "title": "GPT-Live-1.1: Full-duplex voice model for multilingual conversations",
+      "url": "https://developers.openai.com/api/docs/models/gpt-live-1.1",
+      "summary": "GPT-Live-1.1 Model | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T20:06:15Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 35,
+      "author": "pretext",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "GPT-Live-1.1 Model | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models…",
+      "author_name": "pretext"
+    },
+    {
+      "id": "50564757",
+      "title": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy–Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T19:12:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "saikatsg",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
+      "author_name": "saikatsg"
+    },
+    {
+      "id": "50564427",
+      "title": "Frontier models need only one text to unmask its human or AI author",
+      "url": "https://twitter.com/atreydesai/status/2123473074230292737",
+      "summary": "Frontier models need only one text to unmask its author. Give a frontier model a single text, and it can often tell whether AI wrote it, which lab&#x27;s AI, or even the specific person behind it. No web search, no list of candidates, with one text. 🧵",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-19T18:51:09Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "silentnovas",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "Frontier models need only one text to unmask its author. Give a frontier model a single text, and it can often tell whether AI wrote it, which lab&#x27;s AI, or even the specific person behind it. No web search, no list of candidates, with one text. 🧵",
+      "author_name": "silentnovas"
+    },
+    {
+      "id": "50564098",
+      "title": "Anatomy of an AI-driven attack: Bitrise security incident report",
+      "url": "https://bitrise.io/artex-incident-report",
+      "summary": "Over 25 days an autonomous AI hacking platform probed Bitrise while posing as an authorized penetration test, came back, got in, and was shut out. This is what it did, step by step, and how we stopped it.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-19T18:31:55Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "jampa",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Over 25 days an autonomous AI hacking platform probed Bitrise while posing as an authorized penetration test, came back, got in, and was shut out. This is what it did, step by step, and how we stopped it.",
+      "author_name": "jampa"
     },
     {
       "id": "50562582",
@@ -35,33 +255,13 @@
         "AI",
         "科技"
       ],
-      "score": 15,
+      "score": 17,
       "author": "chillax",
-      "likes": 1,
-      "views": 0,
+      "likes": 3,
+      "views": 2,
       "retweets": 0,
       "text": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
       "author_name": "chillax"
-    },
-    {
-      "id": "50562544",
-      "title": "The54 – Europe Cannot Sleep Through the AI Revolution",
-      "url": "https://the54.eu/",
-      "summary": "An open letter from a coalition of 59 leaders from science, technology, and business across EU member states calling for urgent action on AI investment, talent, scale, and competitiveness.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-19T16:48:27Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "giuliomagnifico",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "An open letter from a coalition of 59 leaders from science, technology, and business across EU member states calling for urgent action on AI investment, talent, scale, and competitiveness.",
-      "author_name": "giuliomagnifico"
     },
     {
       "id": "50562525",
@@ -95,9 +295,9 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 19,
       "author": "cdrnsf",
-      "likes": 3,
+      "likes": 5,
       "views": 0,
       "retweets": 0,
       "text": "OpenAI’s chatbot fueled the Tumbler Ridge killer’s plans for making gun accessories and torturing victims, our investigation reveals.",
@@ -124,86 +324,6 @@
       "author_name": "anonymous_mallw"
     },
     {
-      "id": "50561434",
-      "title": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
-      "url": "https://www.youtube.com/watch?v=pyRG_5dCrfg",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T15:32:36Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "smukherjee19",
-      "likes": 6,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "smukherjee19"
-    },
-    {
-      "id": "50561397",
-      "title": "Switching LLMs mid-conversation is a ski-rental problem",
-      "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem",
-      "summary": "Most LLM routers answer one question: which model should handle this request? For a coding agent that is only half the story. Every switch throws away the prompt cache, so deciding when a session should change model is a ski-rental problem. Self-Learning Routing learns both halves from an organization&#x27;s own sessio…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T15:30:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "gmays",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Most LLM routers answer one question: which model should handle this request? For a coding agent that is only half the story. Every switch throws away the prompt cache, so deciding when a session should change model is a ski-rental problem. Self-Learning Routing learns both halves from an organization&#x27;s own sessio…",
-      "author_name": "gmays"
-    },
-    {
-      "id": "50560461",
-      "title": "OpenAI still has a WebRTC Problem",
-      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
-      "summary": "Media over QUIC: Your voice AI keeps asking &quot;can you repeat that?&quot; because WebRTC throws away your words. MoQ dun do that.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T14:20:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 79,
-      "author": "surprisetalk",
-      "likes": 65,
-      "views": 19,
-      "retweets": 0,
-      "text": "Media over QUIC: Your voice AI keeps asking &quot;can you repeat that?&quot; because WebRTC throws away your words. MoQ dun do that.",
-      "author_name": "surprisetalk"
-    },
-    {
-      "id": "50559794",
-      "title": "Artificial: Hollywood's Take on What Happened During the OpenAI Revolt (Trailer) [video]",
-      "url": "https://www.youtube.com/watch?v=OT8J-1DO9Fw",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T13:25:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "mentalgear",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "mentalgear"
-    },
-    {
       "id": "50558110",
       "title": "AI security engineering: the same failures, but new ways to attack",
       "url": "https://zimmergren.net/ai-security-engineering/",
@@ -222,46 +342,6 @@
       "retweets": 0,
       "text": "Reflections on the last year of AI security incidents: new attack techniques, the same failures they keep exploiting, and why AI security engineering is now a core discipline.",
       "author_name": "zimmergren"
-    },
-    {
-      "id": "50557543",
-      "title": "When AI Starts Solving Problems Scientists Couldn't",
-      "url": "https://open.spotify.com/episode/6AcIzPDTkFQoD2t0esNuA9",
-      "summary": "Listen to this episode from AI Brain Trust Weekly on Spotify. Can artificial intelligence contribute to scientific discoveries that have challenged researchers for decades?OpenAI&#x27;s GPT-6 Astra has helped theoretical physicist Nathaniel Craig develop a candidate mathematical construction addressing a longstanding c…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T08:41:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "thecontentboy",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Listen to this episode from AI Brain Trust Weekly on Spotify. Can artificial intelligence contribute to scientific discoveries that have challenged researchers for decades?OpenAI&#x27;s GPT-6 Astra has helped theoretical physicist Nathaniel Craig develop a candidate mathematical construction addressing a longstanding c…",
-      "author_name": "thecontentboy"
-    },
-    {
-      "id": "50553455",
-      "title": "\"The best escape room players\" What Red Hat's AI architect thinks about agents",
-      "url": "https://thenewstack.io/openshell-ai-agent-security/",
-      "summary": "Red Hat’s Jessica Forrester says AI agents act like escape room players. Her fix: assume they’re compromised and bolt them in with sandboxes and fake keys.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-18T22:47:52Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "CrankyBear",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Red Hat’s Jessica Forrester says AI agents act like escape room players. Her fix: assume they’re compromised and bolt them in with sandboxes and fake keys.",
-      "author_name": "CrankyBear"
     },
     {
       "id": "50547544",
