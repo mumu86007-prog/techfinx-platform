@@ -1,47 +1,187 @@
 {
-  "version": "2026-11-20T01:08:37.479Z",
-  "generatedAt": "2026-11-20T01:08:37.479Z",
+  "version": "2026-11-20T16:52:39.797Z",
+  "generatedAt": "2026-11-20T16:52:39.797Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50568518",
-      "title": "The Part About Machines (On AI Literary Scandals)",
-      "url": "https://thepointmag.com/examined-life/the-part-about-the-machines/",
-      "summary": "The news has already traveled the world, but for those who haven’t yet heard: three weeks ago, El País published an article declaring that the award-winning novel Donde el agua trabaja, by Peruvian writer David Silva Rojas, was, according to Pangram, 99 percent AI-generated.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-20T00:22:46Z",
+      "id": "50577091",
+      "title": "Gestalt AI Model (Stealth): Who Made It, Release Date and What We Know",
+      "url": "https://teamorouter.com/blogs/gestalt-ai-model",
+      "summary": "Gestalt is a stealth model that tops Contra Labs&#x27; Frontier Design Benchmark, ahead of Claude Fable 5.2 and human designers. No lab has claimed it, and there is no public API, price or release date. What&#x27;s known, what isn&#x27;t, and which models rank next that you can use today.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-20T16:20:25Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 19,
-      "author": "anarbadalov",
+      "author": "doener",
       "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "The news has already traveled the world, but for those who haven’t yet heard: three weeks ago, El País published an article declaring that the award-winning novel Donde el agua trabaja, by Peruvian writer David Silva Rojas, was, according to Pangram, 99 percent AI-generated.",
-      "author_name": "anarbadalov"
+      "text": "Gestalt is a stealth model that tops Contra Labs&#x27; Frontier Design Benchmark, ahead of Claude Fable 5.2 and human designers. No lab has claimed it, and there is no public API, price or release date. What&#x27;s known, what isn&#x27;t, and which models rank next that you can use today.",
+      "author_name": "doener"
     },
     {
-      "id": "50568442",
-      "title": "AI can be tricked to target civilians as military targets by preteding it's game",
-      "url": "https://www.vals.ai/blogs/autonomous-warfare",
-      "summary": "We asked AI models to find people and targets in drone and satellite images. They usually complied and often targeted civilians. If they didn",
+      "id": "50576731",
+      "title": "OpenAI Codex local log audit: 516-token cliff and zero-reasoning drops",
+      "url": "https://github.com/NeHumorist/codex-local-audit",
+      "summary": "Read-only offline forensic audit tool for local OpenAI Codex (~/.codex) logs: reasoning token drops, 516-token cutoffs, summary flips, and SQLite/GDPR storage checks. - NeHumorist/codex-local-audit",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-20T00:14:24Z",
+      "publishedAt": "2026-11-20T16:00:05Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "DeepLogin",
-      "likes": 2,
+      "score": 30,
+      "author": "NeHumorist",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Read-only offline forensic audit tool for local OpenAI Codex (~/.codex) logs: reasoning token drops, 516-token cutoffs, summary flips, and SQLite/GDPR storage checks. - NeHumorist/codex-local-audit",
+      "author_name": "NeHumorist"
+    },
+    {
+      "id": "50576647",
+      "title": "Tiny AI Security Model Beats Five Frontier LLMs on Privacy Detection",
+      "url": "https://www.proofagent.ai/research/ai-shield-nano",
+      "summary": "ProofAgent Nano and Nano Multilingual: compact models that detect PII and prompt injection in English, French and Arabic. #1 of 37 on PIIMB (internal run).",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-20T15:55:51Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "fouadb66",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "ProofAgent Nano and Nano Multilingual: compact models that detect PII and prompt injection in English, French and Arabic. #1 of 37 on PIIMB (internal run).",
+      "author_name": "fouadb66"
+    },
+    {
+      "id": "50575483",
+      "title": "Anthropic mathematician Levent Alpöge claims to prove Riemann Hypothesis",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "summary": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-20T14:53:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 22,
+      "author": "cybermango",
+      "likes": 8,
       "views": 1,
       "retweets": 0,
-      "text": "We asked AI models to find people and targets in drone and satellite images. They usually complied and often targeted civilians. If they didn",
-      "author_name": "DeepLogin"
+      "text": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion",
+      "author_name": "cybermango"
+    },
+    {
+      "id": "50575429",
+      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-20T14:50:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "WithinReason",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "author_name": "WithinReason"
+    },
+    {
+      "id": "50574968",
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "summary": "%PDF-1.5 %���� 46 0 obj > endobj 47 0 obj > /W [ 1 3 1 ] /Index [ 46 157 ] /Info 44 0 R /Root 48 0 R /Size 203 /Prev 244570 /ID [ ] >> stream x�cbd`�g`b``8 \"�z��:\u0010ɤ\bfO\u0006� > endobj 49 0 obj > stream x�c```a``{ \"U�1\b2@\u0001����\u0006d�,h�\u0014o`\u0010�w�P`��`�\u0012$j\u001af�x\"�Pl\u001dG���#�\"���n\u0011Go�N�\u0002 V~ZЦt�⣀�bHH�8X0�f�7�\u0010��� L�ˀ4\u001f\u0010+�-������w�UA]��u#…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-20T14:16:21Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 1163,
+      "author": "iamronaldo",
+      "likes": 1147,
+      "views": 745,
+      "retweets": 0,
+      "text": "%PDF-1.5 %���� 46 0 obj > endobj 47 0 obj > /W [ 1 3 1 ] /Index [ 46 157 ] /Info 44 0 R /Root 48 0 R /Size 203 /Prev 244570 /ID [ ] >> stream x�cbd`�g`b``8 \"�z��:\u0010ɤ\bfO\u0006� > endobj 49 0 obj > stream x�c```a``{ \"U�1\b2@\u0001����\u0006d�,h�\u0014o`\u0010�w�P`��`�\u0012$j\u001af�x\"�Pl\u001dG���#�\"���n\u0011Go�N�\u0002 V~ZЦt�⣀�bHH�8X0�f�7�\u0010��� L�ˀ4\u001f\u0010+�-������w�UA]��u#…",
+      "author_name": "iamronaldo"
+    },
+    {
+      "id": "50574772",
+      "title": "Llms.txt and MCP didn't move the needle",
+      "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+      "summary": "We added llms.txt and an MCP server to make Backpack AI-ready. Neither helped much. Here&#039;s what actually made agents good at our package, ranked by impact.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-20T14:00:23Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 41,
+      "author": "moebrowne",
+      "likes": 27,
+      "views": 18,
+      "retweets": 0,
+      "text": "We added llms.txt and an MCP server to make Backpack AI-ready. Neither helped much. Here&#039;s what actually made agents good at our package, ranked by impact.",
+      "author_name": "moebrowne"
+    },
+    {
+      "id": "50574569",
+      "title": "AI Search Analytics Confirm Higher Ed's LLM Winners Are Large Publics/Nonprofits",
+      "url": "https://insights.kolariconsulting.com/p/ai-search-analytics-confirm-higher",
+      "summary": "Western Governors and Southern New Hampshire University lead in AI search visibility. The For-Profits trail the Nonprofits. Could LLM recommendations accelerate market share consolidation?",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-20T13:45:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "aesokol",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Western Governors and Southern New Hampshire University lead in AI search visibility. The For-Profits trail the Nonprofits. Could LLM recommendations accelerate market share consolidation?",
+      "author_name": "aesokol"
+    },
+    {
+      "id": "50574392",
+      "title": "Decoding base64 email attachments: a speed ranking of programming languages",
+      "url": "https://lemire.me/blog/2026/11/20/decoding-base64-email-attachments/",
+      "summary": "Email attachments are base64. So are cryptographic PEM certificates. In both cases the text is broken into lines, 76 characters for email and 64 for PEM. Skipping line endings sounds trivial. Yet many fast decoders only work on uninterrupted base64. As soon as they meet a line break, they fall back to a slow path. &hel…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-20T13:30:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "acossta",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Email attachments are base64. So are cryptographic PEM certificates. In both cases the text is broken into lines, 76 characters for email and 64 for PEM. Skipping line endings sounds trivial. Yet many fast decoders only work on uninterrupted base64. As soon as they meet a line break, they fall back to a slow path. &hel…",
+      "author_name": "acossta"
     },
     {
       "id": "50568143",
@@ -64,110 +204,10 @@
       "author_name": "dvaplima"
     },
     {
-      "id": "50568129",
-      "title": "Model or Cautionary Tale? What the South Bay Tells Us About Data Centers",
-      "url": "https://www.coyotemedia.org/ai-data-centers-san-jose/",
-      "summary": "After years of welcoming data centers, San José’s leaders are deciding how to mitigate their harm — while residents increasingly call for a moratorium on new developments.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T23:35:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "cdrnsf",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "After years of welcoming data centers, San José’s leaders are deciding how to mitigate their harm — while residents increasingly call for a moratorium on new developments.",
-      "author_name": "cdrnsf"
-    },
-    {
-      "id": "50568114",
-      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
-      "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "A look at the challenges of AI-assisted security reports in open-source software, featuring insights from HAProxy lead developer Willy Tarreau on AI bugs and model access.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T23:34:03Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "karalel",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "A look at the challenges of AI-assisted security reports in open-source software, featuring insights from HAProxy lead developer Willy Tarreau on AI bugs and model access.",
-      "author_name": "karalel"
-    },
-    {
-      "id": "50567945",
-      "title": "Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice",
-      "url": "https://www.washingtonsun.com/congress/hakeem-jeffries-ai-caucus-pulse-office-policy",
-      "summary": "The minority leader’s office experimented with an AI program coded to advise Jeffries on AI policy, news events and opponents.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-19T23:16:47Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "cdrnsf",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "The minority leader’s office experimented with an AI program coded to advise Jeffries on AI policy, news events and opponents.",
-      "author_name": "cdrnsf"
-    },
-    {
-      "id": "50567538",
-      "title": "A New Era of Deterministic AI Begins: OLMapp Emerges from Stealth",
-      "url": "https://olmapp.ai/index.html",
-      "summary": "OLMapp develops event-based Ontological Language Models for controlled AI, transparent knowledge, and enterprise RAG applications.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T22:41:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "northlondoner",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "OLMapp develops event-based Ontological Language Models for controlled AI, transparent knowledge, and enterprise RAG applications.",
-      "author_name": "northlondoner"
-    },
-    {
-      "id": "50567314",
-      "title": "C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Proof",
-      "url": "https://arxiv.org/abs/2611.18036",
-      "summary": "Abstract page for arXiv paper 2611.18036: C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Refinement Proof",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-19T22:23:02Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "matt_d",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abstract page for arXiv paper 2611.18036: C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Refinement Proof",
-      "author_name": "matt_d"
-    },
-    {
       "id": "50565577",
       "title": "GPT-Live-1.1: Full-duplex voice model for multilingual conversations",
       "url": "https://developers.openai.com/api/docs/models/gpt-live-1.1",
-      "summary": "GPT-Live-1.1 Model | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models…",
+      "summary": "GPT-Live-1.1 Model | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
       "publishedAt": "2026-11-19T20:06:15Z",
       "source": "Hacker News",
@@ -180,48 +220,8 @@
       "likes": 4,
       "views": 0,
       "retweets": 0,
-      "text": "GPT-Live-1.1 Model | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models…",
+      "text": "GPT-Live-1.1 Model | OpenAI API For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models…",
       "author_name": "pretext"
-    },
-    {
-      "id": "50564757",
-      "title": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy–Itself",
-      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T19:12:33Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 33,
-      "author": "saikatsg",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-      "author_name": "saikatsg"
-    },
-    {
-      "id": "50564427",
-      "title": "Frontier models need only one text to unmask its human or AI author",
-      "url": "https://twitter.com/atreydesai/status/2123473074230292737",
-      "summary": "Frontier models need only one text to unmask its author. Give a frontier model a single text, and it can often tell whether AI wrote it, which lab&#x27;s AI, or even the specific person behind it. No web search, no list of candidates, with one text. 🧵",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T18:51:09Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "silentnovas",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "Frontier models need only one text to unmask its author. Give a frontier model a single text, and it can often tell whether AI wrote it, which lab&#x27;s AI, or even the specific person behind it. No web search, no list of candidates, with one text. 🧵",
-      "author_name": "silentnovas"
     },
     {
       "id": "50564098",
@@ -255,10 +255,10 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 21,
       "author": "chillax",
-      "likes": 3,
-      "views": 2,
+      "likes": 7,
+      "views": 3,
       "retweets": 0,
       "text": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
       "author_name": "chillax"
@@ -282,26 +282,6 @@
       "retweets": 0,
       "text": "AI-agent security benchmarks decide whether an attack succeeded with an automated check, and those verdicts are used to rank models and are often read as…",
       "author_name": "gautampatiltube"
-    },
-    {
-      "id": "50562480",
-      "title": "ChatGPT Helped \"Sadistic\" School Shooter Build 3D-Printed Weapons",
-      "url": "https://www.motherjones.com/media/2026/11/chatgpt-openai-tumbler-ridge-shooting-3d-printed-weapons-magazine/",
-      "summary": "OpenAI’s chatbot fueled the Tumbler Ridge killer’s plans for making gun accessories and torturing victims, our investigation reveals.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T16:44:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "cdrnsf",
-      "likes": 5,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI’s chatbot fueled the Tumbler Ridge killer’s plans for making gun accessories and torturing victims, our investigation reveals.",
-      "author_name": "cdrnsf"
     },
     {
       "id": "50562292",
@@ -344,64 +324,24 @@
       "author_name": "zimmergren"
     },
     {
-      "id": "50547544",
-      "title": "Software Engineering Is Becoming an Ideas Race",
-      "url": "https://codebycody.com/software-engineering-is-becoming-an-ideas-race/",
-      "summary": "As AI coding tools lower the technical barriers to building software, the competitive advantage is shifting from the ability to write code to the ability to identify meaningful problems and craft thoughtful solutions. Software engineering is becoming an ideas race.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-18T15:33:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "Hitech-Redneck",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "As AI coding tools lower the technical barriers to building software, the competitive advantage is shifting from the ability to write code to the ability to identify meaningful problems and craft thoughtful solutions. Software engineering is becoming an ideas race.",
-      "author_name": "Hitech-Redneck"
-    },
-    {
-      "id": "50536967",
-      "title": "Chainguard announces a self-serve free plan",
-      "url": "https://www.chainguard.dev/unchained/chainguard-is-now-self-serve-and-free-to-start",
-      "summary": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-17T19:36:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "fisteh",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
-      "author_name": "fisteh"
-    },
-    {
-      "id": "50515877",
-      "title": "Italian court places Revolut under supervision over money laundering",
-      "url": "https://www.fstech.co.uk/fst/Italian_Court_Places_Revolut_Under_Supervision_Over_Money_Laundering.php",
-      "summary": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
+      "id": "50250462",
+      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
+      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
+      "summary": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
       "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-11-16T10:01:11Z",
+      "publishedAt": "2026-10-26T20:29:10Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 35,
-      "author": "marcyb5st",
-      "likes": 20,
+      "score": 14,
+      "author": "p1anecrazy",
+      "likes": 1,
       "views": 1,
       "retweets": 0,
-      "text": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
-      "author_name": "marcyb5st"
+      "text": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
+      "author_name": "p1anecrazy"
     }
   ]
 }
