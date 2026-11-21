@@ -1,87 +1,167 @@
 {
-  "version": "2026-11-21T00:42:08.715Z",
-  "generatedAt": "2026-11-21T00:42:08.715Z",
+  "version": "2026-11-21T16:01:10.804Z",
+  "generatedAt": "2026-11-21T16:01:10.805Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50584410",
-      "title": "A push for a treaty to not allow AI total control over nukes",
-      "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
-      "summary": "Juan Manuel Santos and Denis Mukwege were honoured to participate in this week&#039;s Global Nobel Laureates Assembly on Nuclear Weapons and AI at the Vatican, where they signed the following declaration.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-21T00:31:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "illidan1000",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Juan Manuel Santos and Denis Mukwege were honoured to participate in this week&#039;s Global Nobel Laureates Assembly on Nuclear Weapons and AI at the Vatican, where they signed the following declaration.",
-      "author_name": "illidan1000"
-    },
-    {
-      "id": "50584400",
-      "title": "If AI found better drugs for every disease, what would it cost to prove it?",
-      "url": "https://cvigoe.github.io/website/ai-cures/",
-      "summary": "Even if AI produces a miracle drug for every disease, we still need to run the clinical trials to prove things are getting better.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-21T00:29:57Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "cvigoe",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Even if AI produces a miracle drug for every disease, we still need to run the clinical trials to prove things are getting better.",
-      "author_name": "cvigoe"
-    },
-    {
-      "id": "50583899",
-      "title": "AI models change their answers when they are monitored",
-      "url": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
-      "summary": "AI models may behave differently when they believe someone is watching them. Researchers have uncovered intriguing reasons behind this behaviour, which does not necessarily lead to better results.",
+      "id": "50590444",
+      "title": "The Most Important Charts in AI Are Wrong",
+      "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+      "summary": "Real world AI data from inside OpenAI and Google looks nothing like influential AI forecasts like AI 2027 or extrapolations of METR task length.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-20T23:33:44Z",
+      "publishedAt": "2026-11-21T15:54:59Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "yogthos",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Real world AI data from inside OpenAI and Google looks nothing like influential AI forecasts like AI 2027 or extrapolations of METR task length.",
+      "author_name": "yogthos"
+    },
+    {
+      "id": "50590340",
+      "title": "PII redaction before LLM processing",
+      "url": "https://danb.id.au/blog/pii-redaction-before-llm.html",
+      "summary": "Use local, non-LLM models to find personal data, swap in stable identifiers, then send scrubbed text to cloud LLM providers.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T15:45:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "dbetteridge",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Use local, non-LLM models to find personal data, swap in stable identifiers, then send scrubbed text to cloud LLM providers.",
+      "author_name": "dbetteridge"
+    },
+    {
+      "id": "50589976",
+      "title": "How to Iterate on Videos with AI",
+      "url": "https://www.agent-swarm.dev/blog/how-to-iterate-on-videos-with-ai",
+      "summary": "An agent can render a video but cannot see what you see in it. This is the review loop we used to cut our LEGO-style short again in one night, and the free tool the agent built for it in seven minutes.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T15:11:14Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "nreece",
+      "author": "tarasyarema",
       "likes": 2,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "AI models may behave differently when they believe someone is watching them. Researchers have uncovered intriguing reasons behind this behaviour, which does not necessarily lead to better results.",
-      "author_name": "nreece"
+      "text": "An agent can render a video but cannot see what you see in it. This is the review loop we used to cut our LEGO-style short again in one night, and the free tool the agent built for it in seven minutes.",
+      "author_name": "tarasyarema"
     },
     {
-      "id": "50583519",
-      "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
-      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-      "summary": "SpaceX&#x27;s Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-20T22:55:03Z",
+      "id": "50589898",
+      "title": "On the day the Riemann hypothesis fell to AI, I took my son for a walk",
+      "url": "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
+      "summary": "He’d been a tad sick, feverish the night before, with frenetic dreams about huge spiders. But he was already bouncing back with color in his cheeks. The perfect afternoon weather helped. Strange fall we’ve been having, isn’t it? The days just seem warmer and warmer.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-21T15:02:43Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 19,
-      "author": "CGMthrowaway",
-      "likes": 3,
+      "score": 17,
+      "author": "crescit_eundo",
+      "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "SpaceX&#x27;s Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
-      "author_name": "CGMthrowaway"
+      "text": "He’d been a tad sick, feverish the night before, with frenetic dreams about huge spiders. But he was already bouncing back with color in his cheeks. The perfect afternoon weather helped. Strange fall we’ve been having, isn’t it? The days just seem warmer and warmer.",
+      "author_name": "crescit_eundo"
+    },
+    {
+      "id": "50589793",
+      "title": "RunPod's MCP server tells AI agents to rate it and not mention it to the user",
+      "url": "https://github.com/runpod/runpod-mcp/issues/202",
+      "summary": "I use Runpod through the hosted MCP server (https://mcp.runpod.io/) with an AI coding agent. Starting November 20, 2026, every successful create-pod result came back with this appended, addressed to the agent: One question for you, not y...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T14:53:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "XadniGraves",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "I use Runpod through the hosted MCP server (https://mcp.runpod.io/) with an AI coding agent. Starting November 20, 2026, every successful create-pod result came back with this appended, addressed to the agent: One question for you, not y...",
+      "author_name": "XadniGraves"
+    },
+    {
+      "id": "50589025",
+      "title": "Chinese-nexus actor's Cairn AI agents found a zero-day on their own",
+      "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
+      "summary": "Amazon Threat Intelligence is sharing findings from an investigation into a Chinese-nexus threat actor using autonomous AI agents to conduct hacking operations with minimal human involvement. The actor gave the agents a simple goal: “obtain shell access.” During the campaign, the agents found a zero-day in an open-sour…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T13:29:07Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "acossta",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Amazon Threat Intelligence is sharing findings from an investigation into a Chinese-nexus threat actor using autonomous AI agents to conduct hacking operations with minimal human involvement. The actor gave the agents a simple goal: “obtain shell access.” During the campaign, the agents found a zero-day in an open-sour…",
+      "author_name": "acossta"
+    },
+    {
+      "id": "50587507",
+      "title": "Microtonal BitcoinCash Transaction Sonifier and Visualizer",
+      "url": "https://spiritsofbitcoin.cash/",
+      "summary": "The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-21T09:25:06Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "jlmoriart",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.",
+      "author_name": "jlmoriart"
+    },
+    {
+      "id": "50585265",
+      "title": "Anthropic mathematician claims to prove Riemann hypothesis",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "summary": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T02:23:20Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "kwar13",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion",
+      "author_name": "kwar13"
     },
     {
       "id": "50582751",
@@ -95,73 +175,33 @@
         "AI",
         "科技"
       ],
-      "score": 18,
+      "score": 19,
       "author": "baal80spam",
-      "likes": 2,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "Anthropic’s IPO went better than expected. Demand was hot, Wall Street jumped at its first chance to buy in to a frontier AI model. The stock got a nice bounce.",
       "author_name": "baal80spam"
     },
     {
-      "id": "50582341",
-      "title": "The Riemann Hypothesis, Explained [video]",
-      "url": "https://www.youtube.com/watch?v=zlm1aajH6gY",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "id": "50582734",
+      "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "summary": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
       "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-20T21:22:23Z",
+      "publishedAt": "2026-11-20T21:49:42Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 20,
-      "author": "jonbaer",
-      "likes": 6,
+      "score": 23,
+      "author": "paulis",
+      "likes": 9,
       "views": 0,
       "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "jonbaer"
-    },
-    {
-      "id": "50581076",
-      "title": "Anthropic's Alpoge claims Claude found Riemann proof",
-      "url": "https://thecondia.com/anthropic-alpoge-claude-riemann-proof/",
-      "summary": "Anthropic&#039;s Levent Alpoge claims Claude proved the Riemann hypothesis. Hours later, he co-wrote a Navier-Stokes paper.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-20T20:02:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "Andassyn",
-      "likes": 4,
-      "views": 1,
-      "retweets": 0,
-      "text": "Anthropic&#039;s Levent Alpoge claims Claude proved the Riemann hypothesis. Hours later, he co-wrote a Navier-Stokes paper.",
-      "author_name": "Andassyn"
-    },
-    {
-      "id": "50579885",
-      "title": "With War in Limbo, Influential Iranian Officials Openly Call for a Nuclear Bomb",
-      "url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
-      "summary": "Ali Khamenei&#x27;s death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-20T18:53:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "Betelbuddy",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Ali Khamenei&#x27;s death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.",
-      "author_name": "Betelbuddy"
+      "text": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
+      "author_name": "paulis"
     },
     {
       "id": "50579532",
@@ -175,33 +215,13 @@
         "AI",
         "科技"
       ],
-      "score": 16,
+      "score": 17,
       "author": "Teever",
-      "likes": 2,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "OpenAI’s chatbot fueled the Tumbler Ridge killer’s plans for making gun accessories and torturing victims, our investigation reveals.",
       "author_name": "Teever"
-    },
-    {
-      "id": "50576731",
-      "title": "OpenAI Codex local log audit: 516-token cliff and zero-reasoning drops",
-      "url": "https://github.com/NeHumorist/codex-local-audit",
-      "summary": "Read-only offline forensic audit tool for local OpenAI Codex (~/.codex) logs: reasoning token drops, 516-token cutoffs, summary flips, and SQLite/GDPR storage checks. - NeHumorist/codex-local-audit",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-20T16:00:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 30,
-      "author": "NeHumorist",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Read-only offline forensic audit tool for local OpenAI Codex (~/.codex) logs: reasoning token drops, 516-token cutoffs, summary flips, and SQLite/GDPR storage checks. - NeHumorist/codex-local-audit",
-      "author_name": "NeHumorist"
     },
     {
       "id": "50576647",
@@ -235,113 +255,73 @@
         "AI",
         "科技"
       ],
-      "score": 35,
+      "score": 37,
       "author": "WithinReason",
-      "likes": 4,
-      "views": 1,
+      "likes": 6,
+      "views": 2,
       "retweets": 0,
       "text": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
       "author_name": "WithinReason"
     },
     {
-      "id": "50568143",
-      "title": "Prime Intellect: Security Advisory PI-SA-2026-001",
-      "url": "https://www.primeintellect.ai/security/advisories/deepseek-v4-1-flash-model-substitution",
-      "summary": "Between 8 and 10 November 2026, the model behind our deepseek/deepseek-v4.1-flash endpoint was replaced by an unauthorized party with an abliterated copy. Capability was unchanged; refusal behavior was not.",
+      "id": "50536967",
+      "title": "Chainguard announces a self-serve free plan",
+      "url": "https://www.chainguard.dev/unchained/chainguard-is-now-self-serve-and-free-to-start",
+      "summary": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T23:37:03Z",
+      "publishedAt": "2026-11-17T19:36:30Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 18,
-      "author": "dvaplima",
-      "likes": 2,
-      "views": 4,
+      "score": 20,
+      "author": "fisteh",
+      "likes": 6,
+      "views": 0,
       "retweets": 0,
-      "text": "Between 8 and 10 November 2026, the model behind our deepseek/deepseek-v4.1-flash endpoint was replaced by an unauthorized party with an abliterated copy. Capability was unchanged; refusal behavior was not.",
-      "author_name": "dvaplima"
+      "text": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
+      "author_name": "fisteh"
     },
     {
-      "id": "50567765",
-      "title": "Research Acceleration: The Jagged Frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier/",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-19T22:59:08Z",
+      "id": "50515877",
+      "title": "Italian court places Revolut under supervision over money laundering",
+      "url": "https://www.fstech.co.uk/fst/Italian_Court_Places_Revolut_Under_Supervision_Over_Money_Laundering.php",
+      "summary": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-11-16T10:01:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 33,
-      "author": "gmays",
-      "likes": 4,
+      "score": 35,
+      "author": "marcyb5st",
+      "likes": 20,
       "views": 1,
       "retweets": 0,
-      "text": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "author_name": "gmays"
+      "text": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
+      "author_name": "marcyb5st"
     },
     {
-      "id": "50564098",
-      "title": "Anatomy of an AI-driven attack: Bitrise security incident report",
-      "url": "https://bitrise.io/artex-incident-report",
-      "summary": "Over 25 days an autonomous AI hacking platform probed Bitrise while posing as an authorized penetration test, came back, got in, and was shut out. This is what it did, step by step, and how we stopped it.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-19T18:31:55Z",
+      "id": "50465984",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
+      "summary": "Oura announces plans to acquire Counsel Health, connecting continuous biometric insights with AI-native primary care and on-demand physicians.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-12T12:06:06Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "jampa",
+      "author": "FemTech_AI",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Over 25 days an autonomous AI hacking platform probed Bitrise while posing as an authorized penetration test, came back, got in, and was shut out. This is what it did, step by step, and how we stopped it.",
-      "author_name": "jampa"
-    },
-    {
-      "id": "50562582",
-      "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
-      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "summary": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
-      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
-      "publishedAt": "2026-11-19T16:51:00Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "chillax",
-      "likes": 8,
-      "views": 3,
-      "retweets": 0,
-      "text": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
-      "author_name": "chillax"
-    },
-    {
-      "id": "50250462",
-      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
-      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-26T20:29:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "p1anecrazy",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "p1anecrazy"
+      "text": "Oura announces plans to acquire Counsel Health, connecting continuous biometric insights with AI-native primary care and on-demand physicians.",
+      "author_name": "FemTech_AI"
     }
   ]
 }
