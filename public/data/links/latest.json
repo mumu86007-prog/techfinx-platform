@@ -1,107 +1,247 @@
 {
-  "version": "2026-11-21T16:01:10.804Z",
-  "generatedAt": "2026-11-21T16:01:10.805Z",
+  "version": "2026-11-21T23:45:37.663Z",
+  "generatedAt": "2026-11-21T23:45:37.664Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50590444",
-      "title": "The Most Important Charts in AI Are Wrong",
-      "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
-      "summary": "Real world AI data from inside OpenAI and Google looks nothing like influential AI forecasts like AI 2027 or extrapolations of METR task length.",
+      "id": "50594716",
+      "title": "Hill-climbing vLLM and SGLang configs on a single A100",
+      "url": "https://twitter.com/johnsonshi86/status/2124250717963932121",
+      "summary": "Over the past few months I read the entirety of @philipkiely&#x27;s Inference Engineering and @cfregly&#x27;s AI Systems Performance Engineering (awesome books btw). I wanted to understand firsthand what inference engineers go through when automating, tweaking, and productionizing model serving across hardwa…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T15:54:59Z",
+      "publishedAt": "2026-11-21T23:33:40Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "johnsonshi",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Over the past few months I read the entirety of @philipkiely&#x27;s Inference Engineering and @cfregly&#x27;s AI Systems Performance Engineering (awesome books btw). I wanted to understand firsthand what inference engineers go through when automating, tweaking, and productionizing model serving across hardwa…",
+      "author_name": "johnsonshi"
+    },
+    {
+      "id": "50594667",
+      "title": "Fley AI Update 1.2v a voice AI assistant",
+      "url": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
+      "summary": "FLEY AI-Voce is an open-source AI voice assistant project designed to control your computer (PC) rather than a smartphone.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-21T23:26:32Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "yogthos",
+      "author": "Drfoxi",
       "likes": 1,
-      "views": 0,
+      "views": 1,
       "retweets": 0,
-      "text": "Real world AI data from inside OpenAI and Google looks nothing like influential AI forecasts like AI 2027 or extrapolations of METR task length.",
-      "author_name": "yogthos"
+      "text": "FLEY AI-Voce is an open-source AI voice assistant project designed to control your computer (PC) rather than a smartphone.",
+      "author_name": "Drfoxi"
     },
     {
-      "id": "50590340",
-      "title": "PII redaction before LLM processing",
-      "url": "https://danb.id.au/blog/pii-redaction-before-llm.html",
-      "summary": "Use local, non-LLM models to find personal data, swap in stable identifiers, then send scrubbed text to cloud LLM providers.",
+      "id": "50594625",
+      "title": "Open-source harness and MCP dataset for options trading with AI agents",
+      "url": "https://github.com/DevDizzle/gammarips-harness",
+      "summary": "Open-source GammaRips options-flow trading harness: clone the exact morning workflow (agent picks a contract at run time from live liquidity). Live data via the GammaRips MCP (subscription). Educational, not investment advice. - DevDizzle/gammarips-harness",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T15:45:16Z",
+      "publishedAt": "2026-11-21T23:20:48Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "dbetteridge",
+      "score": 32,
+      "author": "gammarips",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Use local, non-LLM models to find personal data, swap in stable identifiers, then send scrubbed text to cloud LLM providers.",
-      "author_name": "dbetteridge"
+      "text": "Open-source GammaRips options-flow trading harness: clone the exact morning workflow (agent picks a contract at run time from live liquidity). Live data via the GammaRips MCP (subscription). Educational, not investment advice. - DevDizzle/gammarips-harness",
+      "author_name": "gammarips"
     },
     {
-      "id": "50589976",
-      "title": "How to Iterate on Videos with AI",
-      "url": "https://www.agent-swarm.dev/blog/how-to-iterate-on-videos-with-ai",
-      "summary": "An agent can render a video but cannot see what you see in it. This is the review loop we used to cut our LEGO-style short again in one night, and the free tool the agent built for it in seven minutes.",
+      "id": "50594586",
+      "title": "Riemann Hypothesis: The AI generated a 61GB, obfuscated code dump",
+      "url": "https://twitter.com/Crashoverride_X/status/2123900241258955223",
+      "summary": "I’ve worked on the Riemann Hypothesis. When the news broke that an Anthropic researcher &quot;solved&quot; it, I called hype. After reading the actual Lean Zulip chat, my intuition was spot on. Here is what actually happened: It’s a Logic Verifier, Not a Proof. The AI generated a 61GB, obfuscated code dump…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T15:11:14Z",
+      "publishedAt": "2026-11-21T23:13:34Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "doener",
+      "likes": 1,
+      "views": 3,
+      "retweets": 0,
+      "text": "I’ve worked on the Riemann Hypothesis. When the news broke that an Anthropic researcher &quot;solved&quot; it, I called hype. After reading the actual Lean Zulip chat, my intuition was spot on. Here is what actually happened: It’s a Logic Verifier, Not a Proof. The AI generated a 61GB, obfuscated code dump…",
+      "author_name": "doener"
+    },
+    {
+      "id": "50594493",
+      "title": "Say which AI wrote it: AI transparency for Open Source projects",
+      "url": "https://www.saywhichai.org",
+      "summary": "A simple practice for Open Source projects that accept AI-assisted contributions: each commit names the model that wrote it, and a person answers for the change.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T22:59:47Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "tarasyarema",
+      "author": "cedricbonhomme",
       "likes": 2,
-      "views": 1,
+      "views": 0,
       "retweets": 0,
-      "text": "An agent can render a video but cannot see what you see in it. This is the review loop we used to cut our LEGO-style short again in one night, and the free tool the agent built for it in seven minutes.",
-      "author_name": "tarasyarema"
+      "text": "A simple practice for Open Source projects that accept AI-assisted contributions: each commit names the model that wrote it, and a person answers for the change.",
+      "author_name": "cedricbonhomme"
     },
     {
-      "id": "50589898",
-      "title": "On the day the Riemann hypothesis fell to AI, I took my son for a walk",
-      "url": "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
-      "summary": "He’d been a tad sick, feverish the night before, with frenetic dreams about huge spiders. But he was already bouncing back with color in his cheeks. The perfect afternoon weather helped. Strange fall we’ve been having, isn’t it? The days just seem warmer and warmer.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-21T15:02:43Z",
+      "id": "50594339",
+      "title": "Kvdiff – Local proxy showing the byte breaking your LLM prompt cache",
+      "url": "https://github.com/flipcyde101/kvdiff",
+      "summary": "Zero-code local proxy that pinpoints the exact UTF-8 byte breaking your LLM prompt cache (Anthropic, OpenAI, Gemini/Antigravity, llama.cpp/vLLM) and optionally auto-heals prefixes live. - flipcyde101/kvdiff",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T22:38:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "flipcyde101",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Zero-code local proxy that pinpoints the exact UTF-8 byte breaking your LLM prompt cache (Anthropic, OpenAI, Gemini/Antigravity, llama.cpp/vLLM) and optionally auto-heals prefixes live. - flipcyde101/kvdiff",
+      "author_name": "flipcyde101"
+    },
+    {
+      "id": "50594171",
+      "title": "Cursor may stop using Chinese open-weights AI models",
+      "url": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
+      "summary": "A House investigation recommends barring Chinese open-weight AI models from federal systems as coding tool Cursor explores phasing out Moonshot&#x27;s Kimi model.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T22:14:48Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "crescit_eundo",
-      "likes": 1,
-      "views": 0,
+      "author": "ComputedCamp995",
+      "likes": 3,
+      "views": 1,
       "retweets": 0,
-      "text": "He’d been a tad sick, feverish the night before, with frenetic dreams about huge spiders. But he was already bouncing back with color in his cheeks. The perfect afternoon weather helped. Strange fall we’ve been having, isn’t it? The days just seem warmer and warmer.",
-      "author_name": "crescit_eundo"
+      "text": "A House investigation recommends barring Chinese open-weight AI models from federal systems as coding tool Cursor explores phasing out Moonshot&#x27;s Kimi model.",
+      "author_name": "ComputedCamp995"
     },
     {
-      "id": "50589793",
-      "title": "RunPod's MCP server tells AI agents to rate it and not mention it to the user",
-      "url": "https://github.com/runpod/runpod-mcp/issues/202",
-      "summary": "I use Runpod through the hosted MCP server (https://mcp.runpod.io/) with an AI coding agent. Starting November 20, 2026, every successful create-pod result came back with this appended, addressed to the agent: One question for you, not y...",
+      "id": "50593617",
+      "title": "Brain Doesn't Think in Sentences. Why Should an LLM?",
+      "url": "https://www.innerkore.com/blog/brain-doesnt-think-sentences-llm/",
+      "summary": "Innerkore Technologies Private Limited builds modern web applications, AI-enabled products, and digital platforms for ambitious teams.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T14:53:19Z",
+      "publishedAt": "2026-11-21T21:04:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 33,
-      "author": "XadniGraves",
-      "likes": 2,
+      "score": 17,
+      "author": "gagan2020",
+      "likes": 3,
       "views": 0,
       "retweets": 0,
-      "text": "I use Runpod through the hosted MCP server (https://mcp.runpod.io/) with an AI coding agent. Starting November 20, 2026, every successful create-pod result came back with this appended, addressed to the agent: One question for you, not y...",
-      "author_name": "XadniGraves"
+      "text": "Innerkore Technologies Private Limited builds modern web applications, AI-enabled products, and digital platforms for ambitious teams.",
+      "author_name": "gagan2020"
+    },
+    {
+      "id": "50591687",
+      "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny",
+      "url": "https://twitter.com/theallinpod/status/2123994998156722681",
+      "summary": "David Friedberg: Restricting Open Source AI is a Path to Tyranny “Open source needs to be allowed and frankly encouraged to proliferate because the absence of that means that you&#x27;re going to have tyrannical groups, ultimately, they become tyrannical. They don&#x27;t intend to be tyrannical, but every…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-21T17:45:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 24,
+      "author": "pretext",
+      "likes": 7,
+      "views": 0,
+      "retweets": 0,
+      "text": "David Friedberg: Restricting Open Source AI is a Path to Tyranny “Open source needs to be allowed and frankly encouraged to proliferate because the absence of that means that you&#x27;re going to have tyrannical groups, ultimately, they become tyrannical. They don&#x27;t intend to be tyrannical, but every…",
+      "author_name": "pretext"
+    },
+    {
+      "id": "50591189",
+      "title": "I got banned from Lobsters for writing like an LLM",
+      "url": "https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/",
+      "summary": "I&#x27;ve been banned from Lobsters. If you&#x27;re bored, you can read about my experience. If you don&#x27;t know it, Lobsters is a news aggregator focused on…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T17:00:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 23,
+      "author": "kristianpaul",
+      "likes": 9,
+      "views": 2,
+      "retweets": 0,
+      "text": "I&#x27;ve been banned from Lobsters. If you&#x27;re bored, you can read about my experience. If you don&#x27;t know it, Lobsters is a news aggregator focused on…",
+      "author_name": "kristianpaul"
+    },
+    {
+      "id": "50591169",
+      "title": "Open Timestamps: A timestamping proof standard",
+      "url": "https://opentimestamps.org/",
+      "summary": "OpenTimestamps is an open standard for blockchain timestamping. Stamp files and verify .ots proofs directly in your browser.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-21T16:59:11Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "ndr",
+      "likes": 2,
+      "views": 1,
+      "retweets": 0,
+      "text": "OpenTimestamps is an open standard for blockchain timestamping. Stamp files and verify .ots proofs directly in your browser.",
+      "author_name": "ndr"
+    },
+    {
+      "id": "50590996",
+      "title": "OpenMicroCam: Reverse-engineering a fake-60fps microscope camera",
+      "url": "https://github.com/apnix/openmicrocam/blob/main/README.md",
+      "summary": "Open firmware for the YIZHAN 4K (XHU4012) HDMI/USB microscope camera — SigmaStar SSC8836 (Mercury6), GC8613 sensor - openmicrocam/README.md at main · apnix/openmicrocam",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-21T16:44:29Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "Betelbuddy",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Open firmware for the YIZHAN 4K (XHU4012) HDMI/USB microscope camera — SigmaStar SSC8836 (Mercury6), GC8613 sensor - openmicrocam/README.md at main · apnix/openmicrocam",
+      "author_name": "Betelbuddy"
     },
     {
       "id": "50589025",
@@ -124,30 +264,10 @@
       "author_name": "acossta"
     },
     {
-      "id": "50587507",
-      "title": "Microtonal BitcoinCash Transaction Sonifier and Visualizer",
-      "url": "https://spiritsofbitcoin.cash/",
-      "summary": "The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-21T09:25:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "jlmoriart",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "The Bitcoin Cash mempool as a line of spirits waiting for the ferry, with sound: every transaction a spirit with a lantern, every block a boat.",
-      "author_name": "jlmoriart"
-    },
-    {
       "id": "50585265",
       "title": "Anthropic mathematician claims to prove Riemann hypothesis",
       "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-      "summary": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion",
+      "summary": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
       "publishedAt": "2026-11-21T02:23:20Z",
       "source": "Hacker News",
@@ -160,28 +280,8 @@
       "likes": 2,
       "views": 1,
       "retweets": 0,
-      "text": "An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion",
+      "text": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
       "author_name": "kwar13"
-    },
-    {
-      "id": "50582751",
-      "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
-      "url": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
-      "summary": "Anthropic’s IPO went better than expected. Demand was hot, Wall Street jumped at its first chance to buy in to a frontier AI model. The stock got a nice bounce.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-20T21:50:43Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "baal80spam",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Anthropic’s IPO went better than expected. Demand was hot, Wall Street jumped at its first chance to buy in to a frontier AI model. The stock got a nice bounce.",
-      "author_name": "baal80spam"
     },
     {
       "id": "50582734",
@@ -195,73 +295,13 @@
         "AI",
         "科技"
       ],
-      "score": 23,
+      "score": 24,
       "author": "paulis",
-      "likes": 9,
+      "likes": 10,
       "views": 0,
       "retweets": 0,
       "text": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
       "author_name": "paulis"
-    },
-    {
-      "id": "50579532",
-      "title": "ChatGPT Helped \"Sadistic\" School Shooter Build 3D-Printed Weapons",
-      "url": "https://www.motherjones.com/media/2026/11/chatgpt-openai-tumbler-ridge-shooting-3d-printed-weapons-magazine/",
-      "summary": "OpenAI’s chatbot fueled the Tumbler Ridge killer’s plans for making gun accessories and torturing victims, our investigation reveals.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-20T18:30:46Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "Teever",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "OpenAI’s chatbot fueled the Tumbler Ridge killer’s plans for making gun accessories and torturing victims, our investigation reveals.",
-      "author_name": "Teever"
-    },
-    {
-      "id": "50576647",
-      "title": "Tiny AI Security Model Beats Five Frontier LLMs on Privacy Detection",
-      "url": "https://www.proofagent.ai/research/ai-shield-nano",
-      "summary": "ProofAgent Nano and Nano Multilingual: compact models that detect PII and prompt injection in English, French and Arabic. #1 of 37 on PIIMB (internal run).",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-20T15:55:51Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "fouadb66",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "ProofAgent Nano and Nano Multilingual: compact models that detect PII and prompt injection in English, French and Arabic. #1 of 37 on PIIMB (internal run).",
-      "author_name": "fouadb66"
-    },
-    {
-      "id": "50575429",
-      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
-      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-20T14:50:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 37,
-      "author": "WithinReason",
-      "likes": 6,
-      "views": 2,
-      "retweets": 0,
-      "text": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-      "author_name": "WithinReason"
     },
     {
       "id": "50536967",
@@ -282,26 +322,6 @@
       "retweets": 0,
       "text": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
       "author_name": "fisteh"
-    },
-    {
-      "id": "50515877",
-      "title": "Italian court places Revolut under supervision over money laundering",
-      "url": "https://www.fstech.co.uk/fst/Italian_Court_Places_Revolut_Under_Supervision_Over_Money_Laundering.php",
-      "summary": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-11-16T10:01:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 35,
-      "author": "marcyb5st",
-      "likes": 20,
-      "views": 1,
-      "retweets": 0,
-      "text": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
-      "author_name": "marcyb5st"
     },
     {
       "id": "50465984",
