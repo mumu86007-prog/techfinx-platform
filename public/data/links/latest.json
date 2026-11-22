@@ -1,207 +1,187 @@
 {
-  "version": "2026-11-21T23:45:37.663Z",
-  "generatedAt": "2026-11-21T23:45:37.664Z",
+  "version": "2026-11-22T16:08:51.585Z",
+  "generatedAt": "2026-11-22T16:08:51.585Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50594716",
-      "title": "Hill-climbing vLLM and SGLang configs on a single A100",
-      "url": "https://twitter.com/johnsonshi86/status/2124250717963932121",
-      "summary": "Over the past few months I read the entirety of @philipkiely&#x27;s Inference Engineering and @cfregly&#x27;s AI Systems Performance Engineering (awesome books btw). I wanted to understand firsthand what inference engineers go through when automating, tweaking, and productionizing model serving across hardwa…",
+      "id": "50600743",
+      "title": "Colors are our embeddings of light: an intuition for tokens and embeddings",
+      "url": "https://fedemagnani.github.io/llm/2026/11/22/colors-are-our-embeddings-of-light.html",
+      "summary": "Despite producing and consuming natural language, any large language model needs a way to digest text and to encode/decode it. In the simplest approaches, the first step of this digestion is chunking the input text submitted by the user into a collection of subwords (text chunks), which get mapped to specific scalar va…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T23:33:40Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "johnsonshi",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Over the past few months I read the entirety of @philipkiely&#x27;s Inference Engineering and @cfregly&#x27;s AI Systems Performance Engineering (awesome books btw). I wanted to understand firsthand what inference engineers go through when automating, tweaking, and productionizing model serving across hardwa…",
-      "author_name": "johnsonshi"
-    },
-    {
-      "id": "50594667",
-      "title": "Fley AI Update 1.2v a voice AI assistant",
-      "url": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
-      "summary": "FLEY AI-Voce is an open-source AI voice assistant project designed to control your computer (PC) rather than a smartphone.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-21T23:26:32Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "Drfoxi",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "FLEY AI-Voce is an open-source AI voice assistant project designed to control your computer (PC) rather than a smartphone.",
-      "author_name": "Drfoxi"
-    },
-    {
-      "id": "50594625",
-      "title": "Open-source harness and MCP dataset for options trading with AI agents",
-      "url": "https://github.com/DevDizzle/gammarips-harness",
-      "summary": "Open-source GammaRips options-flow trading harness: clone the exact morning workflow (agent picks a contract at run time from live liquidity). Live data via the GammaRips MCP (subscription). Educational, not investment advice. - DevDizzle/gammarips-harness",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T23:20:48Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 32,
-      "author": "gammarips",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Open-source GammaRips options-flow trading harness: clone the exact morning workflow (agent picks a contract at run time from live liquidity). Live data via the GammaRips MCP (subscription). Educational, not investment advice. - DevDizzle/gammarips-harness",
-      "author_name": "gammarips"
-    },
-    {
-      "id": "50594586",
-      "title": "Riemann Hypothesis: The AI generated a 61GB, obfuscated code dump",
-      "url": "https://twitter.com/Crashoverride_X/status/2123900241258955223",
-      "summary": "I’ve worked on the Riemann Hypothesis. When the news broke that an Anthropic researcher &quot;solved&quot; it, I called hype. After reading the actual Lean Zulip chat, my intuition was spot on. Here is what actually happened: It’s a Logic Verifier, Not a Proof. The AI generated a 61GB, obfuscated code dump…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T23:13:34Z",
+      "publishedAt": "2026-11-22T15:49:57Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 18,
-      "author": "doener",
-      "likes": 1,
-      "views": 3,
+      "author": "drunello",
+      "likes": 2,
+      "views": 0,
       "retweets": 0,
-      "text": "I’ve worked on the Riemann Hypothesis. When the news broke that an Anthropic researcher &quot;solved&quot; it, I called hype. After reading the actual Lean Zulip chat, my intuition was spot on. Here is what actually happened: It’s a Logic Verifier, Not a Proof. The AI generated a 61GB, obfuscated code dump…",
-      "author_name": "doener"
+      "text": "Despite producing and consuming natural language, any large language model needs a way to digest text and to encode/decode it. In the simplest approaches, the first step of this digestion is chunking the input text submitted by the user into a collection of subwords (text chunks), which get mapped to specific scalar va…",
+      "author_name": "drunello"
     },
     {
-      "id": "50594493",
-      "title": "Say which AI wrote it: AI transparency for Open Source projects",
-      "url": "https://www.saywhichai.org",
-      "summary": "A simple practice for Open Source projects that accept AI-assisted contributions: each commit names the model that wrote it, and a person answers for the change.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T22:59:47Z",
+      "id": "50600632",
+      "title": "The EU Commission has been the victim of a cyberattack carried out using AI",
+      "url": "https://www.eunews.it/en/2026/11/19/the-eu-commission-has-been-the-victim-of-a-cyberattack-carried-out-using-ai/",
+      "summary": "Politico reveals a cyberattack on the European Commission; the European Commission has today confirmed the breach of its internal systems",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-22T15:36:36Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 16,
-      "author": "cedricbonhomme",
+      "author": "jruohonen",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "A simple practice for Open Source projects that accept AI-assisted contributions: each commit names the model that wrote it, and a person answers for the change.",
-      "author_name": "cedricbonhomme"
+      "text": "Politico reveals a cyberattack on the European Commission; the European Commission has today confirmed the breach of its internal systems",
+      "author_name": "jruohonen"
     },
     {
-      "id": "50594339",
-      "title": "Kvdiff – Local proxy showing the byte breaking your LLM prompt cache",
-      "url": "https://github.com/flipcyde101/kvdiff",
-      "summary": "Zero-code local proxy that pinpoints the exact UTF-8 byte breaking your LLM prompt cache (Anthropic, OpenAI, Gemini/Antigravity, llama.cpp/vLLM) and optionally auto-heals prefixes live. - flipcyde101/kvdiff",
+      "id": "50600460",
+      "title": "Bypassing ADB: 0.32ms Android UI trees and A* routing for AI agents (Rust/Kotlin",
+      "url": "https://github.com/V0val0x/DroidPath/blob/main/docs/benchmarks.md",
+      "summary": "Cross-platform Rust + Tauri v2 + Kotlin Shadow DOM MCP server & persistent A* symbolic UI router for autonomous Android control (Windows, Linux, macOS) - DroidPath/docs/benchmarks.md at main · V0val0x/DroidPath",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T22:38:12Z",
+      "publishedAt": "2026-11-22T15:19:19Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 30,
-      "author": "flipcyde101",
+      "author": "Ak4shik",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "Zero-code local proxy that pinpoints the exact UTF-8 byte breaking your LLM prompt cache (Anthropic, OpenAI, Gemini/Antigravity, llama.cpp/vLLM) and optionally auto-heals prefixes live. - flipcyde101/kvdiff",
-      "author_name": "flipcyde101"
+      "text": "Cross-platform Rust + Tauri v2 + Kotlin Shadow DOM MCP server & persistent A* symbolic UI router for autonomous Android control (Windows, Linux, macOS) - DroidPath/docs/benchmarks.md at main · V0val0x/DroidPath",
+      "author_name": "Ak4shik"
     },
     {
-      "id": "50594171",
-      "title": "Cursor may stop using Chinese open-weights AI models",
-      "url": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
-      "summary": "A House investigation recommends barring Chinese open-weight AI models from federal systems as coding tool Cursor explores phasing out Moonshot&#x27;s Kimi model.",
+      "id": "50600366",
+      "title": "Local AI agents investigate an unknown machine attached to a serial port",
+      "url": "https://github.com/podstawek/explorer-of-serial",
+      "summary": "Local AI models, with no Internet connection, explore, discover and then program a vintage device attached to serial port - podstawek/explorer-of-serial",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T22:14:48Z",
+      "publishedAt": "2026-11-22T15:05:54Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 31,
+      "author": "bluepeter",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Local AI models, with no Internet connection, explore, discover and then program a vintage device attached to serial port - podstawek/explorer-of-serial",
+      "author_name": "bluepeter"
+    },
+    {
+      "id": "50599916",
+      "title": "Honey, We Have Claude at Home",
+      "url": "https://yudhanjaya.com/docs/experiments/local-llms-experiments/",
+      "summary": "Running large open-weights language models on my own hardware, off-grid in Sri Lanka: the models that work, the engines that run them, and how to set it up yourself.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-22T14:14:58Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "theanonymousone",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Running large open-weights language models on my own hardware, off-grid in Sri Lanka: the models that work, the engines that run them, and how to set it up yourself.",
+      "author_name": "theanonymousone"
+    },
+    {
+      "id": "50597611",
+      "title": "Is AI plagiarizing human research?",
+      "url": "https://twitter.com/Robert_E_Grant_/status/2124338413662847228",
+      "summary": "Is AI plagiarizing human research? I’ve formally contacted Anthropic CEO Dario Amodei over concerning overlaps involving my research and a purported AI-generated Riemann Hypothesis proof. Human discovery deserves protection, transparency, and accountability. PLEASE SHARE.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-22T08:57:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "doener",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Is AI plagiarizing human research? I’ve formally contacted Anthropic CEO Dario Amodei over concerning overlaps involving my research and a purported AI-generated Riemann Hypothesis proof. Human discovery deserves protection, transparency, and accountability. PLEASE SHARE.",
+      "author_name": "doener"
+    },
+    {
+      "id": "50596511",
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "summary": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-22T05:11:43Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 107,
+      "author": "kristianp",
+      "likes": 91,
+      "views": 21,
+      "retweets": 0,
+      "text": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
+      "author_name": "kristianp"
+    },
+    {
+      "id": "50595181",
+      "title": "TonkAI – OpenAI-Compatible Gateway for GPT, Claude, Gemini, DeepSeek, and Qwen",
+      "url": "https://tonkai.app/",
+      "summary": "Chat with Claude, GPT, Gemini and more in one place: presentations, websites, images, documents and web search, with one plan. The same models through one OpenAI-compatible API. Free to start.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-22T00:59:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "reqz",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Chat with Claude, GPT, Gemini and more in one place: presentations, websites, images, documents and web search, with one plan. The same models through one OpenAI-compatible API. Free to start.",
+      "author_name": "reqz"
+    },
+    {
+      "id": "50594702",
+      "title": "Anthropic mathematician proves Riemann hypothesis",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "summary": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-21T23:32:15Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "ComputedCamp995",
+      "author": "twilight-code",
       "likes": 3,
-      "views": 1,
+      "views": 4,
       "retweets": 0,
-      "text": "A House investigation recommends barring Chinese open-weight AI models from federal systems as coding tool Cursor explores phasing out Moonshot&#x27;s Kimi model.",
-      "author_name": "ComputedCamp995"
-    },
-    {
-      "id": "50593617",
-      "title": "Brain Doesn't Think in Sentences. Why Should an LLM?",
-      "url": "https://www.innerkore.com/blog/brain-doesnt-think-sentences-llm/",
-      "summary": "Innerkore Technologies Private Limited builds modern web applications, AI-enabled products, and digital platforms for ambitious teams.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T21:04:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "gagan2020",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Innerkore Technologies Private Limited builds modern web applications, AI-enabled products, and digital platforms for ambitious teams.",
-      "author_name": "gagan2020"
-    },
-    {
-      "id": "50591687",
-      "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny",
-      "url": "https://twitter.com/theallinpod/status/2123994998156722681",
-      "summary": "David Friedberg: Restricting Open Source AI is a Path to Tyranny “Open source needs to be allowed and frankly encouraged to proliferate because the absence of that means that you&#x27;re going to have tyrannical groups, ultimately, they become tyrannical. They don&#x27;t intend to be tyrannical, but every…",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-21T17:45:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 24,
-      "author": "pretext",
-      "likes": 7,
-      "views": 0,
-      "retweets": 0,
-      "text": "David Friedberg: Restricting Open Source AI is a Path to Tyranny “Open source needs to be allowed and frankly encouraged to proliferate because the absence of that means that you&#x27;re going to have tyrannical groups, ultimately, they become tyrannical. They don&#x27;t intend to be tyrannical, but every…",
-      "author_name": "pretext"
-    },
-    {
-      "id": "50591189",
-      "title": "I got banned from Lobsters for writing like an LLM",
-      "url": "https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/",
-      "summary": "I&#x27;ve been banned from Lobsters. If you&#x27;re bored, you can read about my experience. If you don&#x27;t know it, Lobsters is a news aggregator focused on…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T17:00:41Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 23,
-      "author": "kristianpaul",
-      "likes": 9,
-      "views": 2,
-      "retweets": 0,
-      "text": "I&#x27;ve been banned from Lobsters. If you&#x27;re bored, you can read about my experience. If you don&#x27;t know it, Lobsters is a news aggregator focused on…",
-      "author_name": "kristianpaul"
+      "text": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
+      "author_name": "twilight-code"
     },
     {
       "id": "50591169",
@@ -235,9 +215,9 @@
         "AI",
         "科技"
       ],
-      "score": 30,
+      "score": 31,
       "author": "Betelbuddy",
-      "likes": 1,
+      "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "Open firmware for the YIZHAN 4K (XHU4012) HDMI/USB microscope camera — SigmaStar SSC8836 (Mercury6), GC8613 sensor - openmicrocam/README.md at main · apnix/openmicrocam",
@@ -264,44 +244,24 @@
       "author_name": "acossta"
     },
     {
-      "id": "50585265",
-      "title": "Anthropic mathematician claims to prove Riemann hypothesis",
-      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-      "summary": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T02:23:20Z",
+      "id": "50575429",
+      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-20T14:50:18Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 16,
-      "author": "kwar13",
-      "likes": 2,
-      "views": 1,
+      "score": 37,
+      "author": "WithinReason",
+      "likes": 6,
+      "views": 2,
       "retweets": 0,
-      "text": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
-      "author_name": "kwar13"
-    },
-    {
-      "id": "50582734",
-      "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
-      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "summary": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-20T21:49:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 24,
-      "author": "paulis",
-      "likes": 10,
-      "views": 0,
-      "retweets": 0,
-      "text": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
-      "author_name": "paulis"
+      "text": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "author_name": "WithinReason"
     },
     {
       "id": "50536967",
@@ -324,24 +284,44 @@
       "author_name": "fisteh"
     },
     {
-      "id": "50465984",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "url": "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
-      "summary": "Oura announces plans to acquire Counsel Health, connecting continuous biometric insights with AI-native primary care and on-demand physicians.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-12T12:06:06Z",
+      "id": "50515877",
+      "title": "Italian court places Revolut under supervision over money laundering",
+      "url": "https://www.fstech.co.uk/fst/Italian_Court_Places_Revolut_Under_Supervision_Over_Money_Laundering.php",
+      "summary": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-11-16T10:01:11Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "FemTech_AI",
-      "likes": 1,
-      "views": 0,
+      "score": 35,
+      "author": "marcyb5st",
+      "likes": 20,
+      "views": 1,
       "retweets": 0,
-      "text": "Oura announces plans to acquire Counsel Health, connecting continuous biometric insights with AI-native primary care and on-demand physicians.",
-      "author_name": "FemTech_AI"
+      "text": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
+      "author_name": "marcyb5st"
+    },
+    {
+      "id": "50250462",
+      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
+      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
+      "publishedAt": "2026-10-26T20:29:10Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 14,
+      "author": "p1anecrazy",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "p1anecrazy"
     }
   ]
 }
