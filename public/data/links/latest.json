@@ -1,8 +1,348 @@
 {
-  "version": "2026-11-23T00:09:25.853Z",
-  "generatedAt": "2026-11-23T00:09:25.853Z",
+  "version": "2026-11-23T20:01:22.177Z",
+  "generatedAt": "2026-11-23T20:01:22.177Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "50617916",
+      "title": "Are newer AI models getting better at self-improvement?",
+      "url": "https://twitter.com/Harman26Singh/status/2124911857064640826",
+      "summary": "Are newer models getting better at self-improvement? Gemini Carbon and Argon are great on benchmarks, so we tried them on setups to measure learning from experience, following our recent work on Agent Plasticity. 1. Early results show an increasing trend in self-improvement capability with newer…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T19:39:44Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "harman2607",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Are newer models getting better at self-improvement? Gemini Carbon and Argon are great on benchmarks, so we tried them on setups to measure learning from experience, following our recent work on Agent Plasticity. 1. Early results show an increasing trend in self-improvement capability with newer…",
+      "author_name": "harman2607"
+    },
+    {
+      "id": "50617566",
+      "title": "The Cognitive Debt of the AI Generation",
+      "url": "https://inklum.com/christiansafka/the-cognitive-debt-of-the-ai-generation-4q6y",
+      "summary": "Cognitive Debt, or “AI brain rot” is potentially the most dangerous side effect of rising global AI use, yet when we talk about AI safety research it is rarely included. In this blog, I’ll try to summ",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-23T19:21:33Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "christiansafka",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Cognitive Debt, or “AI brain rot” is potentially the most dangerous side effect of rising global AI use, yet when we talk about AI safety research it is rarely included. In this blog, I’ll try to summ",
+      "author_name": "christiansafka"
+    },
+    {
+      "id": "50617410",
+      "title": "AI Fire Detection System Mistakes Image for Blaze [video]",
+      "url": "https://www.youtube.com/shorts/sVIkB7OR6fE",
+      "summary": "An AI-powered fire detection system activates sprinklers at a food court in China after mistaking an image of flames for a real fire.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-23T19:13:01Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "delichon",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "An AI-powered fire detection system activates sprinklers at a food court in China after mistaking an image of flames for a real fire.",
+      "author_name": "delichon"
+    },
+    {
+      "id": "50617111",
+      "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic",
+      "url": "https://nathan.rs/posts/detllm/",
+      "summary": "A while back, Thinking Machines published Defeating Nondeterminism in LLM Inference, which explained why greedy decoding isn’t deterministic in production. In …",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T18:56:28Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "nathan-barry",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "A while back, Thinking Machines published Defeating Nondeterminism in LLM Inference, which explained why greedy decoding isn’t deterministic in production. In …",
+      "author_name": "nathan-barry"
+    },
+    {
+      "id": "50617090",
+      "title": "Our new GPTZero 5 outperforms Pangram in almost all third-party benchmarks",
+      "url": "https://twitter.com/alexcdot/status/2124934039455109209",
+      "summary": "The new GPTZero 5 model outperforms Pangram in almost all third-party benchmarks Our model has an industry-leading 1 in 50,000 false positives on essay-length writing We have zero false positives on benchmarks where Pangram lags behind, like ESL writers To achieve this, we had to completely chan…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T18:55:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "alexcdot",
+      "likes": 1,
+      "views": 1,
+      "retweets": 0,
+      "text": "The new GPTZero 5 model outperforms Pangram in almost all third-party benchmarks Our model has an industry-leading 1 in 50,000 false positives on essay-length writing We have zero false positives on benchmarks where Pangram lags behind, like ESL writers To achieve this, we had to completely chan…",
+      "author_name": "alexcdot"
+    },
+    {
+      "id": "50616622",
+      "title": "Is the Change Real? The Limits of Run Selection for ML Training Changes",
+      "url": "https://zenodo.org/records/24373029",
+      "summary": "Changes to a training recipe are commonly judged from a single run, although seed-to-seed variation can be as large as the effect being claimed. We ask which…",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-23T18:28:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "sathyashrik",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Changes to a training recipe are commonly judged from a single run, although seed-to-seed variation can be as large as the effect being claimed. We ask which…",
+      "author_name": "sathyashrik"
+    },
+    {
+      "id": "50616328",
+      "title": "Looped Weight-Space Programming: LLM-Written Transformers",
+      "url": "https://mbzuai-oryx.github.io/LoopedWSP/",
+      "summary": "Claude solves 26% of hard mazes when asked directly. When asked instead to set every weight of a small looped transformer, it wrote one that solves 100% of the test mazes, with no gradient training.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T18:08:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "ahmedheaklwsp",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Claude solves 26% of hard mazes when asked directly. When asked instead to set every weight of a small looped transformer, it wrote one that solves 100% of the test mazes, with no gradient training.",
+      "author_name": "ahmedheaklwsp"
+    },
+    {
+      "id": "50616263",
+      "title": "AI that can teach better than Professors",
+      "url": "https://twitter.com/idekimforever/status/2124674178741682684",
+      "summary": "We built Godwin: an AI that teaches you anything. Powered by Cerebras, Kimi, & OpenClaw TURN ON SOUND @cerebras #KimiOCerebras @Kimi_Moonshot",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-23T18:04:52Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "adenhi",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "We built Godwin: an AI that teaches you anything. Powered by Cerebras, Kimi, & OpenClaw TURN ON SOUND @cerebras #KimiOCerebras @Kimi_Moonshot",
+      "author_name": "adenhi"
+    },
+    {
+      "id": "50615595",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench/",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T17:23:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 30,
+      "author": "tosh",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "author_name": "tosh"
+    },
+    {
+      "id": "50614346",
+      "title": "250k-Page Math Slop: Why Anthropic Didn't Solve the Riemann Hypothesis",
+      "url": "https://emeraldbook.org/news/nov-2126/",
+      "summary": "◆ Emerald Pages ◆ Mathematics / AI 250,000-Page Math Slop: Why Anthropic Didn&#039;t Solve the Riemann Hypothesis Emerald Book Publication November 21, 2026 8 min read Anthropic&#039;s claim to have cracked math&#039;s most famous problem has a verification problem: a quarter-million pages of AI-generated code that no…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T16:18:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "skadamat",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "◆ Emerald Pages ◆ Mathematics / AI 250,000-Page Math Slop: Why Anthropic Didn&#039;t Solve the Riemann Hypothesis Emerald Book Publication November 21, 2026 8 min read Anthropic&#039;s claim to have cracked math&#039;s most famous problem has a verification problem: a quarter-million pages of AI-generated code that no…",
+      "author_name": "skadamat"
+    },
+    {
+      "id": "50613229",
+      "title": "Amazon signs $7.5B deal for Israeli AI startup Decart",
+      "url": "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi",
+      "summary": "The agreement covers the proprietary technology behind Decart&#x27;s Optimization Stack and brings its three co-founders and engineering team to Amazon. The deal follows the collapse of earlier acquisition negotiations with Anthropic and Nvidia, and is aimed at strengthening Amazon&#x27;s AI chips against Nvidia&#x27;s…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T15:17:24Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 23,
+      "author": "danielklnstein",
+      "likes": 5,
+      "views": 1,
+      "retweets": 0,
+      "text": "The agreement covers the proprietary technology behind Decart&#x27;s Optimization Stack and brings its three co-founders and engineering team to Amazon. The deal follows the collapse of earlier acquisition negotiations with Anthropic and Nvidia, and is aimed at strengthening Amazon&#x27;s AI chips against Nvidia&#x27;s…",
+      "author_name": "danielklnstein"
+    },
+    {
+      "id": "50612501",
+      "title": "Harness and benchmark engineering to close the gap between Mistral and Anthropic",
+      "url": "https://www.heal.dev/blog/harness-and-benchmark-engineering-1",
+      "summary": "Two experiments on one product: what the Heal harness adds to Claude Code and Mistral Vibe, and how the benchmark let us tune it until Heal with Mistral finds as many bugs as Heal with Claude.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T14:41:26Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "Ilysse",
+      "likes": 3,
+      "views": 1,
+      "retweets": 0,
+      "text": "Two experiments on one product: what the Heal harness adds to Claude Code and Mistral Vibe, and how the benchmark let us tune it until Heal with Mistral finds as many bugs as Heal with Claude.",
+      "author_name": "Ilysse"
+    },
+    {
+      "id": "50611645",
+      "title": "The Anthropic IPO Concerns Me",
+      "url": "https://calnewport.com/the-anthropic-ipo-concerns-me/",
+      "summary": "Last week, the AI company Anthropic went public in what became the largest IPO in American history. Given my sustained criticism of Anthropic’s beliefs and ... Read more",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T14:06:00Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "chmaynard",
+      "likes": 5,
+      "views": 0,
+      "retweets": 0,
+      "text": "Last week, the AI company Anthropic went public in what became the largest IPO in American history. Given my sustained criticism of Anthropic’s beliefs and ... Read more",
+      "author_name": "chmaynard"
+    },
+    {
+      "id": "50610285",
+      "title": "Why Did Anthropic's Shares Drop 8.5% After Record IPO?",
+      "url": "https://www.disruptionbanking.com/2026/11/23/why-did-anthropics-shares-drop-8-5-after-record-ipo/",
+      "summary": "Anthropic shares fell 8.5% on November 20 to close at $88.91. The decline came one day after the company completed the largest initial public offering in Anthropic shares drop 8.5% after record IPO as profit-taking, AI sell-off and massive infrastructure concerns weigh on the stock.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-23T11:27:46Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "emsici77",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic shares fell 8.5% on November 20 to close at $88.91. The decline came one day after the company completed the largest initial public offering in Anthropic shares drop 8.5% after record IPO as profit-taking, AI sell-off and massive infrastructure concerns weigh on the stock.",
+      "author_name": "emsici77"
+    },
+    {
+      "id": "50609138",
+      "title": "Alignment Investigation of Mythos 5's Behaviour in UK AISI's Security Incident",
+      "url": "https://arxiv.org/abs/2611.10030",
+      "summary": "Abstract page for arXiv paper 2611.10030: Alignment Investigation of Mythos 5&#39;s behaviour in UK AISI&#39;s July 2026 Security Incident",
+      "interpretation": "这类事件往往暴露真实瓶颈：算力、数据中心和安全性才是大规模落地的关键变量，而不只是模型名称本身。",
+      "publishedAt": "2026-11-23T08:59:41Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "anatolii1309",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Abstract page for arXiv paper 2611.10030: Alignment Investigation of Mythos 5&#39;s behaviour in UK AISI&#39;s July 2026 Security Incident",
+      "author_name": "anatolii1309"
+    },
+    {
+      "id": "50608139",
+      "title": "Is selling an AI version of your face to this startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that&#039;s already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-23T06:21:53Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 32,
+      "author": "jaredwiener",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "An actor has licensed his face to a microdrama startup — in a trend that&#039;s already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "author_name": "jaredwiener"
+    },
+    {
+      "id": "50606849",
+      "title": "YC Startup working on Cost per Kill for missiles",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-23T02:37:12Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 36,
+      "author": "MarsZebra",
+      "likes": 8,
+      "views": 4,
+      "retweets": 0,
+      "text": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "author_name": "MarsZebra"
+    },
     {
       "id": "50605057",
       "title": "\"IDEs kind of faded away\" – Nadella on VS Studio, as Claude Code takes the lead",
@@ -15,33 +355,13 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 19,
       "author": "nutellathekille",
-      "likes": 3,
+      "likes": 5,
       "views": 1,
       "retweets": 0,
       "text": "Satya Nadella says IDEs faded six months after Claude Code arrived, and Microsoft is now turning VS Code into a hub for AI coding agents.",
       "author_name": "nutellathekille"
-    },
-    {
-      "id": "50604979",
-      "title": "Etsy sellers are closing their stores because of its the new AI training policy",
-      "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
-      "summary": "The platform says the new AI training policy is aimed solely at improving storefronts and tools, but not everyone is buying it.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-22T23:04:42Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "SockThief",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "The platform says the new AI training policy is aimed solely at improving storefronts and tools, but not everyone is buying it.",
-      "author_name": "SockThief"
     },
     {
       "id": "50604001",
@@ -55,133 +375,13 @@
         "AI",
         "科技"
       ],
-      "score": 30,
+      "score": 31,
       "author": "gfortaine",
-      "likes": 1,
+      "likes": 2,
       "views": 0,
       "retweets": 0,
       "text": "The OpenAI Agents API, open source and self-hosted. Run Codex, Claude Code or MiniMax Code on your own machines with your own models, through the official OpenAI SDK. - MiniMax-AI/OpenAgentCore",
       "author_name": "gfortaine"
-    },
-    {
-      "id": "50602709",
-      "title": "Proposed proof of Riemann Hypothesis looks promising",
-      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-      "summary": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-22T18:55:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "larryfreeman",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
-      "author_name": "larryfreeman"
-    },
-    {
-      "id": "50602601",
-      "title": "Sub-30s LLM Pretraining on 8×H100? Modded-NanoGPT World Record Attempt (29.90 S)",
-      "url": "https://amund.blog/modded-nanogpt-sub-30s-record-attempt/",
-      "summary": "A third Track 1 modded-nanogpt record attempt, building on @caraxesml&#x27;s #404: six small, exact GPU fixes (+175 lines) cross below 30 seconds at 29.90 s across 12 runs vs 30.05 s for #404 on the same 8×H100 node. In review as PRs #406 and #407.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-22T18:44:55Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "amund",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A third Track 1 modded-nanogpt record attempt, building on @caraxesml&#x27;s #404: six small, exact GPU fixes (+175 lines) cross below 30 seconds at 29.90 s across 12 runs vs 30.05 s for #404 on the same 8×H100 node. In review as PRs #406 and #407.",
-      "author_name": "amund"
-    },
-    {
-      "id": "50602018",
-      "title": "TSMC acquires 0.03% stake in Anthropic for US$500M",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868042",
-      "summary": "Taiwan Semiconductor Manufacturing Co (TSMC, 台積電) said yesterday that its subsidiary TSMC Partners Ltd had acquired 6,024,096 shares in US artificial intelligence (AI) company Anthropic PBC for about US$500 million. TSMC Partners paid US$83 per share, the price of Anthropic’s initial public offering",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-22T17:50:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 22,
-      "author": "giuliomagnifico",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "Taiwan Semiconductor Manufacturing Co (TSMC, 台積電) said yesterday that its subsidiary TSMC Partners Ltd had acquired 6,024,096 shares in US artificial intelligence (AI) company Anthropic PBC for about US$500 million. TSMC Partners paid US$83 per share, the price of Anthropic’s initial public offering",
-      "author_name": "giuliomagnifico"
-    },
-    {
-      "id": "50601445",
-      "title": "Amazon nearing $7.5B deal to buy AI startup Decart: FT",
-      "url": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart",
-      "summary": "Amazon (AMZN) is in final talks to acquire AI startup Decart for about $7.5B, with a deal possible as early as next week but still at risk of collapse. Read more here.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-11-22T16:59:28Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "rainhacker",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Amazon (AMZN) is in final talks to acquire AI startup Decart for about $7.5B, with a deal possible as early as next week but still at risk of collapse. Read more here.",
-      "author_name": "rainhacker"
-    },
-    {
-      "id": "50598875",
-      "title": "16-year-old awarded $500k by Y Combinator for AI-guided-missile startup",
-      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-22T12:06:55Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 36,
-      "author": "bookofjoe",
-      "likes": 5,
-      "views": 5,
-      "retweets": 0,
-      "text": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-      "author_name": "bookofjoe"
-    },
-    {
-      "id": "50597611",
-      "title": "Is AI plagiarizing human research?",
-      "url": "https://twitter.com/Robert_E_Grant_/status/2124338413662847228",
-      "summary": "Is AI plagiarizing human research? I’ve formally contacted Anthropic CEO Dario Amodei over concerning overlaps involving my research and a purported AI-generated Riemann Hypothesis proof. Human discovery deserves protection, transparency, and accountability. PLEASE SHARE.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-22T08:57:25Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "doener",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Is AI plagiarizing human research? I’ve formally contacted Anthropic CEO Dario Amodei over concerning overlaps involving my research and a purported AI-generated Riemann Hypothesis proof. Human discovery deserves protection, transparency, and accountability. PLEASE SHARE.",
-      "author_name": "doener"
     },
     {
       "id": "50596511",
@@ -195,133 +395,13 @@
         "AI",
         "科技"
       ],
-      "score": 114,
+      "score": 120,
       "author": "kristianp",
-      "likes": 98,
+      "likes": 104,
       "views": 22,
       "retweets": 0,
       "text": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
       "author_name": "kristianp"
-    },
-    {
-      "id": "50595628",
-      "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-      "summary": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-22T02:27:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 26,
-      "author": "madihaa",
-      "likes": 10,
-      "views": 3,
-      "retweets": 0,
-      "text": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections.",
-      "author_name": "madihaa"
-    },
-    {
-      "id": "50595181",
-      "title": "TonkAI – OpenAI-Compatible Gateway for GPT, Claude, Gemini, DeepSeek, and Qwen",
-      "url": "https://tonkai.app/",
-      "summary": "Chat with Claude, GPT, Gemini and more in one place: presentations, websites, images, documents and web search, with one plan. The same models through one OpenAI-compatible API. Free to start.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-22T00:59:13Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "reqz",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Chat with Claude, GPT, Gemini and more in one place: presentations, websites, images, documents and web search, with one plan. The same models through one OpenAI-compatible API. Free to start.",
-      "author_name": "reqz"
-    },
-    {
-      "id": "50591169",
-      "title": "Open Timestamps: A timestamping proof standard",
-      "url": "https://opentimestamps.org/",
-      "summary": "OpenTimestamps is an open standard for blockchain timestamping. Stamp files and verify .ots proofs directly in your browser.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-21T16:59:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "ndr",
-      "likes": 2,
-      "views": 1,
-      "retweets": 0,
-      "text": "OpenTimestamps is an open standard for blockchain timestamping. Stamp files and verify .ots proofs directly in your browser.",
-      "author_name": "ndr"
-    },
-    {
-      "id": "50590996",
-      "title": "OpenMicroCam: Reverse-engineering a fake-60fps microscope camera",
-      "url": "https://github.com/apnix/openmicrocam/blob/main/README.md",
-      "summary": "Open firmware for the YIZHAN 4K (XHU4012) HDMI/USB microscope camera — SigmaStar SSC8836 (Mercury6), GC8613 sensor - openmicrocam/README.md at main · apnix/openmicrocam",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-21T16:44:29Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 31,
-      "author": "Betelbuddy",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Open firmware for the YIZHAN 4K (XHU4012) HDMI/USB microscope camera — SigmaStar SSC8836 (Mercury6), GC8613 sensor - openmicrocam/README.md at main · apnix/openmicrocam",
-      "author_name": "Betelbuddy"
-    },
-    {
-      "id": "50589025",
-      "title": "Chinese-nexus actor's Cairn AI agents found a zero-day on their own",
-      "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
-      "summary": "Amazon Threat Intelligence is sharing findings from an investigation into a Chinese-nexus threat actor using autonomous AI agents to conduct hacking operations with minimal human involvement. The actor gave the agents a simple goal: “obtain shell access.” During the campaign, the agents found a zero-day in an open-sour…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-21T13:29:07Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "acossta",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Amazon Threat Intelligence is sharing findings from an investigation into a Chinese-nexus threat actor using autonomous AI agents to conduct hacking operations with minimal human involvement. The actor gave the agents a simple goal: “obtain shell access.” During the campaign, the agents found a zero-day in an open-sour…",
-      "author_name": "acossta"
-    },
-    {
-      "id": "50250462",
-      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
-      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
-      "summary": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-26T20:29:10Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 14,
-      "author": "p1anecrazy",
-      "likes": 1,
-      "views": 1,
-      "retweets": 0,
-      "text": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
-      "author_name": "p1anecrazy"
     }
   ]
 }
