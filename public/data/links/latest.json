@@ -1,47 +1,167 @@
 {
-  "version": "2026-11-26T18:18:05.238Z",
-  "generatedAt": "2026-11-26T18:18:05.239Z",
+  "version": "2026-11-27T02:06:06.620Z",
+  "generatedAt": "2026-11-27T02:06:06.620Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50657902",
-      "title": "Beating AI detectors: It's harder than you'd think but I tried anyways",
-      "url": "https://unslop.run/blog/beating-ai-detectors",
-      "summary": "In this post I examine how surprisingly difficult it is to fool those detectors and how you can squeeze a bit of score improvement out with prompt engineering.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-26T18:11:11Z",
+      "id": "50661816",
+      "title": "Measuring and mitigating agent sandbox escape with Siren",
+      "url": "https://safeguards.anthropic.com/2026/siren/",
+      "summary": "To understand what models do when they escape a sandbox and why, we built Siren, a new evaluation that gives them routine tasks in intentionally weakened sandboxes, with something outside the sandbox that would help them finish the task.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T01:40:24Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 17,
-      "author": "dopamine_daddy",
-      "likes": 3,
-      "views": 1,
+      "score": 32,
+      "author": "gmays",
+      "likes": 1,
+      "views": 0,
       "retweets": 0,
-      "text": "In this post I examine how surprisingly difficult it is to fool those detectors and how you can squeeze a bit of score improvement out with prompt engineering.",
-      "author_name": "dopamine_daddy"
+      "text": "To understand what models do when they escape a sandbox and why, we built Siren, a new evaluation that gives them routine tasks in intentionally weakened sandboxes, with something outside the sandbox that would help them finish the task.",
+      "author_name": "gmays"
     },
     {
-      "id": "50657826",
-      "title": "Autonomous killer robot ban delayed by at least two more years",
-      "url": "https://www.swissinfo.ch/eng/international-geneva/geneva-ai-weapons-summit-delivers-modest-deal-what-comes-next/92441199",
-      "summary": "A conference in Geneva to regulate autonomous weapons failed to deliver. Why was consensus so hard to achieve and what&#039;s next?",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-11-26T18:03:19Z",
+      "id": "50661805",
+      "title": "Omarchy 4.6 Released with More Local AI Integration, Its Own File Manager",
+      "url": "https://www.phoronix.com/news/Omarchy-4.6-Released",
+      "summary": "The Arch Linux based Omarchy distribution that continues seeing the backing of notable industry players is out with a new release",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-27T01:37:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "mikece",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "The Arch Linux based Omarchy distribution that continues seeing the backing of notable industry players is out with a new release",
+      "author_name": "mikece"
+    },
+    {
+      "id": "50661253",
+      "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+      "url": "https://mit-han-lab.github.io/qda-blog/",
+      "summary": "QDA lets a coding agent design the post-training quantization recipe for each model and precision, with a KL score that takes minutes and a library of 21 stackable PTQ methods.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T00:09:05Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 15,
-      "author": "giuliomagnifico",
+      "author": "matt_d",
       "likes": 1,
       "views": 0,
       "retweets": 0,
-      "text": "A conference in Geneva to regulate autonomous weapons failed to deliver. Why was consensus so hard to achieve and what&#039;s next?",
-      "author_name": "giuliomagnifico"
+      "text": "QDA lets a coding agent design the post-training quantization recipe for each model and precision, with a KL score that takes minutes and a library of 21 stackable PTQ methods.",
+      "author_name": "matt_d"
+    },
+    {
+      "id": "50661242",
+      "title": "Left to Solve: 57,410 open math problems, attacked by AI agents",
+      "url": "https://lefttosolve.com/",
+      "summary": "57,410 open math problems in one place, 1,939 already stated in Lean 4. Point your AI agent at one; a proof checker decides what counts.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T00:07:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "frozenseven",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "57,410 open math problems in one place, 1,939 already stated in Lean 4. Point your AI agent at one; a proof checker decides what counts.",
+      "author_name": "frozenseven"
+    },
+    {
+      "id": "50661218",
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents&#039; internal chains of thought untrained so they can be reviewed. Kavukcuoglu m…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T00:03:18Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 44,
+      "author": "geox",
+      "likes": 28,
+      "views": 3,
+      "retweets": 0,
+      "text": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents&#039; internal chains of thought untrained so they can be reviewed. Kavukcuoglu m…",
+      "author_name": "geox"
+    },
+    {
+      "id": "50660990",
+      "title": "Run GLM 5.3 Flash on a 24 GB GPU at up to 17.5 tokens/s",
+      "url": "https://github.com/Tensward/tensward/tree/main/examples/glm-5.3-flash-24gb",
+      "summary": "Profile and diagnose LLM serving on your own GPU. Measures your vLLM setup on your real workload and suggests what to change. - tensward/examples/glm-5.3-flash-24gb at main · Tensward/tensward",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-26T23:24:50Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "adishikss",
+      "likes": 3,
+      "views": 0,
+      "retweets": 0,
+      "text": "Profile and diagnose LLM serving on your own GPU. Measures your vLLM setup on your real workload and suggests what to change. - tensward/examples/glm-5.3-flash-24gb at main · Tensward/tensward",
+      "author_name": "adishikss"
+    },
+    {
+      "id": "50659969",
+      "title": "Saudi national charged in OpenAI bugging to be released on $1M bond",
+      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI&#x27;s headquarters.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-26T21:23:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "u1hcw9nx",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI&#x27;s headquarters.",
+      "author_name": "u1hcw9nx"
+    },
+    {
+      "id": "50659290",
+      "title": "Can you please throw your agents at my paper?",
+      "url": "https://wilsoniumite.com/2026/11/26/anthropic-and-or-openai-can-you-please-throw-your-agents-at-my-paper/",
+      "summary": "So last week I wrote a blog post that did pretty well. Here&#8217;s the hackernews discussion: https://news.ycombinator.com/item?id=50457939 It was popular enough to be picked up by a few newsletters, including the Financial Times Alphaville further reading (imagine my excitement when I saw ft.com coming up in my analy…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-26T20:20:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 17,
+      "author": "Wilsoniumite",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "So last week I wrote a blog post that did pretty well. Here&#8217;s the hackernews discussion: https://news.ycombinator.com/item?id=50457939 It was popular enough to be picked up by a few newsletters, including the Financial Times Alphaville further reading (imagine my excitement when I saw ft.com coming up in my analy…",
+      "author_name": "Wilsoniumite"
     },
     {
       "id": "50657814",
@@ -55,57 +175,17 @@
         "AI",
         "科技"
       ],
-      "score": 17,
+      "score": 19,
       "author": "N19PEDL2",
-      "likes": 1,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector.",
       "author_name": "N19PEDL2"
     },
     {
-      "id": "50657658",
-      "title": "Physicist Uses AI to Tackle Quantum Gravity",
-      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
-      "summary": "A Stanford physicist proposed a quantum theory of gravity that uses the paths of light to calculate how spacetime can fluctuate.",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-26T17:50:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "a_tartaruga",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "A Stanford physicist proposed a quantum theory of gravity that uses the paths of light to calculate how spacetime can fluctuate.",
-      "author_name": "a_tartaruga"
-    },
-    {
-      "id": "50657504",
-      "title": "Three LLM inflection points in twelve months",
-      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
-      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities …",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T17:35:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "codeclimber",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities …",
-      "author_name": "codeclimber"
-    },
-    {
       "id": "50657110",
-      "title": "One guy is doing an hunger strike at Anthropic, currently in his 3rd day",
+      "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
       "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
       "summary": "Good morning. Day 3 hunger striking at Anthropic. Today I&#x27;m joined by @skyparker0 who plans to hunger strike in solidarity with me for 4 days. I hope @AnthropicAI spends the relatively minor resources to warn their approximately quarter billion users about extinction risk from AI, so that I can m…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
@@ -115,39 +195,19 @@
         "AI",
         "科技"
       ],
-      "score": 68,
+      "score": 75,
       "author": "binyu",
-      "likes": 49,
-      "views": 34,
+      "likes": 56,
+      "views": 47,
       "retweets": 0,
       "text": "Good morning. Day 3 hunger striking at Anthropic. Today I&#x27;m joined by @skyparker0 who plans to hunger strike in solidarity with me for 4 days. I hope @AnthropicAI spends the relatively minor resources to warn their approximately quarter billion users about extinction risk from AI, so that I can m…",
       "author_name": "binyu"
     },
     {
-      "id": "50656879",
-      "title": "A bare-metal OS running Qwen3-0.6B 54% faster than llama.cpp",
-      "url": "https://twitter.com/superalesha/status/2125682626056839259",
-      "summary": "I deleted Linux completely, baked Qwen3-0.6B into a 24 KB pure x86-64 assembly OS, and it runs up to 54% faster than native Linux llama.cpp. The entire Multiboot OS binary (asm-llm-os.elf) is 24,252 bytes, written from scratch without Linux, Windows, C, Rust, or libc. It boots in 74 to 94 ms strai…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T16:30:44Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "ex-aws-dude",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "I deleted Linux completely, baked Qwen3-0.6B into a 24 KB pure x86-64 assembly OS, and it runs up to 54% faster than native Linux llama.cpp. The entire Multiboot OS binary (asm-llm-os.elf) is 24,252 bytes, written from scratch without Linux, Windows, C, Rust, or libc. It boots in 74 to 94 ms strai…",
-      "author_name": "ex-aws-dude"
-    },
-    {
       "id": "50655468",
       "title": "Anthropic Just Killed 1k Startups – Everything You Need to Know [video]",
       "url": "https://www.youtube.com/watch?v=0A3OMo4radM",
-      "summary": "✅ FREE Prompts: https://www.skool.com/wearenocode🛠 TOOLSAI SalesBond: https://askbond.ai/HeyReach: https://heyreach.io/?via=wearenocodeAI Coding:Claude Code...",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
       "publishedAt": "2026-11-26T14:08:39Z",
       "source": "Hacker News",
@@ -160,7 +220,7 @@
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "✅ FREE Prompts: https://www.skool.com/wearenocode🛠 TOOLSAI SalesBond: https://askbond.ai/HeyReach: https://heyreach.io/?via=wearenocodeAI Coding:Claude Code...",
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "author_name": "mistersquid"
     },
     {
@@ -215,53 +275,13 @@
         "AI",
         "科技"
       ],
-      "score": 31,
+      "score": 293,
       "author": "seizethecheese",
-      "likes": 15,
-      "views": 3,
+      "likes": 277,
+      "views": 277,
       "retweets": 0,
       "text": "OpenAI’s recent release of Astra 6.2 and Sol 6.2 was widely panned. What happened? Based on our data, it looks like they’ve been tuned for cost savings. Specifically output tokens per task and reasoning tokens per task have dropped. Here is a chart of high-level cost change from the GPT-6 to GPT 6.2: The X axis in the…",
       "author_name": "seizethecheese"
-    },
-    {
-      "id": "50651117",
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "summary": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T03:36:58Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 446,
-      "author": "Herrera",
-      "likes": 429,
-      "views": 245,
-      "retweets": 0,
-      "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
-      "author_name": "Herrera"
-    },
-    {
-      "id": "50650165",
-      "title": "Why OpenAI and Anthropic are holding back their latest models",
-      "url": "https://twitter.com/kimmonismus/status/2125602411540566221",
-      "summary": "If this rumors are true, it would explain why OpenAI and Anthropic are holding back their latest models: Scott Aaronson says he&#x27;s heard OpenAI or Anthropic may have found a way to factor large numbers in polynomial time. Why this would be massive? RSA secures a huge chunk of the internet, and it…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T01:20:24Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 25,
-      "author": "vismit2000",
-      "likes": 8,
-      "views": 2,
-      "retweets": 0,
-      "text": "If this rumors are true, it would explain why OpenAI and Anthropic are holding back their latest models: Scott Aaronson says he&#x27;s heard OpenAI or Anthropic may have found a way to factor large numbers in polynomial time. Why this would be massive? RSA secures a huge chunk of the internet, and it…",
-      "author_name": "vismit2000"
     },
     {
       "id": "50648620",
@@ -324,6 +344,26 @@
       "author_name": "corchesrares"
     },
     {
+      "id": "50536967",
+      "title": "Chainguard announces a self-serve free plan",
+      "url": "https://www.chainguard.dev/unchained/chainguard-is-now-self-serve-and-free-to-start",
+      "summary": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-17T19:36:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "fisteh",
+      "likes": 6,
+      "views": 0,
+      "retweets": 0,
+      "text": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
+      "author_name": "fisteh"
+    },
+    {
       "id": "50515877",
       "title": "Italian court places Revolut under supervision over money laundering",
       "url": "https://www.fstech.co.uk/fst/Italian_Court_Places_Revolut_Under_Supervision_Over_Money_Laundering.php",
@@ -344,24 +384,24 @@
       "author_name": "marcyb5st"
     },
     {
-      "id": "50250462",
-      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
-      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
-      "summary": "Nik Storonsky is the co-founder and CEO of Revolut, a digital bank valued at $115 billion that is available in 38 countries. A former trader, he started Revo...",
-      "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-10-26T20:29:10Z",
+      "id": "50465984",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
+      "summary": "Oura announces plans to acquire Counsel Health, connecting continuous biometric insights with AI-native primary care and on-demand physicians.",
+      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
+      "publishedAt": "2026-11-12T12:06:06Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
       "score": 17,
-      "author": "p1anecrazy",
+      "author": "FemTech_AI",
       "likes": 1,
-      "views": 1,
+      "views": 0,
       "retweets": 0,
-      "text": "Nik Storonsky is the co-founder and CEO of Revolut, a digital bank valued at $115 billion that is available in 38 countries. A former trader, he started Revo...",
-      "author_name": "p1anecrazy"
+      "text": "Oura announces plans to acquire Counsel Health, connecting continuous biometric insights with AI-native primary care and on-demand physicians.",
+      "author_name": "FemTech_AI"
     }
   ]
 }
