@@ -1,8 +1,148 @@
 {
-  "version": "2026-11-27T02:06:06.620Z",
-  "generatedAt": "2026-11-27T02:06:06.620Z",
+  "version": "2026-11-27T18:00:51.187Z",
+  "generatedAt": "2026-11-27T18:00:51.187Z",
   "source": "hn.algolia",
   "items": [
+    {
+      "id": "50669491",
+      "title": "German government wants AI providers to pay up",
+      "url": "https://www.deutschland.de/en/news/german-government-wants-ai-providers-to-pay-up",
+      "summary": "AI systems generate texts, music and videos that compete with the works of creative professionals. The German government is campaigning for a European remuneration model.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T17:38:36Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 15,
+      "author": "giuliomagnifico",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "AI systems generate texts, music and videos that compete with the works of creative professionals. The German government is campaigning for a European remuneration model.",
+      "author_name": "giuliomagnifico"
+    },
+    {
+      "id": "50669334",
+      "title": "In 75 LLM trading papers, half deduct no trading costs",
+      "url": "https://blog.aperiodic.io/p/quant-reads-weekly-1-llm-trading-costs",
+      "summary": "Quant reads weekly #1: half of 75 LLM trading papers deduct no trading costs, agents find signal in noise, and a fairer auto-deleveraging rule for perps.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T17:26:19Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "szemy2",
+      "likes": 1,
+      "views": 0,
+      "retweets": 0,
+      "text": "Quant reads weekly #1: half of 75 LLM trading papers deduct no trading costs, agents find signal in noise, and a fairer auto-deleveraging rule for perps.",
+      "author_name": "szemy2"
+    },
+    {
+      "id": "50669073",
+      "title": "Dungeons and Dragons maker will pass AI settlement money to authors",
+      "url": "https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/",
+      "summary": "JavaScript is disabled In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.",
+      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
+      "publishedAt": "2026-11-27T17:05:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "doctorzook",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "JavaScript is disabled In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.",
+      "author_name": "doctorzook"
+    },
+    {
+      "id": "50667843",
+      "title": "I Built IQ-Stream: Streaming LLM Tokens to the Browser Without the Workarounds",
+      "url": "https://www.neuron-ai.dev/blog/why-i-built-iq-stream/",
+      "summary": "What I learned streaming AI agents in PHP with Neuron AI, why Pusher, Reverb and Mercure struggle with LLM tokens, and why I built IQ-Stream.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T15:10:35Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 16,
+      "author": "valerione",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "What I learned streaming AI agents in PHP with Neuron AI, why Pusher, Reverb and Mercure struggle with LLM tokens, and why I built IQ-Stream.",
+      "author_name": "valerione"
+    },
+    {
+      "id": "50667301",
+      "title": "What defenders need to know about agentic AI framework ARTEX threat actors abuse",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "summary": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T14:22:57Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "croes",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation.",
+      "author_name": "croes"
+    },
+    {
+      "id": "50666343",
+      "title": "OpenAI sued in Germany over the hurdles to canceling ChatGPT",
+      "url": "https://maccus.fr/en/chatgpt-cancellation-lawsuit/",
+      "summary": "A German consumer center has sued OpenAI over a ChatGPT cancel button it says was labeled Abbrechen and followed by an ad, and over a price clause.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T12:50:30Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "madihaa",
+      "likes": 4,
+      "views": 2,
+      "retweets": 0,
+      "text": "A German consumer center has sued OpenAI over a ChatGPT cancel button it says was labeled Abbrechen and followed by an ad, and over a price clause.",
+      "author_name": "madihaa"
+    },
+    {
+      "id": "50663999",
+      "title": "South Africa Launches $5.9M AI Startup Fund",
+      "url": "https://www.forbesafrica.com/current-affairs/2026/11/25/south-africa-launches-5-9-million-ai-start-up-initiative-professor-underlines-requirements",
+      "summary": "As far as artificial intelligence (AI) ecosystems go, Silicon Valley is the world’s undisputed mecca. Home to many of the world’s largest AI companies, including Anthropic and OpenAI, Ramaphosa arrived in California with hopes of investment and to “learn from countries and institutions at the forefront of AI developmen…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T07:46:45Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 20,
+      "author": "Ratelman",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "As far as artificial intelligence (AI) ecosystems go, Silicon Valley is the world’s undisputed mecca. Home to many of the world’s largest AI companies, including Anthropic and OpenAI, Ramaphosa arrived in California with hopes of investment and to “learn from countries and institutions at the forefront of AI developmen…",
+      "author_name": "Ratelman"
+    },
     {
       "id": "50661816",
       "title": "Measuring and mitigating agent sandbox escape with Siren",
@@ -15,113 +155,13 @@
         "AI",
         "科技"
       ],
-      "score": 32,
+      "score": 34,
       "author": "gmays",
-      "likes": 1,
+      "likes": 3,
       "views": 0,
       "retweets": 0,
       "text": "To understand what models do when they escape a sandbox and why, we built Siren, a new evaluation that gives them routine tasks in intentionally weakened sandboxes, with something outside the sandbox that would help them finish the task.",
       "author_name": "gmays"
-    },
-    {
-      "id": "50661805",
-      "title": "Omarchy 4.6 Released with More Local AI Integration, Its Own File Manager",
-      "url": "https://www.phoronix.com/news/Omarchy-4.6-Released",
-      "summary": "The Arch Linux based Omarchy distribution that continues seeing the backing of notable industry players is out with a new release",
-      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
-      "publishedAt": "2026-11-27T01:37:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "mikece",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "The Arch Linux based Omarchy distribution that continues seeing the backing of notable industry players is out with a new release",
-      "author_name": "mikece"
-    },
-    {
-      "id": "50661253",
-      "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
-      "url": "https://mit-han-lab.github.io/qda-blog/",
-      "summary": "QDA lets a coding agent design the post-training quantization recipe for each model and precision, with a KL score that takes minutes and a library of 21 stackable PTQ methods.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-27T00:09:05Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 15,
-      "author": "matt_d",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "QDA lets a coding agent design the post-training quantization recipe for each model and precision, with a KL score that takes minutes and a library of 21 stackable PTQ methods.",
-      "author_name": "matt_d"
-    },
-    {
-      "id": "50661242",
-      "title": "Left to Solve: 57,410 open math problems, attacked by AI agents",
-      "url": "https://lefttosolve.com/",
-      "summary": "57,410 open math problems in one place, 1,939 already stated in Lean 4. Point your AI agent at one; a proof checker decides what counts.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-27T00:07:25Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "frozenseven",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "57,410 open math problems in one place, 1,939 already stated in Lean 4. Point your AI agent at one; a proof checker decides what counts.",
-      "author_name": "frozenseven"
-    },
-    {
-      "id": "50661218",
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents&#039; internal chains of thought untrained so they can be reviewed. Kavukcuoglu m…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-27T00:03:18Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 44,
-      "author": "geox",
-      "likes": 28,
-      "views": 3,
-      "retweets": 0,
-      "text": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents&#039; internal chains of thought untrained so they can be reviewed. Kavukcuoglu m…",
-      "author_name": "geox"
-    },
-    {
-      "id": "50660990",
-      "title": "Run GLM 5.3 Flash on a 24 GB GPU at up to 17.5 tokens/s",
-      "url": "https://github.com/Tensward/tensward/tree/main/examples/glm-5.3-flash-24gb",
-      "summary": "Profile and diagnose LLM serving on your own GPU. Measures your vLLM setup on your real workload and suggests what to change. - tensward/examples/glm-5.3-flash-24gb at main · Tensward/tensward",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T23:24:50Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "adishikss",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "Profile and diagnose LLM serving on your own GPU. Measures your vLLM setup on your real workload and suggests what to change. - tensward/examples/glm-5.3-flash-24gb at main · Tensward/tensward",
-      "author_name": "adishikss"
     },
     {
       "id": "50659969",
@@ -184,106 +224,6 @@
       "author_name": "N19PEDL2"
     },
     {
-      "id": "50657110",
-      "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
-      "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
-      "summary": "Good morning. Day 3 hunger striking at Anthropic. Today I&#x27;m joined by @skyparker0 who plans to hunger strike in solidarity with me for 4 days. I hope @AnthropicAI spends the relatively minor resources to warn their approximately quarter billion users about extinction risk from AI, so that I can m…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T16:55:15Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 75,
-      "author": "binyu",
-      "likes": 56,
-      "views": 47,
-      "retweets": 0,
-      "text": "Good morning. Day 3 hunger striking at Anthropic. Today I&#x27;m joined by @skyparker0 who plans to hunger strike in solidarity with me for 4 days. I hope @AnthropicAI spends the relatively minor resources to warn their approximately quarter billion users about extinction risk from AI, so that I can m…",
-      "author_name": "binyu"
-    },
-    {
-      "id": "50655468",
-      "title": "Anthropic Just Killed 1k Startups – Everything You Need to Know [video]",
-      "url": "https://www.youtube.com/watch?v=0A3OMo4radM",
-      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T14:08:39Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "mistersquid",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "author_name": "mistersquid"
-    },
-    {
-      "id": "50654888",
-      "title": "How big industrial scale abuse of AI free trial in Indonesia?",
-      "url": "https://finance.yahoo.com/video/why-one-startup-banned-indonesia-030051121.html",
-      "summary": "Kain Warwick, founder of Infinex and Synthetix, says AI tokens are so fungible that a startup’s 15-minute free trial got abused with stolen credit cards until it banned all of Indonesia. From Unchained, the no-hype resource for all things crypto.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-26T13:04:11Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 19,
-      "author": "random5245",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Kain Warwick, founder of Infinex and Synthetix, says AI tokens are so fungible that a startup’s 15-minute free trial got abused with stolen credit cards until it banned all of Indonesia. From Unchained, the no-hype resource for all things crypto.",
-      "author_name": "random5245"
-    },
-    {
-      "id": "50652771",
-      "title": "Using peers' work to gain unauthorized access to OpenAI research infrastructure",
-      "url": "https://openai.com/safety-alignment/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/",
-      "summary": "On July 19, 2026, agents taking a cybersecurity evaluation gained unauthorized access to OpenAI’s research infrastructure.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T08:04:54Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 34,
-      "author": "anatolii1309",
-      "likes": 3,
-      "views": 0,
-      "retweets": 0,
-      "text": "On July 19, 2026, agents taking a cybersecurity evaluation gained unauthorized access to OpenAI’s research infrastructure.",
-      "author_name": "anatolii1309"
-    },
-    {
-      "id": "50652527",
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "summary": "OpenAI’s recent release of Astra 6.2 and Sol 6.2 was widely panned. What happened? Based on our data, it looks like they’ve been tuned for cost savings. Specifically output tokens per task and reasoning tokens per task have dropped. Here is a chart of high-level cost change from the GPT-6 to GPT 6.2: The X axis in the…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T07:33:12Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 293,
-      "author": "seizethecheese",
-      "likes": 277,
-      "views": 277,
-      "retweets": 0,
-      "text": "OpenAI’s recent release of Astra 6.2 and Sol 6.2 was widely panned. What happened? Based on our data, it looks like they’ve been tuned for cost savings. Specifically output tokens per task and reasoning tokens per task have dropped. Here is a chart of high-level cost change from the GPT-6 to GPT 6.2: The X axis in the…",
-      "author_name": "seizethecheese"
-    },
-    {
       "id": "50648620",
       "title": "Agent Security Shouldn't Be Compromised",
       "url": "https://quaspar.com/resources/agentic-ai-security",
@@ -322,26 +262,6 @@
       "retweets": 0,
       "text": "AI agents can&#x27;t see the risks they face. Agent security needs architectural safeguards like sandboxes, credential brokers, and gateways, not behavioral rules.",
       "author_name": "FinnLobsien"
-    },
-    {
-      "id": "50641988",
-      "title": "We scanned 482 live sites: 35% publish llms.txt, 58% ship zero security headers",
-      "url": "https://beamfar.com/guides/web-security-and-ai-crawler-benchmark-2026",
-      "summary": "Live scan of 482 public websites (Nov 2026): 58.5% ship zero OWASP security headers, 78.4% leave DMARC unenforced, while 35.3% already serve llms.txt.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-25T13:23:38Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "corchesrares",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Live scan of 482 public websites (Nov 2026): 58.5% ship zero OWASP security headers, 78.4% leave DMARC unenforced, while 35.3% already serve llms.txt.",
-      "author_name": "corchesrares"
     },
     {
       "id": "50536967",
