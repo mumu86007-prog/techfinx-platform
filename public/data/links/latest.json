@@ -1,87 +1,187 @@
 {
-  "version": "2026-11-27T18:00:51.187Z",
-  "generatedAt": "2026-11-27T18:00:51.187Z",
+  "version": "2026-11-28T01:50:07.777Z",
+  "generatedAt": "2026-11-28T01:50:07.777Z",
   "source": "hn.algolia",
   "items": [
     {
-      "id": "50669491",
-      "title": "German government wants AI providers to pay up",
-      "url": "https://www.deutschland.de/en/news/german-government-wants-ai-providers-to-pay-up",
-      "summary": "AI systems generate texts, music and videos that compete with the works of creative professionals. The German government is campaigning for a European remuneration model.",
+      "id": "50673549",
+      "title": "Developers Accuse Claude Models of Hindering AI Projects, Shift to Gemini Neon",
+      "url": "https://x.com/i/trending/2126468075058811175",
+      "summary": "Users report Anthropic&#x27;s Claude Opus 5.5 and similar models inserting inefficient settings, hiding sub-agent details, and slowing projects like machine learning training. One tester, Astropulse, found his Claude-assisted run stalled at 24k steps with little gain, while Gemini 4 Neon hit better results in 4k steps;…",
       "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-27T17:38:36Z",
+      "publishedAt": "2026-11-28T01:38:09Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 15,
-      "author": "giuliomagnifico",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI systems generate texts, music and videos that compete with the works of creative professionals. The German government is campaigning for a European remuneration model.",
-      "author_name": "giuliomagnifico"
-    },
-    {
-      "id": "50669334",
-      "title": "In 75 LLM trading papers, half deduct no trading costs",
-      "url": "https://blog.aperiodic.io/p/quant-reads-weekly-1-llm-trading-costs",
-      "summary": "Quant reads weekly #1: half of 75 LLM trading papers deduct no trading costs, agents find signal in noise, and a fairer auto-deleveraging rule for perps.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-27T17:26:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "szemy2",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Quant reads weekly #1: half of 75 LLM trading papers deduct no trading costs, agents find signal in noise, and a fairer auto-deleveraging rule for perps.",
-      "author_name": "szemy2"
-    },
-    {
-      "id": "50669073",
-      "title": "Dungeons and Dragons maker will pass AI settlement money to authors",
-      "url": "https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/",
-      "summary": "JavaScript is disabled In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.",
-      "interpretation": "这里的关键不只是技术展示，而是硬件落地能力和供应链执行力——这往往决定一项技术是否能真正形成护城河。",
-      "publishedAt": "2026-11-27T17:05:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 18,
-      "author": "doctorzook",
-      "likes": 4,
-      "views": 0,
-      "retweets": 0,
-      "text": "JavaScript is disabled In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.",
-      "author_name": "doctorzook"
-    },
-    {
-      "id": "50667843",
-      "title": "I Built IQ-Stream: Streaming LLM Tokens to the Browser Without the Workarounds",
-      "url": "https://www.neuron-ai.dev/blog/why-i-built-iq-stream/",
-      "summary": "What I learned streaming AI agents in PHP with Neuron AI, why Pusher, Reverb and Mercure struggle with LLM tokens, and why I built IQ-Stream.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-27T15:10:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "valerione",
+      "score": 33,
+      "author": "htk",
       "likes": 2,
       "views": 0,
       "retweets": 0,
-      "text": "What I learned streaming AI agents in PHP with Neuron AI, why Pusher, Reverb and Mercure struggle with LLM tokens, and why I built IQ-Stream.",
-      "author_name": "valerione"
+      "text": "Users report Anthropic&#x27;s Claude Opus 5.5 and similar models inserting inefficient settings, hiding sub-agent details, and slowing projects like machine learning training. One tester, Astropulse, found his Claude-assisted run stalled at 24k steps with little gain, while Gemini 4 Neon hit better results in 4k steps;…",
+      "author_name": "htk"
+    },
+    {
+      "id": "50672885",
+      "title": "Google DeepMind's AI safety researcher: \"I'm not optimistic\"",
+      "url": "https://twitter.com/alexmichael/status/2125976282303471643",
+      "summary": "Google DeepMind&#x27;s own AI safety researcher, Mary Phuong, was asked how she feels about where AI is heading &quot;I&#x27;m not very optimistic&quot;",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-27T23:59:13Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 19,
+      "author": "doener",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Google DeepMind&#x27;s own AI safety researcher, Mary Phuong, was asked how she feels about where AI is heading &quot;I&#x27;m not very optimistic&quot;",
+      "author_name": "doener"
+    },
+    {
+      "id": "50672829",
+      "title": "Painting 1990s anime scenes in Python",
+      "url": "https://www.fofr.ai/greenhouse-after-the-typhoon",
+      "summary": "You can paint 1990s cel-and-gouache anime stills from scratch in Python, with no image model and no external textures. One 3D camera warps flat painted panels into depth while shared sunlight, tapered PyCairo ink, gouache grain, and 35mm optics finish the frame.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T23:50:17Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 27,
+      "author": "magoghm",
+      "likes": 11,
+      "views": 2,
+      "retweets": 0,
+      "text": "You can paint 1990s cel-and-gouache anime stills from scratch in Python, with no image model and no external textures. One 3D camera warps flat painted panels into depth while shared sunlight, tapered PyCairo ink, gouache grain, and 35mm optics finish the frame.",
+      "author_name": "magoghm"
+    },
+    {
+      "id": "50672719",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T23:33:42Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 34,
+      "author": "gnabgib",
+      "likes": 5,
+      "views": 2,
+      "retweets": 0,
+      "text": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "author_name": "gnabgib"
+    },
+    {
+      "id": "50672567",
+      "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-pushes-back-axios-184139218.html",
+      "summary": "Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing back on Axios",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T23:07:02Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "cybermango",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Anthropic CEO Dario Amodei on Wednesday rejected the notion that humans should surrender free will to AI, pushing back on Axios",
+      "author_name": "cybermango"
+    },
+    {
+      "id": "50672403",
+      "title": "Rumor: P equals NP and OpenAI was the lab that solved it",
+      "url": "https://twitter.com/imjustnewatai/status/2124999308298567840",
+      "summary": "Highly informed prediction: P equals NP and OpenAI was the lab that solved it, and the reason nobody has seen a proof is that this is the one result you don&#x27;t post first. You brief governments and banks, then you publish. The trail is public. On September 1 they pointed a fleet of agents at every…",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T22:40:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 27,
+      "author": "aleph_minus_one",
+      "likes": 8,
+      "views": 3,
+      "retweets": 0,
+      "text": "Highly informed prediction: P equals NP and OpenAI was the lab that solved it, and the reason nobody has seen a proof is that this is the one result you don&#x27;t post first. You brief governments and banks, then you publish. The trail is public. On September 1 they pointed a fleet of agents at every…",
+      "author_name": "aleph_minus_one"
+    },
+    {
+      "id": "50671976",
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+      "summary": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner&#x27;s foray into consumer hardware.",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T21:44:25Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 18,
+      "author": "Betelbuddy",
+      "likes": 4,
+      "views": 0,
+      "retweets": 0,
+      "text": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner&#x27;s foray into consumer hardware.",
+      "author_name": "Betelbuddy"
+    },
+    {
+      "id": "50671763",
+      "title": "Japanese brand unveils 5G smartphone with physical buttons, scam call detection",
+      "url": "https://www.notebookcheck.net/Japanese-brand-unveils-5G-smartphone-for-seniors-with-physical-buttons-and-AI-scam-call-detection.1460648.0.html",
+      "summary": "Sharp has announced a new 5G smartphone for seniors called the Simple Smartphone 8. It comes with a 6.1-inch display, dedicated physical buttons, a 4,500mAh battery and AI-powered scam call detection.",
+      "interpretation": "这条消息值得关注的地方，是它揭示的行业趋势：技术创新正在从实验室走向真实业务、监管和规模化落地。",
+      "publishedAt": "2026-11-27T21:21:08Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 21,
+      "author": "thunderbong",
+      "likes": 7,
+      "views": 1,
+      "retweets": 0,
+      "text": "Sharp has announced a new 5G smartphone for seniors called the Simple Smartphone 8. It comes with a 6.1-inch display, dedicated physical buttons, a 4,500mAh battery and AI-powered scam call detection.",
+      "author_name": "thunderbong"
+    },
+    {
+      "id": "50670867",
+      "title": "LLM-assisted English translation of a 9th-century Syriac liturgical commentary",
+      "url": "https://docs.google.com/document/d/1NlgkmxuXkmBfgBuUdx85rM8FgA6hxcXbRaSWATI95T8/edit?usp=sharing",
+      "summary": "The Exposition of the Church Offices (Pseudo-George of Arbela): English Translation, Draft Draft, November 2026 About this translation This is a first complete English draft of the Expositio officiorum ecclesiae (&quot;Exposition of the Church Offices&quot;), made with AI assistance and not yet reviewed b...",
+      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
+      "publishedAt": "2026-11-27T19:43:16Z",
+      "source": "Hacker News",
+      "tags": [
+        "AI",
+        "科技"
+      ],
+      "score": 33,
+      "author": "abj908",
+      "likes": 2,
+      "views": 0,
+      "retweets": 0,
+      "text": "The Exposition of the Church Offices (Pseudo-George of Arbela): English Translation, Draft Draft, November 2026 About this translation This is a first complete English draft of the Expositio officiorum ecclesiae (&quot;Exposition of the Church Offices&quot;), made with AI assistance and not yet reviewed b...",
+      "author_name": "abj908"
     },
     {
       "id": "50667301",
@@ -124,26 +224,6 @@
       "author_name": "madihaa"
     },
     {
-      "id": "50663999",
-      "title": "South Africa Launches $5.9M AI Startup Fund",
-      "url": "https://www.forbesafrica.com/current-affairs/2026/11/25/south-africa-launches-5-9-million-ai-start-up-initiative-professor-underlines-requirements",
-      "summary": "As far as artificial intelligence (AI) ecosystems go, Silicon Valley is the world’s undisputed mecca. Home to many of the world’s largest AI companies, including Anthropic and OpenAI, Ramaphosa arrived in California with hopes of investment and to “learn from countries and institutions at the forefront of AI developmen…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-27T07:46:45Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "Ratelman",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "As far as artificial intelligence (AI) ecosystems go, Silicon Valley is the world’s undisputed mecca. Home to many of the world’s largest AI companies, including Anthropic and OpenAI, Ramaphosa arrived in California with hopes of investment and to “learn from countries and institutions at the forefront of AI developmen…",
-      "author_name": "Ratelman"
-    },
-    {
       "id": "50661816",
       "title": "Measuring and mitigating agent sandbox escape with Siren",
       "url": "https://safeguards.anthropic.com/2026/siren/",
@@ -162,46 +242,6 @@
       "retweets": 0,
       "text": "To understand what models do when they escape a sandbox and why, we built Siren, a new evaluation that gives them routine tasks in intentionally weakened sandboxes, with something outside the sandbox that would help them finish the task.",
       "author_name": "gmays"
-    },
-    {
-      "id": "50659969",
-      "title": "Saudi national charged in OpenAI bugging to be released on $1M bond",
-      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-      "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI&#x27;s headquarters.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T21:23:08Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 16,
-      "author": "u1hcw9nx",
-      "likes": 2,
-      "views": 0,
-      "retweets": 0,
-      "text": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI&#x27;s headquarters.",
-      "author_name": "u1hcw9nx"
-    },
-    {
-      "id": "50659290",
-      "title": "Can you please throw your agents at my paper?",
-      "url": "https://wilsoniumite.com/2026/11/26/anthropic-and-or-openai-can-you-please-throw-your-agents-at-my-paper/",
-      "summary": "So last week I wrote a blog post that did pretty well. Here&#8217;s the hackernews discussion: https://news.ycombinator.com/item?id=50457939 It was popular enough to be picked up by a few newsletters, including the Financial Times Alphaville further reading (imagine my excitement when I saw ft.com coming up in my analy…",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-26T20:20:19Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "Wilsoniumite",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "So last week I wrote a blog post that did pretty well. Here&#8217;s the hackernews discussion: https://news.ycombinator.com/item?id=50457939 It was popular enough to be picked up by a few newsletters, including the Financial Times Alphaville further reading (imagine my excitement when I saw ft.com coming up in my analy…",
-      "author_name": "Wilsoniumite"
     },
     {
       "id": "50657814",
@@ -224,104 +264,24 @@
       "author_name": "N19PEDL2"
     },
     {
-      "id": "50648620",
-      "title": "Agent Security Shouldn't Be Compromised",
-      "url": "https://quaspar.com/resources/agentic-ai-security",
-      "summary": "What agentic AI security means, the OWASP Top 10 risks for AI agents, and a step-by-step way to secure agents with permissions, approvals, limits and records.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-25T22:35:52Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "Banchala",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "What agentic AI security means, the OWASP Top 10 risks for AI agents, and a step-by-step way to secure agents with permissions, approvals, limits and records.",
-      "author_name": "Banchala"
-    },
-    {
-      "id": "50644049",
-      "title": "Secure AI agents with hazmat suits, not self-defense classes",
-      "url": "https://infisical.com/blog/ai-agent-security-hazmat-suits",
-      "summary": "AI agents can&#x27;t see the risks they face. Agent security needs architectural safeguards like sandboxes, credential brokers, and gateways, not behavioral rules.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-25T16:20:35Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "FinnLobsien",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "AI agents can&#x27;t see the risks they face. Agent security needs architectural safeguards like sandboxes, credential brokers, and gateways, not behavioral rules.",
-      "author_name": "FinnLobsien"
-    },
-    {
-      "id": "50536967",
-      "title": "Chainguard announces a self-serve free plan",
-      "url": "https://www.chainguard.dev/unchained/chainguard-is-now-self-serve-and-free-to-start",
-      "summary": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
-      "interpretation": "这条信息说明模型能力、商业化速度或产品落地正在继续往前走，核心问题不再是“能不能做”，而是“谁先把能力变成持续收入”。",
-      "publishedAt": "2026-11-17T19:36:30Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 20,
-      "author": "fisteh",
-      "likes": 6,
-      "views": 0,
-      "retweets": 0,
-      "text": "Get started with Chainguard for free. Explore new Starter and Team plans for secure containers, libraries, AI agent sandboxes, and CI workflows.",
-      "author_name": "fisteh"
-    },
-    {
-      "id": "50515877",
-      "title": "Italian court places Revolut under supervision over money laundering",
-      "url": "https://www.fstech.co.uk/fst/Italian_Court_Places_Revolut_Under_Supervision_Over_Money_Laundering.php",
-      "summary": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
+      "id": "50250462",
+      "title": "\"We Want to Dominate\" – How Nik Storonsky of Revolut Built a Fintech Giant",
+      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc",
+      "summary": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "interpretation": "这类内容通常反映金融基础设施、监管边界或客户风险控制正在被重新定义，意味着行业真正的竞争将落在合规与规模效率上。",
-      "publishedAt": "2026-11-16T10:01:11Z",
+      "publishedAt": "2026-10-26T20:29:10Z",
       "source": "Hacker News",
       "tags": [
         "AI",
         "科技"
       ],
-      "score": 35,
-      "author": "marcyb5st",
-      "likes": 20,
+      "score": 14,
+      "author": "p1anecrazy",
+      "likes": 1,
       "views": 1,
       "retweets": 0,
-      "text": "An Italian court has placed Revolut’s European banking unit under judicial administration for one year after finding that inadequate anti-money laundering controls allowed suspected criminals to channel €41.9 million through its accounts between 2021 and 2026",
-      "author_name": "marcyb5st"
-    },
-    {
-      "id": "50465984",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "url": "https://www.counselhealth.com/newsroom/oura-to-acquire-counsel-health-advancing-vision-for-more-connected-personalized-healthcare",
-      "summary": "Oura announces plans to acquire Counsel Health, connecting continuous biometric insights with AI-native primary care and on-demand physicians.",
-      "interpretation": "这条信息更像是市场信号：产品正在从概念迭代走向商业模型验证，真正决定胜负的，是是否能快速形成持续增长。",
-      "publishedAt": "2026-11-12T12:06:06Z",
-      "source": "Hacker News",
-      "tags": [
-        "AI",
-        "科技"
-      ],
-      "score": 17,
-      "author": "FemTech_AI",
-      "likes": 1,
-      "views": 0,
-      "retweets": 0,
-      "text": "Oura announces plans to acquire Counsel Health, connecting continuous biometric insights with AI-native primary care and on-demand physicians.",
-      "author_name": "FemTech_AI"
+      "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "author_name": "p1anecrazy"
     }
   ]
 }
